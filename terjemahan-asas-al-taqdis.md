@@ -12,9 +12,9 @@
 |---|---|
 | Tahap | Terjemahan penuh sedang berjalan |
 | Glosarium | Versi 1.0 (usulan v0.1 diberlakukan melalui instruksi "lanjut hingga tuntas kitab"); tambahan baru dicatat di 2.7 dan menunggu persetujuan eksplisit |
-| Sudah diterjemahkan | Pembuka Kitab; Bagian I seluruhnya; Bagian II: Mukadimah, Pasal 1 dan 2 |
-| Kalimat terakhir | "Maka di sini disebutlah sebab untuk mengungkapkan akibatnya (*kināya*). Allah lebih mengetahui." |
-| Posisi berikutnya | Naskah Arab: *al-Faṣl al-Thālith fī Lafẓ al-Nafs* · Naskah Turki: *Üçüncü Kısım* ("Nefs"), h. 114 |
+| Sudah diterjemahkan | Pembuka Kitab; Bagian I seluruhnya; Bagian II: Mukadimah, Pasal 1 sampai 8 |
+| Kalimat terakhir | "Kemudian, jika riwayat itu sahih, ia dibawa kepada makna pendekatan dan pengampunan. Allah lebih mengetahui." |
+| Posisi berikutnya | Naskah Arab: *al-Faṣl al-Tāsiʿ fī al-Majīʾ wa-l-Nuzūl* · Naskah Turki: *Dokuzuncu Kısım*, h. 125 |
 
 ---
 
@@ -997,3 +997,181 @@ Pertama, "sosok". Yang dimaksud adalah zat yang tertentu dan hakikat yang khusus
 Kedua, lafaz "kecemburuan". Maknanya adalah pencegahan keras, sebab kecemburuan adalah keadaan jiwa yang menuntut pencegahan dan larangan. Maka di sini disebutlah sebab untuk mengungkapkan akibatnya (*kināya*). Allah lebih mengetahui.
 
 ³⁶ CT: Muslim, *al-Li'an*, 17.
+
+### Pasal Ketiga: Tentang Lafaz "Diri" (*Nafs*)
+
+*(Tr. h. 114)*
+
+Mereka berhujah dengan Al-Qur'an dan hadis untuk memakai lafaz ini (bagi Allah). Adapun dari Al-Qur'an, firman Allah Ta'ala tentang Musa 'alaihissalam, *"Aku telah memilihmu (menjadi rasul) untuk diri-Ku."*³⁷ Dia berfirman, mengisahkan perkataan Isa 'alaihissalam, *"Engkau mengetahui apa yang ada pada diriku dan aku tidak mengetahui apa yang ada pada diri-Mu."*³⁸ Dia berfirman tentang sifat orang-orang yang diberi pahala, *"Tuhanmu telah menetapkan sifat kasih sayang pada diri-Nya."*³⁹ Dan Dia berfirman untuk menakut-nakuti para pendurhaka, *"Allah memperingatkan kamu akan diri-Nya."*⁴⁰ Adapun hadis, banyak sekali.
+
+**Hadis pertama**: diriwayatkan oleh Abu Shalih dari Abu Hurairah, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Allah Ta'ala berfirman: Aku bersama hamba-Ku ketika ia mengingat-Ku. Jika ia mengingat-Ku dalam dirinya, Aku mengingatnya dalam diri-Ku; dan jika ia mengingat-Ku di tengah khalayak, Aku mengingatnya di tengah khalayak yang lebih baik daripada mereka."*⁴¹
+
+**Hadis kedua**: sabda beliau 'alaihissalam, *"Mahasuci Allah dan dengan memuji-Nya, sebanyak bilangan makhluk-Nya, seridha diri-Nya, dan seberat Arasy-Nya."*⁴²
+
+**Hadis ketiga**: dari Abu Hurairah, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Ketika Allah telah menetapkan penciptaan, Dia menulis dalam kitab-Nya atas diri-Nya: sesungguhnya rahmat-Ku mendahului murka-Ku."*⁴³
+
+Ketahuilah, kata *nafs* dalam bahasa datang dengan beberapa makna.
+
+Pertama, badan. Allah Ta'ala berfirman, *"Setiap yang bernyawa (nafs) akan merasakan mati."*⁴⁴ Seseorang berkata, "Bagaimana keadaanmu pada dirimu?" maksudnya: bagaimana keadaanmu pada badanmu.
+
+Kedua, darah. Dikatakan, "Hewan ini memiliki *nafs* yang mengalir," yakni darah yang mengalir. Dan dikatakan tentang perempuan ketika melahirkan bahwa ia *nufisat* (bernifas), karena keluarnya darah darinya setelah melahirkan.
+
+Ketiga, ruh. Allah Ta'ala berfirman, *"Allah menggenggam nyawa (anfus) pada saat kematiannya."*⁴⁵
+
+Keempat, akal. Allah Ta'ala berfirman, *"Dialah yang menidurkan (mewafatkan) kamu pada malam hari."*⁴⁶ Sebab, seluruh keadaan tetap ada pada saat tidur kecuali akal; akallah yang keadaannya berbeda antara tidur dan jaga.
+
+Kelima, zat sesuatu dan dirinya. Allah Ta'ala berfirman, *"padahal mereka hanyalah menipu diri sendiri,"*⁴⁷ *"Bunuhlah dirimu,"*⁴⁸ dan *"tetapi merekalah yang menzalimi diri mereka sendiri."*⁴⁹
+
+Jika engkau telah mengetahui hal ini, kami katakan: lafaz *nafs* bagi Allah Ta'ala tidak lain berarti Zat dan hakikat. Maka firman-Nya, *"Aku telah memilihmu untuk diri-Ku,"*⁵⁰ semacam penegasan yang menunjukkan kelebihan kesungguhan. Sebab, apabila seseorang berkata, "Rumah ini kujadikan untuk diriku, dan kubangun untuk diriku," dipahami darinya kesungguhan. Dan firman-Nya, *"Engkau mengetahui apa yang ada pada diriku dan aku tidak mengetahui apa yang ada pada diri-Mu,"*⁵¹ maksudnya: Engkau mengetahui apa yang kuketahui, dan aku tidak mengetahui apa yang Engkau ketahui. Demikian pula halnya pada ayat-ayat lainnya.
+
+Adapun sabda beliau 'alaihissalam yang mengisahkan firman Tuhan Yang Mahaperkasa, *"Jika ia mengingat-Ku dalam dirinya, Aku mengingatnya dalam diri-Ku,"* maksudnya: jika ia mengingat-Ku sedemikian rupa sehingga tak seorang pun selain dirinya mengetahuinya, Aku mengingatnya dengan nikmat dan kebaikan-Ku tanpa diketahui oleh seorang pun dari hamba-hamba-Ku. Sebab, mengingat di dalam diri berarti perkataan yang tersembunyi dan ingatan yang terpendam di dalam jiwa, dan itu mustahil bagi Allah Ta'ala.
+
+Adapun sabdanya, *"Mahasuci Allah seberat Arasy-Nya dan seridha diri-Nya,"* maksudnya: apa yang Allah Ta'ala ridai bagi diri dan Zat-Nya, yakni tasbih yang layak bagi-Nya.
+
+Adapun sabda beliau shallallahu 'alaihi wasallam, *"Dia menulis suatu ketetapan atas diri-Nya,"* maksudnya: Dia menulis suatu ketetapan dan mewajibkan pelaksanaannya; dan yang dimaksud dengan sabdanya "atas diri-Nya" adalah penegasan dan kesungguhan dalam kewajiban dan keharusan.
+
+Maka tetaplah bahwa yang dimaksud dengan *nafs* di tempat-tempat ini adalah Zat, dan bahwa tujuan penyebutan lafaz ini adalah kesungguhan dan penegasan. Hanya kepada Allah kita memohon taufik.
+
+³⁷ CT: QS Taha [20]: 41.
+
+³⁸ CT: QS al-Ma'idah [5]: 116.
+
+³⁹ CT: QS al-An'am [6]: 54.
+
+⁴⁰ CT: QS Ali 'Imran [3]: 28.
+
+⁴¹ CT: al-Bukhari, *at-Tauhid*, 15, 43; Muslim, *adz-Dzikr*, 2, 18, 19, 21; at-Tirmidzi, *ad-Da'awat*, 131.
+
+⁴² CT: al-Bukhari, *al-Aiman*, 19, *at-Tauhid*, 58; Muslim, *ash-Shalah*, 220; Abu Dawud, *al-Adab*, 101.
+
+⁴³ CT: al-Bukhari, *at-Tauhid*, 15, 22, 55, *Bad' al-Khalq*, 1; Muslim, *at-Taubah*, 14-16.
+
+⁴⁴ CT: QS Ali 'Imran [3]: 185.
+
+⁴⁵ CT: QS az-Zumar [39]: 42.
+
+⁴⁶ CT: QS al-An'am [6]: 60.
+
+⁴⁷ CT: QS al-Baqarah [2]: 9.
+
+⁴⁸ CT: QS an-Nisa' [4]: 66.
+
+⁴⁹ CT: QS Hud [11]: 101.
+
+⁵⁰ CT: QS Taha [20]: 41.
+
+⁵¹ CT: QS al-Ma'idah [5]: 116.
+
+### Pasal Keempat: Tentang Lafaz "ash-Shamad"
+
+*(Tr. h. 117)*
+
+Allah Ta'ala berfirman, *"Allah tempat meminta segala sesuatu (ash-Shamad)."*⁵² Sebagian orang menyebutkan dalam tafsir *ash-Shamad* bahwa ia adalah jisim yang tidak berongga. Dari sini ada orang yang menyebut tutup botol *ṣimād*, dan sesuatu yang *muṣmad* berarti keras, tidak ada kelembekan padanya. Ibnu Qutaibah berkata: menurut tafsir ini, huruf *dāl* merupakan ganti dari huruf *tāʾ* (yakni dari *muṣmat*, padat). Sebagian lagi berkata: *ash-Shamad* adalah batu licin yang tidak menerima debu, tidak ada sesuatu yang masuk ke dalamnya, dan tidak ada sesuatu yang keluar darinya. Sekelompok orang bodoh dari kaum Musyabbihah berhujah dengan ayat ini untuk menetapkan bahwa Allah Ta'ala jisim.
+
+Ini batil. Sebab, telah kami jelaskan bahwa keesaan-Nya menafikan keadaan-Nya sebagai jisim; maka awal ayat ini menunjukkan bahwa yang dimaksud dengan *ash-Shamad* tidak mungkin makna ini. Lagi pula, *ash-Shamad* menurut tafsir ini adalah sifat jisim-jisim yang padat, dan Allah Mahatinggi dari hal itu. Jawabannya dari dua segi.
+
+Pertama, *ṣamad* berpola *faʿal* dengan makna *mafʿūl* (objek), dari *ṣamada ilayhi*, yakni menuju kepadanya. Maknanya: Dialah yang dituju dalam segala kebutuhan. Seorang penyair berkata:
+
+> *Ketahuilah, pembawa kabar duka datang pagi-pagi membawa berita kematian dua orang terbaik Bani Asad: 'Amr bin Mas'ud dan sang tuan yang dituju (as-sayyid ash-shamad).*
+
+Penyair lain berkata:
+
+> *Kutebas ia dengan pedangku, lalu kukatakan kepadanya: "Terimalah ini, wahai Hudzaifah, sebab engkaulah tuan yang dituju (as-sayyid ash-shamad)."*
+
+Yang menunjukkan kebenaran segi ini adalah riwayat dari Ibnu Abbas radhiyallahu 'anhu bahwa ketika ayat ini turun, orang-orang bertanya, "Apakah *ash-Shamad* itu?" Beliau shallallahu 'alaihi wasallam menjawab, "Tuan yang dituju dalam segala kebutuhan." Abul Laits berkata: *ṣamadtu ṣamda hādhā al-amr*, artinya aku menuju tujuan perkara ini.
+
+Segi kedua dalam menjawab: kami terima bahwa *ash-Shamad* dalam asal bahasanya berarti yang padat, yang tidak dimasuki sesuatu selainnya. Namun kami katakan: telah kami buktikan bahwa makna ini tidak mungkin tetap bagi Allah Ta'ala, maka lafaz ini wajib dibawa kepada makna majaznya (*majāz*, مجاز). Sebab, jisim yang demikian keadaannya bebas dari keterpisahan, perpecahan, dan keterpengaruhan oleh yang lain; sedangkan Allah Subhanahu wa Ta'ala wajib ada karena Zat-Nya, dan itu menuntut Dia tidak menerima penambahan dan pengurangan. Maka yang dimaksud dengan *ash-Shamad* bagi-Nya adalah makna ini. Hanya kepada Allah kita memohon taufik.
+
+⁵² CT: QS al-Ikhlas [112]: 2.
+
+### Pasal Kelima: Tentang Lafaz "Pertemuan" (*Liqāʾ*)
+
+*(Tr. h. 118)*
+
+Allah Ta'ala berfirman, *"(yaitu) mereka yang yakin bahwa mereka akan menemui Tuhannya,"*⁵³ berfirman, *"Siapa yang mengharapkan pertemuan dengan Tuhannya,"*⁵⁴ dan berfirman, *"Bahkan, mereka mengingkari pertemuan dengan Tuhannya."*⁵⁵ Adapun dari hadis, sabda beliau 'alaihissalam, *"Siapa yang mencintai pertemuan dengan Allah, Allah pun mencintai pertemuan dengannya."* Mereka berkata: pertemuan termasuk sifat jisim. Dikatakan, "Dua pasukan bertemu," apabila yang satu mendekati yang lain dalam tempat.
+
+Ketahuilah, karena telah tetap berdasarkan dalil bahwa Allah Ta'ala bukan jisim, wajiblah lafaz ini dibawa kepada salah satu dari dua segi.
+
+Pertama, orang yang menemui seseorang akan mencerap dan melihatnya. Maka yang dimaksud dengan pertemuan adalah penglihatan, dengan menyebut nama sebab untuk akibatnya.
+
+Kedua, apabila seseorang hadir di hadapan seorang raja dan menemuinya, ia masuk ke bawah hukum dan kekuasaannya, suatu masuk yang tak dapat ia tolak dengan siasat apa pun. Maka pertemuan itu menjadi sebab tampaknya kuasa raja atasnya dengan cara ini. Karena pada hari itu tampak kuasa, kekuatan, keperkasaan, dan dahsyatnya siksa-Nya, keadaan itu diungkapkan dengan kata pertemuan. Yang menunjukkan kebenaran perkataan kami ialah bahwa tidak ada seorang pun yang berkata bahwa zat-zat makhluk akan bertemu dengan Zat Allah Ta'ala dengan cara bersentuhan. Karena membawa kata pertemuan kepada makna bersentuhan dan berdampingan itu batil, tidak tersisa kecuali apa yang telah kami sebutkan. Hanya kepada Allah kita memohon taufik.
+
+⁵³ CT: QS al-Baqarah [2]: 46.
+
+⁵⁴ CT: QS al-Kahf [18]: 110.
+
+⁵⁵ CT: QS as-Sajdah [32]: 10.
+
+### Pasal Keenam: Tentang Lafaz "Cahaya" (*Nūr*)
+
+*(Tr. h. 120)*
+
+Allah Ta'ala berfirman, *"Allah (pemberi) cahaya (kepada) langit dan bumi. Perumpamaan cahaya-Nya seperti sebuah lubang (pada dinding) yang tidak tembus."*⁵⁶ Ibnu Khuzaimah meriwayatkan dalam kitabnya dari Thawus, dari Ibnu Abbas radhiyallahu 'anhu, bahwa Nabi shallallahu 'alaihi wasallam biasa berdoa, *"Ya Allah, bagi-Mu segala puji; Engkaulah cahaya langit dan bumi serta siapa pun yang ada di dalamnya, maka bagi-Mu segala puji; Engkaulah penegak langit dan bumi serta siapa pun yang ada di dalamnya."*⁵⁷
+
+Ketahuilah, tidak sah dikatakan bahwa Allah Ta'ala adalah cahaya indrawi yang ditangkap oleh mata ini. Hal itu ditunjukkan oleh beberapa segi.
+
+Pertama, Allah Ta'ala berfirman bahwa Dia adalah cahaya langit dan bumi (dengan menyandarkannya kepada langit dan bumi). Seandainya Dia cahaya pada Zat-Nya, penyandaran ini tidak berfaedah.
+
+Kedua, seandainya keadaan Allah Ta'ala sebagai cahaya langit dan bumi bermakna sinar indrawi, niscaya tidak ada kegelapan sama sekali di bagian mana pun dari langit dan bumi, sebab Allah Ta'ala kekal, senantiasa ada dan tidak pernah lenyap.
+
+Ketiga, seandainya Allah Ta'ala cahaya dalam arti sinar, niscaya Dia mencukupi (makhluk) dari sinar matahari, bulan, dan api; padahal indra menunjukkan kebalikannya.
+
+Keempat, Allah Ta'ala telah menghilangkan syubhat ini dengan firman-Nya, *"Perumpamaan cahaya-Nya."*⁵⁸ Dia menyandarkan cahaya kepada diri-Nya. Seandainya Allah Ta'ala adalah cahaya itu sendiri dan zatnya, mustahillah penyandaran ini, sebab menyandarkan sesuatu kepada dirinya sendiri itu mustahil. Demikian pula firman-Nya, *"Allah memberi petunjuk menuju cahaya-Nya kepada orang yang Dia kehendaki."*
+
+Kelima, Allah Ta'ala berfirman, *"dan menjadikan gelap dan terang."*⁵⁹ Dengan ini jelaslah bahwa Allah Ta'ala adalah Pencipta cahaya-cahaya.
+
+Keenam, cahaya lenyap oleh kegelapan. Seandainya Allah Ta'ala adalah cahaya indrawi ini sendiri, niscaya Dia menerima ketiadaan, dan itu merusak keadaan-Nya sebagai Yang Qadim dan Wajib Ada.
+
+Ketujuh, jisim-jisim semuanya serupa, sebagaimana telah ditetapkan sebelumnya. Kemudian, setelah kesamaannya dalam esensi, engkau melihatnya berbeda dalam terang dan gelap. Maka wajiblah sinar itu aksiden yang melekat pada jisim-jisim, sedangkan aksiden mustahil menjadi Tuhan.
+
+Maka tetaplah dengan segi-segi ini bahwa cahaya tidak mungkin dibawa kepada makna yang mereka sebutkan. Maknanya adalah bahwa Dia pemberi petunjuk bagi penghuni langit dan bumi, atau bahwa Dia yang menerangi langit dan bumi dengan cara yang paling baik dan pengaturan yang paling sempurna, sebagaimana dikatakan, "Si Fulan adalah cahaya negeri ini," apabila ia menjadi sebab kebaikannya. Sebagian qari membaca: *"Allah menerangi (nawwara) langit dan bumi."*ᵃ Hanya kepada Allah kita memohon taufik.
+
+⁵⁶ CT: QS an-Nur [24]: 35.
+
+⁵⁷ CT: al-Bukhari, *at-Tahajjud*, 1, *ad-Da'awat*, 9, *at-Tauhid*, 8, 24, 35; Muslim, *Shalat al-Musafirin*, 199; Abu Dawud, *al-Witr*, 25.
+
+⁵⁸ CT: QS an-Nur [24]: 35.
+
+⁵⁹ CT: QS al-An'am [6]: 1.
+
+ᵃ CP: Lafaz qiraah dalam naskah Arab rusak (tertulis لله نورالسموات). Yang dimaksud tampaknya qiraah *Allāhu nawwara al-samāwāti wa-l-arḍa* dalam bentuk kata kerja, sebagaimana konteksnya menuntut.
+
+### Pasal Ketujuh: Tentang "Hijab" (*Ḥijāb*)
+
+*(Tr. h. 122)*
+
+Allah Ta'ala berfirman, *"Sekali-kali tidak! Sesungguhnya mereka pada hari itu benar-benar terhalang dari Tuhan mereka."*⁶⁰ Mereka berkata: hijab tidak dapat dipahami kecuali pada jisim-jisim. Mereka juga berpegang pada banyak hadis.
+
+**Hadis pertama**: diriwayatkan oleh penulis *Syarh as-Sunnah* rahimahullah dalam bab bantahan terhadap Jahmiyah. Ia berkata: Rasulullah shallallahu 'alaihi wasallam berdiri di tengah kami dan menyampaikan lima kalimat. Beliau bersabda, *"Sesungguhnya Allah Ta'ala tidak tidur dan tidak layak bagi-Nya tidur. Dia merendahkan timbangan dan mengangkatnya. Amal malam diangkat kepada-Nya sebelum amal siang, dan amal siang sebelum amal malam. Hijab-Nya adalah cahaya; seandainya Dia menyingkapnya, niscaya kemilau cahaya wajah-Nya membakar makhluk-Nya sejauh pandangan-Nya menjangkau."*⁶¹ Penulis itu berkata: hadis ini diterima oleh dua syekh (al-Bukhari dan Muslim). Sabdanya "Dia merendahkan timbangan dan mengangkatnya" maksudnya bahwa Dia memelihara keadilan dalam amal hamba-hamba-Nya, sebagaimana firman Allah Ta'ala, *"Kami tidak menurunkannya, kecuali dengan ukuran tertentu."*⁶²
+
+**Hadis kedua**: diriwayatkan dalam kitab-kitab yang masyhur dari Nabi shallallahu 'alaihi wasallam, *"Sesungguhnya Allah Ta'ala memiliki tujuh puluh hijab dari cahaya; seandainya Dia menyingkapnya, niscaya kemilau cahaya wajah-Nya membakar segala sesuatu yang dijangkau pandangan-Nya."*⁶³
+
+**Hadis ketiga**: diriwayatkan dalam tafsir firman Allah Ta'ala, *"Bagi orang-orang yang berbuat baik ada pahala yang terbaik (surga) dan tambahannya,"*⁶⁴ bahwa Allah Ta'ala mengangkat hijab, lalu mereka memandang wajah-Nya Ta'ala.
+
+Ketahuilah, pembahasan tentang ayat tersebut ialah bahwa kalangan kami, semoga Allah merahmati mereka, berkata: boleh dikatakan bahwa Allah Ta'ala *muḥtajib* (berhijab, menutup diri) dari makhluk, tetapi tidak boleh dikatakan bahwa Dia *maḥjūb* (terhijab, terhalang) dari mereka. Sebab, kata *iḥtijāb* mengisyaratkan kekuatan dan kuasa, sedangkan *ḥajb* mengisyaratkan kelemahan dan kehinaan. Dikatakan, "Sultan menutup diri dari hamba-hambanya," dan dikatakan, "Si Fulan terhalang dari masuk menemui sultan." Hakikat hijab bagi Allah Ta'ala mustahil, sebab hijab adalah jisim yang berada di antara dua jisim lain. Menurut kami, ia dibawa kepada makna bahwa Allah Ta'ala tidak menciptakan di mata (mereka) penglihatan yang bertaut dengan-Nya; sedangkan menurut orang yang mengingkari ru'yah, ia dibawa kepada makna bahwa Allah Ta'ala mencegah sampainya jejak kebaikan dan karunia-Nya kepada seseorang.
+
+Adapun hadis pertama, yaitu sabda beliau 'alaihissalam, *"Hijab-Nya adalah cahaya,"* ketahuilah bahwa segala sesuatu yang diandaikan memberi pengaruh pada sesuatu yang lain, maka setiap kesempurnaan yang terdapat pada pengaruh itu diperoleh dari pemberi pengaruh. Tidak diragukan bahwa tetapnya kesempurnaan itu pada pemberi pengaruh lebih patut, lebih kuat, dan lebih sempurna daripada tetapnya pada pengaruh. Tidak diragukan pula bahwa pemberi seluruh kesempurnaan adalah al-Haqq Ta'ala, dan seluruh kesempurnaan hal-hal yang mungkin, dibandingkan dengan kesempurnaan Allah Ta'ala, bagaikan ketiadaan. Tidak diragukan bahwa seluruh hal yang mungkin tidak lain adalah alam jisim dan alam ruh. Tidak diragukan bahwa seluruh kesempurnaan alam unsur, dibandingkan dengan kesempurnaan alam falak, bagaikan ketiadaan; lalu kesempurnaan keadaan seperempat bumi yang dihuni, dibandingkan dengan kesempurnaan unsur-unsur, bagaikan ketiadaan; lalu kesempurnaan individu tertentu, dibandingkan dengan kesempurnaan seperempat bumi yang dihuni, bagaikan ketiadaan. Maka tampaklah dari sini bahwa kesempurnaan seorang manusia tertentu, dibandingkan dengan kesempurnaan Allah Ta'ala, lebih patut lagi dikatakan bagaikan ketiadaan. Tidak diragukan bahwa ruh manusia sendirian tidak sanggup menerima kesempurnaan itu dan tidak mungkin menyaksikannya; bahkan ruh-ruh manusia luluh pada tingkatan terendah dari tingkatan-tingkatan kesempurnaan itu. Inilah yang dimaksud dengan sabda beliau shallallahu 'alaihi wasallam, *"Seandainya Dia menyingkapnya, niscaya kemilau cahaya wajah-Nya membakar segala sesuatu yang dijangkau pandangan-Nya."*
+
+⁶⁰ CT: QS al-Muthaffifin [83]: 15.
+
+⁶¹ CT: Muslim, *al-Iman*, 293, 295; Ibnu Majah, *al-Muqaddimah*, 13; Ahmad bin Hanbal, IV/395, 401, 405, 550.
+
+⁶² CT: QS al-Hijr [15]: 21.
+
+⁶³ CT: Muslim, *al-Iman*, 293; Ibnu Majah, *al-Muqaddimah*, 13; Ahmad bin Hanbal, IV/401, 405.
+
+⁶⁴ CT: QS Yunus [10]: 26.
+
+### Pasal Kedelapan: Tentang "Kedekatan" (*Qurb*)
+
+*(Tr. h. 124)*
+
+Allah Ta'ala berfirman, *"Kami lebih dekat kepadanya daripada urat lehernya."*⁶⁵ Nabi shallallahu 'alaihi wasallam bersabda, mengisahkan firman Allah, *"Siapa yang mendekat kepada-Ku sejengkal, Aku mendekat kepadanya sehasta; siapa yang mendekat kepada-Ku sehasta, Aku mendekat kepadanya sedepa; dan siapa yang datang kepada-Ku dengan berjalan, Aku datang kepadanya dengan berlari-lari kecil."*⁶⁶ Al-Ustadz Ibnu Furak rahimahullah meriwayatkan dalam kitab *al-Mutasyabihat* dari Ibnu Umar radhiyallahu 'anhuma, dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Seorang mukmin didekatkan kepada Tuhannya pada hari kiamat hingga al-Jabbar meletakkan naungan-Nya (kanaf) atasnya, lalu ia mengakui dosa-dosanya. Ia berkata, 'Aku mengakui,' tiga kali. Lalu Allah Ta'ala berfirman, 'Sungguh, Aku telah menutupinya bagimu di dunia, dan sungguh Aku mengampuninya bagimu.' Lalu diberikan kepadanya lembaran kebaikannya. Adapun orang-orang kafir dan munafik, mereka diseru di hadapan para saksi: 'Inilah orang-orang yang telah berdusta terhadap Tuhan mereka.'"*⁶⁷
+
+Ketahuilah, yang dimaksud dengan kedekatan dan kehampiran-Nya adalah kedekatan dan kehampiran rahmat-Nya kepada hamba. Adapun sabdanya, "al-Jabbar meletakkan naungan-Nya atasnya," ini pun diambil dari makna kedekatan rahmat. Dikatakan, "Aku berada dalam *kanaf* si Fulan," yakni dalam limpahan nikmatnya. Adapun riwayat sebagian orang, "al-Jabbar meletakkan bahu-Nya (katif)," mereka sepakat bahwa itu salah tulis (*taṣḥīf*), dan para perawi telah menetapkannya dengan huruf *nūn*. Kemudian, jika riwayat itu sahih, ia dibawa kepada makna pendekatan dan pengampunan. Allah lebih mengetahui.
+
+⁶⁵ CT: QS Qaf [50]: 16.
+
+⁶⁶ CT: Ahmad bin Hanbal, III/40.
+
+⁶⁷ CT: al-Bukhari, *al-Mazhalim*, 20; Ibnu Majah, *al-Muqaddimah*, 13; Ahmad bin Hanbal, II/74.
