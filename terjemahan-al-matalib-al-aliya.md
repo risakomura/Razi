@@ -12,9 +12,9 @@
 | Butir | Keterangan |
 |---|---|
 | Tahap | Penerjemahan berjalan: Kitab Pertama, Bagian Pertama |
-| Sudah diterjemahkan | Pembuka; Mukadimah (Pasal 1 sampai 4); Kitab Pertama: Persiapan, Bagian Pertama Pengantar, Pasal 1 sampai 4 |
-| Posisi berikutnya | Kitab Pertama, Bagian Pertama, Pasal Kelima (Tr. h. 72; berkas Turki baris 864; berkas Arab baris 10381) |
-| Nomor catatan terakhir | CT: t11 · CA: a232 · CP: p10 |
+| Sudah diterjemahkan | Pembuka; Mukadimah (Pasal 1 sampai 4); Kitab Pertama: Persiapan, Bagian Pertama Pengantar, Pasal 1 sampai 5 |
+| Posisi berikutnya | Kitab Pertama, Bagian Pertama, Pasal Keenam (berkas Turki baris 940; berkas Arab baris 10428) |
+| Nomor catatan terakhir | CT: t19 · CA: a255 · CP: p10 |
 | Catatan Kashshāf baru | istiqra, tasdiq, basira, riyada, maad, iqnai, tali |
 
 ---
@@ -1194,3 +1194,107 @@ Jawaban kedua juga lemah, karena pembicaraan tentang hilangnya syarat itu sama d
 [^a232]: CA: Naskah S: "yang mungkin" tanpa "yang baharu". Catatan lain di tempat ini sebagian tidak terbaca.
 
 Inilah seluruh syubhat orang-orang yang menafikan pemberian pengaruh dan akibat.
+
+### Pasal Kelima {.pasal-ke}
+
+### Jawaban atas Syubhat-Syubhat Orang yang Berpendapat bahwa Keunggulan Salah Satu Sisi yang Mungkin Tidak Bergantung pada Penentu Keunggulan {.judul-pasal}
+
+[Tr. h. 72]{.penanda}
+
+**Jawaban atas syubhat pertama**, yaitu ucapan mereka, "Seandainya kemungkinan menyebabkan kebutuhan kepada pemberi pengaruh, niscaya yang bertahan, dalam keadaan bertahannya, membutuhkan pemberi pengaruh." Kami katakan dalam menjawabnya: tidak ada perselisihan tentang premis pertama. Namun mengapa kalian katakan bahwa yang bertahan[^t12] tidak membutuhkan pemberi pengaruh? Tentang ucapannya, "Karena hal itu mengharuskan penghasilan yang sudah dihasilkan, dan itu mustahil", kami katakan: jika dengan ucapan ini kalian maksudkan bahwa bagi yang sudah dihasilkan niscaya terjadi penghasilan yang lain, hal ini tidak niscaya, sebab dengan pengandaian ini penghasilan kedua itu adalah penghasilan baru, sehingga pengaruh pemberi pengaruh ada pada yang baharu, bukan pada yang bertahan; padahal pembicaraan kita adalah tentang pemberi pengaruh yang memberi pengaruh pada yang bertahan itu sendiri.[^t13] Dan jika dengan ucapan ini kalian maksudkan bahwa keberadaan itu sendiri[^a233] terjadi karena pengaruh dan penciptaan pemberi pengaruh itu, tanpa membayangkan bahwa bagi yang sudah dihasilkan itu terjadi penghasilan kedua, hal ini benar dan tepat menurut kami. Lalu mengapa kalian katakan bahwa perkaranya tidak demikian?[^a234]
+
+[^t12]: CT: Dalam naskah cetak tertulis *al-thānī* (yang kedua), sedangkan dalam naskah Perpustakaan Süleymaniye, koleksi M. Ragıp Paşa no. 810, tertulis *al-bāqī* (yang bertahan). Terjemahan mengikuti naskah tulisan tangan.
+
+[^t13]: CT: Karena teks dalam naskah cetak keliru, terjemahan berpedoman pada redaksi naskah Perpustakaan Süleymaniye, koleksi M. Ragıp Paşa no. 810: *wa-kalāmunā fīmā idhā kāna al-muʾaththir muʾaththiran fī nafs al-bāqī* (padahal pembicaraan kita adalah tentang pemberi pengaruh yang memberi pengaruh pada yang bertahan itu sendiri).
+
+[^a233]: CA: Naskah S: "selain" (*ghayr*) sebagai ganti "itu sendiri" (*ʿayn*).
+
+[^a234]: CA: Kalimat "tanpa membayangkan … perkaranya tidak demikian" ditambahkan dari naskah N. Catatan lain di tempat ini: naskah S membaca *kulluh* (seluruhnya).
+
+**Jawaban atas syubhat kedua**, yaitu ucapan mereka, "Pengaruh pemberi pengaruh adakalanya dalam keadaan akibat ada, adakalanya dalam keadaan akibat tiada." Kami katakan: justru dalam keadaan akibat ada. Tentang ucapannya, "Maka niscaya terjadi pengadaan yang sudah ada, dan itu mustahil", kami katakan: jika yang engkau maksud dengan pengadaan yang sudah ada adalah menjadikannya ada dua kali,[^a235] hal itu tidak niscaya. Dan jika yang engkau maksud adalah bahwa wujud yang terjadi ini hanya terjadi[^a236] karena pengaruh pemberi pengaruh ini padanya, itulah mazhab kami yang tidak ada kebenaran selainnya. Lalu mengapa kalian katakan bahwa hal itu mustahil?
+
+[^a235]: CA: Naskah N: "dua kali" (*marratayn*); teks cetak membaca "dari dua hal".
+
+[^a236]: CA: Frasa "hanya terjadi" ditambahkan dari naskah S.
+
+**Jawaban atas syubhat ketiga**, yaitu ucapan mereka, "Kebutuhan akibat kepada pemberi pengaruh adakalanya sifat positif, adakalanya sifat yang bersifat ketiadaan." Kami katakan: mengapa tidak boleh ia berupa pengertian yang bersifat ketiadaan? Tentang ucapannya, "Keberadaannya sebagai yang membutuhkan adalah kebalikan dari ucapan kita bahwa ia tidak membutuhkan", kami katakan: ucapan ini mengharuskan kalian[^a237] menerima bahwa ketiadaan adalah wujud. Sebab keberadaan ketiadaan sebagai kebalikan dan lawan wujud adalah sifat eksistensial, dengan bukti bahwa keberadaannya sebagai bukan kebalikan dan bukan lawan wujud adalah sifat yang bersifat ketiadaan. Bila bukan-kebalikan dan bukan-lawan adalah sifat yang bersifat ketiadaan, keberadaannya sebagai kebalikan dan lawan pasti sifat eksistensial. Dan bila sifat ini eksistensial, padahal ia dipredikasikan kepada ketiadaan,[^a238][^t14] sebab tidak ada perselisihan bahwa ketiadaan adalah kebalikan dan lawan wujud, maka niscaya ketiadaan disifati dengan sifat yang maujud, dan yang disifati dengan sifat yang maujud adalah maujud; sehingga ketiadaan niscaya maujud, dan itu mustahil. Segala yang mereka sebutkan untuk menjawab uraian ini adalah persis jawaban kami atas syubhat yang disebutkan itu.
+
+[^a237]: CA: Naskah S: "mengharuskan pengetahuan" (*ʿilm*) sebagai ganti "mengharuskan kalian" (*ʿalaykum*).
+
+[^a238]: CA: Frasa "padahal ia dipredikasikan kepada ketiadaan … lawan wujud" ditambahkan dari naskah N.
+
+[^t14]: CT: Dalam naskah cetak tertulis *maḥmūl al-ʿadam*, sedangkan dalam naskah M. Ragıp Paşa no. 810 tertulis *maḥmūl ʿalā al-ʿadam* (dipredikasikan kepada ketiadaan). Terjemahan mengikuti naskah tulisan tangan.
+
+**Jawaban atas syubhat keempat**, yaitu ucapan mereka,[^a239] "Menghukumi sesuatu sebagai yang membutuhkan menuntut bahwa yang dihukumi membutuhkan itu mendahului kebutuhan itu dan sekaligus terkemudian darinya." Kami katakan: anggaplah kebutuhan kepada sesuatu adalah pengertian yang menjadi sasaran keraguan dan syubhat; namun keberadaan sesuatu sebagai yang terjadi setelah tiada adalah hal yang diketahui secara niscaya, sebab kita menyaksikan cahaya terjadi setelah kegelapan dan panas terjadi setelah dingin. Kami katakan: apa yang kalian sebutkan dalam menguraikan syubhat ini berlaku pula persis pada kebaharuan. Sebab sesuatu itu disifati dengan kebaharuan, dan yang disifati mendahului sifat dalam urutan martabat, padahal ia juga menuntut bahwa sesuatu itu terkemudian darinya, karena ia ada setelah sebelumnya tidak ada. Sebagaimana syubhat ini tidak menghalangi pengakuan akan kebaharuan secara umum,[^a240] karena keberadaannya diketahui dengan indra, ia pun tidak semestinya menghalangi pengakuan akan adanya kebutuhan.
+
+[^a239]: CA: Naskah S: "ucapan mereka" dengan bentuk *qawluhum* sebagai ganti *qawlukum*.
+
+[^a240]: CA: Naskah S: "hikmah" (*al-ḥikma*) sebagai ganti "secara umum" (*fī al-jumla*).
+
+**Jawaban atas syubhat kelima**, yaitu ucapan mereka, "Yang membutuhkan pemberi pengaruh adakalanya esensi, wujud, atau keadaan esensi disifati dengan wujud." Kami katakan: kesulitan ini berlaku pula pada kebaharuan. Sebab dapat dikatakan: seandainya sesuatu terjadi, yang terjadi itu adakalanya esensi, wujud, atau keadaan esensi disifati dengan wujud, dan semuanya batil karena segi-segi yang kalian sebutkan dalam menguraikan syubhat ini. Ini menuntut bahwa udara[^a241] tidak menjadi terang setelah sebelumnya gelap, dan manusia tidak berdiri setelah sebelumnya duduk. Sebagaimana hal ini batil, demikian pula apa yang kalian sebutkan.
+
+[^a241]: CA: Naskah S: "udara" (*al-hawāʾ*); teks cetak membaca "cahaya" (*al-nūr*).
+
+**Jawaban atas syubhat keenam**, yaitu ucapan mereka, "Yang dihukumi membutuhkan adakalanya sederhana, adakalanya tersusun." Kami katakan: mengapa tidak boleh ia sederhana? Menurut kami, hitam menjadi hitam hanya karena pelaku, dan substansi menjadi substansi hanya karena pelaku. Tentang ucapannya, "Sebab kebutuhan adalah kemungkinan, dan kemungkinan adalah sifat nisbi, sedangkan nisbah tidak mungkin terjadi pada hal-hal tunggal", kami katakan: yang kami maksud (dengan kemungkinan hal sederhana) adalah bahwa bertahannya tidak mustahil dan tidak mustahil pula[^a242] lenyapnya; dan kami tidak menerima bahwa kemungkinan dengan penafsiran ini tidak melekat pada hal-hal sederhana. Jika mereka berkata, "Ucapan orang bahwa hitam, sejauh ia hitam, tidak mustahil[^a243] bertahan dan tidak mustahil lenyap, tidak memenuhi maksud kalian, sebab apa yang kalian sebutkan menuntut hitam dihukumi dengan kemungkinan bertahan pada suatu saat dan dengan kemungkinan lenyap pada saat lain, sedangkan pengertian keberadaan hitam sebagai hitam berlainan dengan pengertian bertahan dan lenyap; jadi apa yang kalian sebutkan justru menunjukkan bahwa kemungkinan mustahil terjadi pada esensi yang sederhana", kami katakan: ini berpegang pada lafaz semata. Yang dimaksud dengan kemungkinan adalah keadaan sesuatu pada dirinya sedemikian rupa sehingga identitasnya sah untuk bertahan dan sah untuk tidak bertahan. Tidak diragukan bahwa yang dihukumi mungkin dengan pengertian yang dinamai kemungkinan ini[^t15] adalah hal tunggal, bukan tersusun.
+
+[^a242]: CA: Frasa "bertahannya dan tidak mustahil pula" ditambahkan dari naskah L.
+
+[^a243]: CA: Frasa "hitam tidak mustahil" ditambahkan dari salah satu naskah. Catatan lain di sini: naskah S membaca "ucapannya" (*qawluh*).
+
+[^t15]: CT: Terjemahan tidak berpedoman pada ungkapan *bi-l-imkān* dalam naskah cetak, tetapi pada ungkapan *al-musammā bi-l-imkān* (yang dinamai kemungkinan) dalam naskah M. Ragıp Paşa no. 810.
+
+**Jawaban atas syubhat ketujuh**, yaitu ucapan mereka, "Pendapat tentang adanya sesuatu yang memberi pengaruh pada sesuatu yang lain menuntut pemberian pengaruh itu berlainan dengan zat pemberi pengaruh dan zat akibat, dan itu mengharuskan regresi tak berhingga." Kami katakan[^a244] dalam menjawabnya: telah kami sebutkan[^a245] bahwa pembagian seperti yang kalian sebutkan berlaku pada hal-hal yang keberadaannya diketahui secara niscaya, sehingga pembagian itu batil. Tentang ucapannya, "Bila kalian menerima adanya uraian yang sahih bentuknya dan sahih materinya padahal kesimpulannya batil, kalian tidak dapat berdalil dengan dalil apa pun atas kebenaran tuntutan apa pun", kami katakan: kami tidak menerima kebenaran segi-segi yang disebutkan dalam pembagian itu. Kami mengemukakan sanggahan-sanggahan ini hanya untuk menunjukkan bahwa pembagian yang kalian sebutkan mengandung premis-premis yang rusak.
+
+[^a244]: CA: Naskah S: "kami jawab" (*qulnā*).
+
+[^a245]: CA: Naskah S: "telah kami sebutkan" dengan kata *dhakarnā* sebagai ganti *awradnā*.
+
+**Jawaban atas syubhat kedelapan**, yaitu ucapan mereka, "Seandainya kemungkinan adalah sebab kebutuhan, niscaya yang tiada, dalam keadaan tiadanya, membutuhkan pemberi pengaruh." Kami katakan: mengapa tidak boleh dikatakan bahwa kemungkinan adalah sebab kebutuhan wujud yang mungkin kepada pemberi pengaruh? Bila demikian, uraian ini tidak mengharuskan ketiadaan yang mungkin membutuhkan pemberi pengaruh. Anggaplah kemungkinan adalah sebab kebutuhan pada kedua sisi; namun mengapa tidak boleh dikatakan bahwa sebab ketiadaannya adalah ketiadaan sebab?[^a246] Tentang ucapannya, "Keadaan sebagai sebab adalah sifat positif", kami katakan: kami tidak menerimanya. Tentang ucapannya, "Karena ia adalah kebalikan dari pengertian ucapan kita 'ia bukan sebab'", kami katakan: hal ini dibatalkan oleh ucapan kita, "Ketiadaan adalah kebalikan dan lawan wujud." Jika apa yang kalian sebutkan menunjukkan pendapat kalian, niscaya dikatakan bahwa keberadaan ketiadaan sebagai kebalikan wujud adalah sifat yang maujud, sehingga ketiadaan disifati dengan sifat yang maujud; dan yang demikian adalah maujud, sehingga ketiadaan niscaya menjadi wujud murni, dan itu mustahil.
+
+[^a246]: CA: Naskah S menambahkan keterangan "yakni sebab" (*ay al-ʿilla*) di tempat ini.
+
+**Jawaban atas syubhat kesembilan**, yaitu ucapan mereka, "Seandainya yang mungkin membutuhkan pemberi pengaruh, manusia tidak bebas memilih dalam perbuatannya." Kami katakan: mengapa tidak boleh dikatakan bahwa ia terpaksa dalam pilihannya itu? Tafsirnya: Allah Ta'ala menciptakan pilihan itu padanya, kemudian pilihan itu meniscayakan perbuatan tersebut, atau menjadi bagian dari yang meniscayakan, atau syarat bagi yang meniscayakan. Tentang ucapannya, "Dengan pengandaian ini niscaya terjadi paksaan (*jabr*), dan niscaya batal perintah dan larangan, pahala dan hukuman", kami katakan: kami tidak menerima bahwa apa yang kalian sebutkan itu niscaya. Sebab pahala dan hukuman, menurut para filsuf, adalah keadaan-keadaan yang niscaya timbul dari adanya amal-amal yang lalu, sebagaimana akan dijelaskan secara tuntas uraian ini[^a247] dalam bab-bab tentang tempat kembali.[^t16]
+
+[^a247]: CA: Kata "ini" (*hādhā*) ditambahkan dari naskah Z.
+
+[^t16]: CT: Pengarang wafat sebelum menulis bagian tentang akhirat.
+
+**Jawaban atas syubhat kesepuluh**, yaitu ucapan mereka, "Orang yang lari dari binatang buas memilih salah satu dari dua jalan tanpa penentu keunggulan." Kami katakan: kami tidak menerima bahwa di situ tidak ada penentu keunggulan. Penjelasannya dari dua segi. Pertama, geraknya menuju salah satu dari kedua tempat, bukan yang lain. Kedua, kehendaknya terhadap salah satu dari kedua gerak, bukan yang lain. Dan kami tidak mengatakan bahwa kehendak itu terjadi karena kehendak lain sebelumnya, sebab jika demikian niscaya terjadi regresi tak berhingga; kehendak itu justru terjadi dalam kalbunya karena sebab-sebab luhur yang perinciannya tidak kita ketahui.
+
+**Jawaban atas syubhat kesebelas**, yaitu ucapan mereka, "Pendapat[^a248] tentang kebutuhan yang mungkin kepada pemberi pengaruh merusak keberadaannya sebagai yang mungkin." Kami katakan: uraian yang kalian sebutkan ini merusak wujud yang mungkin, baik kita berpendapat bahwa ia membutuhkan pemberi pengaruh maupun tidak. Penjelasannya: yang dihukumi mungkin adakalanya maujud, adakalanya tiada. Jika maujud, wujudnya menafikan ketiadaannya dan menafikan kemungkinan ketiadaannya; demikian pula halnya pada sisi ketiadaan. Maka segala yang layak menjadi dalih terhadap hal ini, layak pula menjadi dalih[^a249] terhadap apa yang kalian sebutkan.
+
+[^a248]: CA: Kata "pendapat" (*al-qawl*) ditambahkan dari naskah S.
+
+[^a249]: CA: Frasa "terhadap hal ini, layak pula menjadi dalih" ditambahkan dari naskah S.
+
+**Jawaban atas syubhat kedua belas**, yaitu ucapan mereka, "Pemberi pengaruh, beserta segala yang diperlukan untuk terjadinya keadaan sebagai pemberi pengaruh, adakalanya dikatakan sudah ada sebelum terjadinya peristiwa baharu ini, adakalanya belum." Kami katakan: mengapa tidak boleh dikatakan bahwa zat pemberi pengaruh sudah ada, tetapi berakhirnya maujud yang ada sebelumnya merupakan syarat bagi melimpahnya peristiwa baharu ini darinya? Demikianlah melimpahnya setiap peristiwa baharu disyarati oleh berakhirnya peristiwa baharu yang ada sebelumnya, sebagaimana pendapat para filsuf.
+
+**Jawaban atas syubhat ketiga belas**, yaitu ucapan mereka, "Dari tiadanya akibat niscaya tiada pula pemberi pengaruh, sehingga Prinsip Pertama niscaya mungkin karena zat-Nya." Kami katakan: benar bahwa ketika akibat tiada, niscaya pemberi pengaruh tiada.[^a250] Yang tidak benar adalah bahwa tiadanya pemberi pengaruh terjadi karena tiadanya akibat, sebab akibat itu mengikuti (*tābiʿ*), dan yang mengikuti tidak menjadi yang diikuti (*matbūʿ*), baik pada sisi wujud maupun pada sisi ketiadaan. Tentang ucapannya, "Anggaplah perkaranya demikian; namun uraian ini menuntut bahwa setiap kali akibat hilang, pemberi pengaruh telah hilang lebih dahulu, dan itu menuntut pemberi pengaruh dapat hilang", kami katakan: hilangnya akibat kadang karena hilangnya pemberi pengaruh itu sendiri, dan kadang karena hilangnya salah satu keadaan pemberi pengaruh yang menjadi syarat bagi munculnya akibat dari pemberi pengaruh. Menurut para filsuf, munculnya setiap akibat[^a251] yang baharu dari pemberi pengaruh yang qadim disyarati oleh berakhirnya peristiwa baharu lain yang ada sebelumnya, dan demikian seterusnya tanpa titik awal.
+
+[^a250]: CA: Frasa "niscaya pemberi pengaruh tiada" ditambahkan dari naskah S.
+
+[^a251]: CA: Kata "akibat" (*athar*) ditambahkan dari naskah S.
+
+**Jawaban atas syubhat keempat belas**, yaitu ucapan mereka, "Terkhususnya titik tertentu sebagai kutub menurut filsuf, dan terkhususnya waktu tertentu bagi terjadinya alam menurut mutakalim, meniscayakan keunggulan salah satu sisi yang mungkin tanpa penentu keunggulan." Kami katakan: tertentunya titik tertentu sebagai kutub mengikuti gerak tertentu; sedangkan terjadinya gerak tertentu itu, sebabnya mungkin bahwa materi falak tertentu itu hanya menerima jenis gerak tertentu tersebut. Ini menurut pendapat filsuf.
+
+**Jawaban atas syubhat kelima belas**, yaitu ucapan mereka, "Seandainya sesuatu memberi pengaruh pada sesuatu, pemberi pengaruh itu memberi pengaruh pada akibat adakalanya karena pertimbangan keberadaannya sebagai pemberi pengaruh padanya, adakalanya tidak karena pertimbangan itu."[^a252] Kami katakan: yang benar, ia memberi pengaruh bukan karena pertimbangan keberadaannya sebagai pemberi pengaruh padanya, melainkan ia memberi pengaruh karena zat khususnya; jadi zat pemberi pengaruh[^t17] meniscayakan terjadinya akibat. Kemudian, ketika zat akibat terjadi, terjadilah dua relasi yang melekat pada kedua zat itu,[^t18] yaitu keberadaan yang satu sebagai pemberi pengaruh pada yang lain dan keberadaan yang lain sebagai akibat dari yang pertama.
+
+[^a252]: CA: Frasa "adakalanya tidak karena pertimbangan itu. Kami katakan: yang benar, ia memberi pengaruh bukan karena pertimbangan keberadaannya sebagai pemberi pengaruh padanya" ditambahkan dari naskah S.
+
+[^t17]: CT: Dalam naskah cetak tertulis *al-athar* (akibat), sedangkan dalam naskah Perpustakaan Konya Yusuf Ağa no. 692 tertulis *al-muʾaththir* (pemberi pengaruh). Terjemahan mengikuti naskah tulisan tangan.
+
+[^t18]: CT: Dalam naskah cetak tertulis *li-l-dhāt* (bagi zat), sedangkan dalam naskah M. Ragıp Paşa no. 810 tertulis *li-l-dhātayn* (bagi kedua zat). Terjemahan mengikuti naskah tulisan tangan.
+
+**Jawaban atas syubhat keenam belas**, yaitu ucapan mereka, "Yang mungkin, selama belum menjadi wajib muncul dari pemberi pengaruh, tidak akan ada." Kami katakan: ini benar; namun kewajiban itu adalah sifat bagi zat pemberi pengaruh, bukan bagi zat akibat. Tafsirnya: selama pemberi pengaruh belum menjadi sedemikian rupa sehingga pengaruhnya pada akibat itu wajib,[^a253] akibat itu tidak muncul darinya. Dengan tafsir ini gugurlah syubhat yang mereka sebutkan.
+
+[^a253]: CA: Naskah S: "sehingga akibat itu wajib muncul".
+
+**Jawaban atas syubhat ketujuh belas**: kami katakan, keberadaan akibat sebagai yang mungkin ada dan yang membutuhkan adalah syarat bagi pengaruh pemberi pengaruh[^t19] padanya, dan perbedaan antara syarat dan sebab sudah dimaklumi.
+
+[^t19]: CT: Dalam naskah cetak tertulis *al-muʾaththira* (bentuk feminin), sedangkan dalam naskah M. Ragıp Paşa no. 810 tertulis *al-muʾaththir* (pemberi pengaruh). Terjemahan mengikuti naskah tulisan tangan.
+
+**Jawaban atas syubhat kedelapan belas**, yaitu ucapan mereka, "Bila pemberi pengaruh telah menjadi pemberi pengaruh pada akibat, keadaan sebagai pemberi pengaruh itu adalah hukum yang baharu." Kami katakan: seandainya keadaan sebagai pemberi pengaruh adalah sifat tambahan, niscaya terjadi regresi tak berhingga, dan itu mustahil. Maka tampaklah bahwa ia bukan sifat yang maujud di alam nyata. Inilah seluruh pembahasan dalam menjawab[^a254] syubhat-syubhat ini. Dan Allah-lah pelindung yang memberi bimbingan, hidayah, dan penjagaan dengan karunia-Nya.[^a255]
+
+[^a254]: CA: Frasa "dalam menjawab" (*fī al-jawāb*) dalam naskah S sebagian tidak terbaca.
+
+[^a255]: CA: Kalimat penutup ini ditambahkan dari naskah N.
