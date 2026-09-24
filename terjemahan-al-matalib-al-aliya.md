@@ -12,9 +12,9 @@
 | Butir | Keterangan |
 |---|---|
 | Tahap | Penerjemahan berjalan: Kitab Pertama, Bagian Pertama |
-| Sudah diterjemahkan | Pembuka; Mukadimah (Pasal 1 sampai 4); Kitab Pertama: Persiapan, Bagian Pertama Pengantar, Pasal 1 sampai 3, Pasal 4 (Syubhat 1 sampai 5) |
-| Posisi berikutnya | Kitab Pertama, Bagian Pertama, Pasal Keempat, Syubhat Keenam (berkas Turki baris 759; berkas Arab baris 10251) |
-| Nomor catatan terakhir | CT: t8 · CA: a168 · CP: p10 |
+| Sudah diterjemahkan | Pembuka; Mukadimah (Pasal 1 sampai 4); Kitab Pertama: Persiapan, Bagian Pertama Pengantar, Pasal 1 sampai 3, Pasal 4 (Syubhat 1 sampai 9) |
+| Posisi berikutnya | Kitab Pertama, Bagian Pertama, Pasal Keempat, Syubhat Kesepuluh (berkas Turki baris 821; berkas Arab baris 10331) |
+| Nomor catatan terakhir | CT: t9 · CA: a205 · CP: p10 |
 | Catatan Kashshāf baru | istiqra, tasdiq, basira, riyada, maad, iqnai, tali |
 
 ---
@@ -953,10 +953,146 @@ Kedua, yang membutuhkan pemberi pengaruh adalah yang mungkin, sedangkan kemungki
 
 [^a168]: CA: Frasa "mustahil berupa" dalam kalimat ini ditambahkan dari naskah N.
 
-**Bagian ketiga**: pendapat bahwa yang membutuhkan pelaku, yang mengadakan, dan pemberi pengaruh adalah keadaan esensi disifati dengan wujud juga batil, dengan dua alasan.
+**Bagian ketiga**: pendapat bahwa yang membutuhkan pelaku, yang mengadakan, dan pemberi pengaruh adalah keadaan esensi disifati dengan wujud juga batil, dengan dua alasan.[^a169]
+
+[^a169]: CA: Catatan-catatan pada bagian ini: kata "yang melebihi" (*zāʾid*) ditambahkan dari naskah Z; frasa "penjelasan bagian kedua" ditambahkan dari naskah N; naskah S membaca "jelas" (*ẓāhir*) sebagai ganti "batil"; naskah N membaca "ucapan kami" sebagai ganti "ucapannya".
 
 Pertama, keadaan esensi disifati dengan wujud (*mawṣūfiyya*) bukanlah sesuatu yang melebihi esensi dan wujud. Bila demikian, mustahil dihukumi bahwa ia diadakan. Penjelasan bagian pertama kalimat ini: seandainya keadaan esensi disifati dengan wujud berlainan dengan keduanya, niscaya keadaan esensi disifati dengan keadaan disifati itu juga berlainan, dan terjadilah regresi tak berhingga. Penjelasan bagian kedua: karena keadaan disifati ini bukan sesuatu yang positif yang berlainan dengan (yang disifati), mustahil dikatakan bahwa ia adalah akibat dari pelaku dan yang mengadakan. Sebab bagaimana dapat dipahami bahwa sesuatu yang tidak memiliki wujud pada dirinya menjadi akibat dari pemberi pengaruh dan pelaku?
 
 Kedua, alasan kedua bahwa ucapan "pelaku mewujudkan keadaan esensi disifati dengan wujud" itu batil: keadaan disifati ini adakalanya wujud, adakalanya bukan. Jika ia wujud, ia memiliki esensi dan wujud, sehingga pembagian yang disebutkan tentangnya, "pelaku mewujudkan esensinya atau wujudnya", kembali berlaku. Jika ia bukan wujud, mustahil dikatakan bahwa ialah yang terjadi karena pelaku dan yang mengadakan. Maka tampaklah dari uraian kami bahwa mustahil dikatakan pelaku memiliki pengaruh pada esensi, pada wujud, atau pada keadaan esensi disifati dengan wujud.
 
-**Bagian keempat**: menjelaskan kebatilan pendapat tentang pemberian pengaruh dan pemberi pengaruh, setelah tampak kebatilan ketiga bagian di atas. Uraiannya: bila akibat tidak membutuhkan pemberi pengaruh dalam esensinya, dalam wujudnya, dan dalam keadaan esensinya disifati dengan wujud, maka esensi yang maujud tidak membutuhkan pemberi pengaruh dan pelaku. Sebab, bila esensi, wujud, dan keadaan esensi disifati dengan wujud telah ada, berarti esensi yang maujud telah menjadi maujud tanpa pemberi pengaruh dan pelaku. Itulah yang dituju.
+**Bagian keempat**:[^a170] menjelaskan kebatilan pendapat tentang pemberian pengaruh dan pemberi pengaruh, setelah tampak kebatilan ketiga bagian di atas. Uraiannya: bila akibat tidak membutuhkan pemberi pengaruh dalam esensinya, dalam wujudnya, dan dalam keadaan esensinya disifati dengan wujud, maka esensi yang maujud tidak membutuhkan pemberi pengaruh dan pelaku. Sebab, bila esensi, wujud, dan keadaan esensi disifati dengan wujud telah ada, berarti esensi yang maujud telah menjadi maujud tanpa pemberi pengaruh dan pelaku. Itulah yang dituju.
+
+[^a170]: CA: Naskah N: "bagian keempat" dengan redaksi berbeda.
+
+**Syubhat keenam**: yang dihukumi membutuhkan dan memerlukan itu adakalanya sederhana (*basīṭ*), adakalanya tersusun (*murakkab*). Kedua kemungkinan ini batil, maka pendapat tentang adanya kebutuhan batil. Pembatasannya jelas.
+
+Kami katakan bahwa yang dihukumi membutuhkan dan memerlukan mustahil berupa sesuatu yang sederhana, karena secara niscaya mustahil menghukumi sesuatu bahwa ia mungkin menjadi dirinya sendiri. Maka mustahil dikatakan, "Hitam mungkin menjadi hitam"; yang dapat dikatakan adalah, "Hitam mungkin bertahan dan mungkin terjadi." Namun hal itu hanya benar karena pengertian hitam[^a171] berlainan dengan pengertian keadaannya sebagai yang bertahan dan yang baharu. Adapun ucapan "hitam mungkin menjadi hitam" tidak dapat dipahami. Maka tetaplah bahwa kemungkinan sama sekali tidak melekat pada hakikat-hakikat yang sederhana. Dan karena telah tetap bahwa sebab kebutuhan tidak lain adalah kemungkinan, dan tetap pula bahwa terjadinya kemungkinan pada hal-hal sederhana itu mustahil,[^a172] maka tetaplah bahwa terjadinya kebutuhan pada hal-hal sederhana itu mustahil.
+
+[^a171]: CA: Kata "hitam" ditambahkan dari naskah S.
+
+[^a172]: CA: Kata "karena itu" (*bi-dhālika*) di tempat ini ditambahkan dari naskah S.
+
+Kami katakan pula bahwa yang dihukumi membutuhkan dan memerlukan mustahil berupa sesuatu yang tersusun, karena yang tersusun tersusun dari hal-hal sederhana. Bila masing-masing hal sederhana itu tidak membutuhkan pelaku dan pemberi pengaruh, sedangkan menurut tuntutan akal yang swabukti, ketika seluruh unsur tunggal ada, yang tersusun pasti ada, dan ketika semuanya atau salah satunya tidak ada, yang tersusun mustahil ada, maka mustahil pula hal-hal yang tersusun disandarkan kepada pelaku dan yang mengadakan. Jangan dikatakan, "Mengapa tidak boleh dikatakan bahwa yang membutuhkan pemberi pengaruh adalah susunan (*hayʾat al-tarkīb*) itu sendiri?" Sebab kami katakan: susunan itu adalah salah satu bagian dari esensi yang tersusun, sehingga ia pun adakalanya tunggal, adakalanya tersusun, dan pembagian pertama kembali berlaku padanya.
+
+**Syubhat ketujuh**: seandainya sesuatu memberi pengaruh pada sesuatu yang lain, pemberian pengaruh oleh pemberi pengaruh itu pada akibatnya adakalanya identik dengan zat pemberi pengaruh, adakalanya identik dengan zat[^a173] akibat, dan adakalanya pengertian yang berlainan dengan keduanya. Semua kemungkinan ini batil, maka pendapat tentang adanya pemberian pengaruh batil.
+
+[^a173]: CA: Frasa "adakalanya identik dengan zat" ditambahkan dari naskah S.
+
+(a) Kami katakan bahwa pemberian pengaruh oleh pemberi pengaruh pada akibatnya mustahil identik dengan zat pemberi pengaruh atau zat akibat, karena beberapa segi.
+
+Pertama, kita dapat memahami zat pemberi pengaruh dan zat akibat sambil ragu apakah[^a174] zat yang satu memberi pengaruh pada zat yang lain. Misalnya, kita memahami maujud yang wajib ada karena zatnya dan memahami esensi alam indrawi ini, lalu kita ragu apakah alam ini ada karena pengaruh maujud yang wajib karena zatnya itu. Sudah dimaklumi bahwa yang diketahui berlainan dengan yang tidak diketahui. Maka keadaan sebagai pemberi pengaruh (*muʾaththiriyya*) ini pasti berlainan dengan zat pemberi pengaruh dan zat akibat.
+
+[^a174]: CA: Kata "apakah" (*hal hiya*) ditambahkan dari naskah N.
+
+Kedua, keadaan sesuatu sebagai pemberi pengaruh pada sesuatu yang lain adalah nisbah khusus dari yang satu kepada yang lain, sedangkan nisbah antara dua hal bergantung, dalam keterwujudannya, pada terwujudnya zat masing-masing; dan yang bergantung pada dua hal berlainan dengan keduanya. Maka keadaan salah satu dari kedua zat sebagai pemberi pengaruh pada yang lain pasti berlainan dengan zat pemberi pengaruh dan zat akibat.
+
+Ketiga, api, misalnya, memberi pengaruh dalam memanaskan, dan air dalam mendinginkan. Api dan air sama-sama merupakan pemberi pengaruh pada akibat tertentu, dan panas serta dingin sama-sama merupakan akibat dari pemberi pengaruh tertentu. Maka tetaplah bahwa kesamaan terjadi dalam pengertian keadaan sebagai pemberi pengaruh dan keadaan sebagai akibat, sedangkan kesamaan dalam kekhususan zat pemberi pengaruh dan kekhususan zat akibat tidak terjadi, sebab zat api berbeda dari zat air, dan hakikat panas berbeda dari hakikat dingin. Bila hal ini telah tetap, kita harus memastikan bahwa keberadaan api sebagai pemberi pengaruh adalah satu hal dan keberadaannya sebagai api adalah hal lain; demikian pula[^a175] keberadaan panas sebagai akibat dari suatu pemberi pengaruh adalah satu hal dan keberadaannya sebagai panas adalah hal lain.
+
+[^a175]: CA: Kalimat "dingin. Bila hal ini telah tetap … demikian pula" ditambahkan dari naskah Z dan S.
+
+Keempat, bila kita berkata, "Kuasa Allah adalah kuasa Allah", ucapan ini sia-sia dan tidak memberi faedah apa pun. Namun bila kita berkata, "Kuasa Allah memberi pengaruh pada wujud alam", ucapan ini memberi faedah. Seandainya pengertian keberadaan kuasa sebagai kuasa tidak berlainan dengan pengertian keberadaannya sebagai pemberi pengaruh pada wujud alam, niscaya sama sekali tidak tersisa perbedaan antara kedua ucapan itu. Maka tampaklah dengan burhan ini bahwa pemberian pengaruh adalah pengertian yang berlainan dengan zat pemberi pengaruh.
+
+Tinggal kita tegakkan burhan bahwa pemberian pengaruh oleh pemberi pengaruh pada akibat tidak identik dengan zat akibat. Kami katakan: hal ini ditunjukkan oleh beberapa segi.
+
+Pertama, bila kita berkata, "Kuasa Allah memberi pengaruh pada wujud alam", kita telah menyifati kuasa Allah Ta'ala dengan keadaan sebagai pemberi pengaruh ini; dan sudah diketahui secara niscaya bahwa alam bukan sifat bagi kuasa Allah. Dari gabungan kedua premis ini niscaya kita memastikan bahwa (pengaruh) kuasa Allah Ta'ala pada alam bukanlah alam itu sendiri.
+
+Kedua, bila kita ditanya, "Mengapa alam ada?", jawaban kita adalah, "Kuasa Allah Ta'ala menuntut diadakannya alam dalam wujud." Jadi kita menjadikan sebab adanya alam[^a176] bahwa Allah Ta'ala mengadakannya. Seandainya Allah mengadakan alam itu identik dengan alam itu sendiri, niscaya ucapan kita "alam hanya ada karena Allah Ta'ala mengadakannya" berarti "alam hanya ada karena dirinya sendiri"; dan seandainya alam ada karena dirinya sendiri, mustahil dikatakan bahwa ia ada karena Allah Ta'ala mengadakannya. Maka tetaplah bahwa seandainya kita menafsirkan pemberian pengaruh oleh pemberi pengaruh pada akibat sebagai wujud akibat itu sendiri, niscaya pemberi pengaruh dan akibat tertafikan; dan sesuatu yang penetapannya berujung pada penafiannya adalah batil. Maka pendapat bahwa pemberian pengaruh oleh pemberi pengaruh pada akibat adalah akibat itu sendiri[^a177] pasti batil.
+
+[^a176]: CA: Frasa "Jadi kita menjadikan sebab adanya alam" ditambahkan dari naskah S.
+
+[^a177]: CA: Kata "itu sendiri" (*nafs*) ditambahkan dari naskah S.
+
+Ketiga, kita adakalanya menafsirkan Allah Ta'ala mengadakan alam sebagai alam itu sendiri, adakalanya bukan sebagai alam itu sendiri melainkan sebagai munculnya alam dari kuasa Allah Ta'ala. Yang pertama batil, sebab dengan pengandaian bahwa alam ada karena dirinya sendiri, atau ada karena diadakan oleh maujud lain selain Allah, tidaklah benar ucapan bahwa alam terjadi karena Allah Ta'ala mengadakannya. Maka tetaplah bahwa Allah Ta'ala mengadakan alam[^a178] tidak dapat ditafsirkan sebagai alam itu sendiri; ia hanya dapat ditafsirkan sebagai terjadinya alam dari kuasa Allah Ta'ala. Ketika itu kami katakan: tampaklah bahwa keberadaan alam dari kuasa Allah Ta'ala berlainan dengan zat alam dan zat kuasa,[^a179] sehingga ia pasti merupakan pengertian ketiga. Maka tetaplah bahwa pemberian pengaruh oleh pemberi pengaruh pada akibat tidak boleh berupa zat pemberi pengaruh itu sendiri dan tidak boleh berupa zat akibat itu sendiri; ia pasti sesuatu yang berlainan dengan keduanya.
+
+[^a178]: CA: Kata "alam" (*li-l-ʿālam*) ditambahkan dari naskah N.
+
+[^a179]: CA: Kalimat "Ta'ala. Ketika itu … dan zat kuasa" ditambahkan dari naskah Z (sebagian tidak terbaca).
+
+Keempat,[^a180] untuk menjelaskan bahwa pemberian pengaruh sesuatu pada sesuatu mustahil identik dengan zat pemberi pengaruh dan zat akibat: keberadaan pemberi pengaruh sebagai pemberi pengaruh pada akibat, dan keberadaan akibat sebagai akibat dari pemberi pengaruh, termasuk kategori relasi (*maqūlat al-muḍāf*), sedangkan zat pemberi pengaruh dan zat akibat tidak demikian. Sebab, bila kita berkata, "Allah Ta'ala menciptakan alam", zat pemberi pengaruh adalah Zat Yang Wajib Ada, dan zat akibat adalah zat alam.
+
+[^a180]: CA: Dalam naskah pokok tertulis "kelima". Edisi Turki juga menyebutnya "kelima".
+
+Maka tetaplah dengan keempat burhan ini[^a181] bahwa seandainya sesuatu memberi pengaruh pada sesuatu, keadaan yang satu sebagai pemberi pengaruh pada yang lain bukanlah zat pemberi pengaruh itu sendiri dan bukan pula zat akibat itu sendiri, melainkan pengertian ketiga yang berlainan dengan keduanya.
+
+[^a181]: CA: Dalam naskah pokok tertulis "kelima burhan ini".
+
+(b) Adapun bagian kedua, yaitu bahwa pengertian keadaan sebagai pemberi pengaruh adalah pengertian ketiga yang berlainan dengan zat pemberi pengaruh dan zat akibat, kami katakan: ini pun rusak, sebab pengertian yang berlainan itu adakalanya negatif, adakalanya positif, dan kedua kemungkinan ini batil.
+
+Kami katakan bahwa ia mustahil negatif, karena dua segi. Pertama, ucapan kita "sesuatu anu memberi pengaruh pada anu" adalah kebalikan dari ucapan kita "ia tidak memberi pengaruh pada anu". Ucapan "ia tidak memberi pengaruh pada anu" adalah pengertian negatif, sebab dari ucapan kita tentang sesuatu tertentu bahwa ia tidak memberi pengaruh pada anu, tidak berbuat sesuatu, dan tidak mengadakan suatu akibat, kita tidak memahami apa pun selain penafian murni dan ketiadaan mutlak. Bila telah tetap bahwa pengertian ucapan "ia tidak memberi pengaruh pada anu" adalah ketiadaan murni, pengertian ucapan "ia memberi pengaruh pada anu" pasti sesuatu yang tetap dan maujud, sebab secara niscaya, bila salah satu dari dua hal yang saling berlawanan negatif, yang lain pasti positif. Kedua, bila kita katakan bahwa keadaan sebagai pemberi pengaruh adalah pengertian yang bersifat ketiadaan, maknanya ialah bahwa ia tidak memiliki wujud; dan ucapan ini tidak bermakna apa-apa selain menafikan keadaan sebagai pemberi pengaruh dan akibat itu sendiri.
+
+Adapun kemungkinan kedua, yaitu bahwa keadaan sebagai pemberi pengaruh adalah pengertian positif yang berlainan dengan zat pemberi pengaruh dan zat akibat,[^a182] kami katakan: maujud ini adakalanya maujud di alam nyata (*fī al-aʿyān*), adakalanya dikatakan bahwa ia[^a183] tidak memiliki wujud di alam nyata, melainkan termasuk pertimbangan-pertimbangan pikiran (*iʿtibārāt dhihniyya*) yang tidak memiliki wujud di alam nyata. Kemungkinan kedua batil, sebab bila akal menghukumi sesuatu sebagai pemberi pengaruh pada sesuatu yang lain, hukum pikiran[^a184] ini adakalanya sesuai dengan alam nyata, adakalanya tidak. Jika hukum pikiran ini sesuai dengan apa yang ada di alam nyata, maka sesuatu itu di alam nyata memang akibat, pemberi pengaruh, pelaku, dan yang dikenai perbuatan; dan ketika itu batallah ucapan mereka bahwa pengertian-pengertian ini adalah pertimbangan-pertimbangan dalam pikiran yang tidak memiliki wujud di alam nyata. Jika tidak sesuai, hukum pikiran ini adalah kedustaan dan kebodohan, dan ketika itu sesuatu itu pada kenyataannya bukan akibat, bukan pemberi pengaruh, bukan pelaku, dan bukan yang dikenai perbuatan; dan itu mengharuskan penafian pemberian pengaruh dan pemberi pengaruh.
+
+[^a182]: CA: Frasa "yang berlainan dengan zat pemberi pengaruh dan zat akibat" ditambahkan dari naskah N.
+
+[^a183]: CA: Naskah N membaca kata ini secara berbeda (sebagian tidak terbaca).
+
+[^a184]: CA: Kata "pikiran" (*al-dhihnī*) ditambahkan dari salah satu naskah.
+
+Adapun kemungkinan pertama, yaitu bahwa keadaan pemberi pengaruh sebagai pemberi pengaruh dan keadaan akibat sebagai akibat adalah dua pengertian yang berlainan dengan zat dan merupakan hal-hal yang tetap di alam nyata, kami katakan: kemungkinan ini pun batil, sebab hal eksistensial itu adakalanya substansi yang berdiri sendiri, adakalanya sifat yang melekat pada zat pemberi pengaruh dan zat akibat. Yang pertama batil karena beberapa segi:
+
+- (a) keadaan sebagai pemberi pengaruh adalah sifat bagi zat pemberi pengaruh, sedangkan substansi yang berdiri sendiri tidak menjadi sifat bagi zat pemberi pengaruh;
+- (b) pemberi pengaruh dan akibat termasuk kategori relasi, sedangkan substansi yang berdiri sendiri tidak demikian;
+- (c) substansi yang berdiri sendiri ini, jika tidak memiliki pengaruh pada yang dikenai perbuatan itu, ia asing darinya;[^a185] dan jika memiliki pengaruh padanya, pembagian yang disebutkan tentang keadaan substansi itu sebagai pemberi pengaruh pada akibat itu kembali berlaku.
+
+[^a185]: CA: Naskah Z: "secara tertentu" (*bi-l-taʿyīn*) sebagai ganti "darinya".
+
+Yang kedua, yaitu dikatakan bahwa keadaan sebagai pemberi pengaruh dan keadaan sebagai akibat adalah dua sifat yang melekat pada zat pemberi pengaruh dan zat akibat, juga mustahil. Sebab sifat yang melekat pada yang lain membutuhkan yang lain itu, dan yang membutuhkan yang lain[^a186] adalah mungkin karena zatnya, dan yang mungkin karena zatnya pasti memiliki pemberi pengaruh. Maka keadaan sebagai pemberi pengaruh ini pun membutuhkan pemberi pengaruh yang memberi pengaruh padanya, sehingga pemberian pengaruh oleh pemberi pengaruh itu pada wujud keadaan sebagai pemberi pengaruh ini adalah pengertian tambahan atasnya, dan terjadilah regresi tak berhingga. Regresi ini batil karena dua segi. Pertama, burhan-burhan yang menunjukkan bahwa pendapat tentang regresi tak berhingga itu batil. Kedua, dengan pengandaian bahwa pendapat tentang regresi tak berhingga itu benar, hal yang mustahil tetap terjadi di sini. Sebab yang dapat dipahami dari regresi tak berhingga adalah bahwa sesuatu meniscayakan sesuatu yang lain, yang kedua meniscayakan yang ketiga,[^a187] yang ketiga meniscayakan yang keempat, dan demikian seterusnya tanpa akhir. Namun[^a188] pengertian ini hanya tetap bila ada hal-hal yang saling bersambung, yang masing-masing bersambung dengan yang lain tanpa akhir. Padahal, bila kita katakan bahwa keadaan sesuatu sebagai pemberi pengaruh pada sesuatu adalah sifat tambahan atas keduanya, kita tidak dapat menunjuk dua hal yang salah satunya bersambung dengan yang lain, kecuali keadaan yang satu meniscayakan yang lain merupakan hal ketiga yang menengahi keduanya. Ini menuntut bahwa sama sekali tidak ada sesuatu yang bersambung dengan sesuatu yang lain. Bila ini batal, batal pula[^a189] pendapat tentang regresi tak berhingga. Maka tetaplah bahwa pendapat tentang adanya regresi tak berhingga dalam kasus ini berujung pada ketiadaannya, sehingga pendapat tentang adanya regresi itu pasti batil. Maka tampaklah dari seluruh uraian kami bahwa seandainya sesuatu memberi pengaruh pada sesuatu, pemberian pengaruh oleh pemberi pengaruh pada akibat adakalanya identik dengan zat pemberi pengaruh atau zat akibat, adakalanya pengertian ketiga yang berlainan dengan keduanya; dan telah tetap bahwa kedua bagian itu batil dan rusak. Maka pendapat tentang adanya pemberi pengaruh dan pemberian pengaruh pasti batil.
+
+[^a186]: CA: Frasa "dan yang membutuhkan yang lain" ditambahkan dari naskah S.
+
+[^a187]: CA: Frasa "yang ketiga, yang ketiga meniscayakan" ditambahkan dari naskah N.
+
+[^a188]: CA: Naskah S: "karena ini" (*li-anna hādhā*) sebagai ganti "namun" (*illā anna*).
+
+[^a189]: CA: Frasa "batal pula" ditambahkan dari salah satu naskah.
+
+Jika seseorang berkata, "Pembagian yang kalian sebutkan ini juga berlaku pada hal-hal yang kebenaran dan keberadaannya kita ketahui secara niscaya, sehingga pembagian ini pasti rusak", penjelasannya dari dua segi.
+
+Pertama, dapat dikatakan:[^a190] seandainya rumah ini dan dinding ini ada pada saat ini, keberadaannya pada saat ini adakalanya rumah dan dinding itu sendiri, adakalanya saat itu sendiri, dan adakalanya pengertian ketiga yang berlainan. Ketiga kemungkinan ini batil, maka pendapat tentang adanya sesuatu pada saat ini[^a191] batil. Kami katakan bahwa keberadaan rumah dan dinding ini pada saat ini mustahil identik dengan wujud rumah dan dinding ini, karena pada saat kedua[^a192] keberadaannya pada saat pertama tidak bertahan, padahal zatnya bertahan. Keberadaannya pada saat ini mustahil pula identik dengan saat ini, karena wujud saat ini, di luar pikiran maupun di dalam pikiran, tidak mungkin[^a193] terlepas dari keberadaan sesuatu ini pada saat ini;[^t9] selain itu, keberadaan sesuatu ini pada saat ini termasuk kategori relasi, sedangkan saat ini dan sesuatu ini tidak termasuk kategori relasi. Kami katakan pula bahwa keberadaan sesuatu ini pada saat ini mustahil berupa pengertian tambahan, karena tambahan itu pun ada pada saat itu, sehingga keberadaan pengertian yang berlainan itu pada saat itu adalah hal yang berlainan dengannya, dan terjadilah regresi tak berhingga, dan itu mustahil.
+
+[^a190]: CA: Frasa "dapat dikatakan" ditambahkan dari salah satu naskah.
+
+[^a191]: CA: Kalimat "pada saat ini batil. Kami katakan … mustahil identik dengan" ditambahkan dari naskah N.
+
+[^a192]: CA: Kata "kedua" ditambahkan dari naskah N.
+
+[^a193]: CA: Kata "tidak" ditambahkan dari salah satu naskah.
+
+[^t9]: CT: Sebagian bagian yang memuat kebatilan kemungkinan kedua ini gugur dan kacau dalam teks cetak. Bagian ini diterjemahkan dari naskah Perpustakaan Konya Yusuf Ağa no. 692.
+
+Kedua, untuk menjelaskan bahwa pembagian yang kalian sebutkan[^a194] itu batil, kita tunjuk sebuah jisim yang berada di suatu tempat, lalu kita katakan: ia tidak berada di tempat itu. Sebab, seandainya ia berada di sana, keberadaannya di sana adakalanya identik dengan zatnya, adakalanya tambahan atas zatnya. Yang pertama batil, karena bila ia keluar dari tempat itu zatnya tetap bertahan sedangkan keberadaannya di tempat itu tidak bertahan. Yang kedua juga batil,[^a195] karena tambahan itu adalah sifat bagi jisim itu, dan sifat berada pada yang disifati, sehingga keberadaan sifat itu pada zat yang disifati pasti tambahan atasnya, dan itu mengharuskan regresi tak berhingga,[^a196] dan itu mustahil. Maka tetaplah dengan kedua segi ini bahwa pembagian yang kalian sebutkan berlaku pada hal-hal yang kebenarannya kita ketahui dengan akal secara swabukti, sehingga pembagian yang kalian sebutkan pasti batil.
+
+[^a194]: CA: Frasa "pembagian" ditambahkan dari naskah S.
+
+[^a195]: CA: Kalimat "karena bila ia keluar … juga batil" ditambahkan dari naskah N.
+
+[^a196]: CA: Naskah S: "dan niscaya terjadi regresi tak berhingga".
+
+Jawabannya: pembagian yang kami sebutkan adalah pembagian yang berkisar antara penafian dan penetapan, dan dalil-dalil yang menunjukkan kebatilan masing-masing bagian itu adalah segi-segi yang pasti dan meyakinkan. Bila hal ini telah tetap, kami katakan: pembagian yang kami sebutkan ini adalah burhan yang sahih dari segi bentuk dan dari segi materinya. Jika burhan yang demikian keadaannya masih mungkin rusak, kalian tidak dapat memastikan[^a197] kebenaran dalil dan bukti apa pun, sebab tujuan tertinggi dalam dalil adalah bahwa ia sahih[^a198] dari segi bentuk dan materi. Bila kalian membolehkan, bersamaan dengan kedua syarat ini,[^a199] dalil itu rusak, tidak tersisa lagi kepercayaan pada dalil apa pun, sandaran kepada seluruh dalil gugur sepenuhnya, dan gugur pula sandaran kepada dalil yang kalian kemukakan untuk menetapkan Yang Wajib Ada. Inilah akhir pembahasan tentang uraian syubhat ini, dan sesungguhnya ia adalah syubhat yang paling kuat.
+
+[^a197]: CA: Naskah S: "keseimbangan" (*al-iʿtidāl*) sebagai ganti "memastikan" (*al-qaṭʿ*).
+
+[^a198]: CA: Frasa "bahwa ia" ditambahkan dari salah satu naskah.
+
+[^a199]: CA: Naskah S: "bila kalian telah mewujudkan, bersamaan dengan adanya kedua syarat ini".
+
+**Syubhat kedelapan** dalam menafikan pemberian pengaruh dan pemberi pengaruh: seandainya kemungkinan adalah sebab kebutuhan akibat kepada pemberi pengaruh, niscaya yang tiada, dalam keadaan tiadanya, membutuhkan pemberi pengaruh. Konsekuen ini mustahil, maka anteseden itu pun mustahil. Penjelasan proposisi kondisional ini: yang menyebabkan kebutuhan kepada pemberi pengaruh adalah kemungkinan khusus (*al-imkān al-khāṣṣ*), bukan kemungkinan umum. Namun[^a200] keterkaitan kemungkinan khusus dengan sisi wujud sama dengan keterkaitannya[^a201] dengan sisi ketiadaan, setara tanpa perbedaan sama sekali. Bila nisbah kemungkinan ini kepada kedua sisi setara, maka jika ia adalah sebab kebutuhan pada sisi wujud, ia pasti menjadi sebab kebutuhan pada sisi ketiadaan pula; jika tidak, niscaya salah satu dari kedua sisi yang setara menjadi lebih unggul daripada yang lain tanpa penentu keunggulan, dan itu mustahil; dan dengan pengandaian bahwa hal itu benar, hal itu merusak ucapan kalian bahwa salah satu sisi yang mungkin tidak menjadi lebih unggul daripada yang lain kecuali karena penentu keunggulan. Maka tetaplah bahwa seandainya kemungkinan adalah sebab kebutuhan, niscaya yang tiada, dalam keadaan tiadanya, membutuhkan penentu keunggulan dan pemberi pengaruh.
+
+[^a200]: CA: Naskah S: "demikian pula" (*ka-dhālika*) sebagai ganti "namun" (*lākinna*).
+
+[^a201]: CA: Frasa "dengan sisi wujud sama dengan keterkaitannya" ditambahkan dari naskah S.
+
+Kami katakan bahwa hal ini mustahil, karena ketiadaan yang terus berlangsung menunjuk kepada penafian murni dan negasi mutlak, dan keberadaannya sebagai yang bertahan menunjuk bahwa negasi murni itu terus berlangsung. Masing-masing dari kedua pengertian ini menafikan terjadinya pemberian pengaruh.[^a202] Bahwa keberadaannya sebagai negasi murni menafikan keberadaannya sebagai akibat, karena pemberian pengaruh menuntut terjadinya suatu keadaan dan munculnya sesuatu, sedangkan penafian murni dan negasi mutlak tidak demikian. Adapun bahwa keberadaannya sebagai yang bertahan mencegahnya menjadi akibat dari pemberi pengaruh, karena telah kami jelaskan sebelumnya bahwa pendapat bahwa yang bertahan, dalam keadaan bertahannya, menjadi akibat dari pemberi pengaruh dan perbuatan dari pelaku itu mustahil.[^a203] Maka tetaplah bahwa seandainya kemungkinan menyebabkan kebutuhan kepada pemberi pengaruh, niscaya yang tiada, dalam keadaan bertahannya (dalam ketiadaan), membutuhkan pemberi pengaruh; dan telah tetap bahwa hal ini mustahil. Maka kemungkinan pasti bukan sebab kebutuhan kepada pemberi pengaruh.
+
+[^a202]: CA: Naskah S: "keberlainan" (*al-taghāyur*) sebagai ganti "pemberian pengaruh" (*al-taʾthīr*).
+
+[^a203]: CA: Kalimat "bahwa pendapat bahwa yang bertahan … itu mustahil. Maka tetaplah" ditambahkan dari salah satu naskah.
+
+**Syubhat kesembilan**: seandainya yang mungkin membutuhkan penentu keunggulan, niscaya manusia tidak bebas memilih (*mukhtār*) dalam perbuatan-perbuatannya. Konsekuen ini batil, maka anteseden itu pun batil. Penjelasan proposisi kondisional ini: manusia, ketika ia mampu melakukan perbuatan,[^a204] adakalanya mampu pula meninggalkannya, adakalanya tidak. Jika dalam keadaan berbuat ia tidak mampu meninggalkan, demikian pula ia tidak mampu berbuat;[^a205] dan ketika itu ia sama sekali tidak berkuasa untuk berbuat dan meninggalkan dalam keadaan apa pun, sehingga ia pasti sama sekali bukan pelaku yang bebas memilih. Adapun jika ia mampu meninggalkan, maka keunggulan berbuat atas meninggalkan adakalanya bergantung pada penentu keunggulan, adakalanya tidak. Jika bergantung pada penentu keunggulan, penentu keunggulan itu adakalanya berasal darinya, adakalanya dari selainnya. Jika berasal darinya, pembagian pertama kembali berlaku padanya. Jika berasal dari selainnya, maka ketika penentu keunggulan itu datang dari yang lain, perbuatan itu adakalanya wajib, mungkin, atau mustahil. Jika wajib, ia sama sekali tidak berkuasa untuk berbuat dan meninggalkan, karena sebelum datangnya penentu keunggulan itu, munculnya perbuatan darinya mustahil, dan sesudah datangnya, munculnya perbuatan darinya wajib; dan dengan pengandaian ini, hamba tidak berkuasa dalam keadaan apa pun. Adapun anggapan bahwa ketika penentu keunggulan itu datang, munculnya perbuatan darinya menjadi mungkin dan bukan wajib, hal itu batil karena enam segi yang pasti dan meyakinkan, yang akan kami sebutkan dalam masalah qada dan qadar. Maka tetaplah dengan uraian kami bahwa seandainya keunggulan salah satu sisi yang mungkin atas yang lain bergantung pada bergabungnya penentu keunggulan kepadanya, mustahil makhluk hidup bebas memilih dalam perbuatannya.
+
+[^a204]: CA: Frasa "melakukan perbuatan, adakalanya mampu" ditambahkan dari salah satu naskah (sebagian tidak terbaca).
+
+[^a205]: CA: Naskah S: "demikian pula dalam keadaan meninggalkan ia tidak mampu berbuat".
+
+Kami katakan bahwa adanya pelaku yang bebas memilih pasti diakui, karena kita mengetahui secara swabukti perbedaan antara seorang hamba yang bergerak dengan pilihannya, sesekali ke kanan dan sesekali ke kiri, dan orang yang gemetar yang bergerak karena terpaksa. Demikian pula, orang yang melemparkan batu ke wajah seseorang mengetahui perbedaan antara gerak batu dan gerak tangan pelempar itu, sebab orang-orang berakal dengan akal mereka yang swabukti mengetahui bahwa batu itu tidak boleh dipuji atau dicela karena gerak itu, sedangkan pelemparnya layak dipuji atau dicela karena gerak itu. Seandainya hamba tidak bebas memilih dalam perbuatannya, perbedaan ini tidak akan ada. Maka tetaplah bahwa seandainya keunggulan salah satu sisi yang mungkin atas yang lain bergantung pada penentu keunggulan, niscaya hamba tidak bebas memilih dalam perbuatannya. Dan karena telah tetap bahwa ia bebas memilih dalam perbuatannya, yang mungkin pasti tidak membutuhkan penentu keunggulan.
