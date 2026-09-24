@@ -11,11 +11,11 @@
 
 | Butir | Keterangan |
 |---|---|
-| Tahap | Penerjemahan berjalan: Mukadimah selesai, masuk Kitab Pertama |
-| Sudah diterjemahkan | Pembuka; Mukadimah (Pasal 1 sampai 4) |
-| Posisi berikutnya | Kitab Pertama, Persiapan (Tr. h. 31; berkas Turki baris 548; berkas Arab baris 10056) |
-| Nomor catatan terakhir | CT: t6 · CA: a78 · CP: p4 |
-| Catatan Kashshāf baru | istiqra, tasdiq, basira, riyada, maad |
+| Tahap | Penerjemahan berjalan: Kitab Pertama, Bagian Pertama |
+| Sudah diterjemahkan | Pembuka; Mukadimah (Pasal 1 sampai 4); Kitab Pertama: Persiapan, Bagian Pertama Pengantar, Pasal 1 dan 2 |
+| Posisi berikutnya | Kitab Pertama, Bagian Pertama, Pasal Ketiga (Tr. h. 38; berkas Turki baris 674; berkas Arab baris 10186) |
+| Nomor catatan terakhir | CT: t7 · CA: a135 · CP: p9 |
+| Catatan Kashshāf baru | istiqra, tasdiq, basira, riyada, maad, iqnai, tali |
 
 ---
 
@@ -55,7 +55,7 @@ Definisi catatan kaki (`[^id]: …`) diletakkan tepat sesudah paragraf yang meru
 
 1. **Teks dasar:** terjemahan Turki edisi Fikriyat. Teks Arab edisi al-Saqqā dipakai untuk memverifikasi makna, memulihkan istilah teknis, dan membetulkan bagian yang kacau dalam terjemahan Turki. Penyimpangan yang berarti dicatat dalam catatan **CP**.
 2. **Bagian yang tidak diterjemahkan:** pengantar editor (*Sunuş*), biografi ar-Razi oleh Eşref Altaş, dan daftar isi edisi Turki, karena bukan bagian dari karya ar-Razi.
-3. **Catatan kaki:** semua catatan edisi Turki diterjemahkan (awalan **CT:**), dan semua catatan edisi Arab al-Saqqā diterjemahkan (awalan **CA:**), termasuk catatan perbedaan naskah. Siglum naskah edisi Arab ditulis dengan huruf Latin padanannya: س = S, ن = N, ز = Z, ط = Ṭ, ل = L. Bacaan varian dikutip dalam transliterasi. Catatan yang teksnya rusak dalam berkas OCR ditandai "(sebagian tidak terbaca)". Letak catatan CA di badan teks mengikuti letak kata yang dirujuknya; bila penanda aslinya hilang dalam OCR, letaknya ditentukan dari isi catatan.
+3. **Catatan kaki:** semua catatan edisi Turki diterjemahkan (awalan **CT:**), dan semua catatan edisi Arab al-Saqqā diterjemahkan (awalan **CA:**), termasuk catatan perbedaan naskah. Siglum naskah edisi Arab ditulis dengan huruf Latin padanannya: س = S, ن = N, ز = Z, ط = Ṭ, ل = L, م = M. Bacaan varian dikutip dalam transliterasi. Catatan yang teksnya rusak dalam berkas OCR ditandai "(sebagian tidak terbaca)". Letak catatan CA di badan teks mengikuti letak kata yang dirujuknya; bila penanda aslinya hilang dalam OCR, letaknya ditentukan dari isi catatan.
 4. **Rujukan Al-Qur'an** dari kedua edisi tidak dijadikan catatan kaki, tetapi dicantumkan di badan teks sesudah kutipan dengan format (Nama Surah: ayat). Rujukan yang keliru dalam salah satu edisi dibetulkan tanpa catatan.
 5. **Kutipan Al-Qur'an** mengikuti gaya Terjemahan Kemenag RI.
 6. **Tanpa aksara Arab:** badan teks dan catatan kaki tidak memuat aksara Arab. Istilah konseptual diberi transliterasi IJMES pada kemunculan pertama, misalnya: akal dan abstrak (*maʿqūl mujarrad*).
@@ -88,6 +88,11 @@ Kolom dan sumber padanan Inggris mengikuti Glosarium v2.0 *Asās al-Taqdīs*. Ta
 | المبدأ والمعاد | al-mabdaʾ wa-l-maʿād | hereafter, resurrection, afterworld (*maʿād*) | **asal-mula dan tempat kembali** † | Catatan Kashshāf pada *maʿād*. |
 | سعادة / شقاوة | saʿāda / shaqāwa | happiness | **kebahagiaan** / **kesengsaraan** | |
 | الحكماء الإلهيون | al-ḥukamāʾ al-ilāhiyyūn | - | **para filsuf ketuhanan** | |
+| يقيني / إقناعي | yaqīnī / iqnāʿī | - / rhetoric proof | **meyakinkan** / **persuasif** † | Catatan Kashshāf pada *iqnāʿī*. |
+| مقدم / تالي | muqaddam / tālī | - / the next, the predicate | **anteseden** / **konsekuen** † | Bagian proposisi kondisional. Catatan Kashshāf pada *tālī*. |
+| الفطرة الأصلية | al-fiṭra al-aṣliyya | - | **fitrah asali** | |
+| لزوم / التزام | luzūm / iltizām | - | **konsekuensi suatu pendapat** / **berpegang pada suatu pendapat** | |
+| ظن غالب | ẓann ghālib | - | **dugaan yang kuat** | |
 | مرجح | murajjiḥ | - | **penentu keunggulan** | Mengikuti Glosarium *Asās*. |
 | مؤثر | muʾaththir | - | **pemberi pengaruh** | Mengikuti Glosarium *Asās*. |
 
@@ -520,3 +525,272 @@ Inilah pembatasan bab-bab ilmu ilahi. Dengan demikian tampaklah, melalui induksi
 [^a78]: CA: Ketahuilah, bagian kesembilan membahas ilmu akhlak, dan bagian kesepuluh membahas tempat kembali yang rohani dan jasmani. Pengarang telah berpulang ke rahmat Allah Ta'ala sebelum menulis tentang akhlak dan tentang tempat kembali.
 
 Di sinilah akhir uraian tentang pembagian ilmu ilahi. Kami memohon pertolongan dan taufik kepada Allah untuk sampai kepada tujuan-tujuan yang luhur dan maksud-maksud yang suci ini, sesuai dengan daya manusia dan kemampuan insani. Inilah akhir pembahasan tentang Mukadimah.
+
+# Kitab Pertama {.kitab-ke}
+
+# Dalil-Dalil yang Menunjukkan Adanya Tuhan Alam dan bahwa Dia Wajib Ada karena Zat-Nya {.judul-kitab}
+
+[Tr. h. 31]{.penanda}
+
+#### Persiapan {.subpasal}
+
+Ketahuilah, kitab ini disusun dalam tiga bagian.[^a79]
+
+[^a79]: CA: Dalam naskah pokok tertulis "dua bagian".
+
+**Bagian pertama**: uraian dalil-dalil yang pasti dan meyakinkan (*yaqīnī*).
+
+**Bagian kedua**: uraian dalil-dalil persuasif (*iqnāʿī*)[^k-iqnai] yang kuat.
+
+**Bagian ketiga**: pembahasan tentang keniscayaan, wujud, keazalian, ketertentuan, esensi, dan tuntutan serta pembahasan lain yang serupa.[^a80]
+
+[^k-iqnai]: **Persuasif** (*iqnāʿī*; Ing. *rhetoric proof*). *Iqnāʿī* dipakai untuk silogisme retoris (*qiyās khiṭābī*), yaitu dalil yang tersusun dari premis-premis yang masyhur dan yang diduga benar. Terkadang istilah ini dipakai pula untuk dalil yang meyakinkan pada pandangan pertama, meskipun sebenarnya tidak memuaskan. (*Kashshāf*, s.v. *al-iqnāʿī*.)
+
+[^a80]: CA: Uraian bagian ketiga ini ditambahkan oleh penyunting. Dalam naskah, bagian ini disebut sesudah pasal ketiga dari bagian kedua.
+
+## Bagian Pertama {.bagian-ke}
+
+## Uraian Dalil-Dalil Pasti yang Tidak Mengandung Keraguan {.judul-bagian}
+
+[Tr. h. 33]{.penanda}
+
+#### Pengantar: Penjelasan tentang Hal-Hal yang Pelik dalam Bagian Ini {.subpasal}
+
+Ketahuilah, bila kita hendak menetapkan suatu maujud yang wujudnya tidak diputuskan oleh indra kita dan tidak pula oleh fitrah jiwa dan akal kita,[^a81] tidak ada jalan untuk itu kecuali satu jalan: akal kita yang jernih memutuskan bahwa maujud-maujud yang wujudnya kita putuskan dengan indra dan akal kita ini membutuhkan, entah dalam wujudnya sendiri entah dalam wujud salah satu sifatnya, adanya suatu maujud yang gaib dari indra dan daya waham kita. Dengan jalan inilah akal mampu menetapkan maujud yang gaib itu.[^p5]
+
+[^a81]: CA: Naskah S: "fitrah kita dan akal kita".
+
+[^p5]: CP: Terjemahan Turki berbunyi "bisa ada suatu jalan yang mengantar kita kepada penetapan itu". Terjemahan Indonesia mengikuti teks Arab yang lebih tegas: *mimmā lā sabīla ilayhi illā bi-ṭarīq wāḥid* (tidak ada jalan kepadanya kecuali satu jalan). Paragraf pengantar ini tercetak dua kali dalam berkas Turki dan hanya diterjemahkan sekali.
+
+Bila engkau telah memahami hal ini, kami katakan: sumber kebutuhan itu adakalanya kemungkinan, adakalanya kebaharuan, dan adakalanya gabungan keduanya. Ketiga keadaan ini adakalanya dipandang pada zat-zat, adakalanya pada sifat-sifat. Maka semuanya ada enam jalan:
+
+- (a) kemungkinan zat-zat;
+- (b) kemungkinan sifat-sifat;
+- (c) kebaharuan zat-zat;
+- (d) kebaharuan sifat-sifat;
+- (e) gabungan kemungkinan dan kebaharuan pada zat-zat;
+- (f) gabungan kemungkinan dan kebaharuan pada sifat-sifat.
+
+Inilah jalan-jalan yang dapat dipakai untuk berdalil atas penetapan maujud yang wajib ada karena zatnya. Cukuplah sekian untuk pengantar ini.
+
+### Pasal Pertama {.pasal-ke}
+
+### Penyusunan Premis-Premis Dalil Ini menurut Cara yang Dikenal di Kalangan Para Filsuf[^t7] {.judul-pasal}
+
+[^t7]: CT: Diterjemahkan sesuai bacaan *tarkīb* (penyusunan) dalam naskah Perpustakaan Süleymaniye, koleksi M. Ragıp Paşa no. 810.
+
+[Tr. h. 35]{.penanda}
+
+Kami katakan: tidak diragukan adanya suatu maujud. Setiap maujud, hakikatnya adakalanya menolak menerima ketiadaan, adakalanya tidak. Yang pertama adalah yang wajib karena zatnya, dan yang kedua adalah yang mungkin karena zatnya.[^a82] Maka tetaplah bahwa adanya suatu maujud harus diakui, dan tetap pula bahwa setiap maujud adakalanya wajib karena zatnya, adakalanya mungkin karena zatnya.[^a83] Premis-premis ini menghasilkan kesimpulan: dalam wujud adakalanya ada maujud yang wajib ada karena zatnya,[^a84] adakalanya ada maujud yang mungkin karena zatnya. Jika yang pertama, itulah yang dituju. Jika yang kedua, kami katakan: yang mungkin karena zatnya, salah satu dari kedua sisinya (ada dan tiada) tidak menjadi lebih unggul daripada yang lain kecuali karena penentu keunggulan.[^a85] Penentu keunggulan itu, jika wajib karena zatnya, itulah yang dituju; jika mungkin karena zatnya, pembagian pertama kembali berlaku padanya. Maka adakalanya terjadi regresi tak berhingga atau lingkaran, dan keduanya mustahil, atau berujung pada maujud yang wajib ada karena zatnya, dan itulah yang dituju.
+
+[^a82]: CA: Kata "karena zatnya" pada "yang mungkin" ditambahkan dari naskah N. Catatan lain pada judul pasal ini dalam naskah S sebagian tidak terbaca.
+
+[^a83]: CA: Frasa "adakalanya mungkin karena zatnya" ditambahkan dari naskah S.
+
+[^a84]: CA: Tambahan dari salah satu naskah (siglumnya tidak terbaca).
+
+[^a85]: CA: Frasa "kecuali karena penentu keunggulan" ditambahkan dari naskah N.
+
+Ketahuilah, dalil ini dibangun di atas beberapa premis:
+
+- (a) yang mungkin, salah satu sisinya tidak menjadi lebih unggul daripada yang lain kecuali karena penentu keunggulan;
+- (b) penjelasan[^a86] apakah kebutuhan ini terjadi ketika ia mulai ada (*ḥudūth*) ataukah ketika ia bertahan (*baqāʾ*);
+- (c) penentu keunggulan itu harus maujud;
+- (d) ia harus[^a87] maujud ketika pengaruhnya terjadi;
+- (e) lingkaran itu batil;
+- (f) regresi tak berhingga itu batil.
+
+[^a86]: CA: Naskah S: "bahwa dikatakan" (*an yuqāl*) sebagai ganti "penjelasan" (*bayān*).
+
+[^a87]: CA: Kata "harus" ditambahkan dari salah satu naskah (siglumnya tidak terbaca).
+
+Bila penjelasan keenam premis ini telah tuntas, tercapailah kepastian bahwa adanya maujud[^a88] yang wajib ada karena zatnya harus diakui. Kemudian, bila sesudah itu kami jelaskan bahwa alam indrawi ini mustahil wajib ada karena zatnya,[^a89] kita pun mengetahui bahwa alam indrawi ini, dalam wujudnya, membutuhkan adanya maujud yang wajib ada karena zatnya. Itulah yang dituju. Maka hendaklah kita khususkan satu pasal untuk menjelaskan masing-masing premis ini.
+
+[^a88]: CA: Kata "maujud" ditambahkan dari naskah S.
+
+[^a89]: CA: Kalimat "Kemudian, bila sesudah itu … karena zatnya" ditambahkan dari naskah N.
+
+### Pasal Kedua {.pasal-ke}
+
+### Penjelasan bahwa Salah Satu Sisi yang Mungkin Tidak Menjadi Lebih Unggul daripada yang Lain kecuali karena Penentu Keunggulan {.judul-pasal}
+
+[Tr. h. 36]{.penanda}
+
+Ketahuilah, dalam hal ini orang-orang berakal memiliki dua pendapat. Pertama, premis ini swabukti (*badīhī*). Kedua, premis ini membutuhkan burhan (*burhānī*).
+
+Para penganut pendapat pertama berhujah atas kebenaran mazhab mereka dengan berkata: kita lihat mayoritas orang berakal sepakat bahwa bila mereka merasakan terjadinya suatu peristiwa baru, mereka mencari sebabnya; bila mereka mendengar suara manusia, mereka terdorong untuk mengetahui secara niscaya kehadiran manusia itu; dan bila mereka melihat sebuah bangunan berdiri, mereka memastikan adanya pembangun.
+
+Bahkan kami tambahkan: pengetahuan ini ada pula dalam jiwa anak-anak yang akalnya belum sempurna. Sebab, bila seorang anak memiliki tempat khusus yang ia kuasai, lalu ia mendapati di sana makanan yang tidak ia letakkan, atau sesuatu yang telah ia letakkan[^a90] hilang dari sana, ia berteriak, "Siapa yang mengambilnya? Siapa yang meletakkannya?" Ini menunjukkan bahwa fitrah anak itu bersaksi bahwa yang mungkin pasti memiliki penentu keunggulan dan bahwa yang baharu pasti memiliki yang membaharukan.[^a91] Bila pengetahuan ini tertanam dalam naluri[^a92] jiwa anak itu, kita pun tahu bahwa ia adalah pengetahuan swabukti yang paling kuat.
+
+[^a90]: CA: Kata "yang telah ia letakkan" ditambahkan dari naskah N.
+
+[^a91]: CA: Frasa "dan bahwa yang baharu pasti memiliki yang membaharukan" ditambahkan dari naskah N.
+
+[^a92]: CA: Kata "naluri" (*gharīza*) ditambahkan dari salah satu naskah (siglumnya tidak terbaca).
+
+Bahkan kami katakan: jenis pencerapan ini tertanam pula dalam jiwa hewan. Sebab, bila seekor hewan mendengar suara ular, ia lari; dan larinya tidak lain karena pencerapannya akan suara ular menuntut pencerapannya akan adanya ular. Ini menunjukkan bahwa perpindahan fitrah dan jiwa dari pengaruh kepada pemberi pengaruh ada pada jiwa anak-anak,[^a93] bahkan juga pada jiwa hewan.
+
+[^a93]: CA: Naskah S: "pada jiwa anak-anak dan hewan". Kata "bahkan hal itu" (*bal huwa amr*) ditambahkan dari salah satu naskah.
+
+Jika dikatakan, pembahasan kalian dapat disanggah dari beberapa segi.
+
+**Pertanyaan pertama**: pertimbangan-pertimbangan yang kalian sebutkan ini, seandainya benar, hanya menunjukkan bahwa pengetahuan tentang kebutuhan yang baharu (*muḥdath*) kepada pemberi pengaruh adalah pengetahuan niscaya; ia tidak menunjukkan bahwa pengetahuan tentang kebutuhan yang mungkin kepada pemberi pengaruh adalah pengetahuan niscaya. Betapa jauh jarak antara keduanya!
+
+Jika seseorang berkata, "Kita mendapati secara swabukti bahwa bila wujud dan ketiadaan setara, mustahil salah satunya lebih unggul daripada yang lain kecuali karena penentu keunggulan. Maka kita tahu bahwa sebagaimana pengetahuan swabukti ada tentang kebutuhan yang baharu kepada pemberi pengaruh, pengetahuan swabukti itu ada pula tentang kebutuhan yang mungkin kepada penentu keunggulan", maka dalam menjawab hal ini kami katakan: akal memang memastikan ucapan kalian bahwa bila wujud dan ketiadaan setara baginya, salah satunya tidak menjadi lebih unggul kecuali karena penentu keunggulan. Namun akal memastikannya karena ucapan kalian "salah satu sisi menjadi lebih unggul daripada yang lain" menimbulkan kesan bahwa keunggulan itu[^a94] baharu, yakni sesuatu yang terjadi setelah sebelumnya tidak ada. Jadi kepastian ini muncul dari segi makna[^a95] kebaharuan, bukan dari kemungkinan semata. Dalilnya: bila kesan kebaharuan kita hilangkan sama sekali dan kita pandang makna kemungkinan terlepas dari kesan kebaharuan, yaitu pada hal mungkin yang bertahan dalam keadaan bertahannya,[^a96] kita tidak mendapati dalam akal kepastian bahwa yang mungkin, dalam keadaan bertahannya, membutuhkan pemberi pengaruh. Yang justru dominan dalam daya waham adalah bahwa yang bertahan itu, dalam keadaan bertahannya, tidak membutuhkan pemberi pengaruh, dan bahwa ia bertahan dengan sendirinya sampai datang hal yang menghilangkan dan meniadakannya. Maka kita tahu bahwa kepastian itu hanya muncul ketika ada kebaharuan atau ketika makna kebaharuan dibayangkan.[^a97] Adapun kemungkinan, bila terlepas dari bayangan kebaharuan, akal yang jernih tidak memutuskan bahwa ia menjadi sebab kebutuhannya kepada yang lain.
+
+[^a94]: CA: Kata "itu" (*dhālika*) ditambahkan dari naskah N.
+
+[^a95]: CA: Kata "makna" ditambahkan dari salah satu naskah (siglumnya tidak terbaca).
+
+[^a96]: CA: Frasa "dalam keadaan bertahannya" ditambahkan dari naskah S.
+
+[^a97]: CA: Naskah S: "bayangan" dengan bentuk kata *jāl* (sebagian tidak terbaca).
+
+**Pertanyaan kedua** terhadap pokok pembahasan: kami tidak menerima bahwa orang-orang berakal memastikan kebutuhan yang mungkin kepada penentu keunggulan. Hal ini ditunjukkan oleh beberapa segi.
+
+Pertama, para penganut[^a98] kebaharuan alam lebih banyak jumlahnya daripada penganut keqadimannya. Dengan jumlah yang banyak itu mereka berpegang bahwa Allah Ta'ala menjadi pelaku alam setelah sebelumnya bukan pelakunya, lalu mereka sepakat bahwa pembaruan kepelakuan ini tidak terjadi karena suatu sebab. Jadi mereka sepakat bahwa makna kebaharuan dan pembaruan terjadi dalam kasus ini tanpa sebab. Seandainya kemustahilan hal itu diketahui secara niscaya, mustahil orang-orang berakal bersepakat atasnya.
+
+[^a98]: CA: Naskah S: "orang yang berpendapat" (bentuk tunggal).
+
+Kedua, mereka berkata: orang yang lari dari binatang buas, bila di hadapannya terbentang dua jalan yang setara dari segala segi, memilih salah satunya tanpa penentu keunggulan. Demikian pula orang yang diberi pilihan untuk minum dari salah satu dari dua gelas air yang setara, memilih salah satunya tanpa penentu keunggulan.[^a99] Contoh-contoh dalam hal ini banyak dan masyhur. Di sini mayoritas sepakat bahwa keunggulan terjadi tanpa penentu keunggulan. Seandainya kemustahilan premis ini diketahui secara swabukti, tentu segolongan besar orang berakal tidak akan berpendapat bahwa hal itu benar.
+
+[^a99]: CA: Kalimat tentang dua gelas air ditambahkan dari naskah S.
+
+Ketiga, segolongan besar mutakalim[^p6] berpendapat bahwa zat-zat setara dalam hal keberadaannya sebagai zat. Mereka berkata:[^a100] hal ini ditunjukkan oleh dua segi.
+
+[^p6]: CP: Edisi Turki menambahkan keterangan dalam kurung "[yakni Muktazilah]". Pendapat bahwa zat-zat setara dalam kezatannya (*tamāthul al-dhawāt*) memang masyhur di kalangan Muktazilah.
+
+[^a100]: CA: Kata "mereka berkata" ditambahkan dari naskah N.
+
+- (a) Zat dapat dibagi menjadi yang wajib dan yang mungkin, yang abstrak dan yang material, dan pokok yang dibagi itu sama-sama dimiliki oleh bagian-bagiannya.
+- (b) Bila kita memahami zat-zat, kemudian kita meyakini bahwa suatu zat wajib karena zatnya, keyakinan pertama tetap. Bila kemudian kita meyakini bahwa zat itu mungkin karena zatnya, keyakinan bahwa ia wajib karena zatnya hilang, tetapi keyakinan bahwa ia zat tidak hilang. Maka tetaplah bahwa keberadaannya sebagai zat[^a101] adalah kadar yang sama-sama dimiliki oleh yang wajib, yang mungkin, yang material,[^a102] dan yang abstrak.
+
+[^a101]: CA: Frasa "maka tetaplah bahwa keberadaannya sebagai zat" ditambahkan dari naskah S.
+
+[^a102]: CA: Naskah M: "yang terpisah (dari materi)" (*al-mufāriq*) sebagai ganti "yang material".
+
+Bila hal ini telah tetap, kami katakan: tidak diragukan bahwa Zat Yang Wajib Ada[^a103] berbeda dari zat-zat lainnya karena suatu batasan; demikian pula zat akal berbeda dari zat jisim karena suatu batasan.[^a104] Sebab, seandainya tidak ada sesuatu yang dengannya pembedaan terjadi, niscaya pembedaan sama sekali tidak terjadi. Bila hal ini telah tetap, kami katakan: telah tetap bahwa zat-zat, sejauh ia zat, adalah hal-hal yang setara; kemudian masing-masing zat itu terkhusus dengan sesuatu yang karenanya ia berbeda dari yang lain. Jika kekhususan masing-masing dengan pembeda itu terjadi karena sesuatu yang lain, niscaya terjadi lingkaran atau regresi tak berhingga, dan keduanya mustahil. Maka kekhususan itu pasti terjadi bukan karena sesuatu dan bukan karena penentu keunggulan. Dengan dalil ini tetaplah terjadinya yang mungkin tanpa penentu keunggulan. Lagi pula, pendapat ini dianut oleh segolongan besar orang berakal. Semua ini membatalkan pendapat bahwa kebutuhan yang mungkin kepada penentu keunggulan adalah premis yang diketahui secara swabukti.
+
+[^a103]: CA: Naskah S: "bahwa zat yang wajib" (tanpa kata "ada").
+
+[^a104]: CA: Kalimat "demikian pula zat akal … suatu batasan" ditambahkan dari naskah S.
+
+**Pertanyaan ketiga**: sebagaimana kita lihat mayoritas orang berakal sepakat bahwa yang baharu pasti memiliki yang membaharukan dan bangunan pasti memiliki pembangun, kita lihat pula mereka sepakat atas premis-premis lain, padahal para mutakalim menganggapnya tidak[^a105] benar.
+
+[^a105]: CA: Kata "tidak" ditambahkan dari naskah N.
+
+Pertama, sebagaimana mereka menganggap mustahil terjadinya bangunan tanpa pembangun, mereka pun menganggap mustahil terjadinya bangunan tanpa materi yang mendahuluinya, misalnya bangunan terjadi tanpa didahului tanah, batu, dan kayu. Seandainya kepastian orang-orang berakal bahwa bangunan membutuhkan pelaku menjadi hujah[^a106] atas kebenaran premis itu, niscaya kepastian mereka bahwa bangunan membutuhkan materi yang mendahuluinya juga menjadi hujah atas kebenaran premis ini. Padahal para mutakalim menganggap bahwa terjadinya sesuatu tidak membutuhkan materi yang mendahuluinya. Ini menunjukkan bahwa kesepakatan mayoritas orang berakal atas suatu hukum berdasarkan fitrah asali tidak menunjukkan bahwa hukum itu benar.
+
+[^a106]: CA: Naskah S: "menjadi hujah, niscaya kepastian mereka … dst." dengan susunan berbeda.
+
+Jika mereka berkata, "Berdasarkan fitrah asali, mereka sepakat bahwa bangunan membutuhkan pembangun, tetapi mereka tidak sepakat bahwa bangunan membutuhkan materi yang mendahuluinya, dengan bukti bahwa para mutakalim menyelisihi mereka dalam kebenaran premis ini", kami jawab: bila kita hendak membedakan proposisi-proposisi fitri yang asali[^a107] dari selainnya, yang dijadikan patokan dalam pembedaan itu adalah hukum fitrah asali[^a108] yang belum terbiasa dengan perbantahan dan perdebatan dan belum akrab dengan sikap keras kepala. Sudah dimaklumi bahwa hukum mayoritas makhluk tentang salah satu dari kedua proposisi ini sama dengan hukum mereka tentang proposisi yang lain. Tinggal dikatakan: segolongan mutakalim menyelisihi bahwa bangunan membutuhkan materi yang mendahuluinya. Maka dapat pula dikatakan: segolongan lain menyelisihi bahwa bangunan membutuhkan pembangun. Jika tampaknya[^a109] penyelisihan dari kelompok kecil merusak keswabuktian suatu proposisi, makna ini ada pada kedua sisi. Dan jika persetujuan dan penyelisihan kaum ahli debat dan perbantahan tidak diperhitungkan, dan yang diperhitungkan hanyalah hukum fitrah asali dan jiwa-jiwa yang bersih dari coretan-coretan batil, makna ini pun ada pada kedua bab. Maka tampaklah bahwa tidak ada jalan untuk membedakan keduanya.
+
+[^a107]: CA: Naskah S: "proposisi-proposisi swabukti" (*al-badīhiyya*) sebagai ganti "proposisi-proposisi fitri yang asali".
+
+[^a108]: CA: Naskah S: "maka yang kami maksud dalam hal itu adalah pembedaan fitrah asali".
+
+[^a109]: CA: Naskah S: "jalan" (*ṭarīq*) sebagai ganti "tampaknya" (*ẓuhūr*).
+
+Kedua, kita lihat orang-orang berakal sepakat bahwa sesuatu hanya terjadi pada waktu tertentu dan tempat tertentu.[^a110] Kemudian para mutakalim menganggap bahwa terjadinya sesuatu tidak bergantung pada didahului oleh waktu tertentu dan tempat tertentu; jika tidak demikian, niscaya mereka harus berpendapat bahwa waktu dan tempat itu qadim. Bila hal ini telah tetap, kami katakan: menurut akal, kesepakatan orang-orang berakal bahwa yang baharu membutuhkan pelaku tidak lebih kuat daripada kesepakatan mereka bahwa yang baharu[^a111] membutuhkan waktu dan tempat. Jika boleh mendustakan salah satu dari kedua bab, boleh pula mendustakan bab yang kedua;[^a112] dan jika wajib membenarkan salah satunya, wajib pula membenarkan bab yang kedua. Maka tetaplah bahwa pembedaan itu batil.
+
+[^a110]: CA: Frasa "dan tempat tertentu" ditambahkan dari naskah S.
+
+[^a111]: CA: Frasa "membutuhkan pelaku tidak lebih kuat … bahwa yang baharu" ditambahkan dari naskah N.
+
+[^a112]: CA: Naskah S: "bab yang lain" (*al-ākhar*). Kata "kedua" pada kalimat berikutnya ditambahkan dari naskah N.
+
+Ketiga, orang-orang berakal memastikan bahwa bangunan tertentu di sebuah rumah atau madrasah hanya terjadi melalui manusia yang mengurus perbaikan bangunan itu. Adapun terjadinya bangunan itu[^a113] tanpa diurus oleh seorang manusia pun dianggap mustahil oleh semua orang. Bahkan, seandainya seseorang mengaku bahwa kemarin ia meninggalkan sebuah padang pasir, lalu keesokan harinya ia kembali dan mendapati rumah-rumah dan kebun-kebun telah berdiri di sana tanpa seorang manusia pun hadir untuk mengurusnya, mayoritas orang berakal akan mendustakan ucapan itu. Kepastian ini ada dalam akal mayoritas, padahal menurut para mutakalim kepastian ini batil. Sebab mereka membolehkan Allah Ta'ala menciptakan bangunan itu secara langsung tanpa perantaraan manusia, dan membolehkan pula salah satu malaikat, atau salah satu jin dan setan, yang mengurus perbaikannya. Maka tetaplah bahwa para mutakalim sepakat bahwa tidak setiap hukum yang diputuskan mayoritas makhluk berdasarkan fitrah asali dan naluri yang sehat pasti benar. Bila hal ini telah tetap, dan tetap pula bahwa kalian tidak memiliki sandaran bagi kebenaran ucapan kalian "yang baharu pasti memiliki yang membaharukan" selain bahwa mayoritas makhluk menghukumi kebenaran premis ini berdasarkan fitrah asali, maka tetaplah bahwa premis ini lemah.
+
+[^a113]: CA: Kalimat "Adapun terjadinya bangunan itu" ditambahkan dari naskah S.
+
+**Pertanyaan keempat**: kami katakan, jika uraian kalian menunjukkan bahwa pengetahuan tentang kebutuhan yang mungkin dan yang baharu kepada pemberi pengaruh adalah pengetahuan niscaya, di sini ada beberapa segi yang menunjukkan bahwa pengetahuan ini tidak niscaya. Penjelasannya dari beberapa segi.
+
+**Sanggahan pertama**: bila kita hadapkan kepada akal kita bahwa satu adalah separuh dari dua, dan kita hadapkan pula bahwa yang mungkin pasti memiliki penentu keunggulan, kita dapati hukum akal atas proposisi pertama lebih jelas daripada hukumnya atas proposisi kedua. Perbedaan kekuatan antara kedua hukum ini menunjukkan bahwa kemungkinan sebaliknya ada pada proposisi yang kalah kuat, dan ini menunjukkan bahwa proposisi yang kalah kuat itu bersifat dugaan, bukan kepastian.
+
+Jika dikatakan:
+
+- (a) Kami tidak menerima adanya perbedaan dalam kepastian akal atas kedua proposisi ini. Apa dalilnya?
+- (b) Anggaplah perbedaan antara kedua hukum ini terjadi pada sebagian waktu; namun pada sebagian waktu lain kekuatan keduanya bisa setara. Orang yang mendengar suara manusia mengetahui secara niscaya kehadiran manusia itu, dan pengetahuan ini setara kekuatannya dengan pengetahuan bahwa satu adalah separuh dari dua.
+- (c) Anggaplah perbedaan itu terjadi secara mutlak; namun kami tidak menerima bahwa perbedaan itu kembali kepada pembenaran; ia kembali kepada konsepsi. Penjelasannya: pembenaran bergantung pada konsepsi kedua ujung proposisi. Konsepsi-konsepsi dalam ucapan kita "satu adalah separuh dari dua" adalah konsepsi yang terang dan tidak membutuhkan definisi, sebab di dalamnya hanya ada konsepsi satu, dua, dan separuh,[^a114] dan konsepsi-konsepsi ini terang dan tidak membutuhkan definisi. Berbeda dengan ucapan kita "yang mungkin membutuhkan pemberi pengaruh", sebab pembenaran ini bergantung pada konsepsi esensi yang mungkin, esensi kebutuhan, dan esensi[^a115] pemberi pengaruh, dan konsepsi ketiga hal ini samar dan tersembunyi. Jadi perbedaan yang terdapat dalam akal makhluk antara kedua hukum ini terjadi karena perbedaan antara konsepsi-konsepsinya. Adapun anggapan bahwa perbedaan itu terjadi pada pembenaran-pembenaran itu sendiri tidak dapat diterima. Apa dalilnya?
+- (d) Anggaplah perbedaan itu terjadi di antara pembenaran-pembenaran. Mengapa kalian katakan bahwa bila salah satu pembenaran lebih kuat daripada yang lain, pembenaran yang kalah kuat pasti bersifat dugaan dan mustahil bersifat yakin? Apa dalil bahwa perkaranya demikian?
+
+[^a114]: CA: Kalimat "sebab di dalamnya hanya ada … tidak membutuhkan definisi" ditambahkan dari naskah N.
+
+[^a115]: CA: Kata "esensi" ditambahkan dari naskah S.
+
+Jawabannya:
+
+- (a) Tentang ucapannya, "Kami tidak menerima adanya perbedaan antara hukum kita bahwa satu adalah separuh dari dua dan hukum kita bahwa salah satu sisi yang mungkin tidak menjadi lebih unggul kecuali karena penentu keunggulan", kami katakan: perbedaan ini diketahui dengan akal secara swabukti, sehingga mengingkarinya berarti mengingkari yang swabukti. Seandainya kalian boleh bersikeras dalam pengingkaran ini secara keras kepala, orang lain pun boleh berkata, "Aku tidak mendapati dalam diriku kepastian akal bahwa yang baharu pasti memiliki yang membaharukan." Walhasil, pokok yang diperhitungkan dalam membedakan hal-hal swabukti dari yang lain adalah apa yang didapati orang-orang berakal dalam jiwa dan akal mereka secara nyata dan terang. Jika kalian membuka pintu pengingkaran secara keras kepala, pintu-pintu itu terbuka bagi semua hal, dan ketika itu segalanya menjadi rusak.
+- (b) Tentang pertanyaan kedua, yaitu bahwa akal, meskipun memutuskan adanya perbedaan pada sebagian waktu, bisa memutuskan kesetaraan keduanya pada waktu-waktu lain, kami katakan: terjadinya perbedaan pada sebagian kasus sudah cukup untuk menggugat, sedangkan kesetaraan pada banyak kasus tidak menghasilkan kebenaran. Penjelasannya: proposisi swabukti adalah proposisi yang semata-mata[^a116] konsepsi subjek dan predikatnya sudah cukup bagi pikiran untuk memastikan nisbah salah satunya kepada yang lain, baik dengan negasi maupun afirmasi. Seandainya proposisi ini swabukti, niscaya konsepsi subjek dan predikatnya cukup untuk menghasilkan pembenaran itu. Jika demikian, mustahil kedua konsepsi itu terlepas dari terjadinya kepastian dalam pembenaran. Bila kedua konsepsi itu terlepas dari kepastian dalam pembenaran, walaupun hanya dalam satu kasus, hal itu sudah cukup untuk mengetahui bahwa kedua konsepsi itu tidak mengharuskan pembenaran tersebut, sebab mengecualikan kebalikan konsekuen (*tālī*)[^k-tali] menghasilkan kebalikan anteseden (*muqaddam*). Adapun seandainya kepastian itu terjadi dalam sejuta kasus, hal itu sama sekali tidak menghasilkan apa pun, sebab mengecualikan konsekuen itu sendiri sama sekali tidak menghasilkan apa pun.
+- (c) Jawaban atas pertanyaan ketiga dari dua segi. Pertama, kami tidak menerima bahwa konsepsi apa pun dapat bersifat perolehan (*kasbī*); pokok ini telah ditetapkan pada awal ilmu logika. Kedua, anggaplah konsepsi dapat bersifat perolehan; namun kita menghadirkan esensi yang mungkin, esensi kebutuhan, dan esensi pemberi pengaruh dalam akal dan pikiran kita dengan cara yang paling sempurna. Sebab yang mungkin tidak memiliki penjelasan selain "yang menerima wujud dan ketiadaan sejauh ia adalah dirinya", atau "yang pengandaian wujudnya dan pengandaian ketiadaannya, sejauh ia adalah dirinya, tidak meniscayakan kemustahilan". Kebutuhan tidak memiliki penjelasan selain keperluan dan ketergantungan. Pemberi pengaruh tidak memiliki penjelasan selain hal yang dengannya dan karenanya sesuatu itu terjadi. Bila engkau telah mengetahui hal ini, kami katakan: setelah kita menghadirkan ketiga konsepsi ini dalam akal kita dengan cara yang paling sempurna, bila kita memandang kepastian akal atas kebenaran ucapan kita "salah satu sisi yang mungkin tidak menjadi lebih unggul daripada yang lain kecuali karena penentu keunggulan", lalu kita memandang kepastian akal bahwa satu adalah separuh dari dua, kita tahu secara niscaya bahwa kepastian yang pertama jauh lebih lemah daripada kepastian yang kedua. Perbedaan ini bukan karena perbedaan dalam konsepsi-konsepsi, sebab dalam keadaan ini kita telah menghadirkan konsepsi-konsepsi itu dengan cara yang paling sempurna. Maka kita tahu bahwa perbedaan ini hanya terjadi pada hukum dan pembenaran.[^a117]
+- (d) Tentang pertanyaan keempat, yaitu ucapannya, "Apa dalil bahwa bila salah satu dari kedua kepastian lebih kuat daripada yang lain, yang kalah kuat bersifat dugaan dan bukan yakin?", kami katakan: dalil bahwa proposisi yang kalah kuat pasti bersifat dugaan dan bukan yakin ialah bahwa kepastian akal atas proposisi yang kalah kuat ini adakalanya disertai penolakan menyeluruh terhadap kebalikannya, adakalanya penolakan tegas terhadap kebalikannya tidak ada. Jika penolakan tegas terhadap kebalikannya ada, mustahil terjadi perbedaan. Jika penolakan tegas terhadap kebalikannya tidak ada, melainkan kemungkinan kebalikannya ada dari sebagian segi,[^a118] baik kemungkinan itu dekat maupun jauh, maka pembenaran itu adalah dugaan yang kuat (*ẓann ghālib*), sebab kemungkinan kebalikan menuntut makna ini. Dan ketika itu kepastian tersebut bukan kepastian dan keyakinan, melainkan dugaan. Inilah seluruh pembahasan tentang jawaban atas pertanyaan-pertanyaan yang mereka ajukan terhadap dalil ini.
+
+[^a116]: CA: Kata "semata-mata" (*mujarrad*) ditambahkan dari naskah N.
+
+[^k-tali]: **Konsekuen** (*tālī*; Ing. *the next, the predicate*). Menurut para ahli logika, *tālī* adalah bagian kedua dari proposisi kondisional (*qaḍiyya sharṭiyya*), dinamai demikian karena ia mengikuti bagian pertama, yang disebut anteseden (*muqaddam*) karena mendahuluinya. Dalam ucapan "Jika matahari terbit, maka siang ada", "jika matahari terbit" adalah anteseden dan "maka siang ada" adalah konsekuen. (*Kashshāf*, s.v. *al-tālī*.)
+
+[^a117]: CA: Kalimat "jauh lebih lemah … hukum dan pembenaran" ditambahkan dari naskah S.
+
+[^a118]: CA: Kalimat "mustahil terjadi perbedaan … kemungkinan kebalikannya ada" ditambahkan dari naskah Z (sebagian tidak terbaca).
+
+**Sanggahan kedua**, untuk menjelaskan bahwa kebutuhan yang mungkin kepada penentu keunggulan bukanlah premis swabukti: telah kami sebutkan bahwa segolongan besar orang berakal berpendapat bahwa salah satu sisi yang mungkin boleh menjadi lebih unggul daripada yang lain tanpa penentu keunggulan. Seandainya proposisi ini swabukti, mustahil golongan-golongan besar bersepakat mengingkarinya.
+
+**Sanggahan ketiga**: seandainya premis ini swabukti, niscaya pengetahuan bahwa yang mungkin yang bertahan, dalam keadaan bertahannya, membutuhkan pemberi pengaruh adalah pengetahuan swabukti, sebab kemungkinan ada padanya. Namun perkaranya tidak demikian, sebab kebanyakan orang berakal menyatakan kebatilannya dan berkata: mengadakan yang sudah ada adalah mustahil menurut akal secara swabukti. Maka kita tahu bahwa pengetahuan[^a119] tentang kebutuhan yang mungkin kepada pemberi pengaruh bukanlah hukum swabukti. Inilah akhir pembahasan tentang jalan-jalan pertanyaan dan sanggahan.
+
+[^a119]: CA: Naskah S: "hukum" (*al-ḥukm*) sebagai ganti "pengetahuan" (*al-ʿilm*).
+
+**Jawaban**. Tentang ucapannya pada pertanyaan pertama, "Syubhat-syubhat yang kalian sebutkan hanya menunjukkan bahwa pengetahuan tentang kebutuhan yang baharu kepada pemberi pengaruh adalah pengetahuan niscaya, dan tidak menunjukkan bahwa pengetahuan tentang kebutuhan yang mungkin kepada pemberi pengaruh[^a120] dan penentu keunggulan adalah pengetahuan niscaya", kami katakan:[^a121] untuk menjawabnya ada dua jalan.
+
+[^a120]: CA: Kata "pemberi pengaruh" ditambahkan dari naskah M.
+
+[^a121]: CA: Naskah M: "kami katakan: kami memiliki (dua jalan) terhadapnya".
+
+Jalan pertama: kami katakan, karena telah tetap dengan segi-segi yang disebutkan tadi bahwa pengetahuan tentang kebutuhan yang baharu[^a122] kepada pemberi pengaruh adalah pengetahuan niscaya dan swabukti,[^a123] maka hal itu mengharuskan kemungkinan pun menjadi sebab kebutuhan kepada pemberi pengaruh. Dalilnya: bila kita mengandaikan sesuatu qadim dan azali, lalu bersamaan dengan itu kita mengandaikannya wajib ada karena zatnya, maka di sini ada keyakinan bahwa ia azali dan ada pula keyakinan bahwa ia wajib ada karena zatnya.[^a124] Bersamaan dengan kedua keyakinan ini, mustahil kita meyakini bahwa dalam wujudnya ia membutuhkan penentu keunggulan dan pemberi pengaruh. Ini menunjukkan bahwa sumber kebutuhan adakalanya kebaharuan, adakalanya kemungkinan, sebab ketika kita mengandaikan hilangnya kedua pengertian ini, mustahil kita menghukumi adanya kebutuhan. Maka tetaplah bahwa yang menuntut kebutuhan adalah gabungan kedua batasan ini atau salah satunya. Bila hal ini telah tetap, kami katakan: kebaharuan mustahil menjadi sebab kebutuhan, bagian dari sebabnya, atau syarat sebabnya. Bila kebaharuan gugur dari pertimbangan, tinggallah bahwa yang berpengaruh dalam kebutuhan ini hanyalah kemungkinan. Dengan jalan ini tampak bagi kita bahwa kemungkinan adalah sebab kebutuhan kepada pemberi pengaruh. Adapun penjelasan bahwa kebaharuan mustahil diperhitungkan dalam hal ini akan datang dalam satu pasal tersendiri.[^a125]
+
+[^a122]: CA: Naskah S: *al-muḥdath* (yang baharu) dengan bentuk berbeda.
+
+[^a123]: CA: Naskah S: "pengetahuan swabukti" sebagai ganti "perkara yang niscaya lagi swabukti".
+
+[^a124]: CA: Kalimat "maka di sini ada keyakinan … wajib ada karena zatnya" ditambahkan dari naskah Z.
+
+[^a125]: CA: Kalimat "Adapun penjelasan … satu pasal tersendiri" ditambahkan dari naskah S.
+
+Jalan kedua: kami tinggalkan segi yang telah kami sebutkan, lalu kami katakan: yang mungkin adalah sesuatu yang nisbah wujud kepadanya sama dengan nisbah ketiadaan. Bila kita meyakini bahwa nisbah wujud dan nisbah ketiadaan kepadanya setara, akal yang jernih memutuskan bahwa mustahil salah satu sisi menjadi lebih unggul daripada yang lain kecuali karena sesuatu yang terpisah. Pengetahuan bahwa perkaranya demikian adalah pengetahuan swabukti dan niscaya. Siapa yang mengingkarinya, ia telah meninggalkan tuntutan akalnya[^a126] dengan lisannya, tetapi hati nuraninya kembali kepadanya. Bila kita berpegang pada jalan ini, kita tidak perlu menyebutkan syubhat-syubhat itu dan menguraikan contoh-contoh tersebut. Inilah jawaban atas pertanyaan pertama.
+
+[^a126]: CA: Naskah S: "meninggalkan pengetahuannya" (*fāraqa ʿilmah*).
+
+Adapun pertanyaan kedua,[^p7] yaitu ucapan mereka, "Sebagaimana akal memastikan bahwa yang baharu pasti memiliki pelaku, akal pun memastikan bahwa yang baharu pasti didahului oleh materi, rentang masa, dan tempat", kami katakan: pertanyaan ini tidak berlaku bagi para filsuf, sebab mereka berpegang bahwa yang baharu,[^a127] sebagaimana ia pasti memiliki pelaku yang mendahuluinya,[^a128] ia pun pasti memiliki materi yang mendahuluinya dan rentang masa yang mendahuluinya. Dengan jalan ini,[^a129] pertanyaan ini tidak berlaku bagi mereka.
+
+[^p7]: CP: Menurut urutan pertanyaan di atas, isi pertanyaan ini adalah pertanyaan ketiga. Edisi Turki menyebutnya "pertanyaan ketiga", sedangkan teks Arab menyebutnya "pertanyaan kedua".
+
+[^a127]: CA: Frasa "bahwa yang baharu" ditambahkan dari naskah N. Kata sebelumnya dalam kalimat pertanyaan ("materi") juga ditambahkan dari naskah N.
+
+[^a128]: CA: Kata "yang mendahuluinya" ditambahkan dari naskah N.
+
+[^a129]: CA: Frasa "dengan jalan ini" ditambahkan dari naskah N.
+
+Adapun para penganut kebaharuan materi dan rentang masa, mereka berkata: perbedaan antara kedua bab itu jelas. Mengenai materi, tidak ada perselisihan bahwa bentuk-bentuk dan aksiden-aksiden terjadi dari ketiadaan murni. Bila kita memahami terjadinya sebagian hal dari ketiadaan murni,[^a130] mengapa terjadinya zat-zat dari ketiadaan murni mustahil menurut akal pada tingkat pertamanya?[^a131] Mengenai rentang masa, mereka berkata: tidak diragukan bahwa sebagian bagiannya mendahului sebagian yang lain, tetapi bukan karena rentang masa yang lain; jika tidak demikian, niscaya rentang masa berada di dalam rentang masa yang lain, dan terjadilah regresi tak berhingga, dan itu mustahil. Maka tetaplah bahwa didahuluinya bagian yang belakangan dari rentang masa oleh bagian yang lebih dahulu[^p8] bukan karena rentang masa yang lain. Bila hal ini dapat dipahami, mengapa tidak dapat dipahami bahwa ketiadaan yang baharu mendahului wujudnya tanpa rentang masa? Maka tetaplah dengan kedua jalan ini bahwa akal yang jernih tidak menuntut yang baharu, dalam kebaharuannya, didahului oleh materi dan rentang masa, sebab dalam kedua kasus ini akal menghukumi adanya kebaharuan tanpa didahului materi dan rentang masa. Adapun mengenai pelaku, akal yang jernih menghukumi adanya kebutuhan kepada pelaku, dan tidak ada sesuatu yang baharu pun yang terjadi tanpa pelaku. Maka tampaklah perbedaannya.
+
+[^a130]: CA: Kalimat "Bila kita memahami … ketiadaan murni" ditambahkan dari naskah S.
+
+[^a131]: CA: Frasa "pada tingkat pertamanya" (*fī awwal al-ʿaql*) ditambahkan dari naskah S.
+
+[^p8]: CP: Naskah S dalam edisi Arab membaca "bagian yang lebih dahulu" (*juzʾ al-mutaqaddam*); teks yang dicetak dalam berkas OCR rusak di tempat ini. Terjemahan mengikuti maksudnya.
+
+Adapun ucapannya dalam sanggahan pertama, "Kepastian akal atas ucapan kita 'satu adalah separuh dari dua' lebih kuat daripada kepastiannya bahwa salah satu sisi yang mungkin tidak menjadi lebih unggul daripada yang lain kecuali karena penentu keunggulan", jawaban yang benar adalah bahwa perbedaan ini tidak diterima. Sebab, orang yang menghilangkan dari akalnya kebiasaan berdebat dan berbantah dalam segala hal, lalu menghadirkan dalam akalnya bahwa nisbah wujud kepadanya sama dengan nisbah ketiadaan kepadanya, dan bahwa sama sekali tidak ada keunggulan salah satu sisi atas yang lain, niscaya memastikan secara swabukti bahwa selama kesetaraan ini tetap berlangsung, mustahil terjadi keunggulan. Bila keunggulan terjadi, kesetaraan itu telah hilang dan sesuatu yang lain telah bergabung ke sisi yang unggul. Bila akal memandang proposisi ini dengan cara demikian, tidak tersisa perbedaan antara proposisi ini dan ucapan "satu adalah separuh dari dua".
+
+Adapun sanggahan kedua, yaitu ucapannya, "Sekelompok orang berakal membolehkan salah satu sisi yang mungkin menjadi lebih unggul daripada yang lain tanpa penentu keunggulan; seandainya proposisi ini swabukti, mereka tidak akan berselisih tentangnya", kami katakan: kami tidak menerima bahwa mereka berpegang pada keunggulan yang mungkin tanpa penentu keunggulan.[^a132] Memang, bisa jadi hal itu merupakan konsekuensi dari sebagian pendapat mereka; namun perbedaan antara konsekuensi suatu pendapat (*luzūm*) dan berpegang padanya (*iltizām*) sudah dimaklumi.[^p9]
+
+[^a132]: CA: Naskah S: "tanpa pemberi pengaruh" (*muʾaththir*). Catatan lain di tempat ini sebagian tidak terbaca.
+
+[^p9]: CP: Kalimat sesudah "Memang, bisa jadi" terpotong dalam berkas OCR teks Arab; terjemahan melengkapinya menurut edisi Turki.
+
+Adapun sanggahan ketiga, yaitu ucapan mereka, "Seandainya proposisi ini swabukti, niscaya pengetahuan bahwa yang mungkin yang bertahan membutuhkan pemberi pengaruh adalah pengetahuan swabukti, padahal tidak demikian", kami katakan: setiap orang yang mengonsepsikan bahwa maujud yang bertahan itu setara (antara wujud dan ketiadaannya) terdorong secara niscaya kepada pengetahuan bahwa ia membutuhkan pemberi pengaruh. Memang, kadang orang tidak menghukumi bahwa ia membutuhkan pemberi pengaruh[^a133] karena meyakini bahwa, karena ia bertahan, ia menjadi lebih layak untuk ada. Namun bila ia menghilangkan syubhat ini dari hatinya dan mengetahui bahwa dalam keadaan bertahan pun kedua sisinya tetap setara sebagaimana dalam keadaan mulai ada, ia terdorong secara niscaya kepada pengetahuan bahwa ia membutuhkan pemberi pengaruh.
+
+[^a133]: CA: Kalimat "Memang, kadang orang tidak menghukumi … pemberi pengaruh" ditambahkan dari salah satu naskah (siglumnya tidak terbaca).
+
+Inilah seluruh pembahasan tentang penetapan[^a134] pendapat kami bahwa pengetahuan tentang kebutuhan yang mungkin kepada pemberi pengaruh adalah pengetahuan swabukti. Dan hanya Allah yang memberi hidayah dan bimbingan.[^a135]
+
+[^a134]: CA: Kata "penetapan" (*taqrīr*) dalam salah satu naskah ditulis berbeda (sebagian tidak terbaca).
+
+[^a135]: CA: Kalimat penutup ini ditambahkan dari salah satu naskah (siglumnya tidak terbaca).
