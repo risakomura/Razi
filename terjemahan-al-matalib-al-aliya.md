@@ -12,9 +12,9 @@
 | Butir | Keterangan |
 |---|---|
 | Tahap | Penerjemahan berjalan: Kitab Pertama, Bagian Pertama |
-| Sudah diterjemahkan | Pembuka; Mukadimah (Pasal 1 sampai 4); Kitab Pertama: Persiapan, Bagian Pertama Pengantar, Pasal 1 sampai 3, Pasal 4 (Syubhat 1 sampai 9) |
-| Posisi berikutnya | Kitab Pertama, Bagian Pertama, Pasal Keempat, Syubhat Kesepuluh (berkas Turki baris 821; berkas Arab baris 10331) |
-| Nomor catatan terakhir | CT: t9 · CA: a205 · CP: p10 |
+| Sudah diterjemahkan | Pembuka; Mukadimah (Pasal 1 sampai 4); Kitab Pertama: Persiapan, Bagian Pertama Pengantar, Pasal 1 sampai 4 |
+| Posisi berikutnya | Kitab Pertama, Bagian Pertama, Pasal Kelima (Tr. h. 72; berkas Turki baris 864; berkas Arab baris 10381) |
+| Nomor catatan terakhir | CT: t11 · CA: a232 · CP: p10 |
 | Catatan Kashshāf baru | istiqra, tasdiq, basira, riyada, maad, iqnai, tali |
 
 ---
@@ -98,6 +98,11 @@ Kolom dan sumber padanan Inggris mengikuti Glosarium v2.0 *Asās al-Taqdīs*. Ta
 | موصوفية الماهية بالوجود | mawṣūfiyyat al-māhiyya bi-l-wujūd | - | **keadaan esensi disifati dengan wujud** | |
 | محض الاتفاق | maḥḍ al-ittifāq | agreement, concord (*ittifāq*) | **kebetulan semata** | |
 | مدة | mudda | - | **rentang masa** | Mengikuti Glosarium *Asās*. |
+| موجب / مختار | mūjib / mukhtār | - | **pelaku yang meniscayakan** / **pelaku yang bebas memilih** | |
+| الإمكان الخاص / العام | al-imkān al-khāṣṣ / al-ʿāmm | - | **kemungkinan khusus** / **kemungkinan umum** | |
+| مؤثرية | muʾaththiriyya | - | **keadaan sebagai pemberi pengaruh** | |
+| مقولة المضاف | maqūlat al-muḍāf | relation (*iḍāfa*) | **kategori relasi** | |
+| اعتبارات ذهنية / في الأعيان | iʿtibārāt dhihniyya / fī al-aʿyān | - | **pertimbangan pikiran** / **di alam nyata** | |
 | مرجح | murajjiḥ | - | **penentu keunggulan** | Mengikuti Glosarium *Asās*. |
 | مؤثر | muʾaththir | - | **pemberi pengaruh** | Mengikuti Glosarium *Asās*. |
 
@@ -1096,3 +1101,96 @@ Kami katakan bahwa hal ini mustahil, karena ketiadaan yang terus berlangsung men
 [^a205]: CA: Naskah S: "demikian pula dalam keadaan meninggalkan ia tidak mampu berbuat".
 
 Kami katakan bahwa adanya pelaku yang bebas memilih pasti diakui, karena kita mengetahui secara swabukti perbedaan antara seorang hamba yang bergerak dengan pilihannya, sesekali ke kanan dan sesekali ke kiri, dan orang yang gemetar yang bergerak karena terpaksa. Demikian pula, orang yang melemparkan batu ke wajah seseorang mengetahui perbedaan antara gerak batu dan gerak tangan pelempar itu, sebab orang-orang berakal dengan akal mereka yang swabukti mengetahui bahwa batu itu tidak boleh dipuji atau dicela karena gerak itu, sedangkan pelemparnya layak dipuji atau dicela karena gerak itu. Seandainya hamba tidak bebas memilih dalam perbuatannya, perbedaan ini tidak akan ada. Maka tetaplah bahwa seandainya keunggulan salah satu sisi yang mungkin atas yang lain bergantung pada penentu keunggulan, niscaya hamba tidak bebas memilih dalam perbuatannya. Dan karena telah tetap bahwa ia bebas memilih dalam perbuatannya, yang mungkin pasti tidak membutuhkan penentu keunggulan.
+
+**Syubhat kesepuluh**: orang yang lari dari binatang buas, bila di hadapannya tampak dua jalan yang setara dari segala segi, memilih salah satunya tanpa penentu keunggulan. Orang yang haus, bila diberi pilihan untuk minum dari salah satu dari dua gelas yang setara, dan orang yang lapar, bila diberi pilihan untuk memakan salah satu dari dua roti yang setara, demikian pula; dan begitu pula halnya dengan contoh-contoh lain yang serupa. Jangan dikatakan, "Ketika pelaku itu mengkhususkan salah satu sisi dengan pengunggulan, pengunggulan dan pengkhususan (*takhṣīṣ*) itu sendiri adalah penentu keunggulan." Sebab kami katakan: jika tidak sah bagi pemilik kuasa itu untuk mengunggulkan sisi yang kalah atas sisi yang unggul sebagai ganti pengunggulan tadi, ia adalah pelaku yang meniscayakan (*mūjib*), bukan yang bebas memilih (*mukhtār*). Jika sah baginya masing-masing dari kedua kemungkinan sebagai ganti yang lain, maka jika pengunggulan salah satu sisi atas yang lain bergantung pada penentu keunggulan, ia menjadi pelaku yang meniscayakan dan keluar dari keadaan sebagai yang bebas memilih; dan jika tidak bergantung pada penentu keunggulan, berarti keunggulan yang mungkin telah terjadi tanpa penentu keunggulan.
+
+**Syubhat kesebelas**: pendapat bahwa yang mungkin membutuhkan pemberi pengaruh merusak keberadaannya sebagai yang mungkin, sehingga kebutuhan itu pasti tidak terwujud. Penjelasan proposisi kondisional ini: yang mungkin, jika bersamanya ada wujud sebab, ia wajib terjadi; dan jika bersamanya ada ketiadaan sebab itu, ia mustahil terjadi. Karena tidak ada perantara antara adanya sebab dan ketiadaannya, masing-masing dari keduanya menghalangi kemungkinan, sehingga kemungkinan pasti sama sekali tidak ada. Maka tetaplah bahwa pendapat tentang kebutuhan yang mungkin kepada sebab menafikan keberadaannya sebagai yang mungkin. Sudah dimaklumi bahwa sesuatu yang penetapannya berujung pada penafiannya, penetapannya itu batil. Maka pendapat tentang adanya kebutuhan ini pasti batil.[^a206]
+
+[^a206]: CA: Catatan pada bagian ini dalam naskah N sebagian tidak terbaca.
+
+Jika seseorang berkata, "Mengapa tidak boleh dikatakan: (a) yang mungkin itu mungkin bila dipandang dari zat dan esensinya, dalam arti bahwa ia, sejauh ia adalah dirinya, dengan mengabaikan wujud sebab dan ketiadaannya, menerima wujud dan ketiadaan; atau (b) ia menjadi wajib ada pada saat ini karena hadirnya sebab wujudnya, tetapi ia mungkin ada bila dipandang dari waktu yang akan datang?"
+
+Jawabannya: kemungkinan pertama batil, karena esensi sesuatu adakalanya identik dengan wujudnya, adakalanya berlainan dengannya. Jika yang pertama, mustahil dikatakan bahwa ia, sejauh ia adalah dirinya, mungkin ada, sebab menurut pendapat ini ia tidak memiliki identitas (*huwiyya*) selain wujud, sedangkan wujud, sejauh ia wujud, menafikan ketiadaan, dan yang menafikan sesuatu tidak menerima sesuatu itu. Maka esensi itu pasti mustahil menerima ketiadaan. Adapun kemungkinan kedua,[^a207] yaitu bahwa esensi berlainan dengan wujud, kami katakan: dengan pengandaian ini, yang dihukumi mungkin adalah esensi, wujud, atau keadaan esensi disifati dengan wujud. Mustahil yang dihukumi mungkin itu esensi, karena esensi[^a208] sejauh ia adalah dirinya tidak menerima penafian dan penggantian; ia justru wajib terwujud pada dirinya dan karena zatnya, sehingga sama sekali tidak mungkin. Mustahil pula yang dihukumi mungkin itu wujud sejauh ia wujud, karena wujud sejauh ia wujud tidak menerima ketiadaan, sehingga mustahil wujud sejauh ia wujud[^a209] menerima ketiadaan. Dan mustahil yang dihukumi mungkin itu keadaan esensi disifati dengan wujud, karena keadaan disifati itu, jika bukan sesuatu yang eksistensial, pembicaraan itu batal; dan jika sesuatu yang eksistensial, pembagian pertama kembali berlaku. Maka tetaplah bahwa dalih yang kalian sebutkan ini batil.
+
+[^a207]: CA: Naskah S: "segi kedua" (*al-wajh*) sebagai ganti "kemungkinan kedua" (*al-iḥtimāl*).
+
+[^a208]: CA: Frasa "karena esensi" ditambahkan dari naskah S.
+
+[^a209]: CA: Frasa "tidak menerima ketiadaan, sehingga mustahil wujud sejauh ia wujud" ditambahkan dari naskah N.
+
+Adapun pertanyaan kedua, yaitu bahwa kemungkinan terwujud dengan nisbah kepada waktu yang akan datang, maksudnya adakalanya bahwa ketika masa depan tiba, kemungkinan ini terwujud; adakalanya bahwa kemungkinan itu[^a210] terwujud pada saat ini[^a211] dengan nisbah kepada masa depan. Yang pertama batil, karena masa depan berubah menjadi masa kini ketika ia hadir, sehingga pertanyaan tadi kembali. Yang kedua juga batil, karena terwujudnya sesuatu pada masa depan disyarati oleh terwujudnya masa depan, sedangkan masa depan mustahil terwujud pada saat ini, dan yang bergantung pada yang mustahil adalah mustahil. Maka sesuatu, dengan syarat terwujudnya pada masa depan,[^a212] mustahil terwujud pada saat ini. Bila dari segi ini ia mustahil terwujud, mustahil dikatakan bahwa dari segi ini ia mungkin terwujud, sebab kemungkinan khusus dan kemustahilan tidak berhimpun pada satu hal dari satu segi.
+
+[^a210]: CA: Frasa "adakalanya bahwa kemungkinan itu" ditambahkan dari naskah S.
+
+[^a211]: CA: Frasa "pada saat ini" ditambahkan dari naskah S.
+
+[^a212]: CA: Frasa "pada masa depan" ditambahkan dari naskah S.
+
+**Syubhat kedua belas**: seandainya yang baharu membutuhkan pemberi pengaruh, pemberi pengaruh itu, beserta seluruh batasan yang diperhitungkan dalam keadaannya sebagai pemberi pengaruh, adakalanya dikatakan sudah maujud sebelum akibat itu, adakalanya belum maujud sebelumnya. Jika yang pertama, terjadinya akibat itu pada salah satu dari dua waktu, dan bukan pada waktu yang lain, merupakan keunggulan salah satu sisi yang mungkin atas yang lain tanpa penentu keunggulan, dan itu merusak ucapan kita bahwa yang mungkin membutuhkan pemberi pengaruh. Kecuali bila dikatakan bahwa hadirnya waktu ini merupakan syarat bagi munculnya akibat dari pemberi pengaruh, atau[^t10] bahwa berlalunya waktu pertama merupakan syaratnya. Namun dengan pengandaian ini harus dikatakan bahwa pemberi pengaruh, beserta segala yang diperlukan dalam keadaannya sebagai pemberi pengaruh, belum maujud sebelum akibat ini, sebab berlalunya waktu pertama dan hadirnya waktu kedua termasuk hal-hal yang diperhitungkan dalam keadaan sebagai pemberi pengaruh itu, padahal ia belum hadir[^a213] sebelumnya; sedangkan dalam pembagian ini kita telah mengandaikan bahwa semua hal itu sudah hadir. Ini kontradiksi. Adapun jika kita katakan bahwa pemberi pengaruh, beserta segala yang diperlukan untuk terjadinya keadaan sebagai pemberi pengaruh, belum ada sebelumnya dan baru terjadi pada waktu ini, maka pembicaraan tentang terjadinya keseluruhan itu sama dengan pembicaraan tentang terjadinya akibat itu. Jika keseluruhan itu terjadi tanpa pemberi pengaruh, ini adalah pendapat bahwa akibat yang baharu tidak membutuhkan pemberi pengaruh. Jika ia membutuhkan pemberi pengaruh yang lain, niscaya terjadi regresi tak berhingga atau lingkaran, dan keduanya batil menurut mereka.
+
+[^t10]: CT: Naskah cetak membaca *law* (seandainya), sedangkan naskah Perpustakaan Konya Yusuf Ağa no. 692 membaca *aw* (atau). Terjemahan mengikuti naskah tulisan tangan.
+
+[^a213]: CA: Kata "hadir" (*ḥāḍiran*) ditambahkan dari naskah S.
+
+**Syubhat ketiga belas**: yang mungkin muncul dari yang wajib adakalanya dalam keadaan munculnya itu mungkin, adakalanya dalam keadaan munculnya itu wajib. Jika yang pertama, yang mungkin telah menjadi unggul tanpa pemberi pengaruh. Jika yang kedua, benarlah bahwa akibat ini termasuk kelaziman wujud sebab itu; dan tiadanya yang melazimi meniscayakan tiadanya yang dilazimi. Maka dari hilangnya akibat ini niscaya hilang pula sebabnya, dan dari hilangnya sebabnya niscaya hilang pula sebab dari sebabnya; demikianlah dikatakan bahwa dari hilangnya setiap akibat niscaya hilang pula sebabnya,[^a214] hingga berujung pada Prinsip Pertama. Maka harus dikatakan bahwa dari hilangnya hal-hal yang mungkin dan peristiwa-peristiwa baharu ini niscaya hilang pula Yang Wajib Ada karena Zat-Nya, dan itu mustahil.
+
+[^a214]: CA: Frasa "setiap akibat niscaya hilang pula sebabnya … dari hilangnya" ditambahkan dari naskah N.
+
+Jika seseorang berkata, jawabannya dari dua segi:
+
+- (a) hilangnya akibat tidak meniscayakan hilangnya pemberi pengaruh; ia justru menunjukkan bahwa pemberi pengaruh telah hilang lebih dahulu, sehingga hilangnya sebab itulah yang meniscayakan hilangnya akibat ini;
+- (b) mengapa tidak boleh dikatakan bahwa hilangnya akibat menunjukkan bahwa salah satu syarat yang diperhitungkan dalam pengaruh Yang Wajib Ada karena Zat-Nya bagi terjadinya akibat ini telah hilang?[^a215] Dengan pengandaian ini, dari hilangnya akibat ini tidak niscaya hilang zat sebabnya.
+
+[^a215]: CA: Frasa "telah hilang" ditambahkan dari naskah N.
+
+Kami jawab: jawaban pertama lemah, karena seandainya perkaranya demikian,[^a216] setiap kali akibat hilang, pemberi pengaruh telah hilang lebih dahulu. Padahal kita menyaksikan tiadanya bentuk-bentuk dan aksiden-aksiden di alam kita ini, sehingga ketiadaannya pasti menunjukkan ketiadaan sebab-sebabnya, dan ketika itu hal mustahil[^a217] yang disebutkan tadi kembali terjadi.
+
+[^a216]: CA: Kata "seandainya" (*la-kāna*) ditambahkan dari naskah Z.
+
+[^a217]: CA: Naskah Z: "hal yang ditakutkan" (*al-maḥdhūr*) sebagai ganti "hal mustahil" (*al-muḥāl*).
+
+Jawaban kedua juga lemah, karena pembicaraan tentang hilangnya syarat itu sama dengan pembicaraan tentang hilangnya akibat itu. Jika hilangnya syarat itu karena hilangnya syarat lain, niscaya setiap yang baharu terjadi karena yang baharu lain tanpa akhir. Kemudian, sebab-sebab dan akibat-akibat yang tak berhingga ini, seandainya maujud bersamaan, niscaya sebab-sebab dan akibat-akibat yang tak berhingga maujud sekaligus, dan itu mustahil.[^a218] Jika sebagiannya mendahului sebagian yang lain, berarti kalian telah membolehkan penyandaran peristiwa baharu yang maujud sekarang kepada sebab yang dahulu maujud dan kini tidak maujud. Bila hal itu boleh, mengapa tidak boleh dikatakan bahwa yang menuntut wujud sesuatu yang maujud sekarang ini adalah sesuatu yang maujud sebelumnya, lalu lenyap ketika yang baharu ini datang? Ini persis[^a219] apa yang kalian katakan tentang syarat-syarat yang silih berganti. Dan ketika itu kalian tidak dapat berdalil dengan wujud hal-hal yang mungkin ini atas wujud maujud yang wajib ada karena zatnya.
+
+[^a218]: CA: Frasa "dan itu mustahil" ditambahkan dari naskah N.
+
+[^a219]: CA: Kata "persis" (*ʿayn*) ditambahkan dari naskah Z.
+
+**Syubhat keempat belas**: alam adakalanya memiliki pemberi pengaruh, adakalanya tidak. Jika tidak memiliki pemberi pengaruh, padahal alam mungkin karena zatnya, berarti yang mungkin telah terjadi tanpa pemberi pengaruh. Jika memiliki pemberi pengaruh, pemberi pengaruh itu adakalanya pelaku yang meniscayakan (*mūjib*), adakalanya pelaku yang bebas memilih (*mukhtār*). Jika ia pelaku yang meniscayakan, maka terkhususnya titik tertentu untuk menjadi kutub falak, bukan titik-titik lain yang setara dengannya, adalah keunggulan yang mungkin tanpa penentu keunggulan. Demikian pula halnya dengan terkhususnya masing-masing bintang pada sisi tertentu dari falak, bukan sisi-sisi lainnya; terkhususnya sebagian sisi falak pelengkap (*al-mutammim*)[^a220] dengan ketipisan, bukan sisi-sisi lainnya; dan beradanya bola alam pada sisi tertentu dari hampa yang tak berujung, menurut orang yang berpendapat adanya hampa itu. Adapun jika ia pelaku yang bebas memilih, maka pengkhususan pengadaan alam pada waktu tertentu, bukan pada waktu-waktu lain[^a221] sebelum dan sesudahnya, adalah pengunggulan salah satu sisi yang mungkin atas yang lain tanpa penentu keunggulan. Maka tetaplah bahwa pendapat bahwa yang mungkin tidak membutuhkan pemberi pengaruh niscaya berlaku menurut semua pengandaian.
+
+[^a220]: CA: Dalam salah satu naskah tertulis *al-muḥjim* (sebagian tidak terbaca).
+
+[^a221]: CA: Kata "lain" (*sāʾir*) ditambahkan dari naskah S.
+
+**Syubhat kelima belas**: seandainya sesuatu memberi pengaruh pada sesuatu, pengaruh pemberi pengaruh pada akibat adakalanya terjadi karena pertimbangan keberadaannya sebagai pemberi pengaruh, adakalanya karena pertimbangan lain selain keberadaannya sebagai pemberi pengaruh. Kedua kemungkinan ini batil, maka pendapat tentang adanya pemberian pengaruh batil. Kami katakan bahwa ia mustahil memberi pengaruh padanya karena pertimbangan keberadaannya sebagai pemberi pengaruh, karena keberadaan sesuatu sebagai pemberi pengaruh pada yang lain adalah nisbah khusus antara zat pemberi pengaruh dan zat akibat, dan nisbah antara dua hal terkemudian dalam urutan martabat dari kedua zat itu.[^a222] Dari sini niscaya dikatakan bahwa keberadaan pemberi pengaruh sebagai pemberi pengaruh pada zat akibat adalah nisbah yang terkemudian dalam urutan martabat dari zat akibat. Seandainya kita menghukumi bahwa zat akibat hanya ada[^a223] karena keadaan sebagai pemberi pengaruh itu, niscaya keadaan sebagai pemberi pengaruh ini mendahului zat akibat dalam urutan martabat; dan ketika itu masing-masing dari keduanya, yakni[^a224] keadaan sebagai pemberi pengaruh dan zat akibat, mendahului yang lain, dan itu mustahil. Adapun penjelasan rusaknya bagian kedua, yaitu bahwa pemberi pengaruh memberi pengaruh pada akibat bukan karena pertimbangan keberadaannya sebagai pemberi pengaruh padanya, hal ini pun batil; sebab seandainya ia memberi pengaruh padanya bukan karena pertimbangan keberadaannya sebagai pemberi pengaruh padanya,[^a225] niscaya pengaruh itu terjadi bukan karena pertimbangan keadaan sebagai pemberi pengaruh, dan ketika itu terjadilah penghimpunan dua hal yang saling berlawanan, dan itu mustahil.
+
+[^a222]: CA: Naskah S: "dari zat" (bentuk tunggal).
+
+[^a223]: CA: Naskah S: *wujida* (ada) dengan bentuk berbeda.
+
+[^a224]: CA: Naskah S: "atas" (*ʿalā*) sebagai ganti "yakni" (*aʿnī*).
+
+[^a225]: CA: Kalimat "hal ini pun batil … sebagai pemberi pengaruh padanya" ditambahkan dari naskah N.
+
+**Syubhat keenam belas**: selama wujud akibat belum wajib dari pemberi pengaruh, mustahil ia masuk ke dalam wujud. Sebab, jika dikatakan bahwa munculnya akibat dari pemberi pengaruh tidak wajib, maka ia mungkin muncul darinya; dan selama sesuatu tetap dalam kemungkinannya, mustahil ia masuk ke dalam wujud.[^a226][^t11] Maka tetaplah bahwa selama akibat belum menjadi wajib muncul dari pemberi pengaruh, mustahil ia masuk ke dalam wujud. Bila hal ini telah tetap, niscaya dikatakan bahwa keadaannya menjadi wajib muncul dari pemberi pengaruh mendahului masuknya ke dalam wujud dalam urutan martabat. Namun kewajiban munculnya dari pemberi pengaruh adalah salah satu sifat wujudnya, dan sifat terkemudian dalam urutan martabat dari yang disifati. Ini menuntut masing-masing dari kedua pertimbangan ini mendahului yang lain dan sekaligus terkemudian darinya, dan itu mustahil.
+
+[^a226]: CA: Redaksi naskah S: "Jika dikatakan: bila akibat tidak wajib dan menjadi wajib, mustahil ia masuk ke dalam wujud. Maka tetaplah bahwa akibat … dst." Kalimat dalam kurung siku di tempat ini ditambahkan dari naskah N.
+
+[^t11]: CT: Diterjemahkan sesuai redaksi naskah Perpustakaan Konya Yusuf Ağa no. 692.
+
+**Syubhat ketujuh belas**: pemberi pengaruh mustahil memberi pengaruh pada sesuatu kecuali bila sesuatu itu pada dirinya mungkin ada dan membutuhkan yang lain. Maka tetaplah bahwa ketika tidak ada kemungkinan dan kebutuhan, mustahil sesuatu menjadi pemberi pengaruh padanya. Seandainya ia menjadi[^a227] pemberi pengaruh padanya ketika kemungkinan dan kebutuhan ada, niscaya kemungkinan dan kebutuhan ini menjadi sebab bagi keberadaan (pemberi pengaruh) yang terpisah itu sebagai sebab bagi wujudnya. Ini mustahil karena dua segi. Pertama, niscaya sesuatu yang tidak wajib ada karena zatnya memiliki pengaruh pada Zat Yang Wajib Ada karena Zat-Nya,[^a228] dan itu mustahil. Kedua, telah kami tunjukkan bahwa kemungkinan dan kebutuhan ini adalah dua hal yang bersifat ketiadaan.[^a229] Seandainya keduanya kita jadikan sebab bagi keberadaan sebab pelaku sebagai pemberi pengaruh pada wujud akibat, niscaya sebab pertama[^a230] bagi maujud-maujud ini adalah sesuatu yang bersifat ketiadaan,[^a231] dan ketika itu ketiadaan menjadi sebab bagi wujud, dan itu mustahil.
+
+[^a227]: CA: Naskah S: "seandainya kita andaikan" (*faraḍnā*) sebagai ganti "seandainya ia menjadi" (*ṣāra*).
+
+[^a228]: CA: Frasa "pada Zat Yang Wajib Ada karena Zat-Nya" ditambahkan dari salah satu naskah (siglumnya tidak terbaca).
+
+[^a229]: CA: Salah satu naskah membaca "dua batasan" (*qaydān*) sebagai ganti "dua hal" (sebagian tidak terbaca).
+
+[^a230]: CA: Frasa "pemberi pengaruh pada wujud akibat, niscaya sebab pertama" ditambahkan dari naskah Z.
+
+[^a231]: CA: Naskah S: "penghalang wujud" (*māniʿ wujūd*); catatan ini sebagian tidak terbaca.
+
+**Syubhat kedelapan belas**: pemberi pengaruh belum menjadi pemberi pengaruh secara aktual sebelum masuknya akibat ke dalam wujud. Maka bila ia menjadi pemberi pengaruh secara aktual ketika akibat ada, keadaan sebagai pemberi pengaruh itu telah terjadi (sebagai sesuatu yang baharu). Jika terjadinya karena akibat ini, niscaya terjadi lingkaran; jika karena sesuatu yang lain, niscaya terjadi regresi tak berhingga; dan jika keadaan sebagai pemberi pengaruh ini terjadi tanpa sebab sama sekali, itu berarti berpendapat bahwa yang baharu dan mungkin[^a232] tidak membutuhkan pemberi pengaruh dan pelaku.
+
+[^a232]: CA: Naskah S: "yang mungkin" tanpa "yang baharu". Catatan lain di tempat ini sebagian tidak terbaca.
+
+Inilah seluruh syubhat orang-orang yang menafikan pemberian pengaruh dan akibat.
