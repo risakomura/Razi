@@ -12,8 +12,8 @@
 | Butir | Keterangan |
 |---|---|
 | Tahap | Penerjemahan berjalan: Kitab Pertama, Bagian Pertama |
-| Sudah diterjemahkan | Pembuka; Mukadimah; Kitab Pertama, Bagian Pertama: Persiapan, Pengantar, Pasal 1 sampai 8 |
-| Posisi berikutnya | Kitab Pertama, Bagian Pertama, Pasal Kesembilan (berkas Turki baris 1056) |
+| Sudah diterjemahkan | Pembuka; Mukadimah; Kitab Pertama, Bagian Pertama: Persiapan, Pengantar, Pasal 1 sampai 9, Pasal 10 (sebagian) |
+| Posisi berikutnya | Kitab Pertama, Bagian Pertama, Pasal Kesepuluh, lanjutan pertanyaan-pertanyaan terhadap burhan pertama (berkas Turki baris 1141) |
 | Nomor catatan terakhir | CT: t5 · CA: a1 · CP: p7 |
 | Catatan Kashshāf baru | istiqra, tasdiq, basira, riyada, maad, iqnai, tali |
 
@@ -844,3 +844,97 @@ Seseorang berkata: pertanyaan-pertanyaan ini memang dapat diajukan, dan titik-ti
 Namun orang dapat menyanggah: pembahasan rasional tidak berubah dengan berubahnya lafaz dan ungkapan. Untuk menjelaskannya kami katakan: anggaplah kalian menafsirkan yang wajib karena zatnya sebagai "yang dalam wujudnya tidak membutuhkan sebab yang terpisah". Namun mengapa tidak boleh dikatakan bahwa esensi dan hakikat wujud yang tidak membutuhkan sebab dalam wujudnya ini menerima ketiadaan dan wujud secara setara, tetapi wujudnya unggul atas ketiadaannya tanpa penentu keunggulan, baik karena zatnya maupun karena yang lain? Dan mengapa tidak boleh dikatakan bahwa hakikat ini, meskipun menerima ketiadaan, wujud lebih layak baginya, sehingga karena adanya kelayakan itu ia tidak membutuhkan pemberi pengaruh yang terpisah? Maka tampaklah dari uraian kami bahwa kepastian tentang adanya maujud yang hakikatnya sama sekali tidak menerima ketiadaan hanya dapat tercapai dengan menetapkan premis-premis ini.
 
 Ketahuilah, pembahasan tentang lafaz tidak dapat menolak hakikat-hakikat rasional. Pembahasan tentang lafaz hanya berpengaruh dalam memindahkan pembahasan dari satu maqam ke maqam lain, dan faedahnya sedikit.
+
+### Pasal Kesembilan {.pasal-ke}
+
+### Bukti Kebatilan Lingkaran {.judul-pasal}
+
+**Dalil pertama**: mereka berdalil atas kebatilan lingkaran sebagai berikut. Telah tetap bahwa sebab mendahului akibat. Seandainya masing-masing dari dua hal menjadi sebab bagi yang lain, niscaya masing-masing mendahului yang lain. Karena yang ini mendahului yang itu dan yang itu mendahului yang ini, niscaya yang ini mendahului dirinya sendiri, sebab yang mendahului sesuatu yang mendahului hal lain pasti mendahului hal lain itu. Maka niscaya satu hal mendahului dirinya sendiri, dan itu mustahil.
+
+Namun dapat disanggah: apa yang kalian maksud dengan ucapan "sebab mendahului akibat"? Jika yang kalian maksud adalah kedahuluan menurut waktu, itu batil, karena telah kami katakan bahwa kedahuluan semacam itu mustahil; lagi pula telah kami jelaskan bahwa benarnya pendapat tentang kedahuluan menurut waktu justru membatalkan dalil ini. Jika yang kalian maksud adalah kedahuluan menurut zat dan kesebaban, kami katakan: pembicaraan tentang penetapan kedahuluan menurut zat dan kesebaban adalah pembicaraan yang beredar di lidah para filsuf, sehingga ia perlu diteliti. Untuk memperdalam penelitian ini kami katakan: dengan kedahuluan menurut kesebaban, kalian adakalanya memaksudkan bahwa yang ini adalah pemberi pengaruh yang berpengaruh pada yang itu, menjadi sebabnya, dan mewajibkannya; adakalanya kalian memaksudkan hal lain. Jika yang pertama, ucapan kalian "sebab mendahului akibat" berarti "sebab adalah sebab bagi akibat", sehingga kedahuluan ini tidak memiliki makna selain kesebaban. Dengan pengandaian ini, ucapan kalian menjadi: "Seandainya masing-masing dari keduanya menjadi sebab bagi yang lain, niscaya masing-masing menjadi sebab bagi yang lain"; maka tidak ada perbedaan antara anteseden dan konsekuen proposisi kondisional itu, sehingga ucapan itu rusak. Jika yang kalian maksud dengan kedahuluan adalah makna lain selain kesebaban dan pemberian pengaruh, makna itu perlu dijelaskan, sebab ia tidak dapat dipahami.
+
+Mereka dapat menyanggah dengan bertanya: "Kedahuluan menurut kesebaban memiliki makna yang berlainan dengan kedahuluan menurut waktu dan berlainan pula dengan kesebaban itu sendiri. Bahwa kedahuluan menurut kesebaban memiliki makna yang berlainan dengan kedahuluan menurut waktu: bila engkau menggerakkan jarimu, cincin pun bergerak; dan mustahil gerak jari mendahului gerak cincin menurut waktu, sebab jika demikian niscaya dua jisim saling menembus, dan itu mustahil. Maka di sini ada kedahuluan menurut kesebaban tanpa kedahuluan menurut waktu, sehingga tampaklah bahwa keduanya berlainan. Adapun bahwa kedahuluan menurut kesebaban adalah makna yang berlainan dengan kesebaban itu sendiri: akal memutuskan bahwa selama wujud sebab pada dirinya belum terwujud secara sempurna, mustahil perbuatan muncul darinya; dan sudah diketahui bahwa wujud sebab secara sempurna adalah sesuatu yang berlainan dengan keberadaannya sebagai sebab bagi akibat ini. Ini menunjukkan bahwa kedahuluan menurut kesebaban berlainan dengan kesebaban itu sendiri."
+
+Dalam menjawab pertanyaan ini kami katakan: tidak ada perselisihan bahwa gerak jari dan gerak cincin ada bersamaan, dan tidak ada perselisihan pula bahwa akal memutuskan keduanya berurutan. Namun kami katakan: mengapa tidak boleh urutan ini adalah kesebaban dan pemberian pengaruh itu sendiri? Sebab akal memutuskan bahwa gerak jari adalah pemberi pengaruh bagi gerak cincin, dan bahwa gerak cincin lahir dari gerak jari. Namun makna yang kami sebutkan ini tidak lain adalah kesebaban, kebutuhan, dan pemberian pengaruh itu sendiri; di sini tidak ada makna lain. Dengan penjelasan singkat ini tampaklah bahwa bila dikatakan "kedahuluan menurut kesebaban", yang terbentuk dalam pikiran tidak lain adalah kesebaban itu sendiri.
+
+Bila hal ini telah tetap, kami katakan: makna ucapan kalian, "Seandainya masing-masing dari keduanya menjadi sebab bagi wujud yang lain, niscaya masing-masing mendahului yang lain", adalah: "Seandainya masing-masing dari keduanya menjadi sebab bagi yang lain, niscaya masing-masing menjadi sebab bagi yang lain." Ini berarti menjadikan sesuatu sebagai kelaziman bagi dirinya sendiri, dan itu batil.
+
+Alasan lain: jika kemustahilan masing-masing dari keduanya menjadi sebab bagi yang lain diketahui secara swabukti, tidak perlu menguraikan dalil. Dan jika ia membutuhkan pembuktian dengan bukti dan dalil, apa yang ia katakan tidak berfaedah dan tidak bermakna dari segi ini, sebab dalilnya tidak lain adalah mengganti satu lafaz dengan lafaz lain; dan sudah diketahui bahwa hal itu tidak menggemukkan dan tidak pula menghilangkan lapar.
+
+**Dalil kedua**: tentang kebatilan lingkaran, mereka berkata dalam dalil kedua: "Seandainya masing-masing dari keduanya menjadi sebab bagi yang lain, niscaya masing-masing menjadi sebab dari sebab dirinya sendiri; dan sebab dari sebab adalah sebab. Maka niscaya masing-masing menjadi sebab bagi dirinya sendiri, dan itu mustahil."
+
+Seseorang dapat menyanggah: pokok dalil ini adalah ucapan "sebab dari sebab sesuatu adalah sebab bagi sesuatu itu", dan ini ungkapan samar yang perlu diteliti. Dikatakan: jika dengan ucapan kalian "sebab dari sebab sesuatu pasti menjadi sebab bagi sesuatu itu" kalian maksudkan bahwa ia pasti memberi pengaruh pada sesuatu itu dan mengadakannya, hal ini batil secara pasti; sebab dengan pengandaian ini sebab dari sebab menjadi sebab terdekat bagi sesuatu itu, sedangkan keberadaannya sebagai sebab terdekat menghalangi keberadaannya sebagai sebab dari sebab. Jadi ucapan kalian "sebab dari sebab sesuatu pasti menjadi sebab terdekat bagi sesuatu itu" adalah ucapan yang mengandung kontradiksi. Dan jika dengan ucapan kalian itu kalian maksudkan bahwa ia adalah "sebab dari sebab sesuatu itu", hal itu diterima; namun pembicaraan tentangnya pada akhirnya kembali menjadi hukum "sebab dari sebab sesuatu pasti menjadi sebab dari sebab sesuatu itu", dan jelas bahwa ucapan ini sia-sia dan tidak berfaedah.
+
+**Dalil ketiga**, dan inilah bukti yang paling kuat: seandainya masing-masing dari keduanya menjadi sebab bagi yang lain, niscaya masing-masing membutuhkan yang lain; dan yang membutuhkan sesuatu yang membutuhkan hal lain pasti membutuhkan hal lain itu. Maka niscaya masing-masing membutuhkan dirinya sendiri. Ini mustahil dari dua segi.
+
+Pertama, yang membutuhkan sesuatu memerlukannya, sedangkan yang dibutuhkan tidak memerlukan yang membutuhkannya. Seandainya sesuatu membutuhkan dirinya sendiri, niscaya satu hal, dari nisbah yang sama, sekaligus membutuhkan dan tidak membutuhkan; dan itu berarti menghimpun dua hal yang saling berlawanan, dan itu mustahil.
+
+Kedua, kebutuhan kepada sesuatu adalah nisbah khusus antara yang membutuhkan dan yang dibutuhkan, dan nisbah hanya ada di antara dua hal; mustahil nisbah ada pada satu hal dari satu pertimbangan.
+
+Orang-orang yang berpendapat bahwa lingkaran tidak mustahil berdalil sebagai berikut.
+
+Pertama, hayula dan bentuk masing-masing membutuhkan yang lain, dan ini lingkaran; substansi dan aksiden masing-masing membutuhkan yang lain, dan ini lingkaran.
+
+Kedua, dua hal yang berelasi (*mutaḍāyifān*) masing-masing bergantung pada yang lain, dan ini lingkaran. Jangan dikatakan, "Keduanya ada bersama karena satu sebab yang mewajibkan keduanya sekaligus", sebab kami menyanggah: hal ini tidak benar menurut pendekatan para filsuf, karena menurut mereka dari yang satu hanya muncul satu.
+
+Ketiga, kesebaban (*ʿilliyya*) dan keakibatan (*maʿlūliyya*) termasuk kategori relasi, dan dua hal yang berelasi ada bersamaan. Jadi kesebaban dan keakibatan menuntut kebersamaan, sedangkan kebersamaan bertentangan dengan adanya kedahuluan. Maka pastilah mustahil ada kedahuluan antara sebab dan akibat.
+
+**Jawaban atas dalil pertama**: kami tidak menerima adanya hayula dan bentuk. Jisim menuntut berada di dalam ruang (*ḥayyiz*); hanya saja zat jisim menuntut berada di dalam ruang secara mutlak. Jadi saling menuntut di antara keduanya terjadi karena zat jisim mewajibkan berada di dalam ruang secara mutlak.
+
+**Jawaban atas dalil kedua**: dua hal yang berelasi pasti ada bersamaan, tetapi mustahil masing-masing membutuhkan yang lain.
+
+**Jawaban atas dalil ketiga**: zat sebab dan zat akibat adalah satu hal, sedangkan keberadaan yang ini sebagai sebab bagi yang itu dan keberadaan yang itu sebagai akibat dari yang ini adalah hal lain. Relasi dan kebersamaan ada di antara keduanya dari segi keberadaannya sebagai sebab dan akibat; tetapi bila kita memandang hakikat khusus masing-masing, kedahuluan dan keterkemudian pasti ada. Dan Allah-lah yang memberi taufik.
+
+### Pasal Kesepuluh {.pasal-ke}
+
+### Kebatilan Regresi Tak Berhingga {.judul-pasal}
+
+Ketahuilah, dalam masalah ini terdapat beberapa jenis dalil.
+
+**Burhan pertama**: seandainya kita mengandaikan bahwa setiap hal yang mungkin adalah akibat dari hal mungkin lain tanpa akhir, niscaya sebab-sebab dan akibat-akibat ini seluruhnya ada sekaligus. Burhan ini dibangun di atas premis yang telah kami jelaskan, yaitu bahwa sebab pasti ada ketika akibat ada.
+
+Bila hal ini telah tetap, kami katakan: keseluruhan sebab dan akibat ini adalah maujud yang mungkin. Dalilnya: wujud keseluruhan ini membutuhkan wujud masing-masing satuannya, dan masing-masing satuan itu mungkin; jadi keseluruhan itu membutuhkan sebab-sebab yang mungkin, dan yang membutuhkan hal yang mungkin lebih layak lagi untuk menjadi mungkin. Maka keseluruhan ini mungkin karena zatnya, dan setiap yang mungkin memiliki pemberi pengaruh; jadi keseluruhan ini pun memiliki pemberi pengaruh.
+
+Kami katakan: pemberi pengaruh bagi keseluruhan ini adakalanya keseluruhan itu sendiri, adakalanya sesuatu di dalamnya, adakalanya sesuatu di luarnya. Inilah tiga bagian, tidak lebih.
+
+Bagian pertama, yaitu dikatakan bahwa keseluruhan ini adalah sebab bagi dirinya sendiri, batil karena beberapa alasan.
+
+Pertama, ucapan bahwa keseluruhan itu adalah sebab bagi wujudnya sendiri dan tidak membutuhkan yang lain tidak bermakna. Lagi pula, karena kita telah membuktikan bahwa keseluruhan ini mungkin karena zatnya, klaim ini pada akhirnya kembali kepada klaim bahwa yang mungkin tidak membutuhkan sebab; dan itu berarti kembali kepada premis-premis terdahulu, yaitu apakah hal-hal yang mungkin bersandar pada sebab atau tidak. Padahal kita membicarakan tahap ini setelah membuktikan bahwa yang mungkin pasti memiliki sebab.
+
+Kedua, yang membutuhkan sesuatu adalah mungkin dalam nisbahnya kepada yang dibutuhkannya, sedangkan yang dibutuhkan tidak memerlukan dalam nisbahnya kepada yang membutuhkannya. Seandainya sesuatu menjadi sebab bagi dirinya sendiri, niscaya satu hal ini, dari pertimbangan yang sama, sekaligus membutuhkan dan tidak membutuhkan; dan itu berarti menghimpun dua hal yang saling berlawanan.
+
+Ketiga, akibat membutuhkan sebab. Seandainya sesuatu menjadi sebab bagi dirinya sendiri, niscaya ia membutuhkan dirinya sendiri. Kebutuhan kepada sesuatu adalah nisbah, dan nisbah hanya terwujud di antara dua hal; mustahil sesuatu dinisbahkan kepada dirinya sendiri dari pertimbangan yang sama.
+
+Bagian kedua, yaitu dikatakan bahwa sebab keseluruhan adalah salah satu satuannya, juga batil. Sebab, yang menjadi sebab bagi keseluruhan pasti menjadi sebab bagi semua satuannya, dan salah satu satuan keseluruhan itu adalah satuan yang diandaikan menjadi sebab keseluruhan itu. Maka satuan itu niscaya menjadi sebab bagi dirinya sendiri, dan telah kami jelaskan kemustahilannya. Lagi pula, hal itu mengharuskan ia menjadi sebab dari sebab dirinya sendiri, dan itu lingkaran; dan telah kami jelaskan bahwa lingkaran mustahil. Maka tampaklah bahwa bagian ini pun batil.
+
+Bila kedua bagian ini batil, sebab keseluruhan ini pasti sesuatu di luar keseluruhan itu. Sesuatu yang berada di luar keseluruhan hal-hal yang mungkin bukanlah maujud yang mungkin; dan yang tidak mungkin karena zatnya adalah wajib karena zatnya. Maka dengan burhan ini tampaklah bahwa seluruh hal yang mungkin, dalam rangkaian kebutuhannya, pasti berujung pada maujud yang wajib ada karena zatnya. Itulah yang dituju. Inilah yang dapat dikatakan dalam menguraikan burhan ini.
+
+Terhadap burhan ini dapat diajukan pertanyaan-pertanyaan berikut.
+
+**Pertanyaan pertama**: dalil yang kalian kemukakan tentang kebatilan regresi tak berhingga ini dibatalkan (*naqḍ*) oleh contoh-contoh berikut.
+
+Pertama, menurut para filsuf, setiap putaran (langit) didahului oleh putaran lain tanpa berhenti pada yang pertama. Bila hal ini mungkin, mengapa tidak mungkin setiap sebab didahului oleh sebab lain tanpa berujung pada yang pertama?
+
+Kedua, jiwa-jiwa manusia yang wujudnya terus bertahan tak berhingga jumlahnya. Bila wujud jiwa-jiwa yang tak berhingga itu mungkin, mengapa wujud sebab-sebab dan akibat-akibat yang tak berhingga tidak mungkin?
+
+Ketiga, para mutakalim menetapkan adanya peristiwa-peristiwa yang tak berhingga jumlahnya tentang keadaan manusia di hari kiamat, sedangkan para filsuf mengatakannya tentang putaran-putaran langit di alam ini.
+
+Keempat, para mutakalim berkata bahwa hal-hal yang diketahui Allah dan hal-hal yang menjadi sasaran kuasa-Nya tak berhingga jumlahnya. Mengapa hal serupa tidak berlaku pada sebab-sebab dan akibat-akibat?
+
+Kelima, dan ini keberatan bagi para filsuf maupun mutakalim: kemungkinan dan kebolehan terjadinya hal-hal baharu tidak memiliki awal. Sebab, seandainya kemungkinan dan kebolehan ini memiliki awal, niscaya yang baharu itu mustahil karena zatnya sebelum awal itu, lalu berubah menjadi mungkin karena zatnya, dan itu mustahil. Maka kemungkinan dan kebolehan terjadinya hal-hal baharu tidak memiliki awal; dan dalam wujud kemungkinan semacam ini terdapat regresi tak berhingga.
+
+Keenam, tingkatan-tingkatan bilangan tak berhingga; jadi pada bilangan pun terdapat regresi tak berhingga.
+
+Ketujuh, Allah mengetahui sesuatu, dan setiap yang mengetahui sesuatu mungkin mengetahui bahwa ia mengetahuinya. Bila kemungkinan ini ada, ia pasti telah terjadi secara aktual pada Allah, sebab Allah suci dari potensi dan tabiat kemungkinan. Dengan pengandaian ini, Allah Ta'ala mengetahui sesuatu, mengetahui bahwa Dia mengetahuinya, dan demikian seterusnya pada tingkat keempat, kelima, dan tanpa akhir. Jadi di sini terdapat tingkatan-tingkatan tak berhingga, dan setiap tingkatan yang belakangan bercabang dari tingkatan sebelumnya. Tingkatan-tingkatan ini tersusun menurut tabiatnya, dan semuanya ada sekaligus. Maka ini adalah pembatalan kuat terhadap ucapan kalian bahwa regresi tak berhingga pada sebab dan akibat itu mustahil.
+
+Jangan dikatakan, "Pertanyaan ini tidak berlaku bagi para filsuf, sebab mereka berkata bahwa Allah Ta'ala adalah akal, yang berakal, dan yang terpahami, dan semua itu satu hal; dan tidak berlaku pula bagi para mutakalim, sebab mereka berkata bahwa mengetahui pengetahuan tentang sesuatu adalah pengetahuan tentang sesuatu itu sendiri." Dalam hal ini kami katakan:
+
+- (i) Apa yang kalian nukil dari para filsuf sama sekali buruk. Sebab menurut mereka, pengetahuan tentang hitam adalah suatu bentuk yang sama esensinya dengan zat hitam, sedangkan Zat Allah Ta'ala berbeda esensinya dari hitam. Maka harus dihukumi bahwa pengetahuan Allah Ta'ala tentang hitam berlainan dengan Zat-Nya yang khusus; demikian pula halnya dengan semua hal yang diketahui.
+- (ii) Pada awal kitab ini telah kami tunjukkan dengan dalil-dalil yang pasti bahwa pengetahuan adalah keadaan nisbi dan relasional. Bila demikian, kami katakan: pengetahuan Allah tentang hitam tidak lain adalah nisbah khusus antara Zat-Nya dan hitam, sedangkan pengetahuan-Nya bahwa Dia mengetahui hitam adalah nisbah khusus antara Zat-Nya dan nisbah pertama itu. Nisbah Zat-Nya kepada salah satu dari dua hal berlainan dengan nisbahnya kepada hal yang lain. Maka pengetahuan tentang pengetahuan akan sesuatu berlainan dengan pengetahuan tentang sesuatu itu.
+- (iii) Seandainya pengetahuan tentang pengetahuan akan sesuatu identik dengan pengetahuan tentang sesuatu itu, niscaya orang yang mengetahui sesuatu mengetahui tingkatan-tingkatan itu secara rinci tanpa akhir; dan sudah diketahui bahwa hal itu batil.
+- (iv) Mungkin saja kita meyakini bahwa si Fulan mengetahui hal tertentu, tetapi kita ragu apakah ia mengetahui pengetahuannya itu.
+- (v) Kita mencerap perbedaan yang jelas antara kalimat "Zaid mengetahui hitam" dan "Zaid mengetahui bahwa ia mengetahui hitam". Seandainya salah satu dari kedua pengetahuan itu identik dengan yang lain, perbedaan ini tidak akan ada.
+
+Kedelapan, contoh lain yang membatalkan dalil ini adalah nisbah-nisbah (perbandingan). Setiap ukuran dapat dibagi; kemudian bila masing-masing separuhnya dibagi lagi, (ukuran asal) terbagi menjadi empat. Karena ukuran dapat dibagi tanpa akhir, di sini terdapat nisbah-nisbah yang tak berhingga, dan setiap tingkatan yang belakangan bercabang dari nisbah-nisbah sebelumnya. Inilah seluruh yang dapat dikatakan dalam mengemukakan contoh-contoh yang membatalkan dalil ini.
+
+**Pertanyaan kedua**: ucapan kalian, "Keseluruhan yang terdiri atas sebab-sebab dan akibat-akibat yang tak berhingga adakalanya wajib, adakalanya mungkin", hanya benar dan jelas bila sebab-sebab dan akibat-akibat yang tak berhingga itu dapat disifati sebagai "keseluruhan" (*kull*) dan "himpunan" (*majmūʿ*). Dengan alasan apa kalian katakan bahwa hal itu benar? Uraian terperinci pertanyaan ini: menyifati sesuatu sebagai keseluruhan dan himpunan memberi kesan bahwa himpunan itu terbedakan dari yang lain, sedangkan terbedakannya himpunan itu dari yang lain disyarati oleh keberhinggaannya. Jadi penyifatannya sebagai himpunan dan keseluruhan baru mungkin setelah ia berhingga, padahal kalian membuktikan keberhinggaannya dengan bersandar pada penyifatannya sebagai himpunan dan keseluruhan. Maka niscaya terjadi lingkaran.
