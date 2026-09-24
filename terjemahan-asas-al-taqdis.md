@@ -12,9 +12,9 @@
 |---|---|
 | Tahap | Terjemahan penuh sedang berjalan |
 | Glosarium | Versi 1.0 (usulan v0.1 diberlakukan melalui instruksi "lanjut hingga tuntas kitab"); tambahan baru dicatat di 2.7 dan menunggu persetujuan eksplisit |
-| Sudah diterjemahkan | Pembuka Kitab; Bagian I seluruhnya; Bagian II: Mukadimah, Pasal 1 sampai 28 |
-| Kalimat terakhir | "Namun dari keadaan yang lain lebih baik tidak niscaya ia sendiri buruk. Allah lebih mengetahui." |
-| Posisi berikutnya | Naskah Arab: *al-Faṣl al-Tāsiʿ wa-l-ʿIshrūn fīmā yatamassakūna bihi fī ithbāt al-jiha* · Naskah Turki: *Yirmi Dokuzuncu Kısım*, h. 175 |
+| Sudah diterjemahkan | Pembuka Kitab; Bagian I seluruhnya; Bagian II: Mukadimah, Pasal 1 sampai 29 |
+| Kalimat terakhir | "Inilah jawaban atas syubhat ini. Hanya kepada Allah kita memohon taufik." |
+| Posisi berikutnya | Naskah Arab: *al-Faṣl al-Thalāthūn fī Kalām Kullī fī Akhbār al-Āḥād* · Naskah Turki: *Otuzuncu Kısım*, h. 194 |
 
 ---
 
@@ -1933,3 +1933,361 @@ Yang lain berkata: tidak mengapa memakai penafian ini secara mutlak, sebab sifat
 ²²¹ CT: QS al-Mu'minun [23]: 91.
 
 ²²² CT: QS al-An'am [6]: 14.
+
+### Pasal Kedua Puluh Sembilan: Tentang Apa yang Mereka Jadikan Pegangan untuk Menetapkan Arah bagi Allah Ta'ala
+
+*(Tr. h. 175)*
+
+Mereka berpegang dalam hal itu pada Al-Qur'an dan hadis. Adapun Al-Qur'an, dari sepuluh segi.
+
+Pertama, berpegang pada enam ayat yang memuat lafaz istiwa di atas Arasy.
+
+Kedua, berpegang pada ayat-ayat yang memuat lafaz "di atas" (*fawq*). Allah Ta'ala berfirman, *"Dialah yang berkuasa di atas hamba-hamba-Nya. Dialah Yang Mahabijaksana lagi Mahateliti,"*²²³ berfirman, *"Dialah yang berkuasa di atas hamba-hamba-Nya, dan diutus-Nya kepadamu malaikat-malaikat penjaga,"*²²⁴ dan berfirman, *"Mereka takut kepada Tuhan mereka yang di atas mereka."*²²⁵
+
+Ketiga, ayat-ayat yang memuat lafaz ketinggian (*ʿuluww*), seperti firman Allah Ta'ala, *"Dialah Yang Mahatinggi lagi Mahaagung,"*²²⁶ firman Allah Ta'ala, *"Dialah Yang Mahatinggi lagi Mahabesar,"*²²⁷ firman-Nya, *"Sucikanlah nama Tuhanmu Yang Mahatinggi,"*²²⁸ dan firman-Nya, *"kecuali (dengan tujuan) mencari wajah Tuhannya Yang Mahatinggi."*²²⁹ Juga penukilan yang mutawatir tentang bacaan *"Subḥāna rabbiya al-aʿlā"* (Mahasuci Tuhanku Yang Mahatinggi).²³⁰
+
+Keempat, ayat-ayat yang memuat lafaz naik (*ʿurūj*) kepada-Nya dan mendaki. Allah Ta'ala berfirman, *"Para malaikat dan Jibril naik (menghadap) kepada-Nya,"*²³¹ dan berfirman, *"Kepada-Nyalah akan naik perkataan-perkataan yang baik."*²³²
+
+Kelima, ayat-ayat yang memuat lafaz penurunan (*inzāl* dan *tanzīl*). Mereka berkata: ayat-ayat itu banyak, lebih dari dua ratus, berkenaan dengan Al-Qur'an yang nyata, Ruh, para malaikat yang didekatkan, Taurat, dan Injil.
+
+Keenam, ayat-ayat yang disertai huruf *ilā* (kepada), padahal huruf itu untuk batas akhir tujuan. Di antaranya firman Allah Ta'ala, *"kepada Tuhannya mereka memandang,"*²³³ yang menuntut pandangan itu berakhir kepada-Nya; firman-Nya, *"kemudian kepada Tuhanmulah kamu akan dikembalikan,"*²³⁴ firman-Nya, *"Hanya kepada-Ku (kamu) kembali,"*²³⁵ dan firman-Nya, *"Kembalilah kepada Tuhanmu."*²³⁶
+
+Ketujuh, firman Allah Ta'ala, *"Sekali-kali tidak! Sesungguhnya mereka pada hari itu benar-benar terhalang dari Tuhan mereka."*²³⁷ Hijab hanya sah bagi sesuatu yang jisim dan berada pada suatu arah, sehingga ia terhalang oleh sesuatu yang lain.
+
+Kedelapan, ayat-ayat yang menunjukkan bahwa Dia di langit. Dia berfirman, *"Sudah merasa amankah kamu terhadap (Allah) yang di langit?"*²³⁸ dan berfirman, *"Katakanlah, 'Tidak ada sesuatu pun di langit dan di bumi yang mengetahui perkara yang gaib, kecuali Allah.'"*²³⁹
+
+Kesembilan, ayat-ayat yang memuat pengangkatan kepada-Nya. Allah Ta'ala berfirman tentang Isa 'alaihissalam, *"sesungguhnya Aku mengambilmu dan mengangkatmu kepada-Ku,"*²⁴⁰ dan firman-Nya, *"mereka tidak yakin telah membunuhnya,"*²⁴¹ *"Akan tetapi, Allah telah mengangkatnya kepada-Nya."*²⁴²
+
+Kesepuluh, ayat-ayat yang memuat keberadaan di sisi (*ʿindiyya*), seperti firman-Nya, *"Sesungguhnya orang-orang yang ada di sisi Tuhanmu,"*²⁴³ firman-Nya, *"di sisi (Allah) Penguasa Yang Mahakuasa,"*²⁴⁴ firman-Nya, *"Ya Tuhanku, bangunkanlah untukku sebuah rumah di sisi-Mu dalam surga,"*²⁴⁵ firman-Nya, *"maka (malaikat-malaikat) yang di sisi Tuhanmu,"*²⁴⁶ dan firman-Nya, *"dan (malaikat-malaikat) yang di sisi-Nya tidak mempunyai rasa angkuh untuk menyembah-Nya."*²⁴⁷
+
+Inilah penjelasan segi-segi pegangan mereka dari Al-Qur'an dalam menetapkan arah bagi Allah Ta'ala. Mereka berkata: yang menunjukkan bahwa ayat-ayat itu muhkam, bukan mutasyabih, ialah bahwa jumlahnya sangat banyak dan petunjuknya sangat kuat. Seandainya ia termasuk ayat mutasyabih, tentu salah seorang sahabat dan tabiin membicarakannya dan menyebutkan takwil-takwilnya. Karena tidak dinukil hal itu dari seorang pun di antara mereka, kita tahu bahwa ayat-ayat itu muhkam, bukan mutasyabih.
+
+Adapun hadis-hadisnya banyak.
+
+**Hadis pertama**: diriwayatkan oleh Abu Dawud dalam bab bantahan terhadap Jahmiyah dan Muktazilah, dari Hasan bin Muhammad bin Muth'im, dari ayahnya, dari kakeknya, ia berkata, *"Seorang Arab badui datang kepada Nabi shallallahu 'alaihi wasallam dan berkata, 'Wahai Rasulullah, jiwa-jiwa telah binasa, keluarga kelaparan, dan harta benda musnah. Mintakanlah hujan kepada Tuhanmu untuk kami, sebab kami memohon syafaat dengan Allah kepadamu dan denganmu kepada Allah.' Nabi shallallahu 'alaihi wasallam bersabda, 'Subhanallah, subhanallah,' dan beliau terus bertasbih hingga hal itu tampak pada wajah para sahabatnya. Kemudian beliau bersabda, 'Celaka engkau! Tahukah engkau siapa Allah? Kedudukan-Nya lebih agung dari itu. Sesungguhnya Dia tidak dijadikan perantara syafaat kepada siapa pun. Sesungguhnya Dia di atas langit-langit-Nya, di atas Arasy-Nya, dan sesungguhnya Arasy itu di atas-Nya begini,' dan beliau berisyarat dan membentuk kubah dengan tangannya seperti kubah di atasnya. Abul Azhar juga berisyarat: 'Arasy itu berderit karena-Nya seperti derit pelana karena penunggangnya.'"*²⁴⁸
+
+**Hadis kedua**: diriwayatkan oleh penulis *Syarh as-Sunnah* dalam bab luasnya rahmat Allah Ta'ala, dari Abu Hurairah, dari Nabi shallallahu 'alaihi wasallam, *"Ketika Allah telah menetapkan penciptaan, Dia menulis sebuah ketetapan, dan ketetapan itu ada di sisi-Nya di atas Arasy: sesungguhnya rahmat-Ku mendahului murka-Ku."*²⁴⁹
+
+**Hadis ketiga**: dikeluarkan dalam *ash-Shahih* dari Umar bin al-Hakam, bahwa ia berkata, *"Aku berada di sisi Nabi shallallahu 'alaihi wasallam, lalu aku berkata, 'Wahai Rasulullah, aku mempunyai seorang budak perempuan yang biasa menggembalakan kambing. Aku mendatanginya dan kehilangan seekor kambing, lalu aku menanyakannya, dan ia berkata, "Dimakan serigala." Aku pun menyesal dan menampar wajahnya, dan aku wajib memerdekakan seorang budak; apakah aku memerdekakannya?' Rasulullah bertanya kepadanya, 'Di mana Allah?' Ia menjawab, 'Di langit.'²⁵¹ Beliau bertanya, 'Siapakah aku?' Ia menjawab, 'Engkau utusan Allah.' Beliau shallallahu 'alaihi wasallam bersabda, 'Merdekakanlah ia, sebab ia seorang mukminah.'"*²⁵⁰ Mereka berkata: ini menunjukkan pernyataan tegas dari Rasulullah shallallahu 'alaihi wasallam bahwa Allah di langit.
+
+Adapun dari sisi rasional, telah dikemukakan perkataan mereka bahwa kita tahu secara niscaya bahwa dari setiap dua maujud, yang satu mesti berada di dalam yang lain atau terpisah darinya pada salah satu arah, dan telah dikemukakan pula penyelidikan tuntas dalam menjawabnya. Hanya kepada Allah kita memohon taufik.
+
+(Pegangan lain mereka:) pertama, kisah mikraj menunjukkan bahwa Yang Disembah terikat pada arah atas. Terkadang mereka berpegang di sini pada firman-Nya, *"Kemudian dia mendekat, lalu bertambah dekat. Maka, jadilah dia dekat (pada jarak) dua busur panah atau lebih dekat (lagi),"*²⁵²,²⁵³ dan ini menunjukkan bahwa kedekatan itu secara arah. Kemudian Dia berfirman, *"Lalu, Dia menyampaikan wahyu kepada hamba-Nya apa yang Dia wahyukan,"*²⁵⁴ dan ini menunjukkan bahwa kedekatan itu berasal dari Allah Ta'ala; dan ini menunjukkan bahwa Dia terikat pada arah atas.
+
+Kedua, mereka berpegang pada perkataan Fir'aun, *"Wahai Haman, buatkanlah untukku sebuah bangunan yang tinggi agar aku sampai ke pintu-pintu,"*²⁵⁵ *"(yaitu) pintu-pintu langit, agar aku dapat melihat Tuhannya Musa."*²⁵⁶ Kemudian Musa 'alaihissalam tidak mengingkari perkataan ini, sehingga hal itu menunjukkan bahwa Tuhan berada di langit. Inilah keseluruhan pegangan mereka dalam bab ini.
+
+²²³ CT: QS al-An'am [6]: 18.
+
+²²⁴ CT: QS al-An'am [6]: 61.
+
+²²⁵ CT: QS an-Nahl [16]: 50. (Edisi Turki tertulis 16/80.)
+
+²²⁶ CT: QS al-Baqarah [2]: 255. (Edisi Turki tertulis 2/288.)
+
+²²⁷ CT: QS al-Hajj [22]: 62. (Edisi Turki tertulis 22/61.)
+
+²²⁸ CT: QS al-A'la [87]: 1.
+
+²²⁹ CT: QS al-Lail [92]: 20.
+
+²³⁰ CT: Dari *Majma' az-Zawa'id* karya al-Haitsami; al-Hindi, *Kanz al-'Ummal*, III/111, hadis no. 4129, 4906.
+
+²³¹ CT: QS al-Ma'arij [70]: 4.
+
+²³² CT: QS Fathir [35]: 10.
+
+²³³ CT: QS al-Qiyamah [75]: 23.
+
+²³⁴ CT: QS as-Sajdah [32]: 11.
+
+²³⁵ CT: QS Luqman [31]: 14.
+
+²³⁶ CT: QS al-Fajr [89]: 28.
+
+²³⁷ CT: QS al-Muthaffifin [83]: 15.
+
+²³⁸ CT: QS al-Mulk [67]: 16. (Edisi Turki tertulis 67/17.)
+
+²³⁹ CT: QS an-Naml [27]: 65.
+
+²⁴⁰ CT: QS Ali 'Imran [3]: 55.
+
+²⁴¹ CT: QS an-Nisa' [4]: 157.
+
+²⁴² CT: QS an-Nisa' [4]: 158.
+
+²⁴³ CT: QS al-A'raf [7]: 206.
+
+²⁴⁴ CT: QS al-Qamar [54]: 55.
+
+²⁴⁵ CT: QS at-Tahrim [66]: 11.
+
+²⁴⁶ CT: QS Fushshilat [41]: 38.
+
+²⁴⁷ CT: QS al-Anbiya' [21]: 19.
+
+²⁴⁸ CT: Abu Dawud, *as-Sunnah*, 18.
+
+²⁴⁹ CT: al-Bukhari, *at-Tauhid*, 5, 20, 22, 55; Muslim, *at-Taubah*, 14, 16; Ibnu Majah, *az-Zuhd*, 35.
+
+²⁵⁰ CT: Muslim, *al-Masajid*, 33; Abu Dawud, *ash-Shalah*, 167, *al-Aiman*, 16; an-Nasa'i, *ash-Shaum*, 20; ad-Darimi, *an-Nudzur*, 10; *al-Muwaththa'*, *al-'Itq*, 8, 9; Ahmad bin Hanbal, II/291.
+
+²⁵¹ CT: Allah Ta'ala tidak diliputi oleh enam arah. Dia tidak di langit dan tidak di bumi, tidak di atas dan tidak di bawah, tidak di kanan dan tidak di kiri, tidak di utara, selatan, timur, maupun barat. Dia mahasuci dari menempati tempat. (catatan penerjemah)
+
+²⁵² CT: QS an-Najm [53]: 8.
+
+²⁵³ CT: QS an-Najm [53]: 9.
+
+²⁵⁴ CT: QS an-Najm [53]: 10.
+
+²⁵⁵ CT: QS Gafir [40]: 36.
+
+²⁵⁶ CT: QS Gafir [40]: 37.
+
+Ketahuilah, dalam menjawab kata-kata ini kami memiliki dua jenis jawaban.
+
+**Jenis pertama**: kami katakan kepada kaum Karramiyah: kalian telah sepakat dengan kami bahwa makna lahiriah Al-Qur'an, meskipun menunjukkan penetapan anggota dan organ tubuh bagi Allah Ta'ala, wajib dipastikan penafiannya dari Allah Ta'ala dan diyakini bahwa Dia mahasuci darinya. Hal itu tidak lain karena, ketika dalil-dalil yang pasti telah tegak atas kemustahilan anggota dan organ tubuh bagi Allah Ta'ala, wajiblah dipastikan penyucian Allah Ta'ala darinya dan diyakini bahwa yang dimaksud Allah Ta'ala dengan makna-makna lahiriah itu adalah sesuatu yang lain. Demikian pula dalam masalah ini: kami telah menyebutkan dalil-dalil rasional yang pasti bahwa Allah Ta'ala mustahil terikat pada tempat, arah, dan ruang. Jika demikian halnya, wajib dipastikan bahwa yang dimaksud Allah Ta'ala dengan makna-makna lahiriah yang kalian jadikan pegangan itu adalah sesuatu selain penetapan arah bagi Allah Ta'ala. Ini keharusan yang pasti dan perkataan yang kuat. Kecuali jika dikatakan bahwa dalil-dalil rasional yang kami jadikan pegangan itu tidak pasti, melainkan mengandung kemungkinan; maka dalam hal itu kami wajib berbicara dengan mereka dalam menetapkan dalil-dalil itu dan menolak segi-segi kemungkinan darinya. Maka tetaplah dengan jalan ini bahwa, setiap kali kami menjelaskan bahwa dalil-dalil rasional itu pasti dan yakin, kaum Karramiyah tidak akan mampu melawan dalil-dalil rasional yang yakin itu dengan makna-makna lahiriah ini. Ini perkataan yang sangat kuat.
+
+Pada titik ini kami memilih mazhab Salaf dan berkata: karena kami telah mengetahui dengan dalil-dalil rasional yang pasti itu bahwa yang dimaksud Allah Ta'ala dengan ayat-ayat ini bukan penetapan arah bagi Allah Ta'ala, setelah itu kami tidak perlu lagi menjelaskan apa yang dimaksud Allah Ta'ala dengan ayat-ayat ini. Jalan ini lebih selamat menurut cita rasa penalaran dan lebih jauh dari keributan.
+
+**Jenis kedua**: kami membahas masing-masing segi ini secara terperinci.
+
+Adapun pegangan mereka yang pertama, yaitu enam ayat yang menunjukkan istiwa Allah Ta'ala di atas Arasy, kami katakan: tidak boleh yang dimaksud Allah Ta'ala dengan istiwa itu adalah menetap di atas Arasy. Hal itu ditunjukkan oleh beberapa segi.
+
+Pertama, sebelum ayat ini²⁵⁷ terdapat firman Allah Ta'ala, *"diturunkan dari (Allah) yang menciptakan bumi dan langit yang tinggi,"*²⁵⁸ dan telah kami jelaskan bahwa ayat ini menunjukkan bahwa Allah Ta'ala tidak terikat pada ruang dan arah mana pun.
+
+Kedua, sesudah ayat ini²⁵⁹ terdapat firman Allah Ta'ala, *"Milik-Nyalah apa yang ada di langit dan apa yang ada di bumi."*²⁶⁰ Telah kami jelaskan bahwa langit (*samāʾ*) adalah apa yang padanya terdapat ketinggian dan keberadaan di atas, sehingga segala sesuatu yang berada pada arah atas adalah langit. Jika demikian, firman-Nya, *"Milik-Nyalah apa yang ada di langit dan apa yang ada di bumi,"*²⁶¹ menuntut bahwa segala sesuatu yang berada pada arah atas berada di langit; dan jika demikian, firman-Nya, *"Milik-Nyalah apa yang ada di langit,"*²⁶² menuntut bahwa segala sesuatu yang berada pada arah atas adalah milik Allah Ta'ala dan dimiliki oleh-Nya. Maka, seandainya Allah Ta'ala terikat pada arah atas, niscaya Dia dimiliki oleh diri-Nya sendiri, dan itu mustahil. Maka tetaplah bahwa apa yang sebelum firman-Nya, *"(Yaitu) Yang Maha Pengasih, yang bersemayam di atas Arasy,"* dan apa yang sesudahnya menafikan keterikatan-Nya Subhanahu wa Ta'ala pada ruang dan arah mana pun. Jika demikian, mustahillah yang dimaksud dengan firman-Nya, *"Yang Maha Pengasih bersemayam di atas Arasy,"* adalah bahwa Dia menetap di atas Arasy.
+
+Ketiga, apa yang sebelum ayat ini dan sesudahnya disebutkan untuk menjelaskan kesempurnaan kuasa Allah Ta'ala, puncak keagungan-Nya dalam ketuhanan, dan kesempurnaan pengelolaan-Nya. Sebab, firman-Nya, *"diturunkan dari (Allah) yang menciptakan bumi dan langit yang tinggi,"*²⁶³ tidak diragukan bahwa yang dipahami darinya adalah penjelasan kesempurnaan kuasa Allah Ta'ala dan kesempurnaan ketuhanan-Nya. Dan firman-Nya, *"Milik-Nyalah apa yang ada di langit, apa yang ada di bumi, apa yang ada di antara keduanya, dan apa yang ada di bawah tanah,"*²⁶⁴ juga penjelasan kesempurnaan kerajaan dan ketuhanan-Nya. Jika demikian, wajiblah firman-Nya, *"Yang Maha Pengasih bersemayam di atas Arasy,"*²⁶⁵ juga demikian; sebab jika tidak, niscaya ia menjadi perkataan yang asing dari apa yang sebelumnya dan sesudahnya, dan itu tidak boleh. Adapun jika kita membawanya kepada makna kesempurnaan penguasaan-Nya atas Arasy, yang merupakan makhluk terbesar di antara maujud-maujud yang baharu, hal itu sesuai dengan apa yang sebelum ayat ini dan apa yang sesudahnya. Maka segi ini lebih utama.
+
+Keempat, yang duduk di atas Arasy mesti memiliki bagian yang berada di sisi kanan Arasy yang berlainan dengan bagian yang berada di sisi kiri Arasy, sehingga niscaya pada dirinya ia terpadu dan tersusun; dan itu mustahil bagi Allah Ta'ala.
+
+Kelima, yang duduk di atas Arasy, jika mampu bergerak dan berpindah, ia baharu, sebab apa yang tidak lepas dari gerak dan diam adalah baharu; dan jika tidak mampu bergerak, ia seperti orang yang terikat, bahkan seperti orang lumpuh, bahkan lebih buruk keadaannya daripada keduanya; sebab orang lumpuh, apabila ingin menggerakkan kepala atau bola matanya, ia mampu, dan demikian pula orang yang terikat. Itu tidak mungkin bagi Allah Ta'ala.
+
+Keenam, seandainya Dia berada di Arasy (tanpa batas), niscaya Dia berada di semua ruang lainnya, sehingga niscaya Dia bercampur dengan kotoran dan najis; dan jika tidak demikian, niscaya Dia memiliki ujung, akhir, tambahan, dan kekurangan. Semua itu mustahil bagi Allah Ta'ala.
+
+Ketujuh, firman Allah Ta'ala, *"Pada hari itu delapan malaikat menjunjung Arasy Tuhanmu di atas (kepala) mereka."*²⁶⁶ Seandainya Arasy adalah tempat bagi Yang mereka sembah, niscaya para malaikat yang memikul Arasy memikul Tuhan alam, dan itu tidak masuk akal. Sebab, Sang Pencipta-lah yang memelihara makhluk; adapun makhluk tidak memelihara dan tidak memikul Sang Pencipta. Tidak dapat dikatakan bahwa hal ini hanya berlaku bila Tuhan bertumpu dan bersandar pada Arasy, sedangkan kami tidak berpendapat demikian. Sebab, kami katakan: dengan pengandaian itu, Allah Ta'ala tidak menetap di atas Arasy, sebab menetap di atas sesuatu hanya terjadi bila bertumpu padanya. Tidakkah engkau lihat, apabila kita meletakkan suatu jisim di atas tanah, kita berkata bahwa jisim itu menetap di atas tanah, dan kita tidak berkata bahwa tanah menetap di atasnya? Hal itu tidak lain karena sesuatu itu bertumpu pada tanah, sedangkan tanah tidak bertumpu padanya. Maka, jika Tuhan tidak bertumpu pada Arasy, Dia tidak menetap di atas Arasy; dan dengan pengandaian ini mereka terpaksa meninggalkan makna lahiriah ayat, sehingga ayat itu keluar dari kedudukannya sebagai hujah.
+
+Kedelapan, Allah Ta'ala telah ada, sementara belum ada Arasy dan tempat. Maka, setelah Dia menciptakan makhluk, mustahil dikatakan bahwa Allah Ta'ala menjadi menetap di atas Arasy setelah sebelumnya tidak demikian, sebab Allah Ta'ala berfirman, *"kemudian Dia bersemayam di atas Arasy,"* sedangkan kata *thumma* menunjukkan urutan yang berjarak.
+
+Kesembilan, makna lahiriah firman Allah Ta'ala, *"Kami lebih dekat kepadanya daripada urat lehernya,"*²⁶⁷ firman-Nya, *"Dia bersamamu di mana saja kamu berada,"*²⁶⁸ dan firman-Nya, *"Dialah Tuhan (yang disembah) di langit dan Tuhan (yang disembah) di bumi,"*²⁶⁹ menafikan keadaan-Nya menetap di atas Arasy. Menakwilkan ayat-ayat ini demi memberlakukan ayat-ayat yang mereka jadikan pegangan menurut makna lahiriahnya tidaklah lebih utama daripada sebaliknya.
+
+Kesepuluh, dalil-dalil rasional yang pasti, yang telah kami sebutkan sebelumnya, membatalkan keterikatan Allah Ta'ala pada arah mana pun. Jika ini telah tetap, tampaklah bahwa yang dimaksud dengan istiwa bukan menetap. Maka wajiblah yang dimaksud adalah penguasaan (*istīlāʾ*), keperkasaan, berlakunya takdir, dan berjalannya hukum-hukum ketuhanan. Ini lurus menurut kaidah bahasa. Seorang penyair berkata:
+
+> *Bisyr telah menguasai (istawā) Irak, tanpa pedang dan tanpa darah yang tertumpah.*
+
+Yang menguatkan hal itu ialah bahwa Allah Ta'ala menurunkan Al-Qur'an sesuai dengan kebiasaan tutur dan adat para pemilik bahasa. Tidakkah engkau lihat bahwa Allah Ta'ala berfirman, *"Allahlah yang menipu mereka,"*²⁷⁰ berfirman, *"dan itu lebih mudah bagi-Nya,"*²⁷¹ berfirman, *"Mereka membuat tipu daya dan Allah pun membalas tipu daya,"*²⁷² dan berfirman, *"Allah akan memperolok-olokkan mereka"*?²⁷³ Yang dimaksud dalam semua itu adalah bahwa Allah Ta'ala memperlakukan mereka dengan perlakuan (balasan bagi) orang-orang yang menipu, membuat tipu daya, dan memperolok-olok. Demikian pula di sini: yang dimaksud dengan istiwa di atas Arasy adalah pengaturan urusan kerajaan dan alam malakut. Padanannya: *qiyām* asalnya berarti tegak lurus, kemudian disebut dengan makna memulai suatu urusan, sebagaimana dikatakan, "Ia menegakkan (qāma bi-) kerajaan."
+
+Jika dikatakan: takwil ini tidak boleh karena beberapa segi.
+
+Pertama, *istīlāʾ* (penguasaan) berarti terjadinya kemenangan setelah ketidakmampuan, dan itu mustahil bagi Allah Ta'ala.
+
+Kedua, dikatakan "si Fulan menguasai (istawā ʿalā) sesuatu" hanya bila ia memiliki penentang yang menentangnya dalam hal itu, dan itu mustahil bagi Allah Ta'ala.
+
+Ketiga, dikatakan "si Fulan menguasai (istawlā ʿalā) sesuatu" hanya bila yang dikuasai telah ada sebelumnya, dan ini mustahil bagi Allah Ta'ala, sebab Arasy baru terjadi dengan pengadaan dan penciptaan-Nya.
+
+Keempat, penguasaan dengan makna ini berlaku terhadap seluruh makhluk, sehingga pengkhususan Arasy dengan penyebutan tidak berfaedah.
+
+Jawabannya: yang kami maksud dengan *istīlāʾ* adalah kuasa sempurna yang bebas dari penentang, penghalang, dan penolak. Dengan pengandaian ini, hilanglah semua gugatan ini. Adapun pengkhususan Arasy dengan penyebutan, dalam hal itu ada dua segi.
+
+Pertama, Arasy adalah makhluk terbesar, maka ia dikhususkan dengan penyebutan karena sebab ini, sebagaimana Dia mengkhususkannya dengan penyebutan dalam firman-Nya, *"Dia adalah Tuhan pemilik Arasy yang agung,"*²⁷⁴ karena makna ini.
+
+Kedua, Syekh al-Ghazali rahimahullah berkata dalam kitab *Iljam al-'Awamm*: sebab pengkhususan ini ialah bahwa Allah Ta'ala mengelola seluruh alam dan mengatur urusan dari langit ke bumi melalui perantaraan Arasy. Allah Ta'ala tidak mengadakan suatu rupa di alam sebelum mengadakannya di Arasy, sebagaimana pelukis dan penulis tidak menghasilkan rupa di atas kertas putih sebelum menghasilkannya di otak; bahkan (seorang arsitek) tidak menghasilkan rupa bangunan di luar sebelum menghasilkan rupanya di otak melalui perantaraan hati. Sebagaimana melalui otak ruh mengatur urusan alamnya yang ia atur, demikian pula melalui perantaraan Arasy Allah mengatur urusan seluruh alam.
+
+Ketahuilah, perkataan ini dibangun di atas pokok-pokok para filsuf, yaitu bahwa pengaruh Sang Pencipta Ta'ala adalah pada akal, pengaruh akal pada pengaturan alam atas, dan pengaturan alam atas pada alam bawah. Kami telah membahasnya dalam kitab-kitab rasional murni.
+
+Adapun pegangan mereka yang kedua, yaitu ayat-ayat yang memuat penyebutan "di atas", jawabannya: lafaz "di atas" (dipakai pula untuk ketinggian) dalam martabat dan kuasa. Allah Ta'ala berfirman, *"di atas setiap orang yang berpengetahuan ada Yang Maha Mengetahui,"*²⁷⁵ *"dan sesungguhnya kita berkuasa penuh di atas mereka,"*²⁷⁶ dan *"Tangan Allah di atas tangan-tangan mereka."*²⁷⁷ Yang dimaksud dengan keberadaan di atas dalam ayat-ayat ini adalah keberadaan di atas dengan keperkasaan dan kuasa. Allah Ta'ala juga berfirman, *"nyamuk atau yang di atasnya (fa-mā fawqahā),"*²⁷⁸ yakni yang melebihinya dalam sifat kecil dan remeh. Jika lafaz "di atas" mengandung kemungkinan di atas secara arah dan di atas secara martabat, mengapa kalian membawanya kepada di atas secara arah? Yang menunjukkan bahwa yang dimaksud dengan lafaz "di atas" di sini adalah di atas dengan kuasa dan kepemilikan ada beberapa segi.
+
+Pertama, Dia berfirman, *"Dialah yang berkuasa di atas hamba-hamba-Nya."*²⁷⁹ Keberadaan di atas yang disertai keperkasaan adalah keberadaan di atas dengan kuasa dan kemampuan, bukan dengan makna arah. Buktinya, seorang penjaga terkadang berada di atas sultan secara arah, tetapi tidak dikatakan bahwa ia "di atas sultan" (secara mutlak).
+
+Kedua, Allah Ta'ala menyifati diri-Nya bersama hamba-hamba-Nya. Dia berfirman, *"Sesungguhnya Allah beserta orang-orang yang bertakwa dan orang-orang yang berbuat kebaikan,"*²⁸⁰ berfirman, *"sesungguhnya Allah beserta orang-orang yang sabar,"*²⁸¹ *"Dia bersamamu di mana saja kamu berada,"*²⁸² *"Kami lebih dekat kepadanya daripada urat lehernya,"*²⁸³ *"Apabila hamba-hamba-Ku bertanya kepadamu tentang Aku, sesungguhnya Aku dekat,"*²⁸⁴ dan *"Tidak ada pembicaraan rahasia antara tiga orang, kecuali Dialah yang keempatnya."*²⁸⁵ Jika kebersamaan dalam ayat-ayat ini boleh dibawa kepada kebersamaan dengan makna ilmu, penjagaan, dan pemeliharaan, mengapa tidak boleh keberadaan di atas dalam ayat-ayat yang kalian sebutkan dibawa kepada keberadaan di atas dengan keperkasaan, kuasa, dan kekuasaan?
+
+Ketiga, keberadaan di atas yang terjadi karena arah bukanlah sifat pujian. Sebab, keberadaan di atas itu dimiliki oleh arah dan ruang itu sendiri pada zatnya, dan dimiliki oleh yang bertempat di ruang itu karena ruang tersebut. Maka, seandainya keberadaan di atas secara arah adalah sifat pujian, niscaya arah lebih utama dan lebih sempurna daripada Allah Ta'ala. Tidak dapat dikatakan bahwa kalian pun harus berkata bahwa kuasa lebih utama dan lebih sempurna daripada Allah Ta'ala. Sebab, kami katakan: kuasa adalah sifat Yang Berkuasa dan mustahil ada tanpa-Nya, berbeda dengan ruang dan arah, yang tidak membutuhkan yang bertempat padanya. Maka tetaplah bahwa kesempurnaan dan keutamaan hanya terwujud karena keberadaan di atas dengan makna kuasa dan kekuasaan, dan membawa ayat itu kepadanya lebih utama.
+
+Adapun firman Allah Ta'ala tentang sifat para malaikat, *"Mereka takut kepada Tuhan mereka yang di atas mereka,"*²⁸⁶ di sini ada jawaban lain, yaitu mungkin firman-Nya *"dari atas mereka"* bertaut dengan firman-Nya *"mereka takut"*, yakni: mereka takut kepada Tuhan mereka (akan datangnya azab) dari atas mereka. Sebab, mereka takut turunnya azab kepada mereka dari arah atas mereka.²⁸⁷
+
+Adapun pegangan mereka yang ketiga, yaitu berpegang pada ketinggian karena arah: ketinggian juga dipakai untuk ketinggian karena kuasa. Dikatakan, "Sultan lebih tinggi daripada selainnya"; dalam surat-surat para sultan ditulis "Diwan yang Tertinggi"; perintah-perintah mereka disebut "Perintah yang Tertinggi"; dan majelis-majelis mereka disebut "Majelis yang Tertinggi". Yang dimaksud dalam semua itu adalah ketinggian dengan makna keperkasaan dan kuasa, bukan karena tempat dan arah. Lagi pula, Allah Ta'ala berfirman kepada Musa, *"Jangan takut! Sesungguhnya engkaulah yang paling tinggi,"*²⁸⁸ berfirman, *"Janganlah kamu (merasa) lemah dan jangan (pula) bersedih hati, padahal kamu paling tinggi,"*²⁸⁹ dan berfirman, *"dan firman Allah itulah yang paling tinggi,"*²⁹⁰ dan Fir'aun berkata, *"Akulah tuhanmu yang paling tinggi."*²⁹¹ Ketinggian di tempat-tempat ini bermakna ketinggian dengan kuasa, bukan ketinggian secara arah. Yang menunjukkan bahwa yang dimaksud adalah apa yang kami sebutkan ada beberapa segi.
+
+Pertama, Allah Ta'ala berfirman, *"Sucikanlah nama Tuhanmu Yang Mahatinggi,"*²⁹² sehingga Dia menetapkan bahwa Allah Ta'ala lebih tinggi daripada segala sesuatu selain-Nya, sedangkan arah adalah sesuatu selain-Nya. Maka wajiblah Zat-Nya lebih tinggi daripada arah, dan apa yang lebih tinggi daripada arah mustahil ketinggiannya disebabkan oleh arah. Maka tetaplah bahwa ketinggian-Nya karena Zat-Nya sendiri, bukan karena arah. Tidak dapat dikatakan bahwa arah bukan sesuatu yang maujud sehingga tercakup dalam firman-Nya, *"Sucikanlah nama Tuhanmu Yang Mahatinggi,"*²⁹³ sebab kami katakan: telah kami jelaskan dalam bab dalil-dalil rasional bahwa arah pasti merupakan sesuatu yang maujud.
+
+Kedua, seandainya Allah Ta'ala berada pada arah atas, maka adakalanya Dia memiliki ujung di arah atas, adakalanya tidak memiliki ujung di arah itu. Jika yang pertama, Dia bukan yang paling tinggi dari segala sesuatu, sebab ruang-ruang kosong di atas-Nya lebih tinggi daripada-Nya; dan juga karena Dia berkuasa menciptakan jisim-jisim di semua ruang, sehingga Dia berkuasa menciptakan suatu alam di ruang-ruang yang berada di atas-Nya, dan dengan pengandaian itu alam tersebut lebih tinggi daripada-Nya. Adapun alasan kami mengatakan bahwa (tidak boleh dikatakan) Zat Allah Ta'ala tak berhingga dari arah atas: sebab sisi-Nya yang berhingga ini berbeda esensinya dari sisi yang tak berhingga, dan tidak sah pada masing-masing apa yang sah pada yang lain; (atau jika sama,) sah bagi yang tak berhingga berubah menjadi berhingga dan yang berhingga menjadi tak berhingga, dan itu menuntut kemungkinan terpisah dan tersambung pada Zat Allah Ta'ala, yang mustahil.
+
+Ketiga, jika Dia tak berhingga dari sisi atas, maka tidak ada satu bagian pun kecuali di atasnya ada bagian lain, dan segala sesuatu yang di atasnya ada yang lain bukanlah maujud yang paling tinggi. Maka di antara bagian-bagian itu tidak ada sesuatu yang merupakan maujud paling tinggi. Maka tetaplah, dengan apa yang kami sebutkan, bahwa segala sesuatu yang terikat pada arah tidak mungkin disifati sebagai maujud yang paling tinggi. Jika demikian, wajiblah ketinggian Allah Ta'ala bukan dengan arah dan ruang. Itulah yang dituju.
+
+Adapun pegangan mereka yang keempat, yaitu ayat-ayat yang memuat lafaz naik (*ʿurūj*), seperti firman Allah Ta'ala, *"Dia mengatur segala urusan dari langit ke bumi, kemudian (urusan) itu naik kepada-Nya,"*²⁹⁴ firman-Nya, *"yang memiliki tempat-tempat naik (al-maʿārij),"*²⁹⁵ dan *"Para malaikat dan Jibril naik (menghadap) kepada-Nya,"*²⁹⁶ jawabannya: *maʿārij* adalah jamak dari *maʿraj*, yaitu tempat naik; dari situ firman Allah Ta'ala, *"dan tangga-tangga yang mereka naiki."*²⁹⁷ Dalam ayat-ayat ini tidak ada penjelasan bahwa tempat-tempat naik itu adalah tempat naik bagi apa. Maka gugurlah hujah mereka dalam bab ini. Bahkan boleh jadi tempat-tempat naik itu adalah tempat naik bagi nikmat-nikmat Allah Ta'ala, tempat naik para malaikat, atau tempat naik para penerima pahala.
+
+Adapun firman Allah Ta'ala, *"Para malaikat dan Jibril naik (menghadap) kepada-Nya,"* kami katakan: yang dimaksud dengan huruf *ilā* dalam firman-Nya *"kepada-Nya"* adalah kepada tempat yang Dia kehendaki. Padanannya firman Allah Ta'ala, *"dan kepada-Nyalah segala urusan dikembalikan,"*²⁹⁸ dan yang dimaksud adalah berakhirnya para penerima pahala di tempat-tempat kemuliaan dan kehormatan, seperti perkataan Ibrahim, *"Sesungguhnya aku harus pergi (menghadap) kepada Tuhanku, Dia akan memberi petunjuk kepadaku."*²⁹⁹ Hal ini merupakan isyarat bahwa negeri pahala adalah tempat yang paling tinggi dan paling luhur dibandingkan dengan (tempat) kebanyakan makhluk.
+
+Adapun pegangan mereka yang kelima, yaitu lafaz *inzāl* dan *tanzīl*, jawabannya: mazhab lawan adalah bahwa Al-Qur'an adalah huruf dan suara, sehingga berpindah mustahil baginya, dan pemakaian lafaz *inzāl* dan *tanzīl* untuknya adalah majaz menurut kesepakatan; maka tidak boleh berpegang padanya. Lagi pula, suatu perbuatan terkadang disandarkan kepada yang memerintahkannya sebagaimana disandarkan kepada pelaku langsungnya. Tidakkah engkau lihat bahwa Allah Ta'ala menyandarkan pencabutan ruh-ruh kepada diri-Nya dengan firman-Nya, *"Allah menggenggam nyawa (manusia) pada saat kematiannya,"*³⁰⁰ kemudian menyandarkannya kepada Malaikat Maut dengan firman-Nya, *"Katakanlah, 'Malaikat maut yang diserahi (untuk mencabut nyawa)mu akan mematikanmu,'"*³⁰¹ kemudian menyandarkannya kepada para malaikat dengan firman-Nya, *"sehingga apabila kematian datang kepada salah seorang di antara kamu, malaikat-malaikat Kami mencabut nyawanya."*³⁰² Dia juga berfirman, *"utusan-utusan (malaikat) Kami selalu mencatat di sisi mereka,"*³⁰³ kemudian berfirman, *"dan sesungguhnya Kami mencatat untuknya."*³⁰⁴ Allah Ta'ala juga berfirman, *"orang-orang yang menyakiti Allah,"*³⁰⁵ yakni para wali-Nya; kemudian berfirman, *"Maka, ketika mereka membuat Kami murka,"*³⁰⁶ yakni para wali Kami; dan berfirman, *"Mereka menipu Allah,"*³⁰⁷ yakni Rasul-Nya dan orang-orang mukmin. Hanya kepada Allah kita memohon taufik.
+
+Adapun pegangan mereka yang keenam, yaitu berpegang pada bentuk *ilā* bagi Allah Ta'ala, seperti firman-Nya, *"kepada Tuhannya mereka memandang,"*³⁰⁸ (jawabannya): memandang kepada sesuatu mengharuskan melihatnya, sehingga boleh yang dimaksud dengan memandang adalah melihat, dengan cara menyebut nama sebab untuk akibatnya. Lagi pula, Allah Ta'ala mengisahkan tentang sang Khalil 'alaihissalam bahwa ia berkata, *"Sesungguhnya aku harus pergi (menghadap) kepada Tuhanku, Dia akan memberi petunjuk kepadaku,"*³⁰⁹ dan yang dimaksud bukan kedekatan secara arah; demikian pula di sini. Allah lebih mengetahui.
+
+Adapun pegangan mereka yang ketujuh, yaitu firman Allah Ta'ala, *"Sudah merasa amankah kamu terhadap (Allah) yang di langit?"*³¹⁰ jawabannya: ayat ini tidak mungkin diberlakukan menurut makna lahiriahnya. Hal itu ditunjukkan oleh dua segi.³¹¹
+
+Pertama, Dia berfirman, *"Dialah Tuhan (yang disembah) di langit dan Tuhan (yang disembah) di bumi."*³¹² Ini menuntut bahwa yang dimaksud dengan keberadaan-Nya di langit dan keberadaan-Nya di bumi adalah satu makna. Namun keberadaan-Nya di bumi tidak bermakna menetap, maka keberadaan-Nya di langit pun wajib tidak bermakna menetap. Maka mengapa tidak boleh yang dimaksud dengan *"Sudah merasa amankah kamu terhadap (Allah) yang di langit"*³¹³ adalah para malaikat yang berada di langit? Sebab, dalam perkataan itu tidak ada yang menunjukkan bahwa yang di langit itu adalah Tuhan, dan tidak diragukan bahwa para malaikat adalah musuh orang-orang kafir dan fasik. Atau mengapa tidak boleh yang dimaksud adalah, "Sudah merasa amankah kamu terhadap Dia yang kerajaan-Nya di langit?" Langit dikhususkan dengan penyebutan karena ia lebih agung daripada bumi, untuk membesarkan perkara.
+
+Adapun pegangan mereka yang kedelapan, yaitu lafaz hijab, jawabannya: mengapa tidak boleh yang dimaksud dengan hijab adalah tidak adanya penglihatan? Sebab, hijab menuntut tercegahnya penglihatan, sehingga pemakaian lafaz hijab untuk tercegahnya penglihatan termasuk bab memakai nama sebab untuk akibatnya.
+
+Adapun pegangan mereka yang kesembilan, yaitu ayat-ayat yang memuat pengangkatan, seperti firman Allah Ta'ala, *"Akan tetapi, Allah telah mengangkatnya kepada-Nya,"*³¹⁴ dan firman-Nya, *"dan amal kebajikan Dia akan mengangkatnya,"*³¹⁵ jawabannya: ketika Allah Ta'ala mengangkatnya ke tempat kemuliaan dan tempat lain, sah secara majaz dikatakan bahwa Allah Ta'ala mengangkatnya kepada-Nya, sebagaimana seorang raja, apabila memuliakan seseorang, baik dikatakan bahwa ia mengangkatnya ke derajat yang tinggi dari derajat itu dan mendekatkannya kepada dirinya. Dari situ pula firman Allah Ta'ala, *"Selain itu, orang-orang yang paling dahulu (beriman), merekalah yang paling dahulu (masuk surga). Mereka itulah orang yang didekatkan (kepada Allah)."*³¹⁶,³¹⁷
+
+Adapun pegangan mereka yang kesepuluh, yaitu ayat-ayat yang memuat lafaz keberadaan di sisi (*ʿindiyya*), tidak boleh yang dimaksud dengan keberadaan di sisi itu adalah ruang; yang dimaksud adalah kemuliaan. Dalilnya adalah sabda beliau shallallahu 'alaihi wasallam yang mengisahkan firman Tuhan Yang Mahaperkasa, *"Aku berada di sisi orang-orang yang hatinya hancur karena-Ku,"* dan sabdanya, *"Aku berada di sisi persangkaan hamba-Ku kepada-Ku."* Bahkan ini lebih kuat, sebab nas-nas yang mereka sebutkan menunjukkan bahwa para malaikat berada di sisi Allah Ta'ala, (sebagaimana firman-Nya tentang Dawud,) *"Sesungguhnya dia mempunyai kedudukan yang benar-benar dekat di sisi Kami,"*³¹⁸ padahal yang dimaksud dengan keberadaan di sisi ini bukan arah; demikian pula di sini.
+
+Inilah isyarat kepada jawaban atas segi-segi yang mereka jadikan pegangan dari Al-Qur'an dalam menetapkan arah bagi Allah Ta'ala. Hanya kepada Allah kita memohon taufik.
+
+Adapun hadis-hadis yang mereka jadikan pegangan, kami katakan:
+
+Adapun hadis pertama, ketahuilah bahwa sebagian orang meriwayatkan hadis ini dengan cara lain. Ia berkata bahwa beliau shallallahu 'alaihi wasallam bersabda, *"Dia meletakkan Arasy-Nya di atas langit-langit begini,"* dan beliau membentuk kubah dengan jarinya seperti kubah. Jika kita membawa riwayat itu kepada cara ini, sama sekali tidak ada kemusykilan padanya. Tujuan perkataan ini adalah pendekatan (pemahaman), pengajaran, dan penjelasan keagungan Allah sejauh yang dapat dijangkau pemahaman penanya. Sabdanya, *"Arasy itu berderit karena-Nya,"* maknanya: Arasy tidak sanggup menanggung kebesaran dan keagungan-Nya, sehingga berderit karena-Nya bila dibebani. Sebab, derit pelana karena penunggangnya terjadi karena kuatnya apa yang di atasnya dan ketidakmampuannya menanggungnya. Maka beliau shallallahu 'alaihi wasallam, dengan jenis (perumpamaan) ini, mendekatkan pemahaman tentang keagungan Allah Ta'ala dan ketinggian Arasy-Nya, agar lawan bicara tahu bahwa Allah Ta'ala lebih agung dan lebih tinggi daripada dijadikan serupa dengan seorang pun dari makhluk-Nya. Aku (ar-Razi) berkata: makna lahiriah hadis itu menunjukkan bahwa Arasy dijadikan berhingga dalam kekuatan (menanggung); sebab jika tidak, tidak akan terjadi derit. Semua itu menafikan ketuhanan. Maka kita tahu bahwa lafaz itu mesti dibawa kepada selain makna lahiriahnya.
+
+Adapun hadis kedua, yaitu sabda beliau shallallahu 'alaihi wasallam, *"Ketika Allah telah menetapkan penciptaan, Dia menulis sebuah ketetapan, dan ketetapan itu ada di sisi-Nya di atas Arasy,"*³²⁰ jawabannya adalah apa yang telah dikemukakan tentang lafaz *ʿind* dalam Al-Qur'an.
+
+Adapun hadis ketiga, jawabannya: kata *ayna* (di mana), sebagaimana dijadikan pertanyaan tentang tempat, terkadang dijadikan pertanyaan tentang kedudukan dan derajat. Dikatakan, "Di mana si Fulan dibandingkan si Fulan?" Mungkin pertanyaan itu tentang kedudukan, lalu ia menunjuk ke langit, yakni bahwa Dia sangat tinggi kedudukan-Nya. Beliau mencukupkan diri dengan isyarat itu darinya hanya karena keterbatasan akal dan sedikitnya pemahaman perempuan itu.³²¹ Jawaban ini juga layak menjadi jawaban atas pegangan mereka dengan hadis kedua, yaitu bahwa lafaz *ʿind* disebut untuk menjelaskan kedudukan dan derajat.³¹⁹
+
+Adapun kisah mikraj, maksudnya adalah bahwa Allah Ta'ala hendak memperlihatkan (kepada beliau) berbagai jenis makhluk-Nya di alam atas dan alam bawah, agar penyaksiannya terhadap dalil-dalil lebih banyak sehingga jiwanya menjadi lebih kuat dan lebih sempurna, sebagaimana halnya dengan sang Khalil 'alaihissalam.
+
+Adapun firman-Nya, *"Kemudian dia mendekat, lalu bertambah dekat. Maka, jadilah dia dekat (pada jarak) dua busur panah atau lebih dekat (lagi),"*³²²,³²³ dalam hal ini ada beberapa segi.
+
+Pertama, kedekatan ini adalah kedekatan kedudukan dan kemuliaan, seperti firman-Nya (dalam hadis qudsi), *"Siapa yang mendekat kepada-Ku sejengkal, Aku mendekat kepadanya sehasta."*
+
+Kedua, "kemudian dia mendekat, lalu bertambah dekat," yakni Jibril mendekat kepada Muhammad 'alaihimassalam. Dalilnya adalah firman Allah Ta'ala dalam ayat lain, *"Sungguh, dia (Nabi Muhammad) benar-benar telah melihatnya (Jibril) di ufuk yang terang."*³²⁴ Kemudian, ketika Jibril mendekat kepada Muhammad 'alaihimassalam, terjadilah wahyu dari Allah Ta'ala kepadanya. Karena itu Dia berfirman, *"Lalu, Dia menyampaikan wahyu kepada hamba-Nya apa yang Dia wahyukan."*³²⁵
+
+Adapun jawaban atas pegangan mereka pada perkataan Fir'aun, *"Wahai Haman, buatkanlah untukku sebuah bangunan yang tinggi,"*³²⁶ ialah bahwa perkataan ini adalah perkataan Fir'aun, dan ia dilawan oleh kenyataan bahwa Musa 'alaihissalam tidak berkata "Tuhan di langit", melainkan berkata "Tuhan langit". Kemudian, Fir'aun mengira bahwa Tuhan menetap di langit. Inilah jawaban atas syubhat ini. Hanya kepada Allah kita memohon taufik.
+
+²⁵⁷ CT: QS Taha [20]: 5. (Edisi Turki tertulis 20/4.)
+
+²⁵⁸ CT: QS Taha [20]: 4.
+
+²⁵⁹ CT: QS Taha [20]: 5. (Edisi Turki tertulis al-Baqarah 2/255.)
+
+²⁶⁰ CT: QS Taha [20]: 6. (Edisi Turki tertulis al-Baqarah 2/255, ayat yang memuat ungkapan serupa.)
+
+²⁶¹ CT: QS Taha [20]: 6. (Edisi Turki tertulis al-Baqarah 2/255.)
+
+²⁶² CT: QS Taha [20]: 6. (Edisi Turki tertulis al-Baqarah 2/255.)
+
+²⁶³ CT: QS Taha [20]: 4.
+
+²⁶⁴ CT: QS Taha [20]: 6.
+
+²⁶⁵ CT: QS Taha [20]: 5.
+
+²⁶⁶ CT: QS al-Haqqah [69]: 17.
+
+²⁶⁷ CT: (Teks catatan ini tidak terbaca dalam naskah Turki; menurut konteksnya: QS Qaf [50]: 16.)
+
+²⁶⁸ CT: QS al-Hadid [57]: 4.
+
+²⁶⁹ CT: QS az-Zukhruf [43]: 84.
+
+²⁷⁰ CT: QS an-Nisa' [4]: 142.
+
+²⁷¹ CT: QS ar-Rum [30]: 27.
+
+²⁷² CT: QS Ali 'Imran [3]: 54.
+
+²⁷³ CT: QS al-Baqarah [2]: 15.
+
+²⁷⁴ CT: (Teks catatan ini tidak terbaca dalam naskah Turki; menurut konteksnya: QS at-Taubah [9]: 129.)
+
+²⁷⁵ CT: (Teks catatan ini tidak terbaca dalam naskah Turki; menurut konteksnya: QS Yusuf [12]: 76.)
+
+²⁷⁶ CT: QS al-A'raf [7]: 127.
+
+²⁷⁷ CT: QS al-Fath [48]: 10.
+
+²⁷⁸ CT: QS al-Baqarah [2]: 26.
+
+²⁷⁹ CT: QS al-An'am [6]: 18.
+
+²⁸⁰ CT: QS an-Nahl [16]: 128. (Edisi Turki tertulis 16/28.)
+
+²⁸¹ CT: QS al-Baqarah [2]: 153. (Edisi Turki tertulis 2/53.)
+
+²⁸² CT: QS al-Hadid [57]: 4.
+
+²⁸³ CT: QS Qaf [50]: 16.
+
+²⁸⁴ CT: QS al-Baqarah [2]: 186.
+
+²⁸⁵ CT: QS al-Mujadalah [58]: 7.
+
+²⁸⁶ CT: QS an-Nahl [16]: 50. (Edisi Turki tertulis 16/56.)
+
+²⁸⁷ CT: QS an-Nahl [16]: 50. (Edisi Turki tertulis 16/56.)
+
+²⁸⁸ CT: QS Taha [20]: 68.
+
+²⁸⁹ CT: QS Ali 'Imran [3]: 139.
+
+²⁹⁰ CT: QS at-Taubah [9]: 40.
+
+²⁹¹ CT: QS an-Nazi'at [79]: 24.
+
+²⁹² CT: QS al-A'la [87]: 1.
+
+²⁹³ CT: QS al-A'la [87]: 1.
+
+²⁹⁴ CT: (Teks catatan ini tidak terbaca dalam naskah Turki; menurut konteksnya: QS as-Sajdah [32]: 5.)
+
+²⁹⁵ CT: QS al-Ma'arij [70]: 3.
+
+²⁹⁶ CT: QS al-Ma'arij [70]: 4.
+
+²⁹⁷ CT: QS az-Zukhruf [43]: 33.
+
+²⁹⁸ CT: QS Hud [11]: 123.
+
+²⁹⁹ CT: QS ash-Shaffat [37]: 99.
+
+³⁰⁰ CT: QS az-Zumar [39]: 42.
+
+³⁰¹ CT: QS as-Sajdah [32]: 11.
+
+³⁰² CT: QS al-An'am [6]: 61.
+
+³⁰³ CT: QS az-Zukhruf [43]: 80.
+
+³⁰⁴ CT: QS al-Anbiya' [21]: 94.
+
+³⁰⁵ CT: QS al-Ahzab [33]: 57.
+
+³⁰⁶ CT: QS az-Zukhruf [43]: 55.
+
+³⁰⁷ CT: QS al-Baqarah [2]: 9.
+
+³⁰⁸ CT: QS al-Qiyamah [75]: 23.
+
+³⁰⁹ CT: QS ash-Shaffat [37]: 99.
+
+³¹⁰ CT: QS al-Mulk [67]: 16.
+
+³¹¹ CT: Dalam teks disebutkan dua segi, tetapi hanya satu segi yang dijelaskan. (catatan penerjemah)
+
+³¹² CT: QS az-Zukhruf [43]: 84.
+
+³¹³ CT: QS al-Mulk [67]: 16.
+
+³¹⁴ CT: QS an-Nisa' [4]: 158.
+
+³¹⁵ CT: QS Fathir [35]: 10.
+
+³¹⁶ CT: QS al-Waqi'ah [56]: 10.
+
+³¹⁷ CT: QS al-Waqi'ah [56]: 11.
+
+³¹⁸ CT: QS Shad [38]: 40.
+
+³¹⁹ CT: Muslim, *al-Masajid*, 33; Abu Dawud, *ash-Shalah*, 167, *al-Aiman*, 16; an-Nasa'i, *ash-Shaum*, 20; ad-Darimi, *an-Nudzur*, 10; *al-Muwaththa'*, *al-'Itq*, 8, 9; Ahmad bin Hanbal, II/291.
+
+³²⁰ CT: (Teks catatan ini tidak terbaca dalam naskah Turki.)
+
+³²¹ CT: Hal ini tidak dapat diberlakukan kepada semua perempuan. Penilaian ini adakalanya khusus bagi perempuan tersebut, atau ar-Razi mungkin mengatakannya karena terpengaruh oleh pandangan tentang perempuan yang umum pada masanya. (catatan penerjemah)
+
+³²² CT: QS an-Najm [53]: 8.
+
+³²³ CT: QS an-Najm [53]: 9.
+
+³²⁴ CT: QS at-Takwir [81]: 23.
+
+³²⁵ CT: QS an-Najm [53]: 10.
+
+³²⁶ CT: QS Gafir [40]: 36.
