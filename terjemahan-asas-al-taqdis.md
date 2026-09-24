@@ -12,9 +12,9 @@
 |---|---|
 | Tahap | Terjemahan penuh sedang berjalan |
 | Glosarium | Versi 1.0 (usulan v0.1 diberlakukan melalui instruksi "lanjut hingga tuntas kitab"); tambahan baru dicatat di 2.7 dan menunggu persetujuan eksplisit |
-| Sudah diterjemahkan | Pembuka Kitab; Bagian I seluruhnya; Bagian II: Mukadimah, Pasal 1 sampai 15 |
-| Kalimat terakhir | "Inilah yang dimaksud dengan sabdanya, "Sesungguhnya angin berasal dari embusan napas ar-Rahman," yakni termasuk hal yang padanya Allah jadikan kelapangan. Hanya kepada Allah kita memohon taufik." |
-| Posisi berikutnya | Naskah Arab: *al-Faṣl al-Sādis ʿAshar fī al-Yad* · Naskah Turki: *On Altıncı Kısım*, h. 149 |
+| Sudah diterjemahkan | Pembuka Kitab; Bagian I seluruhnya; Bagian II: Mukadimah, Pasal 1 sampai 21 |
+| Kalimat terakhir | "Padanannya firman Allah Ta'ala, "Sesungguhnya Allah, Dialah Pemberi rezeki, Pemilik kekuatan, lagi Sangat Kukuh."" |
+| Posisi berikutnya | Naskah Arab: *al-Faṣl al-Thānī wa-l-ʿIshrūn fī al-Iṣbaʿ* · Naskah Turki: *Yirmi İkinci Kısım*, h. 162 |
 
 ---
 
@@ -1555,3 +1555,211 @@ Lafaz ini tidak terdapat dalam Al-Qur'an, tetapi diriwayatkan bahwa Nabi shallal
 Takwilnya: kata itu diambil dari ucapan *naffastu ʿan fulān*, yakni aku melapangkan (kesusahan) darinya, dan *anfasa Allāhu ʿan fulān*, yakni Allah melapangkan (kesusahan) darinya. Apabila angin itu sejuk menyenangkan, hilanglah hal-hal yang tidak disukai itu. Maka ketika beliau mendapatinya dari arah Yaman, tercapailah apa yang dituju. Lagi pula, sesuatu yang menyertai hal yang dibenci ikut dibenci, dan sesuatu yang menyertai hal yang dicintai ikut dicintai. Maka ketika Nabi shallallahu 'alaihi wasallam mendapatkan pertolongan dari arah Yaman, beliau mendapatkan kelapangan dari hal-hal yang tidak disukai dari arah itu. Karena itu, tak ayal, benarlah sabda beliau, *"Sungguh, aku merasakan embusan napas ar-Rahman dari arah Yaman."* Karena itu pula Nabi shallallahu 'alaihi wasallam bersabda, *"Iman itu dari Yaman, dan hikmah itu dari Yaman."* Inilah yang dimaksud dengan sabdanya, *"Sesungguhnya angin berasal dari embusan napas ar-Rahman,"* yakni termasuk hal yang padanya Allah jadikan kelapangan. Hanya kepada Allah kita memohon taufik.
 
 ¹⁵⁷ CT: at-Tirmidzi, *al-Fitan*, 65, *al-Birr*, 48; Abu Dawud, *al-Adab*, 45; Ibnu Majah, *al-Adab*, 29; Ahmad bin Hanbal, II/250, 268, 409, 437, 518.
+
+### Pasal Keenam Belas: Tentang "Tangan" (*Yad*)
+
+*(Tr. h. 149)*
+
+Ketahuilah, lafaz ini terdapat dalam Al-Qur'an dan hadis. Adapun dalam Al-Qur'an, sifat ini terkadang datang dalam bentuk tunggal dan terkadang dalam bentuk dual, seperti firman Allah Ta'ala, *"Apa yang menghalangimu untuk bersujud kepada yang telah Aku ciptakan dengan kedua tangan-Ku?"*¹⁵⁸ dan firman-Nya, *"Padahal kedua tangan-Nya terbentang."*¹⁵⁹ Adapun hadis-hadisnya banyak.
+
+Pertama, diriwayatkan bahwa Nabi shallallahu 'alaihi wasallam bersabda, *"Adam dan Musa bertemu. Musa berkata, 'Engkaulah yang Allah ciptakan dengan tangan-Nya, dan Dia jadikan malaikat-malaikat-Nya bersujud kepadamu, dan Dia tiupkan ke dalam dirimu roh-Nya. Dia memerintahkanmu suatu perintah, lalu engkau mendurhakai-Nya, sehingga Dia mengeluarkanmu dari surga.' Adam berkata, 'Wahai Musa, Allah telah memilihmu dengan kalam-Nya dan menuliskan Taurat untukmu dengan tangan-Nya. Apakah engkau mencelaku atas suatu perkara yang telah Allah takdirkan atasku empat puluh tahun sebelum Dia menciptakanku?' Beliau bersabda: Maka Adam mengalahkan Musa dalam hujah."*¹⁶⁰ Hadis ini memuat bahwa Musa 'alaihissalam menetapkan tangan bagi Allah Ta'ala, dan demikian pula Adam berpendapat demikian.
+
+Kedua, Abu Hurairah radhiyallahu 'anhu meriwayatkan bahwa Nabi shallallahu 'alaihi wasallam bersabda, *"Ketika Allah Ta'ala menciptakan makhluk, Dia menulis dengan tangan-Nya atas diri-Nya: sesungguhnya rahmat-Ku mendahului murka-Ku."*¹⁶¹
+
+Ketiga, Abdullah bin Umar meriwayatkan dari Nabi shallallahu 'alaihi wasallam bahwa beliau bersabda, *"Sesungguhnya Dia membuka pintu-pintu langit pada sepertiga malam yang tersisa, lalu membentangkan tangan-Nya dan berfirman: Tidakkah ada hamba yang meminta kepada-Ku, niscaya Aku memberinya? Dan terus demikian hingga fajar terbit."*¹⁶²
+
+Keempat, Abu Hurairah meriwayatkan dari Nabi shallallahu 'alaihi wasallam bahwa beliau bersabda, *"Sesungguhnya salah seorang di antara kalian bersedekah dengan sebutir kurma, bila dari (hasil) yang baik, dan Allah tidak menerima kecuali yang baik, maka Allah meletakkannya di tangan kanan-Nya, kemudian memeliharanya sebagaimana salah seorang di antara kalian memelihara anak kuda atau anak untanya, hingga ia menjadi seperti (gunung) Uhud."*¹⁶³
+
+Kelima, hadis masyhur, yaitu sabda beliau shallallahu 'alaihi wasallam, *"Sesungguhnya sedekah jatuh ke kedua tangan ar-Rahman sebelum jatuh ke tangan orang fakir."*¹⁶⁴
+
+Keenam, apa yang dinukil secara mutawatir dari Nabi shallallahu 'alaihi wasallam bahwa beliau biasa berkata, *"Demi Zat yang jiwaku berada di tangan-Nya."*¹⁶⁵
+
+Ketujuh, sabda beliau shallallahu 'alaihi wasallam, *"Sesungguhnya Allah meragi tanah liat Adam dengan tangan-Nya selama empat puluh pagi."*¹⁶⁶
+
+Ketahuilah, lafaz "tangan" secara hakiki (*ḥaqīqa*) bermakna organ tubuh yang khusus ini, tetapi dipakai secara majaz untuk hal-hal lain.
+
+Pertama, lafaz "tangan" dipakai untuk kuasa. Dikatakan, "Tangan sultan di atas tangan rakyat," yakni kuasanya mengalahkan kuasa mereka. Sebab baiknya majaz ini ialah bahwa kesempurnaan keadaan anggota ini hanya tampak melalui sifat yang dinamai kuasa. Karena tujuan tangan adalah terwujudnya kuasa, nama tangan pun dipakai untuk kuasa. Terkadang dikatakan, "Negeri ini berada di tangan amir," meskipun amir itu terpotong tangannya; dan dikatakan, "Di tangan si Fulan perintah dan larangan, pelepasan dan pengikatan," dan yang dimaksud adalah apa yang telah kami sebutkan.
+
+Kedua, tangan terkadang dimaksudkan sebagai nikmat. Majaz ini menjadi baik karena alat pemberian nikmat adalah tangan; maka memakai nama tangan untuk nikmat adalah memakai nama sebab untuk akibat.
+
+Ketiga, lafaz "tangan" terkadang disebut sebagai penyambung ujaran demi penegasan, seperti ucapan mereka, "Kedua tanganmulah yang mengikatnya." Dekat dengan ini firman Allah Ta'ala, *"hendaklah kamu mengeluarkan sedekah di antara kedua tangan (sebelum) pembicaraan rahasiamu,"*¹⁶⁷ dan firman-Nya, *"di antara kedua tangan (menjelang kedatangan) rahmat-Nya,"*¹⁶⁸ padahal pembicaraan rahasia dan rahmat tidak memiliki kedua anggota yang dinamai tangan itu.
+
+Jika engkau telah mengetahui pendahuluan ini, kami katakan: adapun firman Allah Ta'ala, *"Tangan Allah di atas tangan-tangan mereka,"*¹⁶⁹ maknanya: kuasa Allah Ta'ala mengalahkan kuasa makhluk. Adapun firman Allah Ta'ala yang mengisahkan bahwa orang-orang Yahudi berkata, *"Tangan Allah terbelenggu,"*¹⁷⁰ tangan di sini bermakna nikmat. Dalilnya: orang-orang Yahudi itu adakalanya dikatakan mengakui adanya Pencipta, adakalanya mengingkarinya. Jika mereka mengakuinya, mustahil kita katakan (bahwa mereka memaksudkan) Pencipta alam itu dibelenggu dan dikalahkan, sebab itu tidak dikatakan oleh seorang berakal pun. Jika mereka mengingkarinya, perkataan bahwa Dia terbelenggu tidak berfaedah. Maka tetaplah bahwa maksudnya: mereka meyakini nikmat-nikmat Allah Ta'ala tertahan dari makhluk dan terhalang dari mereka. Maka ayat ini menjadi salah satu dalil terkuat bahwa lafaz tangan terkadang dimaksudkan sebagai nikmat.
+
+Adapun firman Allah Ta'ala, *"Padahal kedua tangan-Nya terbentang,"*¹⁷¹ yang dimaksud juga nikmat. Hal itu ditunjukkan oleh dua segi.
+
+Pertama, ayat ini datang dalam konteks jawaban atas perkataan Yahudi, *"Tangan Allah terbelenggu."* Karena telah kami jelaskan dengan dalil bahwa perkataan mereka "tangan Allah terbelenggu" tidak bermakna belenggu dan penahanan, melainkan tertahannya nikmat-nikmat Allah dari mereka, wajiblah firman-Nya "padahal kedua tangan-Nya terbentang" merupakan ungkapan tentang banyaknya nikmat Allah Ta'ala dan meratanya bagi makhluk, agar jawaban itu sesuai dengan pertanyaan.
+
+Kedua, seandainya firman-Nya "padahal kedua tangan-Nya terbentang" kita bawa kepada makna lahiriahnya, niscaya kedua tangan-Nya terbentang seperti tangan orang yang terserang kejang, Mahatinggi Allah dari hal itu. Maka tetaplah bahwa yang dimaksud adalah pelimpahan nikmat.
+
+Adapun firman Allah Ta'ala, *"Apa yang menghalangimu untuk bersujud kepada yang telah Aku ciptakan dengan kedua tangan-Ku?"*, kami katakan: para ulama memiliki dua pendapat tentangnya.
+
+Pendapat pertama: kedua tangan adalah dua sifat yang melekat pada Zat Allah Ta'ala, yang dengannya terjadi penciptaan dengan cara pemuliaan dan pemilihan, sebagaimana pada Adam 'alaihissalam. Para pendukung segi ini berhujah dengan beberapa segi.
+
+Pertama, firman Allah Ta'ala, *"Apa yang menghalangimu untuk bersujud kepada yang telah Aku ciptakan dengan kedua tangan-Ku?"*¹⁷² mengisyaratkan bahwa Allah Ta'ala menjadikan Adam tempat sujud para malaikat semata-mata karena Dia menciptakannya dengan kedua tangan-Nya. Seandainya tangan itu berarti kuasa, niscaya sebab (*ʿilla*) keadaan menjadi tempat sujud ini terdapat pada semua makhluk, sehingga hukum ini wajib berlaku pada semuanya. Karena hal itu tidak terjadi, kita tahu bahwa tangan adalah sifat selain kuasa.
+
+Kedua, kuasa Allah Ta'ala itu satu, sedangkan tangan disifati dengan bentuk dual.
+
+Ketiga, firman-Nya, *"yang telah Aku ciptakan dengan kedua tangan-Ku,"*¹⁷³ menunjukkan bahwa Adam dikhususkan dengan penciptaan (dengan kedua tangan), sedangkan pengkhususan dalam penyebutan menunjukkan penafian hukum itu dari selainnya. Maka wajiblah semua selain Adam 'alaihissalam tidak diciptakan dengan kedua tangan, padahal tidak diragukan bahwa mereka diciptakan dengan kuasa. Itu menuntut tangan merupakan sesuatu selain kuasa.
+
+Pendapat kedua: tangan di sini adalah kuasa. Hal itu ditunjukkan oleh beberapa segi.
+
+Pertama, kuasa adalah sifat yang membuat yang disifati dengannya mampu mengadakan, menjadikan, dan memindahkan sesuatu dari ketiadaan kepada wujud. Maka, jika yang dinamai tangan demikian halnya, makna itu adalah kuasa itu sendiri.
+
+Kedua, kuasa Allah Ta'ala adalah sifat yang qadim dan wajib ada, sehingga ia wajib bertaut dengan segala sesuatu yang sah menjadi objek kuasa; sebab jika tidak, niscaya ia membutuhkan pengkhusus dalam keterikatan itu. Padahal yang menjadikan sesuatu sah menjadi objek kuasa adalah kemungkinan. Ini menuntut setiap yang mungkin adalah objek kuasa Allah Ta'ala. Tidak diragukan bahwa wujud Adam 'alaihissalam termasuk hal yang mungkin, sehingga wujud Adam termasuk hal yang ditautkan oleh kuasa Allah Ta'ala. Maka, seandainya kita andaikan ada segi lain yang secara mandiri mengadakan hal yang mungkin ini, niscaya berhimpun pada satu pengaruh dua pemberi pengaruh yang masing-masing mandiri, dan itu mustahil.
+
+Ketiga, menetapkan suatu sifat selain kuasa yang memberi pengaruh pada wujud Adam adalah sesuatu yang tidak ada dalil atas ketetapannya, sehingga tidak boleh ditetapkan, karena telah terjadi ijmak bahwa (menetapkan) suatu sifat di antara sifat-sifat Allah tanpa dalil tidak diperbolehkan.
+
+Adapun jawaban atas segi pertama yang mereka jadikan pegangan: seandainya penciptaan Adam dengan kedua tangan mengharuskan kelebihan pemilihan, niscaya penciptaan binatang dan hewan ternak dengan tangan-tangan (Allah) mengharuskan keunggulannya atas Adam dalam pemilihan ini, karena firman Allah Ta'ala tentang penciptaannya, *"di antara apa yang telah diciptakan oleh tangan-tangan Kami, yaitu hewan-hewan ternak, lalu mereka menguasainya."*¹⁷⁴ Kemudian kami katakan: mengapa tidak boleh makna firman Allah Ta'ala, *"yang telah Aku ciptakan dengan kedua tangan-Ku,"*¹⁷⁵ adalah penjelasan tentang besarnya perhatian Allah Ta'ala dalam mengadakan dan menjadikannya? Sebab, seseorang, apabila hendak bersungguh-sungguh dalam memperbaiki dan menyempurnakan suatu urusan penting, terkadang berkata, "Hal ini akan kukerjakan dengan tanganku sendiri." Sudah maklum bahwa penciptaan dengan perhatian semacam ini tidak terjadi pada selain Adam 'alaihissalam.
+
+Jawaban atas pegangan mereka yang kedua: bentuk dual tidak menunjukkan adanya bilangan, dengan dalil firman Allah Ta'ala, *"di antara kedua tangan (sebelum) pembicaraan rahasiamu,"*¹⁷⁶ dan firman-Nya, *"di antara kedua tangan (menjelang kedatangan) rahmat-Nya."*¹⁷⁷
+
+Jawaban atas pegangan mereka yang ketiga: pengkhususan dalam penyebutan di sini tidak menunjukkan penafian hukumnya dari selainnya, karena telah kami jelaskan bahwa penciptaan dengan kedua tangan berarti penciptaan yang dikhususkan dengan kelebihan kemuliaan dan penghormatan, dan himpunan ini tidak terdapat pada selain Adam.
+
+Adapun hadis-hadis, kami katakan: sabda beliau, "Dia menciptakan Adam dengan tangan-Nya dan menulis Taurat dengan tangan-Nya," itu benar, dan menunjukkan bahwa yang dimaksud adalah pengkhususan dengan kelebihan kemuliaan. Demikian pula sabdanya, "Dia menulis dengan tangan-Nya atas diri-Nya: sesungguhnya rahmat-Ku mendahului murka-Ku." Adapun sabdanya, "Sesungguhnya Allah membuka pintu-pintu langit pada sepertiga malam yang tersisa, lalu membentangkan tangan-Nya," yang dimaksud adalah pelimpahan nikmat serta penyampaian rahmat dan ampunan kepada orang-orang yang membutuhkan. Adapun sabdanya, "Sedekah jatuh ke kedua tangan ar-Rahman," yang dimaksud adalah besarnya perhatian untuk menerima sedekah-sedekah itu dan melipatgandakan pahalanya. Demikian pula yang dimaksud dengan sabdanya, "Dia meragi tanah liat Adam dengan tangan-Nya." Adapun sabda beliau shallallahu 'alaihi wasallam, "Demi Zat yang jiwaku berada di tangan-Nya," yang dimaksud dengan tangan di sini adalah kuasa.
+
+Yang menunjukkan bahwa lafaz-lafaz ini wajib ditakwilkan ialah bahwa sabda beliau shallallahu 'alaihi wasallam, "Sedekah jatuh ke kedua tangan ar-Rahman," tidak bermaksud tangan dalam arti anggota dan organ tubuh. Hal itu ditunjukkan oleh beberapa segi.
+
+Pertama, kita menyaksikan bahwa sedekah itu tidak jatuh kecuali ke tangan orang fakir. Maka perkataan bahwa ia jatuh ke tangan lain yang merupakan anggota tubuh yang terdiri atas bagian-bagian dan potongan-potongan, padahal kita tidak melihat dan tidak merasakannya, adalah peragu-raguan terhadap hal-hal yang niscaya.
+
+Kedua, ini menuntut tangan Allah menjadi wadah bagi sedekah-sedekah hamba, dan itu menyalahi makna lahiriah firman Allah Ta'ala, *"Padahal kedua tangan-Nya terbentang."*¹⁷⁸
+
+Ketiga, itu menuntut tangan si pemberi berada di atas tangan Yang Disembah, sehingga ia dapat menjatuhkan sedekah ke kedua tangan ar-Rahman; dan itu bertentangan dengan makna lahiriah firman Allah Ta'ala, *"(Tangan Allah) di atas tangan-tangan mereka."*
+
+Keempat, itu menuntut Dia berada di atas Arasy sementara tangan-Nya di bumi, dan itu tidak dikatakan oleh seorang berakal pun. Maka tetaplah bahwa makna-makna lahiriah ini mesti ditakwilkan. Hanya kepada Allah kita memohon taufik.
+
+¹⁵⁸ CT: QS Shad [38]: 75.
+
+¹⁵⁹ CT: QS al-Ma'idah [5]: 64.
+
+¹⁶⁰ CT: al-Bukhari, *at-Tauhid*, 19, 24, 37, *al-Anbiya'*, 3, *Tafsir as-Suwar*, 1, 2, 17, *ar-Riqaq*, 51; Muslim, *al-Iman*, 322, 327, *al-Qadar*, 15; at-Tirmidzi, *al-Qiyamah*, 10, *al-Qadar*, 2; Ibnu Majah, *az-Zuhd*, 37; Ahmad bin Hanbal, II/435.
+
+¹⁶¹ CT: al-Bukhari, *at-Tauhid*, 15, 20, 22, 55; Muslim, *at-Taubah*, 14, 16; Ibnu Majah, *az-Zuhd*, 35.
+
+¹⁶² CT: Ahmad bin Hanbal, I/403, 446.
+
+¹⁶³ CT: Muslim, *az-Zakah*, 63, 65; at-Tirmidzi, *Tafsir as-Suwar*, 2, 36; an-Nasa'i, *az-Zakah*, 48; Ibnu Majah, *az-Zakah*.
+
+¹⁶⁴ CT: Sumber hadis ini tidak dapat ditemukan.
+
+¹⁶⁵ CT: Muslim, *Shalat al-Musafirin*, 258; Abu Dawud, *al-Huruf*, 35; ad-Darimi, *Fadha'il al-Qur'an*, 14; Ahmad bin Hanbal, V/58, 142.
+
+¹⁶⁶ CT: Sumber hadis ini tidak dapat ditemukan.
+
+¹⁶⁷ CT: QS al-Mujadalah [58]: 12.
+
+¹⁶⁸ CT: QS al-A'raf [7]: 57; QS al-Furqan [25]: 48; QS an-Naml [27]: 63.
+
+¹⁶⁹ CT: QS al-Fath [48]: 10.
+
+¹⁷⁰ CT: QS al-Ma'idah [5]: 64.
+
+¹⁷¹ CT: QS al-Ma'idah [5]: 64.
+
+¹⁷² CT: QS Shad [38]: 75. (Edisi Turki tertulis 38/73.)
+
+¹⁷³ CT: QS Shad [38]: 75. (Edisi Turki tertulis 38/73.)
+
+¹⁷⁴ CT: QS Yasin [36]: 71.
+
+¹⁷⁵ CT: QS Shad [38]: 75.
+
+¹⁷⁶ CT: QS al-Mujadalah [58]: 12.
+
+¹⁷⁷ CT: QS al-A'raf [7]: 57.
+
+¹⁷⁸ CT: QS al-Ma'idah [5]: 64. (Edisi Turki tertulis al-A'raf 7/57.)
+
+### Pasal Ketujuh Belas: Tentang Penetapan "Genggaman" (*Qabḍa*)
+
+*(Tr. h. 156)*
+
+Lafaz ini datang dalam bentuk tunggal dalam hadis dan Al-Qur'an. Adapun Al-Qur'an, firman Allah Ta'ala, *"(Padahal) bumi seluruhnya dalam genggaman-Nya pada hari Kiamat."*¹⁷⁹ Adapun hadis-hadisnya banyak.
+
+**Hadis pertama**: diriwayatkan oleh Ibnu Khuzaimah dalam kitabnya yang ia namai *at-Tauhid*, dari Abu Musa al-Asy'ari, bahwa Nabi shallallahu 'alaihi wasallam bersabda, *"Sesungguhnya Allah menciptakan Adam dari segenggam (tanah) yang Dia genggam dari seluruh bumi. Maka anak-anak Adam datang sesuai dengan (ragam) bumi: di antara mereka ada yang merah dan yang hitam, yang lunak dan yang keras, yang buruk dan yang baik."*¹⁸⁰
+
+**Hadis kedua**: diriwayatkan oleh Ibnu Khuzaimah dalam kitabnya, dari Anas bin Malik, dari Nabi shallallahu 'alaihi wasallam, *"Sesungguhnya Allah menggenggam satu genggaman lalu berfirman, 'Ke surga, dengan rahmat-Ku,' dan menggenggam satu genggaman lalu berfirman, 'Ke neraka, dan Aku tidak peduli.'"*¹⁸¹
+
+**Hadis ketiga**: dari Abu Sa'id al-Khudri radhiyallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, tentang dua genggaman: *"Yang ini di surga, dan Aku tidak peduli; dan yang ini di neraka, dan Aku tidak peduli."*¹⁸²
+
+Ketahuilah, makna lahiriah ayat itu menuntut bumi adalah genggaman-Nya, dan itu mustahil. Sebab, bumi memuat najis-najis; bagaimana mungkin seseorang berkata bahwa ia adalah genggaman Tuhan alam? Lagi pula, tanah adalah makhluk yang berasal dari bumi, sedangkan genggaman Sang Pencipta tidak mungkin makhluk. Lagi pula, bumi menerima perhimpunan dan perpisahan, pembangunan dan penghancuran, sedangkan genggaman Sang Pencipta tidak demikian. Maka takwil mesti dilakukan, yaitu dikatakan bahwa bumi berada di dalam genggaman-Nya. Hanya saja ungkapan ini, sebagaimana disebut dengan maksud jari-jari melingkupi sesuatu, terkadang pula disebut dengan maksud bahwa sesuatu berada dalam kuasa, pertolongan, dan kepemilikannya. Dikatakan, "Negeri ini berada dalam genggaman sultan," dan yang dimaksud adalah apa yang telah kami sebutkan. Adapun genggaman yang disebut dalam hadis, maksudnya Allah Ta'ala memisahkan dari tanah bumi sekadar satu genggaman. Ini majaz yang masyhur: dikatakan tentang sesuatu yang sedikit bahwa ia segenggam atau secakup, dan yang dimaksud adalah bahwa ukurannya sebanyak itu. Hanya kepada Allah kita memohon taufik.
+
+¹⁷⁹ CT: QS az-Zumar [39]: 67.
+
+¹⁸⁰ CT: Abu Dawud, *as-Sunnah*, 16; at-Tirmidzi, *Tafsir as-Suwar*, 1, 2; Ahmad bin Hanbal, IV/400, 406.
+
+¹⁸¹ CT: Dari *Musnad* Abu Ya'la; al-Hindi, *Kanz al-'Ummal*, I/114, hadis no. 531.
+
+¹⁸² CT: Dari *Musnad* Abu Ya'la; al-Hindi, *Kanz al-'Ummal*, I/114, hadis no. 531.
+
+### Pasal Kedelapan Belas: Tentang Penetapan "Dua Tangan" (*Yadān*)
+
+*(Tr. h. 158)*
+
+Di antara yang mereka jadikan pegangan dalam menetapkan dua tangan bagi Allah 'Azza wa Jalla, mereka berhujah dengan Al-Qur'an dan hadis. Adapun Al-Qur'an, firman Allah Ta'ala, *"Apa yang menghalangimu untuk bersujud kepada yang telah Aku ciptakan dengan kedua tangan-Ku?"*¹⁸³ dan firman Allah Ta'ala, *"Padahal kedua tangan-Nya terbentang."*¹⁸⁴ Adapun hadis, riwayat Ibnu Khuzaimah dari Abu Hurairah, ia berkata: Rasulullah shallallahu 'alaihi wasallam bersabda, *"Ketika Adam diciptakan dan ditiupkan ruh ke dalamnya, ia bersin lalu berkata, 'Segala puji bagi Allah,' maka ia memuji Allah dengan izin Allah. Lalu Dia berfirman kepadanya, 'Semoga Tuhanmu merahmatimu, wahai Adam.' Kemudian Dia berfirman kepadanya, 'Wahai Adam, pergilah kepada para malaikat itu dan ucapkanlah: Assalamu'alaikum.' Ketika ia pergi dan mengucapkannya, mereka menjawab, 'Wa'alaikumussalam wa rahmatullah.' (Kemudian Allah berfirman kepadanya,) sementara kedua tangan-Nya tergenggam, 'Pilihlah mana yang engkau kehendaki.' Adam berkata, 'Aku memilih tangan kanan Tuhanku,' dan kedua tangan-Nya adalah kanan yang penuh berkah. Kemudian Dia membukanya, dan ternyata di dalamnya ada Adam dan keturunannya. Adam bertanya, 'Wahai Tuhanku, siapakah mereka ini?' Dia berfirman, 'Mereka adalah keturunanmu.' Dan ternyata setiap manusia tertulis umurnya di antara kedua matanya."*¹⁸⁵
+
+Ketahuilah, hadis ini panjang, dan maksud kita di sini hanyalah kadar ini. Engkau telah mengetahui bahwa lafaz tangan bagi Allah Ta'ala tidak mungkin dibawa kepada makna organ tubuh. Di sini ada segi-segi lain yang menunjukkannya.
+
+Pertama, makna lahiriah hadis ini menunjukkan bahwa kedua tangan-Nya adalah kanan. Tangan dalam arti organ tubuh, bila keduanya kanan, adalah puncak keburukan dan cacat ciptaan, Mahatinggi Allah dari hal itu setinggi-tingginya.
+
+Kedua, jika salah satu dari kedua tangan tidak memadai untuk bekerja, ia kurang; dan demikian pula (dua tangan kanan) mengharuskan kekurangan dalam rupa.
+
+Ketiga, makna lahiriah hadis yang kami riwayatkan menunjukkan bahwa Dia bermain dengan Adam 'alaihissalam sebagaimana anak-anak bermain satu sama lain, sampai mereka menggenggam tangan mereka dalam permainan genap-ganjil; padahal anak-anak, apabila melakukan hal itu, dipukul dan dididik oleh guru mereka. Maka bagaimana hal itu dinisbahkan kepada Tuhan semesta alam dan Hakim yang paling bijaksana? Maka tetaplah bahwa hal itu wajib dibawa kepada makna kesigapan dalam penjagaan, pemeliharaan, dan besarnya perhatian. Hanya kepada Allah kita memohon taufik.
+
+¹⁸³ CT: QS Shad [38]: 75.
+
+¹⁸⁴ CT: QS al-Ma'idah [5]: 64.
+
+¹⁸⁵ CT: at-Tirmidzi, *at-Tafsir*, 2.
+
+### Pasal Kesembilan Belas: Tentang Penetapan "Tangan Kanan" (*Yamīn*)
+
+*(Tr. h. 159)*
+
+Tentang penetapan tangan kanan bagi Allah Ta'ala. Mereka berhujah dengan Al-Qur'an dan hadis. Adapun Al-Qur'an, firman Allah Ta'ala, *"dan langit digulung dengan tangan kanan-Nya,"*¹⁸⁶ dan firman-Nya, *"niscaya Kami pegang dia pada tangan kanannya."*¹⁸⁷ Adapun hadis-hadisnya banyak.
+
+Pertama, sabda beliau 'alaihissalam, "Kedua tangan-Nya adalah kanan." Juga dari Abu Hurairah, ia berkata: Rasulullah shallallahu 'alaihi wasallam bersabda, *"Allah menggenggam bumi pada hari kiamat dan menggulung langit dengan tangan kanan-Nya, kemudian berfirman, 'Akulah Raja; di manakah raja-raja bumi?'"*¹⁸⁸
+
+Kedua, penulis *Syarh as-Sunnah* meriwayatkan dalam bab iman kepada takdir, dari Umar bin al-Khaththab radhiyallahu 'anhu, ia berkata: aku mendengar Nabi shallallahu 'alaihi wasallam bersabda, *"Sesungguhnya Allah menciptakan Adam, kemudian mengusap punggungnya dengan tangan kanan-Nya, lalu mengeluarkan darinya keturunan, dan berfirman, 'Mereka ini Kuciptakan untuk surga, dan dengan amal penghuni surga mereka beramal.' Kemudian Dia mengusap punggungnya lalu mengeluarkan darinya keturunan, dan berfirman, 'Mereka ini Kuciptakan untuk neraka, dan dengan amal penghuni neraka mereka beramal.'"*¹⁸⁹
+
+Ketiga, Ibnu Khuzaimah meriwayatkan dalam kitabnya dari Nabi shallallahu 'alaihi wasallam, beliau bersabda, *"Sesungguhnya salah seorang di antara kalian bersedekah dengan sebutir kurma dari hasil usaha yang baik, dan Allah tidak menerima kecuali yang baik, maka Dia meletakkannya di tangan kanan-Nya, kemudian memeliharanya sebagaimana salah seorang di antara kalian memelihara anak kuda atau anak untanya, hingga ia menjadi seperti (gunung) Uhud."*¹⁹⁰
+
+Ketahuilah, *yamīn* (tangan kanan) berarti kekuatan dan kuasa. Dalilnya: sisi kanan dinamai *yamīn* karena ia lebih kuat di antara kedua sisi, dan sumpah dinamai *yamīn* karena ia menguatkan tekad manusia untuk berbuat atau meninggalkan. Seorang penyair berkata:
+
+> *Apabila suatu panji diangkat demi kemuliaan, 'Arabah menyambutnya dengan tangan kanan.*
+
+Jika engkau telah mengetahui hal ini, tampaklah segi (makna) firman Allah Ta'ala, *"dan langit digulung dengan tangan kanan-Nya."*¹⁹¹ Adapun firman Allah Ta'ala, *"niscaya Kami pegang dia pada tangan kanannya,"*¹⁹² yang dimaksud adalah tangan kanan orang yang dipegang, yakni Kami pegang orang itu (pada tangan kanannya), sebagaimana dikatakan, "Aku memegang tangan kanan anak itu dan membawanya ke sekolah." Adapun jika yang dimaksud tangan kanan yang memegang, maka maksudnya adalah kekuatan dan kuasa. Jika engkau telah mengetahui hal itu dari ayat, ketahuilah pula hal serupa pada hadis-hadis.
+
+¹⁸⁶ CT: QS az-Zumar [39]: 67.
+
+¹⁸⁷ CT: QS al-Haqqah [69]: 45.
+
+¹⁸⁸ CT: al-Bukhari, *Tafsir as-Suwar*, 2, 39, *ar-Riqaq*, 44, *at-Tauhid*, 2; Muslim, *Shifat al-Munafiqin*, 23; Ibnu Majah, *al-Muqaddimah*, 13; ad-Darimi, *ar-Riqaq*, 80; Ahmad bin Hanbal, II/347.
+
+¹⁸⁹ CT: Abu Dawud, *as-Sunnah*, 16; at-Tirmidzi, *Tafsir as-Suwar*, 2, 3, 7; *al-Muwaththa'*, *al-Qadar*, 2.
+
+¹⁹⁰ CT: al-Bukhari, *at-Tauhid*, 23, *az-Zakah*, 8; Muslim, *az-Zakah*, 63; at-Tirmidzi, *az-Zakah*, 28; an-Nasa'i, *az-Zakah*, 27, 48; Ibnu Majah, *az-Zakah*, 28; *al-Muwaththa'*, *ash-Shadaqah*, 1.
+
+¹⁹¹ CT: QS az-Zumar [39]: 67.
+
+¹⁹² CT: QS al-Haqqah [69]: 45.
+
+### Pasal Kedua Puluh: Tentang "Telapak Tangan" (*Kaff*)
+
+*(Tr. h. 161)*
+
+Lafaz ini tidak terdapat dalam Al-Qur'an, tetapi disebutkan dalam hadis. Ibnu Khuzaimah meriwayatkan dalam kitabnya yang ia namai *at-Tauhid*, dari Abu Hurairah, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Siapa yang bersedekah dengan suatu sedekah dari hasil usaha yang baik, dan Allah tidak menerima kecuali yang baik, dan tidak naik ke langit kecuali yang baik, maka sedekah itu jatuh ke telapak tangan ar-Rahman, lalu Dia memeliharanya sebagaimana salah seorang di antara kalian memelihara anak untanya, hingga sebutir kurma kembali menjadi seperti gunung yang besar."* Hadis ini diriwayatkan pula dengan riwayat lain dari Abu Hurairah, yang di dalamnya disebutkan, *"Sesungguhnya seseorang bersedekah dengan sesuap makanan, lalu sesuap itu tumbuh di tangan Allah Ta'ala,"* atau ia berkata, *"di telapak tangan Allah Ta'ala, hingga menjadi seperti gunung. Maka bersedekahlah."*¹⁹³
+
+Ketahuilah, ini menunjukkan bahwa Abu Hurairah ragu apakah ia mendengar lafaz "tangan" atau lafaz "telapak tangan". Mungkin pula dikatakan bahwa ia mendengar keduanya dalam dua majelis yang berbeda. Ibnu Khuzaimah meriwayatkan di akhir bab ini dari Ibnu Hayyan bahwa ia mendengar Abu Hurairah menyebutkan hadis ini secara mauquf. Maka tetaplah bahwa hadis ini lemah jalurnya. Dengan pengandaian bahwa ia sahih, ia adalah kinayah bagi besarnya kepedulian terhadap perbuatan itu dan kuatnya perhatian kepadanya, sebagaimana telah dikemukakan hal serupa pada lafaz-lafaz lainnya. Hanya kepada Allah kita memohon taufik.
+
+¹⁹³ CT: Ahmad bin Hanbal, II/431.
+
+### Pasal Kedua Puluh Satu: Tentang "Lengan" (*Sāʿid*)
+
+*(Tr. h. 162)*
+
+Di akhir sebuah hadis panjang disebutkan, *"Lengan Allah lebih kuat daripada lenganmu."*¹⁹⁴ Penyeru kepada Allah, sang penulis, radhiyallahu 'anhu, berkata: jika hadis ini sahih, ia dibawa kepada makna kesempurnaan kuasa. Padanannya firman Allah Ta'ala, *"Sesungguhnya Allah, Dialah Pemberi rezeki, Pemilik kekuatan, lagi Sangat Kukuh."*¹⁹⁵
+
+¹⁹⁴ CT: Ahmad bin Hanbal, III/473.
+
+¹⁹⁵ CT: QS adz-Dzariyat [51]: 58.
