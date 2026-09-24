@@ -12,8 +12,8 @@
 | Butir | Keterangan |
 |---|---|
 | Tahap | Penerjemahan berjalan: Kitab Pertama, Bagian Pertama |
-| Sudah diterjemahkan | Basmalah dan Pembuka; Mukadimah Pasal 1 sampai 4; Kitab Pertama dan Kitab Kedua seluruhnya; Kitab Ketiga Bab Pertama sampai Kedelapan, Bab Kesembilan Pasal 1 sampai 4 (sebagian) |
-| Posisi berikutnya | Kitab Ketiga, Bab Kesembilan, Pasal 11, segi kedua (berkas Turki baris 5190) |
+| Sudah diterjemahkan | Basmalah dan Pembuka; Mukadimah Pasal 1 sampai 4; Kitab Pertama, Kedua, dan Ketiga seluruhnya (akhir jilid Arab ketiga) |
+| Posisi berikutnya | Kitab Keempat, awal (berkas Turki, cilt 2, sesudah baris 5449) |
 | Nomor catatan terakhir | CT: t10 · CA: a13 · CP: p17 |
 | Catatan Kashshāf baru | istiqra, tasdiq, basira, riyada, maad, iqnai, tali |
 
@@ -6054,3 +6054,71 @@ Demikianlah perilaku manusia yang diciptakan dengan tabiat yang halus dan watak 
 Saya pernah melihat seorang raja besar yang sangat kejam. Ia menikmati menyaksikan pembunuhan dan penjarahan; ketika menyaksikan berbagai jenis penyiksaan, kegembiraannya dan senyum di wajahnya semakin bertambah.
 
 Dengan penjelasan yang terang ini terbuktilah bahwa apa yang dipikirkan Muktazilah tentang baik dan buruk, meskipun benar, pada akhirnya kembali kepada menarik manfaat dan menghindari mudarat. Karena tetapnya hal ini bagi Allah Ta'ala mustahil, penetapan baik dan buruk dalam hukum dan perbuatan-Nya pun mustahil. Inilah perkataan yang menyingkapkan hakikat masalah ini.
+
+Segi kedua: kami mengemukakan dalil-dalil yang pasti bahwa dakwaan kegamblangan dalam hal ini dusta dan batil. Segi-segi yang menunjukkan kebenaran perkataan kami adalah sebagai berikut.
+
+**Dalil pertama**: tidak boleh orang-orang berakal berselisih dalam pengetahuan-pengetahuan yang gamblang. Padahal seluruh filsuf dan seluruh Asy'ariyah mengingkari baik dan buruk dalam perbuatan-perbuatan ini. Hal ini menunjukkan bahwa mengetahui bahwa hal-hal ini baik dan buruk bukan termasuk pengetahuan-pengetahuan yang gamblang.
+
+Abu al-Husain al-Bashri menjawab hal ini sebagai berikut: "Tidak mungkin sekelompok besar orang mengingkari pengetahuan-pengetahuan niscaya. Adapun sekelompok kecil orang mungkin bersepakat atas dusta dan pengingkaran pengetahuan-pengetahuan niscaya karena sebagian tujuan. Bila hal ini dipahami, kami katakan: orang awam Asy'ariyah dan Ahlusunah memutuskan baik dan buruknya hal-hal ini dan sama sekali tidak menolaknya. Bila engkau bertanya kepada mereka tentang perbuatan-perbuatan ini tanpa menarik perhatian mereka kepada pendapat-pendapat orang dalam hal ini, mereka akan menyatakan dengan jelas bahwa berbuat baik itu baik dan kezaliman itu buruk. Adapun para tokoh Asy'ariyah dan orang-orang yang mendakwakan membela pendapat ini adalah kelompok kecil, dan mungkin mereka bersepakat dan bersekongkol atas dusta."
+
+Ketahuilah bahwa perkataannya ini adalah sindiran yang aneh. Sebab kami tidak menerima bahwa mayoritas orang memutuskan baik dan buruknya hal-hal ini dalam arti yang menyatakan kebaikan dan manfaat, keburukan dan mudarat. Kami tidak memperdebatkan tafsiran baik dan buruk ini; yang kami perdebatkan justru penjelasan lain tentangnya. Diketahui bahwa orang awam hanya memahami dari baik dan buruk penarikan manfaat dan penolakan mudarat. Bahkan kami katakan: orang awam Muktazilah pun hanya memahami manfaat dan mudarat dari baik dan buruk. Padahal baik dan buruk memiliki makna lain selain manfaat dan mudarat, dan Ahlusunah sepakat mengingkarinya.
+
+Orang awam Ahlusunah tidak mengetahui makna ini, dan orang awam Muktazilah tidak memikirkan sesuatu selain manfaat dan mudarat. Dakwaan bahwa baik dan buruk memiliki makna selain manfaat dan mudarat hanya dipahami oleh para tokoh Muktazilah dan orang-orang yang mendakwakan membela mazhab itu.
+
+Abu al-Husain (al-Bashri) menerima bahwa tidak mustahil sejumlah orang seperti itu bersepakat atas suatu dakwaan dusta. Dengan demikian terbuktilah bahwa sanggahan yang diajukan Abu al-Husain sangat lemah.
+
+**Dalil kedua** adalah penjelasan tentang batalnya dakwaan keniscayaan dalam hal ini.
+
+Tidak diragukan bahwa jelas sesuatu diputuskan baik dan buruk dari segi keinginan untuk memperoleh manfaat dan menghindari mudarat. Tidak diragukan pula bahwa terpisahnya baik dan buruk dalam makna lain dari makna pertama tidak diketahui dengan penalaran; sebaliknya, hanya orang-orang pilihan, itu pun bila mungkin, yang dapat memahami segi-segi yang halus dan tersembunyi ini. Bila demikian, tampaklah bahwa dakwaan tentang akal sehat itu semata-mata dusta dan fitnah.
+
+**Dalil ketiga**: bila kita katakan, "Kezaliman itu buruk," penjelasan tentang kezaliman dan keburukan harus hadir dalam akal, sebab pembenaran tanpa konsepsi adalah mustahil. Kami katakan: tentang kezaliman, Abu al-Husain dalam kitab *al-Qadar*, bagian "Ganti Rugi" (*al-aʿwāḍ*), berkata: "Guru-guru kami berkata: kepedihan adalah kezaliman menurut beberapa syarat, yaitu: bila ia berhak diterima, bila ada manfaat yang sepadan dengan kepedihan itu, bila ia menolak mudarat yang lebih besar, bila diduga ia menjauhkan manfaat dan mudarat, bila dilakukan untuk membela diri, bila dilakukan menurut kebiasaan, atau bila ditimbulkan dalam perbuatan orang lain. Bila kepedihan terjadi sesuai dengan syarat-syarat ini, ia baik dan bukan kezaliman; bila terjadi tanpa salah satunya, ia adalah kezaliman. Karena itu kami menetapkan kezaliman sebagai mudarat yang tidak berhak diterima, yang tidak mengandung manfaat sepadan, yang tidak menolak mudarat yang lebih besar atau tidak diduga demikian, dan perbuatan yang tidak dilakukan untuk membela diri atau dalam lingkup orang lain."
+
+Saya katakan: definisi yang disebutkannya untuk kezaliman ini mengandung enam batasan.
+
+Batasan pertama: tidak berhak diterima. Bila berhak diterima, pembunuhan sebagai kisas dan perbuatan-perbuatan lain tidak disifati sebagai buruk.
+
+Batasan kedua: tidak ada manfaat yang sepadan dengan kepedihan itu. Bila manfaat itu ada, perbuatan itu bukan kezaliman, seperti izin Allah Ta'ala untuk menyembelih hewan karena adanya ganti rugi.
+
+Batasan ketiga: tidak menolak mudarat yang lebih besar. Sebab bila suatu mudarat menolak mudarat lain, menanggungnya pun baik.
+
+Batasan keempat: tidak diduga bermanfaat. Setiap kali dugaan ini terjadi, menyembelih pun baik.
+
+Batasan kelima: bila dilakukan untuk membela diri, ia baik. Misalnya Zaid bertekad membunuh Amr, lalu Zaid mati ketika Amr membela dirinya. Tentang pembelaan diri ini Abu Hasyim berkata: orang-orang berakal tidak memandang buruk pengetahuan tentang perbuatan ini karena ia dilakukan dalam rangka membela diri.
+
+Batasan keenam: perkataan kami, "tidak dilakukan dalam lingkup orang lain." Ini pun merupakan pengecualian. Bila seseorang melemparkan seorang anak ke dalam salju, kepedihan yang terjadi di sini karena perbuatan Allah, baik terbentuk secara langsung maupun karena dinginnya salju, adalah baik; keadaan ini berkedudukan sebagai perbuatan orang yang melemparkannya ke salju. Menurut guru-guru kami, Allah Ta'ala tidak menciptakan sesuatu di luar waktu pengadaan adalah buruk, sebab hal itu menghapus kebiasaan. Karena itu kami katakan: "Perbuatan ini tidak baik karena ganti rugi, sebab ganti rugi yang wajib di sini dibebankan kepada orang yang melemparkan anak itu ke salju, dan ini tidak sepadan; seandainya sepadan, pelemparan itu akan menjadi kezaliman. Padahal ia telah membawa kepada manfaat yang sepadan." Inilah penjelasan tentang kezaliman sebagaimana disebutkan Abu al-Husain.
+
+Bila hal ini dipahami, kami katakan: para teolog sepakat bahwa bila pengetahuan tentang pokok bertumpu pada penalaran, mustahil pengetahuan tentang cabangnya bersifat niscaya. Tidak diragukan bahwa pengetahuan tentang kuiditas kezaliman adalah pokok bagi pengetahuan bahwa ia buruk. Pengetahuan tentang kuiditas kezaliman hanya terwujud dengan makna ini, yang hanya dapat dikonsepsi oleh para ahli tahqiq dengan penelitian yang teratur. Bila pengetahuan tentang pokok ini bersifat teoretis, mustahil pengetahuan bahwa kezaliman itu buruk bersifat gamblang. Bila kita telah menjelaskan bahwa ketika pengetahuan tentang pokok bersifat teoretis, pengetahuan tentang cabangnya mustahil gamblang, dakwaan tentang pengetahuan yang gamblang dalam maqam ini pun menjadi mustahil dan batil. Allah yang paling mengetahui kebenarannya.
+
+Bisa dikatakan: "Dengan perkataan, 'Kezaliman itu buruk secara niscaya,' yang saya maksud adalah bahwa setiap orang yang mengetahui kuiditasnya demikian mengetahui secara niscaya bahwa ia buruk, bukan bahwa pengetahuan ini terbentuk pada sebagian besar orang berakal." Kami katakan: "Bila yang engkau maksud adalah bahwa pengetahuan ini tidak terbentuk pada sebagian besar orang berakal, dakwaan ini tidak dapat diajukan terhadap mereka. Dengan demikian yang tersisa padamu hanyalah dakwaan bahwa setiap orang yang mengonsepsi kuiditas kezaliman dengan cara ini memutuskan bahwa ia buruk, dan kami katakan bahwa hal ini tidak dapat diterima. Bukankah justru inilah perdebatan yang terjadi antara aku dan engkau? Engkau sendiri telah menerima bahwa dakwaan satu orang tidak memberi faedah apa pun." Inilah segi pertama dari jawaban.
+
+Segi kedua dari jawaban: kami terima bahwa perbuatan-perbuatan hamba itu baik dan buruk. Lalu mengapa engkau mengatakan bahwa "hal ini mungkin terjadi pula dalam perbuatan-perbuatan Allah Ta'ala"? Tentang perkataan, "Bila kita mengetahui bahwa sesuatu adalah kezaliman, kita mengetahui bahwa ia buruk; dan bila kita tidak mengetahui pertimbangan-pertimbangan lainnya, sebab keburukan ini pasti kezaliman," kami katakan sebagai berikut.
+
+Mengapa kalian mengatakan, "Bila pengetahuan tentang kezaliman terwujud dan pengetahuan bahwa ia buruk pun muncul, sebab keburukan ini pasti kezaliman"? Apa dalilnya? Dalil kerusakannya adalah sebagai berikut: bila kita mengetahui bahwa seseorang adalah ayah orang lain, kita mengetahui pula bahwa orang lain itu adalah anaknya; namun salah satu relasi ini tidak dapat menjadi sebab bagi yang lain, sebab keduanya bersamaan, sedangkan sebab harus mendahului akibat. Yang tidak diterima di sini bukanlah pembunuhan itu sendiri.
+
+Inilah seluruh perdebatan tentang perkataan orang yang mendakwakan keniscayaan dalam hal ini.
+
+Adapun tentang orang-orang yang bersandar pada pendalilan, kami katakan sebagai berikut.
+
+Dalil pertama batil. Sebab kami katakan bahwa tentang yang mampu atas dua hal yang berlawanan dikatakan: "Mungkinkah hanya salah satu dari kedua sisi muncul darinya tanpa penentu keunggulan, atau tidak?" Bila hal ini mungkin, mengapa tidak mungkin pula salah satu dari dua contoh dikhususkan dengan kebaikan dan yang lain dengan keburukan tanpa penentu keunggulan? Bila bergantung pada penentu keunggulan, dalam hal ini terjadinya perbuatan dari hamba bergantung pada tegaknya motif, dan motif ini adalah perbuatan Allah Ta'ala yang menghapus regresi tak berhingga. Seluruh perbuatan hamba adalah perbuatan Allah Ta'ala. Bila demikian, kebaikan dan keburukan pun menjadi perbuatan Allah, dan ini membatalkan perkataan, "Buruklah Allah Ta'ala melakukan sebagian hal."
+
+Selain itu, telah kami sebutkan sebelumnya bahwa Allah Ta'ala mengkhususkan penciptaan alam pada waktu tertentu tanpa penentu keunggulan; demikian pula pengkhususan setiap peristiwa baharu pada waktu tertentu dan setiap zat dengan sifat tertentu. Bila hal ini dipahami, mengapa tidak dipahami pula pengkhususan sebagian hukum sebagai baik dan sebagian lain sebagai buruk tanpa pengkhusus yang serupa?
+
+**Dalil kedua**: jawabannya adalah perkataan kami: pendapat tentang sahnya kenabian serta janji dan ancaman adakalanya bergantung pada pendapat tentang sahnya baik dan buruk dalam akal, adakalanya tidak. Bila yang pertama benar, pendapat tentang sahnya baik dan buruk dalam akal menjadi pokok bagi perkataan tentang janji, ancaman, dan kenabian; sedangkan bila kita membuktikan pengetahuan tentang sahnya baik dan buruk dengan menyandarkannya pada penetapan janji, ancaman, dan kenabian, pokok niscaya dibuktikan dengan cabang. Bila perkataan tentang sahnya janji, ancaman, dan kenabian tidak membutuhkan pengetahuan tentang sahnya baik dan buruk, dari penolakan bahwa baik dan buruk bersifat rasional tidak niscaya ditolak pula janji, ancaman, dan kenabian. Dengan dalil ini, apa yang mereka sebutkan terbukti tidak mungkin dijadikan dalil untuk membuktikan hasil yang dituju ini.
+
+Bila mereka berkata, "Andaikan hal ini tidak mungkin dijadikan dalil untuk membuktikan hasil yang diinginkan; sebab bila perkataan tentang sahnya kenabian adalah cabang dari perkataan tentang baik dan buruk, menolak pokok ini meniscayakan penolakan cabang ini pula," kami katakan: bila kalian mencukupkan diri dengan konsekuensi (*ilzām*) dan mengakui bahwa ini bukan dalil, kami katakan bahwa konsekuensi ini pun dapat diarahkan kepada kalian dari dua segi.
+
+Pertama: perbuatan adakalanya bergantung pada motif, adakalanya tidak. Bila perbuatan bergantung pada motif, terjadinya perbuatan dari hamba pasti bergantung pada munculnya motif, dan ini meniscayakan keterpaksaan dan bahwa perbuatan hamba adalah perbuatan Allah. Dengan pengandaian ini kebaikan dan keburukan berasal dari Allah, dan apa yang kalian jadikan konsekuensi bagi kami mengikat kalian pula. Adapun bila perbuatan tidak bergantung pada motif, dalam hal ini Allah Ta'ala mungkin menciptakan mukjizat tanpa motif apa pun. Dengan demikian mukjizat tidak menunjukkan kebenaran nabi, dan kenabian seluruh nabi dan rasul niscaya hilang.
+
+Segi kedua adalah perkataan kami: pencipta perbuatan-perbuatan hamba adakalanya Allah Ta'ala, adakalanya hamba itu sendiri. Bila Allah Ta'ala, dalam hal ini seluruh kebaikan dan keburukan berasal dari Allah Ta'ala, dan dengan demikian apa yang mereka jadikan konsekuensi bagi kami mengikat mereka pula. Bila pencipta perbuatan-perbuatan adalah hamba, dalam hal ini kemampuan hamba layak untuk mengadakan. Bila hal ini telah terbukti, seluruh mukjizat mungkin memiliki pelaku selain Allah; dengan pengandaian ini, mukjizat tidak dapat menjadi dalil yang dikhususkan Allah untuk kebenaran.
+
+Perdebatan ini disempurnakan dengan penjelasan tentang lemahnya dalil-dalil Muktazilah bahwa selain Allah tidak dapat menciptakan jisim dan kehidupan. Penjelasannya akan datang dalam bagian "Jabr dan Qadar." Dengan demikian terbuktilah bahwa konsekuensi yang mereka arahkan kepada kami mengikat mereka pula.
+
+**Dalil ketiga** lemah. Sebab pembenaran kita atas penetapan baik dan buruk pada saat datangnya syariat-syariat bergantung pada konsepsi kita tentang makna baik dan buruk, dan konsepsi ini diketahui dengan akal sebelum datangnya syariat. Dengan demikian terbukti pula lemahnya perkataan ini.
+
+**Dalil keempat** sama dengan dalil ketiga, hanya saja kami mengemukakannya dengan cara lain; jawabannya pun sama dengan jawaban atas dalil ketiga.
+
+Inilah seluruh perdebatan tentang putusan akal atas baik atau buruknya sesuatu.
+
+Pengarang, semoga Allah meridainya, berkata: bagian kitab ini telah selesai.
+
+Dengan ini selesailah jilid ketiga kitab *al-Maṭālib al-ʿĀliya min al-ʿIlm al-Ilāhī* karya Fakhr al-Dīn al-Rāzī. Jilid ini akan disusul oleh jilid keempat, yang pokok bahasannya adalah penelitian tentang kebaharuan dan keqadiman serta rahasia masa (*dahr*) dan keazalian.
