@@ -12,9 +12,9 @@
 |---|---|
 | Tahap | Terjemahan penuh sedang berjalan |
 | Glosarium | Versi 1.0 (usulan v0.1 diberlakukan melalui instruksi "lanjut hingga tuntas kitab"); tambahan baru dicatat di 2.7 dan menunggu persetujuan eksplisit |
-| Sudah diterjemahkan | Pembuka Kitab; Bagian I seluruhnya (Pasal 1 sampai 6) |
-| Kalimat terakhir | "Inilah tuntasnya pembahasan tentang Bagian Pertama dari kitab ini, yaitu bagian yang memuat segi-segi rasional. Hanya kepada Allah kita memohon taufik." |
-| Posisi berikutnya | Naskah Arab: *al-Qism al-Thānī fī Taʾwīl al-Mutashābihāt* · Naskah Turki: *İkinci Bölüm*, h. 101 |
+| Sudah diterjemahkan | Pembuka Kitab; Bagian I seluruhnya; Bagian II: Mukadimah, Pasal 1 dan 2 |
+| Kalimat terakhir | "Maka di sini disebutlah sebab untuk mengungkapkan akibatnya (*kināya*). Allah lebih mengetahui." |
+| Posisi berikutnya | Naskah Arab: *al-Faṣl al-Thālith fī Lafẓ al-Nafs* · Naskah Turki: *Üçüncü Kısım* ("Nefs"), h. 114 |
 
 ---
 
@@ -780,3 +780,220 @@ Namun kami katakan: segala sesuatu yang terikat pada suatu ruang atau arah dan m
 Maka tetaplah bahwa kaum Karramiyah ini, karena meyakini bahwa Allah Ta'ala terikat pada ruang dan arah serta dapat ditunjuk oleh indra, dan meyakini bahwa Allah Ta'ala tidak kecil dan remeh seperti atom dan titik yang tak terbagi, niscaya telah meyakini bahwa Allah Ta'ala membentang pada sisi-sisi, atau pada sebagian sisi. Siapa pun yang berkata demikian telah meyakini bahwa Dia tersusun dan terpadu, sehingga penolakannya untuk memakai kata "terpadu" dan "tersusun" hanyalah penolakan terhadap lafaz itu semata, sementara ia meyakini maknanya. Maka tetaplah bahwa mereka memakai kata "jisim" karena meyakini bahwa Allah Ta'ala panjang, lebar, dalam, dan membentang pada arah-arah; dan tetap pula bahwa penolakan mereka terhadap perkataan ini semata-mata karena taqiah dan takut, sebab sebenarnya mereka meyakini bahwa Allah Ta'ala tersusun dan terpadu.
 
 Inilah tuntasnya pembahasan tentang Bagian Pertama dari kitab ini, yaitu bagian yang memuat segi-segi rasional. Hanya kepada Allah kita memohon taufik.
+
+---
+
+## BAGIAN KEDUA
+## TAKWIL AYAT-AYAT DAN HADIS-HADIS MUTASYABIH
+
+*(Arab: al-Qism al-Thānī · Tr. h. 101)*
+
+Pembahasan dalam bagian ini tersusun atas sebuah mukadimah dan beberapa pasal.
+
+### Mukadimah
+
+Mukadimah ini menjelaskan bahwa seluruh firkah Islam mengakui bahwa takwil (*taʾwīl*, تأويل) mesti dilakukan terhadap sebagian makna lahiriah (*ẓāhir*, ظاهر) Al-Qur'an dan hadis. Adapun dalam Al-Qur'an, penjelasannya dari beberapa segi.
+
+Pertama, di dalam Al-Qur'an disebutkan wajah, disebutkan mata (dalam bentuk jamak), disebutkan satu lambung, disebutkan tangan-tangan, dan disebutkan satu betis. Seandainya kita mengambil makna lahiriahnya, niscaya kita harus menetapkan sesosok makhluk yang memiliki satu wajah, dan pada wajah itu banyak mata; yang memiliki satu lambung, dan padanya banyak tangan; dan yang memiliki satu betis. Tidak kita lihat di dunia ini sosok yang rupanya lebih buruk daripada sosok khayalan ini, dan aku tidak yakin ada orang berakal yang rela menyifati Tuhannya dengan sifat seperti ini.
+
+Kedua, di dalam Al-Qur'an disebutkan bahwa Dia adalah cahaya langit dan bumi. Setiap orang berakal tahu secara swabukti bahwa Tuhan alam bukanlah sesuatu yang terhampar di atas dinding-dinding dan tembok-tembok ini, dan bukan pula cahaya yang memancar dari benda matahari, bulan, dan api. Maka setiap kita mau tidak mau menafsirkan firman Allah Ta'ala, *"Allah (pemberi) cahaya (kepada) langit dan bumi,"*¹ dengan makna bahwa Dia yang menerangi langit dan bumi, atau Dia pemberi petunjuk bagi penghuni langit dan bumi, atau Dia yang memperbaiki langit dan bumi. Semua itu adalah takwil.
+
+Ketiga, Allah Ta'ala berfirman, *"Kami menurunkan besi yang padanya terdapat kekuatan yang hebat,"*² padahal sudah maklum bahwa benda besi tidak turun dari langit ke bumi. Dia juga berfirman, *"Dia menurunkan delapan pasang hewan ternak untukmu,"*³ padahal sudah maklum bahwa hewan ternak tidak turun dari langit ke bumi.
+
+Keempat, firman Allah Ta'ala, *"Dia bersamamu di mana saja kamu berada,"*⁴ firman-Nya, *"Kami lebih dekat kepadanya daripada urat lehernya,"*⁵ dan firman-Nya, *"Tidak ada pembicaraan rahasia antara tiga orang, kecuali Dialah yang keempatnya."*⁶ Setiap orang berakal tahu bahwa yang dimaksud adalah kedekatan dengan ilmu dan kuasa ilahi.
+
+Kelima, firman Allah Ta'ala, *"sujudlah dan dekatkanlah (dirimu kepada Allah)."*⁷ Kedekatan ini tidak lain adalah dengan ketaatan dan penghambaan. Adapun kedekatan secara arah, sudah diketahui secara niscaya bahwa ia tidak terjadi karena sujud.
+
+Keenam, firman Allah Ta'ala, *"Ke mana pun kamu menghadap, di sanalah wajah Allah,"*⁸ dan firman-Nya, *"Kami lebih dekat kepadanya daripada kamu, tetapi kamu tidak melihat."*⁹
+
+Ketujuh, Allah Ta'ala berfirman, *"Siapakah yang mau memberi pinjaman kepada Allah dengan pinjaman yang baik?"*¹⁰ Tidak diragukan bahwa ayat ini mesti ditakwilkan.
+
+Kedelapan, firman Allah Ta'ala, *"maka Allah mendatangi bangunan mereka dari fondasinya."*¹¹ᵃ Ayat ini pun mesti ditakwilkan.
+
+Kesembilan, Allah Ta'ala berfirman kepada Musa dan Harun, *"Sesungguhnya Aku bersama kamu berdua, Aku mendengar dan melihat."*¹² Kebersamaan ini tidak lain adalah dengan penjagaan, ilmu, dan rahmat. Ayat-ayat ini dan yang semisalnya termasuk hal-hal yang setiap orang berakal mau tidak mau harus mengakui bahwa ia dibawa kepada takwil. Hanya kepada Allah kita memohon taufik.
+
+¹ CT: QS an-Nur [24]: 35.
+
+² CT: QS al-Hadid [57]: 25.
+
+³ CT: QS az-Zumar [39]: 6.
+
+⁴ CT: QS al-Hadid [57]: 4.
+
+⁵ CT: QS Qaf [50]: 16.
+
+⁶ CT: QS al-Mujadalah [58]: 7. (Edisi Turki tertulis 58/6.)
+
+⁷ CT: QS al-'Alaq [96]: 19.
+
+⁸ CT: QS al-Baqarah [2]: 115.
+
+⁹ CT: QS al-Waqi'ah [56]: 85.
+
+¹⁰ CT: QS al-Baqarah [2]: 245.
+
+¹¹ CT: QS an-Nahl [16]: 26.
+
+¹² CT: QS Taha [20]: 46.
+
+ᵃ CP: Terjemahan Kemenag mengalihkan *fa-atā Allāhu bunyānahum* menjadi "maka Allah menghancurkan bangunan mereka". Di sini dipakai terjemahan harfiah ("mendatangi"), karena ayat ini dikutip justru sebagai contoh lafaz yang makna lahiriahnya harus ditakwilkan; terjemahan Kemenag sendiri sudah merupakan takwil.
+
+Adapun dalam hadis, jenis ini banyak sekali.
+
+Pertama, sabda beliau 'alaihissalam yang mengisahkan firman Allah Subhanahu wa Ta'ala, *"Aku sakit, tetapi engkau tidak menjenguk-Ku; Aku meminta makan kepadamu, tetapi engkau tidak memberi-Ku makan; Aku meminta minum kepadamu, tetapi engkau tidak memberi-Ku minum."*¹³ Tidak ada orang berakal yang ragu bahwa yang dimaksud hanyalah perumpamaan.
+
+Kedua, sabda beliau shallallahu 'alaihi wasallam yang mengisahkan firman Tuhannya, *"Siapa yang datang kepada-Ku dengan berjalan, Aku datang kepadanya dengan berlari-lari kecil."*¹⁴ Tidak ada orang berakal yang ragu bahwa yang dimaksud adalah perumpamaan dan penggambaran.
+
+Ketiga, Syekh al-Ghazali rahimahullah menukil dari Ahmad bin Hanbal rahimahullah bahwa ia mengakui takwil pada tiga hadis:
+
+Pertama, sabda beliau 'alaihissalam, *"Hajar Aswad adalah tangan kanan Allah di bumi."*¹⁵
+
+Kedua, sabda beliau 'alaihissalam, *"Sungguh, aku merasakan embusan napas ar-Rahman dari arah Yaman."*¹⁶ᵇ
+
+Ketiga, sabda beliau 'alaihissalam yang mengisahkan firman Allah 'Azza wa Jalla, *"Aku adalah teman duduk orang yang mengingat-Ku."*¹⁷
+
+Keempat, dikisahkan bahwa kaum Muktazilah, dalam masalah kemakhlukan Al-Qur'an, berpegang pada riwayat dari beliau 'alaihissalam bahwa surah al-Baqarah dan Ali Imran akan datang pada hari kiamat begini dan begini, seakan-akan keduanya dua gumpalan awan.¹⁸ Ahmad bin Hanbal rahimahullah menjawab, "Maksudnya adalah pahala orang yang membaca keduanya." Ini adalah pernyataan tegas tentang takwil.
+
+Kelima, sabda beliau shallallahu 'alaihi wasallam, *"Sesungguhnya rahim bergantung pada kedua pinggang ar-Rahman, lalu Dia Subhanahu berfirman, 'Aku akan menyambung siapa yang menyambungmu.'"*¹⁹ Hadis ini mesti ditakwilkan.
+
+Keenam, beliau 'alaihissalam bersabda, *"Sesungguhnya masjid benar-benar mengerut karena dahak sebagaimana kulit mengerut karena api."*²⁰ Hadis ini mesti ditakwilkan.
+
+Ketujuh, beliau 'alaihissalam bersabda, *"Hati orang mukmin berada di antara dua jari dari jari-jari ar-Rahman."*²¹ Hadis ini mesti ditakwilkan, sebab kita tahu secara niscaya bahwa di dada kita tidak ada dua jari yang di antaranya terdapat hati kita.
+
+Kedelapan, sabda beliau shallallahu 'alaihi wasallam yang mengisahkan firman Allah Ta'ala, *"Aku berada di sisi orang-orang yang hatinya hancur."*²² Keberadaan di sisi ini tidak lain adalah dengan rahmat. Juga sabda beliau shallallahu 'alaihi wasallam yang mengisahkan firman Allah Ta'ala tentang sifat para wali, *"Apabila Aku telah mencintainya, Aku menjadi pendengarannya yang dengannya ia mendengar dan penglihatannya yang dengannya ia melihat."*²³ Sudah diketahui secara niscaya bahwa daya penglihatan yang dengannya segala sesuatu dilihat bukanlah Allah Subhanahu wa Ta'ala.
+
+Kesembilan, beliau 'alaihissalam bersabda, mengisahkan firman Allah Subhanahu wa Ta'ala, *"Kebesaran adalah selendang-Ku dan keagungan adalah sarung-Ku."*²⁴ Orang berakal tidak akan menetapkan sarung dan selendang bagi Allah Ta'ala.
+
+Kesepuluh, beliau 'alaihissalam bertanya kepada Ubay bin Ka'b, *"Wahai Abul Mundzir, ayat manakah di dalam Kitab Allah Ta'ala yang paling agung?"* Ubay ragu dua kali, lalu pada kali ketiga berkata, "Ayat Kursi." Maka beliau 'alaihissalam menepukkan tangannya ke dada Ubay dan bersabda, *"Engkau benar. Demi Zat yang jiwaku berada di tangan-Nya, sesungguhnya ayat itu memiliki lisan yang menyucikan Allah Ta'ala di sisi Arasy."*²⁵ Hadis ini mesti ditakwilkan.
+
+Maka tetaplah, dengan semua yang telah kami sebutkan, bahwa menempuh takwil adalah hal yang tak terelakkan bagi setiap orang berakal. Pada titik inilah para mutakalim berkata: karena telah tetap berdasarkan dalil bahwa Allah Subhanahu wa Ta'ala mahasuci dari arah dan kejisiman, kita wajib memberikan kepada lafaz-lafaz yang terdapat dalam Al-Qur'an dan hadis ini tempat pemaknaan yang benar, agar hal itu tidak menjadi sebab celaan terhadapnya. Inilah tuntasnya pembahasan tentang mukadimah. Hanya kepada Allah kita memohon taufik.
+
+¹³ CT: Muslim, *al-Birr*, 43.
+
+¹⁴ CT: Ahmad bin Hanbal, III/40.
+
+¹⁵ CT: Dari *Musnad* ad-Dailami; al-Hindi 'Ala'uddin al-Muttaqi bin Husamuddin, *Kanz al-'Ummal fi Sunan al-Aqwal wa al-Af'al*, XII/217, hadis no. 34744.
+
+¹⁶ CT: Sumber hadis ini tidak dapat ditemukan.
+
+¹⁷ CT: Ibnu Abi Syaibah, *al-Mushannaf*, I/108.
+
+¹⁸ CT: Sumber hadis ini tidak dapat ditemukan.
+
+¹⁹ CT: al-Hindi, *Kanz al-'Ummal*, III/360, hadis no. 6940.
+
+²⁰ CT: Sumber hadis ini tidak dapat ditemukan.
+
+²¹ CT: Muslim, *al-Qadar*, 17; at-Tirmidzi, *al-Qadar*, 7; Ibnu Majah, *al-Muqaddimah*, 13.
+
+²² CT: al-Bukhari, *ar-Riqaq*, 38.
+
+²³ CT: al-Bukhari, *ar-Riqaq*, 38.
+
+²⁴ CT: Muslim, *al-Birr*, 136; Abu Dawud, *al-Libas*, 25; Ibnu Majah, *az-Zuhd*, 16.
+
+²⁵ CT: Muslim, *Shalat al-Musafirin*, 258; Abu Dawud, *al-Huruf*, 35; ad-Darimi, *Fadha'il al-Qur'an*, 14.
+
+ᵇ CP: Teks Arab tertulis *min qibal al-yamīn* ("dari arah kanan"), dan edisi Turki mengikutinya. Lafaz hadis yang dikenal adalah *min qibal al-Yaman* ("dari arah Yaman"), dan bacaan inilah yang dipakai di sini.
+
+### Pasal Pertama: Tentang Penetapan "Rupa" (*Ṣūra*)
+
+*(Tr. h. 106)*
+
+Ketahuilah, lafaz ini tidak terdapat dalam Al-Qur'an, tetapi terdapat dalam hadis.
+
+**Hadis pertama**: diriwayatkan dari Nabi shallallahu 'alaihi wasallam bahwa beliau bersabda, *"Sesungguhnya Allah Ta'ala menciptakan Adam menurut rupanya."* Ibnu Khuzaimah meriwayatkan dari Abu Hurairah radhiyallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Janganlah sekali-kali seorang di antara kalian berkata kepada budaknya, 'Semoga Allah memburukkan wajahmu dan wajah orang yang wajahnya serupa denganmu,' sebab Allah menciptakan Adam menurut rupanya."*²⁶
+
+Jawabannya: ketahuilah, kata ganti *-hu* (nya) dalam sabdanya "menurut rupanya" mungkin kembali kepada sesuatu selain rupa Adam 'alaihissalam dan selain Allah Ta'ala, mungkin kembali kepada Adam, dan mungkin kembali kepada Allah Ta'ala. Maka ini tiga jalan.
+
+**Jalan pertama**: kata ganti ini kembali kepada selain Adam dan selain Allah Ta'ala. Dengan pengandaian ini, ada dua segi dalam menakwilkan hadis tersebut.
+
+Pertama, orang yang berkata kepada seseorang, "Semoga Allah memburukkan wajahmu dan wajah orang yang wajahnya serupa denganmu," berarti mencela Adam 'alaihissalam. Sebab, karena rupa orang ini serupa dengan rupa Adam, perkataannya "semoga Allah memburukkan wajahmu dan wajah orang yang wajahnya serupa denganmu" adalah celaan terhadap Adam 'alaihissalam dan seluruh nabi 'alaihimussalam, dan itu tidak boleh. Karena itu, tak ayal, Nabi shallallahu 'alaihi wasallam melarangnya. Adam disebut secara khusus karena dialah yang pertama kali wajahnya diciptakan dengan rupa ini.
+
+Kedua, yang dimaksud adalah membatalkan pendapat orang yang berkata bahwa Adam memiliki rupa lain, seperti yang dikatakan bahwa ia bertubuh raksasa dan berperawakan tinggi sehingga kepalanya dekat ke langit. Maka Nabi shallallahu 'alaihi wasallam menunjuk seseorang tertentu dan bersabda, *"Sesungguhnya Allah menciptakan Adam menurut rupanya,"* yakni bentuk Adam seperti bentuk orang ini tanpa perbedaan sedikit pun. Penjelasan ini membatalkan sangkaan orang yang mengira bahwa Adam 'alaihissalam memiliki rupa lain selain rupa ini.
+
+**Jalan kedua**: kata ganti itu kembali kepada Adam 'alaihissalam. Inilah yang paling utama di antara ketiga segi, sebab kata ganti wajib dikembalikan kepada yang paling dekat penyebutannya, dan dalam hadis ini yang paling dekat penyebutannya adalah Adam 'alaihissalam; maka mengembalikan kata ganti kepadanya lebih utama. Kemudian, menurut jalan ini, ada beberapa segi dalam menakwilkan hadis tersebut.
+
+Pertama, ketika Allah Ta'ala telah memuliakan kedudukan Adam dengan menjadikannya tempat sujud para malaikat, lalu ia melakukan ketergelinciran itu, Allah Ta'ala tidak menghukumnya sebagaimana Dia menghukum selainnya. Dinukil bahwa Allah Ta'ala mengeluarkannya dari surga, dan mengeluarkan pula bersamanya ular dan burung merak, lalu Allah Ta'ala mengubah wujud ciptaan keduanya, sementara Dia tidak mengubah wujud ciptaan Adam 'alaihissalam, melainkan membiarkannya pada ciptaan semula, sebagai pemuliaan baginya dan penjagaan dari azab perubahan rupa (*maskh*). Maka sabda beliau 'alaihissalam, *"Sesungguhnya Allah Ta'ala menciptakan Adam menurut rupanya,"* bermakna: Dia menciptakan Adam menurut rupa ini yang sekarang tetap ada tanpa terjadi perubahan padanya. Perbedaan antara jawaban ini dan jawaban sebelumnya ialah bahwa maksud jawaban ini adalah menjelaskan bahwa Adam 'alaihissalam dijaga dari perubahan rupa, sedangkan jawaban pertama hanya menjelaskan bahwa rupa yang ada ini tidak lain adalah rupa yang sudah ada sebelumnya, tanpa menyinggung bahwa ia dijaga dari perubahan rupa karena ketergelincirannya, sementara selainnya berubah rupa.
+
+Kedua, yang dimaksud adalah membatalkan pendapat kaum Dahriyah yang berkata bahwa manusia tidak lahir kecuali melalui perantaraan nutfah dan darah haid. Maka beliau 'alaihissalam bersabda, *"Sesungguhnya Allah Ta'ala menciptakan Adam menurut rupanya,"* yakni sejak permulaan, tanpa didahului nutfah, 'alaqah, dan mudgah.
+
+Ketiga, manusia tidak terbentuk kecuali dalam masa yang panjang dan waktu yang lama melalui perantaraan falak-falak dan unsur-unsur. Maka beliau 'alaihissalam bersabda, *"Sesungguhnya Allah menciptakan Adam menurut rupanya,"* yakni tanpa perantara-perantara ini. Maksudnya adalah membantah para filsuf.
+
+Keempat, maksudnya adalah menjelaskan bahwa rupa manusia ini terwujud semata-mata karena penciptaan dan pengadaan oleh Allah Ta'ala, bukan karena pengaruh daya pembentuk rupa dan daya pembiak, sebagaimana disebutkan oleh para tabib dan filsuf. Karena itu Allah Ta'ala berfirman, *"Dialah Allah Yang Maha Pencipta, Yang Mengadakan, Yang Membentuk Rupa."*²⁷ Dialah *al-Khāliq*, yakni Yang mengetahui keadaan hal-hal yang mungkin dan yang baharu; *al-Bāriʾ*, yakni Yang mengadakan jisim-jisim dan zat-zat setelah ketiadaannya; dan *al-Muṣawwir*, yakni Yang menyusun zat-zat itu menurut rupa dan susunannya yang khusus.
+
+Kelima, kata "rupa" terkadang disebut dengan maksud sifat. Dikatakan, "Aku menguraikan kepadanya rupa peristiwa ini," dan "Aku menyebutkan kepadanya rupa masalah ini"; yang dimaksud dengan rupa pada semua tempat ini adalah sifat. Maka sabda beliau 'alaihissalam, *"Sesungguhnya Allah menciptakan Adam menurut rupanya,"* berarti menurut keseluruhan sifat dan keadaannya. Sebab, manusia ketika baru terjadi berada pada puncak kebodohan dan ketidakberdayaan, kemudian ilmu dan kuasanya terus bertambah hingga mencapai batas kesempurnaan. Maka Nabi shallallahu 'alaihi wasallam menjelaskan bahwa Adam diciptakan sejak awal dalam keadaan sempurna dan paripurna dalam ilmu dan kuasanya. Sabdanya, "Allah menciptakan Adam menurut rupanya," bermakna bahwa Dia menciptakannya sejak awal menurut sifat yang ada padanya di akhir. Lagi pula, tidak janggal jika dalam lafaz "rupa" termasuk pula keadaannya sebagai orang yang berbahagia atau celaka, sebagaimana sabda beliau 'alaihissalam, *"Orang yang berbahagia adalah yang telah berbahagia di dalam perut ibunya, dan orang yang celaka adalah yang telah celaka di dalam perut ibunya."*²⁸ Maka sabda beliau 'alaihissalam, *"Sesungguhnya Allah menciptakan Adam menurut rupanya,"* berarti menurut seluruh sifatnya: keadaannya sebagai orang yang berbahagia atau celaka, bertobat, atau diterima di sisi Allah Ta'ala.
+
+**Jalan ketiga**: kata ganti itu kembali kepada Allah Ta'ala. Dalam hal ini ada beberapa segi.
+
+Pertama, yang dimaksud dengan rupa adalah sifat, sebagaimana telah kami jelaskan. Maknanya: Adam terbedakan dari semua individu dan jisim lainnya karena ia mengetahui hal-hal yang terpahami oleh akal dan mampu menggali berbagai keterampilan dan kerajinan. Ini sifat-sifat yang mulia. Maka sahlah sabda beliau 'alaihissalam, *"Sesungguhnya Allah menciptakan Adam menurut rupa-Nya,"* berdasarkan takwil ini.
+
+Kedua, sebagaimana sah menyandarkan sifat kepada yang disifati, sah pula menyandarkannya kepada pencipta dan pengadanya. Maka tujuan penyandaran ini adalah menunjukkan bahwa rupa ini terbedakan dari rupa-rupa lainnya dengan kelebihan kemuliaan dan keagungan.
+
+Ketiga, Syekh al-Ghazali rahimahullah berkata: manusia bukanlah susunan tubuh ini, melainkan maujud yang bukan jisim dan bukan sesuatu yang jasmani, dan tidak memiliki pertautan dengan badan ini kecuali dengan cara mengatur dan mengelola. Maka sabda beliau 'alaihissalam, *"Sesungguhnya Allah menciptakan Adam menurut rupa-Nya,"* berarti bahwa nisbah zat Adam 'alaihissalam kepada badan ini seperti nisbah Sang Pencipta Ta'ala kepada alam, dari sisi bahwa masing-masing tidak berada di dalam jisim ini, meskipun memberi pengaruh padanya dengan mengelola dan mengatur. Allah lebih mengetahui.
+
+²⁶ CT: al-Bukhari, *al-Isti'dzan*, 1; Muslim, *al-Birr*, 115; Ahmad bin Hanbal, III/244, 251.
+
+²⁷ CT: QS al-Hasyr [59]: 24.
+
+²⁸ CT: Muslim, *al-Qadar*, 3; Ibnu Majah, *al-Muqaddimah*, 7; Ahmad bin Hanbal, II/176.
+
+**Hadis kedua**: diriwayatkan oleh Ibnu Khuzaimah dalam kitabnya yang ia namai *at-Tauhid*, dengan sanadnya dari Ibnu Umar radhiyallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Janganlah kalian memburukkan wajah, sebab Allah menciptakan Adam menurut rupa ar-Rahman."*²⁹
+
+Ketahuilah, Ibnu Khuzaimah melemahkan riwayat ini dan berkata: jika riwayat ini sahih, ia memiliki dua takwil.
+
+Pertama, yang dimaksud dengan rupa ini adalah sifat, sebagaimana telah kami jelaskan.
+
+Kedua, yang dimaksud dengan penyandaran ini adalah menjelaskan kemuliaan rupa ini, seperti dalam ungkapan "Rumah Allah" dan "Unta Allah".
+
+²⁹ CT: Abu Dawud, *an-Nikah*, 41; Ahmad bin Hanbal, IV/447; V/3.
+
+**Hadis ketiga**: diriwayatkan oleh penulis *Syarh as-Sunnah*³⁰ rahimahullah dalam kitabnya, pada bab tentang orang yang terakhir keluar dari neraka, dari Abu Hurairah, dalam sebuah hadis panjang dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Lalu Allah mendatangi mereka dalam rupa selain rupa yang mereka kenal, lalu berfirman, 'Aku Tuhan kalian.' Mereka berkata, 'Kami berlindung kepada Allah. Inilah tempat kami sampai Tuhan kami mendatangi kami. Sesungguhnya antara kami dan Dia ada suatu tanda; apabila Tuhan kami datang, kami akan mengenali-Nya.' Lalu Allah mendatangi mereka dalam rupa yang mereka kenal, dan mereka berkata, 'Engkaulah Tuhan kami,' lalu mereka mengikuti-Nya."*³¹
+
+Ketahuilah, pembahasan tentang hadis ini dari beberapa segi.
+
+Pertama, kata *fī* (dalam)³² bermakna *bi-* (dengan)³³. Takdirnya: lalu Allah mendatangi mereka dengan suatu rupa selain rupa yang mereka kenal di dunia, yaitu dengan memperlihatkan kepada mereka salah satu malaikat. Padanannya adalah perkataan Ibnu Abbas radhiyallahu 'anhu tentang firman Allah Ta'ala, *"Tidak ada yang mereka tunggu-tunggu kecuali datangnya Allah dalam naungan awan,"*³⁴ yakni dengan naungan awan. Kemudian rupa itu berkata, "Aku Tuhan kalian." Seakan-akan itulah ujian terakhir yang menimpa para mukalaf di negeri akhirat, dan faedahnya adalah meneguhkan orang-orang mukmin di atas perkataan yang saleh. Dunia disebut negeri ujian dan akhirat negeri pembalasan hanyalah menurut keumuman dan kebanyakannya, walaupun pada masing-masing terkadang terjadi apa yang terjadi pada yang lain.
+
+Adapun sabda beliau 'alaihissalam, *"Mereka berkata, 'Apabila Tuhan kami datang, kami akan mengenali-Nya,'"* dibawa kepada makna: apabila kebaikan Tuhan kami datang, kami akan mengenalinya. Dan perkataan mereka (dalam riwayat), "Lalu Allah mendatangi mereka dalam rupa yang mereka kenal," bermakna: Dia mendatangi mereka dengan rupa yang mereka kenal sebagai salah satu tanda kebaikan.
+
+Adapun sabda beliau 'alaihissalam, *"Mereka berkata, 'Antara kami dan Dia ada suatu tanda,'"* mungkin tanda itu adalah bahwa Allah Ta'ala dalam hakikat-Nya berbeda dari substansi-substansi dan aksiden-aksiden; maka apabila mereka melihat hakikat itu, mereka tahu bahwa Dialah Allah.
+
+Takwil kedua: yang dimaksud dengan rupa adalah sifat. Maknanya: tampak kepada mereka sebagian dari hantaman Allah dan dahsyatnya siksa-Nya, yang belum pernah mereka alami dan tidak biasa mereka dapati dari perlakuan Allah Ta'ala terhadap mereka; kemudian setelah itu datang kepada mereka berbagai rahmat dan kemuliaan dengan cara yang biasa dan mereka kenal.
+
+³⁰ CT: Yang dimaksud dengan "penulis *Syarh as-Sunnah*" adalah Husain bin Mas'ud al-Baghawi (w. 516 H). Karya pengarang ini diringkas oleh banyak orang sesudahnya. (Lihat Katib Çelebi, *Kasyf azh-Zhunun*, Istanbul, 1360/1941, II/1040-1041.) (catatan penerjemah)
+
+³¹ CT: al-Bukhari, *al-Adzan*, 139, *at-Tauhid*, 24; Muslim, *al-Iman*, 299; Ahmad bin Hanbal, II/534.
+
+³² CT: Dalam bahasa Arab, *fī* adalah huruf jar yang dipakai untuk tempat, dengan makna "berada di dalam". (catatan penerjemah)
+
+³³ CT: Ini juga huruf jar, sebuah partikel dengan beragam pemakaian; kebanyakan dipakai untuk makna kebersamaan. (catatan penerjemah)
+
+³⁴ CT: QS al-Baqarah [2]: 210.
+
+**Hadis keempat**: diriwayatkan dari beliau 'alaihissalam bahwa beliau bersabda, *"Aku melihat Tuhanku dalam rupa yang paling indah."*³⁵ Ketahuilah, sabdanya "dalam rupa yang paling indah" mungkin termasuk sifat yang melihat, sebagaimana dikatakan, "Aku masuk menemui amir dalam keadaan paling baik," yakni akulah yang berada dalam keadaan paling baik; dan mungkin termasuk sifat yang dilihat. Jika termasuk sifat yang melihat, maka sabdanya "dalam rupa yang paling indah" kembali kepada Rasul shallallahu 'alaihi wasallam, dan dalam hal ini ada dua segi.
+
+Pertama, yang dimaksud dengan rupa adalah rupa itu sendiri. Maknanya: Allah Ta'ala menghiasi ciptaannya dan memperindah rupanya ketika ia melihat Tuhannya, dan itu menjadi sebab bertambahnya kemuliaan bagi Rasul shallallahu 'alaihi wasallam.
+
+Kedua, yang dimaksud dengan rupa adalah sifat. Maknanya adalah pemberitahuan tentang baiknya keadaan beliau di sisi Allah, dan bahwa Allah telah menganugerahinya berbagai nikmat yang agung. Sebab, yang melihat terkadang disambut oleh yang dilihat dengan pemuliaan dan pengagungan, dan terkadang sebaliknya. Maka Rasul shallallahu 'alaihi wasallam memberitahukan kepada kita bahwa keadaan beliau termasuk yang pertama.
+
+Adapun jika kembali kepada yang dilihat, dalam hal ini ada beberapa segi.
+
+Pertama, beliau shallallahu 'alaihi wasallam melihat-Nya dalam mimpi dalam rupa tertentu. Itu boleh, sebab mimpi termasuk kerja daya khayal, dan ia tidak lepas dari rupa yang dikhayalkan.
+
+Kedua, yang dimaksud dengan rupa adalah sifat. Sebab, ketika beliau dikhususkan dengan kelebihan pemuliaan dan anugerah pada saat melihat-Nya, sah menurut kebiasaan tutur untuk berkata, "Aku melihat-Nya dalam rupa yang paling indah dan penampilan yang paling elok."
+
+Ketiga, mungkin ketika melihat-Nya, beliau 'alaihissalam mengenali semacam sifat keagungan, kemuliaan, dan kebesaran yang sebelumnya belum beliau kenali.
+
+³⁵ CT: al-Bukhari, *Tafsir as-Suwar*, 9, 15, *at-Ta'bir*, 48; Ahmad bin Hanbal, I/368, IV/88, V/243.
+
+### Pasal Kedua: Tentang Lafaz "Sosok" (*Shakhṣ*)
+
+*(Tr. h. 113)*
+
+Lafaz ini tidak terdapat dalam Al-Qur'an, tetapi diriwayatkan bahwa Nabi shallallahu 'alaihi wasallam bersabda, *"Tidak ada sosok yang lebih mencintai kecemburuan daripada Allah 'Azza wa Jalla."*³⁶ Dalam hadis ini ada dua lafaz yang wajib ditakwilkan.
+
+Pertama, "sosok". Yang dimaksud adalah zat yang tertentu dan hakikat yang khusus. Sebab, jisim yang memiliki sosok dan volume niscaya satu; maka menyebut kesatuan dengan nama kesosokan adalah menyebut salah satu dari dua hal yang saling menyertai dengan nama yang lain.
+
+Kedua, lafaz "kecemburuan". Maknanya adalah pencegahan keras, sebab kecemburuan adalah keadaan jiwa yang menuntut pencegahan dan larangan. Maka di sini disebutlah sebab untuk mengungkapkan akibatnya (*kināya*). Allah lebih mengetahui.
+
+³⁶ CT: Muslim, *al-Li'an*, 17.
