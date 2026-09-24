@@ -3,6 +3,7 @@
 **Karya:** Fakhr al-Dīn al-Rāzī (w. 606/1210), *Asās al-Taqdīs fī ʿIlm al-Kalām*
 **Naskah Arab:** berkas `e791cd48-….docx` (teks digital tanpa nomor halaman dan tanpa catatan kaki; ayat ditandai `! 2 < … > 2 !`)
 **Naskah Turki:** Fahreddîn er-Râzî, *Allah'ın Aşkınlığı (Esâsu't-Takdîs fî İlmi'l-Kelâm)*, terj. Doç. Dr. İbrahim Coşkun, Diyarbakır 2004 (berkas `9b645e69-esas.docx`, hasil OCR; dasar edisinya: Muʾassasat al-Kutub al-Thaqāfiyya, Beirut 1415/1995)
+**Rujukan istilah:** Muḥammad ʿAlī al-Tahānawī, *Kashshāf Iṣṭilāḥāt al-Funūn wa-l-ʿUlūm*, ed. Rafīq al-ʿAjam dan ʿAlī Daḥrūj, 2 jilid, Beirut: Maktabat Lubnān Nāshirūn, 1996 (berkas teks hasil OCR)
 
 ---
 
@@ -10,11 +11,11 @@
 
 | Butir | Keterangan |
 |---|---|
-| Tahap | **Terjemahan penuh selesai** (seluruh teks Arab, Pembuka Kitab sampai penutup Bagian IV) |
-| Glosarium | Versi 1.0 (usulan v0.1 diberlakukan melalui instruksi "lanjut hingga tuntas kitab"); tambahan baru dicatat di 2.7 dan menunggu persetujuan eksplisit |
+| Tahap | **Terjemahan penuh selesai**; penyuntingan format tahap 2 selesai (rujukan Al-Qur'an di badan teks, catatan istilah Kashshāf, glosarium v2.0, berkas DOCX bergaya paragraf) |
+| Glosarium | Versi 2.0: kolom Turki dihapus, padanan Inggris diambil dari kepala entri *Kashshāf*, tambahan selama penerjemahan (dulu 2.7) dilebur ke tabel tematis |
 | Sudah diterjemahkan | Seluruh kitab: Pembuka Kitab dan Bagian I sampai IV |
 | Kalimat terakhir | "Selesailah, dengan pujian kepada Allah Ta'ala, kitab *Asās al-Taqdīs*." |
-| Posisi berikutnya | Terjemahan tuntas. Tahap berikutnya: penyuntingan dan persetujuan tambahan glosarium (2.7) |
+| Berkas turunan | `asas-al-taqdis.docx` (siap ditempatkan ke InDesign; lihat daftar gaya di Keputusan Kerja no. 11) |
 
 ---
 
@@ -40,193 +41,198 @@
 
 ---
 
+---
+
 ## 1. Keputusan Kerja yang Diberlakukan
 
 1. **Teks dasar:** naskah Arab. Naskah Turki dipakai untuk verifikasi makna, pertimbangan diksi, dan sumber catatan kaki CT.
-2. **Pengantar penerjemah Turki** (h. 9 sampai 22) dan motto QS Muḥammad [47]: 19 tidak diterjemahkan karena tidak ada dalam teks Arab.
-3. **Catatan kaki:** naskah Arab tidak memuat catatan kaki. Semua catatan kaki berasal dari edisi Turki (awalan **CT:**) dengan nomor aslinya. Penomoran edisi Turki beberapa kali diulang dari 1, dan nomor itu dipertahankan apa adanya. Keterangan "(ç.n.)" dialihkan menjadi "(catatan penerjemah)".
-4. **Catatan penerjemah Indonesia** memakai huruf superskrip (ᵃ, ᵇ, …) dengan awalan **CP:**, diulang dari ᵃ pada setiap pasal.
+2. **Pengantar penerjemah Turki** (h. 9 sampai 22) dan motto (Muḥammad: 19) tidak diterjemahkan karena tidak ada dalam teks Arab.
+3. **Catatan kaki** memakai format catatan kaki Markdown (`[^n]`) dan dinomori ulang secara berurutan dari awal sampai akhir kitab. Ada tiga jenis catatan: (a) catatan edisi Turki, berawalan **CT:**, dengan keterangan "(ç.n.)" dialihkan menjadi "(catatan penerjemah)"; (b) catatan penerjemah Indonesia, berawalan **CP:**; (c) catatan istilah dari *Kashshāf* (lihat no. 9). Nomor asli catatan edisi Turki tidak dipertahankan lagi.
+4. **Rujukan Al-Qur'an** tidak lagi berupa catatan kaki. Rujukan dicantumkan di badan teks tepat setelah kutipan dengan format (Nama Surah: nomor ayat), misalnya (Taha: 5). Beberapa ayat dari surah yang sama digabung, dan ayat yang berurutan ditulis dengan tanda hubung. Tanda baca penutup kalimat dipindahkan ke sesudah rujukan. Nomor ayat yang keliru dalam edisi Turki telah dibetulkan, dan rujukan yang catatannya tak terbaca dalam naskah Turki dilengkapi menurut konteks.
 5. **Nama tokoh dan aliran** ditulis dalam bentuk lazim Indonesia. Transliterasi IJMES hanya untuk istilah konseptual, pada kemunculan pertama.
 6. **Penanda posisi** memakai judul bagian/pasal naskah Arab ditambah nomor halaman edisi Turki (*Tr. h.*), dicantumkan di bawah setiap judul.
 7. **Kutipan Al-Qur'an** mengikuti gaya Terjemahan Kemenag RI. Redaksinya belum dicocokkan secara daring, jadi mohon diperiksa bila ketepatan harfiah diperlukan.
 8. **Kekeliruan salin dalam teks Arab** (mis. انتخبوا untuk أنتجوا) diterjemahkan menurut bacaan yang benar secara makna, dengan pertimbangan edisi Turki, tanpa catatan kecuali bila maknanya berubah.
+9. **Catatan istilah Kashshāf.** Istilah falsafah dan kalam dalam glosarium (ditandai † di glosarium) diberi catatan kaki pada kemunculan pertamanya di badan teks. Catatan itu meringkas entri *Kashshāf Iṣṭilāḥāt al-Funūn* dengan mendahulukan pengertian menurut para mutakalim dan filsuf, dengan format: **Istilah** (*transliterasi*; Ing. *padanan Inggris Kashshāf*). Penjelasan. (*Kashshāf*, s.v. *…*). Istilah yang entrinya tidak ditemukan atau tidak terbaca dalam berkas OCR (antara lain *ʿilla*, *nawʿ*, *faṣl*, *jiha*, *zamān*, *azal*, *tanzīh*, *muḥkam*, *tafwīḍ*, *istiwāʾ*, *tashakhkhuṣ*, *murajjiḥ*, *mutanāhī*, *ḥujja*, *yaqīn*) tidak diberi catatan Kashshāf.
+10. **Padanan Inggris** dalam glosarium diambil dari kepala entri *Kashshāf* edisi al-ʿAjam dan Daḥrūj, yang mencantumkan padanan Prancis dan Inggris. Padanan Indonesia yang sudah berlaku tidak diganti. Bila padanan Inggris *Kashshāf* mengikuti makna di luar kalam (mis. *ḥulūl*: *incarnation*; *taʿṭīl*: *atheism*; *dawr*: *cycle*), hal itu dicatat di kolom Catatan. Tanda "-" berarti entri tidak ditemukan atau kepala entrinya tidak terbaca dalam berkas OCR.
+11. **Berkas DOCX** memakai gaya paragraf bernama untuk setiap unsur struktur (Judul Buku, Bagian Ke, Judul Bagian, Pasal, Subpasal, Penanda Sumber, Teks Isi, Teks Isi Pertama, Syair, Penutup, Glosarium, dan seterusnya) serta gaya karakter untuk kutipan ayat, kutipan hadis, transliterasi, aksara Arab, dan label argumen, sehingga dapat dipetakan langsung ke gaya InDesign. Catatan kaki disimpan sebagai catatan kaki Word yang asli.
 
 ---
 
-## 2. Glosarium Istilah Kunci (Versi 1.0)
+## 2. Glosarium Istilah Kunci (Versi 2.0)
 
-Kolom pertama memuat padanan Turki yang dipakai Coşkun, sebagai pembanding. Transliterasi mengikuti IJMES. Padanan Indonesia yang dicetak **tebal** adalah bentuk baku yang akan dipakai secara konsisten.
+Transliterasi mengikuti IJMES. Padanan Inggris diambil dari kepala entri *Kashshāf Iṣṭilāḥāt al-Funūn* (bila entri yang dirujuk berbeda dari lema, entrinya disebut dengan s.v.). Padanan Indonesia yang dicetak **tebal** adalah bentuk baku yang dipakai secara konsisten. Tanda † menandai istilah yang diberi catatan Kashshāf pada kemunculan pertamanya di badan teks.
 
 ### 2.1 Ruang, Arah, dan Kejisiman (tema pokok Bagian I)
 
-| Istilah Turki | Bentuk Arab | Transliterasi | Padanan Indonesia | Catatan |
+| Bentuk Arab | Transliterasi | Padanan Inggris (*Kashshāf*) | Padanan Indonesia | Catatan |
 |---|---|---|---|---|
-| cisim | جسم | jism | **jisim** | Sudah akrab di telinga Indonesia (KBBI: tubuh, badan). Dipilih ketimbang "benda" atau "tubuh" agar bobot teknisnya terjaga. |
-| cismâniyet | جسمية | jismiyya | **kejisiman** | |
-| mekân (juga untuk ḥayyiz) | حيز / أحياز | ḥayyiz / aḥyāz | **ruang** | Turki meleburkan *ḥayyiz* dan *makān* menjadi *mekân*. Saya usulkan keduanya dibedakan: *ḥayyiz* adalah ruang yang ditempati jisim, *makān* adalah tempat. |
-| bir yere yerleşen / mekânda olan | متحيز | mutaḥayyiz | **yang menempati ruang** | Bentuk verbal ini lebih mengalir dalam kalimat Indonesia daripada istilah bentukan ("keberuangan"). |
-| - | تحيز / متحيزية | taḥayyuz / mutaḥayyiziyya | **keadaan menempati ruang** | |
-| mekân | مكان | makān | **tempat** | |
-| cihet | جهة / الجهات الست | jiha / al-jihāt al-sitt | **arah** / **enam arah** | |
-| içinde olmak / hulûl | حالّ في / حلول | ḥāll fī / ḥulūl | **berada di dalam** / **bertempat di dalam (ḥulūl)** | Dalam kitab ini *ḥulūl* bermakna teknis kalam (berada di dalam sesuatu), bukan makna tasawuf "penitisan". Transliterasi dicantumkan pada kemunculan pertama untuk mencegah salah paham. |
-| dışında olmak | مباين / مباينة | mubāyin / mubāyana | **terpisah dari** / **keterpisahan** | *mubāyana bi-l-jiha* → keterpisahan secara arah. |
-| his ile işaret edilen | مشار إليه بالحس | mushār ilayhi bi-l-ḥiss | **dapat ditunjuk oleh indra** | |
-| âlem | العالم | al-ʿālam | **alam** | "semesta" hanya bila konteks menuntut. |
-| istivâ | استواء | istiwāʾ | **istiwa** | Dalam kutipan ayat mengikuti Kemenag ("bersemayam"). Di luar kutipan dipakai *istiwa*, karena seluruh pembahasan kitab justru berkisar pada makna kata ini. |
+| جسم | jism | body, organism | **jisim** † | Sudah akrab di telinga Indonesia (KBBI: tubuh, badan). Dipilih ketimbang "benda" atau "tubuh" agar bobot teknisnya terjaga. |
+| جسمية | jismiyya | - | **kejisiman** | |
+| جسماني / جسمانيات | jismānī / jismāniyyāt | - | **jasmani** / **hal-hal jasmani** | |
+| حيز / أحياز | ḥayyiz / aḥyāz | space, area, surface, locus | **ruang** † | Dibedakan dari *makān*: *ḥayyiz* adalah ruang yang ditempati jisim, *makān* adalah tempat. |
+| متحيز | mutaḥayyiz | - | **yang menempati ruang** † | Bentuk verbal ini lebih mengalir dalam kalimat Indonesia daripada istilah bentukan ("keberuangan"). Catatan Kashshāf memakai entri *al-taḥayyuz*. |
+| تحيز / متحيزية | taḥayyuz / mutaḥayyiziyya | spatialization | **keadaan menempati ruang** | |
+| مكان | makān | place, situation; spot, space | **tempat** † | |
+| جهة / الجهات الست | jiha / al-jihāt al-sitt | - | **arah** / **enam arah** | |
+| مختص ب / اختصاص | mukhtaṣṣ bi- / ikhtiṣāṣ | exclusivity, particularisation | **terikat pada** / **keterikatan** | Untuk ruang dan arah. |
+| حالّ في / حلول | ḥāll fī / ḥulūl | incarnation, pantheism, union | **berada di dalam** / **bertempat di dalam (ḥulūl)** † | Padanan Inggris *Kashshāf* mengikuti makna tasawuf. Dalam kitab ini *ḥulūl* bermakna teknis kalam (berada di dalam sesuatu), bukan "penitisan". |
+| مباين / مباينة | mubāyin / mubāyana | - | **terpisah dari** / **keterpisahan** | *mubāyana bi-l-jiha*: keterpisahan secara arah. |
+| مشار إليه بالحس | mushār ilayhi bi-l-ḥiss | - | **dapat ditunjuk oleh indra** | |
+| امتداد / بعد | imtidād / buʿd | distance, dimension, interval (*buʿd*) | **bentangan** † | |
+| الوضع | al-waḍʿ | situation, position, attitude | **posisi** † | |
+| المحل | al-maḥall | spot, place, receptacle, circumstance | **wadah** † | Tempat melekatnya sifat atau aksiden. |
+| الشكل | al-shakl | aspect | **bentuk** † | Kepala entri dalam berkas OCR hanya terbaca sebagian. |
+| المقدار | al-miqdār | quantity, number, measure | **ukuran** † | |
+| مسامتة | musāmata | - | **perhadapan** | Keadaan dua garis saling berhadapan. |
+| محايث / محايثة | muḥāyith / muḥāyatha | - | **berbagi tempat** | Seperti aksiden dengan substansinya. |
+| العالم | al-ʿālam | world, universe, cosmos | **alam** † | "Semesta" hanya bila konteks menuntut. |
+| استواء | istiwāʾ | - | **istiwa** | Dalam kutipan ayat mengikuti Kemenag ("bersemayam"). Di luar kutipan dipakai *istiwa*, karena seluruh pembahasan kitab justru berkisar pada makna kata ini. |
 
 ### 2.2 Ontologi dan Metafisika
 
-| Istilah Turki | Bentuk Arab | Transliterasi | Padanan Indonesia | Catatan |
+| Bentuk Arab | Transliterasi | Padanan Inggris (*Kashshāf*) | Padanan Indonesia | Catatan |
 |---|---|---|---|---|
-| mevcud | موجود | mawjūd | **maujud** (sesuatu yang ada) | Diserap KBBI. Pada kemunculan pertama: *maujud (mawjūd, موجود)*. |
-| vücud / varlık | وجود | wujūd | **wujud** | |
-| mahiyet | ماهية | māhiyya | **esensi** | Pilihan filosofis yang jernih. Alternatif: *mahiat*. |
-| hakikat | حقيقة | ḥaqīqa | **hakikat** (ontologis) / **makna hakiki** (kebahasaan) | Dua pengertian dibedakan menurut konteks. |
-| zât | ذات | dhāt | **zat** | |
-| sıfat | صفة | ṣifa | **sifat** | |
-| vâcib | واجب (الوجود) | wājib (al-wujūd) | **wajib** / **Wajib Ada** | Bergema dengan tradisi *sifat dua puluh* (wajib, mustahil, jaiz) yang akrab bagi pembaca Indonesia. |
-| mümkün | ممكن | mumkin | **mungkin** (kontingen) | Bila perlu ditegaskan: *mungkin-ada*. |
-| mümteni' / muhâl | ممتنع / محال | mumtaniʿ / muḥāl | **mustahil** | Keduanya satu padanan, sebab al-Rāzī memakainya bergantian. |
-| muhdes / hâdis | محدث / حادث | muḥdath / ḥādith | **baharu** | *ḥudūth* → **kebaharuan**. |
-| kadîm | قديم | qadīm | **qadim** | |
-| mürekkeb | مركب / تركيب | murakkab / tarkīb | **tersusun** / **ketersusunan** | |
-| münkasim | منقسم | munqasim | **terbagi** | |
-| cevher | جوهر | jawhar | **substansi (jauhar)** | |
-| cüz | الجوهر الفرد / الجزء الذي لا يتجزأ | al-jawhar al-fard | **atom (partikel tak terbagi)** | |
-| araz | عرض | ʿaraḍ | **aksiden (ʿaraḍ)** | |
-| mütenâhî | متناه / غير متناه | mutanāhin / ghayr mutanāhin | **berhingga** / **tak berhingga** | |
-| teselsül | تسلسل | tasalsul | **regresi tak berhingga (tasalsul)** | |
-| Sâni', Yaratıcı | الصانع / الباري | al-Ṣāniʿ / al-Bāriʾ | **Sang Pencipta** | |
-| teayyün / hususiyet | تعين / خصوصية | taʿayyun / khuṣūṣiyya | **ketertentuan** / **kekhususan** | *mā bihi al-ishtirāk* → titik kesamaan; *mā bihi al-imtiyāz* → titik pembeda. |
-| akıllar, nefisler, heyulâ | العقول، النفوس، الهيولى | al-ʿuqūl, al-nufūs, al-hayūlā | **akal-akal, jiwa-jiwa, hayula (materi pertama)** | Maujud-maujud nonspasial dalam falsafah Ibnu Sina. |
-| misil / benzer | مثل / مماثلة | mithl / mumāthala | **padanan** / **keserupaan** | |
+| موجود | mawjūd | being, existence, reality (s.v. *al-wujūd*) | **maujud** (sesuatu yang ada) † | Diserap KBBI. |
+| وجود | wujūd | being, existence, reality | **wujud** | |
+| ماهية | māhiyya | essence, quiddity | **esensi** † | Alternatif: *mahiat*. |
+| حقيقة | ḥaqīqa | truth, true meaning | **hakikat** (ontologis) / **makna hakiki** (kebahasaan) † | Dua pengertian dibedakan menurut konteks. |
+| ذات | dhāt | essence, substance, the self | **zat** † | |
+| صفة | ṣifa | quality, attribute | **sifat** † | |
+| واجب (الوجود) | wājib (al-wujūd) | necessity, obligation (s.v. *al-wujūb*) | **wajib** / **Wajib Ada** † | Bergema dengan tradisi *sifat dua puluh* (wajib, mustahil, jaiz) yang akrab bagi pembaca Indonesia. |
+| ممكن / إمكان | mumkin / imkān | contingency (s.v. *al-imkān*) | **mungkin** (kontingen) / **kemungkinan** † | Bila perlu ditegaskan: *mungkin-ada*. |
+| ممتنع / محال | mumtaniʿ / muḥāl | impossibility (s.v. *al-imtināʿ*) | **mustahil** † | Keduanya satu padanan, sebab al-Rāzī memakainya bergantian. |
+| محدث / حادث / حدوث | muḥdath / ḥādith / ḥudūth | creation (s.v. *al-ḥudūth*) | **baharu** / **kebaharuan** † | |
+| قديم | qadīm | eternity (s.v. *al-qidam*) | **qadim** † | |
+| أزلي | azalī | - | **azali** | |
+| مركب / تركيب | murakkab / tarkīb | - | **tersusun** / **ketersusunan** | |
+| منقسم | munqasim | - | **terbagi** | |
+| جوهر | jawhar | substance, essence | **substansi (jauhar)** † | |
+| الجوهر الفرد / الجزء الذي لا يتجزأ | al-jawhar al-fard | atom, indivisible part | **atom (partikel tak terbagi)** † | |
+| عرض / أعراض | ʿaraḍ / aʿrāḍ | accident | **aksiden (ʿaraḍ)** † | |
+| عوارض | ʿawāriḍ | - | **aksiden-aksiden yang datang kemudian** | |
+| متناه / غير متناه | mutanāhin / ghayr mutanāhin | - | **berhingga** / **tak berhingga** | |
+| تسلسل | tasalsul | succession, chain, chronological order | **regresi tak berhingga (tasalsul)** † | Padanan Inggris mengikuti makna umum dan makna hadis (*musalsal*); makna falsafahnya dijelaskan dalam entri yang sama. |
+| دور | dawr | cycle, period, cyclical | **lingkaran (daur)** † | Padanan Inggris mengikuti makna astronomis; makna logisnya (ketergantungan timbal balik) dijelaskan dalam entri yang sama. |
+| الصانع / الباري | al-Ṣāniʿ / al-Bāriʾ | - | **Sang Pencipta** | |
+| تعين / خصوصية | taʿayyun / khuṣūṣiyya | determination, specification / particularity | **ketertentuan** / **kekhususan** † | *mā bihi al-ishtirāk*: titik kesamaan; *mā bihi al-imtiyāz*: titik pembeda. |
+| تشخص / شخص | tashakhkhuṣ / shakhṣ | - | **individuasi** / **individu** | Untuk *shakhṣ* sebagai lafaz hadis, lihat 2.4. |
+| العقول | al-ʿuqūl | reason, intellect (s.v. *al-ʿaql*) | **akal-akal** † | Maujud-maujud nonspasial dalam falsafah Ibnu Sina. |
+| النفوس الناطقة | al-nufūs al-nāṭiqa | - | **jiwa-jiwa rasional** † | Catatan Kashshāf memakai entri *al-nafs*. |
+| الهيولى | al-hayūlā | matter | **hayula (materi pertama)** † | |
+| مجرد | mujarrad | abstract | **abstrak (terlepas dari materi)** † | |
+| معقول | maʿqūl | intelligible | **terpahami oleh akal** † | |
+| مثل / مماثلة | mithl / mumāthala | equal, identical / equality, analogy (s.v. *al-tamāthul*) | **padanan** / **keserupaan** † | |
+| مماثل / متماثل | mumāthil / mutamāthil | - | **serupa** | Pasangan dari *mumāthala* (keserupaan). |
+| نظير | naẓīr | peer, equal, analogue | **tara** † | Bergema dengan ungkapan "tiada tara". |
+| شبيه | shabīh | - | **yang serupa** | |
+| لازم / لوازم | lāzim / lawāzim | necessary, inherent | **kelaziman** † | Konsekuensi yang niscaya menyertai sesuatu. |
+| مخصص | mukhaṣṣiṣ | particularization (s.v. *al-takhṣīṣ*) | **pengkhusus** † | |
+| مرجح | murajjiḥ | - | **penentu keunggulan** | |
+| مؤثر / تأثير | muʾaththir / taʾthīr | - | **pemberi pengaruh** / **pengaruh** | |
+| علة / معلول / تعليل | ʿilla / maʿlūl / taʿlīl | - | **sebab** / **akibat** / **pemberian sebab** | |
+| جنس / نوع / فصل | jins / nawʿ / faṣl | genus, species, sex (*jins*) | **genus** / **spesies** / **diferensia** † | Catatan Kashshāf hanya untuk *jins*. |
+| إضافة | iḍāfa | relation | **relasi** † | |
+| عدم | ʿadam | nothingness | **ketiadaan** † | |
+| سلبي / ثبوتي / وجودي / عدمي | salbī / thubūtī / wujūdī / ʿadamī | - | **negatif** / **positif** / **eksistensial** / **bersifat ketiadaan** | |
+| كنه | kunh | essence, substance | **hakikat terdalam** † | |
+| المعنى (dalam kalam) | al-maʿnā | meaning, significance, concept | **makna (maʿnā)** † | Entitas sifat yang menjadi sebab suatu keadaan, bukan "arti". |
+| حكم (dalam kalam) | ḥukm | - | **hukum** | Keadaan yang berlaku pada zat. |
+| الزمان / المدة | al-zamān / al-mudda | - | **waktu** / **rentang masa** | |
+| الدهر | al-dahr | time, century, age, period, eternity, millennium | **masa** | |
+| الربوبية | al-rubūbiyya | - | **Ketuhanan** | |
 
 ### 2.3 Epistemologi dan Metode
 
-| Istilah Turki | Bentuk Arab | Transliterasi | Padanan Indonesia | Catatan |
+| Bentuk Arab | Transliterasi | Padanan Inggris (*Kashshāf*) | Padanan Indonesia | Catatan |
 |---|---|---|---|---|
-| zarurî ilim | علم ضروري / بالضرورة | ʿilm ḍarūrī / bi-l-ḍarūra | **pengetahuan niscaya** / **secara niscaya** | Pengetahuan yang hadir tanpa penalaran. |
-| bedîhî | بديهي / بديهة العقل / بداية العقول | badīhī / badīhat al-ʿaql / bidāyat al-ʿuqūl | **swabukti** / **menurut akal pada tingkat paling dasarnya** | Dibedakan dari *ḍarūrī*: *badīhī* menekankan keterangan seketika. |
-| nazarî | نظري | naẓarī | **nazari (hasil penalaran)** | |
-| vehim | الوهم | al-wahm | **daya waham** | Daya estimatif yang memberlakukan hukum indrawi pada yang bukan indrawi. Nuansa negatif "waham" dalam bahasa Indonesia justru sejalan dengan kritik al-Rāzī. |
-| hayâl | الخيال | al-khayāl | **daya khayal** | |
-| his | الحس | al-ḥiss | **indra** / **pencerapan indrawi** | |
-| akıl | العقل | al-ʿaql | **akal** | |
-| delil | دليل / دلائل | dalīl / dalāʾil | **dalil** | |
-| burhan | برهان | burhān | **burhan** (bukti demonstratif) | |
-| hüccet | حجة | ḥujja | **hujah** | |
-| kat'î | قطعي / قاطع | qaṭʿī / qāṭiʿ | **pasti** (qaṭʿī) | *dalāʾil qaṭʿiyya ʿaqliyya* → dalil-dalil rasional yang pasti. |
-| zannî | ظني / ظن | ẓannī / ẓann | **dugaan** (ẓannī) | |
-| yakîn | يقين | yaqīn | **keyakinan pasti** | |
-| sem'î / naklî delil | سمعي / نقلي | samʿī / naqlī | **dalil naqli** (dari wahyu) | |
-| mukaddime | مقدمة | muqaddima | **premis** (logis) / **pendahuluan** (judul bab) | Pada judul *al-muqaddima al-ūlā* di Bagian I dipakai **Premis Pertama**, karena yang dimaksud memang premis argumentasi. |
-| taksim | تقسيم | taqsīm | **pembagian** | |
-| şâhid / ğâib | الشاهد / الغائب | al-shāhid / al-ghāʾib | **alam nyata** / **alam gaib** | *qiyās al-ghāʾib ʿalā al-shāhid* → analogi yang gaib pada yang nyata. |
+| علم ضروري / بالضرورة | ʿilm ḍarūrī / bi-l-ḍarūra | necessary (s.v. *al-ḍarūrī*) | **pengetahuan niscaya** / **secara niscaya** † | Pengetahuan yang hadir tanpa penalaran. |
+| بديهي / بديهة العقل / بداية العقول | badīhī / badīhat al-ʿaql / bidāyat al-ʿuqūl | self-evident, axiom | **swabukti** / **menurut akal pada tingkat paling dasarnya** † | Dibedakan dari *ḍarūrī*: *badīhī* menekankan keterangan seketika. |
+| نظري | naẓarī | probable, contingent, speculative | **nazari (hasil penalaran)** † | |
+| الوهم | al-wahm | illusion, chimera, imagination | **daya waham** † | Daya estimatif yang memberlakukan hukum indrawi pada yang bukan indrawi. Nuansa negatif "waham" dalam bahasa Indonesia justru sejalan dengan kritik al-Rāzī. |
+| الخيال | al-khayāl | image, imagination | **daya khayal** † | |
+| الحس | al-ḥiss | sense, sensation | **indra** / **pencerapan indrawi** † | |
+| العقل | al-ʿaql | reason, intellect | **akal** | Catatan Kashshāf dipasang pada "akal-akal" (lihat 2.2). |
+| دليل / دلائل | dalīl / dalāʾil | proof, demonstration, sign | **dalil** † | |
+| برهان | burhān | demonstration, proof | **burhan** (bukti demonstratif) † | |
+| حجة | ḥujja | proof, argument | **hujah** | Isi entrinya tidak terbaca dalam berkas OCR. |
+| قطعي / قاطع | qaṭʿī / qāṭiʿ | - | **pasti** (qaṭʿī) | *dalāʾil qaṭʿiyya ʿaqliyya*: dalil-dalil rasional yang pasti. |
+| ظني / ظن | ẓannī / ẓann | suspicion, opinion, idea, presumption, assumption | **dugaan** (ẓannī) † | |
+| يقين | yaqīn | certainty, certitude, assurance | **keyakinan pasti** | |
+| سمعي / نقلي | samʿī / naqlī | - | **dalil naqli** (dari wahyu) | |
+| مقدمة | muqaddima | - | **premis** (logis) / **pendahuluan** (judul bab) | Pada judul *al-muqaddima al-ūlā* di Bagian I dipakai **Premis Pertama**, karena yang dimaksud memang premis argumentasi. |
+| تقسيم | taqsīm | - | **pembagian** | |
+| الشاهد / الغائب | al-shāhid / al-ghāʾib | - | **alam nyata** / **alam gaib** | *qiyās al-ghāʾib ʿalā al-shāhid*: analogi yang gaib pada yang nyata. |
+| جامع | jāmiʿ | - | **titik penghubung** (dalam analogi) | |
+| مغالطة | mughālaṭa | sophism, sophistic syllogism, eristic | **sofisme** † | |
+| داعي / دواعي | dāʿī / dawāʿī | - | **dorongan** | Dalam pembahasan qada dan qadar. |
+| القانون الكلي | al-qānūn al-kullī | - | **kaidah umum** | |
 
-### 2.4 Hermeneutika Teks (Bagian II–IV)
+### 2.4 Hermeneutika Teks (Bagian II sampai IV)
 
-| Istilah Turki | Bentuk Arab | Transliterasi | Padanan Indonesia | Catatan |
+| Bentuk Arab | Transliterasi | Padanan Inggris (*Kashshāf*) | Padanan Indonesia | Catatan |
 |---|---|---|---|---|
-| zâhir | ظاهر / ظواهر | ẓāhir / ẓawāhir | **makna lahiriah** / **teks-teks lahiriah** | |
-| tevil | تأويل | taʾwīl | **takwil** | Diserap KBBI; dipertahankan karena istilah inti kitab. |
-| müteşabih | متشابه | mutashābih | **mutasyabih** (ayat samar) | |
-| muhkem | محكم | muḥkam | **muhkam** (ayat tegas) | |
-| mecaz | مجاز | majāz | **majaz** (makna kiasan) | |
-| istiare | استعارة | istiʿāra | **metafora (istiʿāra)** | |
-| - | صرف اللفظ عن ظاهره | ṣarf al-lafẓ ʿan ẓāhirih | **memalingkan lafaz dari makna lahiriahnya** | |
-| - | راجح / مرجوح | rājiḥ / marjūḥ | **makna yang kuat** / **makna yang lemah** | |
-| - | فوّض علمه إلى الله | fawwaḍa ʿilmahu ilā Allāh | **menyerahkan pengetahuannya kepada Allah (tafwīḍ)** | |
-| râsihûn | الراسخون في العلم | al-rāsikhūn fī l-ʿilm | **orang-orang yang ilmunya mendalam** | Mengikuti Kemenag, QS Āl ʿImrān [3]: 7. |
-| haber-i vâhid | خبر الواحد | khabar al-wāḥid | **hadis ahad** | |
-| tevâtür | متواتر | mutawātir | **mutawatir** | |
-| icmâ | إجماع | ijmāʿ | **ijmak** | |
-| mükellef | مكلف | mukallaf | **mukalaf** | |
+| ظاهر / ظواهر | ẓāhir / ẓawāhir | visible, manifest, exterior | **makna lahiriah** / **teks-teks lahiriah** † | |
+| تأويل | taʾwīl | interpretation, hermeneutics | **takwil** † | Diserap KBBI; dipertahankan karena istilah inti kitab. |
+| متشابه | mutashābih | similar, alike | **mutasyabih** (ayat samar) † | |
+| محكم | muḥkam | - | **muhkam** (ayat tegas) | |
+| مجاز | majāz | figurative expression | **majaz** (makna kiasan) † | |
+| استعارة | istiʿāra | metaphor | **metafora (istiʿāra)** † | |
+| كناية | kināya | metonymy, antonomasia | **kinayah** † | |
+| قرينة | qarīna | presumption, evidence, sign | **petunjuk (qarinah)** † | |
+| اشتراك لفظي | ishtirāk lafẓī | homonymy (s.v. *al-ishtirāk*) | **keserupaan lafaz** (homonimi) † | |
+| مشترك | mushtarak | common, identical, polysemy, syllepsis | **homonim** | |
+| مجمل | mujmal | summary, whole, total | **global** (lafaz yang belum terperinci) † | |
+| نص / مؤول | naṣṣ / muʾawwal | - | **nas** / **muawwal (yang ditakwilkan)** | |
+| دليل منفصل | dalīl munfaṣil | - | **dalil terpisah** | |
+| صرف اللفظ عن ظاهره | ṣarf al-lafẓ ʿan ẓāhirih | - | **memalingkan lafaz dari makna lahiriahnya** | |
+| راجح / مرجوح | rājiḥ / marjūḥ | - | **makna yang kuat** / **makna yang lemah** | |
+| فوّض علمه إلى الله / تفويض | fawwaḍa ʿilmahu ilā Allāh / tafwīḍ | - | **menyerahkan pengetahuannya kepada Allah** / **penyerahan makna kepada Allah (tafwīḍ)** | |
+| الراسخون في العلم | al-rāsikhūn fī l-ʿilm | - | **orang-orang yang ilmunya mendalam** | Mengikuti Kemenag (Ali 'Imran: 7). |
+| صورة | ṣūra | form | **rupa** | |
+| شخص | shakhṣ | - | **sosok** | Sebagai lafaz hadis (Bagian II, Pasal 2). |
+| غيرة | ghayra | - | **kecemburuan** | |
+| مسخ | maskh | metempsychosis | **perubahan rupa (maskh)** | Padanan Inggris *Kashshāf* mengikuti makna reinkarnasi; di sini makna hadis tentang berubahnya rupa. |
+| خبر الواحد | khabar al-wāḥid | - | **hadis ahad** | |
+| متواتر | mutawātir | succession (s.v. *al-tawātur*) | **mutawatir** † | |
+| إجماع | ijmāʿ | - | **ijmak** | |
+| مكلف | mukallaf | - | **mukalaf** | |
 
 ### 2.5 Teologi dan Aliran
 
-| Istilah Turki | Bentuk Arab | Transliterasi | Padanan Indonesia | Catatan |
+| Bentuk Arab | Transliterasi | Padanan Inggris (*Kashshāf*) | Padanan Indonesia | Catatan |
 |---|---|---|---|---|
-| tenzih / münezzeh | تنزيه / منزه | tanzīh / munazzah | **penyucian** / **Mahasuci** | |
-| takdîs | تقديس | taqdīs | **penyucian (taqdīs)** | Nyaris hanya muncul pada judul kitab. Usulan judul Indonesia: ***Asās al-Taqdīs: Landasan Penyucian Allah***. (Turki memilih *Allah'ın Aşkınlığı*, "Transendensi Allah".) |
-| teşbih | تشبيه | tashbīh | **penyerupaan** | Menyerupakan Allah dengan makhluk. |
-| ta'til | تعطيل | taʿṭīl | **penafian** | Peniadaan sifat-sifat Allah. |
-| tevhid | توحيد | tawḥīd | **tauhid** | |
-| Müşebbihe | المشبهة | al-Mushabbiha | **kaum Musyabbihah** | |
-| Mücessime | المجسمة | al-Mujassima | **kaum Mujassimah** | |
-| Kerrâmiye | الكرامية | al-Karrāmiyya | **Karramiyah** | |
-| Hanbeliler | الحنابلة | al-Ḥanābila | **kaum Hanbali (Hanabilah)** | Yang dimaksud al-Rāzī adalah kalangan Hanbali yang cenderung antropomorfis pada zamannya. |
-| Haşviyye | الحشوية | al-Ḥashwiyya | **Hasywiyah** | |
-| Dehrîler | الدهرية | al-Dahriyya | **kaum Dahriyah** | Kalangan yang meyakini kekekalan masa. |
-| Filozoflar | الفلاسفة | al-falāsifa | **para filsuf** | |
-| Mu'tezile | المعتزلة | al-Muʿtazila | **Muktazilah** | |
-| Ashâbımız | أصحابنا | aṣḥābunā | **kalangan kami** | Kalangan Asyʿariyah. |
-| Selef | السلف | al-salaf | **Salaf** | *madhhab al-salaf* → mazhab Salaf. |
-| Kelâmcılar | المتكلمون | al-mutakallimūn | **para mutakalim** | |
+| تنزيه / منزه | tanzīh / munazzah | - | **penyucian** / **Mahasuci** | |
+| تقديس | taqdīs | - | **penyucian (taqdīs)** | Nyaris hanya muncul pada judul kitab. Usulan judul Indonesia: ***Asās al-Taqdīs: Landasan Penyucian Allah***. |
+| تنزيه وتقديس | tanzīh wa-taqdīs | - | **penyucian dan pengkudusan** | Hanya bila keduanya berpasangan. |
+| تشبيه | tashbīh | simile | **penyerupaan** † | Menyerupakan Allah dengan makhluk. Padanan Inggris *Kashshāf* mengikuti makna ilmu bayan. |
+| تعطيل | taʿṭīl | ellipsis, atheism | **penafian** † | Peniadaan sifat-sifat Allah. |
+| توحيد | tawḥīd | union, monotheism, unicity | **tauhid** † | |
+| قدرة | qudra | power, capacity, free will | **kuasa** † | |
+| إلحاد / ملحد / ملاحدة | ilḥād / mulḥid / malāḥida | - | **ateisme** / **kaum mulhid** | |
+| تقية | taqiyya | - | **taqiah** | |
+| المشبهة | al-Mushabbiha | sect professing anthropomorphism | **kaum Musyabbihah** † | |
+| المجسمة | al-Mujassima | - | **kaum Mujassimah** | |
+| الكرامية | al-Karrāmiyya | al-Kiramiyya (sect) | **Karramiyah** † | Ejaan Inggris sesuai kepala entri. |
+| الحنابلة | al-Ḥanābila | - | **kaum Hanbali (Hanabilah)** | Yang dimaksud al-Rāzī adalah kalangan Hanbali yang cenderung antropomorfis pada zamannya. |
+| الحشوية | al-Ḥashwiyya | al-Hashwiyya (sect) | **Hasywiyah** † | |
+| الدهرية | al-Dahriyya | atheism, materialism | **kaum Dahriyah** † | Kalangan yang meyakini kekekalan masa. |
+| الفلاسفة / الحكماء | al-falāsifa / al-ḥukamāʾ | wisdom, philosophy (s.v. *al-ḥikma*) | **para filsuf** † | |
+| المعتزلة | al-Muʿtazila | Mutazilites | **Muktazilah** † | |
+| الرافضة | al-Rāfiḍa | - | **Rafidah** | |
+| أصحابنا | aṣḥābunā | - | **kalangan kami** | Kalangan Asyʿariyah. |
+| السلف | al-salaf | - | **Salaf** | *madhhab al-salaf*: mazhab Salaf. |
+| المتكلمون | al-mutakallimūn | - (s.v. *ʿilm al-kalām*) | **para mutakalim** † | |
 
 ### 2.6 Struktur Kitab
 
-| Arab | Turki (Coşkun) | Indonesia |
-|---|---|---|
-| القسم | Bölüm | **Bagian** |
-| الفصل | Kısım | **Pasal** |
-| المقدمة | Mukaddime | **Premis** / **Pendahuluan** (lihat 2.3) |
-| البرهان / الحجة | Burhan / Delil | **Burhan** / **Hujah** |
-| خطبة الكتاب | Yazarın Önsözü | **Pembuka Kitab** |
-
-### 2.7 Tambahan Selama Penerjemahan (menunggu persetujuan eksplisit)
-
-| Istilah Turki | Bentuk Arab | Transliterasi | Padanan Indonesia | Catatan |
-|---|---|---|---|---|
-| - | مختص ب / اختصاص | mukhtaṣṣ bi- / ikhtiṣāṣ | **terikat pada** / **keterikatan** | Untuk ruang dan arah; mengikuti sampel B yang telah disetujui. |
-| cismânî | جسماني / جسمانيات | jismānī / jismāniyyāt | **jasmani** / **hal-hal jasmani** | |
-| - | مجرد / معقول | mujarrad / maʿqūl | **abstrak (terlepas dari materi)** / **terpahami oleh akal** | |
-| vaz' | الوضع | al-waḍʿ | **posisi** | |
-| - | المحل | al-maḥall | **wadah** | Tempat melekatnya sifat atau aksiden. |
-| - | الشكل / المقدار | al-shakl / al-miqdār | **bentuk** / **ukuran** | |
-| - | امتداد | imtidād | **bentangan** | |
-| nazîr | نظير | naẓīr | **tara** | Bergema dengan ungkapan "tiada tara". |
-| şebîh | شبيه | shabīh | **yang serupa** | |
-| lâzım | لوازم | lawāzim | **kelaziman** | Konsekuensi yang niscaya menyertai sesuatu. |
-| zaman / müddet | الزمان / المدة / الدهر | al-zamān / al-mudda / al-dahr | **waktu** / **rentang masa** / **masa** | |
-| ezelî | أزلي | azalī | **azali** | |
-| Râfızîler | الرافضة | al-Rāfiḍa | **Rafidah** | |
-| - | المعنى (dalam kalam) | al-maʿnā | **makna (maʿnā)** | Entitas sifat yang menjadi sebab suatu keadaan, bukan "arti". |
-| rubûbiyyet | الربوبية | al-rubūbiyya | **Ketuhanan** | |
-| - | كنه | kunh | **hakikat terdalam** | |
-| - | مماثل / متماثل | mumāthil / mutamāthil | **serupa** | Pasangan dari *mumāthala* (keserupaan). |
-| - | مخصص | mukhaṣṣiṣ | **pengkhusus** | |
-| - | مرجح | murajjiḥ | **penentu keunggulan** | |
-| müessir | مؤثر / تأثير | muʾaththir / taʾthīr | **pemberi pengaruh** / **pengaruh** | |
-| teşahhus | تشخص / شخص | tashakhkhuṣ / shakhṣ | **individuasi** / **individu** | |
-| cins / nev' / fasl | جنس / نوع / فصل | jins / nawʿ / faṣl | **genus** / **spesies** / **diferensia** | |
-| - | عوارض | ʿawāriḍ | **aksiden-aksiden yang datang kemudian** | |
-| ilhad | إلحاد | ilḥād | **ateisme** | |
-| - | تنزيه وتقديس | tanzīh wa-taqdīs | **penyucian dan pengkudusan** | Hanya bila keduanya berpasangan. |
-| - | مسامتة | musāmata | **perhadapan** | Keadaan dua garis saling berhadapan. |
-| - | مجمل | mujmal | **global** (lafaz yang belum terperinci) | |
-| - | حكم (dalam kalam) | ḥukm | **hukum** (keadaan yang berlaku pada zat) | |
-| - | جامع | jāmiʿ | **titik penghubung** (dalam analogi) | |
-| - | محايث / محايثة | muḥāyith / muḥāyatha | **berbagi tempat** | Seperti aksiden dengan substansinya. |
-| illet | علة / معلول / تعليل | ʿilla / maʿlūl / taʿlīl | **sebab** / **akibat** / **pemberian sebab** | |
-| izâfe | إضافة | iḍāfa | **relasi** | |
-| selbî / sübûtî / vücûdî | سلبي / ثبوتي / وجودي / عدمي | salbī / thubūtī / wujūdī / ʿadamī | **negatif** / **positif** / **eksistensial** / **bersifat ketiadaan** | |
-| mugalata | مغالطة | mughālaṭa | **sofisme** | |
-| devir | دور | dawr | **lingkaran (daur)** | |
-| - | اشتراك لفظي | ishtirāk lafẓī | **keserupaan lafaz** (homonimi) | |
-| - | النفوس الناطقة | al-nufūs al-nāṭiqa | **jiwa-jiwa rasional** | |
-| takiyye | تقية | taqiyya | **taqiah** | |
-| - | صورة | ṣūra | **rupa** | |
-| şahıs | شخص | shakhṣ | **sosok** | |
-| - | غيرة | ghayra | **kecemburuan** | |
-| - | مسخ | maskh | **perubahan rupa (maskh)** | |
-| - | كناية | kināya | **kinayah** | |
-| - | داعي / دواعي | dāʿī / dawāʿī | **dorongan** | Dalam pembahasan qada dan qadar. |
-| - | نص / مؤول / مشترك | naṣṣ / muʾawwal / mushtarak | **nas** / **muawwal (yang ditakwilkan)** / **homonim** | |
-| - | دليل منفصل | dalīl munfaṣil | **dalil terpisah** | |
-| - | قرينة | qarīna | **petunjuk (qarinah)** | |
-| - | تفويض | tafwīḍ | **penyerahan makna kepada Allah (tafwīḍ)** | Melengkapi entri 2.4. |
-| - | القانون الكلي | al-qānūn al-kullī | **kaidah umum** | |
-| - | ملحد / ملاحدة | mulḥid / malāḥida | **kaum mulhid** | |
+| Arab | Indonesia |
+|---|---|
+| القسم | **Bagian** |
+| الفصل | **Pasal** |
+| المقدمة | **Premis** / **Pendahuluan** (lihat 2.3) |
+| البرهان / الحجة | **Burhan** / **Hujah** |
+| خطبة الكتاب | **Pembuka Kitab** |
 
 ---
 
@@ -235,8 +241,9 @@ Kolom pertama memuat padanan Turki yang dipakai Coşkun, sebagai pembanding. Tra
 | Versi | Tanggal | Perubahan | Status |
 |---|---|---|---|
 | 0.1 | 2026-09-24 | Usulan awal | Diganti v1.0 |
-| 1.0 | 2026-09-24 | v0.1 diberlakukan tanpa perubahan melalui instruksi "lanjut hingga tuntas kitab"; sampel gaya dilebur ke dalam terjemahan | Berlaku |
-| 1.0 + 2.7 | 2026-09-24 | Tambahan istilah selama penerjemahan dicatat di 2.7 (sekitar 50 entri) | Menunggu persetujuan |
+| 1.0 | 2026-09-24 | v0.1 diberlakukan tanpa perubahan melalui instruksi "lanjut hingga tuntas kitab"; sampel gaya dilebur ke dalam terjemahan | Diganti v2.0 |
+| 1.0 + 2.7 | 2026-09-24 | Tambahan istilah selama penerjemahan dicatat di 2.7 (sekitar 50 entri) | Dilebur ke v2.0 |
+| 2.0 | 2026-09-24 | Kolom dan kosakata Turki dihapus; padanan Inggris dari *Kashshāf* ditambahkan; tambahan 2.7 dilebur ke tabel tematis; tanda † untuk istilah bercatatan Kashshāf | Berlaku |
 
 ---
 
@@ -248,21 +255,27 @@ Kolom pertama memuat padanan Turki yang dipakai Coşkun, sebagai pembanding. Tra
 
 Syekh Imam Fakhruddin Muhammad bin Umar ar-Razi, semoga Allah menaunginya dengan ampunan-Nya, berkata:
 
-Segala puji bagi Allah, yang wajib wujud dan kekal-Nya, mustahil berubah dan binasa; yang agung martabat dan ketinggian-Nya, yang merata karunia dan nikmat-Nya; yang bumi dan langit-Nya menjadi dalil atas keesaan-Nya; yang sifat dan nama-Nya mahatinggi dari segala noda penyerupaan (*tashbīh*, تشبيه)² dan penafian (*taʿṭīl*, تعطيل)³. Istiwa-Nya adalah kuasa-Nya yang menundukkan dan menguasai; turun-Nya adalah kebajikan dan pemberian-Nya; datang-Nya adalah ketetapan dan keputusan-Nya; wajah-Nya adalah wujud-Nya, atau kemurahan dan anugerah-Nya; mata-Nya adalah penjagaan, pertolongan, dan pilihan-Nya; tawa-Nya adalah ampunan-Nya, atau izin dan rida-Nya; tangan-Nya adalah limpahan nikmat, pemuliaan, dan pengistimewaan-Nya. Di dunia maupun di akhirat, tiada satu pun perbuatan-Nya berlaku kecuali yang menjadi iradat dan kehendak-Nya. Keagungan adalah sarung-Nya, dan kebesaran adalah selendang-Nya.ᵃ
+Segala puji bagi Allah, yang wajib wujud dan kekal-Nya, mustahil berubah dan binasa; yang agung martabat dan ketinggian-Nya, yang merata karunia dan nikmat-Nya; yang bumi dan langit-Nya menjadi dalil atas keesaan-Nya; yang sifat[^1] dan nama-Nya mahatinggi dari segala noda penyerupaan (*tashbīh*, تشبيه)[^2][^3] dan penafian (*taʿṭīl*, تعطيل)[^4][^5]. Istiwa-Nya adalah kuasa-Nya[^6] yang menundukkan dan menguasai; turun-Nya adalah kebajikan dan pemberian-Nya; datang-Nya adalah ketetapan dan keputusan-Nya; wajah-Nya adalah wujud-Nya, atau kemurahan dan anugerah-Nya; mata-Nya adalah penjagaan, pertolongan, dan pilihan-Nya; tawa-Nya adalah ampunan-Nya, atau izin dan rida-Nya; tangan-Nya adalah limpahan nikmat, pemuliaan, dan pengistimewaan-Nya. Di dunia maupun di akhirat, tiada satu pun perbuatan-Nya berlaku kecuali yang menjadi iradat dan kehendak-Nya. Keagungan adalah sarung-Nya, dan kebesaran adalah selendang-Nya.[^7]
 
-² CT: Tasybih ialah menyerupakan sifat-sifat Allah Ta'ala dengan sifat-sifat makhluk. (catatan penerjemah)
+[^3]: **Penyerupaan** (*tashbīh*; Ing. *simile*). Dalam ilmu bayan, *tashbīh* adalah penunjukan bahwa suatu hal berserikat dengan hal lain dalam suatu makna. Dalam kalam, istilah ini merujuk pada paham kaum Musyabbihah, yang menyerupakan Allah dengan makhluk dan mempersamakan-Nya dengan yang baharu. (*Kashshāf*, s.v. *al-tashbīh* dan *al-mushabbiha*.)
 
-³ CT: Taktil ialah menafikan sifat-sifat Allah, atau menakwilkannya sedemikian rupa sehingga berujung pada peniadaannya. (catatan penerjemah)
+[^5]: **Penafian** (*taʿṭīl*; Ing. *atheism*). Di kalangan ahli balagah, *taʿṭīl* adalah nama salah satu gaya tulis, yakni menyusun kata-kata tanpa huruf bertitik. Dalam istilah syariat, *al-muʿaṭṭil* adalah orang kafir yang tidak meyakini adanya Sang Pencipta. Dalam kitab ini, sejalan dengan catatan edisi Turki, istilah ini berarti peniadaan sifat-sifat Allah. (*Kashshāf*, s.v. *al-taʿṭīl*.)
 
-ᵃ CP: Kalimat penutup ini menggemakan hadis qudsi: "Kebesaran adalah selendang-Ku dan keagungan adalah sarung-Ku", riwayat Abū Dāwūd (*Kitāb al-Libās*) dan Ibn Mājah (*Kitāb al-Zuhd*); dalam riwayat Muslim (*Kitāb al-Birr wa-l-Ṣila*) dengan lafaz *al-ʿizz*.
+[^1]: **Sifat** (*ṣifa*; Ing. *quality, attribute*). Secara bahasa, *ṣifa* dan *waṣf* searti. Sebagian mutakalim membedakan keduanya: *waṣf* ada pada pihak yang menyifati, yakni ucapannya, sedangkan *ṣifa* ada pada pihak yang disifati, seperti ilmu yang ada pada Zaid. Dalam pemakaian lain, sifat adalah sesuatu yang tidak dapat dipahami secara mandiri, dan pasangannya adalah zat. (*Kashshāf*, s.v. *al-ṣifa*.)
 
-Aku memuji-Nya atas nikmat-Nya yang melimpah dan kemurahan-Nya yang indah. Aku bersaksi bahwa tiada tuhan selain Allah, Yang Esa, tiada sekutu bagi-Nya. Dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya, yang Dia utus dengan membawa petunjuk dan agama yang benar untuk Dia menangkan atas segala agama, walaupun orang-orang musyrik membencinya.ᵇ Semoga Allah melimpahkan selawat dan salam kepadanya.
+[^6]: **Kuasa** (*qudra*; Ing. *power, capacity*). Kuasa adalah sifat yang memberi pengaruh sesuai dengan kehendak. Dengan batasan "memberi pengaruh" terkecualilah ilmu, dan dengan batasan "sesuai dengan kehendak" terkecualilah tabiat benda-benda sederhana yang berpengaruh tanpa kehendak. Ada pula yang mendefinisikannya sebagai prinsip terdekat bagi perbuatan-perbuatan yang beragam. (*Kashshāf*, s.v. *al-qudra*.)
 
-ᵇ CP: Menggemakan QS at-Taubah [9]: 33 dan QS aṣ-Ṣaff [61]: 9.
+[^2]: CT: Tasybih ialah menyerupakan sifat-sifat Allah Ta'ala dengan sifat-sifat makhluk. (catatan penerjemah)
 
-Amma ba'du. Sekalipun aku tinggal di pelosok terjauh negeri-negeri Timur, aku mendengar penduduk Timur dan Barat sepakat bulat bahwa Sultan yang agung, yang alim, adil, dan pejuang, Saifuddunya wad-Din (Pedang Dunia dan Agama), Sultan Islam dan kaum muslimin, yang paling utama di antara para sultan kebenaran dan keyakinan, Abu Bakar bin Ayyub, semoga panji-panjinya dalam meneguhkan kebenaran dan mazhab yang benar⁴ terus menjulang hingga ke awan langit, dan semoga jejak cahaya kuasa dan wibawanya tetap lestari selama pagi dan petang silih berganti, adalah raja yang paling utama dan sultan yang paling sempurna dalam tanda-tanda keutamaan, bukti-bukti ketulusan, peneguhan agama yang tegak, dan pembelaan jalan yang lurus.
+[^4]: CT: Taktil ialah menafikan sifat-sifat Allah, atau menakwilkannya sedemikian rupa sehingga berujung pada peniadaannya. (catatan penerjemah)
 
-⁴ CT: Yang dimaksud adalah mazhab Ahlusunah. (catatan penerjemah)
+[^7]: CP: Kalimat penutup ini menggemakan hadis qudsi: "Kebesaran adalah selendang-Ku dan keagungan adalah sarung-Ku", riwayat Abū Dāwūd (*Kitāb al-Libās*) dan Ibn Mājah (*Kitāb al-Zuhd*); dalam riwayat Muslim (*Kitāb al-Birr wa-l-Ṣila*) dengan lafaz *al-ʿizz*.
+
+Aku memuji-Nya atas nikmat-Nya yang melimpah dan kemurahan-Nya yang indah. Aku bersaksi bahwa tiada tuhan selain Allah, Yang Esa, tiada sekutu bagi-Nya. Dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya, yang Dia utus dengan membawa petunjuk dan agama yang benar untuk Dia menangkan atas segala agama, walaupun orang-orang musyrik membencinya (at-Taubah: 33; aṣ-Ṣaff: 9). Semoga Allah melimpahkan selawat dan salam kepadanya.
+
+Amma ba'du. Sekalipun aku tinggal di pelosok terjauh negeri-negeri Timur, aku mendengar penduduk Timur dan Barat sepakat bulat bahwa Sultan yang agung, yang alim, adil, dan pejuang, Saifuddunya wad-Din (Pedang Dunia dan Agama), Sultan Islam dan kaum muslimin, yang paling utama di antara para sultan kebenaran dan keyakinan, Abu Bakar bin Ayyub, semoga panji-panjinya dalam meneguhkan kebenaran dan mazhab yang benar[^8] terus menjulang hingga ke awan langit, dan semoga jejak cahaya kuasa dan wibawanya tetap lestari selama pagi dan petang silih berganti, adalah raja yang paling utama dan sultan yang paling sempurna dalam tanda-tanda keutamaan, bukti-bukti ketulusan, peneguhan agama yang tegak, dan pembelaan jalan yang lurus.
+
+[^8]: CT: Yang dimaksud adalah mazhab Ahlusunah. (catatan penerjemah)
 
 Maka aku ingin mempersembahkan kepadanya suatu persembahan yang luhur dan hadiah yang berkenan. Kupersembahkanlah kepadanya kitab ini, yang kunamai *Asās al-Taqdīs*, meski rumah berjauhan dan negeri berlainan. Aku memohon kepada Allah Yang Maha Pemurah agar dengan karunia dan kemurahan-Nya Dia menjadikan kitab ini bermanfaat baginya di dunia dan akhirat. Kitab ini kususun dalam empat bagian.
 
@@ -283,35 +296,105 @@ Premis-premis itu ada tiga.
 
 *(Tr. h. 27)*
 
-Ketahuilah, kami menyatakan adanya suatu maujud (*mawjūd*, موجود) yang tidak mungkin ditunjuk oleh indra sebagai "di sini" atau "di sana". Atau, dengan kata lain, kami menyatakan adanya suatu maujud yang tidak terikat pada ruang (*ḥayyiz*, حيز) dan arah mana pun. Atau lagi, kami menyatakan adanya suatu maujud yang tidak berada di dalam alam, dan tidak pula terpisah darinya pada salah satu dari enam arah alam. Ungkapan-ungkapan ini berlainan, tetapi yang dimaksud oleh semuanya satu jua.
+Ketahuilah, kami menyatakan adanya suatu maujud (*mawjūd*, موجود)[^9] yang tidak mungkin ditunjuk oleh indra[^10] sebagai "di sini" atau "di sana". Atau, dengan kata lain, kami menyatakan adanya suatu maujud yang tidak terikat pada ruang (*ḥayyiz*, حيز)[^11] dan arah mana pun. Atau lagi, kami menyatakan adanya suatu maujud yang tidak berada di dalam alam[^12], dan tidak pula terpisah darinya pada salah satu dari enam arah alam. Ungkapan-ungkapan ini berlainan, tetapi yang dimaksud oleh semuanya satu jua.
 
-Sebagian penentang mengklaim bahwa kekeliruan premis-premis ini diketahui secara niscaya. Alasan mereka: ada pengetahuan niscaya (*ʿilm ḍarūrī*, علم ضروري) bahwa dari setiap dua maujud, mau tidak mau, yang satu pasti berada di dalam yang lain, atau terpisah darinya dengan menempati salah satu dari enam arah yang mengitarinya. Menurut mereka, menetapkan dua maujud di luar ketujuh kemungkinan ini batil menurut akal pada tingkat paling dasarnya. Ketahuilah, seandainya premis ini terbukti swabukti (*badīhī*, بديهي), tidak dibenarkan lagi kita masuk ke dalam uraian dalil-dalil. Sebab, jika keadaannya memang seperti yang mereka katakan, upaya membuktikan bahwa Allah Ta'ala tidak berada di dalam alam dan tidak pula terpisah darinya pada suatu arah berarti meruntuhkan pengetahuan-pengetahuan niscaya. Menggugat yang niscaya dengan yang nazari sama saja dengan menggugat pokok dengan cabangnya sendiri, dan itu membuka celah gugatan terhadap pokok dan cabang sekaligus. Ini batil. Maka kita wajib terlebih dahulu menjelaskan bahwa premis ini bukan termasuk premis yang swabukti, agar kemusykilan ini sirna. Kami katakan: ada beberapa segi yang menunjukkan bahwa premis-premis ini tidak swabukti.
+[^9]: **Maujud** (*mawjūd*; dari *wujūd*, Ing. *being, existence*). Lawan wujud adalah ketiadaan (*ʿadam*). Para ulama berbeda pendapat apakah wujud dapat didefinisikan: sebagian berpendapat konsepnya swabukti sehingga hanya dapat dijelaskan secara verbal, sebagian lagi berpendapat ia sama sekali tidak dapat dikonsepsikan. Di antara definisi yang dikemukakan: maujud adalah yang tetap entitasnya (*al-thābit al-ʿayn*); atau yang terbagi menjadi pelaku dan penerima, baharu dan qadim; atau yang dapat diketahui dan diberitakan. (*Kashshāf*, s.v. *al-wujūd*.)
 
-**Pertama**, mayoritas kaum berakal yang diperhitungkan telah sepakat bahwa Allah Ta'ala tidak menempati ruang dan tidak terikat pada arah mana pun, dan bahwa Dia tidak berada di dalam alam dan tidak pula terpisah darinya pada arah mana pun. Seandainya kekeliruan premis-premis ini diketahui secara swabukti, mustahillah sebagian besar kaum berakal bersepakat mengingkarinya, sebab himpunan besar orang berakal tidak mungkin bersepakat mengingkari hal-hal yang niscaya. Bahkan kami katakan: para filsuf telah sepakat menetapkan adanya maujud-maujud yang tidak menempati ruang dan tidak pula berada di dalam sesuatu yang menempati ruang, seperti akal-akal, jiwa-jiwa, dan hayula. Bahkan mereka berpendapat bahwa sesuatu yang ditunjuk oleh setiap manusia ketika ia berkata "aku maujud" bukanlah jisim dan bukan pula sesuatu yang jasmani. Tak seorang pun mengatakan bahwa dengan klaim ini mereka mengingkari hal-hal yang swabukti. Lebih dari itu, sejumlah besar kaum muslim memilih pendapat mereka, seperti Mu'ammar bin Abbad as-Sulami dari kalangan Muktazilah, Muhammad bin Nu'man dari kalangan Rafidah, serta Abul Qasim ar-Raghib dan Abu Hamid al-Ghazali dari kalangan kami. Jika demikian halnya, bagaimana mungkin dikatakan bahwa pendapat "Allah tidak menempati ruang dan tidak berada di dalam sesuatu yang menempati ruang" adalah pendapat yang tertolak oleh akal pada tingkat paling dasarnya?
+[^10]: **Indra** (*ḥiss*; Ing. *sensation*). *Ḥiss* adalah daya pencerap jiwa. Para mutakalim hanya mengakui lima indra lahir: penglihatan, pendengaran, pengecapan, penciuman, dan perabaan. Lima indra batin, yaitu indra bersama (*al-ḥiss al-mushtarak*), khayal, waham, daya penyimpan, dan daya pengolah, adalah rumusan para filsuf. (*Kashshāf*, s.v. *al-ḥiss*.)
 
-**Kedua**, apabila kita menghadapkan kepada akal adanya suatu maujud yang tidak berada di dalam alam dan tidak pula terpisah darinya pada salah satu dari enam arah, lalu kita hadapkan pula kepadanya bahwa satu adalah separuh dari dua, dan bahwa penafian dan penetapan tidak mungkin berhimpun, kita dapati akal tertegun pada premis pertama, tetapi tegas memutuskan pada premis kedua. Perbedaan ini diketahui secara niscaya, dan itu menunjukkan bahwa akal tidak memastikan apa pun tentang premis pertama, baik menafikan maupun menetapkannya. Lebih jauh kami katakan: ketika kita melihat bahwa akal tidak memutuskan premis tersebut sebagaimana ia memutuskan bahwa satu adalah separuh dari dua, kita tahu bahwa akal tidak memastikan bahwa segala sesuatu selain alam mesti berada di dalam alam atau terpisah darinya secara arah; sebaliknya, akal membolehkan kebalikannya. Jika ini telah tetap, kami katakan: dugaan tersebut muncul semata-mata karena daya waham (*wahm*, وهم) dan daya khayal (*khayāl*, خيال) tidak bekerja kecuali pada hal-hal indrawi. Maka tak ayal keduanya cenderung memberlakukan atas segala sesuatu hukum-hukum yang hanya layak bagi hal-hal indrawi. Jadi kecenderungan ini lahir dari daya waham dan daya khayal, sama sekali bukan dari akal.
+[^11]: **Ruang** (*ḥayyiz*; Ing. *space, locus*). Secara bahasa, *ḥayyiz* berarti kekosongan (*farāgh*) secara mutlak. Bagi para mutakalim, ia adalah kekosongan yang diandaikan (*al-farāgh al-mutawahham*) yang diisi oleh sesuatu yang menempati ruang; seandainya tidak diisi, ia disebut hampa (*khalāʾ*). Sebagian menyamakan *ḥayyiz* dengan *makān* (tempat), sebagian lagi membedakannya: *ḥayyiz* dipandang terlepas dari ada atau tidaknya jisim yang mengisinya, sedangkan *makān* dipandang bersama jisim yang mengisinya. (*Kashshāf*, s.v. *al-ḥayyiz*.)
+
+[^12]: **Alam** (*al-ʿālam*; Ing. *world, universe*). Secara bahasa, *ʿālam* adalah sesuatu yang dengannya hal lain diketahui. Istilah ini lazim dipakai untuk apa yang dengannya Sang Pencipta diketahui, yaitu seluruh maujud selain Allah, baik substansi maupun aksiden, yang kemungkinan dan kebutuhannya menunjukkan adanya Yang Wajib Ada. Karena itu, sifat-sifat Allah yang qadim tidak termasuk alam. (*Kashshāf*, s.v. *al-ʿālam*.)
+
+Sebagian penentang mengklaim bahwa kekeliruan premis-premis ini diketahui secara niscaya. Alasan mereka: ada pengetahuan niscaya (*ʿilm ḍarūrī*, علم ضروري)[^13] bahwa dari setiap dua maujud, mau tidak mau, yang satu pasti berada di dalam yang lain, atau terpisah darinya dengan menempati salah satu dari enam arah yang mengitarinya. Menurut mereka, menetapkan dua maujud di luar ketujuh kemungkinan ini batil menurut akal pada tingkat paling dasarnya. Ketahuilah, seandainya premis ini terbukti swabukti (*badīhī*, بديهي)[^14], tidak dibenarkan lagi kita masuk ke dalam uraian dalil-dalil[^15]. Sebab, jika keadaannya memang seperti yang mereka katakan, upaya membuktikan bahwa Allah Ta'ala tidak berada di dalam alam dan tidak pula terpisah darinya pada suatu arah berarti meruntuhkan pengetahuan-pengetahuan niscaya. Menggugat yang niscaya dengan yang nazari[^16] sama saja dengan menggugat pokok dengan cabangnya sendiri, dan itu membuka celah gugatan terhadap pokok dan cabang sekaligus. Ini batil. Maka kita wajib terlebih dahulu menjelaskan bahwa premis ini bukan termasuk premis yang swabukti, agar kemusykilan ini sirna. Kami katakan: ada beberapa segi yang menunjukkan bahwa premis-premis ini tidak swabukti.
+
+[^15]: **Dalil** (*dalīl*; Ing. *proof, demonstration, sign*). Secara bahasa, dalil adalah penunjuk jalan. Menurut ahli usul dan mutakalim, dalil dalam arti umum adalah sesuatu yang dengan penalaran yang benar terhadapnya dapat dicapai suatu tuntutan berupa proposisi, baik pasti maupun dugaan. Dalam arti khusus, ia hanya yang menghasilkan pengetahuan pasti, yang disebut burhan; sedangkan yang menghasilkan dugaan disebut tanda (*amāra*). (*Kashshāf*, s.v. *al-dalīl*.)
+
+[^13]: **Niscaya** (*ḍarūrī*; Ing. *necessary*). Dalam istilah para ulama, *ḍarūrī* adalah lawan *naẓarī* (hasil penalaran). Para mutakalim memandang keduanya sebagai dua bagian pengetahuan yang baharu, sehingga ilmu Allah tidak disifati dengan keduanya. Al-Qadi Abu Bakar al-Baqillani mendefinisikan pengetahuan niscaya sebagai pengetahuan yang melekat pada jiwa makhluk sedemikian rupa sehingga ia tidak menemukan jalan untuk melepaskan diri darinya. (*Kashshāf*, s.v. *al-ḍarūrī*.)
+
+[^14]: **Swabukti** (*badīhī*; Ing. *self-evident, axiom*). Istilah ini memiliki beberapa makna: sinonim *ḍarūrī* sebagai lawan *naẓarī*; premis-premis primer (*awwaliyyāt*), yang cukup dengan membayangkan kedua ujung proposisi dan hubungannya agar akal memastikannya; dan apa yang ditetapkan akal semata karena ia menaruh perhatian padanya, tanpa bantuan indra atau yang lain. Makna ketiga ini lebih khusus daripada *ḍarūrī*, karena *ḍarūrī* juga mencakup hal-hal indrawi dan empiris. (*Kashshāf*, s.v. *al-badīhī*.)
+
+[^16]: **Nazari** (*naẓarī*; Ing. *speculative*). *Naẓarī* adalah lawan *ḍarūrī*: pengetahuan yang diperoleh melalui penalaran, disebut juga *kasbī* (hasil usaha). Istilah yang sama dipakai pula sebagai lawan *ʿamalī* (praktis). (*Kashshāf*, s.v. *al-naẓarī*.)
+
+**Pertama**, mayoritas kaum berakal yang diperhitungkan telah sepakat bahwa Allah Ta'ala tidak menempati ruang dan tidak terikat pada arah mana pun, dan bahwa Dia tidak berada di dalam alam dan tidak pula terpisah darinya pada arah mana pun. Seandainya kekeliruan premis-premis ini diketahui secara swabukti, mustahillah sebagian besar kaum berakal bersepakat mengingkarinya, sebab himpunan besar orang berakal tidak mungkin bersepakat mengingkari hal-hal yang niscaya. Bahkan kami katakan: para filsuf[^17] telah sepakat menetapkan adanya maujud-maujud yang tidak menempati ruang dan tidak pula berada di dalam sesuatu yang menempati ruang, seperti akal-akal[^18], jiwa-jiwa, dan hayula[^19]. Bahkan mereka berpendapat bahwa sesuatu yang ditunjuk oleh setiap manusia ketika ia berkata "aku maujud" bukanlah jisim dan bukan pula sesuatu yang jasmani. Tak seorang pun mengatakan bahwa dengan klaim ini mereka mengingkari hal-hal yang swabukti. Lebih dari itu, sejumlah besar kaum muslim memilih pendapat mereka, seperti Mu'ammar bin Abbad as-Sulami dari kalangan Muktazilah[^20], Muhammad bin Nu'man dari kalangan Rafidah, serta Abul Qasim ar-Raghib dan Abu Hamid al-Ghazali dari kalangan kami. Jika demikian halnya, bagaimana mungkin dikatakan bahwa pendapat "Allah tidak menempati ruang dan tidak berada di dalam sesuatu yang menempati ruang" adalah pendapat yang tertolak oleh akal pada tingkat paling dasarnya?
+
+[^20]: **Muktazilah** (*al-Muʿtazila*; Ing. *Mutazilites*). Golongan besar dalam Islam, pengikut Wasil bin Atha yang memisahkan diri (*iʿtazala*) dari majelis al-Hasan al-Bashri setelah menyatakan bahwa pelaku dosa besar bukan mukmin mutlak dan bukan pula kafir, melainkan berada pada posisi di antara dua posisi. Mereka dijuluki juga Qadariyah karena menyandarkan perbuatan manusia kepada manusia sendiri, dan menamai diri "ahli keadilan dan tauhid". (*Kashshāf*, s.v. *al-Muʿtazila*.)
+
+[^18]: **Akal** (*ʿaql*; Ing. *reason, intellect*). Di antara makna-maknanya: daya memahami (*taʿaqqul*), yaitu mencerap sesuatu yang terlepas dari aksiden-aksiden material; dan, dalam falsafah, substansi yang abstrak dalam zat dan perbuatannya, yang bukan jisim, tidak bertempat di dalam jisim, dan perbuatannya tidak bergantung pada alat jasmani. Dalam pengertian terakhir inilah para filsuf menetapkan "akal-akal"; para mutakalim berpendapat keberadaannya belum terbukti dengan dalil, dan sebagian dari mereka memastikan kemustahilannya. (*Kashshāf*, s.v. *al-ʿaql*.)
+
+[^19]: **Hayula** (*hayūlā*; Ing. *matter*). Bagi para filsuf, hayula adalah sesuatu yang menerima bentuk-bentuk secara mutlak tanpa terkhusus pada bentuk tertentu, dan disebut juga materi (*mādda*). Kaum Peripatetik berpendapat jisim tersusun dari hayula dan bentuk jisim (*al-ṣūra al-jismiyya*); kaum Isyraqi tidak menetapkannya dan memandang jisim sederhana pada dirinya; sedangkan para mutakalim berpendapat jisim tersusun dari atom-atom yang berhingga jumlahnya. (*Kashshāf*, s.v. *al-hayūlā*.)
+
+[^17]: **Para filsuf** (*al-ḥukamāʾ*, *al-falāsifa*; dari *ḥikma*, Ing. *wisdom, philosophy*). *Ḥikma* pada asalnya berarti kecermatan dalam perbuatan dan ucapan. Dalam istilah para ulama, salah satu maknanya adalah ilmu hikmah, yakni falsafah dengan cabang-cabang teoretis dan praktisnya; dari sinilah para filsuf disebut *ḥukamāʾ*. (*Kashshāf*, s.v. *al-ḥikma*.)
+
+**Kedua**, apabila kita menghadapkan kepada akal adanya suatu maujud yang tidak berada di dalam alam dan tidak pula terpisah darinya pada salah satu dari enam arah, lalu kita hadapkan pula kepadanya bahwa satu adalah separuh dari dua, dan bahwa penafian dan penetapan tidak mungkin berhimpun, kita dapati akal tertegun pada premis pertama, tetapi tegas memutuskan pada premis kedua. Perbedaan ini diketahui secara niscaya, dan itu menunjukkan bahwa akal tidak memastikan apa pun tentang premis pertama, baik menafikan maupun menetapkannya. Lebih jauh kami katakan: ketika kita melihat bahwa akal tidak memutuskan premis tersebut sebagaimana ia memutuskan bahwa satu adalah separuh dari dua, kita tahu bahwa akal tidak memastikan bahwa segala sesuatu selain alam mesti berada di dalam alam atau terpisah darinya secara arah; sebaliknya, akal membolehkan kebalikannya. Jika ini telah tetap, kami katakan: dugaan[^21] tersebut muncul semata-mata karena daya waham (*wahm*, وهم)[^22] dan daya khayal (*khayāl*, خيال)[^23] tidak bekerja kecuali pada hal-hal indrawi. Maka tak ayal keduanya cenderung memberlakukan atas segala sesuatu hukum-hukum yang hanya layak bagi hal-hal indrawi. Jadi kecenderungan ini lahir dari daya waham dan daya khayal, sama sekali bukan dari akal.
+
+[^22]: **Daya waham** (*wahm*; Ing. *illusion, imagination*). *Wahm* dipakai untuk keyakinan yang lemah tentang sesuatu, dan juga untuk daya estimatif, salah satu indra batin, yang menurut para filsuf berada di rongga tengah otak. Daya ini mencerap makna-makna partikular yang terdapat dalam hal-hal indrawi, seperti daya pada domba yang memutuskan bahwa serigala mesti dihindari. (*Kashshāf*, s.v. *al-wahm*.)
+
+[^23]: **Daya khayal** (*khayāl*; Ing. *image, imagination*). Menurut para filsuf, *khayāl* adalah salah satu indra batin: daya yang menyimpan bentuk-bentuk yang tergambar dalam indra bersama setelah bentuk-bentuk itu lenyap dari indra lahir. Menurut jumhur, tempatnya di bagian belakang rongga pertama otak. (*Kashshāf*, s.v. *al-khayāl*.)
+
+[^21]: **Dugaan** (*ẓann*; Ing. *opinion, presumption, assumption*). Menurut para mutakalim, *ẓann* adalah membolehkan dua kemungkinan yang salah satunya lebih kuat dari yang lain; yang lebih lemah disebut *wahm*. *Sharḥ al-Tajrīd* merumuskannya sebagai keyakinan yang condong pada salah satu dari dua sisi, afirmasi atau negasi, tanpa kepastian, sehingga ia menerima kuat dan lemah. (*Kashshāf*, s.v. *al-ẓann*.)
 
 **Ketiga**, apabila kita katakan, "Maujud itu adakalanya menempati ruang, atau berada di dalam sesuatu yang menempati ruang, atau tidak menempati ruang dan tidak pula berada di dalam sesuatu yang menempati ruang," kita dapati akal memastikan kesahihan pembagian ini. Sebaliknya, jika kita katakan, "Maujud itu adakalanya menempati ruang atau berada di dalam sesuatu yang menempati ruang," dan kita cukupkan sampai di situ, kita tahu secara niscaya bahwa pembagian ini tidak lengkap dan tidak mencakup semua kemungkinan, dan bahwa ia baru lengkap dengan menambahkan bagian ketiga, yaitu: "atau tidak menempati ruang dan tidak pula berada di dalam sesuatu yang menempati ruang." Jika demikian, kita tahu secara niscaya bahwa kemungkinan bagian ketiga ini, yakni adanya maujud yang tidak menempati ruang dan tidak pula berada di dalam sesuatu yang menempati ruang, tetap tegak di dalam akal tanpa sanggahan dan tanpa bantahan; dan bahwa penafian ataupun penetapannya tidak dapat dipastikan kecuali dengan dalil tersendiri.
 
-**Keempat**, kita tahu secara niscaya bahwa individu-individu manusia sama-sama memiliki pengertian kemanusiaan, tetapi berbeda satu sama lain dalam kekhususan dan ketertentuan masing-masing; dan bahwa titik kesamaan berlainan dengan titik pembeda. Ini menuntut kita untuk mengatakan bahwa kemanusiaan, sejauh ia kemanusiaan, terlepas dari bentuk tertentu. Kemanusiaan, sejauh ia adalah dirinya sendiri, adalah sesuatu yang terpahami oleh akal dan abstrak (*maʿqūl mujarrad*, معقول مجرد). Dengan demikian, penelitian dan penyelidikan telah mengeluarkan dari yang indrawi sesuatu yang terpahami oleh akal dan abstrak. Jika demikian, bagaimana akal dapat menganggap janggal bahwa Pencipta segala yang indrawi itu mahasuci dari segala yang mengiringi indra dan segala yang bertaut dengan khayal?
+**Keempat**, kita tahu secara niscaya bahwa individu-individu manusia sama-sama memiliki pengertian kemanusiaan, tetapi berbeda satu sama lain dalam kekhususan dan ketertentuan masing-masing; dan bahwa titik kesamaan berlainan dengan titik pembeda. Ini menuntut kita untuk mengatakan bahwa kemanusiaan, sejauh ia kemanusiaan, terlepas dari bentuk tertentu. Kemanusiaan, sejauh ia adalah dirinya sendiri, adalah sesuatu yang terpahami oleh akal dan abstrak (*maʿqūl mujarrad*, معقول مجرد)[^24][^25]. Dengan demikian, penelitian dan penyelidikan telah mengeluarkan dari yang indrawi sesuatu yang terpahami oleh akal dan abstrak. Jika demikian, bagaimana akal dapat menganggap janggal bahwa Pencipta segala yang indrawi itu mahasuci dari segala yang mengiringi indra dan segala yang bertaut dengan khayal?
 
-**Kelima**, setiap esensi (*māhiyya*, ماهية), apabila kita memandangnya dari sisi definisi dan hakikatnya, dapat kita pahami ketika kita lalai dari posisi dan ruang. Bagaimana tidak, sementara manusia, ketika pikirannya tenggelam dalam upaya memahami apa definisi ilmu dan apa definisi tabiat, pada saat itu lalai dari hakikat ruang dan ukuran, apalagi memutuskan bahwa hakikat tersebut mesti terikat pada suatu wadah atau arah. Ini menunjukkan bahwa kita dapat memahami esensi-esensi ketika kita alpa dari ruang, bentuk, dan ukuran.
+[^24]: **Abstrak** (*mujarrad*; Ing. *abstract*). Menurut para filsuf dan mutakalim, *mujarrad* adalah maujud mungkin yang tidak menempati ruang dan tidak pula bertempat di dalam sesuatu yang menempati ruang; disebut juga *mufāriq* (yang terpisah dari materi). Para filsuf berdalil tentang wujud dan keqadimannya. Sebagian mutakalim memandangnya sebagai salah satu jenis yang baharu, sebagian memastikan kemustahilannya, dan jumhur mereka berpendapat keberadaannya belum terbukti. (*Kashshāf*, s.v. *al-mujarrad*.)
+
+[^25]: **Terpahami oleh akal** (*maʿqūl*; Ing. *intelligible*). *Maʿqūl* adalah apa yang dipahami akal pada tingkat pertama, baik ada maupun tiada, sederhana maupun tersusun. Adapun yang hanya dipahami sebagai aksiden bagi hal terpahami lain dan tidak memiliki padanan di luar pikiran, seperti wajib, mungkin, dan mustahil, disebut *maʿqūl thānī* (terpahami tingkat kedua). (*Kashshāf*, s.v. *al-maʿqūl*.)
+
+**Kelima**, setiap esensi (*māhiyya*, ماهية)[^26], apabila kita memandangnya dari sisi definisi dan hakikatnya, dapat kita pahami ketika kita lalai dari posisi[^27] dan ruang. Bagaimana tidak, sementara manusia, ketika pikirannya tenggelam dalam upaya memahami apa definisi ilmu dan apa definisi tabiat, pada saat itu lalai dari hakikat[^28] ruang dan ukuran[^29], apalagi memutuskan bahwa hakikat tersebut mesti terikat pada suatu wadah[^30] atau arah. Ini menunjukkan bahwa kita dapat memahami esensi-esensi ketika kita alpa dari ruang, bentuk[^31], dan ukuran.
+
+[^26]: **Esensi** (*māhiyya*; Ing. *essence, quiddity*). Bagi para ahli logika, esensi adalah jawaban atas pertanyaan "apakah ia?" (*mā huwa*). Bagi para mutakalim dan filsuf, esensi adalah sesuatu yang dengannya sesuatu menjadi dirinya (*mā bihi al-shayʾ huwa huwa*). (*Kashshāf*, s.v. *al-māhiyya*.)
+
+[^27]: **Posisi** (*waḍʿ*; Ing. *situation, position*). Di antara berbagai maknanya, bagi para filsuf *waḍʿ* adalah salah satu kategori aksiden: keadaan jisim yang timbul dari hubungan bagian-bagiannya satu sama lain dan dengan hal-hal di luarnya, seperti berdiri dan duduk. (*Kashshāf*, s.v. *al-waḍʿ*.)
+
+[^28]: **Hakikat** (*ḥaqīqa*; Ing. *truth, true meaning*). Istilah ini homonim. Dalam ilmu bayan dan usul fikih, *ḥaqīqa* adalah lafaz yang dipakai dalam makna asal yang untuknya ia diletakkan, lawan dari majaz; dari sinilah padanan "makna hakiki". Dalam pengertian ontologis, hakikat adalah sesuatu yang dengannya sesuatu menjadi dirinya, sehingga searti dengan esensi (lihat s.v. *al-māhiyya*). (*Kashshāf*, s.v. *al-ḥaqīqa*.)
+
+[^30]: **Wadah** (*maḥall*; Ing. *receptacle, place*). *Maḥall* adalah penampung (*ẓarf*) bagi *ḥulūl*: sesuatu yang di dalamnya sifat atau aksiden bertempat. Istilah ini lebih umum daripada *mawḍūʿ* (subjek), yaitu wadah yang tidak membutuhkan apa yang bertempat di dalamnya. (*Kashshāf*, s.v. *al-maḥall*.)
+
+[^29]: **Ukuran** (*miqdār*; Ing. *quantity, measure*). Bagi para filsuf, *miqdār* adalah kuantitas bersambung yang tetap (*al-kamm al-muttaṣil al-qārr*): garis, permukaan, dan jisim matematis. Para mutakalim menolak keberadaannya sebagai sesuatu yang berdiri sendiri, karena menurut mereka jisim tersusun dari atom-atom: atom yang berjajar pada satu garis membentuk garis, dan yang tersusun ke tiga arah membentuk jisim. (*Kashshāf*, s.v. *al-miqdār*.)
+
+[^31]: **Bentuk** (*shakl*; Ing. *aspect*). Dalam falsafah, *shakl* adalah keadaan (*hayʾa*) suatu besaran, yakni jisim matematis atau permukaan, karena ia dilingkupi oleh satu batas, seperti bola, atau oleh beberapa batas, seperti segitiga. (*Kashshāf*, s.v. *al-shakl*.)
 
 **Keenam**, seseorang di antara kita, ketika pikiran dan renungannya tenggelam dalam memecahkan suatu masalah yang pelik, terkadang berkata dalam hatinya, "Aku telah memutuskan begini," atau "Aku telah memahami begitu." Pada saat ia berkata dalam hatinya "aku telah memahami begini dan memutuskan begitu", ia mengenal dirinya sendiri. Sebab, sekiranya ia tidak mengenal dirinya, mustahillah ia memutuskan tentang dirinya bahwa ia telah memutuskan begini atau mengetahui begitu. Padahal pada saat itu ia bisa saja lalai dari makna ruang dan arah, juga dari makna bentuk dan ukuran, apalagi mengetahui bahwa dirinya berada dalam ruang atau bersifat dengan bentuk dan ukuran. Maka tetaplah bahwa pengetahuan tentang sesuatu dapat hadir tanpa pengetahuan tentang ruang, bentuk, dan ukurannya. Ini memberi kepastian bahwa sesuatu yang terlepas dari posisi dan arah sah untuk dipahami oleh akal.
 
 **Ketujuh**, kita melihat segala sesuatu, tetapi daya penglihatan tidak melihat dirinya sendiri. Demikian pula daya khayal mengkhayalkan segala sesuatu, tetapi daya ini tidak mampu mengkhayalkan dirinya sendiri. Maka keberadaan daya penglihatan menunjukkan bahwa tidak semua hal mesti dapat dikhayalkan. Ini membuka pintu bagi kemungkinan yang telah disebutkan.
 
-**Kedelapan**, lawan-lawan kami mau tidak mau harus mengakui adanya sesuatu yang menyalahi hukum indra dan khayal. Sebab, lawan kami dalam persoalan ini tidak lain adalah kaum Karramiyah atau kaum Hanbali. Adapun Karramiyah, jika kami katakan kepada mereka, "Sekiranya Allah Ta'ala dapat ditunjuk oleh indra, maka sesuatu itu adakalanya terbagi, sehingga ia tersusun, padahal kalian tidak berpendapat demikian; atau tidak terbagi, sehingga dalam kecil dan remehnya ia seperti titik yang tak terbagi dan seperti partikel yang tak terbagi lagi, padahal kalian juga tidak berpendapat demikian," maka pada titik ini mereka menjawab, "Dia Esa, mahasuci dari ketersusunan dan perpaduan, namun Dia tidak kecil dan tidak remeh." Sudah maklum bahwa pendirian yang mereka pegang ini tidak dapat diterima oleh indra dan khayal, bahkan tidak pula oleh akal. Sebab, sesuatu yang dapat ditunjuk oleh indra, jika ia memiliki bentangan pada arah dan ruang, maka satu sisinya berlainan dengan sisi yang lain, dan menurut akal yang paling dasar ini meniscayakan keterbagian; dan jika ia tidak memiliki bentangan pada arah mana pun, tidak ke kanan, tidak ke kiri, tidak ke atas, dan tidak ke bawah, maka ia adalah titik yang tak terbagi, pada puncak kecil dan remeh. Maka, jika mereka tidak merasa janggal untuk berpegang bahwa Dia tidak menerima pembagian sekaligus agung dan tak berhingga bentangannya, ini berarti menghimpun penafian dan penetapan, sesuatu yang tertolak oleh akal pada tingkat paling dasarnya.
+**Kedelapan**, lawan-lawan kami mau tidak mau harus mengakui adanya sesuatu yang menyalahi hukum indra dan khayal. Sebab, lawan kami dalam persoalan ini tidak lain adalah kaum Karramiyah[^32] atau kaum Hanbali. Adapun Karramiyah, jika kami katakan kepada mereka, "Sekiranya Allah Ta'ala dapat ditunjuk oleh indra, maka sesuatu itu adakalanya terbagi, sehingga ia tersusun, padahal kalian tidak berpendapat demikian; atau tidak terbagi, sehingga dalam kecil dan remehnya ia seperti titik yang tak terbagi dan seperti partikel yang tak terbagi lagi, padahal kalian juga tidak berpendapat demikian," maka pada titik ini mereka menjawab, "Dia Esa, mahasuci dari ketersusunan dan perpaduan, namun Dia tidak kecil dan tidak remeh." Sudah maklum bahwa pendirian yang mereka pegang ini tidak dapat diterima oleh indra dan khayal, bahkan tidak pula oleh akal. Sebab, sesuatu yang dapat ditunjuk oleh indra, jika ia memiliki bentangan[^33] pada arah dan ruang, maka satu sisinya berlainan dengan sisi yang lain, dan menurut akal yang paling dasar ini meniscayakan keterbagian; dan jika ia tidak memiliki bentangan pada arah mana pun, tidak ke kanan, tidak ke kiri, tidak ke atas, dan tidak ke bawah, maka ia adalah titik yang tak terbagi, pada puncak kecil dan remeh. Maka, jika mereka tidak merasa janggal untuk berpegang bahwa Dia tidak menerima pembagian sekaligus agung dan tak berhingga bentangannya, ini berarti menghimpun penafian dan penetapan, sesuatu yang tertolak oleh akal pada tingkat paling dasarnya.
 
-Adapun kaum Hanbali yang menerima adanya bagian-bagian dan potongan-potongan (pada Zat Allah), mereka pun mengakui bahwa Zat Allah Ta'ala berbeda dengan zat-zat indrawi ini. Dia tidak sama dengan zat-zat ini dalam hal menerima perhimpunan dan perpisahan, perubahan dan kefanaan, sehat dan sakit, hidup dan mati. Sebab, sekiranya Zat-Nya sama dengan zat-zat lain dalam sifat-sifat tersebut, niscaya Dia membutuhkan pencipta lain, lalu terjadilah regresi tak berhingga (*tasalsul*, تسلسل); atau niscaya harus dikatakan bahwa kemungkinan dan kebaharuan tidak membutuhkan pencipta, dan dari situ lahir penafian Sang Pencipta. Maka tetaplah bahwa mereka mau tidak mau harus mengakui bahwa kekhususan Zat-Nya, yang membedakan-Nya dari zat-zat lain, adalah sesuatu yang hakikat terdalamnya tidak terjangkau oleh daya waham dan daya khayal. Ini adalah pengakuan atas adanya sesuatu yang menyalahi apa yang diputuskan oleh waham dan ditetapkan oleh khayal. Jika demikian halnya, apa janggalnya adanya suatu maujud yang tidak berada di dalam alam dan tidak pula terpisah dari alam secara arah, meskipun daya waham dan daya khayal tidak mampu menangkap maujud tersebut? Lagi pula, pegangan pokok mazhab Hanbali ialah bahwa setiap kali mereka berpegang pada suatu ayat atau hadis yang makna lahiriahnya memberi kesan adanya anggota dan organ tubuh, mereka menegaskan, "Kami menetapkan makna ini bagi Allah Ta'ala dengan cara yang berbeda dari yang berlaku bagi makhluk." Maka mereka menetapkan bagi Allah Ta'ala wajah yang tidak seperti wajah makhluk dan tangan yang tidak seperti tangan makhluk. Sudah maklum bahwa tangan dan wajah dalam pengertian yang mereka sebutkan itu tidak dapat diterima oleh khayal dan waham. Jika menetapkan hal itu dapat dipahami sekalipun menyalahi waham dan khayal, apa janggalnya mengatakan bahwa Allah Ta'ala maujud, tetapi tidak di dalam alam dan tidak di luar alam, meskipun daya waham dan daya khayal tak sanggup menangkap wujud ini?
+[^33]: **Bentangan** (*imtidād*; bandingkan *buʿd*, Ing. *distance, dimension*). Menurut para mutakalim, *buʿd* adalah bentangan yang diandaikan, yang layak diisi oleh jisim, dan disebut juga hampa (*khalāʾ*). Menurut para filsuf, ia adalah bentangan yang maujud: jika berada di dalam materi, ia adalah jisim matematis, dan jika terlepas dari materi, ia adalah hampa. (*Kashshāf*, s.v. *al-buʿd*.)
 
-**Kesembilan**, kaum penyerupa berkata, "Alam dan Sang Pencipta adalah dua maujud, dan dari setiap dua maujud, adakalanya yang satu berada di dalam yang lain, atau terpisah darinya." Mereka berkata, "Keharusan pembatasan ini diketahui secara niscaya." Mereka berkata lagi, "Pendapat bahwa Dia bertempat di dalam alam (*ḥulūl*, حلول) itu mustahil; maka pastilah Dia terpisah dari alam secara arah." Dengan jalan inilah mereka berhujah bahwa Allah Ta'ala terikat pada ruang dan arah. Adapun kaum Dahriyah¹ berkata, "Alam dan Sang Pencipta adalah dua maujud, dan dari setiap dua maujud, adakalanya keduanya ada bersamaan, atau yang satu mendahului yang lain. Mustahil alam dan Sang Pencipta ada bersamaan, sebab jika demikian niscaya alam itu qadim atau Sang Pencipta itu baharu, dan keduanya mustahil. Maka tetaplah bahwa Sang Pencipta mendahului alam." Kemudian mereka berkata, "Ada pengetahuan niscaya bahwa kedahuluan ini tidak lain kecuali dengan waktu dan rentang masa. Jika ini tetap, maka jika kedahuluan Sang Pencipta itu dengan rentang masa yang berhingga, niscaya Sang Pencipta baharu; dan jika dengan rentang masa yang tak berawal, niscaya rentang masa itu qadim." Dengan jalan ini mereka menyimpulkan qadimnya rentang masa dan waktu.
+[^32]: **Karramiyah** (*al-Karrāmiyya*; Ing. *al-Kiramiyya (sect)*). Salah satu golongan Musyabbihah, pengikut Abu Abdillah Muhammad bin Karram. (*Kashshāf*, s.v. *al-Karrāmiyya*.)
 
-¹ CT: Kaum Dahriyah ialah orang-orang yang menisbahkan sejumlah sifat ketuhanan kepada masa dan meyakini bahwa masa itu azali. Aliran filsafat yang berpandangan demikian sudah ada sejak masa pra-Islam. (catatan penerjemah)
+Adapun kaum Hanbali yang menerima adanya bagian-bagian dan potongan-potongan (pada Zat[^34] Allah), mereka pun mengakui bahwa Zat Allah Ta'ala berbeda dengan zat-zat indrawi ini. Dia tidak sama dengan zat-zat ini dalam hal menerima perhimpunan dan perpisahan, perubahan dan kefanaan, sehat dan sakit, hidup dan mati. Sebab, sekiranya Zat-Nya sama dengan zat-zat lain dalam sifat-sifat tersebut, niscaya Dia membutuhkan pencipta lain, lalu terjadilah regresi tak berhingga (*tasalsul*, تسلسل)[^35]; atau niscaya harus dikatakan bahwa kemungkinan[^36] dan kebaharuan[^37] tidak membutuhkan pencipta, dan dari situ lahir penafian Sang Pencipta. Maka tetaplah bahwa mereka mau tidak mau harus mengakui bahwa kekhususan Zat-Nya, yang membedakan-Nya dari zat-zat lain, adalah sesuatu yang hakikat terdalamnya tidak terjangkau oleh daya waham dan daya khayal. Ini adalah pengakuan atas adanya sesuatu yang menyalahi apa yang diputuskan oleh waham dan ditetapkan oleh khayal. Jika demikian halnya, apa janggalnya adanya suatu maujud yang tidak berada di dalam alam dan tidak pula terpisah dari alam secara arah, meskipun daya waham dan daya khayal tidak mampu menangkap maujud tersebut? Lagi pula, pegangan pokok mazhab Hanbali ialah bahwa setiap kali mereka berpegang pada suatu ayat atau hadis yang makna lahiriahnya memberi kesan adanya anggota dan organ tubuh, mereka menegaskan, "Kami menetapkan makna ini bagi Allah Ta'ala dengan cara yang berbeda dari yang berlaku bagi makhluk." Maka mereka menetapkan bagi Allah Ta'ala wajah yang tidak seperti wajah makhluk dan tangan yang tidak seperti tangan makhluk. Sudah maklum bahwa tangan dan wajah dalam pengertian yang mereka sebutkan itu tidak dapat diterima oleh khayal dan waham. Jika menetapkan hal itu dapat dipahami sekalipun menyalahi waham dan khayal, apa janggalnya mengatakan bahwa Allah Ta'ala maujud, tetapi tidak di dalam alam dan tidak di luar alam, meskipun daya waham dan daya khayal tak sanggup menangkap wujud ini?
 
-Kami katakan: inti perkataan ini ialah bahwa kaum Musyabbihah mengira keterpisahan Sang Pencipta dari alam tidak dapat dipahami kecuali secara arah, lalu dari situ mereka menyimpulkan bahwa Tuhan berada pada suatu arah; sedangkan kaum Dahriyah mengira kedahuluan Sang Pencipta atas alam tidak dapat dipahami kecuali dengan waktu, lalu dari situ mereka menyimpulkan qadimnya rentang masa. Jika ini telah tetap, kami katakan: hukum khayal mengenai Allah Ta'ala adakalanya diterima, adakalanya tidak. Jika diterima, maka kaum Musyabbihah terpaksa menerima mazhab Dahriyah, yakni bahwa Sang Pencipta mendahului alam dengan rentang masa yang tak berhingga, dan terpaksa pula berpendapat bahwa waktu itu azali; padahal kaum Musyabbihah tidak berpendapat demikian. Dan kaum Dahriyah terpaksa menerima mazhab Musyabbihah, yakni keterpisahan Sang Pencipta dari alam secara arah dan tempat, sehingga mereka terpaksa berpendapat bahwa Sang Pencipta bertempat; padahal mereka pun tidak berpendapat demikian. Dengan begitu, sanggahan ini mengena kedua golongan sekaligus. Adapun jika kita katakan bahwa hukum waham dan khayal sama sekali tidak dapat diterima mengenai Zat Allah Ta'ala dan sifat-sifat-Nya, maka kami katakan: perkataan Musyabbihah bahwa dari setiap dua maujud mesti salah satunya berada di dalam yang lain atau terpisah darinya secara arah adalah perkataan khayali yang batil; dan perkataan Dahriyah bahwa kedahuluan Sang Pencipta atas alam mesti dengan rentang masa dan waktu juga perkataan khayali yang batil. Inilah pendapat kalangan kami, ahli tauhid dan penyucian (*tanzīh*, تنزيه)², yang memberhentikan hukum waham dan khayal dari wilayah Zat Allah Ta'ala dan sifat-sifat-Nya. Itulah jalan yang tegak dan titian yang lurus.
+[^34]: **Zat** (*dhāt*; Ing. *essence, substance, the self*). Zat dipakai dalam arti esensi, yakni sesuatu yang dengannya sesuatu menjadi dirinya. Menurut *Sharḥ al-Mawāqif*, mayoritas peneliti berpendapat bahwa hakikat Zat Allah tidak diketahui manusia; al-Asyʿari dan Abu al-Husain al-Bashri berpendapat bahwa Zat Allah berbeda dari semua zat lain karena zat-Nya sendiri. (*Kashshāf*, s.v. *al-dhāt*.)
 
-² CT: Ahli tauhid dan penyucian ialah mereka yang menyatakan bahwa Allah Ta'ala Esa, dan bahwa Dia jauh dari kuantitas, kualitas, jisim, arah, tempat, lawan, keserupaan, aksiden, dan substansi yang tidak layak bagi-Nya.
+[^35]: **Regresi tak berhingga** (*tasalsul*; Ing. *succession, chain*). Menurut para filsuf, *tasalsul* adalah keberurutan hal-hal yang tak berhingga, yang berhimpun dalam wujud dan tersusun secara berurutan, baik urutan itu posisional maupun kodrati. Menurut para mutakalim, kedua syarat itu tidak diperlukan: setiap rangkaian yang dicakup wujud mustahil berlanjut tanpa akhir. *Sharḥ Ḥikmat al-ʿAyn* membaginya menjadi empat: dalam peristiwa-peristiwa baharu, dalam sebab dan akibat, dalam jisim-jisim, dan dalam jiwa-jiwa manusia. Seluruhnya batil menurut para mutakalim, sedangkan para filsuf membolehkan yang pertama dan keempat. (*Kashshāf*, s.v. *al-tasalsul*.)
+
+[^36]: **Kemungkinan** (*imkān*; Ing. *contingency*). Istilah ini homonim. Pertama, ketiadaan keniscayaan (*salb al-ḍarūra*), baik pada zat sesuatu maupun dalam pikiran. Kedua, potensi sebagai pasangan aktualitas, yang disebut *imkān istiʿdādī*: keadaan sesuatu yang siap untuk menjadi tetapi belum menjadi. Yang mungkin (*mumkin*) dalam kitab ini adalah yang tidak niscaya ada dan tidak niscaya tiada karena zatnya. (*Kashshāf*, s.v. *al-imkān*.)
+
+[^37]: **Kebaharuan** (*ḥudūth*; Ing. *creation*). *Ḥudūth* adalah lawan *qidam* (keqadiman), dan dapat bersifat relatif atau hakiki, esensial atau temporal. Menurut para filsuf, kebaharuan temporal menuntut didahului oleh masa dan materi. Rinciannya dipaparkan pada entri *al-qidam*. (*Kashshāf*, s.v. *al-ḥudūth*.)
+
+**Kesembilan**, kaum penyerupa berkata, "Alam dan Sang Pencipta adalah dua maujud, dan dari setiap dua maujud, adakalanya yang satu berada di dalam yang lain, atau terpisah darinya." Mereka berkata, "Keharusan pembatasan ini diketahui secara niscaya." Mereka berkata lagi, "Pendapat bahwa Dia bertempat di dalam alam (*ḥulūl*, حلول)[^38] itu mustahil[^39]; maka pastilah Dia terpisah dari alam secara arah." Dengan jalan inilah mereka berhujah bahwa Allah Ta'ala terikat pada ruang dan arah. Adapun kaum Dahriyah[^40][^41] berkata, "Alam dan Sang Pencipta adalah dua maujud, dan dari setiap dua maujud, adakalanya keduanya ada bersamaan, atau yang satu mendahului yang lain. Mustahil alam dan Sang Pencipta ada bersamaan, sebab jika demikian niscaya alam itu qadim[^42] atau Sang Pencipta itu baharu, dan keduanya mustahil. Maka tetaplah bahwa Sang Pencipta mendahului alam." Kemudian mereka berkata, "Ada pengetahuan niscaya bahwa kedahuluan ini tidak lain kecuali dengan waktu dan rentang masa. Jika ini tetap, maka jika kedahuluan Sang Pencipta itu dengan rentang masa yang berhingga, niscaya Sang Pencipta baharu; dan jika dengan rentang masa yang tak berawal, niscaya rentang masa itu qadim." Dengan jalan ini mereka menyimpulkan qadimnya rentang masa dan waktu.
+
+[^38]: **Bertempat di dalam** (*ḥulūl*; Ing. *incarnation, union*). Definisinya beragam. Salah satunya: kekhususan sesuatu pada sesuatu yang lain sedemikian rupa sehingga menunjuk yang satu berarti menunjuk yang lain. Definisi yang dinilai paling baik: wujud sesuatu pada dirinya sendiri adalah wujudnya bagi yang lain. Para filsuf membatasinya pada bertempatnya bentuk di dalam hayula dan aksiden di dalam subjeknya. Padanan Inggris dalam *Kashshāf* mencerminkan makna tasawuf; dalam kitab ini yang dimaksud adalah makna teknis kalam. (*Kashshāf*, s.v. *al-ḥulūl*.)
+
+[^39]: **Mustahil** (*mumtaniʿ*; dari *imtināʿ*, Ing. *impossibility*). *Imtināʿ* adalah ketiadaan keniscayaan ada dan ketiadaan kemungkinan: yang mustahil bukan wajib dan bukan pula mungkin, melainkan pasti tiada. Al-Razi memakai *mumtaniʿ* dan *muḥāl* secara bergantian. (*Kashshāf*, s.v. *al-imtināʿ*.)
+
+[^42]: **Qadim** (*qadīm*; dari *qidam*, Ing. *eternity*). *Qidam* dan *ḥudūth* adalah sifat bagi wujud. *Qidam* hakiki adakalanya berarti tidak didahului oleh sesuatu yang lain secara esensial, yakni tidak membutuhkan yang lain untuk mengada, dan ini meniscayakan wajib ada; adakalanya berarti tidak didahului ketiadaan secara temporal. Kebaharuan adalah kebalikannya. Adapun *qidam* relatif ialah rentang wujud sesuatu yang telah berlalu lebih panjang daripada rentang wujud sesuatu yang lain. (*Kashshāf*, s.v. *al-qidam*.)
+
+[^41]: **Kaum Dahriyah** (*al-Dahriyya*; Ing. *atheism, materialism*). Suatu golongan kafir yang meyakini kekekalan masa (*dahr*) dan menyandarkan segala peristiwa kepadanya, sebagaimana diberitakan Allah tentang mereka: "Tidak ada yang membinasakan kami selain masa" (al-Jasiyah: 24). Menurut para mutakalim, masa itu sendiri tidak memiliki wujud di luar pikiran, karena ia hanyalah bersamaannya satu peristiwa baharu dengan peristiwa baharu lain. (*Kashshāf*, s.v. *al-dahriyya* dan *al-dahr*.)
+
+[^40]: CT: Kaum Dahriyah ialah orang-orang yang menisbahkan sejumlah sifat ketuhanan kepada masa dan meyakini bahwa masa itu azali. Aliran filsafat yang berpandangan demikian sudah ada sejak masa pra-Islam. (catatan penerjemah)
+
+Kami katakan: inti perkataan ini ialah bahwa kaum Musyabbihah[^43] mengira keterpisahan Sang Pencipta dari alam tidak dapat dipahami kecuali secara arah, lalu dari situ mereka menyimpulkan bahwa Tuhan berada pada suatu arah; sedangkan kaum Dahriyah mengira kedahuluan Sang Pencipta atas alam tidak dapat dipahami kecuali dengan waktu, lalu dari situ mereka menyimpulkan qadimnya rentang masa. Jika ini telah tetap, kami katakan: hukum khayal mengenai Allah Ta'ala adakalanya diterima, adakalanya tidak. Jika diterima, maka kaum Musyabbihah terpaksa menerima mazhab Dahriyah, yakni bahwa Sang Pencipta mendahului alam dengan rentang masa yang tak berhingga, dan terpaksa pula berpendapat bahwa waktu itu azali; padahal kaum Musyabbihah tidak berpendapat demikian. Dan kaum Dahriyah terpaksa menerima mazhab Musyabbihah, yakni keterpisahan Sang Pencipta dari alam secara arah dan tempat, sehingga mereka terpaksa berpendapat bahwa Sang Pencipta bertempat; padahal mereka pun tidak berpendapat demikian. Dengan begitu, sanggahan ini mengena kedua golongan sekaligus. Adapun jika kita katakan bahwa hukum waham dan khayal sama sekali tidak dapat diterima mengenai Zat Allah Ta'ala dan sifat-sifat-Nya, maka kami katakan: perkataan Musyabbihah bahwa dari setiap dua maujud mesti salah satunya berada di dalam yang lain atau terpisah darinya secara arah adalah perkataan khayali yang batil; dan perkataan Dahriyah bahwa kedahuluan Sang Pencipta atas alam mesti dengan rentang masa dan waktu juga perkataan khayali yang batil. Inilah pendapat kalangan kami, ahli tauhid[^44] dan penyucian (*tanzīh*, تنزيه)[^45], yang memberhentikan hukum waham dan khayal dari wilayah Zat Allah Ta'ala dan sifat-sifat-Nya. Itulah jalan yang tegak dan titian yang lurus.
+
+[^44]: **Tauhid** (*tawḥīd*; Ing. *monotheism, unicity*). Secara bahasa, *tawḥīd* berarti menjadikan sesuatu satu. Dalam ungkapan para ulama, ia adalah keyakinan akan keesaan Allah Ta'ala. Di kalangan sufi, ia adalah pengenalan akan keesaan-Nya yang tetap sejak azali dan untuk selamanya, sehingga tidak ada yang hadir dalam penyaksiannya selain Yang Esa. (*Kashshāf*, s.v. *al-tawḥīd*.)
+
+[^43]: **Kaum Musyabbihah** (*al-Mushabbiha*; Ing. *sect professing anthropomorphism*). Salah satu golongan besar dalam Islam yang menyerupakan Allah dengan makhluk dan mempersamakan-Nya dengan yang baharu. Mereka disebut demikian karena kesamaan paham itu, meskipun jalan mereka berbeda-beda; di antaranya kaum Syiah ekstrem seperti Sabaiyah dan Hisyamiyah. (*Kashshāf*, s.v. *al-mushabbiha*.)
+
+[^45]: CT: Ahli tauhid dan penyucian ialah mereka yang menyatakan bahwa Allah Ta'ala Esa, dan bahwa Dia jauh dari kuantitas, kualitas, jisim, arah, tempat, lawan, keserupaan, aksiden, dan substansi yang tidak layak bagi-Nya.
 
 **Kesepuluh**, mengenal perbuatan dan sifat Allah Ta'ala lebih dekat bagi akal daripada mengenal Zat Allah Ta'ala. Sementara itu, kaum Musyabbihah sepakat dengan kami bahwa pengenalan akan perbuatan dan sifat Allah Ta'ala menyalahi hukum indra dan khayal. Penjelasan makna ini pada perbuatan Allah Ta'ala dapat ditinjau dari beberapa segi.
 
@@ -329,197 +412,159 @@ Pertama, kita tidak dapat membayangkan suatu zat yang mengetahui secara terperin
 
 Kedua, kita melihat bahwa siapa pun yang melakukan suatu perbuatan pasti membutuhkan alat dan perkakas, dan perbuatan-perbuatan yang berat menyebabkan pelakunya letih dan payah. Namun kita meyakini bahwa Allah Ta'ala mengatur segala sesuatu dari Arasy hingga yang di bawah tanah, sementara Dia mahasuci dari kepayahan, keletihan, dan kelelahan.
 
-Ketiga, kita meyakini bahwa Dia mendengar suara makhluk dari Arasy hingga yang di bawah tanah, dan melihat yang kecil dan yang besar, di atas lapisan-lapisan langit yang tinggi dan di bawah bumi-bumi yang terendah. Sudah maklum bahwa waham manusia dan khayal insani tidak sanggup mengakui maujud yang demikian; namun kita meyakini bahwa Allah Ta'ala memang demikian. Maka tetaplah bahwa waham dan khayal tak sanggup mengenal perbuatan dan sifat Allah Subhanahu wa Ta'ala; namun kita tetap menetapkan perbuatan dan sifat itu sekalipun menyalahi waham dan khayal. Telah tetap pula bahwa mengenal hakikat terdalam (*kunh*, كنه) Zat lebih tinggi, lebih agung, dan lebih pelik daripada mengenal hakikat terdalam sifat-sifat. Maka, jika kita telah memberhentikan waham dan khayal dalam mengenal sifat dan perbuatan, memberhentikan keduanya dalam mengenal Zat tentu lebih utama dan lebih patut.
+Ketiga, kita meyakini bahwa Dia mendengar suara makhluk dari Arasy hingga yang di bawah tanah, dan melihat yang kecil dan yang besar, di atas lapisan-lapisan langit yang tinggi dan di bawah bumi-bumi yang terendah. Sudah maklum bahwa waham manusia dan khayal insani tidak sanggup mengakui maujud yang demikian; namun kita meyakini bahwa Allah Ta'ala memang demikian. Maka tetaplah bahwa waham dan khayal tak sanggup mengenal perbuatan dan sifat Allah Subhanahu wa Ta'ala; namun kita tetap menetapkan perbuatan dan sifat itu sekalipun menyalahi waham dan khayal. Telah tetap pula bahwa mengenal hakikat terdalam (*kunh*, كنه)[^46] Zat lebih tinggi, lebih agung, dan lebih pelik daripada mengenal hakikat terdalam sifat-sifat. Maka, jika kita telah memberhentikan waham dan khayal dalam mengenal sifat dan perbuatan, memberhentikan keduanya dalam mengenal Zat tentu lebih utama dan lebih patut.
+
+[^46]: **Hakikat terdalam** (*kunh*; Ing. *essence, substance*). Mengenal *kunh* sesuatu berarti mengenalnya melalui unsur-unsur esensialnya secara terperinci, seperti mengenal manusia sebagai "hewan yang berpikir". Mengenal sesuatu melalui sifat-sifat luarnya saja, seperti "yang tertawa", bukanlah mengenal hakikat terdalamnya. (*Kashshāf*, s.v. *al-kunh*.)
 
 Kesepuluh dalil ini menunjukkan bahwa kemahasucian Allah Subhanahu wa Ta'ala dari ruang dan arah bukanlah sesuatu yang ditolak oleh akal yang jernih. Itulah tuntasnya yang kami tuju, dan hanya kepada Allah kita memohon taufik.
 
-Kami tutup bab ini dengan apa yang diriwayatkan dari Aristoteles, bahwa ia menulis di awal kitabnya tentang ilmu ketuhanan: "Siapa yang hendak memasuki pengetahuan-pengetahuan ketuhanan, hendaklah ia menumbuhkan bagi dirinya fitrah yang lain." Syekh, semoga Allah meridainya, berkata:ᵃ Perkataan ini selaras dengan wahyu dan kenabian. Sebab, Allah menyebutkan tahap-tahap terbentuknya jasad dalam firman-Nya, *"Sungguh, Kami telah menciptakan manusia dari saripati (yang berasal) dari tanah."*³ Lalu, ketika sampai pada bertautnya ruh dengan badan, Dia berfirman, *"Kemudian Kami menjadikannya makhluk yang (berbentuk) lain."*⁴ Ini semacam isyarat bahwa cara bertautnya ruh dengan badan tidaklah seperti berubahnya nutfah dari satu keadaan ke keadaan lain. Ia adalah jenis lain yang berbeda dari jenis-jenis sebelumnya. Karena itulah Dia berfirman, *"Kemudian Kami menjadikannya makhluk yang (berbentuk) lain."*⁵ Demikian pula manusia: apabila ia merenungkan keadaan benda-benda di bawah dan di langit serta sifat-sifatnya, semua itu memiliki hukumnya sendiri. Namun, apabila ia hendak beranjak dari sana menuju pengenalan akan Ketuhanan, ia harus menumbuhkan bagi dirinya fitrah yang lain dan akal yang lain, berbeda dari akal yang dengannya ia mendapat petunjuk untuk mengenal hal-hal jasmani. Inilah akhir pembahasan tentang premis ini, dan hanya kepada Allah kita memohon taufik.
+Kami tutup bab ini dengan apa yang diriwayatkan dari Aristoteles, bahwa ia menulis di awal kitabnya tentang ilmu ketuhanan: "Siapa yang hendak memasuki pengetahuan-pengetahuan ketuhanan, hendaklah ia menumbuhkan bagi dirinya fitrah yang lain." Syekh, semoga Allah meridainya, berkata:[^47] Perkataan ini selaras dengan wahyu dan kenabian. Sebab, Allah menyebutkan tahap-tahap terbentuknya jasad dalam firman-Nya, *"Sungguh, Kami telah menciptakan manusia dari saripati (yang berasal) dari tanah"* (al-Mu'minun: 12). Lalu, ketika sampai pada bertautnya ruh dengan badan, Dia berfirman, *"Kemudian Kami menjadikannya makhluk yang (berbentuk) lain"* (al-Mu'minun: 14). Ini semacam isyarat bahwa cara bertautnya ruh dengan badan tidaklah seperti berubahnya nutfah dari satu keadaan ke keadaan lain. Ia adalah jenis lain yang berbeda dari jenis-jenis sebelumnya. Karena itulah Dia berfirman, *"Kemudian Kami menjadikannya makhluk yang (berbentuk) lain"* (al-Mu'minun: 14). Demikian pula manusia: apabila ia merenungkan keadaan benda-benda di bawah dan di langit serta sifat-sifatnya, semua itu memiliki hukumnya sendiri. Namun, apabila ia hendak beranjak dari sana menuju pengenalan akan Ketuhanan, ia harus menumbuhkan bagi dirinya fitrah yang lain dan akal yang lain, berbeda dari akal yang dengannya ia mendapat petunjuk untuk mengenal hal-hal jasmani. Inilah akhir pembahasan tentang premis ini, dan hanya kepada Allah kita memohon taufik.
 
-³ CT: QS al-Mu'minun [23]: 12.
-
-⁴ CT: QS al-Mu'minun [23]: 14.
-
-⁵ CT: QS al-Mu'minun [23]: 14.
-
-ᵃ CP: Edisi Turki mengidentifikasi "Syekh" di sini sebagai Ibnu Sina. Namun doa *raḍiya Allāhu ʿanhu* dan sebutan "Syekh" yang juga dipakai untuk pengarang di awal kitab membuka kemungkinan bahwa yang dimaksud adalah ar-Razi sendiri, dalam suara penyalin naskah.
+[^47]: CP: Edisi Turki mengidentifikasi "Syekh" di sini sebagai Ibnu Sina. Namun doa *raḍiya Allāhu ʿanhu* dan sebutan "Syekh" yang juga dipakai untuk pengarang di awal kitab membuka kemungkinan bahwa yang dimaksud adalah ar-Razi sendiri, dalam suara penyalin naskah.
 
 #### Premis Kedua: Bahwa Tidak Setiap Maujud Mesti Memiliki Tara dan yang Serupa
 
 *(Tr. h. 37)*
 
-Tidak setiap maujud mesti memiliki tara (*naẓīr*, نظير) dan yang serupa (*shabīh*, شبيه), dan menafikan tara dan yang serupa tidak meniscayakan penafian sesuatu itu sendiri. Hal ini ditunjukkan oleh beberapa segi.
+Tidak setiap maujud mesti memiliki tara (*naẓīr*, نظير)[^48] dan yang serupa (*shabīh*, شبيه), dan menafikan tara dan yang serupa tidak meniscayakan penafian sesuatu itu sendiri. Hal ini ditunjukkan oleh beberapa segi.
 
-**Hujah pertama**: akal pada tingkat paling dasarnya tidak menganggap janggal adanya sesuatu yang bersifat dengan sifat-sifat khusus sedemikian rupa sehingga segala sesuatu selainnya berbeda darinya dalam kekhususan itu. Jika hal ini tidak tertolak oleh akal pada tingkat paling dasarnya, kita tahu bahwa ketiadaan tara bagi sesuatu tidak meniscayakan ketiadaan sesuatu itu.
+[^48]: **Tara** (*naẓīr*; Ing. *peer, equal, analogue*). Dalam bahasa Arab, *naẓīr* dipakai secara majaz untuk contoh (*mithāl*), dan secara hakiki untuk yang lebih umum dari itu, yaitu apa pun yang sepadan dengan sesuatu. (*Kashshāf*, s.v. *al-naẓīr*.)
+
+**Hujah pertama**: akal pada tingkat paling dasarnya tidak menganggap janggal adanya sesuatu yang bersifat dengan sifat-sifat khusus sedemikian rupa sehingga segala sesuatu selainnya berbeda darinya dalam kekhususan itu. Jika hal ini tidak tertolak oleh akal pada tingkat paling dasarnya, kita tahu bahwa ketiadaan[^49] tara bagi sesuatu tidak meniscayakan ketiadaan sesuatu itu.
+
+[^49]: **Ketiadaan** (*ʿadam*; Ing. *nothingness*). *ʿAdam* adalah lawan wujud, sebagaimana yang bersifat ketiadaan (*ʿadamī*) adalah lawan yang eksistensial (*wujūdī*), dan yang tiada (*maʿdūm*) adalah lawan yang maujud. (*Kashshāf*, s.v. *al-ʿadam*.)
 
 **Hujah kedua**: keberadaan sesuatu adakalanya bergantung pada keberadaan yang serupa dengannya, adakalanya tidak. Kemungkinan pertama batil, sebab dua hal yang serupa niscaya sama dalam semua kelazimannya. Maka, jika keberadaan yang ini bergantung pada keberadaan yang kedua, keberadaan yang kedua pun bergantung pada keberadaan yang pertama; bahkan masing-masing bergantung pada dirinya sendiri, dan ini mustahil menurut akal pada tingkat paling dasarnya. Maka tetaplah bahwa keberadaan sesuatu tidak bergantung pada keberadaan taranya, sehingga menafikan taranya tidak meniscayakan penafian dirinya.
 
-**Hujah ketiga**: ketertentuan (*taʿayyun*, تعين) setiap sesuatu, sejauh ia adalah dirinya, mustahil terwujud pada selainnya; sebab jika tidak, sesuatu itu akan menjadi selainnya itu sendiri, dan ini batil menurut akal pada tingkat paling dasarnya. Maka tetaplah bahwa ketertentuan setiap sesuatu, sejauh ia adalah dirinya, mustahil terwujud pada selainnya. Dari sini kita tahu bahwa ketiadaan tara dan yang setara tidak mengharuskan pendapat tentang ketiadaan sesuatu itu. Maka tampaklah rusaknya perkataan orang yang berkata, "Kita tidak dapat memahami adanya suatu maujud yang tidak bersambung dengan alam dan tidak pula terpisah darinya, kecuali jika kita mendapati taranya." Sebab, menurut kami, yang bersifat demikian tidak lain hanyalah Allah Ta'ala, dan telah kami jelaskan bahwa ketiadaan tara dan yang serupa tidak meniscayakan ketiadaan sesuatu itu. Maka tetaplah bahwa perkataan itu gugur sepenuhnya, dan hanya kepada Allah kita memohon taufik.
+**Hujah ketiga**: ketertentuan (*taʿayyun*, تعين)[^50] setiap sesuatu, sejauh ia adalah dirinya, mustahil terwujud pada selainnya; sebab jika tidak, sesuatu itu akan menjadi selainnya itu sendiri, dan ini batil menurut akal pada tingkat paling dasarnya. Maka tetaplah bahwa ketertentuan setiap sesuatu, sejauh ia adalah dirinya, mustahil terwujud pada selainnya. Dari sini kita tahu bahwa ketiadaan tara dan yang setara tidak mengharuskan pendapat tentang ketiadaan sesuatu itu. Maka tampaklah rusaknya perkataan orang yang berkata, "Kita tidak dapat memahami adanya suatu maujud yang tidak bersambung dengan alam dan tidak pula terpisah darinya, kecuali jika kita mendapati taranya." Sebab, menurut kami, yang bersifat demikian tidak lain hanyalah Allah Ta'ala, dan telah kami jelaskan bahwa ketiadaan tara dan yang serupa tidak meniscayakan ketiadaan sesuatu itu. Maka tetaplah bahwa perkataan itu gugur sepenuhnya, dan hanya kepada Allah kita memohon taufik.
+
+[^50]: **Ketertentuan** (*taʿayyun*; Ing. *determination, specification*). *Kashshāf* menyamakannya dengan individuasi (*tashakhkhuṣ*). Di kalangan sufi, *al-taʿayyun al-awwal* adalah martabat keesaan (*waḥda*) dan *al-taʿayyun al-thānī* adalah martabat kesatuan (*wāḥidiyya*). (*Kashshāf*, s.v. *al-taʿayyun*.)
 
 #### Premis Ketiga: Penjelasan Pendapat Orang-Orang yang Mengatakan bahwa Allah Ta'ala adalah Jisim
 
 *(Tr. h. 38)*
 
-Ketahuilah, orang-orang yang berpendapat bahwa Allah Ta'ala adalah jisim (*jism*, جسم) berselisih pendapat. Sebagian mereka mengatakan bahwa Dia berbentuk manusia. Dinukil dari kaum Musyabbihah umat ini bahwa Dia berbentuk seorang pemuda, dan dari kaum Musyabbihah Yahudi bahwa Dia berbentuk seorang tua. Namun mereka tidak membolehkan perpindahan, pergi, dan datang bagi Allah Ta'ala. Adapun kalangan Musyabbihah yang lebih cermat, dinukil dari mereka bahwa Allah Ta'ala berbentuk suatu cahaya di antara cahaya-cahaya.
+Ketahuilah, orang-orang yang berpendapat bahwa Allah Ta'ala adalah jisim (*jism*, جسم)[^51] berselisih pendapat. Sebagian mereka mengatakan bahwa Dia berbentuk manusia. Dinukil dari kaum Musyabbihah umat ini bahwa Dia berbentuk seorang pemuda, dan dari kaum Musyabbihah Yahudi bahwa Dia berbentuk seorang tua. Namun mereka tidak membolehkan perpindahan, pergi, dan datang bagi Allah Ta'ala. Adapun kalangan Musyabbihah yang lebih cermat, dinukil dari mereka bahwa Allah Ta'ala berbentuk suatu cahaya di antara cahaya-cahaya.
+
+[^51]: **Jisim** (*jism*; Ing. *body*). Para filsuf memakai istilah ini secara homonim: *jism ṭabīʿī* (jisim alami), yaitu substansi yang padanya dapat diandaikan tiga dimensi yang saling berpotongan tegak lurus; dan *jism taʿlīmī* (jisim matematis), yaitu kuantitas yang menerima ketiga dimensi itu. Menurut kaum Asyʿariyah, jisim adalah *al-mutaḥayyiz al-qābil li-l-qisma*, yang menempati ruang dan dapat dibagi pada satu arah atau lebih, sehingga sekurang-kurangnya tersusun dari dua atom. (*Kashshāf*, s.v. *al-jism*.)
 
 Abu Ma'syar al-Munajjim menyebutkan bahwa sebab manusia berani menjadikan penyembahan berhala sebagai agama mereka ialah karena kaum pada masa silam menganut mazhab Musyabbihah. Mereka meyakini bahwa Tuhan alam adalah cahaya yang agung. Karena meyakini demikian, mereka membuat sebuah berhala, yang terbesar di antara berhala-berhala, menurut rupa Tuhan, dan berhala-berhala lain yang lebih kecil menurut rupa para malaikat. Mereka pun sibuk menyembah berhala-berhala ini dengan keyakinan bahwa mereka sedang menyembah Tuhan dan para malaikat. Maka tetaplah bahwa agama penyembahan berhala itu semacam cabang dari mazhab Musyabbihah.
 
-Ketahuilah, banyak di antara mereka menolak kemungkinan gerak dan diam bagi Allah Ta'ala. Adapun Karramiyah, mereka tidak berpendapat adanya anggota dan organ tubuh, tetapi mengatakan bahwa Dia terikat pada (arah) di atas Arasy. Mazhab ini memuat tiga kemungkinan: adakalanya dikatakan bahwa Dia bersentuhan dengan Arasy; adakalanya dikatakan bahwa Dia terpisah darinya dengan jarak yang berhingga; dan adakalanya dikatakan bahwa Dia terpisah darinya dengan jarak yang tak berhingga. Masing-masing dari ketiga kemungkinan ini dianut oleh sekelompok Karramiyah. Mereka juga berselisih apakah Allah Ta'ala terikat pada arah-arah itu karena Zat-Nya sendiri ataukah karena suatu makna (*maʿnā*, معنى) yang qadim. Itulah tuntasnya pembahasan tentang premis-premis, dan hanya kepada Allah kita memohon taufik.
+Ketahuilah, banyak di antara mereka menolak kemungkinan gerak dan diam bagi Allah Ta'ala. Adapun Karramiyah, mereka tidak berpendapat adanya anggota dan organ tubuh, tetapi mengatakan bahwa Dia terikat pada (arah) di atas Arasy. Mazhab ini memuat tiga kemungkinan: adakalanya dikatakan bahwa Dia bersentuhan dengan Arasy; adakalanya dikatakan bahwa Dia terpisah darinya dengan jarak yang berhingga; dan adakalanya dikatakan bahwa Dia terpisah darinya dengan jarak yang tak berhingga. Masing-masing dari ketiga kemungkinan ini dianut oleh sekelompok Karramiyah. Mereka juga berselisih apakah Allah Ta'ala terikat pada arah-arah itu karena Zat-Nya sendiri ataukah karena suatu makna (*maʿnā*, معنى)[^52] yang qadim. Itulah tuntasnya pembahasan tentang premis-premis, dan hanya kepada Allah kita memohon taufik.
+
+[^52]: **Makna** (*maʿnā*; Ing. *meaning, significance, concept*). Dalam logika dan bahasa, *maʿnā* adalah gambaran dalam pikiran sejauh lafaz diletakkan untuknya dan dimaksudkan darinya. Dalam kalam, terutama pada kalangan penetap "keadaan" (*aḥwāl*), *maʿnā* juga dipakai untuk entitas sifat yang menjadi sebab suatu keadaan pada zat; pengertian inilah yang dimaksud di sini. (*Kashshāf*, s.v. *al-maʿnā*.)
 
 ### Pasal Kedua: Penetapan Dalil-Dalil Naqli bahwa Allah Ta'ala Mahasuci dari Kejisiman, Ruang, dan Arah
 
 *(Tr. h. 40)*
 
-**Hujah pertama**: firman Allah Ta'ala, *"Katakanlah (Nabi Muhammad), 'Dialah Allah Yang Maha Esa. Allah tempat meminta segala sesuatu. Dia tidak beranak dan tidak pula diperanakkan, serta tidak ada sesuatu pun yang setara dengan-Nya.'"*⁶ Ketahuilah, telah masyhur dalam tafsir bahwa Nabi shallallahu 'alaihi wasallam ditanya tentang esensi Tuhannya, tentang sifat dan ciri-Nya, lalu beliau menanti jawaban dari Allah Ta'ala, maka Allah menurunkan surah ini. Jika engkau telah mengetahui hal itu, kami katakan: surah ini mesti termasuk ayat-ayat muhkam (*muḥkam*, محكم), bukan mutasyabih (*mutashābih*, متشابه), sebab Allah Ta'ala menjadikannya jawaban atas pertanyaan orang-orang yang menyerupakan (Allah)⁷, bahkan menurunkannya tepat ketika penjelasan dibutuhkan. Itu menuntut surah ini termasuk ayat-ayat muhkam, bukan mutasyabih. Jika ini telah tetap, wajiblah dipastikan bahwa setiap mazhab yang menyalahi surah ini batil.
+**Hujah pertama**: firman Allah Ta'ala, *"Katakanlah (Nabi Muhammad), 'Dialah Allah Yang Maha Esa. Allah tempat meminta segala sesuatu. Dia tidak beranak dan tidak pula diperanakkan, serta tidak ada sesuatu pun yang setara dengan-Nya'"* (al-Ikhlas: 1-4). Ketahuilah, telah masyhur dalam tafsir bahwa Nabi shallallahu 'alaihi wasallam ditanya tentang esensi Tuhannya, tentang sifat dan ciri-Nya, lalu beliau menanti jawaban dari Allah Ta'ala, maka Allah menurunkan surah ini. Jika engkau telah mengetahui hal itu, kami katakan: surah ini mesti termasuk ayat-ayat muhkam (*muḥkam*, محكم), bukan mutasyabih (*mutashābih*, متشابه)[^53], sebab Allah Ta'ala menjadikannya jawaban atas pertanyaan orang-orang yang menyerupakan (Allah)[^54], bahkan menurunkannya tepat ketika penjelasan dibutuhkan. Itu menuntut surah ini termasuk ayat-ayat muhkam, bukan mutasyabih. Jika ini telah tetap, wajiblah dipastikan bahwa setiap mazhab yang menyalahi surah ini batil.
 
-Kami katakan: firman-Nya *aḥad* (Esa) menunjukkan penafian kejisiman dan penafian ruang dan arah. Adapun petunjuknya bahwa Allah Ta'ala bukan jisim ialah karena jisim, paling sedikit, tersusun dari dua substansi (*jawhar*, جوهر), dan itu menafikan keesaan, sedangkan kata *aḥad* adalah bentuk penegasan (*mubālagha*) dalam makna keesaan. Maka firman-Nya *aḥad* menafikan kejisiman. Adapun petunjuknya bahwa Dia bukan substansi, kami katakan:⁸ orang-orang yang mengingkari atom (*al-jawhar al-fard*, الجوهر الفرد) berkata bahwa setiap yang menempati ruang (*mutaḥayyiz*, متحيز) mesti memiliki satu sisi yang terbedakan dari sisi yang lain; sebab kanannya pasti terbedakan dari kirinya, depannya dari belakangnya, dan atasnya dari bawahnya. Segala sesuatu yang di dalamnya satu hal terbedakan dari hal lain adalah sesuatu yang terbagi. Sebab, kanannya bersifat kanan, bukan kiri, dan kirinya bersifat kiri, bukan kanan. Seandainya kanannya adalah kirinya itu sendiri, niscaya berhimpun pada satu hal yang sama bahwa ia kanan sekaligus bukan kanan, kiri sekaligus bukan kiri; maka berhimpunlah penafian dan penetapan pada satu hal, dan itu mustahil. Mereka berkata: maka tetaplah bahwa setiap yang menempati ruang itu terbagi, dan tetap pula bahwa setiap yang terbagi bukanlah *aḥad*. Karena Allah Ta'ala bersifat *aḥad*, wajiblah Dia sama sekali tidak menempati ruang, dan itu menafikan bahwa Dia substansi. Adapun orang-orang yang menetapkan adanya atom, mereka tidak dapat berdalil dari sisi ini untuk menafikan bahwa Allah Ta'ala substansi. Namun mereka dapat berhujah dengan ayat ini dari segi lain untuk menafikannya, yaitu: sebagaimana kata *aḥad* dimaksudkan untuk menafikan ketersusunan dan perpaduan pada zat, ia juga dimaksudkan untuk menafikan lawan dan tandingan. Seandainya Allah Ta'ala adalah atom, niscaya setiap atom adalah padanan bagi-Nya, dan itu menafikan keesaan-Nya. Lalu mereka menguatkan segi ini dengan firman-Nya, *"serta tidak ada sesuatu pun yang setara dengan-Nya."* Seandainya Dia substansi, niscaya setiap atom setara dengan-Nya. Maka, dari segi yang telah kami tetapkan, surah ini menunjukkan bahwa Allah Ta'ala bukan jisim dan bukan substansi. Jika telah tetap bahwa Dia bukan jisim dan bukan substansi, wajiblah Dia tidak berada pada ruang dan arah mana pun. Sebab, segala sesuatu yang terikat pada ruang dan arah, jika ia terbagi, ia adalah jisim, dan telah kami jelaskan kebatilannya; dan jika tidak terbagi, ia adalah atom, dan telah kami jelaskan pula kebatilannya. Karena kedua kemungkinan itu batil, tetaplah bahwa Dia mustahil berada pada suatu arah sama sekali. Maka tetaplah bahwa firman-Nya *aḥad* menunjukkan secara pasti (*qaṭʿī*, قطعي) bahwa Allah Ta'ala bukan jisim, bukan substansi, dan sama sekali tidak berada pada ruang dan arah.
+[^53]: **Mutasyabih** (*mutashābih*; Ing. *similar, alike*). Secara bahasa, *mutashābih* adalah salah satu dari dua hal yang serupa sehingga pikiran tidak mampu membedakannya. Menurut ahli usul dan fukaha, ia adalah lawan *muḥkam*, sebagaimana ditunjukkan oleh Ali 'Imran: 7. Para ulama berbeda pendapat dalam menentukan keduanya; salah satu pendapat menyebut *muḥkam* sebagai yang maksudnya diketahui, baik secara lahiriah maupun melalui takwil, dan *mutashābih* sebagai yang pengetahuannya dikhususkan Allah bagi diri-Nya. (*Kashshāf*, s.v. *al-mutashābih*.)
 
-⁶ CT: QS al-Ikhlas [112]: 1-4.
+Kami katakan: firman-Nya *aḥad* (Esa) menunjukkan penafian kejisiman dan penafian ruang dan arah. Adapun petunjuknya bahwa Allah Ta'ala bukan jisim ialah karena jisim, paling sedikit, tersusun dari dua substansi (*jawhar*, جوهر)[^55], dan itu menafikan keesaan, sedangkan kata *aḥad* adalah bentuk penegasan (*mubālagha*) dalam makna keesaan. Maka firman-Nya *aḥad* menafikan kejisiman. Adapun petunjuknya bahwa Dia bukan substansi, kami katakan:[^56] orang-orang yang mengingkari atom (*al-jawhar al-fard*, الجوهر الفرد)[^57] berkata bahwa setiap yang menempati ruang (*mutaḥayyiz*, متحيز)[^58] mesti memiliki satu sisi yang terbedakan dari sisi yang lain; sebab kanannya pasti terbedakan dari kirinya, depannya dari belakangnya, dan atasnya dari bawahnya. Segala sesuatu yang di dalamnya satu hal terbedakan dari hal lain adalah sesuatu yang terbagi. Sebab, kanannya bersifat kanan, bukan kiri, dan kirinya bersifat kiri, bukan kanan. Seandainya kanannya adalah kirinya itu sendiri, niscaya berhimpun pada satu hal yang sama bahwa ia kanan sekaligus bukan kanan, kiri sekaligus bukan kiri; maka berhimpunlah penafian dan penetapan pada satu hal, dan itu mustahil. Mereka berkata: maka tetaplah bahwa setiap yang menempati ruang itu terbagi, dan tetap pula bahwa setiap yang terbagi bukanlah *aḥad*. Karena Allah Ta'ala bersifat *aḥad*, wajiblah Dia sama sekali tidak menempati ruang, dan itu menafikan bahwa Dia substansi. Adapun orang-orang yang menetapkan adanya atom, mereka tidak dapat berdalil dari sisi ini untuk menafikan bahwa Allah Ta'ala substansi. Namun mereka dapat berhujah dengan ayat ini dari segi lain untuk menafikannya, yaitu: sebagaimana kata *aḥad* dimaksudkan untuk menafikan ketersusunan dan perpaduan pada zat, ia juga dimaksudkan untuk menafikan lawan dan tandingan. Seandainya Allah Ta'ala adalah atom, niscaya setiap atom adalah padanan[^59] bagi-Nya, dan itu menafikan keesaan-Nya. Lalu mereka menguatkan segi ini dengan firman-Nya, *"serta tidak ada sesuatu pun yang setara dengan-Nya."* Seandainya Dia substansi, niscaya setiap atom setara dengan-Nya. Maka, dari segi yang telah kami tetapkan, surah ini menunjukkan bahwa Allah Ta'ala bukan jisim dan bukan substansi. Jika telah tetap bahwa Dia bukan jisim dan bukan substansi, wajiblah Dia tidak berada pada ruang dan arah mana pun. Sebab, segala sesuatu yang terikat pada ruang dan arah, jika ia terbagi, ia adalah jisim, dan telah kami jelaskan kebatilannya; dan jika tidak terbagi, ia adalah atom, dan telah kami jelaskan pula kebatilannya. Karena kedua kemungkinan itu batil, tetaplah bahwa Dia mustahil berada pada suatu arah sama sekali. Maka tetaplah bahwa firman-Nya *aḥad* menunjukkan secara pasti (*qaṭʿī*, قطعي) bahwa Allah Ta'ala bukan jisim, bukan substansi, dan sama sekali tidak berada pada ruang dan arah.
 
-⁷ CT: Yang dimaksud di sini adalah kaum musyrik yang ragu tentang Zat dan sifat-sifat Allah Ta'ala serta mencampuradukkan yang hakiki dengan yang tidak hakiki. (catatan penerjemah)
+[^55]: **Substansi** (*jawhar*; Ing. *substance, essence*). Jauhar memiliki beberapa makna: maujud yang berdiri sendiri, baik baharu maupun qadim, sebagai lawan aksiden; hakikat atau esensi sesuatu; dan salah satu bagian dari maujud yang mungkin. Bagi para mutakalim, jauhar selalu baharu; mereka mendefinisikannya sebagai *al-ḥādith al-mutaḥayyiz bi-l-dhāt*, yang baharu dan menempati ruang dengan zatnya, sehingga dapat ditunjuk secara indrawi dengan "di sini" atau "di sana". Bagi para filsuf, jauhar bisa qadim (substansi abstrak) atau baharu (substansi material). (*Kashshāf*, s.v. *al-jawhar*.)
 
-⁸ CT: Pada masa klasik, mayoritas ulama meyakini bahwa materi tersusun dari dua unsur pokok, yaitu substansi dan aksiden. (catatan penerjemah)
+[^57]: **Atom** (*al-jawhar al-fard*; Ing. *atom, indivisible part*). Yang dimaksud adalah bagian yang tidak dapat dibagi lagi (*al-juzʾ alladhī lā yatajazzaʾ*). Menurut para mutakalim, jisim tersusun dari atom-atom yang berhingga jumlahnya, sedangkan kaum Peripatetik berpendapat jisim tersusun dari hayula dan bentuk (lihat s.v. *al-hayūlā*). (*Kashshāf*, s.v. *al-jawhar al-fard*.)
 
-Ketahuilah, sebagaimana Allah Ta'ala menegaskan bahwa Dia Esa, Dia pun menegaskan burhan (*burhān*, برهان) yang karenanya Dia wajib dinyatakan Esa. Dia berfirman, *"Dialah Allah Yang Maha Esa."*⁹ Keadaan-Nya sebagai Tuhan menuntut Dia tidak membutuhkan segala sesuatu selain-Nya. Sementara itu, setiap yang tersusun membutuhkan setiap bagiannya, dan setiap bagiannya adalah selain dirinya; maka setiap yang tersusun membutuhkan selain dirinya. Keadaan-Nya sebagai Tuhan mencegah-Nya membutuhkan selain diri-Nya, dan itu mengharuskan kepastian bahwa Dia Esa. Keesaan-Nya mengharuskan kepastian bahwa Dia bukan jisim, bukan substansi, dan tidak berada pada ruang dan arah. Maka tetaplah bahwa firman Allah Ta'ala, *"Dialah Allah Yang Maha Esa,"* adalah burhan yang pasti atas tetapnya semua tuntutan ini.
+[^58]: **Yang menempati ruang** (*mutaḥayyiz*; dari *taḥayyuz*, Ing. *spatialization*). *Taḥayyuz* adalah keberadaan sesuatu di dalam ruang; *Sharḥ al-Mawāqif* merumuskannya sebagai keberadaan di dalam tempat (*al-ḥuṣūl fī al-makān*). Karena itu, menurut para mutakalim, substansi adalah yang menempati ruang dengan zatnya, sedangkan aksiden adalah yang bertumpu pada sesuatu yang menempati ruang (lihat s.v. *al-jawhar* dan *al-ʿaraḍ*). (*Kashshāf*, s.v. *al-taḥayyuz*.)
 
-Adapun firman-Nya, *"Allah tempat meminta segala sesuatu (ash-Shamad),"*¹⁰ maka *ash-Shamad* ialah Tuan yang dituju dalam segala kebutuhan. Ini menunjukkan bahwa Dia bukan jisim dan tidak terikat pada ruang dan arah. Petunjuknya atas penafian kejisiman dapat ditinjau dari beberapa segi.
+[^59]: **Padanan** (*mithl*; Ing. *equal, identical*). Menurut para filsuf, *mithl* adalah yang menyamai sesuatu dalam keseluruhan esensinya; keserupaan (*tamāthul*, *mumāthala*; Ing. *equality*) adalah kesatuan dua hal dalam spesies. *Sharḥ al-Mawāqif* menyatakan Allah Ta'ala suci dari padanan dalam arti ini. Kaum Asyʿariyah mendefinisikan keserupaan sebagai kesatuan dalam seluruh sifat diri (*al-ṣifāt al-nafsiyya*), sehingga dua hal yang serupa berserikat dalam apa yang wajib, mungkin, dan mustahil bagi keduanya. (*Kashshāf*, s.v. *al-mithl* dan *al-tamāthul*.)
+
+[^54]: CT: Yang dimaksud di sini adalah kaum musyrik yang ragu tentang Zat dan sifat-sifat Allah Ta'ala serta mencampuradukkan yang hakiki dengan yang tidak hakiki. (catatan penerjemah)
+
+[^56]: CT: Pada masa klasik, mayoritas ulama meyakini bahwa materi tersusun dari dua unsur pokok, yaitu substansi dan aksiden. (catatan penerjemah)
+
+Ketahuilah, sebagaimana Allah Ta'ala menegaskan bahwa Dia Esa, Dia pun menegaskan burhan (*burhān*, برهان)[^60] yang karenanya Dia wajib dinyatakan Esa. Dia berfirman, *"Dialah Allah Yang Maha Esa"* (al-Ikhlas: 1). Keadaan-Nya sebagai Tuhan menuntut Dia tidak membutuhkan segala sesuatu selain-Nya. Sementara itu, setiap yang tersusun membutuhkan setiap bagiannya, dan setiap bagiannya adalah selain dirinya; maka setiap yang tersusun membutuhkan selain dirinya. Keadaan-Nya sebagai Tuhan mencegah-Nya membutuhkan selain diri-Nya, dan itu mengharuskan kepastian bahwa Dia Esa. Keesaan-Nya mengharuskan kepastian bahwa Dia bukan jisim, bukan substansi, dan tidak berada pada ruang dan arah. Maka tetaplah bahwa firman Allah Ta'ala, *"Dialah Allah Yang Maha Esa,"* adalah burhan yang pasti atas tetapnya semua tuntutan ini.
+
+[^60]: **Burhan** (*burhān*; Ing. *demonstration, proof*). Secara bahasa, burhan adalah penjelasan dan penerangan hujah; ia juga dipakai untuk hujah itu sendiri, yakni sesuatu yang pembenarannya meniscayakan pembenaran hal lain. Para ahli logika mengkhususkannya untuk hujah yang premis-premisnya meyakinkan. Burhan terbagi menjadi *burhān limmī*, yang bergerak dari sebab ke akibat, dan *burhān innī*, yang bergerak dari akibat ke sebab. (*Kashshāf*, s.v. *al-burhān*.)
+
+Adapun firman-Nya, *"Allah tempat meminta segala sesuatu (ash-Shamad)"* (al-Ikhlas: 2), maka *ash-Shamad* ialah Tuan yang dituju dalam segala kebutuhan. Ini menunjukkan bahwa Dia bukan jisim dan tidak terikat pada ruang dan arah. Petunjuknya atas penafian kejisiman dapat ditinjau dari beberapa segi.
 
 Pertama, setiap jisim tersusun, dan setiap yang tersusun membutuhkan setiap bagiannya, sedangkan setiap bagiannya adalah selain dirinya; maka setiap yang tersusun membutuhkan selain dirinya. Yang membutuhkan selain dirinya bukanlah Yang Mahakaya; ia membutuhkan selain dirinya, sehingga ia bukan *ash-Shamad* secara mutlak.
 
 Kedua, seandainya Dia tersusun dari organ dan anggota tubuh, niscaya Dia membutuhkan mata untuk melihat, tangan untuk berbuat, dan kaki untuk berjalan; dan itu menafikan keadaan-Nya sebagai *ash-Shamad* secara mutlak.
 
-Ketiga, kami akan menegakkan dalil bahwa jisim-jisim itu serupa satu sama lain, dan hal-hal yang serupa wajib berserikat dalam kelaziman-kelazimannya. Maka, seandainya sebagian jisim membutuhkan sebagian yang lain, niscaya semua jisim membutuhkan jisim itu, dan niscaya pula jisim itu membutuhkan dirinya sendiri; semua itu mustahil. Karena hal itu mustahil, wajiblah tidak ada satu jisim pun yang membutuhkan-Nya; dan jika demikian, Dia bukanlah *ash-Shamad* secara mutlak.
+Ketiga, kami akan menegakkan dalil bahwa jisim-jisim itu serupa satu sama lain, dan hal-hal yang serupa wajib berserikat dalam kelaziman-kelazimannya[^61]. Maka, seandainya sebagian jisim membutuhkan sebagian yang lain, niscaya semua jisim membutuhkan jisim itu, dan niscaya pula jisim itu membutuhkan dirinya sendiri; semua itu mustahil. Karena hal itu mustahil, wajiblah tidak ada satu jisim pun yang membutuhkan-Nya; dan jika demikian, Dia bukanlah *ash-Shamad* secara mutlak.
 
-Adapun petunjuknya bahwa Allah Ta'ala mahasuci dari ruang dan arah ialah: seandainya Allah Ta'ala terikat pada ruang dan arah, maka keberadaan-Nya pada ruang tertentu itu adakalanya wajib, adakalanya jaiz. Jika wajib, maka Zat Allah Ta'ala membutuhkan ruang tertentu itu untuk wujud dan kenyataan-Nya, sedangkan ruang tertentu itu tidak membutuhkan Zat-Nya yang khusus itu. Sebab, seandainya kita andaikan Zat Allah Ta'ala tidak berada di ruang tertentu itu, ruang itu sama sekali tidak menjadi batal. Dengan pengandaian ini, Allah Ta'ala membutuhkan ruang itu, sehingga Dia bukan *ash-Shamad* secara mutlak. Adapun jika keberadaan-Nya pada ruang tertentu itu jaiz, tidak wajib, maka Dia membutuhkan suatu pengkhusus (*mukhaṣṣiṣ*, مخصص) yang mengkhususkan-Nya pada ruang tertentu itu; dan itu mengharuskan Dia membutuhkan, serta menafikan keadaan-Nya sebagai *ash-Shamad*.
+[^61]: **Kelaziman** (*lāzim*, jamak *lawāzim*; Ing. *necessary, inherent*). Para ahli logika mendefinisikan *lāzim* sebagai sesuatu yang mustahil terlepas dari sesuatu yang lain. Kelaziman terbagi menjadi kelaziman bagi wujud, seperti menempati ruang bagi jisim, dan kelaziman bagi esensi. (*Kashshāf*, s.v. *al-lāzim*.)
 
-Adapun firman-Nya, *"serta tidak ada sesuatu pun yang setara dengan-Nya,"*¹¹ ini pun menunjukkan bahwa Dia bukan jisim dan bukan substansi. Sebab, kami akan menegakkan dalil bahwa substansi-substansi itu serupa satu sama lain. Maka, seandainya Allah Ta'ala substansi, niscaya Dia padanan bagi semua substansi, sehingga setiap substansi setara dengan-Nya. Dan seandainya Dia jisim, niscaya Dia tersusun dari substansi-substansi, karena demikianlah jisim, lalu kembalilah keharusan yang telah disebutkan. Maka tetaplah bahwa surah ini termasuk dalil yang paling terang bahwa Allah Ta'ala bukan jisim, bukan substansi, dan tidak berada pada tempat dan ruang.
+Adapun petunjuknya bahwa Allah Ta'ala mahasuci dari ruang dan arah ialah: seandainya Allah Ta'ala terikat pada ruang dan arah, maka keberadaan-Nya pada ruang tertentu itu adakalanya wajib, adakalanya jaiz. Jika wajib, maka Zat Allah Ta'ala membutuhkan ruang tertentu itu untuk wujud dan kenyataan-Nya, sedangkan ruang tertentu itu tidak membutuhkan Zat-Nya yang khusus itu. Sebab, seandainya kita andaikan Zat Allah Ta'ala tidak berada di ruang tertentu itu, ruang itu sama sekali tidak menjadi batal. Dengan pengandaian ini, Allah Ta'ala membutuhkan ruang itu, sehingga Dia bukan *ash-Shamad* secara mutlak. Adapun jika keberadaan-Nya pada ruang tertentu itu jaiz, tidak wajib, maka Dia membutuhkan suatu pengkhusus (*mukhaṣṣiṣ*, مخصص)[^62] yang mengkhususkan-Nya pada ruang tertentu itu; dan itu mengharuskan Dia membutuhkan, serta menafikan keadaan-Nya sebagai *ash-Shamad*.
 
-⁹ CT: QS al-Ikhlas [112]: 1.
+[^62]: **Pengkhusus** (*mukhaṣṣiṣ*; dari *takhṣīṣ*, Ing. *particularization*). *Takhṣīṣ* secara bahasa berarti menjadikan sesuatu khusus bagi yang lain. Dalam nahwu, ia adalah pengurangan keumuman yang terdapat pada kata nakirah. Dalam kalam, *mukhaṣṣiṣ* adalah faktor yang menentukan sesuatu pada salah satu dari beberapa kemungkinan yang setara. (*Kashshāf*, s.v. *al-takhṣīṣ*.)
 
-¹⁰ CT: QS al-Ikhlas [112]: 2.
+Adapun firman-Nya, *"serta tidak ada sesuatu pun yang setara dengan-Nya"* (al-Ikhlas: 4), ini pun menunjukkan bahwa Dia bukan jisim dan bukan substansi. Sebab, kami akan menegakkan dalil bahwa substansi-substansi itu serupa satu sama lain. Maka, seandainya Allah Ta'ala substansi, niscaya Dia padanan bagi semua substansi, sehingga setiap substansi setara dengan-Nya. Dan seandainya Dia jisim, niscaya Dia tersusun dari substansi-substansi, karena demikianlah jisim, lalu kembalilah keharusan yang telah disebutkan. Maka tetaplah bahwa surah ini termasuk dalil yang paling terang bahwa Allah Ta'ala bukan jisim, bukan substansi, dan tidak berada pada tempat dan ruang.
 
-¹¹ CT: QS al-Ikhlas [112]: 4.
+Ketahuilah, sebagaimana orang-orang kafir bertanya kepada Rasul tentang sifat Tuhannya, lalu Allah menjawab dengan surah ini yang menunjukkan bahwa Allah Ta'ala mahasuci dari keadaan sebagai jisim, substansi, atau sesuatu yang terikat pada tempat, demikian pula Fir'aun bertanya kepada Musa 'alaihissalam tentang sifat Allah Ta'ala. Ia berkata, *"Apakah Tuhan seluruh alam itu?"* (asy-Syu'ara': 23)[^63] Musa tidak menjawab pertanyaan ini kecuali dengan menyebut bahwa Allah Ta'ala adalah Pencipta dan Pengatur manusia, serta Pencipta dan Pengatur langit dan bumi. Ini pun termasuk dalil terkuat bahwa Allah Ta'ala tidak menempati ruang dan tidak berada pada arah. Sebab, kami akan menjelaskan, insyaallah, bahwa keadaan sesuatu sebagai bervolume dan menempati ruang adalah zat, diri, dan hakikatnya sendiri, bukan sifat yang melekat pada zat. Adapun keadaan-Nya sebagai Pencipta dan Pengatur segala sesuatu adalah sifat. Sementara itu, kata *mā* (apakah) adalah pertanyaan tentang esensi dan permintaan akan hakikat. Maka, seandainya Allah Ta'ala menempati ruang, niscaya menjawab pertanyaan *"Apakah Tuhan seluruh alam itu?"* (asy-Syu'ara': 23) dengan menyebut bahwa Dia menempati ruang lebih tepat daripada menjawabnya dengan menyebut bahwa Dia Pencipta. Jika demikian, jawaban Musa 'alaihissalam keliru, dan tuduhan Fir'aun bahwa ia *"orang gila"* (asy-Syu'ara': 27) yang tidak memahami pertanyaan dan tidak mengajukan jawaban yang tepat dan mengena atas pertanyaan itu menjadi benar. Karena itu batil, kita tahu bahwa Allah Ta'ala tidak menempati ruang. Maka, tak ayal, hakikat-Nya Subhanahu wa Ta'ala tidak dapat diperkenalkan kecuali dengan menyebut bahwa Dia Pencipta dan Pengatur. Maka jawaban Musa 'alaihissalam benar, dan pertanyaan Fir'aun gugur dan rusak. Maka tetaplah bahwa sebagaimana jawaban Muhammad atas pertanyaan orang-orang kafir tentang sifat Allah Ta'ala menunjukkan kemahasucian Allah Ta'ala dari keadaan menempati ruang, demikian pula jawaban Musa 'alaihissalam.
 
-Ketahuilah, sebagaimana orang-orang kafir bertanya kepada Rasul tentang sifat Tuhannya, lalu Allah menjawab dengan surah ini yang menunjukkan bahwa Allah Ta'ala mahasuci dari keadaan sebagai jisim, substansi, atau sesuatu yang terikat pada tempat, demikian pula Fir'aun bertanya kepada Musa 'alaihissalam tentang sifat Allah Ta'ala. Ia berkata, *"Apakah Tuhan seluruh alam itu?"*¹²ᵃ Musa tidak menjawab pertanyaan ini kecuali dengan menyebut bahwa Allah Ta'ala adalah Pencipta dan Pengatur manusia, serta Pencipta dan Pengatur langit dan bumi. Ini pun termasuk dalil terkuat bahwa Allah Ta'ala tidak menempati ruang dan tidak berada pada arah. Sebab, kami akan menjelaskan, insyaallah, bahwa keadaan sesuatu sebagai bervolume dan menempati ruang adalah zat, diri, dan hakikatnya sendiri, bukan sifat yang melekat pada zat. Adapun keadaan-Nya sebagai Pencipta dan Pengatur segala sesuatu adalah sifat. Sementara itu, kata *mā* (apakah) adalah pertanyaan tentang esensi dan permintaan akan hakikat. Maka, seandainya Allah Ta'ala menempati ruang, niscaya menjawab pertanyaan *"Apakah Tuhan seluruh alam itu?"*¹³ dengan menyebut bahwa Dia menempati ruang lebih tepat daripada menjawabnya dengan menyebut bahwa Dia Pencipta. Jika demikian, jawaban Musa 'alaihissalam keliru, dan tuduhan Fir'aun bahwa ia *"orang gila"*¹⁴ yang tidak memahami pertanyaan dan tidak mengajukan jawaban yang tepat dan mengena atas pertanyaan itu menjadi benar. Karena itu batil, kita tahu bahwa Allah Ta'ala tidak menempati ruang. Maka, tak ayal, hakikat-Nya Subhanahu wa Ta'ala tidak dapat diperkenalkan kecuali dengan menyebut bahwa Dia Pencipta dan Pengatur. Maka jawaban Musa 'alaihissalam benar, dan pertanyaan Fir'aun gugur dan rusak. Maka tetaplah bahwa sebagaimana jawaban Muhammad atas pertanyaan orang-orang kafir tentang sifat Allah Ta'ala menunjukkan kemahasucian Allah Ta'ala dari keadaan menempati ruang, demikian pula jawaban Musa 'alaihissalam.
-
-Adapun sang Khalil (Ibrahim) shallallahu 'alaihi wasallam, Allah Ta'ala mengisahkan dalam Kitab-Nya bahwa ia berdalil dengan terjadinya perubahan pada keadaan bintang-bintang atas kebaharuannya, lalu ketika dalilnya tuntas ia berkata, *"Sesungguhnya aku menghadapkan wajahku kepada (Allah) yang menciptakan langit dan bumi dengan penuh kepasrahan (mengikuti) agama yang benar."*¹⁵ Ketahuilah, peristiwa ini menunjukkan penyucian dan pengkudusan Allah Ta'ala dari keadaan menempati ruang dan arah. Petunjuknya atas penyucian Allah Ta'ala dari keadaan menempati ruang dapat ditinjau dari beberapa segi.
+Adapun sang Khalil (Ibrahim) shallallahu 'alaihi wasallam, Allah Ta'ala mengisahkan dalam Kitab-Nya bahwa ia berdalil dengan terjadinya perubahan pada keadaan bintang-bintang atas kebaharuannya, lalu ketika dalilnya tuntas ia berkata, *"Sesungguhnya aku menghadapkan wajahku kepada (Allah) yang menciptakan langit dan bumi dengan penuh kepasrahan (mengikuti) agama yang benar"* (al-An'am: 79). Ketahuilah, peristiwa ini menunjukkan penyucian dan pengkudusan Allah Ta'ala dari keadaan menempati ruang dan arah. Petunjuknya atas penyucian Allah Ta'ala dari keadaan menempati ruang dapat ditinjau dari beberapa segi.
 
 Pertama, kami akan menjelaskan, insyaallah, bahwa jisim-jisim itu serupa satu sama lain. Jika itu telah tetap, kami katakan: apa yang berlaku sah pada salah satu dari dua hal yang serupa, wajib berlaku sah pula pada yang lain. Maka, seandainya Allah Ta'ala jisim atau substansi, wajiblah berlaku sah pada-Nya segala yang berlaku sah pada selain-Nya, dan berlaku sah pada selain-Nya segala yang berlaku sah pada-Nya; dan itu menuntut kemungkinan berubah pada-Nya. Karena sang Khalil shallallahu 'alaihi wasallam memutuskan bahwa yang berubah dari satu keadaan ke keadaan lain tidak layak menjadi Tuhan, dan telah tetap bahwa seandainya Dia jisim niscaya perubahan berlaku sah pada-Nya, maka wajib dipastikan bahwa Allah Ta'ala sama sekali tidak menempati ruang.
 
-Kedua, ketika dalilnya tuntas, ia berkata, *"Aku menghadapkan wajahku kepada (Allah) yang menciptakan langit dan bumi,"* dan tidak menyebut satu pun sifat Allah Ta'ala selain bahwa Dia Pencipta alam. Allah Ta'ala memuji dan memuliakannya atas perkataan ini dengan firman-Nya, *"Itulah keterangan Kami yang Kami berikan kepada Ibrahim untuk menghadapi kaumnya. Kami tinggikan derajat siapa yang Kami kehendaki."*¹⁶ Seandainya Tuhan alam adalah jisim yang bersifat dengan ukuran tertentu dan bentuk tertentu, niscaya pengetahuan tentang-Nya tidak sempurna kecuali setelah mengetahui bahwa Dia jisim yang menempati ruang. Jika demikian, ia tidak layak dipuji dan dimuliakan hanya karena mengetahui bahwa Dia Pencipta alam. Karena kadar pengetahuan ini sudah memadai bagi kesempurnaan pengenalan akan Allah Ta'ala, hal itu menunjukkan bahwa Allah Ta'ala tidak menempati ruang.
+Kedua, ketika dalilnya tuntas, ia berkata, *"Aku menghadapkan wajahku kepada (Allah) yang menciptakan langit dan bumi,"* dan tidak menyebut satu pun sifat Allah Ta'ala selain bahwa Dia Pencipta alam. Allah Ta'ala memuji dan memuliakannya atas perkataan ini dengan firman-Nya, *"Itulah keterangan Kami yang Kami berikan kepada Ibrahim untuk menghadapi kaumnya. Kami tinggikan derajat siapa yang Kami kehendaki"* (al-An'am: 83). Seandainya Tuhan alam adalah jisim yang bersifat dengan ukuran tertentu dan bentuk tertentu, niscaya pengetahuan tentang-Nya tidak sempurna kecuali setelah mengetahui bahwa Dia jisim yang menempati ruang. Jika demikian, ia tidak layak dipuji dan dimuliakan hanya karena mengetahui bahwa Dia Pencipta alam. Karena kadar pengetahuan ini sudah memadai bagi kesempurnaan pengenalan akan Allah Ta'ala, hal itu menunjukkan bahwa Allah Ta'ala tidak menempati ruang.
 
 Ketiga, seandainya Allah Ta'ala jisim, niscaya setiap jisim berserikat dengan-Nya dalam keseluruhan esensi-Nya. Maka pendapat bahwa Dia jisim menuntut penetapan sekutu bagi Allah Ta'ala, dan itu bertentangan dengan perkataannya, *"dan aku bukanlah termasuk orang-orang musyrik."* Maka tetaplah, dengan apa yang telah kami sebutkan, bahwa para nabi yang agung, semoga selawat Allah tercurah kepada mereka, memastikan penyucian dan pengkudusan Allah Ta'ala dari kejisiman, kesubstansian, dan arah. Hanya kepada Allah kita memohon taufik.
 
-¹² CT: QS asy-Syu'ara' [26]: 23.
+[^63]: CP: Terjemahan Kemenag mengalihkan *mā* dalam QS asy-Syu'ara' [26]: 23 menjadi "siapa". Di sini dipakai "apakah", karena seluruh argumen ar-Razi bertumpu pada *mā* sebagai pertanyaan tentang esensi.
 
-¹³ CT: QS asy-Syu'ara' [26]: 23.
+**Hujah kedua dari Al-Qur'an**: firman Allah Ta'ala, *"Tidak ada sesuatu pun yang serupa dengan-Nya"* (asy-Syura: 11). Seandainya Dia jisim, niscaya Dia padanan bagi semua jisim dalam keseluruhan esensi, sebab kami akan menjelaskan, insyaallah, dengan dalil-dalil yang terang bahwa jisim-jisim itu semuanya serupa satu sama lain; dan itu seolah-olah bertentangan dengan nas ini. Jika dikatakan: mengapa tidak boleh dikatakan bahwa Allah Ta'ala, walaupun jisim, berbeda dari jisim-jisim lain, sebagaimana manusia dan kuda, walaupun sama-sama jisim, berbeda dalam keadaan dan sifat, sehingga tidak boleh dikatakan bahwa kuda itu semisal manusia? Demikian pula di sini. Jawabannya dari dua sisi.
 
-¹⁴ CT: QS asy-Syu'ara' [26]: 27.
+Pertama, kami akan menegakkan dalil bahwa jisim-jisim itu semuanya serupa dalam keseluruhan esensi. Maka, seandainya Allah Ta'ala jisim, niscaya Zat-Nya padanan bagi semua jisim, dan itu menyalahi nas. Manusia dan kuda, zat masing-masing serupa dengan zat yang lain; perbedaan hanya terjadi pada sifat dan aksiden (*aʿrāḍ*, أعراض)[^64]. Jika dua zat itu serupa, maka terikatnya masing-masing pada sifat-sifat khususnya termasuk hal yang jaiz, bukan yang wajib, sebab hal-hal yang serupa dalam keseluruhan zat dan esensi tidak mungkin berbeda dalam kelaziman-kelazimannya. Maka, seandainya Sang Pencipta Ta'ala jisim, wajiblah keterikatan-Nya pada sifat-sifat khusus-Nya termasuk hal yang jaiz; dan jika demikian, niscaya Dia membutuhkan pengatur dan pengkhusus, dan itu membatalkan pendapat bahwa Dia Tuhan alam.
 
-¹⁵ CT: QS al-An'am [6]: 79.
-
-¹⁶ CT: QS al-An'am [6]: 83.
-
-ᵃ CP: Terjemahan Kemenag mengalihkan *mā* dalam QS asy-Syu'ara' [26]: 23 menjadi "siapa". Di sini dipakai "apakah", karena seluruh argumen ar-Razi bertumpu pada *mā* sebagai pertanyaan tentang esensi.
-
-**Hujah kedua dari Al-Qur'an**: firman Allah Ta'ala, *"Tidak ada sesuatu pun yang serupa dengan-Nya."*¹⁷ Seandainya Dia jisim, niscaya Dia padanan bagi semua jisim dalam keseluruhan esensi, sebab kami akan menjelaskan, insyaallah, dengan dalil-dalil yang terang bahwa jisim-jisim itu semuanya serupa satu sama lain; dan itu seolah-olah bertentangan dengan nas ini. Jika dikatakan: mengapa tidak boleh dikatakan bahwa Allah Ta'ala, walaupun jisim, berbeda dari jisim-jisim lain, sebagaimana manusia dan kuda, walaupun sama-sama jisim, berbeda dalam keadaan dan sifat, sehingga tidak boleh dikatakan bahwa kuda itu semisal manusia? Demikian pula di sini. Jawabannya dari dua sisi.
-
-Pertama, kami akan menegakkan dalil bahwa jisim-jisim itu semuanya serupa dalam keseluruhan esensi. Maka, seandainya Allah Ta'ala jisim, niscaya Zat-Nya padanan bagi semua jisim, dan itu menyalahi nas. Manusia dan kuda, zat masing-masing serupa dengan zat yang lain; perbedaan hanya terjadi pada sifat dan aksiden (*aʿrāḍ*, أعراض). Jika dua zat itu serupa, maka terikatnya masing-masing pada sifat-sifat khususnya termasuk hal yang jaiz, bukan yang wajib, sebab hal-hal yang serupa dalam keseluruhan zat dan esensi tidak mungkin berbeda dalam kelaziman-kelazimannya. Maka, seandainya Sang Pencipta Ta'ala jisim, wajiblah keterikatan-Nya pada sifat-sifat khusus-Nya termasuk hal yang jaiz; dan jika demikian, niscaya Dia membutuhkan pengatur dan pengkhusus, dan itu membatalkan pendapat bahwa Dia Tuhan alam.
+[^64]: **Aksiden** (*ʿaraḍ*, jamak *aʿrāḍ*; Ing. *accident*). Menurut kaum Asyʿariyah, aksiden adalah yang baharu dan bertumpu pada sesuatu yang menempati ruang dengan zatnya (*al-ḥādith al-qāʾim bi-l-mutaḥayyiz bi-l-dhāt*); karena itu, Zat dan sifat-sifat Allah bukan aksiden dan bukan pula substansi. Menurut Muktazilah, aksiden adalah sesuatu yang, jika ada, bertumpu pada sesuatu yang menempati ruang. Dalam logika, istilah yang sama dipakai untuk universal aksidental sebagai lawan dari yang esensial (*dhātī*). (*Kashshāf*, s.v. *al-ʿaraḍ*.)
 
 Kedua, dengan pengandaian bahwa Allah Ta'ala berserikat dengan jisim-jisim lain dalam kejisiman dan berbeda dari mereka dalam esensi khusus-Nya, wajiblah terjadi kemajemukan pada Zat Allah Ta'ala. Sebab, kejisiman adalah titik kesamaan antara Allah dan selain-Nya, sedangkan kekhususan Zat-Nya bukan titik kesamaan antara Allah Ta'ala dan selain-Nya; dan titik kesamaan berlainan dengan titik pembeda. Itu menuntut terjadinya ketersusunan pada Zat-Nya yang khusus, dan setiap yang tersusun adalah mungkin, bukan wajib, sebagaimana telah kami jelaskan. Maka tetaplah bahwa pertanyaan ini gugur. Allah lebih mengetahui.
 
-¹⁷ CT: QS asy-Syura [42]: 11.
+**Hujah ketiga**: firman Allah Ta'ala, *"Allahlah Yang Mahakaya dan kamulah yang fakir"* (Muhammad: 38). Ayat ini menunjukkan bahwa Allah Ta'ala Mahakaya. Seandainya Dia jisim, niscaya Dia tidak Mahakaya, sebab setiap jisim tersusun dan setiap yang tersusun membutuhkan setiap bagiannya. Lagi pula, seandainya keterikatan-Nya pada arah itu wajib, niscaya Dia membutuhkan arah, dan itu merusak keadaan-Nya sebagai Yang Mahakaya secara mutlak.
 
-**Hujah ketiga**: firman Allah Ta'ala, *"Allahlah Yang Mahakaya dan kamulah yang fakir."*¹⁸ Ayat ini menunjukkan bahwa Allah Ta'ala Mahakaya. Seandainya Dia jisim, niscaya Dia tidak Mahakaya, sebab setiap jisim tersusun dan setiap yang tersusun membutuhkan setiap bagiannya. Lagi pula, seandainya keterikatan-Nya pada arah itu wajib, niscaya Dia membutuhkan arah, dan itu merusak keadaan-Nya sebagai Yang Mahakaya secara mutlak.
+**Hujah keempat**: firman Allah Ta'ala, *"Tidak ada tuhan selain Dia, Yang Mahahidup lagi terus-menerus mengurus (makhluk-Nya)"* (al-Baqarah: 255). *Al-Qayyūm* ialah Dia yang berdiri sendiri dan menegakkan selain-Nya. Keadaan-Nya berdiri sendiri berarti Dia tidak membutuhkan segala sesuatu selain-Nya, dan keadaan-Nya menegakkan selain-Nya berarti segala sesuatu selain-Nya membutuhkan-Nya. Seandainya Dia jisim, niscaya Dia membutuhkan selain-Nya, yaitu bagian-Nya, dan selain-Nya, yaitu bagian-Nya itu, tidak membutuhkan-Nya; maka ketika itu Dia bukan *al-Qayyūm*. Lagi pula, seandainya keberadaan-Nya di suatu ruang itu wajib, niscaya Dia membutuhkan ruang itu, sehingga Dia bukan *al-Qayyūm* secara mutlak. Jika dikatakan: bukankah kalian berpendapat bahwa Dia wajib bersifat dengan ilmu, dan menurut kalian hal itu tidak merusak keadaan-Nya sebagai *al-Qayyūm*? Maka mengapa tidak boleh pula dikatakan bahwa Dia wajib berada di ruang tertentu, dan hal itu tidak merusak keadaan-Nya sebagai *al-Qayyūm*? Dijawab: menurut kami, Zat-Nya ibarat yang mengharuskan sifat itu, dan hal itu tidak merusak pensifatan Zat sebagai *al-Qayyūm*. Adapun di sini, tidak mungkin dikatakan bahwa Zat-Nya mengharuskan ruang tertentu itu, sebab dengan pengandaian bahwa Dia tidak berada di ruang itu, tidak lantas ruang itu batal atau tiada. Maka ruang itu tidak membutuhkan-Nya, sedangkan Dia membutuhkan ruang itu. Maka jelaslah perbedaannya. Allah lebih mengetahui.
 
-¹⁸ CT: QS Muhammad [47]: 38.
+**Hujah kelima**: firman Allah Ta'ala, *"Apakah engkau mengetahui ada sesuatu yang sama dengan-Nya?"* (Maryam: 65) Ibnu Abbas radhiyallahu 'anhuma berkata: "Apakah engkau mengetahui ada padanan bagi-Nya?" Seandainya Dia menempati ruang, niscaya setiap substansi adalah padanan-Nya.
 
-**Hujah keempat**: firman Allah Ta'ala, *"Tidak ada tuhan selain Dia, Yang Mahahidup lagi terus-menerus mengurus (makhluk-Nya)."*¹⁹ *Al-Qayyūm* ialah Dia yang berdiri sendiri dan menegakkan selain-Nya. Keadaan-Nya berdiri sendiri berarti Dia tidak membutuhkan segala sesuatu selain-Nya, dan keadaan-Nya menegakkan selain-Nya berarti segala sesuatu selain-Nya membutuhkan-Nya. Seandainya Dia jisim, niscaya Dia membutuhkan selain-Nya, yaitu bagian-Nya, dan selain-Nya, yaitu bagian-Nya itu, tidak membutuhkan-Nya; maka ketika itu Dia bukan *al-Qayyūm*. Lagi pula, seandainya keberadaan-Nya di suatu ruang itu wajib, niscaya Dia membutuhkan ruang itu, sehingga Dia bukan *al-Qayyūm* secara mutlak. Jika dikatakan: bukankah kalian berpendapat bahwa Dia wajib bersifat dengan ilmu, dan menurut kalian hal itu tidak merusak keadaan-Nya sebagai *al-Qayyūm*? Maka mengapa tidak boleh pula dikatakan bahwa Dia wajib berada di ruang tertentu, dan hal itu tidak merusak keadaan-Nya sebagai *al-Qayyūm*? Dijawab: menurut kami, Zat-Nya ibarat yang mengharuskan sifat itu, dan hal itu tidak merusak pensifatan Zat sebagai *al-Qayyūm*. Adapun di sini, tidak mungkin dikatakan bahwa Zat-Nya mengharuskan ruang tertentu itu, sebab dengan pengandaian bahwa Dia tidak berada di ruang itu, tidak lantas ruang itu batal atau tiada. Maka ruang itu tidak membutuhkan-Nya, sedangkan Dia membutuhkan ruang itu. Maka jelaslah perbedaannya. Allah lebih mengetahui.
+**Hujah keenam**: firman Allah Ta'ala, *"Dialah Allah Yang Maha Pencipta, Yang Mengadakan, Yang Membentuk Rupa"* (al-Hasyr: 24). Segi pendalilannya: telah kami jelaskan dalam kitab-kitab kami yang lain bahwa *al-khāliq* (pencipta) dalam bahasa berarti yang menentukan ukuran. Seandainya Allah Ta'ala jisim, niscaya Dia berhingga; dan jika berhingga, niscaya Dia terkhususkan dengan ukuran tertentu. Karena Dia menyifati diri-Nya sebagai Pencipta, wajiblah Allah Ta'ala menjadi penentu ukuran bagi segala yang berukuran dengan ukuran-ukurannya yang khusus. Maka, jika Dia sendiri berukuran pada Zat-Nya dengan ukuran tertentu, niscaya Dia penentu ukuran bagi diri-Nya sendiri, dan itu mustahil. Lagi pula, seandainya Dia jisim, niscaya Dia berhingga; setiap yang berhingga dikelilingi oleh satu batas atau batas-batas yang beragam; setiap yang demikian berbentuk; dan setiap yang berbentuk memiliki rupa. Maka, seandainya Dia jisim, niscaya Dia memiliki rupa. Padahal Allah Ta'ala menyifati diri-Nya sebagai Pembentuk Rupa, sehingga niscaya Dia pembentuk rupa bagi diri-Nya sendiri, dan itu mustahil. Maka wajiblah Dia mahasuci dari rupa dan kejisiman agar kemustahilan ini tidak terjadi.
 
-¹⁹ CT: QS al-Baqarah [2]: 255.
+**Hujah ketujuh**: firman Allah Ta'ala, *"Dialah Yang Awal, Yang Akhir, Yang Zahir, dan Yang Batin"* (al-Hadid: 3). Dia menyifati diri-Nya sebagai Yang Zahir dan Yang Batin. Seandainya Dia jisim, niscaya sisi lahirnya berlainan dengan sisi batinnya, sehingga satu hal yang sama tidak dapat disifati sebagai zahir dan batin sekaligus. Sebab, dengan pengandaian bahwa Dia jisim, yang zahir dari-Nya adalah permukaan-Nya dan yang batin dari-Nya adalah kedalaman-Nya, sehingga satu hal yang sama tidak zahir dan batin sekaligus. Lagi pula, para mufasir berkata: Dia zahir dari sisi dalil-dalil, dan batin dari sisi bahwa Dia tidak dicerap oleh indra dan tidak terjangkau oleh khayal. Seandainya Dia jisim, niscaya Dia tidak mungkin disifati sebagai tidak dicerap oleh indra dan tidak terjangkau oleh khayal.
 
-**Hujah kelima**: firman Allah Ta'ala, *"Apakah engkau mengetahui ada sesuatu yang sama dengan-Nya?"*²⁰ Ibnu Abbas radhiyallahu 'anhuma berkata: "Apakah engkau mengetahui ada padanan bagi-Nya?" Seandainya Dia menempati ruang, niscaya setiap substansi adalah padanan-Nya.
-
-²⁰ CT: QS Maryam [19]: 65.
-
-**Hujah keenam**: firman Allah Ta'ala, *"Dialah Allah Yang Maha Pencipta, Yang Mengadakan, Yang Membentuk Rupa."*²¹ Segi pendalilannya: telah kami jelaskan dalam kitab-kitab kami yang lain bahwa *al-khāliq* (pencipta) dalam bahasa berarti yang menentukan ukuran. Seandainya Allah Ta'ala jisim, niscaya Dia berhingga; dan jika berhingga, niscaya Dia terkhususkan dengan ukuran tertentu. Karena Dia menyifati diri-Nya sebagai Pencipta, wajiblah Allah Ta'ala menjadi penentu ukuran bagi segala yang berukuran dengan ukuran-ukurannya yang khusus. Maka, jika Dia sendiri berukuran pada Zat-Nya dengan ukuran tertentu, niscaya Dia penentu ukuran bagi diri-Nya sendiri, dan itu mustahil. Lagi pula, seandainya Dia jisim, niscaya Dia berhingga; setiap yang berhingga dikelilingi oleh satu batas atau batas-batas yang beragam; setiap yang demikian berbentuk; dan setiap yang berbentuk memiliki rupa. Maka, seandainya Dia jisim, niscaya Dia memiliki rupa. Padahal Allah Ta'ala menyifati diri-Nya sebagai Pembentuk Rupa, sehingga niscaya Dia pembentuk rupa bagi diri-Nya sendiri, dan itu mustahil. Maka wajiblah Dia mahasuci dari rupa dan kejisiman agar kemustahilan ini tidak terjadi.
-
-²¹ CT: QS al-Hasyr [59]: 24.
-
-**Hujah ketujuh**: firman Allah Ta'ala, *"Dialah Yang Awal, Yang Akhir, Yang Zahir, dan Yang Batin."*²² Dia menyifati diri-Nya sebagai Yang Zahir dan Yang Batin. Seandainya Dia jisim, niscaya sisi lahirnya berlainan dengan sisi batinnya, sehingga satu hal yang sama tidak dapat disifati sebagai zahir dan batin sekaligus. Sebab, dengan pengandaian bahwa Dia jisim, yang zahir dari-Nya adalah permukaan-Nya dan yang batin dari-Nya adalah kedalaman-Nya, sehingga satu hal yang sama tidak zahir dan batin sekaligus. Lagi pula, para mufasir berkata: Dia zahir dari sisi dalil-dalil, dan batin dari sisi bahwa Dia tidak dicerap oleh indra dan tidak terjangkau oleh khayal. Seandainya Dia jisim, niscaya Dia tidak mungkin disifati sebagai tidak dicerap oleh indra dan tidak terjangkau oleh khayal.
-
-²² CT: QS al-Hadid [57]: 3.
-
-**Hujah kedelapan**: firman Allah Ta'ala, *"sedangkan ilmu mereka tidak dapat meliputi-Nya,"*²³ dan firman-Nya, *"Dia tidak dapat dijangkau oleh penglihatan mata."*²⁴ Ini menunjukkan bahwa Allah Ta'ala mahasuci dari ukuran, bentuk, dan rupa; sebab jika tidak, niscaya pencerapan dan ilmu dapat meliputi-Nya, dan itu menyalahi kedua nas ini.
+**Hujah kedelapan**: firman Allah Ta'ala, *"sedangkan ilmu mereka tidak dapat meliputi-Nya"* (Taha: 110), dan firman-Nya, *"Dia tidak dapat dijangkau oleh penglihatan mata"* (al-An'am: 103). Ini menunjukkan bahwa Allah Ta'ala mahasuci dari ukuran, bentuk, dan rupa; sebab jika tidak, niscaya pencerapan dan ilmu dapat meliputi-Nya, dan itu menyalahi kedua nas ini.
 
 Jika dikatakan: mengapa tidak boleh dikatakan bahwa Dia, walaupun jisim, adalah jisim yang besar, sehingga karena itulah pencerapan dan ilmu tidak dapat meliputi-Nya? Kami jawab: jika demikian halnya, sah pula dikatakan bahwa ilmu dan penglihatan makhluk tidak dapat meliputi langit, gunung, lautan, dan padang-padang luas, sebab semua itu jisim-jisim besar yang ujung-ujungnya tidak terliputi oleh penglihatan dan keseluruhan bagiannya tidak terjangkau oleh ilmu. Jika demikian halnya, tidak ada faedahnya mengkhususkan Zat Allah Ta'ala dengan sifat ini.
 
-²³ CT: QS Taha [20]: 110.
-
-²⁴ CT: QS al-An'am [6]: 103.
-
-**Hujah kesembilan**: firman Allah Ta'ala, *"Apabila hamba-hamba-Ku bertanya kepadamu (Nabi Muhammad) tentang Aku, sesungguhnya Aku dekat. Aku mengabulkan permohonan orang yang berdoa apabila dia berdoa kepada-Ku. Maka, hendaklah mereka memenuhi (perintah)-Ku dan beriman kepada-Ku agar mereka selalu berada dalam kebenaran."*²⁵ Nabi shallallahu 'alaihi wasallam pernah ditanya, "Apakah Tuhan kami dekat sehingga kami bermunajat kepada-Nya, ataukah jauh sehingga kami menyeru-Nya?" Lalu Allah Ta'ala menurunkan ayat ini. Seandainya Allah Ta'ala berada di langit atau di Arasy, tidaklah benar perkataan bahwa Allah Ta'ala dekat dengan hamba-hamba-Nya.
-
-²⁵ CT: QS al-Baqarah [2]: 186.
+**Hujah kesembilan**: firman Allah Ta'ala, *"Apabila hamba-hamba-Ku bertanya kepadamu (Nabi Muhammad) tentang Aku, sesungguhnya Aku dekat. Aku mengabulkan permohonan orang yang berdoa apabila dia berdoa kepada-Ku. Maka, hendaklah mereka memenuhi (perintah)-Ku dan beriman kepada-Ku agar mereka selalu berada dalam kebenaran"* (al-Baqarah: 186). Nabi shallallahu 'alaihi wasallam pernah ditanya, "Apakah Tuhan kami dekat sehingga kami bermunajat kepada-Nya, ataukah jauh sehingga kami menyeru-Nya?" Lalu Allah Ta'ala menurunkan ayat ini. Seandainya Allah Ta'ala berada di langit atau di Arasy, tidaklah benar perkataan bahwa Allah Ta'ala dekat dengan hamba-hamba-Nya.
 
 **Hujah kesepuluh**: seandainya Allah Ta'ala berada pada arah atas, niscaya Dia adalah langit; dan seandainya Dia langit, niscaya Dia makhluk bagi diri-Nya sendiri, dan itu mustahil. Maka keberadaan-Nya pada arah atas mustahil. Kami katakan bahwa seandainya Allah Ta'ala berada pada arah atas niscaya Dia langit, karena dua segi.
 
-Pertama, kata *samāʾ* (langit) diturunkan dari *sumuww* (ketinggian), dan segala sesuatu yang menaungimu adalah *samāʾ*. Inilah derivasi kebahasaan yang asli, dan kebiasaan pemakaian Al-Qur'an pun mengukuhkannya. Buktinya, para mufasir menyebutkan dalam tafsir firman Allah Ta'ala, *"dan Dia (juga) menurunkan (butiran-butiran) es dari langit, (yaitu) dari (gumpalan-gumpalan awan seperti) gunung-gunung,"*²⁶ bahwa yang dimaksud adalah awan. Mereka berkata: menamai awan dengan *samāʾ* dibenarkan karena padanya terdapat makna ketinggian. Mereka juga menyebutkan dalam tafsir firman-Nya, *"Kami turunkan dari langit air yang sangat suci,"*²⁷ bahwa yang dimaksud adalah dari awan. Maka tetaplah bahwa derivasi kebahasaan dan kebiasaan pemakaian Al-Qur'an bersesuaian dalam menamai segala sesuatu yang bersifat tinggi dan luhur dengan *samāʾ*.
+Pertama, kata *samāʾ* (langit) diturunkan dari *sumuww* (ketinggian), dan segala sesuatu yang menaungimu adalah *samāʾ*. Inilah derivasi kebahasaan yang asli, dan kebiasaan pemakaian Al-Qur'an pun mengukuhkannya. Buktinya, para mufasir menyebutkan dalam tafsir firman Allah Ta'ala, *"dan Dia (juga) menurunkan (butiran-butiran) es dari langit, (yaitu) dari (gumpalan-gumpalan awan seperti) gunung-gunung"* (an-Nur: 43), bahwa yang dimaksud adalah awan. Mereka berkata: menamai awan dengan *samāʾ* dibenarkan karena padanya terdapat makna ketinggian. Mereka juga menyebutkan dalam tafsir firman-Nya, *"Kami turunkan dari langit air yang sangat suci"* (al-Furqan: 48), bahwa yang dimaksud adalah dari awan. Maka tetaplah bahwa derivasi kebahasaan dan kebiasaan pemakaian Al-Qur'an bersesuaian dalam menamai segala sesuatu yang bersifat tinggi dan luhur dengan *samāʾ*.
 
 Kedua, seandainya Allah Ta'ala berada di atas Arasy, niscaya siapa pun yang duduk di Arasy lalu memandang ke atas tidak melihat apa-apa kecuali ujung Zat Allah Ta'ala. Maka nisbah ujung permukaan terakhir Zat Allah Ta'ala terhadap penghuni Arasy sama dengan nisbah permukaan terakhir langit terhadap penghuni bumi. Itu menuntut kepastian bahwa seandainya Dia berada di atas Arasy, niscaya Zat-Nya bagaikan langit bagi penghuni Arasy. Maka tetaplah bahwa seandainya Allah Ta'ala terikat pada arah atas, niscaya Zat-Nya adalah langit.
 
-Kami katakan bahwa seandainya Zat-Nya langit niscaya Zat-Nya makhluk, karena firman Allah Ta'ala, *"diturunkan dari (Allah) yang menciptakan bumi dan langit yang tinggi."*²⁸ Kata *al-samāwāt* adalah bentuk jamak yang diberi *alif lām*, dan ini menuntut seluruh langit adalah makhluk Allah Ta'ala. Maka, seandainya Dia langit, niscaya Dia pencipta bagi diri-Nya sendiri. Demikian pula firman Allah Ta'ala, *"Sesungguhnya Tuhanmu adalah Allah yang menciptakan langit dan bumi dalam enam masa,"*²⁹ menunjukkan apa yang kami sebutkan. Maka tetaplah bahwa seandainya Allah Ta'ala terikat pada arah atas, niscaya Dia langit; seandainya Dia langit, niscaya Dia makhluk bagi diri-Nya sendiri; dan ini mustahil. Maka wajiblah Dia tidak terikat pada arah atas.
+Kami katakan bahwa seandainya Zat-Nya langit niscaya Zat-Nya makhluk, karena firman Allah Ta'ala, *"diturunkan dari (Allah) yang menciptakan bumi dan langit yang tinggi"* (Taha: 4). Kata *al-samāwāt* adalah bentuk jamak yang diberi *alif lām*, dan ini menuntut seluruh langit adalah makhluk Allah Ta'ala. Maka, seandainya Dia langit, niscaya Dia pencipta bagi diri-Nya sendiri. Demikian pula firman Allah Ta'ala, *"Sesungguhnya Tuhanmu adalah Allah yang menciptakan langit dan bumi dalam enam masa"* (Yunus: 3; al-A'raf: 54), menunjukkan apa yang kami sebutkan. Maka tetaplah bahwa seandainya Allah Ta'ala terikat pada arah atas, niscaya Dia langit; seandainya Dia langit, niscaya Dia makhluk bagi diri-Nya sendiri; dan ini mustahil. Maka wajiblah Dia tidak terikat pada arah atas.
 
 Jika dikatakan: menurut kebiasaan pemakaian, kata *samāʾ* khusus untuk benda-benda langit yang melingkar ini; lagi pula, andaikan kata ini dalam peletakan asalnya mencakup Zat Allah Ta'ala, (keumumannya dapat dikhususkan). Kami jawab: perbedaan (yang kalian ajukan pada keberatan pertama) tidak dapat diterima. Bagaimana tidak, sementara telah kami buktikan bahwa dengan pengandaian Allah Ta'ala terikat pada arah atas, nisbah Zat-Nya terhadap penghuni Arasy sama dengan nisbah langit terhadap penghuni bumi. Maka wajib dipastikan bahwa seandainya Dia terikat pada arah atas, niscaya Dia langit. Adapun jawaban atas keberatan kedua: pengkhususan keumuman hanya ditempuh dalam keadaan terpaksa. Seandainya ada dalil rasional yang pasti bahwa Allah Ta'ala terikat pada arah atas, kita wajib menempuh pengkhususan ini. Namun, selama tidak satu dalil pun tegak atas hal itu, bahkan dalil-dalil rasional dan naqli yang pasti justru tegak atas kemustahilan-Nya berada pada arah, kita tidak terpaksa menerima pengkhususan ini. Maka gugurlah perkataan itu.
 
-²⁶ CT: QS an-Nur [24]: 43.
-
-²⁷ CT: QS al-Furqan [25]: 48.
-
-²⁸ CT: QS Taha [20]: 4.
-
-²⁹ CT: QS Yunus [10]: 3; QS al-A'raf [7]: 54.
-
-**Hujah kesebelas**: firman Allah Ta'ala, *"Katakanlah (Nabi Muhammad), 'Milik siapakah apa yang ada di langit dan di bumi?' Katakanlah, 'Milik Allah.'"*³⁰ Ini mengisyaratkan bahwa tempat dan segala isinya adalah milik Allah Ta'ala. Dan firman-Nya, *"Milik-Nyalah segala apa yang ada pada malam dan siang hari,"*³¹ menunjukkan bahwa waktu dan segala isinya adalah milik Allah Ta'ala. Kedua ayat itu bersama-sama menunjukkan bahwa tempat dan segala yang bertempat, waktu dan segala yang berwaktu, semuanya milik Allah Ta'ala; dan itu menunjukkan kemahasucian-Nya dari tempat dan waktu. Segi ini disebutkan oleh Abu Muslim al-Ashfahani rahimahullah dalam tafsirnya.
+**Hujah kesebelas**: firman Allah Ta'ala, *"Katakanlah (Nabi Muhammad), 'Milik siapakah apa yang ada di langit dan di bumi?' Katakanlah, 'Milik Allah'"* (al-An'am: 12). Ini mengisyaratkan bahwa tempat dan segala isinya adalah milik Allah Ta'ala. Dan firman-Nya, *"Milik-Nyalah segala apa yang ada pada malam dan siang hari"* (al-An'am: 13), menunjukkan bahwa waktu dan segala isinya adalah milik Allah Ta'ala. Kedua ayat itu bersama-sama menunjukkan bahwa tempat dan segala yang bertempat, waktu dan segala yang berwaktu, semuanya milik Allah Ta'ala; dan itu menunjukkan kemahasucian-Nya dari tempat dan waktu. Segi ini disebutkan oleh Abu Muslim al-Ashfahani rahimahullah dalam tafsirnya.
 
 Ketahuilah, dalam didahulukannya penyebutan tempat atas penyebutan waktu terdapat rahasia yang mulia dan hikmah yang tinggi.
 
-³⁰ CT: QS al-An'am [6]: 12.
+**Hujah kedua belas**: firman Allah Ta'ala, *"Pada hari itu delapan malaikat menjunjung Arasy Tuhanmu di atas (kepala) mereka"* (al-Haqqah: 17). Seandainya Sang Pencipta berada di Arasy, niscaya pemikul Arasy memikul pula Dia yang berada di Arasy, sehingga Sang Pencipta membutuhkan makhluk. Dekat dengan ini firman-Nya, *"(Malaikat-malaikat) yang memikul Arasy"* (Gafir: 7).
 
-³¹ CT: QS al-An'am [6]: 13.
+**Hujah ketiga belas**: seandainya Allah Ta'ala menetap di atas Arasy, niscaya memulai penciptaan dengan Arasy lebih patut daripada memulainya dengan langit. Sebab, dengan pengandaian bahwa Dia menetap di atas Arasy, Arasy adalah tempat bagi-Nya, sedangkan langit adalah tempat bagi hamba-hamba-Nya; dan yang lebih dekat kepada akal ialah menyiapkan tempat bagi diri sendiri lebih dahulu daripada menyiapkan tempat bagi hamba-hamba. Namun sudah maklum[^65] bahwa penciptaan langit mendahului penciptaan Arasy, berdasarkan firman-Nya, *"Sesungguhnya Tuhanmu adalah Allah yang menciptakan langit dan bumi dalam enam masa, kemudian Dia bersemayam di atas Arasy"* (Yunus: 3; al-A'raf: 54), sedangkan kata *thumma* (kemudian) menunjukkan urutan yang berjarak.
 
-**Hujah kedua belas**: firman Allah Ta'ala, *"Pada hari itu delapan malaikat menjunjung Arasy Tuhanmu di atas (kepala) mereka."*³² Seandainya Sang Pencipta berada di Arasy, niscaya pemikul Arasy memikul pula Dia yang berada di Arasy, sehingga Sang Pencipta membutuhkan makhluk. Dekat dengan ini firman-Nya, *"(Malaikat-malaikat) yang memikul Arasy."*³³
+[^65]: CT: Sudah maklum bahwa Arasy diciptakan pada urutan kedua. Sebab, ketika Rasulullah shallallahu 'alaihi wasallam ditanya tentang permulaan penciptaan, beliau menjawab, "Arasy-Nya berada di atas air." Ini menunjukkan secara pasti bahwa Arasy diciptakan setelah air, dan sebelum bumi dan langit. Ayat tersebut tidak bermakna bahwa langit diciptakan sebelum Arasy. Hadis ini diriwayatkan oleh al-Bukhari dan al-Baihaqi.
 
-³² CT: QS al-Haqqah [69]: 17.
+**Hujah keempat belas**: firman Allah Ta'ala, *"Segala sesuatu pasti binasa, kecuali wajah-Nya"* (al-Qashash: 88). Makna lahiriah ayat ini menuntut binasanya Arasy dan binasanya seluruh ruang dan arah, dan ketika itu Allah Yang Mahabenar Subhanahu wa Ta'ala tetap ada dalam keadaan mahasuci dari ruang dan arah. Jika itu telah tetap, mustahillah Dia sekarang berada pada suatu arah; sebab jika tidak, niscaya terjadi perubahan pada Zat. Jika dikatakan: ruang dan arah bukanlah sesuatu yang maujud sehingga dapat binasa dan fana. Kami jawab: ruang-ruang dan arah-arah adalah hal-hal yang berbeda hakikatnya dan berlainan esensinya. Buktinya, kalian berkata bahwa Zat Allah Ta'ala wajib berada pada arah atas dan mustahil berada pada arah-arah lainnya. Sekiranya arah atas tidak berbeda esensinya dari arah-arah lain, tentu arah atas tidak berbeda dari arah-arah lain dalam kekhasan dan hukum ini. Lagi pula, kita berkata, "Jisim ini berada di ruang ini setelah sebelumnya berada di ruang lain." Maka ruang-ruang ini terbilang, berlainan, dan silih berganti, sedangkan ketiadaan murni tidaklah demikian. Maka tetaplah bahwa ruang-ruang ini adalah hal-hal yang berbeda hakikatnya dan berlainan bilangannya, dan segala yang demikian mustahil merupakan ketiadaan murni; maka ia adalah sesuatu yang maujud. Jika ini telah tetap, ia tercakup dalam firman Allah Ta'ala, *"Segala sesuatu pasti binasa, kecuali wajah-Nya."* Apabila ruang dan arah binasa, Zat Allah Ta'ala tetap ada dalam keadaan mahasuci dari ruang. Sisa pembahasannya telah dikemukakan sebelumnya.
 
-³³ CT: QS Gafir [40]: 7.
+**Hujah kelima belas**: firman Allah Ta'ala, *"Dialah Yang Awal dan Yang Akhir"* (al-Hadid: 3). Ini menuntut Zat-Nya mendahului dalam wujud segala sesuatu selain-Nya dan datang kemudian dalam wujud setelah segala sesuatu selain-Nya. Itu menuntut Dia telah maujud sebelum ruang dan arah, dan tetap maujud setelah ruang dan arah fana. Jika ini telah tetap, penerapannya adalah seperti yang telah kami sebutkan pada hujah ketiga belas dan keempat belas.
 
-**Hujah ketiga belas**: seandainya Allah Ta'ala menetap di atas Arasy, niscaya memulai penciptaan dengan Arasy lebih patut daripada memulainya dengan langit. Sebab, dengan pengandaian bahwa Dia menetap di atas Arasy, Arasy adalah tempat bagi-Nya, sedangkan langit adalah tempat bagi hamba-hamba-Nya; dan yang lebih dekat kepada akal ialah menyiapkan tempat bagi diri sendiri lebih dahulu daripada menyiapkan tempat bagi hamba-hamba. Namun sudah maklum³⁴ bahwa penciptaan langit mendahului penciptaan Arasy, berdasarkan firman-Nya, *"Sesungguhnya Tuhanmu adalah Allah yang menciptakan langit dan bumi dalam enam masa, kemudian Dia bersemayam di atas Arasy,"*³⁵ sedangkan kata *thumma* (kemudian) menunjukkan urutan yang berjarak.
+**Hujah keenam belas**: firman Allah Ta'ala, *"sujudlah dan dekatkanlah (dirimu kepada Allah)"* (al-'Alaq: 19). Seandainya Dia berada pada arah atas, niscaya sujud justru menghasilkan jarak dari Allah Ta'ala, bukan kedekatan kepada-Nya, dan itu menyalahi makna asalnya.
 
-³⁴ CT: Sudah maklum bahwa Arasy diciptakan pada urutan kedua. Sebab, ketika Rasulullah shallallahu 'alaihi wasallam ditanya tentang permulaan penciptaan, beliau menjawab, "Arasy-Nya berada di atas air." Ini menunjukkan secara pasti bahwa Arasy diciptakan setelah air, dan sebelum bumi dan langit. Ayat tersebut tidak bermakna bahwa langit diciptakan sebelum Arasy. Hadis ini diriwayatkan oleh al-Bukhari dan al-Baihaqi.
+**Hujah ketujuh belas**: firman Allah Ta'ala, *"Karena itu, janganlah kamu mengadakan tandingan-tandingan bagi Allah"* (al-Baqarah: 22). *Al-nidd* (tandingan) berarti padanan. Seandainya Allah Ta'ala jisim, niscaya Dia padanan bagi setiap jisim, karena kami akan menjelaskan, insyaallah, bahwa jisim-jisim itu semuanya serupa satu sama lain. Maka dengan pengandaian ini tandingan itu ada, dan itu bertentangan dengan nas ini.
 
-³⁵ CT: QS Yunus [10]: 3; QS al-A'raf [7]: 54.
+**Hujah kedelapan belas**: hadis masyhur yang diriwayatkan bahwa Imran bin al-Hushain berkata, "Wahai Rasulullah, kabarkanlah kepada kami tentang permulaan perkara ini." Beliau bersabda, *"Allah telah ada, dan tidak ada sesuatu pun bersama-Nya."*[^66][^67] Telah berulang kali kami buktikan bahwa seandainya Allah Ta'ala terikat pada ruang dan arah, niscaya ruang itu adalah sesuatu yang maujud bersama-Nya, dan itu bertentangan dengan nas ini.
 
-**Hujah keempat belas**: firman Allah Ta'ala, *"Segala sesuatu pasti binasa, kecuali wajah-Nya."*³⁶ Makna lahiriah ayat ini menuntut binasanya Arasy dan binasanya seluruh ruang dan arah, dan ketika itu Allah Yang Mahabenar Subhanahu wa Ta'ala tetap ada dalam keadaan mahasuci dari ruang dan arah. Jika itu telah tetap, mustahillah Dia sekarang berada pada suatu arah; sebab jika tidak, niscaya terjadi perubahan pada Zat. Jika dikatakan: ruang dan arah bukanlah sesuatu yang maujud sehingga dapat binasa dan fana. Kami jawab: ruang-ruang dan arah-arah adalah hal-hal yang berbeda hakikatnya dan berlainan esensinya. Buktinya, kalian berkata bahwa Zat Allah Ta'ala wajib berada pada arah atas dan mustahil berada pada arah-arah lainnya. Sekiranya arah atas tidak berbeda esensinya dari arah-arah lain, tentu arah atas tidak berbeda dari arah-arah lain dalam kekhasan dan hukum ini. Lagi pula, kita berkata, "Jisim ini berada di ruang ini setelah sebelumnya berada di ruang lain." Maka ruang-ruang ini terbilang, berlainan, dan silih berganti, sedangkan ketiadaan murni tidaklah demikian. Maka tetaplah bahwa ruang-ruang ini adalah hal-hal yang berbeda hakikatnya dan berlainan bilangannya, dan segala yang demikian mustahil merupakan ketiadaan murni; maka ia adalah sesuatu yang maujud. Jika ini telah tetap, ia tercakup dalam firman Allah Ta'ala, *"Segala sesuatu pasti binasa, kecuali wajah-Nya."* Apabila ruang dan arah binasa, Zat Allah Ta'ala tetap ada dalam keadaan mahasuci dari ruang. Sisa pembahasannya telah dikemukakan sebelumnya.
+[^66]: CT: Sumber hadis ini tidak dapat ditemukan.
 
-³⁶ CT: QS al-Qashash [28]: 88.
-
-**Hujah kelima belas**: firman Allah Ta'ala, *"Dialah Yang Awal dan Yang Akhir."*³⁷ Ini menuntut Zat-Nya mendahului dalam wujud segala sesuatu selain-Nya dan datang kemudian dalam wujud setelah segala sesuatu selain-Nya. Itu menuntut Dia telah maujud sebelum ruang dan arah, dan tetap maujud setelah ruang dan arah fana. Jika ini telah tetap, penerapannya adalah seperti yang telah kami sebutkan pada hujah ketiga belas dan keempat belas.
-
-³⁷ CT: QS al-Hadid [57]: 3.
-
-**Hujah keenam belas**: firman Allah Ta'ala, *"sujudlah dan dekatkanlah (dirimu kepada Allah)."*³⁸ Seandainya Dia berada pada arah atas, niscaya sujud justru menghasilkan jarak dari Allah Ta'ala, bukan kedekatan kepada-Nya, dan itu menyalahi makna asalnya.
-
-³⁸ CT: QS al-'Alaq [96]: 19.
-
-**Hujah ketujuh belas**: firman Allah Ta'ala, *"Karena itu, janganlah kamu mengadakan tandingan-tandingan bagi Allah."*³⁹ *Al-nidd* (tandingan) berarti padanan. Seandainya Allah Ta'ala jisim, niscaya Dia padanan bagi setiap jisim, karena kami akan menjelaskan, insyaallah, bahwa jisim-jisim itu semuanya serupa satu sama lain. Maka dengan pengandaian ini tandingan itu ada, dan itu bertentangan dengan nas ini.
-
-³⁹ CT: QS al-Baqarah [2]: 22.
-
-**Hujah kedelapan belas**: hadis masyhur yang diriwayatkan bahwa Imran bin al-Hushain berkata, "Wahai Rasulullah, kabarkanlah kepada kami tentang permulaan perkara ini." Beliau bersabda, *"Allah telah ada, dan tidak ada sesuatu pun bersama-Nya."*⁴⁰ᵇ Telah berulang kali kami buktikan bahwa seandainya Allah Ta'ala terikat pada ruang dan arah, niscaya ruang itu adalah sesuatu yang maujud bersama-Nya, dan itu bertentangan dengan nas ini.
-
-⁴⁰ CT: Sumber hadis ini tidak dapat ditemukan.
-
-ᵇ CP: Hadis Imran bin al-Hushain diriwayatkan oleh al-Bukhari (*Kitāb Badʾ al-Khalq*) dengan lafaz *kāna Allāhu wa-lam yakun shayʾun ghayruhu* ("Allah telah ada, dan tidak ada sesuatu pun selain-Nya").
+[^67]: CP: Hadis Imran bin al-Hushain diriwayatkan oleh al-Bukhari (*Kitāb Badʾ al-Khalq*) dengan lafaz *kāna Allāhu wa-lam yakun shayʾun ghayruhu* ("Allah telah ada, dan tidak ada sesuatu pun selain-Nya").
 
 Ketahuilah, sebagian dari segi-segi yang kami sebutkan ini kuat dan sebagian lemah. Bagaimanapun, telah tetap bahwa di dalam Al-Qur'an dan hadis terdapat banyak dalil yang menunjukkan kemahasucian Allah Ta'ala dari ruang dan arah. Hanya kepada Allah kita memohon taufik.
 
@@ -551,7 +596,9 @@ Adapun premis kedua, yakni penjelasan bahwa setiap yang berhingga adalah mungkin
 
 Adapun premis ketiga, yakni penjelasan bahwa setiap yang mungkin adalah baharu, ialah karena yang lebih besar, yang lebih kecil, dan yang sama ukurannya itu setara dalam kemungkinan, sehingga mustahil salah satunya lebih unggul atas yang lain kecuali karena suatu penentu keunggulan (*murajjiḥ*, مرجح). Kebutuhan kepada penentu keunggulan itu adakalanya pada saat ia ada, adakalanya pada saat ia tiada. Jika pada saat ia ada, maka adakalanya pada saat ia bertahan, adakalanya pada saat ia terjadi. Mustahil ia membutuhkan pemberi pengaruh (*muʾaththir*, مؤثر) pada saat ia bertahan, sebab pemberi pengaruh memberi pengaruh dengan mengadakan. Maka, seandainya pada saat bertahan ia membutuhkan pemberi pengaruh, niscaya terjadi pengadaan terhadap yang sudah ada dan penghasilan terhadap yang sudah dihasilkan, dan itu mustahil. Maka tidak tersisa kecuali bahwa kebutuhan itu terjadi pada saat ia terjadi atau pada saat ia tiada; dan dengan pengandaian mana pun, niscaya setiap yang mungkin adalah baharu. Maka tetaplah bahwa setiap jisim berhingga, setiap yang berhingga mungkin, dan setiap yang mungkin baharu; maka tetaplah bahwa setiap jisim baharu, sedangkan Tuhan mustahil baharu. Hanya kepada Allah kita memohon taufik.
 
-**Burhan ketiga**: seandainya Tuhan alam menempati ruang, niscaya Dia membutuhkan selain diri-Nya. Ini mustahil, maka keadaan-Nya menempati ruang pun mustahil. Penjelasan hubungan keniscayaannya: seandainya Dia menempati ruang, niscaya Dia sama dengan segala yang menempati ruang dalam pengertian menempati ruang, dan berbeda dari mereka dalam ketertentuan dan individuasi-Nya (*tashakhkhuṣ*, تشخص). Lalu kami katakan: setelah terjadinya pembedaan dengan ketertentuan, adakalanya terjadi pula pembedaan dalam hakikat; dengan pengandaian ini, "yang menempati ruang" adalah genus (*jins*, جنس) yang di bawahnya terdapat spesies-spesies (*anwāʿ*, أنواع), salah satunya adalah Yang Wajib Ada. Adakalanya tidak terjadi pembedaan dalam hakikat; dengan pengandaian ini, "yang menempati ruang" adalah spesies yang di bawahnya terdapat individu-individu, salah satunya adalah Yang Wajib Ada. Kami katakan: yang pertama batil, sebab dengan pengandaian ini Zat-Nya tersusun dari genus dan diferensia (*faṣl*, فصل); setiap yang tersusun membutuhkan bagiannya, dan bagiannya adalah selain dirinya, maka setiap yang tersusun membutuhkan selain dirinya. Maka, seandainya Yang Wajib Ada menempati ruang, niscaya Dia membutuhkan selain diri-Nya. Yang kedua pun batil, sebab dengan pengandaian ini ketertentuan-Nya merupakan tambahan atas esensi spesifik-Nya. Ketertentuan itu pasti memiliki sesuatu yang menuntutnya, dan yang menuntutnya itu bukan esensi tersebut; sebab jika demikian, spesiesnya hanya terbatas pada individunya, padahal telah kita andaikan tidak demikian. Maka yang menuntut ketertentuan itu pasti sesuatu selain esensi tersebut dan selain kelaziman-kelaziman esensi tersebut, sehingga Dia membutuhkan selain diri-Nya. Maka tetaplah bahwa seandainya Dia menempati ruang, niscaya Dia membutuhkan selain diri-Nya; dan itu mustahil, karena Dia wajib ada karena Zat-Nya sendiri, dan yang wajib ada karena zatnya sendiri tidak menjadi wajib ada karena selainnya. Maka tetaplah bahwa keadaan-Nya menempati ruang itu mustahil.
+**Burhan ketiga**: seandainya Tuhan alam menempati ruang, niscaya Dia membutuhkan selain diri-Nya. Ini mustahil, maka keadaan-Nya menempati ruang pun mustahil. Penjelasan hubungan keniscayaannya: seandainya Dia menempati ruang, niscaya Dia sama dengan segala yang menempati ruang dalam pengertian menempati ruang, dan berbeda dari mereka dalam ketertentuan dan individuasi-Nya (*tashakhkhuṣ*, تشخص). Lalu kami katakan: setelah terjadinya pembedaan dengan ketertentuan, adakalanya terjadi pula pembedaan dalam hakikat; dengan pengandaian ini, "yang menempati ruang" adalah genus (*jins*, جنس)[^68] yang di bawahnya terdapat spesies-spesies (*anwāʿ*, أنواع), salah satunya adalah Yang Wajib Ada. Adakalanya tidak terjadi pembedaan dalam hakikat; dengan pengandaian ini, "yang menempati ruang" adalah spesies yang di bawahnya terdapat individu-individu, salah satunya adalah Yang Wajib Ada. Kami katakan: yang pertama batil, sebab dengan pengandaian ini Zat-Nya tersusun dari genus dan diferensia (*faṣl*, فصل); setiap yang tersusun membutuhkan bagiannya, dan bagiannya adalah selain dirinya, maka setiap yang tersusun membutuhkan selain dirinya. Maka, seandainya Yang Wajib Ada menempati ruang, niscaya Dia membutuhkan selain diri-Nya. Yang kedua pun batil, sebab dengan pengandaian ini ketertentuan-Nya merupakan tambahan atas esensi spesifik-Nya. Ketertentuan itu pasti memiliki sesuatu yang menuntutnya, dan yang menuntutnya itu bukan esensi tersebut; sebab jika demikian, spesiesnya hanya terbatas pada individunya, padahal telah kita andaikan tidak demikian. Maka yang menuntut ketertentuan itu pasti sesuatu selain esensi tersebut dan selain kelaziman-kelaziman esensi tersebut, sehingga Dia membutuhkan selain diri-Nya. Maka tetaplah bahwa seandainya Dia menempati ruang, niscaya Dia membutuhkan selain diri-Nya; dan itu mustahil, karena Dia wajib ada karena Zat-Nya sendiri, dan yang wajib ada karena zatnya sendiri tidak menjadi wajib ada karena selainnya. Maka tetaplah bahwa keadaan-Nya menempati ruang itu mustahil.
+
+[^68]: **Genus** (*jins*; Ing. *genus*). Secara bahasa, *jins* adalah apa yang mencakup banyak hal. Bagi para ahli logika, genus adalah universal yang dipredikasikan pada banyak hal yang berbeda hakikatnya. Para fukaha dan ahli usul memakainya secara berbeda: bagi mereka yang diperhitungkan adalah perbedaan tujuan dan hukum, bukan perbedaan hakikat. (*Kashshāf*, s.v. *al-jins*.)
 
 **Burhan keempat**: seandainya Tuhan alam menempati ruang, niscaya Dia tersusun. Ini mustahil, maka keadaan-Nya menempati ruang pun mustahil. Penjelasan hubungan keniscayaannya dari dua segi.
 
@@ -571,7 +618,7 @@ Kedua, aku tahu secara niscaya bahwa akulah manusia yang telah ada lima puluh ta
 
 Ketiga, yang tampak tidak lain hanyalah permukaan yang bersifat dengan warna tertentu, dan menurut kesepakatan kaum berakal, manusia bukanlah kadar itu. Maka tetaplah bahwa manusia sama sekali tidak tampak.
 
-Adapun golongan-golongan dan firkah-firkah lainnya, mereka menyebutkan perbedaan antara alam nyata dan alam gaib⁴¹ dari dua segi.
+Adapun golongan-golongan dan firkah-firkah lainnya, mereka menyebutkan perbedaan antara alam nyata dan alam gaib[^69] dari dua segi.
 
 Pertama, al-Asy'ari berkata: masing-masing bagian manusia bersifat dengan ilmu tersendiri dan kuasa tersendiri. Ini menuntut badan ini tersusun dari banyak hal yang masing-masing mengetahui, berkuasa, dan hidup; dan ini tidak dipersoalkan. Adapun menerapkan hal itu pada Allah Subhanahu wa Ta'ala menuntut berbilangnya tuhan, dan itu mustahil. Maka jelaslah perbedaannya.
 
@@ -581,11 +628,11 @@ Adapun pertanyaan kedua, yaitu perkataannya, "Mengapa tidak boleh dikatakan bahw
 
 Adapun pertanyaan ketiga, yaitu perkataan mereka bahwa setiap bagian bersifat dengan ilmu yang bertaut dengan objek pengetahuan tertentu dan kuasa yang bertaut dengan objek kuasa tertentu, kami katakan: ini pun mustahil, sebab menuntut setiap bagian mengetahui objek-objek pengetahuan tertentu dan berkuasa atas objek-objek kuasa tertentu. Maka inti perkataan itu kembali pada penetapan banyak tuhan, masing-masing terkhususkan dengan pengetahuan akan sebagian objek pengetahuan dan kuasa atas sebagian objek kuasa; dan itu bertentangan dengan pendapat bahwa Tuhan alam adalah satu maujud. Allah lebih mengetahui.
 
-⁴¹ CT: Yang dimaksud dengan alam nyata (*şâhid*) di sini adalah manusia, dan dengan alam gaib (*gâib*) adalah Allah Ta'ala. (catatan penerjemah)
+[^69]: CT: Yang dimaksud dengan alam nyata (*şâhid*) di sini adalah manusia, dan dengan alam gaib (*gâib*) adalah Allah Ta'ala. (catatan penerjemah)
 
-**Burhan keenam**: seandainya Allah Ta'ala jisim, maka gerak adakalanya jaiz bagi-Nya, adakalanya tidak. Kemungkinan pertama batil. Sebab, jika tidak mustahil bahwa jisim yang padanya gerak itu jaiz menjadi Tuhan, mengapa tidak boleh Tuhan alam itu matahari, bulan, atau falak? Sebab, pada jisim-jisim ini tidak ada cacat yang mencegahnya menjadi Tuhan selain tiga hal: keadaannya tersusun dari bagian-bagian, keadaannya terbatas dan berhingga, dan keadaannya bersifat dengan gerak dan diam. Jika hal-hal ini tidak mencegah ketuhanan, bagaimana mungkin menggugat ketuhanannya? Dan itu tidak lain adalah kekufuran, ateisme,⁴² dan pengingkaran terhadap Sang Pencipta Ta'ala.
+**Burhan keenam**: seandainya Allah Ta'ala jisim, maka gerak adakalanya jaiz bagi-Nya, adakalanya tidak. Kemungkinan pertama batil. Sebab, jika tidak mustahil bahwa jisim yang padanya gerak itu jaiz menjadi Tuhan, mengapa tidak boleh Tuhan alam itu matahari, bulan, atau falak? Sebab, pada jisim-jisim ini tidak ada cacat yang mencegahnya menjadi Tuhan selain tiga hal: keadaannya tersusun dari bagian-bagian, keadaannya terbatas dan berhingga, dan keadaannya bersifat dengan gerak dan diam. Jika hal-hal ini tidak mencegah ketuhanan, bagaimana mungkin menggugat ketuhanannya? Dan itu tidak lain adalah kekufuran, ateisme,[^70] dan pengingkaran terhadap Sang Pencipta Ta'ala.
 
-⁴² CT: *İlhad* berarti ateisme, ketiadaan pengakuan akan Tuhan, zindik. (catatan penerjemah)
+[^70]: CT: *İlhad* berarti ateisme, ketiadaan pengakuan akan Tuhan, zindik. (catatan penerjemah)
 
 Kemungkinan kedua ialah dikatakan bahwa Allah Ta'ala jisim, tetapi perpindahan dan gerak mustahil bagi-Nya. Kami katakan: ini batil dari beberapa segi.
 
@@ -647,7 +694,9 @@ Ketiga, seandainya Sang Pencipta Ta'ala, secara azali dan abadi, terikat pada ru
 
 Jika dikatakan: tidak ada makna bagi keterikatan Allah Ta'ala pada ruang dan arah kecuali bahwa Dia terpisah dari alam, menyendiri darinya, dan terbedakan darinya; dan keadaan-Nya yang demikian tidak menuntut sesuatu lain selain Zat Allah Ta'ala. Maka batallah perkataan kalian bahwa seandainya Allah Ta'ala berada pada arah niscaya Dia membutuhkan selain diri-Nya. Bukti kebenaran apa yang kami sebutkan ialah bahwa tidak ada perselisihan bahwa alam terikat pada ruang dan arah, dan keterikatannya pada ruang dan arah tidak bermakna apa pun kecuali bahwa sebagiannya menyendiri dari sebagian yang lain dan terbedakan darinya. Jika makna ini dapat kita pahami di sini, mengapa tidak boleh hal serupa pada keterikatan Sang Pencipta Ta'ala pada arah dan ruang?
 
-Jawabannya: adapun perkataannya bahwa ruang dan arah bukan sesuatu yang maujud, jawabannya ialah bahwa telah kami jelaskan dengan burhan-burhan yang pasti bahwa keduanya adalah hal-hal yang maujud; dan setelah burhan tegak atas kebenarannya, tidak tersisa keraguan tentang kebenarannya. Adapun perkataannya bahwa yang dimaksud dengan keterikatan-Nya pada ruang dan arah adalah bahwa Allah Ta'ala menyendiri dari alam, terbedakan darinya, atau terpisah darinya, kami katakan: semua kata ini global (*mujmal*, مجمل). Menyendiri, terbedakan, dan terpisah terkadang disebut dengan maksud perbedaan dalam hakikat dan esensi. Ini tidak dipersoalkan, tetapi tidak menuntut arah. Buktinya, hakikat Zat Allah Ta'ala berbeda dari hakikat ruang dan arah, dan perbedaan serta keterpisahan ini tidak secara arah; sebab terbedakannya Zat Allah Ta'ala dari arah tidak mungkin dengan arah lain, karena jika demikian niscaya terjadi regresi tak berhingga. Terkadang pula kata-kata ini disebut dengan maksud keterbedaan secara arah, yaitu keadaan sesuatu yang sah ditunjuk sebagai "di sini" atau "di sana". Inilah yang dimaksud lawan dengan perkataannya bahwa Dia terpisah dari alam, menyendiri darinya, dan terbedakan darinya. Namun telah kami jelaskan dengan burhan-burhan yang pasti bahwa hal ini menuntut ruang itu sesuatu yang maujud, dan menuntut bahwa yang menempati ruang membutuhkan ruang. Adapun perkataannya bahwa jisim-jisim berada di dalam ruang-ruang, kami katakan: paling jauh yang dapat dikatakan ialah bahwa jisim-jisim membutuhkan sesuatu yang lain, dan ini tidak mustahil; adapun keadaan Allah Ta'ala membutuhkan sesuatu yang lain dalam wujud-Nya, itu mustahil. Maka jelaslah perbedaannya. Hanya kepada Allah kita memohon taufik.
+Jawabannya: adapun perkataannya bahwa ruang dan arah bukan sesuatu yang maujud, jawabannya ialah bahwa telah kami jelaskan dengan burhan-burhan yang pasti bahwa keduanya adalah hal-hal yang maujud; dan setelah burhan tegak atas kebenarannya, tidak tersisa keraguan tentang kebenarannya. Adapun perkataannya bahwa yang dimaksud dengan keterikatan-Nya pada ruang dan arah adalah bahwa Allah Ta'ala menyendiri dari alam, terbedakan darinya, atau terpisah darinya, kami katakan: semua kata ini global (*mujmal*, مجمل)[^71]. Menyendiri, terbedakan, dan terpisah terkadang disebut dengan maksud perbedaan dalam hakikat dan esensi. Ini tidak dipersoalkan, tetapi tidak menuntut arah. Buktinya, hakikat Zat Allah Ta'ala berbeda dari hakikat ruang dan arah, dan perbedaan serta keterpisahan ini tidak secara arah; sebab terbedakannya Zat Allah Ta'ala dari arah tidak mungkin dengan arah lain, karena jika demikian niscaya terjadi regresi tak berhingga. Terkadang pula kata-kata ini disebut dengan maksud keterbedaan secara arah, yaitu keadaan sesuatu yang sah ditunjuk sebagai "di sini" atau "di sana". Inilah yang dimaksud lawan dengan perkataannya bahwa Dia terpisah dari alam, menyendiri darinya, dan terbedakan darinya. Namun telah kami jelaskan dengan burhan-burhan yang pasti bahwa hal ini menuntut ruang itu sesuatu yang maujud, dan menuntut bahwa yang menempati ruang membutuhkan ruang. Adapun perkataannya bahwa jisim-jisim berada di dalam ruang-ruang, kami katakan: paling jauh yang dapat dikatakan ialah bahwa jisim-jisim membutuhkan sesuatu yang lain, dan ini tidak mustahil; adapun keadaan Allah Ta'ala membutuhkan sesuatu yang lain dalam wujud-Nya, itu mustahil. Maka jelaslah perbedaannya. Hanya kepada Allah kita memohon taufik.
+
+[^71]: **Global** (*mujmal*; Ing. *summary, whole, total*). Secara bahasa, *mujmal* adalah sesuatu yang terhimpun, lawan dari yang terperinci (*mufaṣṣal*). Menurut ahli usul, *mujmal* adalah lafaz yang maksudnya tersembunyi karena lafaz itu sendiri, sehingga tidak dapat diketahui kecuali melalui penjelasan dari pengucapnya, baik karena berdesakannya makna-makna yang setara seperti pada lafaz homonim, karena keasingan lafaznya, maupun karena berpindah dari makna lahiriah ke makna yang belum diketahui. (*Kashshāf*, s.v. *al-mujmal*.)
 
 **Burhan ketiga** dalam menjelaskan bahwa Allah Ta'ala mustahil terikat pada arah dan ruang: seandainya Dia terikat pada suatu ruang dan arah, maka tidak lepas dari tiga kemungkinan: dikatakan bahwa Dia tak berhingga dari segala sisi; atau tak berhingga dari sebagian sisi dan berhingga dari sisi-sisi lainnya; atau berhingga dari segala sisi. Ketiga kemungkinan itu batil, maka pendapat bahwa Dia terikat pada arah dan ruang pun batil.
 
@@ -753,27 +802,35 @@ Premis keempat, yaitu penjelasan bahwa karena yang menuntut hukum ini di alam ny
 
 Ketahuilah, dalam premis ini kita perlu menjelaskan bahwa wujud adalah satu hakikat di alam nyata dan di alam gaib, dan itu menuntut wujud-Nya merupakan tambahan atas hakikat-Nya. Sebab, selama pokok ini tidak tetap, apa yang dituju tidak tercapai. Inilah puncak dari apa yang mungkin disebutkan dalam menetapkan syubhat ini. Siapa pun yang meneliti penetapan kami atas syubhat ini dan penetapan mereka sendiri atasnya, akan mengetahui perbedaan di antara keduanya.
 
-Jawabannya:⁴³ poros syubhat ini adalah bahwa dari setiap dua maujud di alam nyata, yang satu mesti berbagi tempat dengan yang lain atau terpisah darinya secara arah; dan jalan ini tidak dapat diterima. Penjelasannya dari beberapa segi.
+Jawabannya:[^72] poros syubhat ini adalah bahwa dari setiap dua maujud di alam nyata, yang satu mesti berbagi tempat dengan yang lain atau terpisah darinya secara arah; dan jalan ini tidak dapat diterima. Penjelasannya dari beberapa segi.
 
-Pertama, mayoritas filsuf menetapkan maujud-maujud yang tidak berbagi tempat dengan alam jasmani ini dan tidak pula terpisah darinya secara arah. Sebab, mereka menetapkan akal-akal, jiwa-jiwa falak,⁴⁴ dan jiwa-jiwa rasional (*al-nufūs al-nāṭiqa*, النفوس الناطقة), serta menetapkan hayula; dan mereka berpendapat bahwa hal-hal ini adalah maujud-maujud yang tidak menempati ruang dan tidak berada di dalam sesuatu yang menempati ruang, sehingga tidak benar dikatakan bahwa ia berbagi tempat dengan alam ini ataupun terpisah darinya secara arah. Selama kalian belum membatalkan mazhab ini dengan dalil, tidak sah dikatakan bahwa dari setiap dua maujud di alam nyata, yang satu mesti berbagi tempat dengan yang lain atau terpisah darinya.
+Pertama, mayoritas filsuf menetapkan maujud-maujud yang tidak berbagi tempat dengan alam jasmani ini dan tidak pula terpisah darinya secara arah. Sebab, mereka menetapkan akal-akal, jiwa-jiwa falak,[^73] dan jiwa-jiwa rasional (*al-nufūs al-nāṭiqa*, النفوس الناطقة)[^74], serta menetapkan hayula; dan mereka berpendapat bahwa hal-hal ini adalah maujud-maujud yang tidak menempati ruang dan tidak berada di dalam sesuatu yang menempati ruang, sehingga tidak benar dikatakan bahwa ia berbagi tempat dengan alam ini ataupun terpisah darinya secara arah. Selama kalian belum membatalkan mazhab ini dengan dalil, tidak sah dikatakan bahwa dari setiap dua maujud di alam nyata, yang satu mesti berbagi tempat dengan yang lain atau terpisah darinya.
+
+[^74]: **Jiwa rasional** (*al-nafs al-nāṭiqa*). Kalangan pemeluk agama sepakat bahwa jiwa rasional itu baharu, sebab menurut mereka tidak ada yang qadim selain Allah dan sifat-sifat-Nya; mereka hanya berbeda pendapat apakah ia diciptakan bersama badan atau sebelumnya. Sebagian filsuf, seperti Aristoteles dan pengikutnya, berpendapat jiwa baharu bersama badan, sedangkan sebagian lain berpendapat jiwa itu qadim. Mereka yang membedakan jiwa dari badan sepakat bahwa jiwa tidak binasa dengan binasanya badan. (*Kashshāf*, s.v. *al-nafs*.)
 
 Kedua, mayoritas Muktazilah menetapkan kehendak-kehendak dan ketidaksukaan-ketidaksukaan yang maujud tidak pada suatu wadah, dan menetapkan kefanaan yang tidak pada suatu wadah. Tidak benar dikatakan tentang hal-hal itu bahwa ia berbagi tempat dengan alam atau terpisah dari alam secara arah. Selama kalian belum membatalkan hal itu, dakwaan kalian tidak tuntas.
 
-Ketiga, kami akan menegakkan dalil bahwa relasi-relasi (*iḍāfāt*, إضافات) adalah maujud-maujud dalam kenyataan, lalu menjelaskan bahwa ia mustahil berbagi tempat dengan alam atau terpisah darinya secara arah; dan itu membatalkan perkataan kalian. Kami katakan bahwa relasi-relasi adalah aksiden yang maujud dalam kenyataan karena apa yang dipahami dari keadaan seseorang sebagai ayah bagi orang lain berlainan dengan zatnya yang khusus. Buktinya, zatnya dapat dipahami sementara kita lalai dari keadaannya sebagai ayah atau anak, dan yang diketahui berlainan dengan yang tidak diketahui. Lagi pula, mungkin ada zat yang terlepas dari keayahan dan keanakan, seperti Isa 'alaihissalam, yang bukan ayah bagi siapa pun dan bukan anak bagi siapa pun; dan yang tetap berlainan dengan yang tidak tetap. Maka keadaannya sebagai ayah dan anak berlainan dengan zatnya yang khusus. Lalu hal yang berlainan ini adakalanya sifat negatif (*salbī*, سلبي), adakalanya positif (*thubūtī*, ثبوتي). Yang pertama batil, sebab ketiadaan keayahan itulah sifat negatifnya, sedangkan keayahan meniadakannya, dan yang meniadakan ketiadaan adalah wujud. Maka tetaplah bahwa keayahan adalah sifat eksistensial yang berlainan dengan zat sang ayah. Jika ini telah tetap, kami katakan: mustahil dikatakan bahwa keayahan berbagi tempat dengan zat sang ayah; sebab jika tidak, niscaya harus dikatakan bahwa pada separuh sang ayah melekat separuh keayahan dan pada sepertiganya sepertiga keayahan, dan sudah maklum bahwa itu batil. Mustahil pula dikatakan bahwa ia terpisah dari zat sang ayah secara arah dan ruang; sebab jika tidak, niscaya keayahan adalah substansi yang berdiri sendiri dan terpisah dari zat sang ayah secara arah, dan itu pun mustahil. Maka tetaplah dengan dalil ini adanya suatu maujud yang tidak mungkin dikatakan berbagi tempat dengan yang lain ataupun terpisah darinya secara arah. Jika ini telah tetap, batallah perkataan mereka.
+Ketiga, kami akan menegakkan dalil bahwa relasi-relasi (*iḍāfāt*, إضافات)[^75] adalah maujud-maujud dalam kenyataan, lalu menjelaskan bahwa ia mustahil berbagi tempat dengan alam atau terpisah darinya secara arah; dan itu membatalkan perkataan kalian. Kami katakan bahwa relasi-relasi adalah aksiden yang maujud dalam kenyataan karena apa yang dipahami dari keadaan seseorang sebagai ayah bagi orang lain berlainan dengan zatnya yang khusus. Buktinya, zatnya dapat dipahami sementara kita lalai dari keadaannya sebagai ayah atau anak, dan yang diketahui berlainan dengan yang tidak diketahui. Lagi pula, mungkin ada zat yang terlepas dari keayahan dan keanakan, seperti Isa 'alaihissalam, yang bukan ayah bagi siapa pun dan bukan anak bagi siapa pun; dan yang tetap berlainan dengan yang tidak tetap. Maka keadaannya sebagai ayah dan anak berlainan dengan zatnya yang khusus. Lalu hal yang berlainan ini adakalanya sifat negatif (*salbī*, سلبي), adakalanya positif (*thubūtī*, ثبوتي). Yang pertama batil, sebab ketiadaan keayahan itulah sifat negatifnya, sedangkan keayahan meniadakannya, dan yang meniadakan ketiadaan adalah wujud. Maka tetaplah bahwa keayahan adalah sifat eksistensial yang berlainan dengan zat sang ayah. Jika ini telah tetap, kami katakan: mustahil dikatakan bahwa keayahan berbagi tempat dengan zat sang ayah; sebab jika tidak, niscaya harus dikatakan bahwa pada separuh sang ayah melekat separuh keayahan dan pada sepertiganya sepertiga keayahan, dan sudah maklum bahwa itu batil. Mustahil pula dikatakan bahwa ia terpisah dari zat sang ayah secara arah dan ruang; sebab jika tidak, niscaya keayahan adalah substansi yang berdiri sendiri dan terpisah dari zat sang ayah secara arah, dan itu pun mustahil. Maka tetaplah dengan dalil ini adanya suatu maujud yang tidak mungkin dikatakan berbagi tempat dengan yang lain ataupun terpisah darinya secara arah. Jika ini telah tetap, batallah perkataan mereka.
 
-⁴³ CT: Dalam pembagian pasal ini terdapat kekurangan atau kekeliruan. Di sini dibicarakan tiga syubhat secara keseluruhan, padahal dalam teks, setelah syubhat pertama langsung disebut syubhat ketiga, sehingga jumlah syubhat menjadi empat. Selain itu, terdapat pula kekeliruan dalam pertanyaan dan jawaban yang dibicarakan dalam syubhat pertama. Karena teks-teks yang disebut sebagai pertanyaan mengandung sifat pertanyaan sekaligus jawaban, kami menyusunnya dengan format "Pertanyaan (dan Jawabannya)". (catatan penerjemah)
+[^75]: **Relasi** (*iḍāfa*, jamak *iḍāfāt*; Ing. *relation*). Dalam nahwu, *iḍāfa* adalah penisbahan sesuatu kepada sesuatu dengan perantaraan huruf jar. Menurut para filsuf, istilah ini homonim; salah satu maknanya adalah nisbah yang berulang, yakni nisbah yang dipahami dengan membandingkannya dengan nisbah lain yang juga dipahami dengan membandingkannya dengan yang pertama, seperti keayahan dan keanakan. Dalam makna ini relasi termasuk kategori-kategori aksiden. (*Kashshāf*, s.v. *al-iḍāfa*.)
 
-⁴⁴ CT: Sebagian filsuf meyakini bahwa falak dan bintang-bintang pun memiliki jiwa. (catatan penerjemah)
+[^72]: CT: Dalam pembagian pasal ini terdapat kekurangan atau kekeliruan. Di sini dibicarakan tiga syubhat secara keseluruhan, padahal dalam teks, setelah syubhat pertama langsung disebut syubhat ketiga, sehingga jumlah syubhat menjadi empat. Selain itu, terdapat pula kekeliruan dalam pertanyaan dan jawaban yang dibicarakan dalam syubhat pertama. Karena teks-teks yang disebut sebagai pertanyaan mengandung sifat pertanyaan sekaligus jawaban, kami menyusunnya dengan format "Pertanyaan (dan Jawabannya)". (catatan penerjemah)
+
+[^73]: CT: Sebagian filsuf meyakini bahwa falak dan bintang-bintang pun memiliki jiwa. (catatan penerjemah)
 
 **Pertanyaan kedua**: kami terima bahwa dari setiap dua maujud di alam nyata, yang satu mesti berbagi tempat dengan yang lain atau terpisah darinya secara arah. Namun keadaan sesuatu yang padanya benar perkataan kita "adakalanya begini, adakalanya begitu" adalah isyarat bahwa ia menerima pembagian ke dalam keduanya. Padahal penerimaan pembagian adalah hukum yang bersifat ketiadaan (*ʿadamī*, عدمي), dan ketiadaan tidak diberi sebab. Kami katakan bahwa penerimaan pembagian adalah hukum yang bersifat ketiadaan karena pokok penerimaan itu sendiri adalah hukum yang bersifat ketiadaan, sehingga penerimaan pembagian pun wajib bersifat ketiadaan. Kami katakan bahwa pokok penerimaan bersifat ketiadaan karena, seandainya ia suatu hal (yang ada), niscaya ia adalah salah satu sifat dari sesuatu yang dihukumi sebagai penerima; maka zat itu menerima sifat yang melekat padanya itu, sehingga penerimaan terhadap penerimaan itu merupakan tambahan lagi, dan terjadilah regresi tak berhingga. Kami katakan pula bahwa karena pokok penerimaan bersifat ketiadaan, penerimaan pembagian pun demikian; sebab penerimaan pembagian adalah penerimaan yang khusus. Kekhususan itu, jika merupakan sifat yang maujud, niscaya yang ada melekat pada yang tiada, dan itu mustahil; dan jika bersifat ketiadaan, niscaya dipastikan bahwa penerimaan pembagian bersifat ketiadaan. Jika telah tetap bahwa ia hukum yang bersifat ketiadaan, mustahillah ia diberi sebab, sebab ketiadaan adalah penafian murni sehingga memberi pengaruh padanya mustahil. Maka tetaplah bahwa penerimaan pembagian tidak mungkin diberi sebab.
 
-**Pertanyaan ketiga**: andaikan ia termasuk hukum-hukum (yang dapat diberi sebab), mengapa tidak boleh ia disebabkan oleh kekhususan sebagai substansi atau kekhususan sebagai aksiden? (Mereka berkata:) keadaan sebagai substansi mencegah berbagi tempat, keadaan sebagai aksiden mencegah keterpisahan secara arah, dan apa yang menjadi sebab bagi penerimaan pembagian ke dalam dua bagian mustahil sekaligus menjadi pencegah salah satu dari dua bagian itu. Kami jawab: apa yang kalian maksud dengan perkataan kalian bahwa wujud di alam nyata terbagi menjadi yang berbagi tempat dan yang terpisah secara arah? Jika yang kalian maksud adalah bahwa wujud di alam nyata terdiri atas dua bagian: salah satunya berbagi tempat dengan yang lain, yaitu aksiden, dan yang kedua wajib terpisah dari yang lain secara arah, yaitu substansi, maka ini kami terima. Namun pada hakikatnya itu merupakan isyarat kepada dua hukum berbeda yang disebabkan oleh dua sebab. Menurut kami, keharusan berbagi tempat dengan yang lain disebabkan oleh keadaan sebagai aksiden, dan keharusan bagian kedua terpisah dari yang lain secara arah disebabkan oleh keadaan sebagai substansi. Maka batallah perkataan kalian bahwa kekhususan sebagai aksiden dan substansi tidak layak menjadi sebab hukum ini. Jika yang kalian maksud adalah bahwa kemungkinan terbagi ke dalam kedua bagian ini adalah satu hukum yang terdapat pada semua maujud di alam nyata, ini batil. Sebab, kemungkinan terbagi ke dalam kedua bagian ini tidak tetap pada satu maujud pun di alam nyata, apalagi pada semuanya. Setiap maujud di alam nyata adakalanya substansi, adakalanya aksiden. Jika substansi, mustahil ia berbagi tempat dengan yang lain, sehingga ia tidak menerima pembagian ini; dan jika aksiden, mustahil ia terpisah dari yang lain secara arah, sehingga ia pun tidak menerima pembagian ini. Maka tetaplah, dengan apa yang telah kami sebutkan, bahwa apa yang mereka katakan adalah sofisme (*mughālaṭa*, مغالطة). Walhasil, orang yang berdalil ini memberi kesan bahwa perkataannya, "maujud di alam nyata adakalanya berbagi tempat dengan yang lain, adakalanya terpisah darinya secara arah," adalah isyarat kepada satu hukum, lalu di atasnya ia membangun bahwa hukum itu tidak mungkin disebabkan oleh kekhususan sebagai substansi ataupun kekhususan sebagai aksiden. Padahal telah kami jelaskan bahwa itu isyarat kepada dua hukum berbeda yang disebabkan oleh dua sebab yang berbeda.
+**Pertanyaan ketiga**: andaikan ia termasuk hukum-hukum (yang dapat diberi sebab), mengapa tidak boleh ia disebabkan oleh kekhususan sebagai substansi atau kekhususan sebagai aksiden? (Mereka berkata:) keadaan sebagai substansi mencegah berbagi tempat, keadaan sebagai aksiden mencegah keterpisahan secara arah, dan apa yang menjadi sebab bagi penerimaan pembagian ke dalam dua bagian mustahil sekaligus menjadi pencegah salah satu dari dua bagian itu. Kami jawab: apa yang kalian maksud dengan perkataan kalian bahwa wujud di alam nyata terbagi menjadi yang berbagi tempat dan yang terpisah secara arah? Jika yang kalian maksud adalah bahwa wujud di alam nyata terdiri atas dua bagian: salah satunya berbagi tempat dengan yang lain, yaitu aksiden, dan yang kedua wajib terpisah dari yang lain secara arah, yaitu substansi, maka ini kami terima. Namun pada hakikatnya itu merupakan isyarat kepada dua hukum berbeda yang disebabkan oleh dua sebab. Menurut kami, keharusan berbagi tempat dengan yang lain disebabkan oleh keadaan sebagai aksiden, dan keharusan bagian kedua terpisah dari yang lain secara arah disebabkan oleh keadaan sebagai substansi. Maka batallah perkataan kalian bahwa kekhususan sebagai aksiden dan substansi tidak layak menjadi sebab hukum ini. Jika yang kalian maksud adalah bahwa kemungkinan terbagi ke dalam kedua bagian ini adalah satu hukum yang terdapat pada semua maujud di alam nyata, ini batil. Sebab, kemungkinan terbagi ke dalam kedua bagian ini tidak tetap pada satu maujud pun di alam nyata, apalagi pada semuanya. Setiap maujud di alam nyata adakalanya substansi, adakalanya aksiden. Jika substansi, mustahil ia berbagi tempat dengan yang lain, sehingga ia tidak menerima pembagian ini; dan jika aksiden, mustahil ia terpisah dari yang lain secara arah, sehingga ia pun tidak menerima pembagian ini. Maka tetaplah, dengan apa yang telah kami sebutkan, bahwa apa yang mereka katakan adalah sofisme (*mughālaṭa*, مغالطة)[^76]. Walhasil, orang yang berdalil ini memberi kesan bahwa perkataannya, "maujud di alam nyata adakalanya berbagi tempat dengan yang lain, adakalanya terpisah darinya secara arah," adalah isyarat kepada satu hukum, lalu di atasnya ia membangun bahwa hukum itu tidak mungkin disebabkan oleh kekhususan sebagai substansi ataupun kekhususan sebagai aksiden. Padahal telah kami jelaskan bahwa itu isyarat kepada dua hukum berbeda yang disebabkan oleh dua sebab yang berbeda.
+
+[^76]: **Sofisme** (*mughālaṭa*; Ing. *sophism, sophistic syllogism, eristic*). *Mughālaṭa* adalah silogisme yang rusak dari segi bentuk, materi, atau keduanya, yang dengannya seseorang keliru sendiri atau mengelirukan orang lain. Seluruh sebab kekeliruan itu kembali pada satu hal: tidak membedakan sesuatu dari apa yang menyerupainya, baik dalam lafaz maupun makna. (*Kashshāf*, s.v. *al-mughālaṭa*.)
 
 **Pertanyaan keempat**: kami terima bahwa hukum ini tidak mungkin disebabkan oleh kekhususan sebagai substansi ataupun kekhususan sebagai aksiden. Namun mengapa kalian katakan bahwa ia pasti disebabkan oleh kebaharuan atau oleh wujud? Apa dalil pembatasan ini? Paling jauh dapat dikatakan, "Kami telah menelusuri dan meneliti, dan tidak mendapati kemungkinan lain." Namun telah kami jelaskan dalam kitab-kitab yang panjang bahwa tidak didapatinya sesuatu tidak menunjukkan tidak adanya sesuatu itu; dan telah kami uraikan bahwa pertanyaan ini meruntuhkan setiap dalil yang dibangun di atas pembagian-pembagian yang terbuka dan tidak terbatas di antara penafian dan penetapan.
 
 **Pertanyaan kelima**: kami terima bahwa tidak didapatinya sesuatu menunjukkan tidak adanya sesuatu itu. Namun kami tidak menerima perkataan kalian bahwa kami tidak mendapati sebab bagi hukum ini selain kebaharuan dan wujud. Penjelasannya dari dua segi.
 
-Pertama, mungkin saja dikatakan bahwa yang menuntut perkataan kita, "sesuatu itu adakalanya berbagi tempat dengan alam, adakalanya terpisah darinya," adalah keadaannya yang sah ditunjuk oleh indra. Sebab, setiap dua hal yang sah ditunjuk oleh indra, adakalanya penunjukan kepada yang satu adalah penunjukan kepada yang lain itu sendiri, seperti pada warna dan yang berwarna, dan inilah berbagi tempat; adakalanya penunjukan kepada yang satu berlainan dengan penunjukan kepada yang lain, dan inilah keterpisahan secara arah. Maka tetaplah bahwa yang menuntut penerimaan pembagian ini adalah keadaan sesuatu yang dapat ditunjuk oleh indra. Dengan pengandaian ini, selama mereka belum menegakkan dalil bahwa Dia dapat ditunjuk oleh indra, tidak mungkin dikatakan bahwa Allah Ta'ala wajib berbagi tempat dengan alam atau terpisah darinya secara arah. Namun keadaan Allah Ta'ala dapat ditunjuk oleh indra justru itulah yang diperselisihkan. Ketika itu kebenaran apa yang dituju bergantung padanya, dan itu berujung pada lingkaran (*dawr*, دور), yang batil.
+Pertama, mungkin saja dikatakan bahwa yang menuntut perkataan kita, "sesuatu itu adakalanya berbagi tempat dengan alam, adakalanya terpisah darinya," adalah keadaannya yang sah ditunjuk oleh indra. Sebab, setiap dua hal yang sah ditunjuk oleh indra, adakalanya penunjukan kepada yang satu adalah penunjukan kepada yang lain itu sendiri, seperti pada warna dan yang berwarna, dan inilah berbagi tempat; adakalanya penunjukan kepada yang satu berlainan dengan penunjukan kepada yang lain, dan inilah keterpisahan secara arah. Maka tetaplah bahwa yang menuntut penerimaan pembagian ini adalah keadaan sesuatu yang dapat ditunjuk oleh indra. Dengan pengandaian ini, selama mereka belum menegakkan dalil bahwa Dia dapat ditunjuk oleh indra, tidak mungkin dikatakan bahwa Allah Ta'ala wajib berbagi tempat dengan alam atau terpisah darinya secara arah. Namun keadaan Allah Ta'ala dapat ditunjuk oleh indra justru itulah yang diperselisihkan. Ketika itu kebenaran apa yang dituju bergantung padanya, dan itu berujung pada lingkaran (*dawr*, دور)[^77], yang batil.
+
+[^77]: **Lingkaran** (*dawr*; Ing. *cycle*). Menurut para filsuf, mutakalim, dan sufi, *dawr* adalah ketergantungan masing-masing dari dua hal pada yang lain. Jika melalui satu tingkat, ia disebut *dawr* eksplisit (*muṣarraḥ*); jika melalui lebih dari satu tingkat, disebut *dawr* tersembunyi (*muḍmar*), yang lebih buruk. *Dawr* yang mustahil adalah ketergantungan dalam hal kedahuluan, karena meniscayakan sesuatu mendahului dirinya sendiri; adapun saling bergantung dalam kebersamaan, seperti ayah dan anak, tidak mustahil. (*Kashshāf*, s.v. *al-dawr*.)
 
 Kedua, tidak diragukan bahwa segala sesuatu selain Allah Ta'ala adakalanya berbagi tempat dengan yang lain, adakalanya terpisah dari yang lain secara arah; dan tidak diragukan bahwa Allah Ta'ala berbeda dari kedua bagian ini dengan hakikat-Nya yang khusus. Sebab, seandainya Dia tidak berbeda dengan hakikat-Nya yang khusus, niscaya Dia padanan bagi substansi-substansi atau aksiden-aksiden, dan dari situ niscaya Allah Ta'ala baharu. Sebagaimana substansi dan aksiden berserikat dalam hal yang membuat keduanya berbeda dari Zat Sang Pencipta Ta'ala, mengapa tidak boleh yang menuntut penerimaan pembagian menjadi yang berbagi tempat dan yang terpisah adalah hal itu? Dengan pengandaian ini, gugurlah pertanyaan (kalian), sebab tidak ada hal bersama antara substansi dan aksiden selain kebaharuan.
 
@@ -787,7 +844,9 @@ Kedua, seandainya ketidaktahuan akan sebab mengharuskan ketidaktahuan akan akiba
 
 Adapun perkataannya yang ketiga, bahwa keadaan sesuatu sebagai baharu adalah sifat yang diketahui melalui pendalilan, sedangkan keadaannya adakalanya berbagi tempat, adakalanya terpisah, diketahui secara swabukti, dan sifat yang diketahui melalui pendalilan tidak boleh menjadi sebab bagi hukum yang diketahui secara swabukti, kami jawab: tidak dapat diterima. Sebab, telah kami jelaskan bahwa pada banyak hal, pemberi pengaruhnya diketahui melalui pendalilan sedangkan pengaruhnya swabukti.
 
-**Pertanyaan ketujuh**: kami terima bahwa yang memberi pengaruh pada hukum ini bukan kebaharuan, melainkan wujud. Namun mengapa kalian katakan bahwa hukum itu niscaya berlaku pada Allah Ta'ala? Penjelasannya: apa yang dituju hanya niscaya seandainya wujud adalah satu hal di alam nyata dan di alam gaib. Adapun jika tidak demikian, melainkan pemakaian kata "maujud" untuk alam nyata dan alam gaib hanyalah karena keserupaan lafaz (*ishtirāk lafẓī*, اشتراك لفظي), maka dalil ini gugur sepenuhnya. Lagi pula, kaum Karramiyah tidak dapat mengatakan bahwa wujud di alam gaib dan di alam nyata itu satu. Sebab, jika demikian, niscaya mereka harus berpendapat bahwa Sang Pencipta Ta'ala padanan bagi segala yang baharu dari segala segi, atau berpendapat bahwa wujud-Nya merupakan tambahan atas esensi-Nya; padahal mereka tidak berpendapat dengan kedua perkataan ini.
+**Pertanyaan ketujuh**: kami terima bahwa yang memberi pengaruh pada hukum ini bukan kebaharuan, melainkan wujud. Namun mengapa kalian katakan bahwa hukum itu niscaya berlaku pada Allah Ta'ala? Penjelasannya: apa yang dituju hanya niscaya seandainya wujud adalah satu hal di alam nyata dan di alam gaib. Adapun jika tidak demikian, melainkan pemakaian kata "maujud" untuk alam nyata dan alam gaib hanyalah karena keserupaan lafaz (*ishtirāk lafẓī*, اشتراك لفظي)[^78], maka dalil ini gugur sepenuhnya. Lagi pula, kaum Karramiyah tidak dapat mengatakan bahwa wujud di alam gaib dan di alam nyata itu satu. Sebab, jika demikian, niscaya mereka harus berpendapat bahwa Sang Pencipta Ta'ala padanan bagi segala yang baharu dari segala segi, atau berpendapat bahwa wujud-Nya merupakan tambahan atas esensi-Nya; padahal mereka tidak berpendapat dengan kedua perkataan ini.
+
+[^78]: **Keserupaan lafaz** (*ishtirāk lafẓī*; Ing. *homonymy*). Lafaz *mushtarak* (Ing. *common, polysemy*) adalah lafaz yang diletakkan untuk banyak makna, seperti *ʿayn* (mata, mata air, zat, dan lain-lain). Lafaz itu disebut *mushtarak* dalam kaitannya dengan semua maknanya, dan *mujmal* dalam kaitannya dengan masing-masing makna. (*Kashshāf*, s.v. *al-ishtirāk* dan *al-mushtarak*.)
 
 **Pertanyaan kedelapan**: kami terima bahwa apa yang kalian sebutkan menunjukkan bahwa wujud adalah sebab hukum ini. Namun di sini ada dalil lain yang mencegahnya. Yaitu: seandainya yang menuntut penerimaan pembagian pada substansi dan aksiden adalah wujud, niscaya substansi saja pun menerima pembagian menjadi substansi dan aksiden, dan sudah maklum bahwa itu mustahil. Jika mereka berkata, "Setiap substansi dan aksiden sah terbagi ke dalam kedua bagian ini bila ditinjau dari keadaannya sebagai maujud; pembagian itu hanya tercegah karena suatu pencegah yang terpisah, yaitu kekhususan esensinya," kami jawab: ini pengakuan bahwa dari keadaan wujud sebagai sebab sahnya suatu hal, tidak niscaya hukum itu sah pada segala yang bersifat wujud, sebab mungkin saja esensinya yang khusus mencegah hukum itu. Jika demikian, mengapa tidak boleh dikatakan bahwa wujud, walaupun menuntut sesuatu adakalanya berbagi tempat dengan yang lain, adakalanya terpisah darinya, kekhususan Zat Allah Ta'ala mencegah hukum ini? Maka dari keadaan Allah Ta'ala sebagai maujud tidak niscaya Dia adakalanya berbagi tempat dengan alam, adakalanya terpisah darinya secara arah.
 
@@ -817,13 +876,9 @@ Pertama, hal yang paling besar manfaatnya bagi makhluk adalah munculnya cahaya-c
 
 Kedua, sendi kehidupan makhluk adalah menghirup napas, dan hirupan itu tidak lain berasal dari udara, sedangkan udara tidak lain berada di atas bumi. Karena sebab inilah apa yang di atas bumi lebih mulia daripada apa yang di bawah bumi.
 
-Ketiga, turunnya hujan dari arah atas. Karena hal-hal yang merupakan manfaat bagi makhluk ini hanya turun dari arah langit, tak ayal arah itu lebih mulia menurut mereka, sedangkan pertautan hati dengan yang lebih mulia lebih kuat daripada pertautannya dengan yang lebih rendah. Inilah sebab mengangkat tangan ke langit. Lagi pula, Allah Ta'ala menjadikan Arasy sebagai kiblat bagi doa kita, sebagaimana Dia menjadikan Ka'bah sebagai kiblat bagi salat kita. Lagi pula, Allah Ta'ala menjadikan para malaikat sebagai perantara bagi kemaslahatan-kemaslahatan alam ini. Allah Ta'ala berfirman, *"dan (malaikat) yang mengatur urusan (dunia),"*⁴⁵ dan berfirman, *"dan (malaikat-malaikat) yang membagi-bagi urusan."*⁴⁶ Mereka sepakat bahwa Jibril 'alaihissalam adalah malaikat wahyu, penurunan, dan kenabian; Mikail malaikat rezeki; dan Malaikat Maut malaikat kematian; demikian pula halnya dalam urusan-urusan lainnya. Jika demikian halnya, tidaklah janggal bahwa tujuan mengangkat tangan ke langit adalah mengangkat tangan ke arah para malaikat.⁴⁷ Hanya kepada Allah kita memohon taufik.
+Ketiga, turunnya hujan dari arah atas. Karena hal-hal yang merupakan manfaat bagi makhluk ini hanya turun dari arah langit, tak ayal arah itu lebih mulia menurut mereka, sedangkan pertautan hati dengan yang lebih mulia lebih kuat daripada pertautannya dengan yang lebih rendah. Inilah sebab mengangkat tangan ke langit. Lagi pula, Allah Ta'ala menjadikan Arasy sebagai kiblat bagi doa kita, sebagaimana Dia menjadikan Ka'bah sebagai kiblat bagi salat kita. Lagi pula, Allah Ta'ala menjadikan para malaikat sebagai perantara bagi kemaslahatan-kemaslahatan alam ini. Allah Ta'ala berfirman, *"dan (malaikat) yang mengatur urusan (dunia)"* (an-Nazi'at: 5), dan berfirman, *"dan (malaikat-malaikat) yang membagi-bagi urusan"* (az-Zariyat: 4). Mereka sepakat bahwa Jibril 'alaihissalam adalah malaikat wahyu, penurunan, dan kenabian; Mikail malaikat rezeki; dan Malaikat Maut malaikat kematian; demikian pula halnya dalam urusan-urusan lainnya. Jika demikian halnya, tidaklah janggal bahwa tujuan mengangkat tangan ke langit adalah mengangkat tangan ke arah para malaikat.[^79] Hanya kepada Allah kita memohon taufik.
 
-⁴⁵ CT: QS an-Nazi'at [79]: 5.
-
-⁴⁶ CT: QS az-Zariyat [51]: 4.
-
-⁴⁷ CT: Menurut kami, yang hendak dikatakan ar-Razi di sini bukanlah bahwa orang yang berdoa itu berdoa kepada para malaikat dan meminta kepada mereka. Karena kelembutan, ihsan, dan takdir Allah terwujud melalui perantaraan para malaikat, mungkin yang ia maksud adalah bahwa orang yang berdoa menengadahkan tangannya ke arah langit tempat para malaikat berada. (catatan penerjemah)
+[^79]: CT: Menurut kami, yang hendak dikatakan ar-Razi di sini bukanlah bahwa orang yang berdoa itu berdoa kepada para malaikat dan meminta kepada mereka. Karena kelembutan, ihsan, dan takdir Allah terwujud melalui perantaraan para malaikat, mungkin yang ia maksud adalah bahwa orang yang berdoa menengadahkan tangannya ke arah langit tempat para malaikat berada. (catatan penerjemah)
 
 ### Pasal Keenam
 
@@ -848,109 +903,91 @@ Pembahasan dalam bagian ini tersusun atas sebuah mukadimah dan beberapa pasal.
 
 ### Mukadimah
 
-Mukadimah ini menjelaskan bahwa seluruh firkah Islam mengakui bahwa takwil (*taʾwīl*, تأويل) mesti dilakukan terhadap sebagian makna lahiriah (*ẓāhir*, ظاهر) Al-Qur'an dan hadis. Adapun dalam Al-Qur'an, penjelasannya dari beberapa segi.
+Mukadimah ini menjelaskan bahwa seluruh firkah Islam mengakui bahwa takwil (*taʾwīl*, تأويل)[^80] mesti dilakukan terhadap sebagian makna lahiriah (*ẓāhir*, ظاهر)[^81] Al-Qur'an dan hadis. Adapun dalam Al-Qur'an, penjelasannya dari beberapa segi.
+
+[^81]: **Makna lahiriah** (*ẓāhir*; Ing. *visible, manifest, exterior*). Secara bahasa, *ẓāhir* berarti yang jelas. Menurut ahli usul, *ẓāhir* adalah lafaz yang maksudnya tampak dari bentuk lafaz itu sendiri, yakni makna yang ditetapkan oleh peletakan bahasa atau kebiasaan. Kalangan belakangan mensyaratkan bahwa makna itu bukan tujuan utama susunan kalimat, untuk membedakannya dari *naṣṣ* (nas). (*Kashshāf*, s.v. *al-ẓāhir*.)
+
+[^80]: **Takwil** (*taʾwīl*; Ing. *interpretation, hermeneutics*). *Taʾwīl* berasal dari *awl*, yang berarti kembali. Menurut ahli usul, ada yang menyamakannya dengan tafsir; ada pula yang membedakannya: takwil adalah dugaan tentang maksud lafaz, sedangkan tafsir adalah kepastian tentangnya. Maka lafaz *mujmal* yang dijelaskan dengan dalil dugaan, seperti hadis ahad, disebut *muʾawwal*, dan yang dijelaskan dengan dalil pasti disebut *mufassar*. (*Kashshāf*, s.v. *al-taʾwīl*.)
 
 Pertama, di dalam Al-Qur'an disebutkan wajah, disebutkan mata (dalam bentuk jamak), disebutkan satu lambung, disebutkan tangan-tangan, dan disebutkan satu betis. Seandainya kita mengambil makna lahiriahnya, niscaya kita harus menetapkan sesosok makhluk yang memiliki satu wajah, dan pada wajah itu banyak mata; yang memiliki satu lambung, dan padanya banyak tangan; dan yang memiliki satu betis. Tidak kita lihat di dunia ini sosok yang rupanya lebih buruk daripada sosok khayalan ini, dan aku tidak yakin ada orang berakal yang rela menyifati Tuhannya dengan sifat seperti ini.
 
-Kedua, di dalam Al-Qur'an disebutkan bahwa Dia adalah cahaya langit dan bumi. Setiap orang berakal tahu secara swabukti bahwa Tuhan alam bukanlah sesuatu yang terhampar di atas dinding-dinding dan tembok-tembok ini, dan bukan pula cahaya yang memancar dari benda matahari, bulan, dan api. Maka setiap kita mau tidak mau menafsirkan firman Allah Ta'ala, *"Allah (pemberi) cahaya (kepada) langit dan bumi,"*¹ dengan makna bahwa Dia yang menerangi langit dan bumi, atau Dia pemberi petunjuk bagi penghuni langit dan bumi, atau Dia yang memperbaiki langit dan bumi. Semua itu adalah takwil.
+Kedua, di dalam Al-Qur'an disebutkan bahwa Dia adalah cahaya langit dan bumi. Setiap orang berakal tahu secara swabukti bahwa Tuhan alam bukanlah sesuatu yang terhampar di atas dinding-dinding dan tembok-tembok ini, dan bukan pula cahaya yang memancar dari benda matahari, bulan, dan api. Maka setiap kita mau tidak mau menafsirkan firman Allah Ta'ala, *"Allah (pemberi) cahaya (kepada) langit dan bumi"* (an-Nur: 35), dengan makna bahwa Dia yang menerangi langit dan bumi, atau Dia pemberi petunjuk bagi penghuni langit dan bumi, atau Dia yang memperbaiki langit dan bumi. Semua itu adalah takwil.
 
-Ketiga, Allah Ta'ala berfirman, *"Kami menurunkan besi yang padanya terdapat kekuatan yang hebat,"*² padahal sudah maklum bahwa benda besi tidak turun dari langit ke bumi. Dia juga berfirman, *"Dia menurunkan delapan pasang hewan ternak untukmu,"*³ padahal sudah maklum bahwa hewan ternak tidak turun dari langit ke bumi.
+Ketiga, Allah Ta'ala berfirman, *"Kami menurunkan besi yang padanya terdapat kekuatan yang hebat"* (al-Hadid: 25), padahal sudah maklum bahwa benda besi tidak turun dari langit ke bumi. Dia juga berfirman, *"Dia menurunkan delapan pasang hewan ternak untukmu"* (az-Zumar: 6), padahal sudah maklum bahwa hewan ternak tidak turun dari langit ke bumi.
 
-Keempat, firman Allah Ta'ala, *"Dia bersamamu di mana saja kamu berada,"*⁴ firman-Nya, *"Kami lebih dekat kepadanya daripada urat lehernya,"*⁵ dan firman-Nya, *"Tidak ada pembicaraan rahasia antara tiga orang, kecuali Dialah yang keempatnya."*⁶ Setiap orang berakal tahu bahwa yang dimaksud adalah kedekatan dengan ilmu dan kuasa ilahi.
+Keempat, firman Allah Ta'ala, *"Dia bersamamu di mana saja kamu berada"* (al-Hadid: 4), firman-Nya, *"Kami lebih dekat kepadanya daripada urat lehernya"* (Qaf: 16), dan firman-Nya, *"Tidak ada pembicaraan rahasia antara tiga orang, kecuali Dialah yang keempatnya"* (al-Mujadalah: 7). Setiap orang berakal tahu bahwa yang dimaksud adalah kedekatan dengan ilmu dan kuasa ilahi.
 
-Kelima, firman Allah Ta'ala, *"sujudlah dan dekatkanlah (dirimu kepada Allah)."*⁷ Kedekatan ini tidak lain adalah dengan ketaatan dan penghambaan. Adapun kedekatan secara arah, sudah diketahui secara niscaya bahwa ia tidak terjadi karena sujud.
+Kelima, firman Allah Ta'ala, *"sujudlah dan dekatkanlah (dirimu kepada Allah)"* (al-'Alaq: 19). Kedekatan ini tidak lain adalah dengan ketaatan dan penghambaan. Adapun kedekatan secara arah, sudah diketahui secara niscaya bahwa ia tidak terjadi karena sujud.
 
-Keenam, firman Allah Ta'ala, *"Ke mana pun kamu menghadap, di sanalah wajah Allah,"*⁸ dan firman-Nya, *"Kami lebih dekat kepadanya daripada kamu, tetapi kamu tidak melihat."*⁹
+Keenam, firman Allah Ta'ala, *"Ke mana pun kamu menghadap, di sanalah wajah Allah"* (al-Baqarah: 115), dan firman-Nya, *"Kami lebih dekat kepadanya daripada kamu, tetapi kamu tidak melihat"* (al-Waqi'ah: 85).
 
-Ketujuh, Allah Ta'ala berfirman, *"Siapakah yang mau memberi pinjaman kepada Allah dengan pinjaman yang baik?"*¹⁰ Tidak diragukan bahwa ayat ini mesti ditakwilkan.
+Ketujuh, Allah Ta'ala berfirman, *"Siapakah yang mau memberi pinjaman kepada Allah dengan pinjaman yang baik?"* (al-Baqarah: 245) Tidak diragukan bahwa ayat ini mesti ditakwilkan.
 
-Kedelapan, firman Allah Ta'ala, *"maka Allah mendatangi bangunan mereka dari fondasinya."*¹¹ᵃ Ayat ini pun mesti ditakwilkan.
+Kedelapan, firman Allah Ta'ala, *"maka Allah mendatangi bangunan mereka dari fondasinya"* (an-Nahl: 26).[^82] Ayat ini pun mesti ditakwilkan.
 
-Kesembilan, Allah Ta'ala berfirman kepada Musa dan Harun, *"Sesungguhnya Aku bersama kamu berdua, Aku mendengar dan melihat."*¹² Kebersamaan ini tidak lain adalah dengan penjagaan, ilmu, dan rahmat. Ayat-ayat ini dan yang semisalnya termasuk hal-hal yang setiap orang berakal mau tidak mau harus mengakui bahwa ia dibawa kepada takwil. Hanya kepada Allah kita memohon taufik.
+Kesembilan, Allah Ta'ala berfirman kepada Musa dan Harun, *"Sesungguhnya Aku bersama kamu berdua, Aku mendengar dan melihat"* (Taha: 46). Kebersamaan ini tidak lain adalah dengan penjagaan, ilmu, dan rahmat. Ayat-ayat ini dan yang semisalnya termasuk hal-hal yang setiap orang berakal mau tidak mau harus mengakui bahwa ia dibawa kepada takwil. Hanya kepada Allah kita memohon taufik.
 
-¹ CT: QS an-Nur [24]: 35.
-
-² CT: QS al-Hadid [57]: 25.
-
-³ CT: QS az-Zumar [39]: 6.
-
-⁴ CT: QS al-Hadid [57]: 4.
-
-⁵ CT: QS Qaf [50]: 16.
-
-⁶ CT: QS al-Mujadalah [58]: 7. (Edisi Turki tertulis 58/6.)
-
-⁷ CT: QS al-'Alaq [96]: 19.
-
-⁸ CT: QS al-Baqarah [2]: 115.
-
-⁹ CT: QS al-Waqi'ah [56]: 85.
-
-¹⁰ CT: QS al-Baqarah [2]: 245.
-
-¹¹ CT: QS an-Nahl [16]: 26.
-
-¹² CT: QS Taha [20]: 46.
-
-ᵃ CP: Terjemahan Kemenag mengalihkan *fa-atā Allāhu bunyānahum* menjadi "maka Allah menghancurkan bangunan mereka". Di sini dipakai terjemahan harfiah ("mendatangi"), karena ayat ini dikutip justru sebagai contoh lafaz yang makna lahiriahnya harus ditakwilkan; terjemahan Kemenag sendiri sudah merupakan takwil.
+[^82]: CP: Terjemahan Kemenag mengalihkan *fa-atā Allāhu bunyānahum* menjadi "maka Allah menghancurkan bangunan mereka". Di sini dipakai terjemahan harfiah ("mendatangi"), karena ayat ini dikutip justru sebagai contoh lafaz yang makna lahiriahnya harus ditakwilkan; terjemahan Kemenag sendiri sudah merupakan takwil.
 
 Adapun dalam hadis, jenis ini banyak sekali.
 
-Pertama, sabda beliau 'alaihissalam yang mengisahkan firman Allah Subhanahu wa Ta'ala, *"Aku sakit, tetapi engkau tidak menjenguk-Ku; Aku meminta makan kepadamu, tetapi engkau tidak memberi-Ku makan; Aku meminta minum kepadamu, tetapi engkau tidak memberi-Ku minum."*¹³ Tidak ada orang berakal yang ragu bahwa yang dimaksud hanyalah perumpamaan.
+Pertama, sabda beliau 'alaihissalam yang mengisahkan firman Allah Subhanahu wa Ta'ala, *"Aku sakit, tetapi engkau tidak menjenguk-Ku; Aku meminta makan kepadamu, tetapi engkau tidak memberi-Ku makan; Aku meminta minum kepadamu, tetapi engkau tidak memberi-Ku minum."*[^83] Tidak ada orang berakal yang ragu bahwa yang dimaksud hanyalah perumpamaan.
 
-Kedua, sabda beliau shallallahu 'alaihi wasallam yang mengisahkan firman Tuhannya, *"Siapa yang datang kepada-Ku dengan berjalan, Aku datang kepadanya dengan berlari-lari kecil."*¹⁴ Tidak ada orang berakal yang ragu bahwa yang dimaksud adalah perumpamaan dan penggambaran.
+Kedua, sabda beliau shallallahu 'alaihi wasallam yang mengisahkan firman Tuhannya, *"Siapa yang datang kepada-Ku dengan berjalan, Aku datang kepadanya dengan berlari-lari kecil."*[^84] Tidak ada orang berakal yang ragu bahwa yang dimaksud adalah perumpamaan dan penggambaran.
 
 Ketiga, Syekh al-Ghazali rahimahullah menukil dari Ahmad bin Hanbal rahimahullah bahwa ia mengakui takwil pada tiga hadis:
 
-Pertama, sabda beliau 'alaihissalam, *"Hajar Aswad adalah tangan kanan Allah di bumi."*¹⁵
+Pertama, sabda beliau 'alaihissalam, *"Hajar Aswad adalah tangan kanan Allah di bumi."*[^85]
 
-Kedua, sabda beliau 'alaihissalam, *"Sungguh, aku merasakan embusan napas ar-Rahman dari arah Yaman."*¹⁶ᵇ
+Kedua, sabda beliau 'alaihissalam, *"Sungguh, aku merasakan embusan napas ar-Rahman dari arah Yaman."*[^86][^87]
 
-Ketiga, sabda beliau 'alaihissalam yang mengisahkan firman Allah 'Azza wa Jalla, *"Aku adalah teman duduk orang yang mengingat-Ku."*¹⁷
+Ketiga, sabda beliau 'alaihissalam yang mengisahkan firman Allah 'Azza wa Jalla, *"Aku adalah teman duduk orang yang mengingat-Ku."*[^88]
 
-Keempat, dikisahkan bahwa kaum Muktazilah, dalam masalah kemakhlukan Al-Qur'an, berpegang pada riwayat dari beliau 'alaihissalam bahwa surah al-Baqarah dan Ali Imran akan datang pada hari kiamat begini dan begini, seakan-akan keduanya dua gumpalan awan.¹⁸ Ahmad bin Hanbal rahimahullah menjawab, "Maksudnya adalah pahala orang yang membaca keduanya." Ini adalah pernyataan tegas tentang takwil.
+Keempat, dikisahkan bahwa kaum Muktazilah, dalam masalah kemakhlukan Al-Qur'an, berpegang pada riwayat dari beliau 'alaihissalam bahwa surah al-Baqarah dan Ali Imran akan datang pada hari kiamat begini dan begini, seakan-akan keduanya dua gumpalan awan.[^89] Ahmad bin Hanbal rahimahullah menjawab, "Maksudnya adalah pahala orang yang membaca keduanya." Ini adalah pernyataan tegas tentang takwil.
 
-Kelima, sabda beliau shallallahu 'alaihi wasallam, *"Sesungguhnya rahim bergantung pada kedua pinggang ar-Rahman, lalu Dia Subhanahu berfirman, 'Aku akan menyambung siapa yang menyambungmu.'"*¹⁹ Hadis ini mesti ditakwilkan.
+Kelima, sabda beliau shallallahu 'alaihi wasallam, *"Sesungguhnya rahim bergantung pada kedua pinggang ar-Rahman, lalu Dia Subhanahu berfirman, 'Aku akan menyambung siapa yang menyambungmu.'"*[^90] Hadis ini mesti ditakwilkan.
 
-Keenam, beliau 'alaihissalam bersabda, *"Sesungguhnya masjid benar-benar mengerut karena dahak sebagaimana kulit mengerut karena api."*²⁰ Hadis ini mesti ditakwilkan.
+Keenam, beliau 'alaihissalam bersabda, *"Sesungguhnya masjid benar-benar mengerut karena dahak sebagaimana kulit mengerut karena api."*[^91] Hadis ini mesti ditakwilkan.
 
-Ketujuh, beliau 'alaihissalam bersabda, *"Hati orang mukmin berada di antara dua jari dari jari-jari ar-Rahman."*²¹ Hadis ini mesti ditakwilkan, sebab kita tahu secara niscaya bahwa di dada kita tidak ada dua jari yang di antaranya terdapat hati kita.
+Ketujuh, beliau 'alaihissalam bersabda, *"Hati orang mukmin berada di antara dua jari dari jari-jari ar-Rahman."*[^92] Hadis ini mesti ditakwilkan, sebab kita tahu secara niscaya bahwa di dada kita tidak ada dua jari yang di antaranya terdapat hati kita.
 
-Kedelapan, sabda beliau shallallahu 'alaihi wasallam yang mengisahkan firman Allah Ta'ala, *"Aku berada di sisi orang-orang yang hatinya hancur."*²² Keberadaan di sisi ini tidak lain adalah dengan rahmat. Juga sabda beliau shallallahu 'alaihi wasallam yang mengisahkan firman Allah Ta'ala tentang sifat para wali, *"Apabila Aku telah mencintainya, Aku menjadi pendengarannya yang dengannya ia mendengar dan penglihatannya yang dengannya ia melihat."*²³ Sudah diketahui secara niscaya bahwa daya penglihatan yang dengannya segala sesuatu dilihat bukanlah Allah Subhanahu wa Ta'ala.
+Kedelapan, sabda beliau shallallahu 'alaihi wasallam yang mengisahkan firman Allah Ta'ala, *"Aku berada di sisi orang-orang yang hatinya hancur."*[^93] Keberadaan di sisi ini tidak lain adalah dengan rahmat. Juga sabda beliau shallallahu 'alaihi wasallam yang mengisahkan firman Allah Ta'ala tentang sifat para wali, *"Apabila Aku telah mencintainya, Aku menjadi pendengarannya yang dengannya ia mendengar dan penglihatannya yang dengannya ia melihat."*[^94] Sudah diketahui secara niscaya bahwa daya penglihatan yang dengannya segala sesuatu dilihat bukanlah Allah Subhanahu wa Ta'ala.
 
-Kesembilan, beliau 'alaihissalam bersabda, mengisahkan firman Allah Subhanahu wa Ta'ala, *"Kebesaran adalah selendang-Ku dan keagungan adalah sarung-Ku."*²⁴ Orang berakal tidak akan menetapkan sarung dan selendang bagi Allah Ta'ala.
+Kesembilan, beliau 'alaihissalam bersabda, mengisahkan firman Allah Subhanahu wa Ta'ala, *"Kebesaran adalah selendang-Ku dan keagungan adalah sarung-Ku."*[^95] Orang berakal tidak akan menetapkan sarung dan selendang bagi Allah Ta'ala.
 
-Kesepuluh, beliau 'alaihissalam bertanya kepada Ubay bin Ka'b, *"Wahai Abul Mundzir, ayat manakah di dalam Kitab Allah Ta'ala yang paling agung?"* Ubay ragu dua kali, lalu pada kali ketiga berkata, "Ayat Kursi." Maka beliau 'alaihissalam menepukkan tangannya ke dada Ubay dan bersabda, *"Engkau benar. Demi Zat yang jiwaku berada di tangan-Nya, sesungguhnya ayat itu memiliki lisan yang menyucikan Allah Ta'ala di sisi Arasy."*²⁵ Hadis ini mesti ditakwilkan.
+Kesepuluh, beliau 'alaihissalam bertanya kepada Ubay bin Ka'b, *"Wahai Abul Mundzir, ayat manakah di dalam Kitab Allah Ta'ala yang paling agung?"* Ubay ragu dua kali, lalu pada kali ketiga berkata, "Ayat Kursi." Maka beliau 'alaihissalam menepukkan tangannya ke dada Ubay dan bersabda, *"Engkau benar. Demi Zat yang jiwaku berada di tangan-Nya, sesungguhnya ayat itu memiliki lisan yang menyucikan Allah Ta'ala di sisi Arasy."*[^96] Hadis ini mesti ditakwilkan.
 
-Maka tetaplah, dengan semua yang telah kami sebutkan, bahwa menempuh takwil adalah hal yang tak terelakkan bagi setiap orang berakal. Pada titik inilah para mutakalim berkata: karena telah tetap berdasarkan dalil bahwa Allah Subhanahu wa Ta'ala mahasuci dari arah dan kejisiman, kita wajib memberikan kepada lafaz-lafaz yang terdapat dalam Al-Qur'an dan hadis ini tempat pemaknaan yang benar, agar hal itu tidak menjadi sebab celaan terhadapnya. Inilah tuntasnya pembahasan tentang mukadimah. Hanya kepada Allah kita memohon taufik.
+Maka tetaplah, dengan semua yang telah kami sebutkan, bahwa menempuh takwil adalah hal yang tak terelakkan bagi setiap orang berakal. Pada titik inilah para mutakalim[^97] berkata: karena telah tetap berdasarkan dalil bahwa Allah Subhanahu wa Ta'ala mahasuci dari arah dan kejisiman, kita wajib memberikan kepada lafaz-lafaz yang terdapat dalam Al-Qur'an dan hadis ini tempat pemaknaan yang benar, agar hal itu tidak menjadi sebab celaan terhadapnya. Inilah tuntasnya pembahasan tentang mukadimah. Hanya kepada Allah kita memohon taufik.
 
-¹³ CT: Muslim, *al-Birr*, 43.
+[^97]: **Para mutakalim** (*al-mutakallimūn*; dari *ʿilm al-kalām*). Ilmu kalam disebut juga *uṣūl al-dīn*; Abu Hanifah menamainya *al-fiqh al-akbar*, dan ia juga disebut ilmu tauhid dan sifat. Ilmu ini adalah ilmu yang dengannya seseorang mampu menetapkan akidah-akidah agama di hadapan orang lain dengan mengemukakan hujah-hujah dan menolak syubhat-syubhat. (*Kashshāf*, s.v. *ʿilm al-kalām*.)
 
-¹⁴ CT: Ahmad bin Hanbal, III/40.
+[^83]: CT: Muslim, *al-Birr*, 43.
 
-¹⁵ CT: Dari *Musnad* ad-Dailami; al-Hindi 'Ala'uddin al-Muttaqi bin Husamuddin, *Kanz al-'Ummal fi Sunan al-Aqwal wa al-Af'al*, XII/217, hadis no. 34744.
+[^84]: CT: Ahmad bin Hanbal, III/40.
 
-¹⁶ CT: Sumber hadis ini tidak dapat ditemukan.
+[^85]: CT: Dari *Musnad* ad-Dailami; al-Hindi 'Ala'uddin al-Muttaqi bin Husamuddin, *Kanz al-'Ummal fi Sunan al-Aqwal wa al-Af'al*, XII/217, hadis no. 34744.
 
-¹⁷ CT: Ibnu Abi Syaibah, *al-Mushannaf*, I/108.
+[^86]: CT: Sumber hadis ini tidak dapat ditemukan.
 
-¹⁸ CT: Sumber hadis ini tidak dapat ditemukan.
+[^87]: CP: Teks Arab tertulis *min qibal al-yamīn* ("dari arah kanan"), dan edisi Turki mengikutinya. Lafaz hadis yang dikenal adalah *min qibal al-Yaman* ("dari arah Yaman"), dan bacaan inilah yang dipakai di sini.
 
-¹⁹ CT: al-Hindi, *Kanz al-'Ummal*, III/360, hadis no. 6940.
+[^88]: CT: Ibnu Abi Syaibah, *al-Mushannaf*, I/108.
 
-²⁰ CT: Sumber hadis ini tidak dapat ditemukan.
+[^89]: CT: Sumber hadis ini tidak dapat ditemukan.
 
-²¹ CT: Muslim, *al-Qadar*, 17; at-Tirmidzi, *al-Qadar*, 7; Ibnu Majah, *al-Muqaddimah*, 13.
+[^90]: CT: al-Hindi, *Kanz al-'Ummal*, III/360, hadis no. 6940.
 
-²² CT: al-Bukhari, *ar-Riqaq*, 38.
+[^91]: CT: Sumber hadis ini tidak dapat ditemukan.
 
-²³ CT: al-Bukhari, *ar-Riqaq*, 38.
+[^92]: CT: Muslim, *al-Qadar*, 17; at-Tirmidzi, *al-Qadar*, 7; Ibnu Majah, *al-Muqaddimah*, 13.
 
-²⁴ CT: Muslim, *al-Birr*, 136; Abu Dawud, *al-Libas*, 25; Ibnu Majah, *az-Zuhd*, 16.
+[^93]: CT: al-Bukhari, *ar-Riqaq*, 38.
 
-²⁵ CT: Muslim, *Shalat al-Musafirin*, 258; Abu Dawud, *al-Huruf*, 35; ad-Darimi, *Fadha'il al-Qur'an*, 14.
+[^94]: CT: al-Bukhari, *ar-Riqaq*, 38.
 
-ᵇ CP: Teks Arab tertulis *min qibal al-yamīn* ("dari arah kanan"), dan edisi Turki mengikutinya. Lafaz hadis yang dikenal adalah *min qibal al-Yaman* ("dari arah Yaman"), dan bacaan inilah yang dipakai di sini.
+[^95]: CT: Muslim, *al-Birr*, 136; Abu Dawud, *al-Libas*, 25; Ibnu Majah, *az-Zuhd*, 16.
+
+[^96]: CT: Muslim, *Shalat al-Musafirin*, 258; Abu Dawud, *al-Huruf*, 35; ad-Darimi, *Fadha'il al-Qur'an*, 14.
 
 ### Pasal Pertama: Tentang Penetapan "Rupa" (*Ṣūra*)
 
@@ -958,7 +995,7 @@ Maka tetaplah, dengan semua yang telah kami sebutkan, bahwa menempuh takwil adal
 
 Ketahuilah, lafaz ini tidak terdapat dalam Al-Qur'an, tetapi terdapat dalam hadis.
 
-**Hadis pertama**: diriwayatkan dari Nabi shallallahu 'alaihi wasallam bahwa beliau bersabda, *"Sesungguhnya Allah Ta'ala menciptakan Adam menurut rupanya."* Ibnu Khuzaimah meriwayatkan dari Abu Hurairah radhiyallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Janganlah sekali-kali seorang di antara kalian berkata kepada budaknya, 'Semoga Allah memburukkan wajahmu dan wajah orang yang wajahnya serupa denganmu,' sebab Allah menciptakan Adam menurut rupanya."*²⁶
+**Hadis pertama**: diriwayatkan dari Nabi shallallahu 'alaihi wasallam bahwa beliau bersabda, *"Sesungguhnya Allah Ta'ala menciptakan Adam menurut rupanya."* Ibnu Khuzaimah meriwayatkan dari Abu Hurairah radhiyallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Janganlah sekali-kali seorang di antara kalian berkata kepada budaknya, 'Semoga Allah memburukkan wajahmu dan wajah orang yang wajahnya serupa denganmu,' sebab Allah menciptakan Adam menurut rupanya."*[^98]
 
 Jawabannya: ketahuilah, kata ganti *-hu* (nya) dalam sabdanya "menurut rupanya" mungkin kembali kepada sesuatu selain rupa Adam 'alaihissalam dan selain Allah Ta'ala, mungkin kembali kepada Adam, dan mungkin kembali kepada Allah Ta'ala. Maka ini tiga jalan.
 
@@ -976,9 +1013,9 @@ Kedua, yang dimaksud adalah membatalkan pendapat kaum Dahriyah yang berkata bahw
 
 Ketiga, manusia tidak terbentuk kecuali dalam masa yang panjang dan waktu yang lama melalui perantaraan falak-falak dan unsur-unsur. Maka beliau 'alaihissalam bersabda, *"Sesungguhnya Allah menciptakan Adam menurut rupanya,"* yakni tanpa perantara-perantara ini. Maksudnya adalah membantah para filsuf.
 
-Keempat, maksudnya adalah menjelaskan bahwa rupa manusia ini terwujud semata-mata karena penciptaan dan pengadaan oleh Allah Ta'ala, bukan karena pengaruh daya pembentuk rupa dan daya pembiak, sebagaimana disebutkan oleh para tabib dan filsuf. Karena itu Allah Ta'ala berfirman, *"Dialah Allah Yang Maha Pencipta, Yang Mengadakan, Yang Membentuk Rupa."*²⁷ Dialah *al-Khāliq*, yakni Yang mengetahui keadaan hal-hal yang mungkin dan yang baharu; *al-Bāriʾ*, yakni Yang mengadakan jisim-jisim dan zat-zat setelah ketiadaannya; dan *al-Muṣawwir*, yakni Yang menyusun zat-zat itu menurut rupa dan susunannya yang khusus.
+Keempat, maksudnya adalah menjelaskan bahwa rupa manusia ini terwujud semata-mata karena penciptaan dan pengadaan oleh Allah Ta'ala, bukan karena pengaruh daya pembentuk rupa dan daya pembiak, sebagaimana disebutkan oleh para tabib dan filsuf. Karena itu Allah Ta'ala berfirman, *"Dialah Allah Yang Maha Pencipta, Yang Mengadakan, Yang Membentuk Rupa"* (al-Hasyr: 24). Dialah *al-Khāliq*, yakni Yang mengetahui keadaan hal-hal yang mungkin dan yang baharu; *al-Bāriʾ*, yakni Yang mengadakan jisim-jisim dan zat-zat setelah ketiadaannya; dan *al-Muṣawwir*, yakni Yang menyusun zat-zat itu menurut rupa dan susunannya yang khusus.
 
-Kelima, kata "rupa" terkadang disebut dengan maksud sifat. Dikatakan, "Aku menguraikan kepadanya rupa peristiwa ini," dan "Aku menyebutkan kepadanya rupa masalah ini"; yang dimaksud dengan rupa pada semua tempat ini adalah sifat. Maka sabda beliau 'alaihissalam, *"Sesungguhnya Allah menciptakan Adam menurut rupanya,"* berarti menurut keseluruhan sifat dan keadaannya. Sebab, manusia ketika baru terjadi berada pada puncak kebodohan dan ketidakberdayaan, kemudian ilmu dan kuasanya terus bertambah hingga mencapai batas kesempurnaan. Maka Nabi shallallahu 'alaihi wasallam menjelaskan bahwa Adam diciptakan sejak awal dalam keadaan sempurna dan paripurna dalam ilmu dan kuasanya. Sabdanya, "Allah menciptakan Adam menurut rupanya," bermakna bahwa Dia menciptakannya sejak awal menurut sifat yang ada padanya di akhir. Lagi pula, tidak janggal jika dalam lafaz "rupa" termasuk pula keadaannya sebagai orang yang berbahagia atau celaka, sebagaimana sabda beliau 'alaihissalam, *"Orang yang berbahagia adalah yang telah berbahagia di dalam perut ibunya, dan orang yang celaka adalah yang telah celaka di dalam perut ibunya."*²⁸ Maka sabda beliau 'alaihissalam, *"Sesungguhnya Allah menciptakan Adam menurut rupanya,"* berarti menurut seluruh sifatnya: keadaannya sebagai orang yang berbahagia atau celaka, bertobat, atau diterima di sisi Allah Ta'ala.
+Kelima, kata "rupa" terkadang disebut dengan maksud sifat. Dikatakan, "Aku menguraikan kepadanya rupa peristiwa ini," dan "Aku menyebutkan kepadanya rupa masalah ini"; yang dimaksud dengan rupa pada semua tempat ini adalah sifat. Maka sabda beliau 'alaihissalam, *"Sesungguhnya Allah menciptakan Adam menurut rupanya,"* berarti menurut keseluruhan sifat dan keadaannya. Sebab, manusia ketika baru terjadi berada pada puncak kebodohan dan ketidakberdayaan, kemudian ilmu dan kuasanya terus bertambah hingga mencapai batas kesempurnaan. Maka Nabi shallallahu 'alaihi wasallam menjelaskan bahwa Adam diciptakan sejak awal dalam keadaan sempurna dan paripurna dalam ilmu dan kuasanya. Sabdanya, "Allah menciptakan Adam menurut rupanya," bermakna bahwa Dia menciptakannya sejak awal menurut sifat yang ada padanya di akhir. Lagi pula, tidak janggal jika dalam lafaz "rupa" termasuk pula keadaannya sebagai orang yang berbahagia atau celaka, sebagaimana sabda beliau 'alaihissalam, *"Orang yang berbahagia adalah yang telah berbahagia di dalam perut ibunya, dan orang yang celaka adalah yang telah celaka di dalam perut ibunya."*[^99] Maka sabda beliau 'alaihissalam, *"Sesungguhnya Allah menciptakan Adam menurut rupanya,"* berarti menurut seluruh sifatnya: keadaannya sebagai orang yang berbahagia atau celaka, bertobat, atau diterima di sisi Allah Ta'ala.
 
 **Jalan ketiga**: kata ganti itu kembali kepada Allah Ta'ala. Dalam hal ini ada beberapa segi.
 
@@ -988,13 +1025,11 @@ Kedua, sebagaimana sah menyandarkan sifat kepada yang disifati, sah pula menyand
 
 Ketiga, Syekh al-Ghazali rahimahullah berkata: manusia bukanlah susunan tubuh ini, melainkan maujud yang bukan jisim dan bukan sesuatu yang jasmani, dan tidak memiliki pertautan dengan badan ini kecuali dengan cara mengatur dan mengelola. Maka sabda beliau 'alaihissalam, *"Sesungguhnya Allah menciptakan Adam menurut rupa-Nya,"* berarti bahwa nisbah zat Adam 'alaihissalam kepada badan ini seperti nisbah Sang Pencipta Ta'ala kepada alam, dari sisi bahwa masing-masing tidak berada di dalam jisim ini, meskipun memberi pengaruh padanya dengan mengelola dan mengatur. Allah lebih mengetahui.
 
-²⁶ CT: al-Bukhari, *al-Isti'dzan*, 1; Muslim, *al-Birr*, 115; Ahmad bin Hanbal, III/244, 251.
+[^98]: CT: al-Bukhari, *al-Isti'dzan*, 1; Muslim, *al-Birr*, 115; Ahmad bin Hanbal, III/244, 251.
 
-²⁷ CT: QS al-Hasyr [59]: 24.
+[^99]: CT: Muslim, *al-Qadar*, 3; Ibnu Majah, *al-Muqaddimah*, 7; Ahmad bin Hanbal, II/176.
 
-²⁸ CT: Muslim, *al-Qadar*, 3; Ibnu Majah, *al-Muqaddimah*, 7; Ahmad bin Hanbal, II/176.
-
-**Hadis kedua**: diriwayatkan oleh Ibnu Khuzaimah dalam kitabnya yang ia namai *at-Tauhid*, dengan sanadnya dari Ibnu Umar radhiyallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Janganlah kalian memburukkan wajah, sebab Allah menciptakan Adam menurut rupa ar-Rahman."*²⁹
+**Hadis kedua**: diriwayatkan oleh Ibnu Khuzaimah dalam kitabnya yang ia namai *at-Tauhid*, dengan sanadnya dari Ibnu Umar radhiyallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Janganlah kalian memburukkan wajah, sebab Allah menciptakan Adam menurut rupa ar-Rahman."*[^100]
 
 Ketahuilah, Ibnu Khuzaimah melemahkan riwayat ini dan berkata: jika riwayat ini sahih, ia memiliki dua takwil.
 
@@ -1002,13 +1037,13 @@ Pertama, yang dimaksud dengan rupa ini adalah sifat, sebagaimana telah kami jela
 
 Kedua, yang dimaksud dengan penyandaran ini adalah menjelaskan kemuliaan rupa ini, seperti dalam ungkapan "Rumah Allah" dan "Unta Allah".
 
-²⁹ CT: Abu Dawud, *an-Nikah*, 41; Ahmad bin Hanbal, IV/447; V/3.
+[^100]: CT: Abu Dawud, *an-Nikah*, 41; Ahmad bin Hanbal, IV/447; V/3.
 
-**Hadis ketiga**: diriwayatkan oleh penulis *Syarh as-Sunnah*³⁰ rahimahullah dalam kitabnya, pada bab tentang orang yang terakhir keluar dari neraka, dari Abu Hurairah, dalam sebuah hadis panjang dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Lalu Allah mendatangi mereka dalam rupa selain rupa yang mereka kenal, lalu berfirman, 'Aku Tuhan kalian.' Mereka berkata, 'Kami berlindung kepada Allah. Inilah tempat kami sampai Tuhan kami mendatangi kami. Sesungguhnya antara kami dan Dia ada suatu tanda; apabila Tuhan kami datang, kami akan mengenali-Nya.' Lalu Allah mendatangi mereka dalam rupa yang mereka kenal, dan mereka berkata, 'Engkaulah Tuhan kami,' lalu mereka mengikuti-Nya."*³¹
+**Hadis ketiga**: diriwayatkan oleh penulis *Syarh as-Sunnah*[^101] rahimahullah dalam kitabnya, pada bab tentang orang yang terakhir keluar dari neraka, dari Abu Hurairah, dalam sebuah hadis panjang dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Lalu Allah mendatangi mereka dalam rupa selain rupa yang mereka kenal, lalu berfirman, 'Aku Tuhan kalian.' Mereka berkata, 'Kami berlindung kepada Allah. Inilah tempat kami sampai Tuhan kami mendatangi kami. Sesungguhnya antara kami dan Dia ada suatu tanda; apabila Tuhan kami datang, kami akan mengenali-Nya.' Lalu Allah mendatangi mereka dalam rupa yang mereka kenal, dan mereka berkata, 'Engkaulah Tuhan kami,' lalu mereka mengikuti-Nya."*[^102]
 
 Ketahuilah, pembahasan tentang hadis ini dari beberapa segi.
 
-Pertama, kata *fī* (dalam)³² bermakna *bi-* (dengan)³³. Takdirnya: lalu Allah mendatangi mereka dengan suatu rupa selain rupa yang mereka kenal di dunia, yaitu dengan memperlihatkan kepada mereka salah satu malaikat. Padanannya adalah perkataan Ibnu Abbas radhiyallahu 'anhu tentang firman Allah Ta'ala, *"Tidak ada yang mereka tunggu-tunggu kecuali datangnya Allah dalam naungan awan,"*³⁴ yakni dengan naungan awan. Kemudian rupa itu berkata, "Aku Tuhan kalian." Seakan-akan itulah ujian terakhir yang menimpa para mukalaf di negeri akhirat, dan faedahnya adalah meneguhkan orang-orang mukmin di atas perkataan yang saleh. Dunia disebut negeri ujian dan akhirat negeri pembalasan hanyalah menurut keumuman dan kebanyakannya, walaupun pada masing-masing terkadang terjadi apa yang terjadi pada yang lain.
+Pertama, kata *fī* (dalam)[^103] bermakna *bi-* (dengan)[^104]. Takdirnya: lalu Allah mendatangi mereka dengan suatu rupa selain rupa yang mereka kenal di dunia, yaitu dengan memperlihatkan kepada mereka salah satu malaikat. Padanannya adalah perkataan Ibnu Abbas radhiyallahu 'anhu tentang firman Allah Ta'ala, *"Tidak ada yang mereka tunggu-tunggu kecuali datangnya Allah dalam naungan awan"* (al-Baqarah: 210), yakni dengan naungan awan. Kemudian rupa itu berkata, "Aku Tuhan kalian." Seakan-akan itulah ujian terakhir yang menimpa para mukalaf di negeri akhirat, dan faedahnya adalah meneguhkan orang-orang mukmin di atas perkataan yang saleh. Dunia disebut negeri ujian dan akhirat negeri pembalasan hanyalah menurut keumuman dan kebanyakannya, walaupun pada masing-masing terkadang terjadi apa yang terjadi pada yang lain.
 
 Adapun sabda beliau 'alaihissalam, *"Mereka berkata, 'Apabila Tuhan kami datang, kami akan mengenali-Nya,'"* dibawa kepada makna: apabila kebaikan Tuhan kami datang, kami akan mengenalinya. Dan perkataan mereka (dalam riwayat), "Lalu Allah mendatangi mereka dalam rupa yang mereka kenal," bermakna: Dia mendatangi mereka dengan rupa yang mereka kenal sebagai salah satu tanda kebaikan.
 
@@ -1016,17 +1051,15 @@ Adapun sabda beliau 'alaihissalam, *"Mereka berkata, 'Antara kami dan Dia ada su
 
 Takwil kedua: yang dimaksud dengan rupa adalah sifat. Maknanya: tampak kepada mereka sebagian dari hantaman Allah dan dahsyatnya siksa-Nya, yang belum pernah mereka alami dan tidak biasa mereka dapati dari perlakuan Allah Ta'ala terhadap mereka; kemudian setelah itu datang kepada mereka berbagai rahmat dan kemuliaan dengan cara yang biasa dan mereka kenal.
 
-³⁰ CT: Yang dimaksud dengan "penulis *Syarh as-Sunnah*" adalah Husain bin Mas'ud al-Baghawi (w. 516 H). Karya pengarang ini diringkas oleh banyak orang sesudahnya. (Lihat Katib Çelebi, *Kasyf azh-Zhunun*, Istanbul, 1360/1941, II/1040-1041.) (catatan penerjemah)
+[^101]: CT: Yang dimaksud dengan "penulis *Syarh as-Sunnah*" adalah Husain bin Mas'ud al-Baghawi (w. 516 H). Karya pengarang ini diringkas oleh banyak orang sesudahnya. (Lihat Katib Çelebi, *Kasyf azh-Zhunun*, Istanbul, 1360/1941, II/1040-1041.) (catatan penerjemah)
 
-³¹ CT: al-Bukhari, *al-Adzan*, 139, *at-Tauhid*, 24; Muslim, *al-Iman*, 299; Ahmad bin Hanbal, II/534.
+[^102]: CT: al-Bukhari, *al-Adzan*, 139, *at-Tauhid*, 24; Muslim, *al-Iman*, 299; Ahmad bin Hanbal, II/534.
 
-³² CT: Dalam bahasa Arab, *fī* adalah huruf jar yang dipakai untuk tempat, dengan makna "berada di dalam". (catatan penerjemah)
+[^103]: CT: Dalam bahasa Arab, *fī* adalah huruf jar yang dipakai untuk tempat, dengan makna "berada di dalam". (catatan penerjemah)
 
-³³ CT: Ini juga huruf jar, sebuah partikel dengan beragam pemakaian; kebanyakan dipakai untuk makna kebersamaan. (catatan penerjemah)
+[^104]: CT: Ini juga huruf jar, sebuah partikel dengan beragam pemakaian; kebanyakan dipakai untuk makna kebersamaan. (catatan penerjemah)
 
-³⁴ CT: QS al-Baqarah [2]: 210.
-
-**Hadis keempat**: diriwayatkan dari beliau 'alaihissalam bahwa beliau bersabda, *"Aku melihat Tuhanku dalam rupa yang paling indah."*³⁵ Ketahuilah, sabdanya "dalam rupa yang paling indah" mungkin termasuk sifat yang melihat, sebagaimana dikatakan, "Aku masuk menemui amir dalam keadaan paling baik," yakni akulah yang berada dalam keadaan paling baik; dan mungkin termasuk sifat yang dilihat. Jika termasuk sifat yang melihat, maka sabdanya "dalam rupa yang paling indah" kembali kepada Rasul shallallahu 'alaihi wasallam, dan dalam hal ini ada dua segi.
+**Hadis keempat**: diriwayatkan dari beliau 'alaihissalam bahwa beliau bersabda, *"Aku melihat Tuhanku dalam rupa yang paling indah."*[^105] Ketahuilah, sabdanya "dalam rupa yang paling indah" mungkin termasuk sifat yang melihat, sebagaimana dikatakan, "Aku masuk menemui amir dalam keadaan paling baik," yakni akulah yang berada dalam keadaan paling baik; dan mungkin termasuk sifat yang dilihat. Jika termasuk sifat yang melihat, maka sabdanya "dalam rupa yang paling indah" kembali kepada Rasul shallallahu 'alaihi wasallam, dan dalam hal ini ada dua segi.
 
 Pertama, yang dimaksud dengan rupa adalah rupa itu sendiri. Maknanya: Allah Ta'ala menghiasi ciptaannya dan memperindah rupanya ketika ia melihat Tuhannya, dan itu menjadi sebab bertambahnya kemuliaan bagi Rasul shallallahu 'alaihi wasallam.
 
@@ -1040,45 +1073,47 @@ Kedua, yang dimaksud dengan rupa adalah sifat. Sebab, ketika beliau dikhususkan 
 
 Ketiga, mungkin ketika melihat-Nya, beliau 'alaihissalam mengenali semacam sifat keagungan, kemuliaan, dan kebesaran yang sebelumnya belum beliau kenali.
 
-³⁵ CT: al-Bukhari, *Tafsir as-Suwar*, 9, 15, *at-Ta'bir*, 48; Ahmad bin Hanbal, I/368, IV/88, V/243.
+[^105]: CT: al-Bukhari, *Tafsir as-Suwar*, 9, 15, *at-Ta'bir*, 48; Ahmad bin Hanbal, I/368, IV/88, V/243.
 
 ### Pasal Kedua: Tentang Lafaz "Sosok" (*Shakhṣ*)
 
 *(Tr. h. 113)*
 
-Lafaz ini tidak terdapat dalam Al-Qur'an, tetapi diriwayatkan bahwa Nabi shallallahu 'alaihi wasallam bersabda, *"Tidak ada sosok yang lebih mencintai kecemburuan daripada Allah 'Azza wa Jalla."*³⁶ Dalam hadis ini ada dua lafaz yang wajib ditakwilkan.
+Lafaz ini tidak terdapat dalam Al-Qur'an, tetapi diriwayatkan bahwa Nabi shallallahu 'alaihi wasallam bersabda, *"Tidak ada sosok yang lebih mencintai kecemburuan daripada Allah 'Azza wa Jalla."*[^106] Dalam hadis ini ada dua lafaz yang wajib ditakwilkan.
 
 Pertama, "sosok". Yang dimaksud adalah zat yang tertentu dan hakikat yang khusus. Sebab, jisim yang memiliki sosok dan volume niscaya satu; maka menyebut kesatuan dengan nama kesosokan adalah menyebut salah satu dari dua hal yang saling menyertai dengan nama yang lain.
 
-Kedua, lafaz "kecemburuan". Maknanya adalah pencegahan keras, sebab kecemburuan adalah keadaan jiwa yang menuntut pencegahan dan larangan. Maka di sini disebutlah sebab untuk mengungkapkan akibatnya (*kināya*). Allah lebih mengetahui.
+Kedua, lafaz "kecemburuan". Maknanya adalah pencegahan keras, sebab kecemburuan adalah keadaan jiwa yang menuntut pencegahan dan larangan. Maka di sini disebutlah sebab untuk mengungkapkan akibatnya (*kināya*)[^107]. Allah lebih mengetahui.
 
-³⁶ CT: Muslim, *al-Li'an*, 17.
+[^107]: **Kinayah** (*kināya*; Ing. *metonymy, antonomasia*). Secara bahasa, *kināya* adalah mengungkapkan sesuatu dengan lafaz yang tidak terang-terangan menunjuknya, untuk suatu tujuan. Menurut ahli usul dan fukaha, *kināya* adalah lawan *ṣarīḥ* (lafaz terang). Menurut ahli bayan, ia adalah lafaz yang dipakai dalam makna asalnya, tetapi bukan untuk ditetapkan atau dinafikan, melainkan untuk beralih darinya kepada apa yang dilaziminya, seperti "panjang sarung pedangnya" untuk menyatakan tinggi badan. Ungkapan seperti itu tetap benar walaupun makna hakikinya mustahil, sebagaimana pada firman Allah, "langit digulung dengan tangan kanan-Nya" (az-Zumar: 67). (*Kashshāf*, s.v. *al-kināya*.)
+
+[^106]: CT: Muslim, *al-Li'an*, 17.
 
 ### Pasal Ketiga: Tentang Lafaz "Diri" (*Nafs*)
 
 *(Tr. h. 114)*
 
-Mereka berhujah dengan Al-Qur'an dan hadis untuk memakai lafaz ini (bagi Allah). Adapun dari Al-Qur'an, firman Allah Ta'ala tentang Musa 'alaihissalam, *"Aku telah memilihmu (menjadi rasul) untuk diri-Ku."*³⁷ Dia berfirman, mengisahkan perkataan Isa 'alaihissalam, *"Engkau mengetahui apa yang ada pada diriku dan aku tidak mengetahui apa yang ada pada diri-Mu."*³⁸ Dia berfirman tentang sifat orang-orang yang diberi pahala, *"Tuhanmu telah menetapkan sifat kasih sayang pada diri-Nya."*³⁹ Dan Dia berfirman untuk menakut-nakuti para pendurhaka, *"Allah memperingatkan kamu akan diri-Nya."*⁴⁰ Adapun hadis, banyak sekali.
+Mereka berhujah dengan Al-Qur'an dan hadis untuk memakai lafaz ini (bagi Allah). Adapun dari Al-Qur'an, firman Allah Ta'ala tentang Musa 'alaihissalam, *"Aku telah memilihmu (menjadi rasul) untuk diri-Ku"* (Taha: 41). Dia berfirman, mengisahkan perkataan Isa 'alaihissalam, *"Engkau mengetahui apa yang ada pada diriku dan aku tidak mengetahui apa yang ada pada diri-Mu"* (al-Ma'idah: 116). Dia berfirman tentang sifat orang-orang yang diberi pahala, *"Tuhanmu telah menetapkan sifat kasih sayang pada diri-Nya"* (al-An'am: 54). Dan Dia berfirman untuk menakut-nakuti para pendurhaka, *"Allah memperingatkan kamu akan diri-Nya"* (Ali 'Imran: 28). Adapun hadis, banyak sekali.
 
-**Hadis pertama**: diriwayatkan oleh Abu Shalih dari Abu Hurairah, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Allah Ta'ala berfirman: Aku bersama hamba-Ku ketika ia mengingat-Ku. Jika ia mengingat-Ku dalam dirinya, Aku mengingatnya dalam diri-Ku; dan jika ia mengingat-Ku di tengah khalayak, Aku mengingatnya di tengah khalayak yang lebih baik daripada mereka."*⁴¹
+**Hadis pertama**: diriwayatkan oleh Abu Shalih dari Abu Hurairah, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Allah Ta'ala berfirman: Aku bersama hamba-Ku ketika ia mengingat-Ku. Jika ia mengingat-Ku dalam dirinya, Aku mengingatnya dalam diri-Ku; dan jika ia mengingat-Ku di tengah khalayak, Aku mengingatnya di tengah khalayak yang lebih baik daripada mereka."*[^108]
 
-**Hadis kedua**: sabda beliau 'alaihissalam, *"Mahasuci Allah dan dengan memuji-Nya, sebanyak bilangan makhluk-Nya, seridha diri-Nya, dan seberat Arasy-Nya."*⁴²
+**Hadis kedua**: sabda beliau 'alaihissalam, *"Mahasuci Allah dan dengan memuji-Nya, sebanyak bilangan makhluk-Nya, seridha diri-Nya, dan seberat Arasy-Nya."*[^109]
 
-**Hadis ketiga**: dari Abu Hurairah, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Ketika Allah telah menetapkan penciptaan, Dia menulis dalam kitab-Nya atas diri-Nya: sesungguhnya rahmat-Ku mendahului murka-Ku."*⁴³
+**Hadis ketiga**: dari Abu Hurairah, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Ketika Allah telah menetapkan penciptaan, Dia menulis dalam kitab-Nya atas diri-Nya: sesungguhnya rahmat-Ku mendahului murka-Ku."*[^110]
 
 Ketahuilah, kata *nafs* dalam bahasa datang dengan beberapa makna.
 
-Pertama, badan. Allah Ta'ala berfirman, *"Setiap yang bernyawa (nafs) akan merasakan mati."*⁴⁴ Seseorang berkata, "Bagaimana keadaanmu pada dirimu?" maksudnya: bagaimana keadaanmu pada badanmu.
+Pertama, badan. Allah Ta'ala berfirman, *"Setiap yang bernyawa (nafs) akan merasakan mati"* (Ali 'Imran: 185). Seseorang berkata, "Bagaimana keadaanmu pada dirimu?" maksudnya: bagaimana keadaanmu pada badanmu.
 
 Kedua, darah. Dikatakan, "Hewan ini memiliki *nafs* yang mengalir," yakni darah yang mengalir. Dan dikatakan tentang perempuan ketika melahirkan bahwa ia *nufisat* (bernifas), karena keluarnya darah darinya setelah melahirkan.
 
-Ketiga, ruh. Allah Ta'ala berfirman, *"Allah menggenggam nyawa (anfus) pada saat kematiannya."*⁴⁵
+Ketiga, ruh. Allah Ta'ala berfirman, *"Allah menggenggam nyawa (anfus) pada saat kematiannya"* (az-Zumar: 42).
 
-Keempat, akal. Allah Ta'ala berfirman, *"Dialah yang menidurkan (mewafatkan) kamu pada malam hari."*⁴⁶ Sebab, seluruh keadaan tetap ada pada saat tidur kecuali akal; akallah yang keadaannya berbeda antara tidur dan jaga.
+Keempat, akal. Allah Ta'ala berfirman, *"Dialah yang menidurkan (mewafatkan) kamu pada malam hari"* (al-An'am: 60). Sebab, seluruh keadaan tetap ada pada saat tidur kecuali akal; akallah yang keadaannya berbeda antara tidur dan jaga.
 
-Kelima, zat sesuatu dan dirinya. Allah Ta'ala berfirman, *"padahal mereka hanyalah menipu diri sendiri,"*⁴⁷ *"Bunuhlah dirimu,"*⁴⁸ dan *"tetapi merekalah yang menzalimi diri mereka sendiri."*⁴⁹
+Kelima, zat sesuatu dan dirinya. Allah Ta'ala berfirman, *"padahal mereka hanyalah menipu diri sendiri"* (al-Baqarah: 9), *"Bunuhlah dirimu"* (an-Nisa': 66), dan *"tetapi merekalah yang menzalimi diri mereka sendiri"* (Hud: 101).
 
-Jika engkau telah mengetahui hal ini, kami katakan: lafaz *nafs* bagi Allah Ta'ala tidak lain berarti Zat dan hakikat. Maka firman-Nya, *"Aku telah memilihmu untuk diri-Ku,"*⁵⁰ semacam penegasan yang menunjukkan kelebihan kesungguhan. Sebab, apabila seseorang berkata, "Rumah ini kujadikan untuk diriku, dan kubangun untuk diriku," dipahami darinya kesungguhan. Dan firman-Nya, *"Engkau mengetahui apa yang ada pada diriku dan aku tidak mengetahui apa yang ada pada diri-Mu,"*⁵¹ maksudnya: Engkau mengetahui apa yang kuketahui, dan aku tidak mengetahui apa yang Engkau ketahui. Demikian pula halnya pada ayat-ayat lainnya.
+Jika engkau telah mengetahui hal ini, kami katakan: lafaz *nafs* bagi Allah Ta'ala tidak lain berarti Zat dan hakikat. Maka firman-Nya, *"Aku telah memilihmu untuk diri-Ku"* (Taha: 41), semacam penegasan yang menunjukkan kelebihan kesungguhan. Sebab, apabila seseorang berkata, "Rumah ini kujadikan untuk diriku, dan kubangun untuk diriku," dipahami darinya kesungguhan. Dan firman-Nya, *"Engkau mengetahui apa yang ada pada diriku dan aku tidak mengetahui apa yang ada pada diri-Mu"* (al-Ma'idah: 116), maksudnya: Engkau mengetahui apa yang kuketahui, dan aku tidak mengetahui apa yang Engkau ketahui. Demikian pula halnya pada ayat-ayat lainnya.
 
 Adapun sabda beliau 'alaihissalam yang mengisahkan firman Tuhan Yang Mahaperkasa, *"Jika ia mengingat-Ku dalam dirinya, Aku mengingatnya dalam diri-Ku,"* maksudnya: jika ia mengingat-Ku sedemikian rupa sehingga tak seorang pun selain dirinya mengetahuinya, Aku mengingatnya dengan nikmat dan kebaikan-Ku tanpa diketahui oleh seorang pun dari hamba-hamba-Ku. Sebab, mengingat di dalam diri berarti perkataan yang tersembunyi dan ingatan yang terpendam di dalam jiwa, dan itu mustahil bagi Allah Ta'ala.
 
@@ -1088,41 +1123,17 @@ Adapun sabda beliau shallallahu 'alaihi wasallam, *"Dia menulis suatu ketetapan 
 
 Maka tetaplah bahwa yang dimaksud dengan *nafs* di tempat-tempat ini adalah Zat, dan bahwa tujuan penyebutan lafaz ini adalah kesungguhan dan penegasan. Hanya kepada Allah kita memohon taufik.
 
-³⁷ CT: QS Taha [20]: 41.
+[^108]: CT: al-Bukhari, *at-Tauhid*, 15, 43; Muslim, *adz-Dzikr*, 2, 18, 19, 21; at-Tirmidzi, *ad-Da'awat*, 131.
 
-³⁸ CT: QS al-Ma'idah [5]: 116.
+[^109]: CT: al-Bukhari, *al-Aiman*, 19, *at-Tauhid*, 58; Muslim, *ash-Shalah*, 220; Abu Dawud, *al-Adab*, 101.
 
-³⁹ CT: QS al-An'am [6]: 54.
-
-⁴⁰ CT: QS Ali 'Imran [3]: 28.
-
-⁴¹ CT: al-Bukhari, *at-Tauhid*, 15, 43; Muslim, *adz-Dzikr*, 2, 18, 19, 21; at-Tirmidzi, *ad-Da'awat*, 131.
-
-⁴² CT: al-Bukhari, *al-Aiman*, 19, *at-Tauhid*, 58; Muslim, *ash-Shalah*, 220; Abu Dawud, *al-Adab*, 101.
-
-⁴³ CT: al-Bukhari, *at-Tauhid*, 15, 22, 55, *Bad' al-Khalq*, 1; Muslim, *at-Taubah*, 14-16.
-
-⁴⁴ CT: QS Ali 'Imran [3]: 185.
-
-⁴⁵ CT: QS az-Zumar [39]: 42.
-
-⁴⁶ CT: QS al-An'am [6]: 60.
-
-⁴⁷ CT: QS al-Baqarah [2]: 9.
-
-⁴⁸ CT: QS an-Nisa' [4]: 66.
-
-⁴⁹ CT: QS Hud [11]: 101.
-
-⁵⁰ CT: QS Taha [20]: 41.
-
-⁵¹ CT: QS al-Ma'idah [5]: 116.
+[^110]: CT: al-Bukhari, *at-Tauhid*, 15, 22, 55, *Bad' al-Khalq*, 1; Muslim, *at-Taubah*, 14-16.
 
 ### Pasal Keempat: Tentang Lafaz "ash-Shamad"
 
 *(Tr. h. 117)*
 
-Allah Ta'ala berfirman, *"Allah tempat meminta segala sesuatu (ash-Shamad)."*⁵² Sebagian orang menyebutkan dalam tafsir *ash-Shamad* bahwa ia adalah jisim yang tidak berongga. Dari sini ada orang yang menyebut tutup botol *ṣimād*, dan sesuatu yang *muṣmad* berarti keras, tidak ada kelembekan padanya. Ibnu Qutaibah berkata: menurut tafsir ini, huruf *dāl* merupakan ganti dari huruf *tāʾ* (yakni dari *muṣmat*, padat). Sebagian lagi berkata: *ash-Shamad* adalah batu licin yang tidak menerima debu, tidak ada sesuatu yang masuk ke dalamnya, dan tidak ada sesuatu yang keluar darinya. Sekelompok orang bodoh dari kaum Musyabbihah berhujah dengan ayat ini untuk menetapkan bahwa Allah Ta'ala jisim.
+Allah Ta'ala berfirman, *"Allah tempat meminta segala sesuatu (ash-Shamad)"* (al-Ikhlas: 2). Sebagian orang menyebutkan dalam tafsir *ash-Shamad* bahwa ia adalah jisim yang tidak berongga. Dari sini ada orang yang menyebut tutup botol *ṣimād*, dan sesuatu yang *muṣmad* berarti keras, tidak ada kelembekan padanya. Ibnu Qutaibah berkata: menurut tafsir ini, huruf *dāl* merupakan ganti dari huruf *tāʾ* (yakni dari *muṣmat*, padat). Sebagian lagi berkata: *ash-Shamad* adalah batu licin yang tidak menerima debu, tidak ada sesuatu yang masuk ke dalamnya, dan tidak ada sesuatu yang keluar darinya. Sekelompok orang bodoh dari kaum Musyabbihah berhujah dengan ayat ini untuk menetapkan bahwa Allah Ta'ala jisim.
 
 Ini batil. Sebab, telah kami jelaskan bahwa keesaan-Nya menafikan keadaan-Nya sebagai jisim; maka awal ayat ini menunjukkan bahwa yang dimaksud dengan *ash-Shamad* tidak mungkin makna ini. Lagi pula, *ash-Shamad* menurut tafsir ini adalah sifat jisim-jisim yang padat, dan Allah Mahatinggi dari hal itu. Jawabannya dari dua segi.
 
@@ -1136,15 +1147,15 @@ Penyair lain berkata:
 
 Yang menunjukkan kebenaran segi ini adalah riwayat dari Ibnu Abbas radhiyallahu 'anhu bahwa ketika ayat ini turun, orang-orang bertanya, "Apakah *ash-Shamad* itu?" Beliau shallallahu 'alaihi wasallam menjawab, "Tuan yang dituju dalam segala kebutuhan." Abul Laits berkata: *ṣamadtu ṣamda hādhā al-amr*, artinya aku menuju tujuan perkara ini.
 
-Segi kedua dalam menjawab: kami terima bahwa *ash-Shamad* dalam asal bahasanya berarti yang padat, yang tidak dimasuki sesuatu selainnya. Namun kami katakan: telah kami buktikan bahwa makna ini tidak mungkin tetap bagi Allah Ta'ala, maka lafaz ini wajib dibawa kepada makna majaznya (*majāz*, مجاز). Sebab, jisim yang demikian keadaannya bebas dari keterpisahan, perpecahan, dan keterpengaruhan oleh yang lain; sedangkan Allah Subhanahu wa Ta'ala wajib ada karena Zat-Nya, dan itu menuntut Dia tidak menerima penambahan dan pengurangan. Maka yang dimaksud dengan *ash-Shamad* bagi-Nya adalah makna ini. Hanya kepada Allah kita memohon taufik.
+Segi kedua dalam menjawab: kami terima bahwa *ash-Shamad* dalam asal bahasanya berarti yang padat, yang tidak dimasuki sesuatu selainnya. Namun kami katakan: telah kami buktikan bahwa makna ini tidak mungkin tetap bagi Allah Ta'ala, maka lafaz ini wajib dibawa kepada makna majaznya (*majāz*, مجاز)[^111]. Sebab, jisim yang demikian keadaannya bebas dari keterpisahan, perpecahan, dan keterpengaruhan oleh yang lain; sedangkan Allah Subhanahu wa Ta'ala wajib ada karena Zat-Nya, dan itu menuntut Dia tidak menerima penambahan dan pengurangan. Maka yang dimaksud dengan *ash-Shamad* bagi-Nya adalah makna ini. Hanya kepada Allah kita memohon taufik.
 
-⁵² CT: QS al-Ikhlas [112]: 2.
+[^111]: **Majaz** (*majāz*; Ing. *figurative expression*). Menurut ahli bahasa Arab, *majāz* adalah lawan *ḥaqīqa* (makna hakiki): lafaz yang dipakai di luar makna asal peletakannya. Majaz dan hakikat pada dasarnya menyifati lafaz dan hanya secara kiasan menyifati makna. Keduanya dibagi menjadi majaz pada kata tunggal (*lughawī*) dan majaz pada penyandaran kalimat (*ʿaqlī*). (*Kashshāf*, s.v. *al-majāz*.)
 
 ### Pasal Kelima: Tentang Lafaz "Pertemuan" (*Liqāʾ*)
 
 *(Tr. h. 118)*
 
-Allah Ta'ala berfirman, *"(yaitu) mereka yang yakin bahwa mereka akan menemui Tuhannya,"*⁵³ berfirman, *"Siapa yang mengharapkan pertemuan dengan Tuhannya,"*⁵⁴ dan berfirman, *"Bahkan, mereka mengingkari pertemuan dengan Tuhannya."*⁵⁵ Adapun dari hadis, sabda beliau 'alaihissalam, *"Siapa yang mencintai pertemuan dengan Allah, Allah pun mencintai pertemuan dengannya."* Mereka berkata: pertemuan termasuk sifat jisim. Dikatakan, "Dua pasukan bertemu," apabila yang satu mendekati yang lain dalam tempat.
+Allah Ta'ala berfirman, *"(yaitu) mereka yang yakin bahwa mereka akan menemui Tuhannya"* (al-Baqarah: 46), berfirman, *"Siapa yang mengharapkan pertemuan dengan Tuhannya"* (al-Kahf: 110), dan berfirman, *"Bahkan, mereka mengingkari pertemuan dengan Tuhannya"* (as-Sajdah: 10). Adapun dari hadis, sabda beliau 'alaihissalam, *"Siapa yang mencintai pertemuan dengan Allah, Allah pun mencintai pertemuan dengannya."* Mereka berkata: pertemuan termasuk sifat jisim. Dikatakan, "Dua pasukan bertemu," apabila yang satu mendekati yang lain dalam tempat.
 
 Ketahuilah, karena telah tetap berdasarkan dalil bahwa Allah Ta'ala bukan jisim, wajiblah lafaz ini dibawa kepada salah satu dari dua segi.
 
@@ -1152,17 +1163,11 @@ Pertama, orang yang menemui seseorang akan mencerap dan melihatnya. Maka yang di
 
 Kedua, apabila seseorang hadir di hadapan seorang raja dan menemuinya, ia masuk ke bawah hukum dan kekuasaannya, suatu masuk yang tak dapat ia tolak dengan siasat apa pun. Maka pertemuan itu menjadi sebab tampaknya kuasa raja atasnya dengan cara ini. Karena pada hari itu tampak kuasa, kekuatan, keperkasaan, dan dahsyatnya siksa-Nya, keadaan itu diungkapkan dengan kata pertemuan. Yang menunjukkan kebenaran perkataan kami ialah bahwa tidak ada seorang pun yang berkata bahwa zat-zat makhluk akan bertemu dengan Zat Allah Ta'ala dengan cara bersentuhan. Karena membawa kata pertemuan kepada makna bersentuhan dan berdampingan itu batil, tidak tersisa kecuali apa yang telah kami sebutkan. Hanya kepada Allah kita memohon taufik.
 
-⁵³ CT: QS al-Baqarah [2]: 46.
-
-⁵⁴ CT: QS al-Kahf [18]: 110.
-
-⁵⁵ CT: QS as-Sajdah [32]: 10.
-
 ### Pasal Keenam: Tentang Lafaz "Cahaya" (*Nūr*)
 
 *(Tr. h. 120)*
 
-Allah Ta'ala berfirman, *"Allah (pemberi) cahaya (kepada) langit dan bumi. Perumpamaan cahaya-Nya seperti sebuah lubang (pada dinding) yang tidak tembus."*⁵⁶ Ibnu Khuzaimah meriwayatkan dalam kitabnya dari Thawus, dari Ibnu Abbas radhiyallahu 'anhu, bahwa Nabi shallallahu 'alaihi wasallam biasa berdoa, *"Ya Allah, bagi-Mu segala puji; Engkaulah cahaya langit dan bumi serta siapa pun yang ada di dalamnya, maka bagi-Mu segala puji; Engkaulah penegak langit dan bumi serta siapa pun yang ada di dalamnya."*⁵⁷
+Allah Ta'ala berfirman, *"Allah (pemberi) cahaya (kepada) langit dan bumi. Perumpamaan cahaya-Nya seperti sebuah lubang (pada dinding) yang tidak tembus"* (an-Nur: 35). Ibnu Khuzaimah meriwayatkan dalam kitabnya dari Thawus, dari Ibnu Abbas radhiyallahu 'anhu, bahwa Nabi shallallahu 'alaihi wasallam biasa berdoa, *"Ya Allah, bagi-Mu segala puji; Engkaulah cahaya langit dan bumi serta siapa pun yang ada di dalamnya, maka bagi-Mu segala puji; Engkaulah penegak langit dan bumi serta siapa pun yang ada di dalamnya."*[^112]
 
 Ketahuilah, tidak sah dikatakan bahwa Allah Ta'ala adalah cahaya indrawi yang ditangkap oleh mata ini. Hal itu ditunjukkan oleh beberapa segi.
 
@@ -1172,73 +1177,59 @@ Kedua, seandainya keadaan Allah Ta'ala sebagai cahaya langit dan bumi bermakna s
 
 Ketiga, seandainya Allah Ta'ala cahaya dalam arti sinar, niscaya Dia mencukupi (makhluk) dari sinar matahari, bulan, dan api; padahal indra menunjukkan kebalikannya.
 
-Keempat, Allah Ta'ala telah menghilangkan syubhat ini dengan firman-Nya, *"Perumpamaan cahaya-Nya."*⁵⁸ Dia menyandarkan cahaya kepada diri-Nya. Seandainya Allah Ta'ala adalah cahaya itu sendiri dan zatnya, mustahillah penyandaran ini, sebab menyandarkan sesuatu kepada dirinya sendiri itu mustahil. Demikian pula firman-Nya, *"Allah memberi petunjuk menuju cahaya-Nya kepada orang yang Dia kehendaki."*
+Keempat, Allah Ta'ala telah menghilangkan syubhat ini dengan firman-Nya, *"Perumpamaan cahaya-Nya"* (an-Nur: 35). Dia menyandarkan cahaya kepada diri-Nya. Seandainya Allah Ta'ala adalah cahaya itu sendiri dan zatnya, mustahillah penyandaran ini, sebab menyandarkan sesuatu kepada dirinya sendiri itu mustahil. Demikian pula firman-Nya, *"Allah memberi petunjuk menuju cahaya-Nya kepada orang yang Dia kehendaki."*
 
-Kelima, Allah Ta'ala berfirman, *"dan menjadikan gelap dan terang."*⁵⁹ Dengan ini jelaslah bahwa Allah Ta'ala adalah Pencipta cahaya-cahaya.
+Kelima, Allah Ta'ala berfirman, *"dan menjadikan gelap dan terang"* (al-An'am: 1). Dengan ini jelaslah bahwa Allah Ta'ala adalah Pencipta cahaya-cahaya.
 
 Keenam, cahaya lenyap oleh kegelapan. Seandainya Allah Ta'ala adalah cahaya indrawi ini sendiri, niscaya Dia menerima ketiadaan, dan itu merusak keadaan-Nya sebagai Yang Qadim dan Wajib Ada.
 
 Ketujuh, jisim-jisim semuanya serupa, sebagaimana telah ditetapkan sebelumnya. Kemudian, setelah kesamaannya dalam esensi, engkau melihatnya berbeda dalam terang dan gelap. Maka wajiblah sinar itu aksiden yang melekat pada jisim-jisim, sedangkan aksiden mustahil menjadi Tuhan.
 
-Maka tetaplah dengan segi-segi ini bahwa cahaya tidak mungkin dibawa kepada makna yang mereka sebutkan. Maknanya adalah bahwa Dia pemberi petunjuk bagi penghuni langit dan bumi, atau bahwa Dia yang menerangi langit dan bumi dengan cara yang paling baik dan pengaturan yang paling sempurna, sebagaimana dikatakan, "Si Fulan adalah cahaya negeri ini," apabila ia menjadi sebab kebaikannya. Sebagian qari membaca: *"Allah menerangi (nawwara) langit dan bumi."*ᵃ Hanya kepada Allah kita memohon taufik.
+Maka tetaplah dengan segi-segi ini bahwa cahaya tidak mungkin dibawa kepada makna yang mereka sebutkan. Maknanya adalah bahwa Dia pemberi petunjuk bagi penghuni langit dan bumi, atau bahwa Dia yang menerangi langit dan bumi dengan cara yang paling baik dan pengaturan yang paling sempurna, sebagaimana dikatakan, "Si Fulan adalah cahaya negeri ini," apabila ia menjadi sebab kebaikannya. Sebagian qari membaca: *"Allah menerangi (nawwara) langit dan bumi."*[^113] Hanya kepada Allah kita memohon taufik.
 
-⁵⁶ CT: QS an-Nur [24]: 35.
+[^112]: CT: al-Bukhari, *at-Tahajjud*, 1, *ad-Da'awat*, 9, *at-Tauhid*, 8, 24, 35; Muslim, *Shalat al-Musafirin*, 199; Abu Dawud, *al-Witr*, 25.
 
-⁵⁷ CT: al-Bukhari, *at-Tahajjud*, 1, *ad-Da'awat*, 9, *at-Tauhid*, 8, 24, 35; Muslim, *Shalat al-Musafirin*, 199; Abu Dawud, *al-Witr*, 25.
-
-⁵⁸ CT: QS an-Nur [24]: 35.
-
-⁵⁹ CT: QS al-An'am [6]: 1.
-
-ᵃ CP: Lafaz qiraah dalam naskah Arab rusak (tertulis لله نورالسموات). Yang dimaksud tampaknya qiraah *Allāhu nawwara al-samāwāti wa-l-arḍa* dalam bentuk kata kerja, sebagaimana konteksnya menuntut.
+[^113]: CP: Lafaz qiraah dalam naskah Arab rusak (tertulis لله نورالسموات). Yang dimaksud tampaknya qiraah *Allāhu nawwara al-samāwāti wa-l-arḍa* dalam bentuk kata kerja, sebagaimana konteksnya menuntut.
 
 ### Pasal Ketujuh: Tentang "Hijab" (*Ḥijāb*)
 
 *(Tr. h. 122)*
 
-Allah Ta'ala berfirman, *"Sekali-kali tidak! Sesungguhnya mereka pada hari itu benar-benar terhalang dari Tuhan mereka."*⁶⁰ Mereka berkata: hijab tidak dapat dipahami kecuali pada jisim-jisim. Mereka juga berpegang pada banyak hadis.
+Allah Ta'ala berfirman, *"Sekali-kali tidak! Sesungguhnya mereka pada hari itu benar-benar terhalang dari Tuhan mereka"* (al-Muthaffifin: 15). Mereka berkata: hijab tidak dapat dipahami kecuali pada jisim-jisim. Mereka juga berpegang pada banyak hadis.
 
-**Hadis pertama**: diriwayatkan oleh penulis *Syarh as-Sunnah* rahimahullah dalam bab bantahan terhadap Jahmiyah. Ia berkata: Rasulullah shallallahu 'alaihi wasallam berdiri di tengah kami dan menyampaikan lima kalimat. Beliau bersabda, *"Sesungguhnya Allah Ta'ala tidak tidur dan tidak layak bagi-Nya tidur. Dia merendahkan timbangan dan mengangkatnya. Amal malam diangkat kepada-Nya sebelum amal siang, dan amal siang sebelum amal malam. Hijab-Nya adalah cahaya; seandainya Dia menyingkapnya, niscaya kemilau cahaya wajah-Nya membakar makhluk-Nya sejauh pandangan-Nya menjangkau."*⁶¹ Penulis itu berkata: hadis ini diterima oleh dua syekh (al-Bukhari dan Muslim). Sabdanya "Dia merendahkan timbangan dan mengangkatnya" maksudnya bahwa Dia memelihara keadilan dalam amal hamba-hamba-Nya, sebagaimana firman Allah Ta'ala, *"Kami tidak menurunkannya, kecuali dengan ukuran tertentu."*⁶²
+**Hadis pertama**: diriwayatkan oleh penulis *Syarh as-Sunnah* rahimahullah dalam bab bantahan terhadap Jahmiyah. Ia berkata: Rasulullah shallallahu 'alaihi wasallam berdiri di tengah kami dan menyampaikan lima kalimat. Beliau bersabda, *"Sesungguhnya Allah Ta'ala tidak tidur dan tidak layak bagi-Nya tidur. Dia merendahkan timbangan dan mengangkatnya. Amal malam diangkat kepada-Nya sebelum amal siang, dan amal siang sebelum amal malam. Hijab-Nya adalah cahaya; seandainya Dia menyingkapnya, niscaya kemilau cahaya wajah-Nya membakar makhluk-Nya sejauh pandangan-Nya menjangkau."*[^114] Penulis itu berkata: hadis ini diterima oleh dua syekh (al-Bukhari dan Muslim). Sabdanya "Dia merendahkan timbangan dan mengangkatnya" maksudnya bahwa Dia memelihara keadilan dalam amal hamba-hamba-Nya, sebagaimana firman Allah Ta'ala, *"Kami tidak menurunkannya, kecuali dengan ukuran tertentu"* (al-Hijr: 21).
 
-**Hadis kedua**: diriwayatkan dalam kitab-kitab yang masyhur dari Nabi shallallahu 'alaihi wasallam, *"Sesungguhnya Allah Ta'ala memiliki tujuh puluh hijab dari cahaya; seandainya Dia menyingkapnya, niscaya kemilau cahaya wajah-Nya membakar segala sesuatu yang dijangkau pandangan-Nya."*⁶³
+**Hadis kedua**: diriwayatkan dalam kitab-kitab yang masyhur dari Nabi shallallahu 'alaihi wasallam, *"Sesungguhnya Allah Ta'ala memiliki tujuh puluh hijab dari cahaya; seandainya Dia menyingkapnya, niscaya kemilau cahaya wajah-Nya membakar segala sesuatu yang dijangkau pandangan-Nya."*[^115]
 
-**Hadis ketiga**: diriwayatkan dalam tafsir firman Allah Ta'ala, *"Bagi orang-orang yang berbuat baik ada pahala yang terbaik (surga) dan tambahannya,"*⁶⁴ bahwa Allah Ta'ala mengangkat hijab, lalu mereka memandang wajah-Nya Ta'ala.
+**Hadis ketiga**: diriwayatkan dalam tafsir firman Allah Ta'ala, *"Bagi orang-orang yang berbuat baik ada pahala yang terbaik (surga) dan tambahannya"* (Yunus: 26), bahwa Allah Ta'ala mengangkat hijab, lalu mereka memandang wajah-Nya Ta'ala.
 
 Ketahuilah, pembahasan tentang ayat tersebut ialah bahwa kalangan kami, semoga Allah merahmati mereka, berkata: boleh dikatakan bahwa Allah Ta'ala *muḥtajib* (berhijab, menutup diri) dari makhluk, tetapi tidak boleh dikatakan bahwa Dia *maḥjūb* (terhijab, terhalang) dari mereka. Sebab, kata *iḥtijāb* mengisyaratkan kekuatan dan kuasa, sedangkan *ḥajb* mengisyaratkan kelemahan dan kehinaan. Dikatakan, "Sultan menutup diri dari hamba-hambanya," dan dikatakan, "Si Fulan terhalang dari masuk menemui sultan." Hakikat hijab bagi Allah Ta'ala mustahil, sebab hijab adalah jisim yang berada di antara dua jisim lain. Menurut kami, ia dibawa kepada makna bahwa Allah Ta'ala tidak menciptakan di mata (mereka) penglihatan yang bertaut dengan-Nya; sedangkan menurut orang yang mengingkari ru'yah, ia dibawa kepada makna bahwa Allah Ta'ala mencegah sampainya jejak kebaikan dan karunia-Nya kepada seseorang.
 
 Adapun hadis pertama, yaitu sabda beliau 'alaihissalam, *"Hijab-Nya adalah cahaya,"* ketahuilah bahwa segala sesuatu yang diandaikan memberi pengaruh pada sesuatu yang lain, maka setiap kesempurnaan yang terdapat pada pengaruh itu diperoleh dari pemberi pengaruh. Tidak diragukan bahwa tetapnya kesempurnaan itu pada pemberi pengaruh lebih patut, lebih kuat, dan lebih sempurna daripada tetapnya pada pengaruh. Tidak diragukan pula bahwa pemberi seluruh kesempurnaan adalah al-Haqq Ta'ala, dan seluruh kesempurnaan hal-hal yang mungkin, dibandingkan dengan kesempurnaan Allah Ta'ala, bagaikan ketiadaan. Tidak diragukan bahwa seluruh hal yang mungkin tidak lain adalah alam jisim dan alam ruh. Tidak diragukan bahwa seluruh kesempurnaan alam unsur, dibandingkan dengan kesempurnaan alam falak, bagaikan ketiadaan; lalu kesempurnaan keadaan seperempat bumi yang dihuni, dibandingkan dengan kesempurnaan unsur-unsur, bagaikan ketiadaan; lalu kesempurnaan individu tertentu, dibandingkan dengan kesempurnaan seperempat bumi yang dihuni, bagaikan ketiadaan. Maka tampaklah dari sini bahwa kesempurnaan seorang manusia tertentu, dibandingkan dengan kesempurnaan Allah Ta'ala, lebih patut lagi dikatakan bagaikan ketiadaan. Tidak diragukan bahwa ruh manusia sendirian tidak sanggup menerima kesempurnaan itu dan tidak mungkin menyaksikannya; bahkan ruh-ruh manusia luluh pada tingkatan terendah dari tingkatan-tingkatan kesempurnaan itu. Inilah yang dimaksud dengan sabda beliau shallallahu 'alaihi wasallam, *"Seandainya Dia menyingkapnya, niscaya kemilau cahaya wajah-Nya membakar segala sesuatu yang dijangkau pandangan-Nya."*
 
-⁶⁰ CT: QS al-Muthaffifin [83]: 15.
+[^114]: CT: Muslim, *al-Iman*, 293, 295; Ibnu Majah, *al-Muqaddimah*, 13; Ahmad bin Hanbal, IV/395, 401, 405, 550.
 
-⁶¹ CT: Muslim, *al-Iman*, 293, 295; Ibnu Majah, *al-Muqaddimah*, 13; Ahmad bin Hanbal, IV/395, 401, 405, 550.
-
-⁶² CT: QS al-Hijr [15]: 21.
-
-⁶³ CT: Muslim, *al-Iman*, 293; Ibnu Majah, *al-Muqaddimah*, 13; Ahmad bin Hanbal, IV/401, 405.
-
-⁶⁴ CT: QS Yunus [10]: 26.
+[^115]: CT: Muslim, *al-Iman*, 293; Ibnu Majah, *al-Muqaddimah*, 13; Ahmad bin Hanbal, IV/401, 405.
 
 ### Pasal Kedelapan: Tentang "Kedekatan" (*Qurb*)
 
 *(Tr. h. 124)*
 
-Allah Ta'ala berfirman, *"Kami lebih dekat kepadanya daripada urat lehernya."*⁶⁵ Nabi shallallahu 'alaihi wasallam bersabda, mengisahkan firman Allah, *"Siapa yang mendekat kepada-Ku sejengkal, Aku mendekat kepadanya sehasta; siapa yang mendekat kepada-Ku sehasta, Aku mendekat kepadanya sedepa; dan siapa yang datang kepada-Ku dengan berjalan, Aku datang kepadanya dengan berlari-lari kecil."*⁶⁶ Al-Ustadz Ibnu Furak rahimahullah meriwayatkan dalam kitab *al-Mutasyabihat* dari Ibnu Umar radhiyallahu 'anhuma, dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Seorang mukmin didekatkan kepada Tuhannya pada hari kiamat hingga al-Jabbar meletakkan naungan-Nya (kanaf) atasnya, lalu ia mengakui dosa-dosanya. Ia berkata, 'Aku mengakui,' tiga kali. Lalu Allah Ta'ala berfirman, 'Sungguh, Aku telah menutupinya bagimu di dunia, dan sungguh Aku mengampuninya bagimu.' Lalu diberikan kepadanya lembaran kebaikannya. Adapun orang-orang kafir dan munafik, mereka diseru di hadapan para saksi: 'Inilah orang-orang yang telah berdusta terhadap Tuhan mereka.'"*⁶⁷
+Allah Ta'ala berfirman, *"Kami lebih dekat kepadanya daripada urat lehernya"* (Qaf: 16). Nabi shallallahu 'alaihi wasallam bersabda, mengisahkan firman Allah, *"Siapa yang mendekat kepada-Ku sejengkal, Aku mendekat kepadanya sehasta; siapa yang mendekat kepada-Ku sehasta, Aku mendekat kepadanya sedepa; dan siapa yang datang kepada-Ku dengan berjalan, Aku datang kepadanya dengan berlari-lari kecil."*[^116] Al-Ustadz Ibnu Furak rahimahullah meriwayatkan dalam kitab *al-Mutasyabihat* dari Ibnu Umar radhiyallahu 'anhuma, dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Seorang mukmin didekatkan kepada Tuhannya pada hari kiamat hingga al-Jabbar meletakkan naungan-Nya (kanaf) atasnya, lalu ia mengakui dosa-dosanya. Ia berkata, 'Aku mengakui,' tiga kali. Lalu Allah Ta'ala berfirman, 'Sungguh, Aku telah menutupinya bagimu di dunia, dan sungguh Aku mengampuninya bagimu.' Lalu diberikan kepadanya lembaran kebaikannya. Adapun orang-orang kafir dan munafik, mereka diseru di hadapan para saksi: 'Inilah orang-orang yang telah berdusta terhadap Tuhan mereka.'"*[^117]
 
 Ketahuilah, yang dimaksud dengan kedekatan dan kehampiran-Nya adalah kedekatan dan kehampiran rahmat-Nya kepada hamba. Adapun sabdanya, "al-Jabbar meletakkan naungan-Nya atasnya," ini pun diambil dari makna kedekatan rahmat. Dikatakan, "Aku berada dalam *kanaf* si Fulan," yakni dalam limpahan nikmatnya. Adapun riwayat sebagian orang, "al-Jabbar meletakkan bahu-Nya (katif)," mereka sepakat bahwa itu salah tulis (*taṣḥīf*), dan para perawi telah menetapkannya dengan huruf *nūn*. Kemudian, jika riwayat itu sahih, ia dibawa kepada makna pendekatan dan pengampunan. Allah lebih mengetahui.
 
-⁶⁵ CT: QS Qaf [50]: 16.
+[^116]: CT: Ahmad bin Hanbal, III/40.
 
-⁶⁶ CT: Ahmad bin Hanbal, III/40.
-
-⁶⁷ CT: al-Bukhari, *al-Mazhalim*, 20; Ibnu Majah, *al-Muqaddimah*, 13; Ahmad bin Hanbal, II/74.
+[^117]: CT: al-Bukhari, *al-Mazhalim*, 20; Ibnu Majah, *al-Muqaddimah*, 13; Ahmad bin Hanbal, II/74.
 
 ### Pasal Kesembilan: Tentang "Datang" (*Majīʾ*) dan "Turun" (*Nuzūl*)
 
 *(Tr. h. 125)*
 
-Mereka berhujah dengan firman Allah Ta'ala, *"Tidak ada yang mereka tunggu-tunggu, kecuali datangnya Allah dalam naungan awan,"*⁶⁸ dan dengan firman-Nya, *"dan Tuhanmu datang."*⁶⁹ Mereka juga berhujah dengan hadis-hadis. Di antaranya riwayat penulis *Syarh as-Sunnah* rahimahullah dalam bab menghidupkan akhir malam dan keutamaannya, dari Abu Hurairah dan Abu Sa'id al-Khudri radhiyallahu 'anhuma, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Tidaklah suatu kaum berkumpul mengingat Allah kecuali para malaikat mengelilingi mereka, rahmat meliputi mereka, ketenangan turun kepada mereka, dan Allah menyebut mereka di tengah (makhluk) yang ada di sisi-Nya. Kemudian Allah Ta'ala menunggu hingga, apabila tiba sepertiga malam terakhir, Dia turun ke langit dunia ini lalu menyeru: Adakah pendosa yang bertobat? Adakah yang memohon ampun? Adakah yang berdoa? Adakah yang meminta? Hingga fajar."*⁷⁰ Penulis kitab itu berkata: hadis ini disepakati kesahihannya. Dalam bab ini juga, dari Abu Hurairah, bahwa Nabi shallallahu 'alaihi wasallam bersabda, *"Tuhan kita turun setiap malam ke langit dunia ketika tersisa sepertiga malam terakhir, lalu berfirman: Siapa yang berdoa kepada-Ku, niscaya Aku kabulkan; siapa yang meminta kepada-Ku, niscaya Aku beri; siapa yang memohon ampun kepada-Ku, niscaya Aku ampuni."*⁷¹ Kemudian ia berkata: hadis ini disepakati kesahihannya. Ia juga meriwayatkan dari Abu Hurairah, dari Rasulullah shallallahu 'alaihi wasallam, hadis tersebut dengan tambahan, *"Kemudian Dia Tabaraka wa Ta'ala membentangkan kedua tangan-Nya dan berfirman: Siapa yang mau memberi pinjaman kepada Yang tidak pernah papa dan tidak pernah berbuat zalim?"* Penulis kitab ini juga meriwayatkan dalam bab malam pertengahan Syakban, dari Urwah, dari Aisyah radhiyallahu 'anha, ia berkata: Suatu malam aku kehilangan Rasulullah shallallahu 'alaihi wasallam, lalu aku keluar, dan ternyata beliau berada di Baqi'. Beliau bertanya, "Apakah engkau takut Allah dan Rasul-Nya berlaku tidak adil kepadamu?" Aku menjawab, "Wahai Rasulullah, aku mengira engkau mendatangi istri-istrimu yang lain." Beliau bersabda, *"Sesungguhnya Allah turun pada malam pertengahan Syakban, lalu mengampuni lebih banyak daripada bilangan bulu kambing Bani Kalb."*⁷² Al-Bukhari melemahkan hadis ini.
+Mereka berhujah dengan firman Allah Ta'ala, *"Tidak ada yang mereka tunggu-tunggu, kecuali datangnya Allah dalam naungan awan"* (al-Baqarah: 210), dan dengan firman-Nya, *"dan Tuhanmu datang"* (al-Fajr: 22). Mereka juga berhujah dengan hadis-hadis. Di antaranya riwayat penulis *Syarh as-Sunnah* rahimahullah dalam bab menghidupkan akhir malam dan keutamaannya, dari Abu Hurairah dan Abu Sa'id al-Khudri radhiyallahu 'anhuma, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Tidaklah suatu kaum berkumpul mengingat Allah kecuali para malaikat mengelilingi mereka, rahmat meliputi mereka, ketenangan turun kepada mereka, dan Allah menyebut mereka di tengah (makhluk) yang ada di sisi-Nya. Kemudian Allah Ta'ala menunggu hingga, apabila tiba sepertiga malam terakhir, Dia turun ke langit dunia ini lalu menyeru: Adakah pendosa yang bertobat? Adakah yang memohon ampun? Adakah yang berdoa? Adakah yang meminta? Hingga fajar."*[^118] Penulis kitab itu berkata: hadis ini disepakati kesahihannya. Dalam bab ini juga, dari Abu Hurairah, bahwa Nabi shallallahu 'alaihi wasallam bersabda, *"Tuhan kita turun setiap malam ke langit dunia ketika tersisa sepertiga malam terakhir, lalu berfirman: Siapa yang berdoa kepada-Ku, niscaya Aku kabulkan; siapa yang meminta kepada-Ku, niscaya Aku beri; siapa yang memohon ampun kepada-Ku, niscaya Aku ampuni."*[^119] Kemudian ia berkata: hadis ini disepakati kesahihannya. Ia juga meriwayatkan dari Abu Hurairah, dari Rasulullah shallallahu 'alaihi wasallam, hadis tersebut dengan tambahan, *"Kemudian Dia Tabaraka wa Ta'ala membentangkan kedua tangan-Nya dan berfirman: Siapa yang mau memberi pinjaman kepada Yang tidak pernah papa dan tidak pernah berbuat zalim?"* Penulis kitab ini juga meriwayatkan dalam bab malam pertengahan Syakban, dari Urwah, dari Aisyah radhiyallahu 'anha, ia berkata: Suatu malam aku kehilangan Rasulullah shallallahu 'alaihi wasallam, lalu aku keluar, dan ternyata beliau berada di Baqi'. Beliau bertanya, "Apakah engkau takut Allah dan Rasul-Nya berlaku tidak adil kepadamu?" Aku menjawab, "Wahai Rasulullah, aku mengira engkau mendatangi istri-istrimu yang lain." Beliau bersabda, *"Sesungguhnya Allah turun pada malam pertengahan Syakban, lalu mengampuni lebih banyak daripada bilangan bulu kambing Bani Kalb."*[^120] Al-Bukhari melemahkan hadis ini.
 
-Ketahuilah, pembahasan tentang firman-Nya, *"Tidak ada yang mereka tunggu-tunggu, kecuali datangnya Allah dalam naungan awan,"*⁷³ dari dua segi.
+Ketahuilah, pembahasan tentang firman-Nya, *"Tidak ada yang mereka tunggu-tunggu, kecuali datangnya Allah dalam naungan awan"* (al-Baqarah: 210), dari dua segi.
 
 Pertama, kami jelaskan dengan dalil-dalil yang tak terbantahkan bahwa Allah Subhanahu wa Ta'ala mahasuci dari datang dan pergi.
 
@@ -1252,107 +1243,51 @@ Kedua, segala sesuatu yang sah baginya berpindah dan datang dari satu tempat ke 
 
 Ketiga, seandainya kita membolehkan sesuatu yang padanya sah datang dan pergi menjadi Tuhan yang qadim dan azali, maka ketika itu kita tidak dapat memutuskan penafian ketuhanan matahari dan bulan.
 
-Keempat, Allah Ta'ala mengisahkan tentang sang Khalil 'alaihissalam bahwa ia menggugat ketuhanan bintang, bulan, dan matahari dengan perkataannya, *"Aku tidak suka kepada yang terbenam."*⁷⁴ Terbenam tidak bermakna apa pun selain menghilang dan hadir. Maka siapa yang membolehkan menghilang dan hadir bagi Tuhan Ta'ala telah menggugat dalil sang Khalil, dan mendustakan Allah dalam pembenaran-Nya terhadap sang Khalil, ketika Dia berfirman, *"Itulah keterangan Kami yang Kami berikan kepada Ibrahim untuk menghadapi kaumnya."*⁷⁵
+Keempat, Allah Ta'ala mengisahkan tentang sang Khalil 'alaihissalam bahwa ia menggugat ketuhanan bintang, bulan, dan matahari dengan perkataannya, *"Aku tidak suka kepada yang terbenam"* (al-An'am: 76). Terbenam tidak bermakna apa pun selain menghilang dan hadir. Maka siapa yang membolehkan menghilang dan hadir bagi Tuhan Ta'ala telah menggugat dalil sang Khalil, dan mendustakan Allah dalam pembenaran-Nya terhadap sang Khalil, ketika Dia berfirman, *"Itulah keterangan Kami yang Kami berikan kepada Ibrahim untuk menghadapi kaumnya"* (al-An'am: 83).
 
 Adapun jenis kedua, yaitu penjelasan takwil-takwil yang disebutkan atas ayat ini, kami katakan: ada beberapa segi.
 
-Pertama, maksudnya: tidak ada yang mereka tunggu kecuali datangnya ayat-ayat Allah kepada mereka. Datangnya ayat-ayat Allah dijadikan sebagai datangnya Dia untuk membesarkan kedudukan ayat-ayat itu, sebagaimana dikatakan, "Raja telah datang," apabila pasukan besar datang dari pihaknya. Yang menunjukkan kebenaran takwil ini ialah bahwa Allah Ta'ala berfirman dalam ayat sebelumnya, *"Jika kamu tergelincir setelah bukti-bukti nyata sampai kepadamu, ketahuilah bahwa Allah Mahaperkasa lagi Mahabijaksana."*⁷⁶ Dia menyebutkan hal itu dalam konteks larangan dan ancaman, lalu menguatkannya dengan firman-Nya, *"Tidak ada yang mereka tunggu-tunggu, kecuali datangnya Allah."*⁷⁷ Sudah maklum bahwa, dengan pengandaian datang dan pergi sah bagi Allah Ta'ala, kehadiran-Nya semata tidak menjadi sebab larangan dan ancaman; sebab ketika hadir, sebagaimana Dia menghardik dan menghukum suatu kaum, Dia pun memberi pahala dan memuliakan kaum yang lain. Maka tetaplah bahwa kehadiran semata tidak menjadi sebab larangan, ancaman, dan peringatan. Karena maksud ayat ini adalah ancaman, wajiblah disisipkan dalam ayat itu (makna) datangnya kewibawaan, keperkasaan, dan ancaman. Bila kita menyisipkan makna itu, syubhat pun hilang sepenuhnya. Ini takwil yang baik dan sesuai dengan susunan ayat.
+Pertama, maksudnya: tidak ada yang mereka tunggu kecuali datangnya ayat-ayat Allah kepada mereka. Datangnya ayat-ayat Allah dijadikan sebagai datangnya Dia untuk membesarkan kedudukan ayat-ayat itu, sebagaimana dikatakan, "Raja telah datang," apabila pasukan besar datang dari pihaknya. Yang menunjukkan kebenaran takwil ini ialah bahwa Allah Ta'ala berfirman dalam ayat sebelumnya, *"Jika kamu tergelincir setelah bukti-bukti nyata sampai kepadamu, ketahuilah bahwa Allah Mahaperkasa lagi Mahabijaksana"* (al-Baqarah: 209). Dia menyebutkan hal itu dalam konteks larangan dan ancaman, lalu menguatkannya dengan firman-Nya, *"Tidak ada yang mereka tunggu-tunggu, kecuali datangnya Allah"* (al-Baqarah: 210). Sudah maklum bahwa, dengan pengandaian datang dan pergi sah bagi Allah Ta'ala, kehadiran-Nya semata tidak menjadi sebab larangan dan ancaman; sebab ketika hadir, sebagaimana Dia menghardik dan menghukum suatu kaum, Dia pun memberi pahala dan memuliakan kaum yang lain. Maka tetaplah bahwa kehadiran semata tidak menjadi sebab larangan, ancaman, dan peringatan. Karena maksud ayat ini adalah ancaman, wajiblah disisipkan dalam ayat itu (makna) datangnya kewibawaan, keperkasaan, dan ancaman. Bila kita menyisipkan makna itu, syubhat pun hilang sepenuhnya. Ini takwil yang baik dan sesuai dengan susunan ayat.
 
-Segi kedua: maksudnya adalah, tidak ada yang mereka tunggu kecuali datangnya perintah (*amr*) Allah kepada mereka. Poros pembahasan dalam bab ini ialah bahwa bila penyandaran (secara hakiki) mustahil, makna lahiriah itu wajib dipalingkan kepada takwil, sebagaimana dikatakan para ulama tentang firman Allah Ta'ala, *"Sesungguhnya orang-orang yang menentang Allah,"*⁷⁸ bahwa yang dimaksud adalah menentang para wali-Nya. Allah Ta'ala juga berfirman, *"Tanyalah negeri itu,"*⁷⁹ padahal yang dimaksud adalah penduduk negeri itu. Demikian pula firman Allah Ta'ala, *"datangnya Allah,"*⁸⁰ yakni datangnya perintah Allah. Di sini tidak ada apa pun selain pembuangan *muḍāf* (kata yang disandarkan) dan penempatan *muḍāf ilayh* (kata tempat bersandar) pada kedudukannya; dan itu majaz yang masyhur. Dikatakan, "Amir memukul si Fulan dan memberinya," padahal maksudnya ia memerintahkan hal itu. Yang menguatkan kebenaran takwil ini ada dua segi.
+Segi kedua: maksudnya adalah, tidak ada yang mereka tunggu kecuali datangnya perintah (*amr*) Allah kepada mereka. Poros pembahasan dalam bab ini ialah bahwa bila penyandaran (secara hakiki) mustahil, makna lahiriah itu wajib dipalingkan kepada takwil, sebagaimana dikatakan para ulama tentang firman Allah Ta'ala, *"Sesungguhnya orang-orang yang menentang Allah"* (al-Mujadalah: 5), bahwa yang dimaksud adalah menentang para wali-Nya. Allah Ta'ala juga berfirman, *"Tanyalah negeri itu"* (Yusuf: 82), padahal yang dimaksud adalah penduduk negeri itu. Demikian pula firman Allah Ta'ala, *"datangnya Allah"* (al-Baqarah: 210), yakni datangnya perintah Allah. Di sini tidak ada apa pun selain pembuangan *muḍāf* (kata yang disandarkan) dan penempatan *muḍāf ilayh* (kata tempat bersandar) pada kedudukannya; dan itu majaz yang masyhur. Dikatakan, "Amir memukul si Fulan dan memberinya," padahal maksudnya ia memerintahkan hal itu. Yang menguatkan kebenaran takwil ini ada dua segi.
 
-Pertama, firman Allah Ta'ala, *"datangnya Allah,"*⁸¹ dan firman-Nya, *"dan Tuhanmu datang,"*⁸² adalah pemberitaan tentang keadaan hari kiamat. Lalu Allah Ta'ala menyebutkan peristiwa yang sama ini dalam surah an-Nahl dengan firman-Nya, *"Tidak ada yang mereka tunggu-tunggu, kecuali datangnya para malaikat kepada mereka atau datangnya perintah Tuhanmu."*⁸³ Maka ayat ini menjadi penafsir bagi ayat mutasyabih itu; sebab karena semua ayat ini berbicara tentang satu peristiwa, tidaklah janggal membawa sebagiannya kepada sebagian yang lain.
+Pertama, firman Allah Ta'ala, *"datangnya Allah"* (al-Baqarah: 210), dan firman-Nya, *"dan Tuhanmu datang"* (al-Fajr: 22), adalah pemberitaan tentang keadaan hari kiamat. Lalu Allah Ta'ala menyebutkan peristiwa yang sama ini dalam surah an-Nahl dengan firman-Nya, *"Tidak ada yang mereka tunggu-tunggu, kecuali datangnya para malaikat kepada mereka atau datangnya perintah Tuhanmu"* (an-Nahl: 33). Maka ayat ini menjadi penafsir bagi ayat mutasyabih itu; sebab karena semua ayat ini berbicara tentang satu peristiwa, tidaklah janggal membawa sebagiannya kepada sebagian yang lain.
 
-Kedua, Allah Ta'ala berfirman sesudah ayat ini, *"dan perkara (al-amr) pun diputuskan."*⁸⁴ Tidak diragukan bahwa *alif lām* (pada *al-amr*) menunjuk sesuatu yang telah disebut sebelumnya,⁸⁵ dan ini menuntut ia telah disebut sebelumnya sehingga *alif lām* itu merujuk kepadanya. Tidak ada yang demikian kecuali apa yang telah kami sisipkan, yakni bahwa firman-Nya *"datangnya Allah"*⁸⁶ berarti datangnya perintah Allah.
+Kedua, Allah Ta'ala berfirman sesudah ayat ini, *"dan perkara (al-amr) pun diputuskan"* (al-Baqarah: 210). Tidak diragukan bahwa *alif lām* (pada *al-amr*) menunjuk sesuatu yang telah disebut sebelumnya,[^121] dan ini menuntut ia telah disebut sebelumnya sehingga *alif lām* itu merujuk kepadanya. Tidak ada yang demikian kecuali apa yang telah kami sisipkan, yakni bahwa firman-Nya *"datangnya Allah"* (al-Baqarah: 210) berarti datangnya perintah Allah.
 
-Jika dikatakan: menurut kalian, perintah (*amr*) Allah adalah sifat yang qadim, sehingga datang mustahil baginya. Kami jawab: kata *amr* dalam bahasa memiliki dua makna: salah satunya perbuatan, dan yang kedua jalan (keadaan). Allah Ta'ala berfirman, *"Perintah (amr) Kami hanyalah (dengan) satu (perkataan) seperti kejapan mata,"*⁸⁷ dan berfirman, *"Perintah (amr) Fir'aun sama sekali tidak benar."*⁸⁸ Maka *amr* dalam ayat ini dibawa kepada makna perbuatan, yaitu apa yang layak bagi tempat-tempat pemberhentian (di hari kiamat) itu, berupa kengerian-kengerian dan penampakan ayat-ayat yang menggentarkan. Inilah takwil pertama yang telah kami sebutkan. Adapun jika kita membawa *amr* kepada perintah yang merupakan lawan larangan, dalam hal ini ada dua segi.
+Jika dikatakan: menurut kalian, perintah (*amr*) Allah adalah sifat yang qadim, sehingga datang mustahil baginya. Kami jawab: kata *amr* dalam bahasa memiliki dua makna: salah satunya perbuatan, dan yang kedua jalan (keadaan). Allah Ta'ala berfirman, *"Perintah (amr) Kami hanyalah (dengan) satu (perkataan) seperti kejapan mata"* (al-Qamar: 50), dan berfirman, *"Perintah (amr) Fir'aun sama sekali tidak benar"* (Hud: 97). Maka *amr* dalam ayat ini dibawa kepada makna perbuatan, yaitu apa yang layak bagi tempat-tempat pemberhentian (di hari kiamat) itu, berupa kengerian-kengerian dan penampakan ayat-ayat yang menggentarkan. Inilah takwil pertama yang telah kami sebutkan. Adapun jika kita membawa *amr* kepada perintah yang merupakan lawan larangan, dalam hal ini ada dua segi.
 
-Pertama, takdirnya: seorang penyeru berseru pada hari kiamat, "Ketahuilah, sesungguhnya Allah memerintahkan kalian begini dan begini," dan datangnya perintah adalah sampainya seruan itu kepada mereka. Firman-Nya, *"dalam naungan awan,"*⁸⁹ yakni bersama naungan awan; takdirnya: terdengarnya seruan itu dan sampainya naungan-naungan itu terjadi pada waktu yang sama.
+Pertama, takdirnya: seorang penyeru berseru pada hari kiamat, "Ketahuilah, sesungguhnya Allah memerintahkan kalian begini dan begini," dan datangnya perintah adalah sampainya seruan itu kepada mereka. Firman-Nya, *"dalam naungan awan"* (al-Baqarah: 210), yakni bersama naungan awan; takdirnya: terdengarnya seruan itu dan sampainya naungan-naungan itu terjadi pada waktu yang sama.
 
 Kedua, yang dimaksud dengan datangnya perintah Allah Ta'ala dalam naungan awan adalah terjadinya suara-suara terpenggal tertentu di dalam gumpalan-gumpalan awan itu yang menunjukkan ketetapan Allah Ta'ala atas setiap orang sesuai dengan yang layak baginya, berupa kebahagiaan dan kecelakaan. Atau yang dimaksud adalah bahwa Allah Ta'ala menciptakan tulisan-tulisan yang tersusun di dalam naungan awan, dan tulisan itu jelas dan nyata karena sangat putihnya awan itu dan hitamnya tulisan itu, serta menunjukkan keadaan para penghuni padang mahsyar dalam hal janji, ancaman, dan lainnya. Faedah naungan awan itu ialah bahwa Allah Ta'ala menjadikannya tanda bagi apa yang hendak Dia turunkan kepada kaum itu, sehingga mereka tahu bahwa perkara itu telah dekat dan hadir.
 
-Segi ketiga dalam takwil: maknanya adalah, tidak ada yang mereka tunggu kecuali Allah mendatangkan kepada mereka apa yang telah Dia janjikan berupa azab dan hisab. Apa yang didatangkan itu dibuang karena bersandar pada pemahaman (pendengar); sebab, seandainya azab yang didatangkan kepada mereka itu disebutkan, hal itu lebih ringan bagi mereka dalam hal ancaman, sedangkan jika tidak disebutkan, itu lebih mendalam dalam menakut-nakuti, karena ketika itu pikiran mereka terbelah dan angan-angan mereka pergi ke segala arah. Semisal dengannya firman Allah Ta'ala, *"maka Allah mendatangi mereka dari arah yang tidak mereka sangka. Allah menanamkan rasa takut ke dalam hati mereka; mereka menghancurkan rumah-rumah mereka dengan tangannya sendiri dan tangan orang-orang mukmin."*⁹⁰ Maknanya: Allah mendatangi mereka dengan penelantaran-Nya dari arah yang tidak mereka sangka. Demikian pula firman Allah Ta'ala, *"maka Allah mendatangi bangunan mereka dari fondasinya."*⁹¹ Dalam tutur yang lazim dan masyhur, ketika mendengar seseorang diangkat menjadi penguasa, dikatakan, "Si Fulan telah datang kepada kami dengan kesewenang-wenangan dan kezalimannya." Tidak diragukan bahwa itu majaz yang masyhur.
+Segi ketiga dalam takwil: maknanya adalah, tidak ada yang mereka tunggu kecuali Allah mendatangkan kepada mereka apa yang telah Dia janjikan berupa azab dan hisab. Apa yang didatangkan itu dibuang karena bersandar pada pemahaman (pendengar); sebab, seandainya azab yang didatangkan kepada mereka itu disebutkan, hal itu lebih ringan bagi mereka dalam hal ancaman, sedangkan jika tidak disebutkan, itu lebih mendalam dalam menakut-nakuti, karena ketika itu pikiran mereka terbelah dan angan-angan mereka pergi ke segala arah. Semisal dengannya firman Allah Ta'ala, *"maka Allah mendatangi mereka dari arah yang tidak mereka sangka. Allah menanamkan rasa takut ke dalam hati mereka; mereka menghancurkan rumah-rumah mereka dengan tangannya sendiri dan tangan orang-orang mukmin"* (al-Hasyr: 2). Maknanya: Allah mendatangi mereka dengan penelantaran-Nya dari arah yang tidak mereka sangka. Demikian pula firman Allah Ta'ala, *"maka Allah mendatangi bangunan mereka dari fondasinya"* (an-Nahl: 26). Dalam tutur yang lazim dan masyhur, ketika mendengar seseorang diangkat menjadi penguasa, dikatakan, "Si Fulan telah datang kepada kami dengan kesewenang-wenangan dan kezalimannya." Tidak diragukan bahwa itu majaz yang masyhur.
 
 Segi keempat dalam takwil: kata *fī* bermakna *bi-*, sebab huruf-huruf jar dapat saling menggantikan. Takdirnya: tidak ada yang mereka tunggu kecuali Allah mendatangkan kepada mereka naungan awan dan para malaikat. Maksudnya, Allah mendatangkan kepada mereka awan bersama para malaikat.
 
-Segi kelima, dan inilah yang terkuat di antara semua yang telah lalu: telah kami sebutkan dalam *at-Tafsir al-Kabir* bahwa firman Allah Ta'ala, *"Wahai orang-orang yang beriman, masuklah ke dalam Islam secara keseluruhan,"*⁹² turun berkenaan dengan kaum Yahudi. Dengan pengandaian ini, firman Allah Ta'ala, *"Jika kamu tergelincir setelah bukti-bukti nyata sampai kepadamu,"*⁹³ adalah seruan kepada kaum Yahudi, sehingga firman-Nya, *"Tidak ada yang mereka tunggu-tunggu, kecuali datangnya Allah dalam naungan awan,"*⁹⁴ adalah kisah tentang mereka. Maknanya: mereka tidak mau menerima agama kalian kecuali karena mereka menunggu Allah datang kepada mereka dalam naungan awan. Yang menunjukkan bahwa itulah maksudnya ialah bahwa mereka pernah melakukan hal itu terhadap Musa 'alaihissalam, dan berkata, *"Kami tidak akan beriman kepadamu sebelum kami melihat Allah dengan jelas."*⁹⁵ Jika telah tetap bahwa ayat ini mengisahkan keadaan dan keyakinan kaum Yahudi, tidaklah terlarang memberlakukan ayat itu menurut makna lahiriahnya. Sebab, kaum Yahudi menganut agama penyerupaan; mereka membolehkan datang dan pergi bagi Allah Ta'ala, dan berkata bahwa Allah Ta'ala menampakkan diri kepada Musa 'alaihissalam di Bukit Thur dalam naungan awan, lalu mereka mengira hal serupa terjadi pada zaman Muhammad shallallahu 'alaihi wasallam. Sudah maklum bahwa mazhab mereka bukan hujah. Walhasil, ayat itu menunjukkan bahwa suatu kaum menunggu Allah datang kepada mereka, dan di dalam ayat itu tidak ada petunjuk bahwa kaum itu benar. Dengan pengandaian ini, hilanglah kemusykilan. Inilah jawaban yang dijadikan pegangan atas penggunaan mereka terhadap ayat tersebut.
+Segi kelima, dan inilah yang terkuat di antara semua yang telah lalu: telah kami sebutkan dalam *at-Tafsir al-Kabir* bahwa firman Allah Ta'ala, *"Wahai orang-orang yang beriman, masuklah ke dalam Islam secara keseluruhan"* (al-Baqarah: 208), turun berkenaan dengan kaum Yahudi. Dengan pengandaian ini, firman Allah Ta'ala, *"Jika kamu tergelincir setelah bukti-bukti nyata sampai kepadamu"* (al-Baqarah: 209), adalah seruan kepada kaum Yahudi, sehingga firman-Nya, *"Tidak ada yang mereka tunggu-tunggu, kecuali datangnya Allah dalam naungan awan"* (al-Baqarah: 210), adalah kisah tentang mereka. Maknanya: mereka tidak mau menerima agama kalian kecuali karena mereka menunggu Allah datang kepada mereka dalam naungan awan. Yang menunjukkan bahwa itulah maksudnya ialah bahwa mereka pernah melakukan hal itu terhadap Musa 'alaihissalam, dan berkata, *"Kami tidak akan beriman kepadamu sebelum kami melihat Allah dengan jelas"* (al-Baqarah: 55). Jika telah tetap bahwa ayat ini mengisahkan keadaan dan keyakinan kaum Yahudi, tidaklah terlarang memberlakukan ayat itu menurut makna lahiriahnya. Sebab, kaum Yahudi menganut agama penyerupaan; mereka membolehkan datang dan pergi bagi Allah Ta'ala, dan berkata bahwa Allah Ta'ala menampakkan diri kepada Musa 'alaihissalam di Bukit Thur dalam naungan awan, lalu mereka mengira hal serupa terjadi pada zaman Muhammad shallallahu 'alaihi wasallam. Sudah maklum bahwa mazhab mereka bukan hujah. Walhasil, ayat itu menunjukkan bahwa suatu kaum menunggu Allah datang kepada mereka, dan di dalam ayat itu tidak ada petunjuk bahwa kaum itu benar. Dengan pengandaian ini, hilanglah kemusykilan. Inilah jawaban yang dijadikan pegangan atas penggunaan mereka terhadap ayat tersebut.
 
-Jika dikatakan: bagaimana takwil ini bertaut dengan ayat ini, sementara di akhirnya Dia berfirman, *"Hanya kepada Allah segala urusan dikembalikan"*?⁹⁶ Kami jawab: Allah Ta'ala mengisahkan pembangkangan mereka dan tindakan mereka menggantungkan penerimaan agama yang benar pada syarat yang rusak, lalu sesudahnya menyebutkan apa yang berkedudukan sebagai ancaman bagi mereka dengan firman-Nya, *"Hanya kepada Allah segala urusan dikembalikan."*⁹⁷
+Jika dikatakan: bagaimana takwil ini bertaut dengan ayat ini, sementara di akhirnya Dia berfirman, *"Hanya kepada Allah segala urusan dikembalikan"* (al-Baqarah: 210)? Kami jawab: Allah Ta'ala mengisahkan pembangkangan mereka dan tindakan mereka menggantungkan penerimaan agama yang benar pada syarat yang rusak, lalu sesudahnya menyebutkan apa yang berkedudukan sebagai ancaman bagi mereka dengan firman-Nya, *"Hanya kepada Allah segala urusan dikembalikan"* (al-Baqarah: 210).
 
-Adapun firman Allah Ta'ala, *"dan Tuhanmu datang, sedangkan malaikat berbaris-baris,"*⁹⁸ pembahasannya juga dari dua segi.
+Adapun firman Allah Ta'ala, *"dan Tuhanmu datang, sedangkan malaikat berbaris-baris"* (al-Fajr: 22), pembahasannya juga dari dua segi.
 
 Pertama, kita membawa ayat ini ke dalam bab *muḍāf* (pembuangan kata yang disandarkan). Menurut segi ini, dalam ayat itu ada beberapa kemungkinan. Pertama: dan datanglah perintah Tuhanmu untuk menghisab dan memberi balasan. Kedua: dan datanglah keperkasaan Tuhanmu, sebagaimana dikatakan, "Raja yang perkasa telah datang kepada kami," apabila pasukannya datang. Ketiga: dan datanglah tampaknya pengenalan akan Allah Ta'ala secara niscaya pada hari itu, sehingga hal itu berkedudukan seperti kedatangan dan penampakan-Nya.
 
-Segi kedua: kita tidak membawa ayat ini kepada pembuangan *muḍāf*. Dalam hal ini ada dua segi. Pertama, yang dimaksud dengan ayat ini adalah tampaknya ayat-ayat Allah Ta'ala serta rahasia jejak kuasa, keperkasaan, dan kekuasaan-Nya; maksudnya adalah mengumpamakan keadaan itu dengan keadaan raja ketika hadir, sebab dengan kehadirannya semata tampak tanda-tanda kewibawaan dan kewenangan yang tidak tampak dengan tampilnya seluruh pasukannya. Kedua, *al-Rabb* berarti pendidik (*al-murabbī*). Mungkin saja seorang malaikat agung, malaikat teragung, adalah pendidik Nabi, dan dialah yang dimaksud dengan firman-Nya, *"dan Tuhanmu (Rabbuka) datang."*⁹⁹
+Segi kedua: kita tidak membawa ayat ini kepada pembuangan *muḍāf*. Dalam hal ini ada dua segi. Pertama, yang dimaksud dengan ayat ini adalah tampaknya ayat-ayat Allah Ta'ala serta rahasia jejak kuasa, keperkasaan, dan kekuasaan-Nya; maksudnya adalah mengumpamakan keadaan itu dengan keadaan raja ketika hadir, sebab dengan kehadirannya semata tampak tanda-tanda kewibawaan dan kewenangan yang tidak tampak dengan tampilnya seluruh pasukannya. Kedua, *al-Rabb* berarti pendidik (*al-murabbī*). Mungkin saja seorang malaikat agung, malaikat teragung, adalah pendidik Nabi, dan dialah yang dimaksud dengan firman-Nya, *"dan Tuhanmu (Rabbuka) datang"* (al-Fajr: 22).
 
-⁶⁸ CT: QS al-Baqarah [2]: 210.
+[^118]: CT: Muslim, *Shalat al-Musafirin*, 172; Ibnu Majah, *Iqamah*, 182; Ahmad bin Hanbal, II/383.
 
-⁶⁹ CT: QS al-Fajr [89]: 22.
+[^119]: CT: al-Bukhari, *at-Tahajjud*, 14; Muslim, *Shalat al-Musafirin*, 168-17(0); Abu Dawud, *as-Sunnah*, 19; at-Tirmidzi, *ash-Shalah*, 211.
 
-⁷⁰ CT: Muslim, *Shalat al-Musafirin*, 172; Ibnu Majah, *Iqamah*, 182; Ahmad bin Hanbal, II/383.
+[^120]: CT: at-Tirmidzi, *ash-Shaum*, 39; Ibnu Majah, *Iqamah*, 191.
 
-⁷¹ CT: al-Bukhari, *at-Tahajjud*, 14; Muslim, *Shalat al-Musafirin*, 168-17(0); Abu Dawud, *as-Sunnah*, 19; at-Tirmidzi, *ash-Shalah*, 211.
-
-⁷² CT: at-Tirmidzi, *ash-Shaum*, 39; Ibnu Majah, *Iqamah*, 191.
-
-⁷³ CT: QS al-Baqarah [2]: 210.
-
-⁷⁴ CT: QS al-An'am [6]: 76.
-
-⁷⁵ CT: QS al-An'am [6]: 83.
-
-⁷⁶ CT: QS al-Baqarah [2]: 209.
-
-⁷⁷ CT: QS al-Baqarah [2]: 210.
-
-⁷⁸ CT: QS al-Mujadalah [58]: 5.
-
-⁷⁹ CT: QS Yusuf [12]: 82.
-
-⁸⁰ CT: QS al-Baqarah [2]: 210.
-
-⁸¹ CT: QS al-Baqarah [2]: 210.
-
-⁸² CT: QS al-Fajr [89]: 22.
-
-⁸³ CT: QS an-Nahl [16]: 33.
-
-⁸⁴ CT: QS al-Baqarah [2]: 210.
-
-⁸⁵ CT: Dalam bahasa Arab ada kaidah: sesuatu yang belum tentu, ketika pertama kali disebut, disebut dalam bentuk *nakirah* (tak tentu) tanpa *al-*. Namun bila hal yang sama disebut lagi sesudahnya, yang tadinya *nakirah* menjadi *ma'rifah* (tentu) dan diberi *al-*. (catatan penerjemah)
-
-⁸⁶ CT: QS al-Baqarah [2]: 210.
-
-⁸⁷ CT: QS al-Qamar [54]: 50.
-
-⁸⁸ CT: QS Hud [11]: 97.
-
-⁸⁹ CT: QS al-Baqarah [2]: 210.
-
-⁹⁰ CT: QS al-Hasyr [59]: 2. (Edisi Turki tertulis 53/2.)
-
-⁹¹ CT: QS an-Nahl [16]: 26.
-
-⁹² CT: QS al-Baqarah [2]: 208.
-
-⁹³ CT: QS al-Baqarah [2]: 209.
-
-⁹⁴ CT: QS al-Baqarah [2]: 210.
-
-⁹⁵ CT: QS al-Baqarah [2]: 55.
-
-⁹⁶ CT: QS al-Baqarah [2]: 210.
-
-⁹⁷ CT: QS al-Baqarah [2]: 210.
-
-⁹⁸ CT: QS al-Fajr [89]: 22.
-
-⁹⁹ CT: QS al-Fajr [89]: 22.
+[^121]: CT: Dalam bahasa Arab ada kaidah: sesuatu yang belum tentu, ketika pertama kali disebut, disebut dalam bentuk *nakirah* (tak tentu) tanpa *al-*. Namun bila hal yang sama disebut lagi sesudahnya, yang tadinya *nakirah* menjadi *ma'rifah* (tentu) dan diberi *al-*. (catatan penerjemah)
 
 Adapun hadis yang memuat turun-Nya ke langit dunia, pembahasannya dari dua segi.
 
 Pertama, menjelaskan bahwa kata "turun" terkadang dipakai bukan dalam arti berpindah. Penetapannya dari beberapa segi.
 
-Pertama, firman Allah Ta'ala, *"Dia menurunkan delapan pasang hewan ternak untukmu."*¹⁰⁰ Kita tahu secara niscaya bahwa unta atau sapi tidak turun dari langit ke bumi dengan cara berpindah. Allah Ta'ala berfirman, *"lalu Allah menurunkan ketenangan kepada Rasul-Nya,"*¹⁰¹ padahal perpindahan mustahil bagi ketenangan. Allah Ta'ala berfirman, *"yang dibawa turun oleh ar-Ruh al-Amin (Jibril) ke dalam hatimu,"*¹⁰² padahal Al-Qur'an, baik kita katakan bahwa ia adalah sifat yang qadim maupun kita katakan bahwa ia adalah huruf dan suara, mustahil berpindah.
+Pertama, firman Allah Ta'ala, *"Dia menurunkan delapan pasang hewan ternak untukmu"* (az-Zumar: 6). Kita tahu secara niscaya bahwa unta atau sapi tidak turun dari langit ke bumi dengan cara berpindah. Allah Ta'ala berfirman, *"lalu Allah menurunkan ketenangan kepada Rasul-Nya"* (al-Fath: 26), padahal perpindahan mustahil bagi ketenangan. Allah Ta'ala berfirman, *"yang dibawa turun oleh ar-Ruh al-Amin (Jibril) ke dalam hatimu"* (asy-Syu'ara': 193), padahal Al-Qur'an, baik kita katakan bahwa ia adalah sifat yang qadim maupun kita katakan bahwa ia adalah huruf dan suara, mustahil berpindah.
 
 Asy-Syafi'i al-Muthallibi radhiyallahu 'anhu berkata, "Aku memasuki Mesir, dan mereka tidak memahami perkataanku, maka aku turun, lalu turun lagi." Yang dimaksud dengan turun di sini bukan berpindah.
 
@@ -1360,79 +1295,61 @@ Kedua, mereka berpendapat bahwa setiap langit, dibandingkan dengan langit di ata
 
 Ketiga, telah kami buktikan bahwa alam itu bulat. Jika demikian, wajib dipastikan bahwa selamanya yang terjadi di salah satu belahan bumi adalah malam dan di belahan lain siang. Jika Dia wajib turun ke langit dunia pada malam hari, dan telah kami buktikan bahwa malam selalu ada, maka ini menuntut Dia selamanya tetap berada di langit dunia, hanya saja berputar di punggung falak mengikuti perputaran falak dan mengikuti berpindahnya malam dari satu sisi bumi ke sisi yang lain. Seandainya boleh sesuatu yang selamanya berputar bersama falak menjadi Tuhan alam, mengapa tidak boleh Tuhan alam itu falak sendiri? Sudah maklum bahwa itu tidak dikatakan oleh seorang berakal pun.
 
-Jenis kedua pembahasan tentang hadis ini adalah membangunnya di atas takwil secara terperinci, yaitu membawa turun ini kepada makna turunnya rahmat-Nya ke bumi¹⁰³ pada waktu itu. Sebab dikhususkannya waktu itu dengan perbuatan ini ada beberapa segi.
+Jenis kedua pembahasan tentang hadis ini adalah membangunnya di atas takwil secara terperinci, yaitu membawa turun ini kepada makna turunnya rahmat-Nya ke bumi[^122] pada waktu itu. Sebab dikhususkannya waktu itu dengan perbuatan ini ada beberapa segi.
 
 Pertama, tobat yang dilakukan di tengah malam, menurut lahirnya, bersih dari noda-noda dunia, karena orang lain tidak mengetahuinya; maka ia lebih dekat untuk diterima.
 
 Kedua, yang umumnya menguasai manusia di tengah malam adalah kemalasan, tidur, dan kelengahan. Sekiranya bukan karena kesungguhan yang besar dalam mencari agama dan kerinduan yang kuat untuk mewujudkannya, ia tidak akan menanggung beratnya berjaga dan tidak akan berpaling dari kenikmatan-kenikmatan jasmani. Semakin sempurna dan paripurna kesungguhan, kerinduan, dan keikhlasan, semakin melimpah pula pahalanya.
 
-Ketiga, malam adalah waktu malas dan lesu, sehingga untuk mendorong orang menyibukkan diri dengan ibadah di malam hari dibutuhkan hal-hal tambahan yang berpengaruh dalam menggerakkan dorongan untuk beribadah dan bertahajud. Maka baiklah jika Pembuat Syariat mengkhususkan waktu ini dengan perkataan seperti ini, agar dorongan untuk bertahajud lebih penuh. Ketiga sisi ini layak menjadi sebab syariat mengkhususkan waktu ini dengan kemuliaan ini. Karena itulah Allah Ta'ala berfirman, *"dan pada akhir malam mereka memohon ampunan,"*¹⁰⁴ dan berfirman, *"dan yang memohon ampunan pada waktu sahur."*¹⁰⁵
+Ketiga, malam adalah waktu malas dan lesu, sehingga untuk mendorong orang menyibukkan diri dengan ibadah di malam hari dibutuhkan hal-hal tambahan yang berpengaruh dalam menggerakkan dorongan untuk beribadah dan bertahajud. Maka baiklah jika Pembuat Syariat mengkhususkan waktu ini dengan perkataan seperti ini, agar dorongan untuk bertahajud lebih penuh. Ketiga sisi ini layak menjadi sebab syariat mengkhususkan waktu ini dengan kemuliaan ini. Karena itulah Allah Ta'ala berfirman, *"dan pada akhir malam mereka memohon ampunan"* (adz-Dzariyat: 18), dan berfirman, *"dan yang memohon ampunan pada waktu sahur"* (Ali 'Imran: 17).
 
 Segi keempat: sekelompok malaikat yang mulia turun pada waktu itu dengan perintah Allah Ta'ala, lalu hal itu disandarkan kepada Allah Ta'ala karena terjadi dengan sebab perintah Allah Ta'ala, sebagaimana dikatakan, "Amir membangun rumah dan mencetak dinar." Di antara yang menempuh takwil ini ada yang meriwayatkan hadis itu dengan harakat damah pada huruf *yāʾ* (*yunzilu*, "Dia menurunkan"), untuk menegaskan makna ini.
 
-Ketahuilah, kesempurnaan penetapan tentang hadis ini ialah bahwa raja yang singgah di tempat seseorang untuk memperbaiki keadaannya dan memperhatikan urusannya tentu memuliakannya dengan sangat; bahkan singgahnya di tempat orang itu merupakan puncak pemuliaan terhadapnya. Karena singgah (turun) itu mengharuskan pemuliaan, nama "turun" dipakai untuk pemuliaan. Inilah pula yang dimaksud dengan firman Allah Ta'ala, *"dan Tuhanmu datang, sedangkan malaikat berbaris-baris,"*¹⁰⁶ sebab raja, apabila datang dan hadir untuk memutuskan perselisihan, besarlah pengaruhnya dan dahsyatlah kewibawaannya. Allah lebih mengetahui.
+Ketahuilah, kesempurnaan penetapan tentang hadis ini ialah bahwa raja yang singgah di tempat seseorang untuk memperbaiki keadaannya dan memperhatikan urusannya tentu memuliakannya dengan sangat; bahkan singgahnya di tempat orang itu merupakan puncak pemuliaan terhadapnya. Karena singgah (turun) itu mengharuskan pemuliaan, nama "turun" dipakai untuk pemuliaan. Inilah pula yang dimaksud dengan firman Allah Ta'ala, *"dan Tuhanmu datang, sedangkan malaikat berbaris-baris"* (al-Fajr: 22), sebab raja, apabila datang dan hadir untuk memutuskan perselisihan, besarlah pengaruhnya dan dahsyatlah kewibawaannya. Allah lebih mengetahui.
 
-¹⁰⁰ CT: QS az-Zumar [39]: 6.
-
-¹⁰¹ CT: QS al-Fath [48]: 26.
-
-¹⁰² CT: QS asy-Syu'ara' [26]: 193.
-
-¹⁰³ CT: Tidak ada keraguan tentang kebenaran makna ini, sebab Allah Tabaraka wa Ta'ala mahasuci dari gerak dan diam, dari datang dan pergi, dari duduk dan berdiri, serta dari (sifat) ruh-ruh dan jisim-jisim, yang halus maupun yang kasar. Dia tidak di atas dan tidak di bawah. Takwil ini adalah takwil Imam Malik, yang diriwayatkan oleh al-Baihaqi darinya.
-
-¹⁰⁴ CT: QS adz-Dzariyat [51]: 18.
-
-¹⁰⁵ CT: QS Ali 'Imran [3]: 17.
-
-¹⁰⁶ CT: QS al-Fajr [89]: 22.
+[^122]: CT: Tidak ada keraguan tentang kebenaran makna ini, sebab Allah Tabaraka wa Ta'ala mahasuci dari gerak dan diam, dari datang dan pergi, dari duduk dan berdiri, serta dari (sifat) ruh-ruh dan jisim-jisim, yang halus maupun yang kasar. Dia tidak di atas dan tidak di bawah. Takwil ini adalah takwil Imam Malik, yang diriwayatkan oleh al-Baihaqi darinya.
 
 ### Pasal Kesepuluh: Tentang "Keluar" (*Khurūj*), "Tampil" (*Burūz*), "Menampakkan Diri" (*Tajallī*), dan "Tampak" (*Ẓuhūr*)
 
 *(Tr. h. 136)*
 
-Beliau shallallahu 'alaihi wasallam bersabda, *"Kalian akan melihat Tuhan kalian sebagaimana kalian melihat bulan pada malam purnama; kalian tidak akan berdesak-desakan (lā tuḍāmmūn) dalam melihat-Nya."*¹⁰⁷ Dalam riwayat lain, *"kalian tidak akan saling merugikan (lā tuḍārrūn)."* Takwilnya: yang dimaksud adalah menyerupakan penglihatan dengan penglihatan, bukan menyerupakan yang dilihat dengan yang dilihat.¹⁰⁸ Makna sabdanya *lā tuḍāmmūn* adalah: sebagian kalian tidak perlu merapat kepada sebagian yang lain, sebagaimana kalian saling merapat ketika melihat hilal di awal bulan; melainkan penglihatan yang jelas tanpa bersusah payah, sebagaimana kalian melihat bulan purnama. Sabdanya *lā tuḍārrūn* artinya: tidak ada mudarat yang menimpa kalian dalam upaya melihat-Nya; kalian melihat-Nya tanpa bersusah payah mencarinya. Adapun riwayat *tuḍāmūn* dengan tanpa tasydid, yang dimaksud adalah *ḍaym* (perlakuan zalim), yakni tidak ada kezaliman yang menimpa kalian dalam hal itu.
+Beliau shallallahu 'alaihi wasallam bersabda, *"Kalian akan melihat Tuhan kalian sebagaimana kalian melihat bulan pada malam purnama; kalian tidak akan berdesak-desakan (lā tuḍāmmūn) dalam melihat-Nya."*[^123] Dalam riwayat lain, *"kalian tidak akan saling merugikan (lā tuḍārrūn)."* Takwilnya: yang dimaksud adalah menyerupakan penglihatan dengan penglihatan, bukan menyerupakan yang dilihat dengan yang dilihat.[^124] Makna sabdanya *lā tuḍāmmūn* adalah: sebagian kalian tidak perlu merapat kepada sebagian yang lain, sebagaimana kalian saling merapat ketika melihat hilal di awal bulan; melainkan penglihatan yang jelas tanpa bersusah payah, sebagaimana kalian melihat bulan purnama. Sabdanya *lā tuḍārrūn* artinya: tidak ada mudarat yang menimpa kalian dalam upaya melihat-Nya; kalian melihat-Nya tanpa bersusah payah mencarinya. Adapun riwayat *tuḍāmūn* dengan tanpa tasydid, yang dimaksud adalah *ḍaym* (perlakuan zalim), yakni tidak ada kezaliman yang menimpa kalian dalam hal itu.
 
-Beliau shallallahu 'alaihi wasallam juga bersabda, *"Sesungguhnya Allah tampil setiap hari Jumat bagi penghuni surga di atas sebuah bukit pasir dari kapur barus (kāfūr),¹¹⁰ lalu (mereka) berada dalam kedekatan (dengan-Nya) sesuai dengan kesegeraan mereka menuju Jumat. Ketahuilah, maka bersegeralah menuju kebaikan."*¹⁰⁹
+Beliau shallallahu 'alaihi wasallam juga bersabda, *"Sesungguhnya Allah tampil setiap hari Jumat bagi penghuni surga di atas sebuah bukit pasir dari kapur barus (kāfūr),[^125] lalu (mereka) berada dalam kedekatan (dengan-Nya) sesuai dengan kesegeraan mereka menuju Jumat. Ketahuilah, maka bersegeralah menuju kebaikan."*[^126]
 
-Ketahuilah, dikatakan bahwa hadis ini lemah. Jika sahih, takwilnya: penghuni surga melihat-Nya sesuai dengan ukuran waktu-waktu dunia yang dahulu mereka isi dengan amal-amal kebaikan. Adapun tampil-Nya bagi penghuni surga dan tergambarnya hal itu bagi mereka, maksudnya Dia menciptakan bagi mereka penglihatan yang bertaut (dengan-Nya) sementara mereka berada di atas bukit pasir kapur barus. Adapun kedekatan-Nya dengan mereka, maknanya kedekatan dengan rahmat, sebagaimana sabda beliau, *"Siapa yang mendekat kepada-Ku sejengkal, Aku mendekat kepadanya sehasta,"*¹¹¹ dan sebagaimana dikatakan tentang orang fasik bahwa ia jauh dari Allah.
+Ketahuilah, dikatakan bahwa hadis ini lemah. Jika sahih, takwilnya: penghuni surga melihat-Nya sesuai dengan ukuran waktu-waktu dunia yang dahulu mereka isi dengan amal-amal kebaikan. Adapun tampil-Nya bagi penghuni surga dan tergambarnya hal itu bagi mereka, maksudnya Dia menciptakan bagi mereka penglihatan yang bertaut (dengan-Nya) sementara mereka berada di atas bukit pasir kapur barus. Adapun kedekatan-Nya dengan mereka, maknanya kedekatan dengan rahmat, sebagaimana sabda beliau, *"Siapa yang mendekat kepada-Ku sejengkal, Aku mendekat kepadanya sehasta,"*[^127] dan sebagaimana dikatakan tentang orang fasik bahwa ia jauh dari Allah.
 
-Juga riwayat bahwa beliau 'alaihissalam bersabda, *"Tidak seorang pun di antara kalian melainkan Tuhannya akan berdua-duaan dengannya pada hari kiamat dan berbicara kepadanya, tanpa ada penerjemah antara Dia dan orang itu."*¹¹² Kami katakan: segi takwilnya ialah bahwa siapa pun di antara mereka yang hendak menghadap kepada-Nya, ia berdua-duaan dengan-Nya, maka hal itu diungkapkan dengan ungkapan tersebut; dan (juga) karena Dia berkuasa memperdengarkan (kalam-Nya) kepada setiap orang sehingga seakan-akan Dia tidak berbicara dengan selainnya. Allah lebih mengetahui.
+Juga riwayat bahwa beliau 'alaihissalam bersabda, *"Tidak seorang pun di antara kalian melainkan Tuhannya akan berdua-duaan dengannya pada hari kiamat dan berbicara kepadanya, tanpa ada penerjemah antara Dia dan orang itu."*[^128] Kami katakan: segi takwilnya ialah bahwa siapa pun di antara mereka yang hendak menghadap kepada-Nya, ia berdua-duaan dengan-Nya, maka hal itu diungkapkan dengan ungkapan tersebut; dan (juga) karena Dia berkuasa memperdengarkan (kalam-Nya) kepada setiap orang sehingga seakan-akan Dia tidak berbicara dengan selainnya. Allah lebih mengetahui.
 
-¹⁰⁷ CT: al-Bukhari, *Mawaqit ash-Shalah*, 16, 26; *al-Adzan*, 129; *Tafsir as-Suwar*, 50; *ar-Riqaq*, 52; Abu Dawud, *as-Sunnah*, 19; at-Tirmidzi, *al-Jannah*, 16.
+[^123]: CT: al-Bukhari, *Mawaqit ash-Shalah*, 16, 26; *al-Adzan*, 129; *Tafsir as-Suwar*, 50; *ar-Riqaq*, 52; Abu Dawud, *as-Sunnah*, 19; at-Tirmidzi, *al-Jannah*, 16.
 
-¹⁰⁸ CT: Yang dimaksud di sini bukanlah bahwa Allah Ta'ala menyerupai bulan purnama. Maksudnya: sungguh kalian tidak akan mengeluh dalam melihat-Nya; penglihatan itu akan jelas dan terang. Penampakan ini tanpa kaifiat, tanpa keserupaan, dan tanpa arah. (catatan penerjemah)
+[^124]: CT: Yang dimaksud di sini bukanlah bahwa Allah Ta'ala menyerupai bulan purnama. Maksudnya: sungguh kalian tidak akan mengeluh dalam melihat-Nya; penglihatan itu akan jelas dan terang. Penampakan ini tanpa kaifiat, tanpa keserupaan, dan tanpa arah. (catatan penerjemah)
 
-¹⁰⁹ CT: Sumber hadis ini tidak dapat ditemukan.
+[^125]: CT: Nama suatu tempat.
 
-¹¹⁰ CT: Nama suatu tempat.
+[^126]: CT: Sumber hadis ini tidak dapat ditemukan.
 
-¹¹¹ CT: al-Bukhari, *at-Tauhid*, 15, 50; Muslim, *adz-Dzikr*, 20-22; at-Tirmidzi, *ad-Da'awat*, 131; Ibnu Majah, *al-Adab*, 58; Ahmad bin Hanbal, II/413, 435.
+[^127]: CT: al-Bukhari, *at-Tauhid*, 15, 50; Muslim, *adz-Dzikr*, 20-22; at-Tirmidzi, *ad-Da'awat*, 131; Ibnu Majah, *al-Adab*, 58; Ahmad bin Hanbal, II/413, 435.
 
-¹¹² CT: al-Bukhari, *ar-Riqaq*, 49, *at-Tauhid*, 24, 36; Muslim, *az-Zakah*, 67; at-Tirmidzi, *al-Qiyamah*, 1; Ibnu Majah, *al-Muqaddimah*, 13; Ahmad bin Hanbal, IV/256.
+[^128]: CT: al-Bukhari, *ar-Riqaq*, 49, *at-Tauhid*, 24, 36; Muslim, *az-Zakah*, 67; at-Tirmidzi, *al-Qiyamah*, 1; Ibnu Majah, *al-Muqaddimah*, 13; Ahmad bin Hanbal, IV/256.
 
 ### Pasal Kesebelas: Tentang Makna-Makna Lahiriah yang Memberi Kesan bahwa Allah Menerima Keterbagian dan Keterpotongan
 
 *(Tr. h. 138)*
 
-Tentang makna-makna lahiriah yang memberi kesan bahwa Dia menerima keterbagian dan keterpotongan, Mahatinggi Dia dari hal itu setinggi-tingginya. Adapun yang terdapat dalam Al-Qur'an, firman Allah Ta'ala tentang Adam 'alaihissalam, *"Maka, apabila Aku telah menyempurnakan (kejadian)-nya dan Aku telah meniupkan roh-Ku ke dalamnya,"*¹¹³ dan firman-Nya tentang Maryam 'alaihassalam (dan Isa), *"dan roh dari-Nya."*¹¹⁴ Adapun hadis, riwayat Abu Hurairah radhiyallahu 'anhu bahwa beliau shallallahu 'alaihi wasallam bersabda, *"Ketika Adam diciptakan dan ditiupkan ke dalamnya roh-Nya, Adam bersin dan bersyukur kepada Allah. Lalu Tuhannya berfirman kepadanya, 'Semoga Tuhanmu merahmatimu.' Kemudian Dia berfirman, 'Inilah salammu dan salam anak cucumu.'"*¹¹⁵
+Tentang makna-makna lahiriah yang memberi kesan bahwa Dia menerima keterbagian dan keterpotongan, Mahatinggi Dia dari hal itu setinggi-tingginya. Adapun yang terdapat dalam Al-Qur'an, firman Allah Ta'ala tentang Adam 'alaihissalam, *"Maka, apabila Aku telah menyempurnakan (kejadian)-nya dan Aku telah meniupkan roh-Ku ke dalamnya"* (al-Hijr: 29), dan firman-Nya tentang Maryam 'alaihassalam (dan Isa), *"dan roh dari-Nya"* (an-Nisa': 171). Adapun hadis, riwayat Abu Hurairah radhiyallahu 'anhu bahwa beliau shallallahu 'alaihi wasallam bersabda, *"Ketika Adam diciptakan dan ditiupkan ke dalamnya roh-Nya, Adam bersin dan bersyukur kepada Allah. Lalu Tuhannya berfirman kepadanya, 'Semoga Tuhanmu merahmatimu.' Kemudian Dia berfirman, 'Inilah salammu dan salam anak cucumu.'"*[^129]
 
 Takwilnya, kami katakan: adapun penyandaran roh kepada diri-Nya, itu adalah penyandaran pemuliaan. Adapun peniupan, itu adalah pengungkapan akibat dengan menyebut sebabnya. Takwil ini wajib ditempuh karena mustahil Allah Ta'ala menerima keterbagian dan keterpotongan.
 
-¹¹³ CT: QS al-Hijr [15]: 29.
-
-¹¹⁴ CT: QS an-Nisa' [4]: 171.
-
-¹¹⁵ CT: at-Tirmidzi, *at-Tafsir*, 2.
+[^129]: CT: at-Tirmidzi, *at-Tafsir*, 2.
 
 ### Pasal Kedua Belas: Jawaban atas Pendalilan Mereka dengan Firman Allah Ta'ala, "Apakah Mereka (Berhala-Berhala) Mempunyai Kaki untuk Berjalan?"
 
 *(Tr. h. 139)*
 
-Mereka berdalil dengan firman Allah Ta'ala, *"Apakah mereka (berhala-berhala) mempunyai kaki untuk berjalan, tangan untuk memegang dengan keras, mata untuk melihat, atau telinga untuk mendengar?"*¹¹⁶ Mereka berkata: Allah Ta'ala mencela berhala-berhala ini dan menggugat ketuhanannya karena tidak memiliki anggota-anggota ini. Maka, seandainya anggota-anggota ini tidak ada pada Allah Ta'ala, gugatan itu berlaku pula terhadap-Nya, dan itu batil.
+Mereka berdalil dengan firman Allah Ta'ala, *"Apakah mereka (berhala-berhala) mempunyai kaki untuk berjalan, tangan untuk memegang dengan keras, mata untuk melihat, atau telinga untuk mendengar?"* (al-A'raf: 195) Mereka berkata: Allah Ta'ala mencela berhala-berhala ini dan menggugat ketuhanannya karena tidak memiliki anggota-anggota ini. Maka, seandainya anggota-anggota ini tidak ada pada Allah Ta'ala, gugatan itu berlaku pula terhadap-Nya, dan itu batil.
 
 Jawabannya: dikatakan bahwa maksud (penyebutan) tangan-tangan ini adalah hal lain selain yang kalian sebutkan. Penjelasannya: orang-orang kafir yang menyembah berhala memiliki kaki untuk berjalan, tangan untuk memegang dengan keras, mata untuk melihat, dan telinga untuk mendengar. (Seakan-akan dikatakan kepada mereka:) karena yang dimaksud dengan kaki, tangan, mata, dan telinga adalah daya-daya penggerak dan pencerap ini, maka jika anggota-anggota ini ada pada kalian dan tidak ada pada berhala-berhala itu, kalian lebih mulia dan lebih tinggi daripadanya. Maka bagaimana layak menurut akal kalian berani menyembahnya? Hanya kepada Allah kita memohon taufik.
-
-¹¹⁶ CT: QS al-A'raf [7]: 195.
 
 ### Pasal Ketiga Belas: Tentang "Wajah" (*Wajh*)
 
@@ -1440,53 +1357,53 @@ Jawabannya: dikatakan bahwa maksud (penyebutan) tangan-tangan ini adalah hal lai
 
 Mereka berhujah dengan hadis-hadis dan ayat-ayat untuk menetapkan wajah bagi Allah Ta'ala. Adapun ayat-ayatnya banyak.
 
-Pertama, firman Allah Ta'ala, *"Semua yang ada di bumi itu akan binasa,"*¹¹⁷ *"(Akan tetapi,) wajah Tuhanmu yang memiliki kebesaran dan kemuliaan tetap kekal."*¹¹⁸ Mereka berkata: mustahil wajah Tuhan adalah Tuhan itu sendiri, dan hal itu ditunjukkan oleh dua segi. Pertama, Allah Ta'ala menyandarkan wajah kepada diri-Nya, sedangkan menyandarkan sesuatu kepada dirinya sendiri mustahil. Kedua, seandainya *dhū al-jalāl* (yang memiliki kebesaran) adalah sifat bagi *Rabb*, niscaya wajib dikatakan *dhī al-jalāl*, sebab sifat bagi kata yang berkasus genitif ikut berkasus genitif.¹¹⁹
+Pertama, firman Allah Ta'ala, *"Semua yang ada di bumi itu akan binasa"* (ar-Rahman: 26), *"(Akan tetapi,) wajah Tuhanmu yang memiliki kebesaran dan kemuliaan tetap kekal"* (ar-Rahman: 27). Mereka berkata: mustahil wajah Tuhan adalah Tuhan itu sendiri, dan hal itu ditunjukkan oleh dua segi. Pertama, Allah Ta'ala menyandarkan wajah kepada diri-Nya, sedangkan menyandarkan sesuatu kepada dirinya sendiri mustahil. Kedua, seandainya *dhū al-jalāl* (yang memiliki kebesaran) adalah sifat bagi *Rabb*, niscaya wajib dikatakan *dhī al-jalāl*, sebab sifat bagi kata yang berkasus genitif ikut berkasus genitif.[^130]
 
-Kedua, firman Allah Ta'ala, *"Segala sesuatu pasti binasa, kecuali wajah-Nya."*¹²⁰
+Kedua, firman Allah Ta'ala, *"Segala sesuatu pasti binasa, kecuali wajah-Nya"* (al-Qashash: 88).
 
-Ketiga, firman Allah Ta'ala, *"Bersabarlah engkau bersama orang-orang yang menyeru Tuhannya pada pagi dan senja hari, mereka menghendaki wajah-Nya."*¹²¹ᵃ
+Ketiga, firman Allah Ta'ala, *"Bersabarlah engkau bersama orang-orang yang menyeru Tuhannya pada pagi dan senja hari, mereka menghendaki wajah-Nya"* (al-Kahf: 28).[^131]
 
-Keempat, firman Allah Ta'ala, *"Janganlah engkau mengusir orang-orang yang menyeru Tuhannya pada pagi dan petang hari, mereka menghendaki wajah-Nya."*¹²²
+Keempat, firman Allah Ta'ala, *"Janganlah engkau mengusir orang-orang yang menyeru Tuhannya pada pagi dan petang hari, mereka menghendaki wajah-Nya"* (al-An'am: 52).
 
-Kelima, firman Allah Ta'ala, *"Milik Allahlah timur dan barat. Ke mana pun kamu menghadap, di sanalah wajah Allah."*¹²³
+Kelima, firman Allah Ta'ala, *"Milik Allahlah timur dan barat. Ke mana pun kamu menghadap, di sanalah wajah Allah"* (al-Baqarah: 115).
 
-Keenam, firman Allah Ta'ala, *"orang-orang yang menghendaki wajah Allah."*¹²⁴
+Keenam, firman Allah Ta'ala, *"orang-orang yang menghendaki wajah Allah"* (ar-Rum: 38).
 
-Ketujuh, firman Allah Ta'ala, *"kecuali (dengan tujuan) mencari wajah Tuhannya Yang Mahatinggi."*¹²⁵
+Ketujuh, firman Allah Ta'ala, *"kecuali (dengan tujuan) mencari wajah Tuhannya Yang Mahatinggi"* (al-Lail: 20).
 
 Adapun hadis-hadisnya banyak.
 
-Pertama, diriwayatkan oleh (Ibnu) Khuzaimah dari Jabir, ia berkata: ketika turun firman Allah Ta'ala, *"Katakanlah, 'Dialah yang berkuasa untuk mengirimkan azab kepadamu dari atas kamu,'"*¹²⁶ Nabi shallallahu 'alaihi wasallam bersabda, *"Aku berlindung dengan wajah-Mu."* Kemudian (turun), *"atau dari bawah kakimu,"* (dan beliau mengucapkan hal yang sama). Kemudian (turun), *"atau Dia mencampurkan kamu dalam golongan-golongan (yang saling bertentangan) dan merasakan kepada sebagian kamu keganasan sebagian yang lain,"*¹²⁷ lalu beliau shallallahu 'alaihi wasallam bersabda, *"Dua hal ini lebih ringan dan lebih mudah."*¹²⁸
+Pertama, diriwayatkan oleh (Ibnu) Khuzaimah dari Jabir, ia berkata: ketika turun firman Allah Ta'ala, *"Katakanlah, 'Dialah yang berkuasa untuk mengirimkan azab kepadamu dari atas kamu'"* (al-An'am: 65), Nabi shallallahu 'alaihi wasallam bersabda, *"Aku berlindung dengan wajah-Mu."* Kemudian (turun), *"atau dari bawah kakimu,"* (dan beliau mengucapkan hal yang sama). Kemudian (turun), *"atau Dia mencampurkan kamu dalam golongan-golongan (yang saling bertentangan) dan merasakan kepada sebagian kamu keganasan sebagian yang lain"* (al-An'am: 65), lalu beliau shallallahu 'alaihi wasallam bersabda, *"Dua hal ini lebih ringan dan lebih mudah."*[^132]
 
-Kedua, Ammar bin Yasir meriwayatkan dari Nabi shallallahu 'alaihi wasallam bahwa beliau berdoa, *"Ya Allah, dengan ilmu-Mu tentang yang gaib dan kuasa-Mu atas makhluk, hidupkanlah aku selama hidup itu lebih baik bagiku, dan wafatkanlah aku apabila wafat itu lebih baik bagiku. Ya Allah, aku memohon kepada-Mu rasa takut kepada-Mu dalam keadaan tersembunyi dan terlihat, kalimat yang benar dan adil dalam keadaan marah dan rida. Aku memohon kepada-Mu kesederhanaan dalam keadaan fakir dan kaya. Aku memohon kepada-Mu kenikmatan yang tidak berganti, dan penyejuk mata yang tidak terputus. Aku memohon kepada-Mu rida setelah ketetapan, dan sejuknya kehidupan setelah mati. Aku memohon kepada-Mu kelezatan memandang wajah-Mu, dan kerinduan untuk bertemu dengan-Mu tanpa kesengsaraan yang membahayakan dan tanpa fitnah yang menyesatkan. Ya Allah, hiasilah kami dengan perhiasan iman, dan jadikanlah kami pemberi petunjuk yang mendapat petunjuk."*¹²⁹
+Kedua, Ammar bin Yasir meriwayatkan dari Nabi shallallahu 'alaihi wasallam bahwa beliau berdoa, *"Ya Allah, dengan ilmu-Mu tentang yang gaib dan kuasa-Mu atas makhluk, hidupkanlah aku selama hidup itu lebih baik bagiku, dan wafatkanlah aku apabila wafat itu lebih baik bagiku. Ya Allah, aku memohon kepada-Mu rasa takut kepada-Mu dalam keadaan tersembunyi dan terlihat, kalimat yang benar dan adil dalam keadaan marah dan rida. Aku memohon kepada-Mu kesederhanaan dalam keadaan fakir dan kaya. Aku memohon kepada-Mu kenikmatan yang tidak berganti, dan penyejuk mata yang tidak terputus. Aku memohon kepada-Mu rida setelah ketetapan, dan sejuknya kehidupan setelah mati. Aku memohon kepada-Mu kelezatan memandang wajah-Mu, dan kerinduan untuk bertemu dengan-Mu tanpa kesengsaraan yang membahayakan dan tanpa fitnah yang menyesatkan. Ya Allah, hiasilah kami dengan perhiasan iman, dan jadikanlah kami pemberi petunjuk yang mendapat petunjuk."*[^133]
 
-Ketiga, beliau shallallahu 'alaihi wasallam bersabda, *"Siapa yang berpuasa sehari di jalan (Allah) karena mencari wajah Allah, Allah menjauhkan wajahnya dari neraka sejauh (perjalanan) tujuh puluh musim gugur."*¹³⁰
+Ketiga, beliau shallallahu 'alaihi wasallam bersabda, *"Siapa yang berpuasa sehari di jalan (Allah) karena mencari wajah Allah, Allah menjauhkan wajahnya dari neraka sejauh (perjalanan) tujuh puluh musim gugur."*[^134]
 
-Keempat, dari Ibnu Abbas, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Siapa yang meminta perlindungan kepada kalian dengan nama Allah, lindungilah ia; dan siapa yang meminta kepada kalian dengan wajah Allah, muliakanlah ia."*¹³¹
+Keempat, dari Ibnu Abbas, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Siapa yang meminta perlindungan kepada kalian dengan nama Allah, lindungilah ia; dan siapa yang meminta kepada kalian dengan wajah Allah, muliakanlah ia."*[^135]
 
-Kelima, dari Abu Hurairah radhiyallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Perumpamaan orang yang berjihad di jalan Allah karena mencari wajah Allah adalah seperti orang yang berdiri salat, hingga ia kembali dari jihadnya."*¹³²
+Kelima, dari Abu Hurairah radhiyallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Perumpamaan orang yang berjihad di jalan Allah karena mencari wajah Allah adalah seperti orang yang berdiri salat, hingga ia kembali dari jihadnya."*[^136]
 
-Keenam, Abdullah (bin Mas'ud) berkata: Rasulullah shallallahu 'alaihi wasallam membagi-bagikan (harta), lalu seseorang berkata, "Pembagian ini tidak dimaksudkan untuk wajah Allah." Aku pun mendatangi Nabi shallallahu 'alaihi wasallam dan menyebutkan hal itu kepada beliau, maka wajah beliau memerah hingga aku berharap tidak memberitahukannya. Beliau bersabda, *"Semoga Allah merahmati kami dan Musa. Sungguh, ia telah disakiti lebih dari ini, dan ia bersabar."*¹³³
+Keenam, Abdullah (bin Mas'ud) berkata: Rasulullah shallallahu 'alaihi wasallam membagi-bagikan (harta), lalu seseorang berkata, "Pembagian ini tidak dimaksudkan untuk wajah Allah." Aku pun mendatangi Nabi shallallahu 'alaihi wasallam dan menyebutkan hal itu kepada beliau, maka wajah beliau memerah hingga aku berharap tidak memberitahukannya. Beliau bersabda, *"Semoga Allah merahmati kami dan Musa. Sungguh, ia telah disakiti lebih dari ini, dan ia bersabar."*[^137]
 
-Ketujuh, dari Hudzaifah, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Sesungguhnya seorang muslim, apabila memasuki salatnya, Allah menghadapkan wajah-Nya kepadanya, dan Dia tidak berpaling darinya hingga orang itu berpaling atau berhadas."*¹³⁴
+Ketujuh, dari Hudzaifah, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Sesungguhnya seorang muslim, apabila memasuki salatnya, Allah menghadapkan wajah-Nya kepadanya, dan Dia tidak berpaling darinya hingga orang itu berpaling atau berhadas."*[^138]
 
-Kedelapan, dari al-Harits al-Asy'ari, bahwa Nabi shallallahu 'alaihi wasallam bersabda, *"Sesungguhnya Allah Ta'ala mewahyukan kepada Yahya bin Zakariya agar berkata kepada Bani Israil: Apabila kalian berdiri untuk salat, janganlah menoleh, sebab Allah menghadapkan wajah-Nya kepada hamba-Nya."*¹³⁵
+Kedelapan, dari al-Harits al-Asy'ari, bahwa Nabi shallallahu 'alaihi wasallam bersabda, *"Sesungguhnya Allah Ta'ala mewahyukan kepada Yahya bin Zakariya agar berkata kepada Bani Israil: Apabila kalian berdiri untuk salat, janganlah menoleh, sebab Allah menghadapkan wajah-Nya kepada hamba-Nya."*[^139]
 
-Kesembilan, hadis masyhur bahwa beliau 'alaihissalam berkata tentang firman Allah Ta'ala, *"Bagi orang-orang yang berbuat baik ada pahala yang terbaik (surga) dan tambahannya,"*¹³⁶ dan juga bersabda, *"Dua surga yang bangunan dan segala isinya dari perak, dan dua surga yang bangunan dan segala isinya dari emas. Tidak ada (penghalang) antara kaum itu dan memandang wajah Tuhan mereka di surga 'Adn kecuali selendang kebesaran pada wajah-Nya."*¹³⁷
+Kesembilan, hadis masyhur bahwa beliau 'alaihissalam berkata tentang firman Allah Ta'ala, *"Bagi orang-orang yang berbuat baik ada pahala yang terbaik (surga) dan tambahannya"* (Yunus: 26), dan juga bersabda, *"Dua surga yang bangunan dan segala isinya dari perak, dan dua surga yang bangunan dan segala isinya dari emas. Tidak ada (penghalang) antara kaum itu dan memandang wajah Tuhan mereka di surga 'Adn kecuali selendang kebesaran pada wajah-Nya."*[^140]
 
-Kesepuluh, dari Abdullah bin Mas'ud, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Perempuan itu aurat. Apabila ia keluar, setan menyambutnya dengan gembira; dan keadaannya yang paling dekat dengan wajah Tuhannya adalah ketika ia berada di bagian terdalam rumahnya."*¹³⁸
+Kesepuluh, dari Abdullah bin Mas'ud, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Perempuan itu aurat. Apabila ia keluar, setan menyambutnya dengan gembira; dan keadaannya yang paling dekat dengan wajah Tuhannya adalah ketika ia berada di bagian terdalam rumahnya."*[^141]
 
 Ketahuilah, wajah yang disebutkan dalam ayat-ayat dan hadis-hadis ini tidak mungkin wajah dalam arti anggota dan organ tubuh. Hal itu ditunjukkan oleh beberapa segi.
 
-Pertama, firman Allah Ta'ala, *"Segala sesuatu pasti binasa, kecuali wajah-Nya."*¹³⁹ Sebab, seandainya wajah itu adalah anggota tubuh yang khusus, niscaya seluruh jasad dan badan binasa, binasa pula mata yang ada pada wajah, dan tidak tersisa kecuali wajah semata. Sebagian orang dungu dari kaum Musyabbihah menerima hal itu, dan itu adalah kebodohan yang besar.
+Pertama, firman Allah Ta'ala, *"Segala sesuatu pasti binasa, kecuali wajah-Nya"* (al-Qashash: 88). Sebab, seandainya wajah itu adalah anggota tubuh yang khusus, niscaya seluruh jasad dan badan binasa, binasa pula mata yang ada pada wajah, dan tidak tersisa kecuali wajah semata. Sebagian orang dungu dari kaum Musyabbihah menerima hal itu, dan itu adalah kebodohan yang besar.
 
-Kedua, firman Allah Ta'ala, *"(Akan tetapi,) wajah Tuhanmu yang memiliki kebesaran dan kemuliaan tetap kekal,"*¹⁴⁰ makna lahiriahnya menuntut wajah itu disifati dengan kebesaran dan kemuliaan, padahal sudah maklum bahwa yang disifati dengan kebesaran dan kemuliaan adalah Allah Ta'ala. Itu menuntut wajah merupakan kinayah bagi Zat.
+Kedua, firman Allah Ta'ala, *"(Akan tetapi,) wajah Tuhanmu yang memiliki kebesaran dan kemuliaan tetap kekal"* (ar-Rahman: 27), makna lahiriahnya menuntut wajah itu disifati dengan kebesaran dan kemuliaan, padahal sudah maklum bahwa yang disifati dengan kebesaran dan kemuliaan adalah Allah Ta'ala. Itu menuntut wajah merupakan kinayah bagi Zat.
 
 Ketiga, firman Allah Ta'ala, *"Ke mana pun kamu menghadap, di sanalah wajah Allah."* Yang dimaksud dengan wajah di sini bukan anggota tubuh yang khusus. Sebab, kita mencerap dengan indra bahwa anggota tubuh yang dinamai wajah tidak ada di segala penjuru alam. Lagi pula, seandainya anggota itu ada di segala penjuru, niscaya satu jisim berada di banyak tempat sekaligus dalam satu waktu, dan itu tidak dikatakan oleh seorang berakal pun.
 
-Keempat, firman Allah Ta'ala, *"mereka menghendaki wajah-Nya,"*¹⁴¹ dan firman-Nya, *"kecuali (dengan tujuan) mencari wajah Tuhannya Yang Mahatinggi,"*¹⁴² tidak satu pun dapat dibawa kepada makna lahiriahnya. Sebab, menurut mazhab mereka, wajah Allah Ta'ala qadim dan azali, sedangkan yang qadim dan azali tidak dapat dikehendaki (untuk diwujudkan); sebab makna sesuatu yang dikehendaki adalah terwujudnya dan masuknya ke dalam wujud, dan itu mustahil pada yang qadim dan azali. Lagi pula, orang-orang itu menyembah Allah Ta'ala, dan mereka tidak menghendaki wajah Allah (dalam arti anggota tubuh). Seandainya Dia murka kepada mereka, mereka tidak menghendaki-Nya (dalam keadaan itu); yang mereka kehendaki dari-Nya hanyalah agar Dia rida kepada mereka. Itu menunjukkan bahwa yang dimaksud dengan wajah dalam ayat-ayat ini bukan organ tubuh yang khusus itu sendiri, melainkan sesuatu yang lain, yaitu keridaan Allah Ta'ala kepada mereka.
+Keempat, firman Allah Ta'ala, *"mereka menghendaki wajah-Nya"* (al-An'am: 52), dan firman-Nya, *"kecuali (dengan tujuan) mencari wajah Tuhannya Yang Mahatinggi"* (al-Lail: 20), tidak satu pun dapat dibawa kepada makna lahiriahnya. Sebab, menurut mazhab mereka, wajah Allah Ta'ala qadim dan azali, sedangkan yang qadim dan azali tidak dapat dikehendaki (untuk diwujudkan); sebab makna sesuatu yang dikehendaki adalah terwujudnya dan masuknya ke dalam wujud, dan itu mustahil pada yang qadim dan azali. Lagi pula, orang-orang itu menyembah Allah Ta'ala, dan mereka tidak menghendaki wajah Allah (dalam arti anggota tubuh). Seandainya Dia murka kepada mereka, mereka tidak menghendaki-Nya (dalam keadaan itu); yang mereka kehendaki dari-Nya hanyalah agar Dia rida kepada mereka. Itu menunjukkan bahwa yang dimaksud dengan wajah dalam ayat-ayat ini bukan organ tubuh yang khusus itu sendiri, melainkan sesuatu yang lain, yaitu keridaan Allah Ta'ala kepada mereka.
 
-Kelima, hadis yang telah kami riwayatkan, yaitu sabda beliau 'alaihissalam, *"Keadaan perempuan yang paling dekat dengan wajah Tuhannya adalah ketika ia berada di bagian terdalam rumahnya."*¹⁴³ Sudah maklum bahwa seandainya yang dimaksud dengan wajah adalah anggota tubuh yang khusus, keadaan dekat dan jauh tidak akan berbeda karena ia berada di rumahnya atau tidak. Adapun jika kita membawa wajah kepada makna keridaan, maknanya menjadi lurus.
+Kelima, hadis yang telah kami riwayatkan, yaitu sabda beliau 'alaihissalam, *"Keadaan perempuan yang paling dekat dengan wajah Tuhannya adalah ketika ia berada di bagian terdalam rumahnya."*[^142] Sudah maklum bahwa seandainya yang dimaksud dengan wajah adalah anggota tubuh yang khusus, keadaan dekat dan jauh tidak akan berbeda karena ia berada di rumahnya atau tidak. Adapun jika kita membawa wajah kepada makna keridaan, maknanya menjadi lurus.
 
 Maka tetaplah dengan dalil-dalil ini bahwa wajah yang disebutkan dalam ayat-ayat dan hadis-hadis ini tidak mungkin bermakna anggota dan organ tubuh. Jika engkau telah mengetahui hal ini, kami katakan: lafaz wajah dijadikan kinayah (*kināya*, كناية) terkadang bagi Zat dan terkadang bagi keridaan.
 
@@ -1500,137 +1417,87 @@ Ketiga, wajah dikhususkan dengan kelebihan keindahan dan kehalusan, susunan yang
 
 Adapun penjelasan sebab bolehnya menjadikan lafaz wajah sebagai kinayah bagi keridaan: apabila hati manusia condong kepada sesuatu, ia menghadapkan wajahnya kepadanya; dan apabila ia membenci sesuatu, ia memalingkan wajahnya darinya. Karena menghadapkan wajah kepada sesuatu termasuk kelaziman kecondongan kepadanya, tak ayal baiklah menjadikan lafaz wajah sebagai kinayah bagi keridaan.
 
-Jika engkau telah mengetahui pendahuluan ini, kami katakan: adapun firman Allah Ta'ala, *"Segala sesuatu pasti binasa, kecuali wajah-Nya,"*¹⁴⁴ dan firman-Nya, *"(Akan tetapi,) wajah Tuhanmu tetap kekal,"*¹⁴⁵ yang dimaksud adalah Zat, dan tujuan penyebutannya adalah penegasan dan kesungguhan. Sebab, dikatakan, "Wajah perkara ini adalah begini dan begini," dan "Wajah dalil ini adalah begini dan begini," dan yang dimaksud adalah perkara itu sendiri dan dalil itu sendiri. Demikian pula di sini. Adapun firman Allah Ta'ala, *"di sanalah wajah Allah,"*¹⁴⁶ *"Sesungguhnya kami memberi makanan kepadamu hanyalah karena mengharapkan wajah Allah,"*¹⁴⁷ dan *"kecuali (dengan tujuan) mencari wajah Tuhannya Yang Mahatinggi,"*¹⁴⁸ yang dimaksud dengan semuanya adalah keridaan Allah Ta'ala. Demikian pula halnya pada hadis-hadis itu. Hanya kepada Allah kita memohon taufik.
+Jika engkau telah mengetahui pendahuluan ini, kami katakan: adapun firman Allah Ta'ala, *"Segala sesuatu pasti binasa, kecuali wajah-Nya"* (al-Qashash: 88), dan firman-Nya, *"(Akan tetapi,) wajah Tuhanmu tetap kekal"* (ar-Rahman: 27), yang dimaksud adalah Zat, dan tujuan penyebutannya adalah penegasan dan kesungguhan. Sebab, dikatakan, "Wajah perkara ini adalah begini dan begini," dan "Wajah dalil ini adalah begini dan begini," dan yang dimaksud adalah perkara itu sendiri dan dalil itu sendiri. Demikian pula di sini. Adapun firman Allah Ta'ala, *"di sanalah wajah Allah"* (al-Baqarah: 115), *"Sesungguhnya kami memberi makanan kepadamu hanyalah karena mengharapkan wajah Allah"* (al-Insan: 9), dan *"kecuali (dengan tujuan) mencari wajah Tuhannya Yang Mahatinggi"* (al-Lail: 20), yang dimaksud dengan semuanya adalah keridaan Allah Ta'ala. Demikian pula halnya pada hadis-hadis itu. Hanya kepada Allah kita memohon taufik.
 
-¹¹⁷ CT: QS ar-Rahman [55]: 26.
+[^130]: CT: Ayat itu berbunyi *wajhu rabbika dhū al-jalāli wa-l-ikrām*.
 
-¹¹⁸ CT: QS ar-Rahman [55]: 27.
+[^131]: CP: Terjemahan Kemenag mengalihkan *wajh* dalam ayat-ayat seperti QS al-Kahf [18]: 28, al-Insan [76]: 9, dan al-Lail [92]: 20 menjadi "keridaan-Nya". Di sini kata "wajah" dipertahankan karena ayat-ayat itu dikutip sebagai lafaz yang diperdebatkan; pengalihan Kemenag itu sendiri bersesuaian dengan takwil yang dipilih ar-Razi di akhir pasal ini.
 
-¹¹⁹ CT: Ayat itu berbunyi *wajhu rabbika dhū al-jalāli wa-l-ikrām*.
+[^132]: CT: al-Bukhari, *Tafsir as-Suwar*, 6, 2; *al-I'tisham*, 11; *at-Tauhid*, 16; Abu Dawud, *al-Adab*, 98; at-Tirmidzi, *Tafsir as-Suwar*, 6, 2.
 
-¹²⁰ CT: QS al-Qashash [28]: 88.
+[^133]: CT: an-Nasa'i, *as-Sahw*, 62.
 
-¹²¹ CT: QS al-Kahf [18]: 28.
+[^134]: CT: at-Tirmidzi, *Fadha'il al-Jihad*, 3; an-Nasa'i, *ash-Shiyam*, 44, 45; Ibnu Majah, *ash-Shiyam*, 34; Ahmad bin Hanbal, II/300, 357.
 
-¹²² CT: QS al-An'am [6]: 52.
+[^135]: CT: Abu Dawud, *az-Zakah*, 38, *al-Adab*, 108; an-Nasa'i, *az-Zakah*, 72; Ahmad bin Hanbal, I/250; II/68, 99, 127.
 
-¹²³ CT: QS al-Baqarah [2]: 115.
+[^136]: CT: al-Bukhari, *al-Jihad*, 2; Muslim, *al-Imarah*, 110; an-Nasa'i, *al-Jihad*, 14, 16; Ibnu Majah, *al-Jihad*, 1; Imam Malik, *al-Jihad*, 1; Ahmad bin Hanbal, II/424.
 
-¹²⁴ CT: QS ar-Rum [30]: 38.
+[^137]: CT: al-Bukhari, *al-Anbiya'*, 27, *al-Maghazi*, 56, *al-Adab*, 53; Muslim, *az-Zakah*, 140-141; at-Tirmidzi, *al-Manaqib*, 63.
 
-¹²⁵ CT: QS al-Lail [92]: 20.
+[^138]: CT: al-Bukhari, *al-Adzan*, 86; at-Tirmidzi, *ash-Shalah*, 63; an-Nasa'i, *at-Tathbiq*, 19, 84, *as-Sahw*, 3; Ibnu Majah, *Iqamah*, 2, 12, 15; Ahmad bin Hanbal, II/100.
 
-¹²⁶ CT: QS al-An'am [6]: 65.
+[^139]: CT: at-Tirmidzi, *al-Adab*, 78.
 
-¹²⁷ CT: QS al-An'am [6]: 65.
+[^140]: CT: Sumber hadis ini tidak dapat ditemukan.
 
-¹²⁸ CT: al-Bukhari, *Tafsir as-Suwar*, 6, 2; *al-I'tisham*, 11; *at-Tauhid*, 16; Abu Dawud, *al-Adab*, 98; at-Tirmidzi, *Tafsir as-Suwar*, 6, 2.
+[^141]: CT: at-Tirmidzi, *ar-Radha'*, 18.
 
-¹²⁹ CT: an-Nasa'i, *as-Sahw*, 62.
-
-¹³⁰ CT: at-Tirmidzi, *Fadha'il al-Jihad*, 3; an-Nasa'i, *ash-Shiyam*, 44, 45; Ibnu Majah, *ash-Shiyam*, 34; Ahmad bin Hanbal, II/300, 357.
-
-¹³¹ CT: Abu Dawud, *az-Zakah*, 38, *al-Adab*, 108; an-Nasa'i, *az-Zakah*, 72; Ahmad bin Hanbal, I/250; II/68, 99, 127.
-
-¹³² CT: al-Bukhari, *al-Jihad*, 2; Muslim, *al-Imarah*, 110; an-Nasa'i, *al-Jihad*, 14, 16; Ibnu Majah, *al-Jihad*, 1; Imam Malik, *al-Jihad*, 1; Ahmad bin Hanbal, II/424.
-
-¹³³ CT: al-Bukhari, *al-Anbiya'*, 27, *al-Maghazi*, 56, *al-Adab*, 53; Muslim, *az-Zakah*, 140-141; at-Tirmidzi, *al-Manaqib*, 63.
-
-¹³⁴ CT: al-Bukhari, *al-Adzan*, 86; at-Tirmidzi, *ash-Shalah*, 63; an-Nasa'i, *at-Tathbiq*, 19, 84, *as-Sahw*, 3; Ibnu Majah, *Iqamah*, 2, 12, 15; Ahmad bin Hanbal, II/100.
-
-¹³⁵ CT: at-Tirmidzi, *al-Adab*, 78.
-
-¹³⁶ CT: QS Yunus [10]: 26.
-
-¹³⁷ CT: Sumber hadis ini tidak dapat ditemukan.
-
-¹³⁸ CT: at-Tirmidzi, *ar-Radha'*, 18.
-
-¹³⁹ CT: QS al-Qashash [28]: 88.
-
-¹⁴⁰ CT: QS ar-Rahman [55]: 27.
-
-¹⁴¹ CT: QS al-An'am [6]: 52.
-
-¹⁴² CT: QS al-Lail [92]: 20.
-
-¹⁴³ CT: Muslim, *ash-Shalah*, 215; an-Nasa'i, *al-Mawaqit*, 35, *at-Tathbiq*, 78; at-Tirmidzi, *ad-Da'awat*, 118; Ahmad bin Hanbal, II/421.
-
-¹⁴⁴ CT: (Teks catatan ini tidak terbaca dalam naskah Turki; menurut konteksnya: QS al-Qashash [28]: 88.)
-
-¹⁴⁵ CT: QS ar-Rahman [55]: 27.
-
-¹⁴⁶ CT: QS al-Baqarah [2]: 115.
-
-¹⁴⁷ CT: QS al-Insan [76]: 9.
-
-¹⁴⁸ CT: QS al-Lail [92]: 20.
-
-ᵃ CP: Terjemahan Kemenag mengalihkan *wajh* dalam ayat-ayat seperti QS al-Kahf [18]: 28, al-Insan [76]: 9, dan al-Lail [92]: 20 menjadi "keridaan-Nya". Di sini kata "wajah" dipertahankan karena ayat-ayat itu dikutip sebagai lafaz yang diperdebatkan; pengalihan Kemenag itu sendiri bersesuaian dengan takwil yang dipilih ar-Razi di akhir pasal ini.
+[^142]: CT: Muslim, *ash-Shalah*, 215; an-Nasa'i, *al-Mawaqit*, 35, *at-Tathbiq*, 78; at-Tirmidzi, *ad-Da'awat*, 118; Ahmad bin Hanbal, II/421.
 
 ### Pasal Keempat Belas: Tentang "Mata" (*ʿAyn*)
 
 *(Tr. h. 146)*
 
-Mereka berhujah dengan Al-Qur'an dan hadis untuk menetapkannya. Adapun Al-Qur'an, firman Allah Ta'ala kepada Nuh 'alaihissalam, *"Buatlah bahtera itu dengan mata-mata Kami (di bawah pengawasan Kami),"*¹⁴⁹ kepada Musa 'alaihissalam, *"dan agar engkau diasuh di atas mata-Ku (di bawah pengawasan-Ku),"*¹⁵⁰ dan kepada Muhammad shallallahu 'alaihi wasallam, *"Bersabarlah dalam menunggu ketetapan Tuhanmu karena sesungguhnya engkau berada dalam mata-mata Kami (dalam pengawasan Kami)."*¹⁵¹
+Mereka berhujah dengan Al-Qur'an dan hadis untuk menetapkannya. Adapun Al-Qur'an, firman Allah Ta'ala kepada Nuh 'alaihissalam, *"Buatlah bahtera itu dengan mata-mata Kami (di bawah pengawasan Kami)"* (Hud: 37), kepada Musa 'alaihissalam, *"dan agar engkau diasuh di atas mata-Ku (di bawah pengawasan-Ku)"* (Taha: 39), dan kepada Muhammad shallallahu 'alaihi wasallam, *"Bersabarlah dalam menunggu ketetapan Tuhanmu karena sesungguhnya engkau berada dalam mata-mata Kami (dalam pengawasan Kami)"* (ath-Thur: 48).
 
-Adapun hadis, penulis *Syarh as-Sunnah* rahimahullah meriwayatkan dalam bab penyebutan Dajjal, dari Ibnu Umar radhiyallahu 'anhuma, ia berkata, *"Rasulullah shallallahu 'alaihi wasallam berdiri di tengah manusia, lalu memuji Allah dengan pujian yang layak bagi-Nya, kemudian menyebut Dajjal dan bersabda: Sungguh aku memperingatkan kalian tentangnya, dan tidak ada seorang nabi pun kecuali telah memperingatkan kaumnya tentangnya; sungguh Nuh telah memperingatkan kaumnya. Namun aku akan mengatakan kepada kalian tentangnya suatu perkataan yang belum pernah dikatakan seorang nabi kepada kaumnya: Sesungguhnya ia buta sebelah, dan sesungguhnya Allah tidak buta sebelah."*¹⁵² Kemudian penulis kitab itu berkata: hadis ini sahih, dikeluarkan oleh al-Bukhari dalam kitabnya. Diriwayatkan pula dari Ibnu Abbas radhiyallahu 'anhu bahwa ia menyebut Dajjal dari Nabi shallallahu 'alaihi wasallam, lalu beliau bersabda, *"Sesungguhnya Allah tidak tersembunyi bagi kalian; sesungguhnya Dia tidak buta sebelah,"* dan beliau menunjuk matanya dengan tangannya, *"sedangkan al-Masih ad-Dajjal buta mata kanannya, seakan-akan matanya sebutir anggur yang menonjol."*¹⁵³ Kemudian ia berkata: hadis ini disepakati kesahihannya oleh dua syekh. Di antara yang juga menunjukkan penetapan mata bagi Allah Ta'ala adalah riwayat dalam doa-doa, *"Jagalah kami dengan mata-Mu yang tidak tidur."* Lagi pula, dalam kebiasaan tutur dikatakan, "Mata Allah atasmu."
+Adapun hadis, penulis *Syarh as-Sunnah* rahimahullah meriwayatkan dalam bab penyebutan Dajjal, dari Ibnu Umar radhiyallahu 'anhuma, ia berkata, *"Rasulullah shallallahu 'alaihi wasallam berdiri di tengah manusia, lalu memuji Allah dengan pujian yang layak bagi-Nya, kemudian menyebut Dajjal dan bersabda: Sungguh aku memperingatkan kalian tentangnya, dan tidak ada seorang nabi pun kecuali telah memperingatkan kaumnya tentangnya; sungguh Nuh telah memperingatkan kaumnya. Namun aku akan mengatakan kepada kalian tentangnya suatu perkataan yang belum pernah dikatakan seorang nabi kepada kaumnya: Sesungguhnya ia buta sebelah, dan sesungguhnya Allah tidak buta sebelah."*[^143] Kemudian penulis kitab itu berkata: hadis ini sahih, dikeluarkan oleh al-Bukhari dalam kitabnya. Diriwayatkan pula dari Ibnu Abbas radhiyallahu 'anhu bahwa ia menyebut Dajjal dari Nabi shallallahu 'alaihi wasallam, lalu beliau bersabda, *"Sesungguhnya Allah tidak tersembunyi bagi kalian; sesungguhnya Dia tidak buta sebelah,"* dan beliau menunjuk matanya dengan tangannya, *"sedangkan al-Masih ad-Dajjal buta mata kanannya, seakan-akan matanya sebutir anggur yang menonjol."*[^144] Kemudian ia berkata: hadis ini disepakati kesahihannya oleh dua syekh. Di antara yang juga menunjukkan penetapan mata bagi Allah Ta'ala adalah riwayat dalam doa-doa, *"Jagalah kami dengan mata-Mu yang tidak tidur."* Lagi pula, dalam kebiasaan tutur dikatakan, "Mata Allah atasmu."
 
 Ketahuilah, nas-nas Al-Qur'an itu tidak mungkin diberlakukan menurut makna lahiriahnya karena beberapa segi.
 
-Pertama, makna lahiriah firman Allah Ta'ala, *"dan agar engkau diasuh di atas mata-Ku,"*¹⁵⁴ menuntut Musa 'alaihissalam menetap di atas mata itu, menempel padanya, dan berada di atasnya; dan itu tidak dikatakan oleh seorang berakal pun.
+Pertama, makna lahiriah firman Allah Ta'ala, *"dan agar engkau diasuh di atas mata-Ku"* (Taha: 39), menuntut Musa 'alaihissalam menetap di atas mata itu, menempel padanya, dan berada di atasnya; dan itu tidak dikatakan oleh seorang berakal pun.
 
-Kedua, firman Allah Ta'ala, *"Buatlah bahtera itu dengan mata-mata Kami,"*¹⁵⁵ menuntut alat pembuatan itu adalah mata-mata tersebut.
+Kedua, firman Allah Ta'ala, *"Buatlah bahtera itu dengan mata-mata Kami"* (Hud: 37), menuntut alat pembuatan itu adalah mata-mata tersebut.
 
 Ketiga, menetapkan banyak mata pada satu wajah itu buruk. Maka tetaplah bahwa takwil mesti ditempuh, yaitu membawa lafaz-lafaz ini kepada makna besarnya perhatian dan penjagaan. Segi kebaikan majaz ini ialah bahwa orang yang besar perhatiannya kepada sesuatu, kecondongannya kepadanya, dan keinginannya terhadapnya, banyak memandang kepadanya. Maka lafaz mata, yang merupakan alat pandangan itu, dijadikan kinayah bagi besarnya perhatian.
 
-Adapun hadis yang engkau riwayatkan itu musykil, sebab makna lahiriahnya menuntut bahwa Nabi shallallahu 'alaihi wasallam menampakkan perbedaan antara Tuhan Ta'ala dan Dajjal yang buta sebelah dengan keadaan Allah Ta'ala yang tidak buta sebelah, dan itu jauh (dari kebenaran). Hadis ahad, apabila mencapai tingkat kelemahan makna seperti ini, wajib diyakini bahwa perkataan itu didahului suatu pendahuluan yang, seandainya disebutkan, kemusykilan ini akan hilang. Bukankah perawi hadis ini adalah Ibnu Umar? Kemudian, ketika Ibnu Umar meriwayatkan sabda beliau, "Sesungguhnya mayat benar-benar diazab karena tangisan keluarganya," Aisyah radhiyallahu 'anha menggugatnya dan menyebutkan bahwa perkataan Rasul itu didahului oleh perkataan lain, dan ia berhujah untuk itu dengan firman Allah Ta'ala, *"Seseorang tidak akan memikul beban dosa orang lain,"*¹⁵⁶ (seraya menjelaskan bahwa) seandainya perkataan itu dikisahkan (secara utuh), kemusykilan ini akan hilang. Demikian pula di sini: sangat jauh kemungkinan perkataan semacam ini keluar dari Rasul yang telah Allah Ta'ala pilih untuk risalah-Nya dan Dia perintahkan untuk menjelaskan syariat-Nya. Hanya kepada Allah kita memohon taufik.
+Adapun hadis yang engkau riwayatkan itu musykil, sebab makna lahiriahnya menuntut bahwa Nabi shallallahu 'alaihi wasallam menampakkan perbedaan antara Tuhan Ta'ala dan Dajjal yang buta sebelah dengan keadaan Allah Ta'ala yang tidak buta sebelah, dan itu jauh (dari kebenaran). Hadis ahad, apabila mencapai tingkat kelemahan makna seperti ini, wajib diyakini bahwa perkataan itu didahului suatu pendahuluan yang, seandainya disebutkan, kemusykilan ini akan hilang. Bukankah perawi hadis ini adalah Ibnu Umar? Kemudian, ketika Ibnu Umar meriwayatkan sabda beliau, "Sesungguhnya mayat benar-benar diazab karena tangisan keluarganya," Aisyah radhiyallahu 'anha menggugatnya dan menyebutkan bahwa perkataan Rasul itu didahului oleh perkataan lain, dan ia berhujah untuk itu dengan firman Allah Ta'ala, *"Seseorang tidak akan memikul beban dosa orang lain"* (al-An'am: 164), (seraya menjelaskan bahwa) seandainya perkataan itu dikisahkan (secara utuh), kemusykilan ini akan hilang. Demikian pula di sini: sangat jauh kemungkinan perkataan semacam ini keluar dari Rasul yang telah Allah Ta'ala pilih untuk risalah-Nya dan Dia perintahkan untuk menjelaskan syariat-Nya. Hanya kepada Allah kita memohon taufik.
 
-¹⁴⁹ CT: QS Hud [11]: 37.
+[^143]: CT: al-Bukhari, *al-Anbiya'*, 3, *al-Maghazi*, 77, *al-Adab*, 97; Muslim, *al-Fitan*, 95; Abu Dawud, *as-Sunnah*, 26; at-Tirmidzi, *al-Fitan*, 56; Ahmad bin Hanbal, II/135, 139.
 
-¹⁵⁰ CT: QS Taha [20]: 39.
-
-¹⁵¹ CT: QS ath-Thur [52]: 48.
-
-¹⁵² CT: al-Bukhari, *al-Anbiya'*, 3, *al-Maghazi*, 77, *al-Adab*, 97; Muslim, *al-Fitan*, 95; Abu Dawud, *as-Sunnah*, 26; at-Tirmidzi, *al-Fitan*, 56; Ahmad bin Hanbal, II/135, 139.
-
-¹⁵³ CT: al-Bukhari, *al-Anbiya'*, 3, *al-Maghazi*, 77, *al-Adab*, 97; Muslim, *al-Fitan*, 95, 101; Abu Dawud, *al-Malahim*, 14.
-
-¹⁵⁴ CT: QS Taha [20]: 39.
-
-¹⁵⁵ CT: QS Hud [11]: 37.
-
-¹⁵⁶ CT: QS al-An'am [6]: 164.
+[^144]: CT: al-Bukhari, *al-Anbiya'*, 3, *al-Maghazi*, 77, *al-Adab*, 97; Muslim, *al-Fitan*, 95, 101; Abu Dawud, *al-Malahim*, 14.
 
 ### Pasal Kelima Belas: Tentang "Embusan Napas" (*Nafas*)
 
 *(Tr. h. 148)*
 
-Lafaz ini tidak terdapat dalam Al-Qur'an, tetapi diriwayatkan bahwa Nabi shallallahu 'alaihi wasallam bersabda, *"Janganlah kalian mencaci angin, sebab ia berasal dari embusan napas ar-Rahman."* Beliau juga bersabda, *"Sungguh, aku merasakan embusan napas ar-Rahman dari arah Yaman."*¹⁵⁷
+Lafaz ini tidak terdapat dalam Al-Qur'an, tetapi diriwayatkan bahwa Nabi shallallahu 'alaihi wasallam bersabda, *"Janganlah kalian mencaci angin, sebab ia berasal dari embusan napas ar-Rahman."* Beliau juga bersabda, *"Sungguh, aku merasakan embusan napas ar-Rahman dari arah Yaman."*[^145]
 
 Takwilnya: kata itu diambil dari ucapan *naffastu ʿan fulān*, yakni aku melapangkan (kesusahan) darinya, dan *anfasa Allāhu ʿan fulān*, yakni Allah melapangkan (kesusahan) darinya. Apabila angin itu sejuk menyenangkan, hilanglah hal-hal yang tidak disukai itu. Maka ketika beliau mendapatinya dari arah Yaman, tercapailah apa yang dituju. Lagi pula, sesuatu yang menyertai hal yang dibenci ikut dibenci, dan sesuatu yang menyertai hal yang dicintai ikut dicintai. Maka ketika Nabi shallallahu 'alaihi wasallam mendapatkan pertolongan dari arah Yaman, beliau mendapatkan kelapangan dari hal-hal yang tidak disukai dari arah itu. Karena itu, tak ayal, benarlah sabda beliau, *"Sungguh, aku merasakan embusan napas ar-Rahman dari arah Yaman."* Karena itu pula Nabi shallallahu 'alaihi wasallam bersabda, *"Iman itu dari Yaman, dan hikmah itu dari Yaman."* Inilah yang dimaksud dengan sabdanya, *"Sesungguhnya angin berasal dari embusan napas ar-Rahman,"* yakni termasuk hal yang padanya Allah jadikan kelapangan. Hanya kepada Allah kita memohon taufik.
 
-¹⁵⁷ CT: at-Tirmidzi, *al-Fitan*, 65, *al-Birr*, 48; Abu Dawud, *al-Adab*, 45; Ibnu Majah, *al-Adab*, 29; Ahmad bin Hanbal, II/250, 268, 409, 437, 518.
+[^145]: CT: at-Tirmidzi, *al-Fitan*, 65, *al-Birr*, 48; Abu Dawud, *al-Adab*, 45; Ibnu Majah, *al-Adab*, 29; Ahmad bin Hanbal, II/250, 268, 409, 437, 518.
 
 ### Pasal Keenam Belas: Tentang "Tangan" (*Yad*)
 
 *(Tr. h. 149)*
 
-Ketahuilah, lafaz ini terdapat dalam Al-Qur'an dan hadis. Adapun dalam Al-Qur'an, sifat ini terkadang datang dalam bentuk tunggal dan terkadang dalam bentuk dual, seperti firman Allah Ta'ala, *"Apa yang menghalangimu untuk bersujud kepada yang telah Aku ciptakan dengan kedua tangan-Ku?"*¹⁵⁸ dan firman-Nya, *"Padahal kedua tangan-Nya terbentang."*¹⁵⁹ Adapun hadis-hadisnya banyak.
+Ketahuilah, lafaz ini terdapat dalam Al-Qur'an dan hadis. Adapun dalam Al-Qur'an, sifat ini terkadang datang dalam bentuk tunggal dan terkadang dalam bentuk dual, seperti firman Allah Ta'ala, *"Apa yang menghalangimu untuk bersujud kepada yang telah Aku ciptakan dengan kedua tangan-Ku?"* (Shad: 75) dan firman-Nya, *"Padahal kedua tangan-Nya terbentang"* (al-Ma'idah: 64). Adapun hadis-hadisnya banyak.
 
-Pertama, diriwayatkan bahwa Nabi shallallahu 'alaihi wasallam bersabda, *"Adam dan Musa bertemu. Musa berkata, 'Engkaulah yang Allah ciptakan dengan tangan-Nya, dan Dia jadikan malaikat-malaikat-Nya bersujud kepadamu, dan Dia tiupkan ke dalam dirimu roh-Nya. Dia memerintahkanmu suatu perintah, lalu engkau mendurhakai-Nya, sehingga Dia mengeluarkanmu dari surga.' Adam berkata, 'Wahai Musa, Allah telah memilihmu dengan kalam-Nya dan menuliskan Taurat untukmu dengan tangan-Nya. Apakah engkau mencelaku atas suatu perkara yang telah Allah takdirkan atasku empat puluh tahun sebelum Dia menciptakanku?' Beliau bersabda: Maka Adam mengalahkan Musa dalam hujah."*¹⁶⁰ Hadis ini memuat bahwa Musa 'alaihissalam menetapkan tangan bagi Allah Ta'ala, dan demikian pula Adam berpendapat demikian.
+Pertama, diriwayatkan bahwa Nabi shallallahu 'alaihi wasallam bersabda, *"Adam dan Musa bertemu. Musa berkata, 'Engkaulah yang Allah ciptakan dengan tangan-Nya, dan Dia jadikan malaikat-malaikat-Nya bersujud kepadamu, dan Dia tiupkan ke dalam dirimu roh-Nya. Dia memerintahkanmu suatu perintah, lalu engkau mendurhakai-Nya, sehingga Dia mengeluarkanmu dari surga.' Adam berkata, 'Wahai Musa, Allah telah memilihmu dengan kalam-Nya dan menuliskan Taurat untukmu dengan tangan-Nya. Apakah engkau mencelaku atas suatu perkara yang telah Allah takdirkan atasku empat puluh tahun sebelum Dia menciptakanku?' Beliau bersabda: Maka Adam mengalahkan Musa dalam hujah."*[^146] Hadis ini memuat bahwa Musa 'alaihissalam menetapkan tangan bagi Allah Ta'ala, dan demikian pula Adam berpendapat demikian.
 
-Kedua, Abu Hurairah radhiyallahu 'anhu meriwayatkan bahwa Nabi shallallahu 'alaihi wasallam bersabda, *"Ketika Allah Ta'ala menciptakan makhluk, Dia menulis dengan tangan-Nya atas diri-Nya: sesungguhnya rahmat-Ku mendahului murka-Ku."*¹⁶¹
+Kedua, Abu Hurairah radhiyallahu 'anhu meriwayatkan bahwa Nabi shallallahu 'alaihi wasallam bersabda, *"Ketika Allah Ta'ala menciptakan makhluk, Dia menulis dengan tangan-Nya atas diri-Nya: sesungguhnya rahmat-Ku mendahului murka-Ku."*[^147]
 
-Ketiga, Abdullah bin Umar meriwayatkan dari Nabi shallallahu 'alaihi wasallam bahwa beliau bersabda, *"Sesungguhnya Dia membuka pintu-pintu langit pada sepertiga malam yang tersisa, lalu membentangkan tangan-Nya dan berfirman: Tidakkah ada hamba yang meminta kepada-Ku, niscaya Aku memberinya? Dan terus demikian hingga fajar terbit."*¹⁶²
+Ketiga, Abdullah bin Umar meriwayatkan dari Nabi shallallahu 'alaihi wasallam bahwa beliau bersabda, *"Sesungguhnya Dia membuka pintu-pintu langit pada sepertiga malam yang tersisa, lalu membentangkan tangan-Nya dan berfirman: Tidakkah ada hamba yang meminta kepada-Ku, niscaya Aku memberinya? Dan terus demikian hingga fajar terbit."*[^148]
 
-Keempat, Abu Hurairah meriwayatkan dari Nabi shallallahu 'alaihi wasallam bahwa beliau bersabda, *"Sesungguhnya salah seorang di antara kalian bersedekah dengan sebutir kurma, bila dari (hasil) yang baik, dan Allah tidak menerima kecuali yang baik, maka Allah meletakkannya di tangan kanan-Nya, kemudian memeliharanya sebagaimana salah seorang di antara kalian memelihara anak kuda atau anak untanya, hingga ia menjadi seperti (gunung) Uhud."*¹⁶³
+Keempat, Abu Hurairah meriwayatkan dari Nabi shallallahu 'alaihi wasallam bahwa beliau bersabda, *"Sesungguhnya salah seorang di antara kalian bersedekah dengan sebutir kurma, bila dari (hasil) yang baik, dan Allah tidak menerima kecuali yang baik, maka Allah meletakkannya di tangan kanan-Nya, kemudian memeliharanya sebagaimana salah seorang di antara kalian memelihara anak kuda atau anak untanya, hingga ia menjadi seperti (gunung) Uhud."*[^149]
 
-Kelima, hadis masyhur, yaitu sabda beliau shallallahu 'alaihi wasallam, *"Sesungguhnya sedekah jatuh ke kedua tangan ar-Rahman sebelum jatuh ke tangan orang fakir."*¹⁶⁴
+Kelima, hadis masyhur, yaitu sabda beliau shallallahu 'alaihi wasallam, *"Sesungguhnya sedekah jatuh ke kedua tangan ar-Rahman sebelum jatuh ke tangan orang fakir."*[^150]
 
-Keenam, apa yang dinukil secara mutawatir dari Nabi shallallahu 'alaihi wasallam bahwa beliau biasa berkata, *"Demi Zat yang jiwaku berada di tangan-Nya."*¹⁶⁵
+Keenam, apa yang dinukil secara mutawatir[^151] dari Nabi shallallahu 'alaihi wasallam bahwa beliau biasa berkata, *"Demi Zat yang jiwaku berada di tangan-Nya."*[^152]
 
-Ketujuh, sabda beliau shallallahu 'alaihi wasallam, *"Sesungguhnya Allah meragi tanah liat Adam dengan tangan-Nya selama empat puluh pagi."*¹⁶⁶
+[^151]: **Mutawatir** (*mutawātir*; dari *tawātur*, Ing. *succession*). Secara bahasa, *tawātur* berarti berurutannya beberapa hal satu demi satu. Menurut ahli usul, ia adalah berita sekelompok orang yang dengan sendirinya menghasilkan pengetahuan tentang kebenarannya. (*Kashshāf*, s.v. *al-tawātur*.)
+
+Ketujuh, sabda beliau shallallahu 'alaihi wasallam, *"Sesungguhnya Allah meragi tanah liat Adam dengan tangan-Nya selama empat puluh pagi."*[^153]
 
 Ketahuilah, lafaz "tangan" secara hakiki (*ḥaqīqa*) bermakna organ tubuh yang khusus ini, tetapi dipakai secara majaz untuk hal-hal lain.
 
@@ -1638,11 +1505,11 @@ Pertama, lafaz "tangan" dipakai untuk kuasa. Dikatakan, "Tangan sultan di atas t
 
 Kedua, tangan terkadang dimaksudkan sebagai nikmat. Majaz ini menjadi baik karena alat pemberian nikmat adalah tangan; maka memakai nama tangan untuk nikmat adalah memakai nama sebab untuk akibat.
 
-Ketiga, lafaz "tangan" terkadang disebut sebagai penyambung ujaran demi penegasan, seperti ucapan mereka, "Kedua tanganmulah yang mengikatnya." Dekat dengan ini firman Allah Ta'ala, *"hendaklah kamu mengeluarkan sedekah di antara kedua tangan (sebelum) pembicaraan rahasiamu,"*¹⁶⁷ dan firman-Nya, *"di antara kedua tangan (menjelang kedatangan) rahmat-Nya,"*¹⁶⁸ padahal pembicaraan rahasia dan rahmat tidak memiliki kedua anggota yang dinamai tangan itu.
+Ketiga, lafaz "tangan" terkadang disebut sebagai penyambung ujaran demi penegasan, seperti ucapan mereka, "Kedua tanganmulah yang mengikatnya." Dekat dengan ini firman Allah Ta'ala, *"hendaklah kamu mengeluarkan sedekah di antara kedua tangan (sebelum) pembicaraan rahasiamu"* (al-Mujadalah: 12), dan firman-Nya, *"di antara kedua tangan (menjelang kedatangan) rahmat-Nya"* (al-A'raf: 57; al-Furqan: 48; an-Naml: 63), padahal pembicaraan rahasia dan rahmat tidak memiliki kedua anggota yang dinamai tangan itu.
 
-Jika engkau telah mengetahui pendahuluan ini, kami katakan: adapun firman Allah Ta'ala, *"Tangan Allah di atas tangan-tangan mereka,"*¹⁶⁹ maknanya: kuasa Allah Ta'ala mengalahkan kuasa makhluk. Adapun firman Allah Ta'ala yang mengisahkan bahwa orang-orang Yahudi berkata, *"Tangan Allah terbelenggu,"*¹⁷⁰ tangan di sini bermakna nikmat. Dalilnya: orang-orang Yahudi itu adakalanya dikatakan mengakui adanya Pencipta, adakalanya mengingkarinya. Jika mereka mengakuinya, mustahil kita katakan (bahwa mereka memaksudkan) Pencipta alam itu dibelenggu dan dikalahkan, sebab itu tidak dikatakan oleh seorang berakal pun. Jika mereka mengingkarinya, perkataan bahwa Dia terbelenggu tidak berfaedah. Maka tetaplah bahwa maksudnya: mereka meyakini nikmat-nikmat Allah Ta'ala tertahan dari makhluk dan terhalang dari mereka. Maka ayat ini menjadi salah satu dalil terkuat bahwa lafaz tangan terkadang dimaksudkan sebagai nikmat.
+Jika engkau telah mengetahui pendahuluan ini, kami katakan: adapun firman Allah Ta'ala, *"Tangan Allah di atas tangan-tangan mereka"* (al-Fath: 10), maknanya: kuasa Allah Ta'ala mengalahkan kuasa makhluk. Adapun firman Allah Ta'ala yang mengisahkan bahwa orang-orang Yahudi berkata, *"Tangan Allah terbelenggu"* (al-Ma'idah: 64), tangan di sini bermakna nikmat. Dalilnya: orang-orang Yahudi itu adakalanya dikatakan mengakui adanya Pencipta, adakalanya mengingkarinya. Jika mereka mengakuinya, mustahil kita katakan (bahwa mereka memaksudkan) Pencipta alam itu dibelenggu dan dikalahkan, sebab itu tidak dikatakan oleh seorang berakal pun. Jika mereka mengingkarinya, perkataan bahwa Dia terbelenggu tidak berfaedah. Maka tetaplah bahwa maksudnya: mereka meyakini nikmat-nikmat Allah Ta'ala tertahan dari makhluk dan terhalang dari mereka. Maka ayat ini menjadi salah satu dalil terkuat bahwa lafaz tangan terkadang dimaksudkan sebagai nikmat.
 
-Adapun firman Allah Ta'ala, *"Padahal kedua tangan-Nya terbentang,"*¹⁷¹ yang dimaksud juga nikmat. Hal itu ditunjukkan oleh dua segi.
+Adapun firman Allah Ta'ala, *"Padahal kedua tangan-Nya terbentang"* (al-Ma'idah: 64), yang dimaksud juga nikmat. Hal itu ditunjukkan oleh dua segi.
 
 Pertama, ayat ini datang dalam konteks jawaban atas perkataan Yahudi, *"Tangan Allah terbelenggu."* Karena telah kami jelaskan dengan dalil bahwa perkataan mereka "tangan Allah terbelenggu" tidak bermakna belenggu dan penahanan, melainkan tertahannya nikmat-nikmat Allah dari mereka, wajiblah firman-Nya "padahal kedua tangan-Nya terbentang" merupakan ungkapan tentang banyaknya nikmat Allah Ta'ala dan meratanya bagi makhluk, agar jawaban itu sesuai dengan pertanyaan.
 
@@ -1652,11 +1519,11 @@ Adapun firman Allah Ta'ala, *"Apa yang menghalangimu untuk bersujud kepada yang 
 
 Pendapat pertama: kedua tangan adalah dua sifat yang melekat pada Zat Allah Ta'ala, yang dengannya terjadi penciptaan dengan cara pemuliaan dan pemilihan, sebagaimana pada Adam 'alaihissalam. Para pendukung segi ini berhujah dengan beberapa segi.
 
-Pertama, firman Allah Ta'ala, *"Apa yang menghalangimu untuk bersujud kepada yang telah Aku ciptakan dengan kedua tangan-Ku?"*¹⁷² mengisyaratkan bahwa Allah Ta'ala menjadikan Adam tempat sujud para malaikat semata-mata karena Dia menciptakannya dengan kedua tangan-Nya. Seandainya tangan itu berarti kuasa, niscaya sebab (*ʿilla*) keadaan menjadi tempat sujud ini terdapat pada semua makhluk, sehingga hukum ini wajib berlaku pada semuanya. Karena hal itu tidak terjadi, kita tahu bahwa tangan adalah sifat selain kuasa.
+Pertama, firman Allah Ta'ala, *"Apa yang menghalangimu untuk bersujud kepada yang telah Aku ciptakan dengan kedua tangan-Ku?"* (Shad: 75) mengisyaratkan bahwa Allah Ta'ala menjadikan Adam tempat sujud para malaikat semata-mata karena Dia menciptakannya dengan kedua tangan-Nya. Seandainya tangan itu berarti kuasa, niscaya sebab (*ʿilla*) keadaan menjadi tempat sujud ini terdapat pada semua makhluk, sehingga hukum ini wajib berlaku pada semuanya. Karena hal itu tidak terjadi, kita tahu bahwa tangan adalah sifat selain kuasa.
 
 Kedua, kuasa Allah Ta'ala itu satu, sedangkan tangan disifati dengan bentuk dual.
 
-Ketiga, firman-Nya, *"yang telah Aku ciptakan dengan kedua tangan-Ku,"*¹⁷³ menunjukkan bahwa Adam dikhususkan dengan penciptaan (dengan kedua tangan), sedangkan pengkhususan dalam penyebutan menunjukkan penafian hukum itu dari selainnya. Maka wajiblah semua selain Adam 'alaihissalam tidak diciptakan dengan kedua tangan, padahal tidak diragukan bahwa mereka diciptakan dengan kuasa. Itu menuntut tangan merupakan sesuatu selain kuasa.
+Ketiga, firman-Nya, *"yang telah Aku ciptakan dengan kedua tangan-Ku"* (Shad: 75), menunjukkan bahwa Adam dikhususkan dengan penciptaan (dengan kedua tangan), sedangkan pengkhususan dalam penyebutan menunjukkan penafian hukum itu dari selainnya. Maka wajiblah semua selain Adam 'alaihissalam tidak diciptakan dengan kedua tangan, padahal tidak diragukan bahwa mereka diciptakan dengan kuasa. Itu menuntut tangan merupakan sesuatu selain kuasa.
 
 Pendapat kedua: tangan di sini adalah kuasa. Hal itu ditunjukkan oleh beberapa segi.
 
@@ -1666,9 +1533,9 @@ Kedua, kuasa Allah Ta'ala adalah sifat yang qadim dan wajib ada, sehingga ia waj
 
 Ketiga, menetapkan suatu sifat selain kuasa yang memberi pengaruh pada wujud Adam adalah sesuatu yang tidak ada dalil atas ketetapannya, sehingga tidak boleh ditetapkan, karena telah terjadi ijmak bahwa (menetapkan) suatu sifat di antara sifat-sifat Allah tanpa dalil tidak diperbolehkan.
 
-Adapun jawaban atas segi pertama yang mereka jadikan pegangan: seandainya penciptaan Adam dengan kedua tangan mengharuskan kelebihan pemilihan, niscaya penciptaan binatang dan hewan ternak dengan tangan-tangan (Allah) mengharuskan keunggulannya atas Adam dalam pemilihan ini, karena firman Allah Ta'ala tentang penciptaannya, *"di antara apa yang telah diciptakan oleh tangan-tangan Kami, yaitu hewan-hewan ternak, lalu mereka menguasainya."*¹⁷⁴ Kemudian kami katakan: mengapa tidak boleh makna firman Allah Ta'ala, *"yang telah Aku ciptakan dengan kedua tangan-Ku,"*¹⁷⁵ adalah penjelasan tentang besarnya perhatian Allah Ta'ala dalam mengadakan dan menjadikannya? Sebab, seseorang, apabila hendak bersungguh-sungguh dalam memperbaiki dan menyempurnakan suatu urusan penting, terkadang berkata, "Hal ini akan kukerjakan dengan tanganku sendiri." Sudah maklum bahwa penciptaan dengan perhatian semacam ini tidak terjadi pada selain Adam 'alaihissalam.
+Adapun jawaban atas segi pertama yang mereka jadikan pegangan: seandainya penciptaan Adam dengan kedua tangan mengharuskan kelebihan pemilihan, niscaya penciptaan binatang dan hewan ternak dengan tangan-tangan (Allah) mengharuskan keunggulannya atas Adam dalam pemilihan ini, karena firman Allah Ta'ala tentang penciptaannya, *"di antara apa yang telah diciptakan oleh tangan-tangan Kami, yaitu hewan-hewan ternak, lalu mereka menguasainya"* (Yasin: 71). Kemudian kami katakan: mengapa tidak boleh makna firman Allah Ta'ala, *"yang telah Aku ciptakan dengan kedua tangan-Ku"* (Shad: 75), adalah penjelasan tentang besarnya perhatian Allah Ta'ala dalam mengadakan dan menjadikannya? Sebab, seseorang, apabila hendak bersungguh-sungguh dalam memperbaiki dan menyempurnakan suatu urusan penting, terkadang berkata, "Hal ini akan kukerjakan dengan tanganku sendiri." Sudah maklum bahwa penciptaan dengan perhatian semacam ini tidak terjadi pada selain Adam 'alaihissalam.
 
-Jawaban atas pegangan mereka yang kedua: bentuk dual tidak menunjukkan adanya bilangan, dengan dalil firman Allah Ta'ala, *"di antara kedua tangan (sebelum) pembicaraan rahasiamu,"*¹⁷⁶ dan firman-Nya, *"di antara kedua tangan (menjelang kedatangan) rahmat-Nya."*¹⁷⁷
+Jawaban atas pegangan mereka yang kedua: bentuk dual tidak menunjukkan adanya bilangan, dengan dalil firman Allah Ta'ala, *"di antara kedua tangan (sebelum) pembicaraan rahasiamu"* (al-Mujadalah: 12), dan firman-Nya, *"di antara kedua tangan (menjelang kedatangan) rahmat-Nya"* (al-A'raf: 57).
 
 Jawaban atas pegangan mereka yang ketiga: pengkhususan dalam penyebutan di sini tidak menunjukkan penafian hukumnya dari selainnya, karena telah kami jelaskan bahwa penciptaan dengan kedua tangan berarti penciptaan yang dikhususkan dengan kelebihan kemuliaan dan penghormatan, dan himpunan ini tidak terdapat pada selain Adam.
 
@@ -1678,81 +1545,51 @@ Yang menunjukkan bahwa lafaz-lafaz ini wajib ditakwilkan ialah bahwa sabda belia
 
 Pertama, kita menyaksikan bahwa sedekah itu tidak jatuh kecuali ke tangan orang fakir. Maka perkataan bahwa ia jatuh ke tangan lain yang merupakan anggota tubuh yang terdiri atas bagian-bagian dan potongan-potongan, padahal kita tidak melihat dan tidak merasakannya, adalah peragu-raguan terhadap hal-hal yang niscaya.
 
-Kedua, ini menuntut tangan Allah menjadi wadah bagi sedekah-sedekah hamba, dan itu menyalahi makna lahiriah firman Allah Ta'ala, *"Padahal kedua tangan-Nya terbentang."*¹⁷⁸
+Kedua, ini menuntut tangan Allah menjadi wadah bagi sedekah-sedekah hamba, dan itu menyalahi makna lahiriah firman Allah Ta'ala, *"Padahal kedua tangan-Nya terbentang"* (al-Ma'idah: 64).
 
 Ketiga, itu menuntut tangan si pemberi berada di atas tangan Yang Disembah, sehingga ia dapat menjatuhkan sedekah ke kedua tangan ar-Rahman; dan itu bertentangan dengan makna lahiriah firman Allah Ta'ala, *"(Tangan Allah) di atas tangan-tangan mereka."*
 
 Keempat, itu menuntut Dia berada di atas Arasy sementara tangan-Nya di bumi, dan itu tidak dikatakan oleh seorang berakal pun. Maka tetaplah bahwa makna-makna lahiriah ini mesti ditakwilkan. Hanya kepada Allah kita memohon taufik.
 
-¹⁵⁸ CT: QS Shad [38]: 75.
+[^146]: CT: al-Bukhari, *at-Tauhid*, 19, 24, 37, *al-Anbiya'*, 3, *Tafsir as-Suwar*, 1, 2, 17, *ar-Riqaq*, 51; Muslim, *al-Iman*, 322, 327, *al-Qadar*, 15; at-Tirmidzi, *al-Qiyamah*, 10, *al-Qadar*, 2; Ibnu Majah, *az-Zuhd*, 37; Ahmad bin Hanbal, II/435.
 
-¹⁵⁹ CT: QS al-Ma'idah [5]: 64.
+[^147]: CT: al-Bukhari, *at-Tauhid*, 15, 20, 22, 55; Muslim, *at-Taubah*, 14, 16; Ibnu Majah, *az-Zuhd*, 35.
 
-¹⁶⁰ CT: al-Bukhari, *at-Tauhid*, 19, 24, 37, *al-Anbiya'*, 3, *Tafsir as-Suwar*, 1, 2, 17, *ar-Riqaq*, 51; Muslim, *al-Iman*, 322, 327, *al-Qadar*, 15; at-Tirmidzi, *al-Qiyamah*, 10, *al-Qadar*, 2; Ibnu Majah, *az-Zuhd*, 37; Ahmad bin Hanbal, II/435.
+[^148]: CT: Ahmad bin Hanbal, I/403, 446.
 
-¹⁶¹ CT: al-Bukhari, *at-Tauhid*, 15, 20, 22, 55; Muslim, *at-Taubah*, 14, 16; Ibnu Majah, *az-Zuhd*, 35.
+[^149]: CT: Muslim, *az-Zakah*, 63, 65; at-Tirmidzi, *Tafsir as-Suwar*, 2, 36; an-Nasa'i, *az-Zakah*, 48; Ibnu Majah, *az-Zakah*.
 
-¹⁶² CT: Ahmad bin Hanbal, I/403, 446.
+[^150]: CT: Sumber hadis ini tidak dapat ditemukan.
 
-¹⁶³ CT: Muslim, *az-Zakah*, 63, 65; at-Tirmidzi, *Tafsir as-Suwar*, 2, 36; an-Nasa'i, *az-Zakah*, 48; Ibnu Majah, *az-Zakah*.
+[^152]: CT: Muslim, *Shalat al-Musafirin*, 258; Abu Dawud, *al-Huruf*, 35; ad-Darimi, *Fadha'il al-Qur'an*, 14; Ahmad bin Hanbal, V/58, 142.
 
-¹⁶⁴ CT: Sumber hadis ini tidak dapat ditemukan.
-
-¹⁶⁵ CT: Muslim, *Shalat al-Musafirin*, 258; Abu Dawud, *al-Huruf*, 35; ad-Darimi, *Fadha'il al-Qur'an*, 14; Ahmad bin Hanbal, V/58, 142.
-
-¹⁶⁶ CT: Sumber hadis ini tidak dapat ditemukan.
-
-¹⁶⁷ CT: QS al-Mujadalah [58]: 12.
-
-¹⁶⁸ CT: QS al-A'raf [7]: 57; QS al-Furqan [25]: 48; QS an-Naml [27]: 63.
-
-¹⁶⁹ CT: QS al-Fath [48]: 10.
-
-¹⁷⁰ CT: QS al-Ma'idah [5]: 64.
-
-¹⁷¹ CT: QS al-Ma'idah [5]: 64.
-
-¹⁷² CT: QS Shad [38]: 75. (Edisi Turki tertulis 38/73.)
-
-¹⁷³ CT: QS Shad [38]: 75. (Edisi Turki tertulis 38/73.)
-
-¹⁷⁴ CT: QS Yasin [36]: 71.
-
-¹⁷⁵ CT: QS Shad [38]: 75.
-
-¹⁷⁶ CT: QS al-Mujadalah [58]: 12.
-
-¹⁷⁷ CT: QS al-A'raf [7]: 57.
-
-¹⁷⁸ CT: QS al-Ma'idah [5]: 64. (Edisi Turki tertulis al-A'raf 7/57.)
+[^153]: CT: Sumber hadis ini tidak dapat ditemukan.
 
 ### Pasal Ketujuh Belas: Tentang Penetapan "Genggaman" (*Qabḍa*)
 
 *(Tr. h. 156)*
 
-Lafaz ini datang dalam bentuk tunggal dalam hadis dan Al-Qur'an. Adapun Al-Qur'an, firman Allah Ta'ala, *"(Padahal) bumi seluruhnya dalam genggaman-Nya pada hari Kiamat."*¹⁷⁹ Adapun hadis-hadisnya banyak.
+Lafaz ini datang dalam bentuk tunggal dalam hadis dan Al-Qur'an. Adapun Al-Qur'an, firman Allah Ta'ala, *"(Padahal) bumi seluruhnya dalam genggaman-Nya pada hari Kiamat"* (az-Zumar: 67). Adapun hadis-hadisnya banyak.
 
-**Hadis pertama**: diriwayatkan oleh Ibnu Khuzaimah dalam kitabnya yang ia namai *at-Tauhid*, dari Abu Musa al-Asy'ari, bahwa Nabi shallallahu 'alaihi wasallam bersabda, *"Sesungguhnya Allah menciptakan Adam dari segenggam (tanah) yang Dia genggam dari seluruh bumi. Maka anak-anak Adam datang sesuai dengan (ragam) bumi: di antara mereka ada yang merah dan yang hitam, yang lunak dan yang keras, yang buruk dan yang baik."*¹⁸⁰
+**Hadis pertama**: diriwayatkan oleh Ibnu Khuzaimah dalam kitabnya yang ia namai *at-Tauhid*, dari Abu Musa al-Asy'ari, bahwa Nabi shallallahu 'alaihi wasallam bersabda, *"Sesungguhnya Allah menciptakan Adam dari segenggam (tanah) yang Dia genggam dari seluruh bumi. Maka anak-anak Adam datang sesuai dengan (ragam) bumi: di antara mereka ada yang merah dan yang hitam, yang lunak dan yang keras, yang buruk dan yang baik."*[^154]
 
-**Hadis kedua**: diriwayatkan oleh Ibnu Khuzaimah dalam kitabnya, dari Anas bin Malik, dari Nabi shallallahu 'alaihi wasallam, *"Sesungguhnya Allah menggenggam satu genggaman lalu berfirman, 'Ke surga, dengan rahmat-Ku,' dan menggenggam satu genggaman lalu berfirman, 'Ke neraka, dan Aku tidak peduli.'"*¹⁸¹
+**Hadis kedua**: diriwayatkan oleh Ibnu Khuzaimah dalam kitabnya, dari Anas bin Malik, dari Nabi shallallahu 'alaihi wasallam, *"Sesungguhnya Allah menggenggam satu genggaman lalu berfirman, 'Ke surga, dengan rahmat-Ku,' dan menggenggam satu genggaman lalu berfirman, 'Ke neraka, dan Aku tidak peduli.'"*[^155]
 
-**Hadis ketiga**: dari Abu Sa'id al-Khudri radhiyallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, tentang dua genggaman: *"Yang ini di surga, dan Aku tidak peduli; dan yang ini di neraka, dan Aku tidak peduli."*¹⁸²
+**Hadis ketiga**: dari Abu Sa'id al-Khudri radhiyallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, tentang dua genggaman: *"Yang ini di surga, dan Aku tidak peduli; dan yang ini di neraka, dan Aku tidak peduli."*[^156]
 
 Ketahuilah, makna lahiriah ayat itu menuntut bumi adalah genggaman-Nya, dan itu mustahil. Sebab, bumi memuat najis-najis; bagaimana mungkin seseorang berkata bahwa ia adalah genggaman Tuhan alam? Lagi pula, tanah adalah makhluk yang berasal dari bumi, sedangkan genggaman Sang Pencipta tidak mungkin makhluk. Lagi pula, bumi menerima perhimpunan dan perpisahan, pembangunan dan penghancuran, sedangkan genggaman Sang Pencipta tidak demikian. Maka takwil mesti dilakukan, yaitu dikatakan bahwa bumi berada di dalam genggaman-Nya. Hanya saja ungkapan ini, sebagaimana disebut dengan maksud jari-jari melingkupi sesuatu, terkadang pula disebut dengan maksud bahwa sesuatu berada dalam kuasa, pertolongan, dan kepemilikannya. Dikatakan, "Negeri ini berada dalam genggaman sultan," dan yang dimaksud adalah apa yang telah kami sebutkan. Adapun genggaman yang disebut dalam hadis, maksudnya Allah Ta'ala memisahkan dari tanah bumi sekadar satu genggaman. Ini majaz yang masyhur: dikatakan tentang sesuatu yang sedikit bahwa ia segenggam atau secakup, dan yang dimaksud adalah bahwa ukurannya sebanyak itu. Hanya kepada Allah kita memohon taufik.
 
-¹⁷⁹ CT: QS az-Zumar [39]: 67.
+[^154]: CT: Abu Dawud, *as-Sunnah*, 16; at-Tirmidzi, *Tafsir as-Suwar*, 1, 2; Ahmad bin Hanbal, IV/400, 406.
 
-¹⁸⁰ CT: Abu Dawud, *as-Sunnah*, 16; at-Tirmidzi, *Tafsir as-Suwar*, 1, 2; Ahmad bin Hanbal, IV/400, 406.
+[^155]: CT: Dari *Musnad* Abu Ya'la; al-Hindi, *Kanz al-'Ummal*, I/114, hadis no. 531.
 
-¹⁸¹ CT: Dari *Musnad* Abu Ya'la; al-Hindi, *Kanz al-'Ummal*, I/114, hadis no. 531.
-
-¹⁸² CT: Dari *Musnad* Abu Ya'la; al-Hindi, *Kanz al-'Ummal*, I/114, hadis no. 531.
+[^156]: CT: Dari *Musnad* Abu Ya'la; al-Hindi, *Kanz al-'Ummal*, I/114, hadis no. 531.
 
 ### Pasal Kedelapan Belas: Tentang Penetapan "Dua Tangan" (*Yadān*)
 
 *(Tr. h. 158)*
 
-Di antara yang mereka jadikan pegangan dalam menetapkan dua tangan bagi Allah 'Azza wa Jalla, mereka berhujah dengan Al-Qur'an dan hadis. Adapun Al-Qur'an, firman Allah Ta'ala, *"Apa yang menghalangimu untuk bersujud kepada yang telah Aku ciptakan dengan kedua tangan-Ku?"*¹⁸³ dan firman Allah Ta'ala, *"Padahal kedua tangan-Nya terbentang."*¹⁸⁴ Adapun hadis, riwayat Ibnu Khuzaimah dari Abu Hurairah, ia berkata: Rasulullah shallallahu 'alaihi wasallam bersabda, *"Ketika Adam diciptakan dan ditiupkan ruh ke dalamnya, ia bersin lalu berkata, 'Segala puji bagi Allah,' maka ia memuji Allah dengan izin Allah. Lalu Dia berfirman kepadanya, 'Semoga Tuhanmu merahmatimu, wahai Adam.' Kemudian Dia berfirman kepadanya, 'Wahai Adam, pergilah kepada para malaikat itu dan ucapkanlah: Assalamu'alaikum.' Ketika ia pergi dan mengucapkannya, mereka menjawab, 'Wa'alaikumussalam wa rahmatullah.' (Kemudian Allah berfirman kepadanya,) sementara kedua tangan-Nya tergenggam, 'Pilihlah mana yang engkau kehendaki.' Adam berkata, 'Aku memilih tangan kanan Tuhanku,' dan kedua tangan-Nya adalah kanan yang penuh berkah. Kemudian Dia membukanya, dan ternyata di dalamnya ada Adam dan keturunannya. Adam bertanya, 'Wahai Tuhanku, siapakah mereka ini?' Dia berfirman, 'Mereka adalah keturunanmu.' Dan ternyata setiap manusia tertulis umurnya di antara kedua matanya."*¹⁸⁵
+Di antara yang mereka jadikan pegangan dalam menetapkan dua tangan bagi Allah 'Azza wa Jalla, mereka berhujah dengan Al-Qur'an dan hadis. Adapun Al-Qur'an, firman Allah Ta'ala, *"Apa yang menghalangimu untuk bersujud kepada yang telah Aku ciptakan dengan kedua tangan-Ku?"* (Shad: 75) dan firman Allah Ta'ala, *"Padahal kedua tangan-Nya terbentang"* (al-Ma'idah: 64). Adapun hadis, riwayat Ibnu Khuzaimah dari Abu Hurairah, ia berkata: Rasulullah shallallahu 'alaihi wasallam bersabda, *"Ketika Adam diciptakan dan ditiupkan ruh ke dalamnya, ia bersin lalu berkata, 'Segala puji bagi Allah,' maka ia memuji Allah dengan izin Allah. Lalu Dia berfirman kepadanya, 'Semoga Tuhanmu merahmatimu, wahai Adam.' Kemudian Dia berfirman kepadanya, 'Wahai Adam, pergilah kepada para malaikat itu dan ucapkanlah: Assalamu'alaikum.' Ketika ia pergi dan mengucapkannya, mereka menjawab, 'Wa'alaikumussalam wa rahmatullah.' (Kemudian Allah berfirman kepadanya,) sementara kedua tangan-Nya tergenggam, 'Pilihlah mana yang engkau kehendaki.' Adam berkata, 'Aku memilih tangan kanan Tuhanku,' dan kedua tangan-Nya adalah kanan yang penuh berkah. Kemudian Dia membukanya, dan ternyata di dalamnya ada Adam dan keturunannya. Adam bertanya, 'Wahai Tuhanku, siapakah mereka ini?' Dia berfirman, 'Mereka adalah keturunanmu.' Dan ternyata setiap manusia tertulis umurnya di antara kedua matanya."*[^157]
 
 Ketahuilah, hadis ini panjang, dan maksud kita di sini hanyalah kadar ini. Engkau telah mengetahui bahwa lafaz tangan bagi Allah Ta'ala tidak mungkin dibawa kepada makna organ tubuh. Di sini ada segi-segi lain yang menunjukkannya.
 
@@ -1762,63 +1599,49 @@ Kedua, jika salah satu dari kedua tangan tidak memadai untuk bekerja, ia kurang;
 
 Ketiga, makna lahiriah hadis yang kami riwayatkan menunjukkan bahwa Dia bermain dengan Adam 'alaihissalam sebagaimana anak-anak bermain satu sama lain, sampai mereka menggenggam tangan mereka dalam permainan genap-ganjil; padahal anak-anak, apabila melakukan hal itu, dipukul dan dididik oleh guru mereka. Maka bagaimana hal itu dinisbahkan kepada Tuhan semesta alam dan Hakim yang paling bijaksana? Maka tetaplah bahwa hal itu wajib dibawa kepada makna kesigapan dalam penjagaan, pemeliharaan, dan besarnya perhatian. Hanya kepada Allah kita memohon taufik.
 
-¹⁸³ CT: QS Shad [38]: 75.
-
-¹⁸⁴ CT: QS al-Ma'idah [5]: 64.
-
-¹⁸⁵ CT: at-Tirmidzi, *at-Tafsir*, 2.
+[^157]: CT: at-Tirmidzi, *at-Tafsir*, 2.
 
 ### Pasal Kesembilan Belas: Tentang Penetapan "Tangan Kanan" (*Yamīn*)
 
 *(Tr. h. 159)*
 
-Tentang penetapan tangan kanan bagi Allah Ta'ala. Mereka berhujah dengan Al-Qur'an dan hadis. Adapun Al-Qur'an, firman Allah Ta'ala, *"dan langit digulung dengan tangan kanan-Nya,"*¹⁸⁶ dan firman-Nya, *"niscaya Kami pegang dia pada tangan kanannya."*¹⁸⁷ Adapun hadis-hadisnya banyak.
+Tentang penetapan tangan kanan bagi Allah Ta'ala. Mereka berhujah dengan Al-Qur'an dan hadis. Adapun Al-Qur'an, firman Allah Ta'ala, *"dan langit digulung dengan tangan kanan-Nya"* (az-Zumar: 67), dan firman-Nya, *"niscaya Kami pegang dia pada tangan kanannya"* (al-Haqqah: 45). Adapun hadis-hadisnya banyak.
 
-Pertama, sabda beliau 'alaihissalam, "Kedua tangan-Nya adalah kanan." Juga dari Abu Hurairah, ia berkata: Rasulullah shallallahu 'alaihi wasallam bersabda, *"Allah menggenggam bumi pada hari kiamat dan menggulung langit dengan tangan kanan-Nya, kemudian berfirman, 'Akulah Raja; di manakah raja-raja bumi?'"*¹⁸⁸
+Pertama, sabda beliau 'alaihissalam, "Kedua tangan-Nya adalah kanan." Juga dari Abu Hurairah, ia berkata: Rasulullah shallallahu 'alaihi wasallam bersabda, *"Allah menggenggam bumi pada hari kiamat dan menggulung langit dengan tangan kanan-Nya, kemudian berfirman, 'Akulah Raja; di manakah raja-raja bumi?'"*[^158]
 
-Kedua, penulis *Syarh as-Sunnah* meriwayatkan dalam bab iman kepada takdir, dari Umar bin al-Khaththab radhiyallahu 'anhu, ia berkata: aku mendengar Nabi shallallahu 'alaihi wasallam bersabda, *"Sesungguhnya Allah menciptakan Adam, kemudian mengusap punggungnya dengan tangan kanan-Nya, lalu mengeluarkan darinya keturunan, dan berfirman, 'Mereka ini Kuciptakan untuk surga, dan dengan amal penghuni surga mereka beramal.' Kemudian Dia mengusap punggungnya lalu mengeluarkan darinya keturunan, dan berfirman, 'Mereka ini Kuciptakan untuk neraka, dan dengan amal penghuni neraka mereka beramal.'"*¹⁸⁹
+Kedua, penulis *Syarh as-Sunnah* meriwayatkan dalam bab iman kepada takdir, dari Umar bin al-Khaththab radhiyallahu 'anhu, ia berkata: aku mendengar Nabi shallallahu 'alaihi wasallam bersabda, *"Sesungguhnya Allah menciptakan Adam, kemudian mengusap punggungnya dengan tangan kanan-Nya, lalu mengeluarkan darinya keturunan, dan berfirman, 'Mereka ini Kuciptakan untuk surga, dan dengan amal penghuni surga mereka beramal.' Kemudian Dia mengusap punggungnya lalu mengeluarkan darinya keturunan, dan berfirman, 'Mereka ini Kuciptakan untuk neraka, dan dengan amal penghuni neraka mereka beramal.'"*[^159]
 
-Ketiga, Ibnu Khuzaimah meriwayatkan dalam kitabnya dari Nabi shallallahu 'alaihi wasallam, beliau bersabda, *"Sesungguhnya salah seorang di antara kalian bersedekah dengan sebutir kurma dari hasil usaha yang baik, dan Allah tidak menerima kecuali yang baik, maka Dia meletakkannya di tangan kanan-Nya, kemudian memeliharanya sebagaimana salah seorang di antara kalian memelihara anak kuda atau anak untanya, hingga ia menjadi seperti (gunung) Uhud."*¹⁹⁰
+Ketiga, Ibnu Khuzaimah meriwayatkan dalam kitabnya dari Nabi shallallahu 'alaihi wasallam, beliau bersabda, *"Sesungguhnya salah seorang di antara kalian bersedekah dengan sebutir kurma dari hasil usaha yang baik, dan Allah tidak menerima kecuali yang baik, maka Dia meletakkannya di tangan kanan-Nya, kemudian memeliharanya sebagaimana salah seorang di antara kalian memelihara anak kuda atau anak untanya, hingga ia menjadi seperti (gunung) Uhud."*[^160]
 
 Ketahuilah, *yamīn* (tangan kanan) berarti kekuatan dan kuasa. Dalilnya: sisi kanan dinamai *yamīn* karena ia lebih kuat di antara kedua sisi, dan sumpah dinamai *yamīn* karena ia menguatkan tekad manusia untuk berbuat atau meninggalkan. Seorang penyair berkata:
 
 > *Apabila suatu panji diangkat demi kemuliaan, 'Arabah menyambutnya dengan tangan kanan.*
 
-Jika engkau telah mengetahui hal ini, tampaklah segi (makna) firman Allah Ta'ala, *"dan langit digulung dengan tangan kanan-Nya."*¹⁹¹ Adapun firman Allah Ta'ala, *"niscaya Kami pegang dia pada tangan kanannya,"*¹⁹² yang dimaksud adalah tangan kanan orang yang dipegang, yakni Kami pegang orang itu (pada tangan kanannya), sebagaimana dikatakan, "Aku memegang tangan kanan anak itu dan membawanya ke sekolah." Adapun jika yang dimaksud tangan kanan yang memegang, maka maksudnya adalah kekuatan dan kuasa. Jika engkau telah mengetahui hal itu dari ayat, ketahuilah pula hal serupa pada hadis-hadis.
+Jika engkau telah mengetahui hal ini, tampaklah segi (makna) firman Allah Ta'ala, *"dan langit digulung dengan tangan kanan-Nya"* (az-Zumar: 67). Adapun firman Allah Ta'ala, *"niscaya Kami pegang dia pada tangan kanannya"* (al-Haqqah: 45), yang dimaksud adalah tangan kanan orang yang dipegang, yakni Kami pegang orang itu (pada tangan kanannya), sebagaimana dikatakan, "Aku memegang tangan kanan anak itu dan membawanya ke sekolah." Adapun jika yang dimaksud tangan kanan yang memegang, maka maksudnya adalah kekuatan dan kuasa. Jika engkau telah mengetahui hal itu dari ayat, ketahuilah pula hal serupa pada hadis-hadis.
 
-¹⁸⁶ CT: QS az-Zumar [39]: 67.
+[^158]: CT: al-Bukhari, *Tafsir as-Suwar*, 2, 39, *ar-Riqaq*, 44, *at-Tauhid*, 2; Muslim, *Shifat al-Munafiqin*, 23; Ibnu Majah, *al-Muqaddimah*, 13; ad-Darimi, *ar-Riqaq*, 80; Ahmad bin Hanbal, II/347.
 
-¹⁸⁷ CT: QS al-Haqqah [69]: 45.
+[^159]: CT: Abu Dawud, *as-Sunnah*, 16; at-Tirmidzi, *Tafsir as-Suwar*, 2, 3, 7; *al-Muwaththa'*, *al-Qadar*, 2.
 
-¹⁸⁸ CT: al-Bukhari, *Tafsir as-Suwar*, 2, 39, *ar-Riqaq*, 44, *at-Tauhid*, 2; Muslim, *Shifat al-Munafiqin*, 23; Ibnu Majah, *al-Muqaddimah*, 13; ad-Darimi, *ar-Riqaq*, 80; Ahmad bin Hanbal, II/347.
-
-¹⁸⁹ CT: Abu Dawud, *as-Sunnah*, 16; at-Tirmidzi, *Tafsir as-Suwar*, 2, 3, 7; *al-Muwaththa'*, *al-Qadar*, 2.
-
-¹⁹⁰ CT: al-Bukhari, *at-Tauhid*, 23, *az-Zakah*, 8; Muslim, *az-Zakah*, 63; at-Tirmidzi, *az-Zakah*, 28; an-Nasa'i, *az-Zakah*, 27, 48; Ibnu Majah, *az-Zakah*, 28; *al-Muwaththa'*, *ash-Shadaqah*, 1.
-
-¹⁹¹ CT: QS az-Zumar [39]: 67.
-
-¹⁹² CT: QS al-Haqqah [69]: 45.
+[^160]: CT: al-Bukhari, *at-Tauhid*, 23, *az-Zakah*, 8; Muslim, *az-Zakah*, 63; at-Tirmidzi, *az-Zakah*, 28; an-Nasa'i, *az-Zakah*, 27, 48; Ibnu Majah, *az-Zakah*, 28; *al-Muwaththa'*, *ash-Shadaqah*, 1.
 
 ### Pasal Kedua Puluh: Tentang "Telapak Tangan" (*Kaff*)
 
 *(Tr. h. 161)*
 
-Lafaz ini tidak terdapat dalam Al-Qur'an, tetapi disebutkan dalam hadis. Ibnu Khuzaimah meriwayatkan dalam kitabnya yang ia namai *at-Tauhid*, dari Abu Hurairah, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Siapa yang bersedekah dengan suatu sedekah dari hasil usaha yang baik, dan Allah tidak menerima kecuali yang baik, dan tidak naik ke langit kecuali yang baik, maka sedekah itu jatuh ke telapak tangan ar-Rahman, lalu Dia memeliharanya sebagaimana salah seorang di antara kalian memelihara anak untanya, hingga sebutir kurma kembali menjadi seperti gunung yang besar."* Hadis ini diriwayatkan pula dengan riwayat lain dari Abu Hurairah, yang di dalamnya disebutkan, *"Sesungguhnya seseorang bersedekah dengan sesuap makanan, lalu sesuap itu tumbuh di tangan Allah Ta'ala,"* atau ia berkata, *"di telapak tangan Allah Ta'ala, hingga menjadi seperti gunung. Maka bersedekahlah."*¹⁹³
+Lafaz ini tidak terdapat dalam Al-Qur'an, tetapi disebutkan dalam hadis. Ibnu Khuzaimah meriwayatkan dalam kitabnya yang ia namai *at-Tauhid*, dari Abu Hurairah, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Siapa yang bersedekah dengan suatu sedekah dari hasil usaha yang baik, dan Allah tidak menerima kecuali yang baik, dan tidak naik ke langit kecuali yang baik, maka sedekah itu jatuh ke telapak tangan ar-Rahman, lalu Dia memeliharanya sebagaimana salah seorang di antara kalian memelihara anak untanya, hingga sebutir kurma kembali menjadi seperti gunung yang besar."* Hadis ini diriwayatkan pula dengan riwayat lain dari Abu Hurairah, yang di dalamnya disebutkan, *"Sesungguhnya seseorang bersedekah dengan sesuap makanan, lalu sesuap itu tumbuh di tangan Allah Ta'ala,"* atau ia berkata, *"di telapak tangan Allah Ta'ala, hingga menjadi seperti gunung. Maka bersedekahlah."*[^161]
 
 Ketahuilah, ini menunjukkan bahwa Abu Hurairah ragu apakah ia mendengar lafaz "tangan" atau lafaz "telapak tangan". Mungkin pula dikatakan bahwa ia mendengar keduanya dalam dua majelis yang berbeda. Ibnu Khuzaimah meriwayatkan di akhir bab ini dari Ibnu Hayyan bahwa ia mendengar Abu Hurairah menyebutkan hadis ini secara mauquf. Maka tetaplah bahwa hadis ini lemah jalurnya. Dengan pengandaian bahwa ia sahih, ia adalah kinayah bagi besarnya kepedulian terhadap perbuatan itu dan kuatnya perhatian kepadanya, sebagaimana telah dikemukakan hal serupa pada lafaz-lafaz lainnya. Hanya kepada Allah kita memohon taufik.
 
-¹⁹³ CT: Ahmad bin Hanbal, II/431.
+[^161]: CT: Ahmad bin Hanbal, II/431.
 
 ### Pasal Kedua Puluh Satu: Tentang "Lengan" (*Sāʿid*)
 
 *(Tr. h. 162)*
 
-Di akhir sebuah hadis panjang disebutkan, *"Lengan Allah lebih kuat daripada lenganmu."*¹⁹⁴ Penyeru kepada Allah, sang penulis, radhiyallahu 'anhu, berkata: jika hadis ini sahih, ia dibawa kepada makna kesempurnaan kuasa. Padanannya firman Allah Ta'ala, *"Sesungguhnya Allah, Dialah Pemberi rezeki, Pemilik kekuatan, lagi Sangat Kukuh."*¹⁹⁵
+Di akhir sebuah hadis panjang disebutkan, *"Lengan Allah lebih kuat daripada lenganmu."*[^162] Penyeru kepada Allah, sang penulis, radhiyallahu 'anhu, berkata: jika hadis ini sahih, ia dibawa kepada makna kesempurnaan kuasa. Padanannya firman Allah Ta'ala, *"Sesungguhnya Allah, Dialah Pemberi rezeki, Pemilik kekuatan, lagi Sangat Kukuh"* (adz-Dzariyat: 58).
 
-¹⁹⁴ CT: Ahmad bin Hanbal, III/473.
-
-¹⁹⁵ CT: QS adz-Dzariyat [51]: 58.
+[^162]: CT: Ahmad bin Hanbal, III/473.
 
 ### Pasal Kedua Puluh Dua: Tentang "Jari" (*Iṣbaʿ*)
 
@@ -1826,17 +1649,17 @@ Di akhir sebuah hadis panjang disebutkan, *"Lengan Allah lebih kuat daripada len
 
 Lafaz ini tidak disebut dalam Al-Qur'an, tetapi disebut dalam hadis.
 
-**Hadis pertama**: al-Qusyairi, yakni Muslim bin al-Hajjaj, meriwayatkan dari Anas bin Malik radhiyallahu 'anhu, ia berkata: Nabi shallallahu 'alaihi wasallam sering berdoa, *"Wahai Yang membolak-balikkan hati, teguhkanlah hatiku di atas agama-Mu."* Mereka bertanya, "Wahai Rasulullah, bukankah telah dikabarkan kepadamu ampunan atas apa yang engkau lakukan? Apakah engkau masih takut?" Beliau bersabda, *"Hati-hati itu berada di antara dua jari dari jari-jari Allah Ta'ala; Dia membolak-balikkannya sekehendak-Nya."*¹⁹⁶
+**Hadis pertama**: al-Qusyairi, yakni Muslim bin al-Hajjaj, meriwayatkan dari Anas bin Malik radhiyallahu 'anhu, ia berkata: Nabi shallallahu 'alaihi wasallam sering berdoa, *"Wahai Yang membolak-balikkan hati, teguhkanlah hatiku di atas agama-Mu."* Mereka bertanya, "Wahai Rasulullah, bukankah telah dikabarkan kepadamu ampunan atas apa yang engkau lakukan? Apakah engkau masih takut?" Beliau bersabda, *"Hati-hati itu berada di antara dua jari dari jari-jari Allah Ta'ala; Dia membolak-balikkannya sekehendak-Nya."*[^163]
 
-**Hadis kedua**: diriwayatkan oleh penulis *Syarh as-Sunnah* dalam bab firman Allah Ta'ala, *"Kami memalingkan hati dan penglihatan mereka,"*¹⁹⁷ bahwa Nabi shallallahu 'alaihi wasallam bersabda, *"Tidak ada satu hati pun kecuali berada di antara dua jari dari jari-jari Tuhan semesta alam; apabila Dia menghendaki, Dia menjaganya, dan apabila Dia menghendaki, Dia mengubah kilaunya bila ia terperdaya."* Perawi berkata: maka beliau shallallahu 'alaihi wasallam biasa berdoa, *"Wahai Yang membolak-balikkan hati, teguhkanlah hatiku di atas agama-Mu. Dan timbangan berada di tangan ar-Rahman; Dia mengangkat suatu kaum dan merendahkan kaum yang lain hingga hari kiamat."*¹⁹⁸
+**Hadis kedua**: diriwayatkan oleh penulis *Syarh as-Sunnah* dalam bab firman Allah Ta'ala, *"Kami memalingkan hati dan penglihatan mereka"* (al-An'am: 110), bahwa Nabi shallallahu 'alaihi wasallam bersabda, *"Tidak ada satu hati pun kecuali berada di antara dua jari dari jari-jari Tuhan semesta alam; apabila Dia menghendaki, Dia menjaganya, dan apabila Dia menghendaki, Dia mengubah kilaunya bila ia terperdaya."* Perawi berkata: maka beliau shallallahu 'alaihi wasallam biasa berdoa, *"Wahai Yang membolak-balikkan hati, teguhkanlah hatiku di atas agama-Mu. Dan timbangan berada di tangan ar-Rahman; Dia mengangkat suatu kaum dan merendahkan kaum yang lain hingga hari kiamat."*[^164]
 
-**Hadis ketiga**: diriwayatkan oleh Ibnu Khuzaimah dalam kitabnya, dari Alqamah, dari Abdullah bin Mas'ud radhiyallahu 'anhu, ia berkata, *"Seorang ahli kitab datang kepada Nabi shallallahu 'alaihi wasallam dan berkata, 'Wahai Abul Qasim, sudahkah sampai kepadamu bahwa Allah memikul seluruh makhluk di atas satu jari, langit dan bumi di atas satu jari, pepohonan di atas satu jari, dan tanah basah di atas satu jari?' Maka Nabi shallallahu 'alaihi wasallam tertawa hingga tampak gigi gerahamnya. Lalu Allah Ta'ala menurunkan, 'Mereka tidak mengagungkan Allah sebagaimana mestinya,'²⁰⁰ sampai akhir ayat."*¹⁹⁹ Kemudian Ibnu Khuzaimah menyebutkan hadis ini dengan riwayat lain dari Abdullah dengan sanad yang hasan, dan (dalam riwayat itu) disebutkan, *"Maka Nabi shallallahu 'alaihi wasallam tertawa karena heran dan membenarkannya."*
+**Hadis ketiga**: diriwayatkan oleh Ibnu Khuzaimah dalam kitabnya, dari Alqamah, dari Abdullah bin Mas'ud radhiyallahu 'anhu, ia berkata, *"Seorang ahli kitab datang kepada Nabi shallallahu 'alaihi wasallam dan berkata, 'Wahai Abul Qasim, sudahkah sampai kepadamu bahwa Allah memikul seluruh makhluk di atas satu jari, langit dan bumi di atas satu jari, pepohonan di atas satu jari, dan tanah basah di atas satu jari?' Maka Nabi shallallahu 'alaihi wasallam tertawa hingga tampak gigi gerahamnya. Lalu Allah Ta'ala menurunkan, 'Mereka tidak mengagungkan Allah sebagaimana mestinya' (al-An'am: 91), sampai akhir ayat."*[^165] Kemudian Ibnu Khuzaimah menyebutkan hadis ini dengan riwayat lain dari Abdullah dengan sanad yang hasan, dan (dalam riwayat itu) disebutkan, *"Maka Nabi shallallahu 'alaihi wasallam tertawa karena heran dan membenarkannya."*
 
 Ketahuilah, yang dimaksud dengan jari bukan anggota jasmani. Hal itu ditunjukkan oleh beberapa segi.
 
 Pertama, niscaya Allah Ta'ala memiliki dua jari untuk setiap hati, atau niscaya Allah memiliki dua jari yang terbilang dan keduanya berada di dalam perut setiap manusia, sehingga satu jisim berada di banyak tempat. Semua itu dangkal dan batil.
 
-Kedua, niscaya kedua jari-Nya berada di dalam rongga kita, padahal menurut kaum Mujassimah Allah Ta'ala berada di atas Arasy;²⁰¹ dan itu pun mustahil.
+Kedua, niscaya kedua jari-Nya berada di dalam rongga kita, padahal menurut kaum Mujassimah Allah Ta'ala berada di atas Arasy;[^166] dan itu pun mustahil.
 
 Ketiga, itu menuntut tidak sah bagi-Nya mengelola kecuali dengan jari-jari, dan itu adalah kelemahan dan kebutuhan, yang mustahil bagi Allah Ta'ala.
 
@@ -1846,37 +1669,29 @@ Jika engkau telah mengetahui pendahuluan ini, kami katakan: adapun hadis pertama
 
 Adapun hadis yang diriwayatkan Abdullah dari seorang Yahudi, pembahasannya dari dua segi.
 
-Segi pertama: perkataan ini bukan hujah. Mungkin Nabi shallallahu 'alaihi wasallam tertawa mendengar perkataan itu karena meremehkannya; sebab orang berakal, bila mendengar suatu perkataan, terkadang menertawakannya karena meremehkannya. Masih dapat dikatakan bahwa Abdullah menukil bahwa beliau shallallahu 'alaihi wasallam tertawa mendengar perkataannya sebagai pembenaran baginya. Namun kami katakan: ini berpegang pada dugaan semata, sehingga sama sekali bukan hujah. Kemudian, hal itu dilawan oleh riwayat dalam hadis bahwa beliau shallallahu 'alaihi wasallam ketika itu membaca firman Allah Ta'ala, *"Mereka tidak mengagungkan Allah sebagaimana mestinya,"*²⁰² dan ini mengisyaratkan bahwa beliau shallallahu 'alaihi wasallam mengingkari perkataannya.
+Segi pertama: perkataan ini bukan hujah. Mungkin Nabi shallallahu 'alaihi wasallam tertawa mendengar perkataan itu karena meremehkannya; sebab orang berakal, bila mendengar suatu perkataan, terkadang menertawakannya karena meremehkannya. Masih dapat dikatakan bahwa Abdullah menukil bahwa beliau shallallahu 'alaihi wasallam tertawa mendengar perkataannya sebagai pembenaran baginya. Namun kami katakan: ini berpegang pada dugaan semata, sehingga sama sekali bukan hujah. Kemudian, hal itu dilawan oleh riwayat dalam hadis bahwa beliau shallallahu 'alaihi wasallam ketika itu membaca firman Allah Ta'ala, *"Mereka tidak mengagungkan Allah sebagaimana mestinya"* (az-Zumar: 67), dan ini mengisyaratkan bahwa beliau shallallahu 'alaihi wasallam mengingkari perkataannya.
 
 Segi kedua: jika hadis ini sahih, ia dibawa kepada makna bahwa Allah Ta'ala berkuasa mengelola jisim-jisim yang agung ini dengan kuasa yang tidak dapat ditolak oleh penolak dan tidak dapat dilawan oleh penghalang. Sebab, telah kami jelaskan bahwa sesuatu yang dipegang manusia dengan jarinya dapat ia kelola dengan cara yang paling sempurna. Maka jari di sini untuk memperkenalkan kesempurnaan kuasa Allah Ta'ala dan berlakunya pengelolaan-Nya atas jisim-jisim yang agung ini. Padanannya adalah ucapan orang ketika menyifati suatu perbuatan sebagai mudah dan ringan, "Pekerjaan ini berada di telapak tangannya, bahkan di ujung jarinya," dan yang dimaksud adalah apa yang telah kami sebutkan. Hanya kepada Allah kita memohon taufik.
 
-¹⁹⁶ CT: at-Tirmidzi, *al-Qadar*, 7, *ad-Da'awat*, 89, 124; Ibnu Majah, *ad-Du'a'*, 2; Ahmad bin Hanbal, IV/182, 418, VI/91, 251; al-Bukhari, *at-Tauhid*, 11; Ahmad bin Hanbal, IV/182.
+[^163]: CT: at-Tirmidzi, *al-Qadar*, 7, *ad-Da'awat*, 89, 124; Ibnu Majah, *ad-Du'a'*, 2; Ahmad bin Hanbal, IV/182, 418, VI/91, 251; al-Bukhari, *at-Tauhid*, 11; Ahmad bin Hanbal, IV/182.
 
-¹⁹⁷ CT: QS al-An'am [6]: 110.
+[^164]: CT: Ibnu Majah, *al-Muqaddimah*, 13(2).
 
-¹⁹⁸ CT: Ibnu Majah, *al-Muqaddimah*, 13(2).
+[^165]: CT: al-Bukhari, *at-Tauhid*, 19, 26, 36; *Tafsir as-Suwar*, 2, 39; Muslim, *Shifat al-Munafiqin*, 19, 21; at-Tirmidzi, *Tafsir as-Suwar*, 3, 39.
 
-¹⁹⁹ CT: al-Bukhari, *at-Tauhid*, 19, 26, 36; *Tafsir as-Suwar*, 2, 39; Muslim, *Shifat al-Munafiqin*, 19, 21; at-Tirmidzi, *Tafsir as-Suwar*, 3, 39.
-
-²⁰⁰ CT: QS al-An'am [6]: 91.
-
-²⁰¹ CT: Para pendukung Mujassimah mendakwakan bahwa Allah Ta'ala berada di atas Arasy. Dakwaan ini batil. Sebab, seandainya Dia berada di atas Arasy, niscaya Dia jisim dan terbatas; jika demikian, niscaya Dia bagian dari alam; jika Dia bagian dari alam, niscaya Dia makhluk; dan jika Dia makhluk, tidak sah ketuhanan-Nya. Semua itu mustahil. Allah Ta'ala Mahatinggi dari hal itu setinggi-tingginya. Dia qadim dengan diri-Nya sendiri dan tidak membutuhkan apa pun. Dia mahasuci dari jisim, keterbatasan, dan keserupaan. (catatan penerjemah)
-
-²⁰² CT: QS az-Zumar [39]: 67.
+[^166]: CT: Para pendukung Mujassimah mendakwakan bahwa Allah Ta'ala berada di atas Arasy. Dakwaan ini batil. Sebab, seandainya Dia berada di atas Arasy, niscaya Dia jisim dan terbatas; jika demikian, niscaya Dia bagian dari alam; jika Dia bagian dari alam, niscaya Dia makhluk; dan jika Dia makhluk, tidak sah ketuhanan-Nya. Semua itu mustahil. Allah Ta'ala Mahatinggi dari hal itu setinggi-tingginya. Dia qadim dengan diri-Nya sendiri dan tidak membutuhkan apa pun. Dia mahasuci dari jisim, keterbatasan, dan keserupaan. (catatan penerjemah)
 
 ### Pasal Kedua Puluh Tiga: Tentang "Lambung" (*Janb*)
 
 *(Tr. h. 166)*
 
-Allah Ta'ala berfirman, *"Alangkah besar penyesalanku atas kelalaianku di sisi (janb) Allah."*²⁰³ Ketahuilah, yang dimaksud dengan *janb* di sini adalah wajah (arah tujuan). Sebab kebaikan majaz ini ialah bahwa sisi sesuatu dinamai *janb* karena sesuatu itu menjadi menjauhi (*mujānib*) yang lain. Maka orang yang melakukan suatu amal dengan ikhlas bagi Allah Ta'ala telah menjauhi, dalam amal itu, selain Allah; sehingga sah dikatakan bahwa amal itu berada "di sisi Allah". Metafora ini dikenal dan lazim dalam kebiasaan tutur. Hanya kepada Allah kita memohon taufik.
-
-²⁰³ CT: QS az-Zumar [39]: 56.
+Allah Ta'ala berfirman, *"Alangkah besar penyesalanku atas kelalaianku di sisi (janb) Allah"* (az-Zumar: 56). Ketahuilah, yang dimaksud dengan *janb* di sini adalah wajah (arah tujuan). Sebab kebaikan majaz ini ialah bahwa sisi sesuatu dinamai *janb* karena sesuatu itu menjadi menjauhi (*mujānib*) yang lain. Maka orang yang melakukan suatu amal dengan ikhlas bagi Allah Ta'ala telah menjauhi, dalam amal itu, selain Allah; sehingga sah dikatakan bahwa amal itu berada "di sisi Allah". Metafora ini dikenal dan lazim dalam kebiasaan tutur. Hanya kepada Allah kita memohon taufik.
 
 ### Pasal Kedua Puluh Empat: Tentang "Betis" (*Sāq*)
 
 *(Tr. h. 167)*
 
-Mereka berhujah dengan Al-Qur'an dan hadis tentang betis. Adapun Al-Qur'an, firman Allah Ta'ala, *"(Ingatlah) pada hari ketika betis disingkapkan dan mereka diseru untuk bersujud."*²⁰⁴ Adapun hadis, penulis *Syarh as-Sunnah* rahimahullah meriwayatkan tentang firman Allah Ta'ala, *"Sesungguhnya guncangan hari Kiamat itu adalah suatu (peristiwa) yang sangat besar,"*²⁰⁵ dari Abu Sa'id al-Khudri radhiyallahu 'anhu, bahwa ia berkata: aku mendengar Nabi shallallahu 'alaihi wasallam bersabda, *"Tuhan kita menyingkapkan betis-Nya, lalu bersujudlah kepada-Nya setiap mukmin laki-laki dan perempuan. Tinggallah orang yang dahulu di dunia bersujud karena riya dan ingin didengar; ia pergi hendak bersujud, tetapi punggungnya kembali menjadi satu lempeng."*²⁰⁶
+Mereka berhujah dengan Al-Qur'an dan hadis tentang betis. Adapun Al-Qur'an, firman Allah Ta'ala, *"(Ingatlah) pada hari ketika betis disingkapkan dan mereka diseru untuk bersujud"* (al-Qalam: 42). Adapun hadis, penulis *Syarh as-Sunnah* rahimahullah meriwayatkan tentang firman Allah Ta'ala, *"Sesungguhnya guncangan hari Kiamat itu adalah suatu (peristiwa) yang sangat besar"* (al-Hajj: 1), dari Abu Sa'id al-Khudri radhiyallahu 'anhu, bahwa ia berkata: aku mendengar Nabi shallallahu 'alaihi wasallam bersabda, *"Tuhan kita menyingkapkan betis-Nya, lalu bersujudlah kepada-Nya setiap mukmin laki-laki dan perempuan. Tinggallah orang yang dahulu di dunia bersujud karena riya dan ingin didengar; ia pergi hendak bersujud, tetapi punggungnya kembali menjadi satu lempeng."*[^167]
 
 Ketahuilah, mereka tidak memiliki hujah dalam ayat dan hadis ini. Hal itu ditunjukkan oleh beberapa segi.
 
@@ -1886,35 +1701,29 @@ Kedua, menetapkan satu betis bagi makhluk hidup adalah kekurangan, dan Allah Mah
 
 Ketiga, menyingkap betis hanya dilakukan untuk menjaga pakaian dari terkena kotoran sesuatu yang dihindari, dan Tuhan alam Mahaagung dari hal itu. Bahkan kami katakan: yang dimaksud dengan betis adalah dahsyatnya kengerian hari kiamat. Dikatakan, "Perang telah tegak di atas betisnya," yakni pada puncak kedahsyatannya. Maka firman-Nya, "betis disingkapkan," berarti kedahsyatan kiamat, kengerian-kengeriannya, dan ragam azabnya. Dia menyandarkannya kepada diri-Nya karena itu adalah kedahsyatan yang tidak dapat dilakukan kecuali oleh Allah Ta'ala.
 
-²⁰⁴ CT: QS al-Qalam [68]: 42.
-
-²⁰⁵ CT: QS al-Hajj [22]: 1.
-
-²⁰⁶ CT: al-Bukhari, *at-Tauhid*, 24, *Tafsir as-Suwar*, 2, 68; Muslim, *al-Iman*, 302; ad-Darimi, *ar-Riqaq*, 83; Ahmad bin Hanbal, III/17.
+[^167]: CT: al-Bukhari, *at-Tauhid*, 24, *Tafsir as-Suwar*, 2, 68; Muslim, *al-Iman*, 302; ad-Darimi, *ar-Riqaq*, 83; Ahmad bin Hanbal, III/17.
 
 ### Pasal Kedua Puluh Lima: Tentang "Kaki" (*Rijl*) dan "Telapak Kaki" (*Qadam*)
 
 *(Tr. h. 168)*
 
-Adapun kaki, penulis *Syarh as-Sunnah* rahimahullah meriwayatkan di akhir kitabnya dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wasallam bersabda, *"Surga dan neraka berbantah-bantahan. Neraka berkata, 'Aku diistimewakan dengan orang-orang yang sombong dan sewenang-wenang.' Surga berkata, 'Mengapa yang memasukiku hanya orang-orang lemah dan rendahan dari kaum muslim?' Allah Ta'ala berfirman kepada surga, 'Engkau hanyalah rahmat-Ku; dengan engkau Aku merahmati siapa yang Kukehendaki dari hamba-hamba-Ku.' Dan Dia berfirman kepada neraka, 'Engkau hanyalah azab-Ku; dengan engkau Aku mengazab siapa yang Kukehendaki dari hamba-hamba-Ku. Masing-masing dari kalian berdua akan dipenuhi.' Adapun neraka, ia tidak akan penuh hingga Allah Ta'ala meletakkan kaki-Nya di dalamnya, lalu ia berkata, 'Cukup, cukup.' Ketika itu sebagiannya mengerut ke sebagian yang lain, dan Allah tidak menzalimi seorang pun dari makhluk-Nya. Adapun surga, Allah akan menciptakan makhluk (baru) untuknya."* Penulis *Syarh as-Sunnah* rahimahullah berkata: hadis ini disepakati kesahihannya, dikeluarkan oleh dua syekh.²⁰⁷
+Adapun kaki, penulis *Syarh as-Sunnah* rahimahullah meriwayatkan di akhir kitabnya dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wasallam bersabda, *"Surga dan neraka berbantah-bantahan. Neraka berkata, 'Aku diistimewakan dengan orang-orang yang sombong dan sewenang-wenang.' Surga berkata, 'Mengapa yang memasukiku hanya orang-orang lemah dan rendahan dari kaum muslim?' Allah Ta'ala berfirman kepada surga, 'Engkau hanyalah rahmat-Ku; dengan engkau Aku merahmati siapa yang Kukehendaki dari hamba-hamba-Ku.' Dan Dia berfirman kepada neraka, 'Engkau hanyalah azab-Ku; dengan engkau Aku mengazab siapa yang Kukehendaki dari hamba-hamba-Ku. Masing-masing dari kalian berdua akan dipenuhi.' Adapun neraka, ia tidak akan penuh hingga Allah Ta'ala meletakkan kaki-Nya di dalamnya, lalu ia berkata, 'Cukup, cukup.' Ketika itu sebagiannya mengerut ke sebagian yang lain, dan Allah tidak menzalimi seorang pun dari makhluk-Nya. Adapun surga, Allah akan menciptakan makhluk (baru) untuknya."* Penulis *Syarh as-Sunnah* rahimahullah berkata: hadis ini disepakati kesahihannya, dikeluarkan oleh dua syekh.[^168]
 
-Adapun telapak kaki, penulis kitab ini meriwayatkan dari Anas radhiyallahu ta'ala 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wasallam bersabda, *"Jahanam senantiasa berkata, 'Apakah masih ada tambahan?'²⁰⁸ hingga Tuhan Yang Mahaperkasa meletakkan telapak kaki-Nya di dalamnya, lalu ia berkata, 'Cukup, demi keperkasaan-Mu,' dan sebagiannya mengerut ke sebagian yang lain. Di surga senantiasa ada ruang lebih, hingga Allah Ta'ala menciptakan makhluk (baru) lalu menempatkan mereka di ruang lebih surga itu."*²⁰⁹ Penulis *Syarh as-Sunnah* berkata: hadis ini disepakati kesahihannya, dikeluarkan oleh dua syekh.ᵃ
+Adapun telapak kaki, penulis kitab ini meriwayatkan dari Anas radhiyallahu ta'ala 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wasallam bersabda, *"Jahanam senantiasa berkata, 'Apakah masih ada tambahan?' (Qaf: 30) hingga Tuhan Yang Mahaperkasa meletakkan telapak kaki-Nya di dalamnya, lalu ia berkata, 'Cukup, demi keperkasaan-Mu,' dan sebagiannya mengerut ke sebagian yang lain. Di surga senantiasa ada ruang lebih, hingga Allah Ta'ala menciptakan makhluk (baru) lalu menempatkan mereka di ruang lebih surga itu."*[^169] Penulis *Syarh as-Sunnah* berkata: hadis ini disepakati kesahihannya, dikeluarkan oleh dua syekh.[^170]
 
-²⁰⁷ CT: al-Bukhari, *Tafsir as-Suwar*, 1, 50; Muslim, *al-Jannah*, 24-26; at-Tirmidzi, *al-Jannah*, 22; Ahmad bin Hanbal, II/314.
+[^168]: CT: al-Bukhari, *Tafsir as-Suwar*, 1, 50; Muslim, *al-Jannah*, 24-26; at-Tirmidzi, *al-Jannah*, 22; Ahmad bin Hanbal, II/314.
 
-²⁰⁸ CT: QS Qaf [50]: 30.
+[^169]: CT: Muslim, *al-Jannah*, 38; Ahmad bin Hanbal, III/134, 141, 234.
 
-²⁰⁹ CT: Muslim, *al-Jannah*, 38; Ahmad bin Hanbal, III/134, 141, 234.
-
-ᵃ CP: Dalam kedua naskah, pasal ini berakhir dengan periwayatan hadis tanpa takwil tersendiri; takwilnya dapat dirujuk pada kaidah umum yang dijelaskan dalam pasal-pasal sebelumnya.
+[^170]: CP: Dalam kedua naskah, pasal ini berakhir dengan periwayatan hadis tanpa takwil tersendiri; takwilnya dapat dirujuk pada kaidah umum yang dijelaskan dalam pasal-pasal sebelumnya.
 
 ### Pasal Kedua Puluh Enam: Tentang "Tertawa" (*Ḍaḥik*)
 
 *(Tr. h. 169)*
 
-Sifat ini tidak terdapat dalam Al-Qur'an, tetapi terdapat dalam hadis. Penulis *Syarh as-Sunnah* rahimahullah meriwayatkan dalam bab orang yang terakhir keluar dari neraka, dari Ibnu Mas'ud radhiyallahu 'anhu, sebuah hadis panjang tentang sifat orang yang dikeluarkan Allah dari neraka dengan karunia-Nya. Beliau bersabda, *"Lalu ia mendengar suara-suara penghuni surga dan berkata, 'Wahai Tuhanku, masukkanlah aku ke dalamnya.' Allah berfirman, 'Wahai anak Adam, apakah engkau rela bila Aku memberimu dunia dan yang semisal dengannya?' Ia berkata, 'Wahai Tuhanku, apakah Engkau memperolok-olokku, padahal Engkau Tuhan semesta alam?'"* Ibnu Mas'ud tertawa lalu berkata, "Tidakkah kalian bertanya kepadaku mengapa aku tertawa?" Mereka bertanya, "Mengapa engkau tertawa?" Ia berkata, "Di sini Rasulullah shallallahu 'alaihi wasallam tertawa." Mereka bertanya, "Mengapa Rasulullah shallallahu 'alaihi wasallam tertawa?" Ia menjawab, *"Karena tawa Tuhan semesta alam. Lalu Allah berfirman, 'Sesungguhnya Aku tidak memperolok-olokmu, dan Aku Mahakuasa atas apa yang Kukehendaki.'"*²¹⁰
+Sifat ini tidak terdapat dalam Al-Qur'an, tetapi terdapat dalam hadis. Penulis *Syarh as-Sunnah* rahimahullah meriwayatkan dalam bab orang yang terakhir keluar dari neraka, dari Ibnu Mas'ud radhiyallahu 'anhu, sebuah hadis panjang tentang sifat orang yang dikeluarkan Allah dari neraka dengan karunia-Nya. Beliau bersabda, *"Lalu ia mendengar suara-suara penghuni surga dan berkata, 'Wahai Tuhanku, masukkanlah aku ke dalamnya.' Allah berfirman, 'Wahai anak Adam, apakah engkau rela bila Aku memberimu dunia dan yang semisal dengannya?' Ia berkata, 'Wahai Tuhanku, apakah Engkau memperolok-olokku, padahal Engkau Tuhan semesta alam?'"* Ibnu Mas'ud tertawa lalu berkata, "Tidakkah kalian bertanya kepadaku mengapa aku tertawa?" Mereka bertanya, "Mengapa engkau tertawa?" Ia berkata, "Di sini Rasulullah shallallahu 'alaihi wasallam tertawa." Mereka bertanya, "Mengapa Rasulullah shallallahu 'alaihi wasallam tertawa?" Ia menjawab, *"Karena tawa Tuhan semesta alam. Lalu Allah berfirman, 'Sesungguhnya Aku tidak memperolok-olokmu, dan Aku Mahakuasa atas apa yang Kukehendaki.'"*[^171]
 
-Ia juga menyebutkan di awal bab ini sebuah hadis panjang dari Abu Hurairah radhiyallahu 'anhu, sampai pada sabdanya, *"Kemudian ia berkata, 'Wahai Tuhanku, masukkanlah aku ke surga.' Allah berfirman, 'Bukankah engkau telah mengaku tidak akan meminta kepada-Ku selain itu? Celakalah engkau, wahai anak Adam, alangkah ingkar janjinya engkau!' Ia berkata, 'Wahai Tuhanku, janganlah Engkau jadikan aku makhluk-Mu yang paling celaka.' Ia terus berdoa hingga Dia tertawa. Apabila Dia telah tertawa karenanya, Allah mengizinkannya masuk surga."*²¹¹
+Ia juga menyebutkan di awal bab ini sebuah hadis panjang dari Abu Hurairah radhiyallahu 'anhu, sampai pada sabdanya, *"Kemudian ia berkata, 'Wahai Tuhanku, masukkanlah aku ke surga.' Allah berfirman, 'Bukankah engkau telah mengaku tidak akan meminta kepada-Ku selain itu? Celakalah engkau, wahai anak Adam, alangkah ingkar janjinya engkau!' Ia berkata, 'Wahai Tuhanku, janganlah Engkau jadikan aku makhluk-Mu yang paling celaka.' Ia terus berdoa hingga Dia tertawa. Apabila Dia telah tertawa karenanya, Allah mengizinkannya masuk surga."*[^172]
 
 Ketahuilah, tertawa dalam arti hakikinya mustahil bagi Allah Ta'ala. Hal itu ditunjukkan oleh beberapa segi.
 
@@ -1932,39 +1741,39 @@ Pertama, sebagaimana masdar baik disandarkan kepada objeknya, baik pula disandar
 
 Kedua, yang dimaksud adalah: seandainya Allah Ta'ala termasuk yang tertawa seperti para raja, perkataan ini tentu membuat-Nya tertawa.
 
-Ketiga, tertawa dibawa kepada makna terjadinya keridaan dan izin. Ini jenis metafora (*istiʿāra*, استعارة) yang masyhur.
+Ketiga, tertawa dibawa kepada makna terjadinya keridaan dan izin. Ini jenis metafora (*istiʿāra*, استعارة)[^173] yang masyhur.
+
+[^173]: **Metafora** (*istiʿāra*; Ing. *metaphor*). Secara bahasa, *istiʿāra* berarti meminjam. Menurut fukaha dan ahli usul, *istiʿāra* searti dengan majaz secara mutlak; dalam istilah ahli bayan, ia adalah salah satu jenis majaz, yakni majaz yang hubungannya berupa keserupaan. (*Kashshāf*, s.v. *al-istiʿāra*.)
 
 Adapun hadis Abu Hurairah radhiyallahu 'anhu, yaitu, "Hamba itu berkata, 'Janganlah Engkau jadikan aku makhluk-Mu yang paling celaka,' lalu Allah tertawa (*yaḍḥaku*) karenanya," boleh jadi telah terjadi kekeliruan dalam harakat, dan yang benar adalah *fa-yuḍḥiku Allāhu minhu*, yakni Allah membuat para malaikat tertawa karena perkataan itu. Yang menunjukkan bahwa apa yang kami sebutkan ini mungkin ialah bahwa Abu Hurairah dan Abu Sa'id al-Khudri radhiyallahu 'anhuma berselisih tentang kadar pemberian kepada orang itu. Abu Sa'id berkata, "Allah memberinya apa yang ia minta dan sepuluh kali lipatnya," sedangkan Abu Hurairah berkata, "Allah memberinya itu dan yang semisal dengannya bersamanya." Perselisihan keduanya dalam hadis ini disebutkan dalam semua kitab hadis. Karena bagian hadis ini tidak terjaga dengan cermat, boleh jadi pula harakat itu tidak terjaga dengan cermat. Hanya kepada Allah kita memohon taufik.
 
-²¹⁰ CT: Muslim, *al-Iman*, 310; Ahmad bin Hanbal, I/392, 411.
+[^171]: CT: Muslim, *al-Iman*, 310; Ahmad bin Hanbal, I/392, 411.
 
-²¹¹ CT: Ahmad bin Hanbal, II/276, 534.
+[^172]: CT: Ahmad bin Hanbal, II/276, 534.
 
 ### Pasal Kedua Puluh Tujuh: Tentang "Gembira" (*Faraḥ*)
 
 *(Tr. h. 171)*
 
-Dari an-Nu'man bin Basyir radhiyallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Allah lebih gembira dengan tobat hamba-Nya daripada seorang hamba yang kehilangan hewan tunggangannya di tanah gersang pada hari yang sangat terik, sementara di atas tunggangan itu ada bekal makanan dan minumannya. Ketika tunggangannya hilang, ia yakin akan binasa; lalu ketika menemukannya, ia bergembira karenanya. Maka Allah lebih gembira dengan tobat hamba-Nya daripada hamba ini."*²¹² Beliau shallallahu 'alaihi wasallam juga bersabda, *"Tidaklah seseorang mendatangi masjid-masjid untuk salat dan zikir kecuali Allah Ta'ala menyambutnya dengan gembira, sebagaimana keluarga orang yang bepergian menyambut gembira orang mereka yang bepergian apabila ia datang kepada mereka."*²¹³
+Dari an-Nu'man bin Basyir radhiyallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Allah lebih gembira dengan tobat hamba-Nya daripada seorang hamba yang kehilangan hewan tunggangannya di tanah gersang pada hari yang sangat terik, sementara di atas tunggangan itu ada bekal makanan dan minumannya. Ketika tunggangannya hilang, ia yakin akan binasa; lalu ketika menemukannya, ia bergembira karenanya. Maka Allah lebih gembira dengan tobat hamba-Nya daripada hamba ini."*[^174] Beliau shallallahu 'alaihi wasallam juga bersabda, *"Tidaklah seseorang mendatangi masjid-masjid untuk salat dan zikir kecuali Allah Ta'ala menyambutnya dengan gembira, sebagaimana keluarga orang yang bepergian menyambut gembira orang mereka yang bepergian apabila ia datang kepada mereka."*[^175]
 
 Takwilnya: orang yang rida terhadap sesuatu bergembira dengannya, maka rida dinamai gembira. Inilah pembahasan tentang sambutan gembira (*bashāsha*).
 
-Termasuk dalam bab ini sabda beliau shallallahu 'alaihi wasallam, *"Tuhan kalian heran terhadap seorang pemuda yang tidak memiliki kecenderungan (kepada hawa nafsu)."* Dalam hadis lain, *"Tuhan kalian heran terhadap tiga golongan: kaum yang berbaris dalam salat, kaum yang salat (di tengah) memerangi kaum musyrik, dan seseorang yang bangun untuk salat di tengah malam."*²¹⁴ Dan beliau membaca, *"Bahkan Aku heran, sedangkan mereka memperolok-olok,"*²¹⁵ dengan harakat damah pada *tāʾ* (*ʿajibtu*). Hal itu menunjukkan tetapnya makna ini bagi Allah Ta'ala.
+Termasuk dalam bab ini sabda beliau shallallahu 'alaihi wasallam, *"Tuhan kalian heran terhadap seorang pemuda yang tidak memiliki kecenderungan (kepada hawa nafsu)."* Dalam hadis lain, *"Tuhan kalian heran terhadap tiga golongan: kaum yang berbaris dalam salat, kaum yang salat (di tengah) memerangi kaum musyrik, dan seseorang yang bangun untuk salat di tengah malam."*[^176] Dan beliau membaca, *"Bahkan Aku heran, sedangkan mereka memperolok-olok"* (ash-Shaffat: 12), dengan harakat damah pada *tāʾ* (*ʿajibtu*). Hal itu menunjukkan tetapnya makna ini bagi Allah Ta'ala.
 
 Ketahuilah, takwilnya ialah bahwa keheranan adalah keadaan yang terjadi ketika sesuatu dianggap besar. Maka, apabila Allah Ta'ala membesarkan suatu perbuatan, baik dalam banyaknya pahala maupun banyaknya siksa, boleh dipakai lafaz keheranan untuknya. Hanya kepada Allah kita memohon taufik.
 
-²¹² CT: al-Bukhari, *ad-Da'awat*, 3; Muslim, *at-Taubah*, 1-8; at-Tirmidzi, *al-Qiyamah*, 49, *ad-Da'awat*, 98; Ibnu Majah, *az-Zuhd*, 30; ad-Darimi, *ar-Riqaq*, 19.
+[^174]: CT: al-Bukhari, *ad-Da'awat*, 3; Muslim, *at-Taubah*, 1-8; at-Tirmidzi, *al-Qiyamah*, 49, *ad-Da'awat*, 98; Ibnu Majah, *az-Zuhd*, 30; ad-Darimi, *ar-Riqaq*, 19.
 
-²¹³ CT: Ibnu Majah, *al-Masajid*, 19; Ahmad bin Hanbal, II/307, 328, 340, 453.
+[^175]: CT: Ibnu Majah, *al-Masajid*, 19; Ahmad bin Hanbal, II/307, 328, 340, 453.
 
-²¹⁴ CT: Ahmad bin Hanbal, IV/151.
-
-²¹⁵ CT: QS ash-Shaffat [37]: 12.
+[^176]: CT: Ahmad bin Hanbal, IV/151.
 
 ### Pasal Kedua Puluh Delapan: Tentang "Malu" (*Ḥayāʾ*)
 
 *(Tr. h. 172)*
 
-Allah Ta'ala berfirman, *"Sesungguhnya Allah tidak malu membuat perumpamaan apa pun."*²¹⁶ Salman radhiyallahu 'anhu meriwayatkan dari Rasulullah shallallahu 'alaihi wasallam, *"Sesungguhnya Allah Mahapemalu lagi Mahamulia; Dia malu, apabila seorang hamba mengangkat kedua tangannya kepada-Nya, untuk mengembalikan keduanya dalam keadaan hampa, hingga Dia meletakkan kebaikan pada keduanya."*²¹⁷
+Allah Ta'ala berfirman, *"Sesungguhnya Allah tidak malu membuat perumpamaan apa pun"* (al-Baqarah: 26). Salman radhiyallahu 'anhu meriwayatkan dari Rasulullah shallallahu 'alaihi wasallam, *"Sesungguhnya Allah Mahapemalu lagi Mahamulia; Dia malu, apabila seorang hamba mengangkat kedua tangannya kepada-Nya, untuk mengembalikan keduanya dalam keadaan hampa, hingga Dia meletakkan kebaikan pada keduanya."*[^177]
 
 Ketahuilah, malu adalah perubahan dan kekalahan jiwa yang menimpa manusia karena takut akan sesuatu yang karenanya ia akan dicela dan dinista. Kata ini diturunkan dari *ḥayāt* (hidup). Dikatakan *ḥayiya al-rajulu*, sebagaimana dikatakan *nasiya* (sakit urat nasanya), *ḥashiya* (sakit perutnya), dan *shaẓiya al-farasu* (kuda itu sakit tulang keringnya), apabila anggota-anggota itu terkena sakit. Orang yang dihinggapi kekalahan jiwa dan perubahan itu dijadikan seakan-akan kekuatannya merosot dan hidupnya berkurang. Karena itu dikatakan, "Si Fulan binasa karena malu terhadap hal itu," "Aku melihat kebinasaan di wajahnya karena sangat malunya," dan "Ia meleleh karena malu."
 
@@ -1972,23 +1781,11 @@ Jika ini telah tetap, kami katakan: sifat ini mesti ditakwilkan, dan dalam hal i
 
 Pertama, kaidah umum (*al-qānūn al-kullī*, القانون الكلي) dalam sifat-sifat semacam ini ialah bahwa setiap sifat yang tetap bagi hamba dan termasuk kekhususan jisim, apabila Allah Ta'ala disifati dengannya, dibawa kepada ujung akhir (*nihāyāt*) dari keadaan-keadaan itu, bukan kepada permulaan-permulaannya (*bidāyāt*). Contohnya: malu adalah keadaan yang terjadi pada manusia, dan ia memiliki permulaan dan akhir. Permulaannya adalah perubahan jasmani yang menimpa manusia karena takut dinisbahkan kepada perbuatan buruk; sedangkan akhirnya adalah bahwa manusia meninggalkan perbuatan itu. Maka, apabila malu disebut bagi Allah Ta'ala, yang dimaksud bukanlah keadaan awal yang merupakan permulaan dan pendahuluan malu itu, melainkan meninggalkan perbuatan, yang merupakan akhir dan tujuannya. Demikian pula marah: ia memiliki permulaan, yaitu mendidihnya darah hati dan hasrat untuk membalas, dan memiliki tujuan akhir, yaitu menimpakan hukuman kepada yang dimarahi. Maka, apabila kita menyifati Allah Ta'ala dengan marah, yang dimaksud bukanlah permulaan itu, yakni mendidihnya darah hati dan hasrat untuk membalas, melainkan akhirnya, yaitu penimpaan hukuman. Inilah kaidahnya.
 
-Kedua, apa yang tidak boleh bagi Allah dari jenis sifat-sifat ini, apakah boleh disebutkan dengan cara menafikannya dari Allah Ta'ala? Sebagian berkata: tidak boleh memakai lafaz-lafaz ini bahkan dengan cara menafikan; yang wajib dikatakan adalah bahwa Allah Ta'ala tidak disifati (dengannya). Adapun mengatakan secara mutlak "Dia tidak malu" itu mustahil (tidak dibenarkan), sebab memberi kesan penafian sesuatu yang boleh bagi-Nya. Adapun apa yang disebutkan Allah Ta'ala dalam Kitab-Nya, seperti firman-Nya, *"Dia tidak dilanda oleh kantuk dan tidak (pula) oleh tidur,"*²¹⁸ dan *"Dia tidak beranak dan tidak pula diperanakkan,"*²¹⁹ meskipun berbentuk penafian, hakikatnya tidak demikian; yang dimaksud adalah penafian sahnya penyifatan itu. Demikian pula firman-Nya, *"Tidak layak bagi Allah mempunyai anak,"*²²⁰ firman-Nya, *"Allah tidak mempunyai anak,"*²²¹ dan firman-Nya, *"Dia memberi makan dan tidak diberi makan."*²²² Tidak setiap yang dipakai secara mutlak dalam Al-Qur'an boleh dipakai secara mutlak dalam percakapan; yang benar, hal itu tidak boleh dipakai kecuali disertai penjelasan bahwa ia mustahil dan terlarang bagi Allah Ta'ala.
+Kedua, apa yang tidak boleh bagi Allah dari jenis sifat-sifat ini, apakah boleh disebutkan dengan cara menafikannya dari Allah Ta'ala? Sebagian berkata: tidak boleh memakai lafaz-lafaz ini bahkan dengan cara menafikan; yang wajib dikatakan adalah bahwa Allah Ta'ala tidak disifati (dengannya). Adapun mengatakan secara mutlak "Dia tidak malu" itu mustahil (tidak dibenarkan), sebab memberi kesan penafian sesuatu yang boleh bagi-Nya. Adapun apa yang disebutkan Allah Ta'ala dalam Kitab-Nya, seperti firman-Nya, *"Dia tidak dilanda oleh kantuk dan tidak (pula) oleh tidur"* (al-Baqarah: 255), dan *"Dia tidak beranak dan tidak pula diperanakkan"* (al-Ikhlas: 3), meskipun berbentuk penafian, hakikatnya tidak demikian; yang dimaksud adalah penafian sahnya penyifatan itu. Demikian pula firman-Nya, *"Tidak layak bagi Allah mempunyai anak"* (Maryam: 35), firman-Nya, *"Allah tidak mempunyai anak"* (al-Mu'minun: 91), dan firman-Nya, *"Dia memberi makan dan tidak diberi makan"* (al-An'am: 14). Tidak setiap yang dipakai secara mutlak dalam Al-Qur'an boleh dipakai secara mutlak dalam percakapan; yang benar, hal itu tidak boleh dipakai kecuali disertai penjelasan bahwa ia mustahil dan terlarang bagi Allah Ta'ala.
 
 Yang lain berkata: tidak mengapa memakai penafian ini secara mutlak, sebab sifat-sifat ini memang tertiadakan dari Allah Ta'ala, sehingga pemberitaan tentang ketiadaannya adalah benar, maka penafian itu wajib dibolehkan. Terkadang dikatakan bahwa pemberitaan tentang ketiadaannya menuntut sahnya pemakaian sifat itu bagi-Nya. Namun kami katakan: petunjuk ini tidak dapat diterima, sebab pemberitaan tentang ketiadaan sesuatu tidak mengandung petunjuk bahwa sesuatu itu boleh atau mustahil baginya. Bahkan, seandainya lafaz itu disertai sesuatu yang menunjukkan penafian kesahihannya juga, itu lebih baik, karena merupakan kesungguhan dalam menjelaskan dan menghilangkan kesan keliru. Namun dari keadaan yang lain lebih baik tidak niscaya ia sendiri buruk. Allah lebih mengetahui.
 
-²¹⁶ CT: QS al-Baqarah [2]: 26.
-
-²¹⁷ CT: Abu Dawud, *al-Witr*, 23; at-Tirmidzi, *ad-Da'awat*, 104; Ibnu Majah, *ad-Du'a'*, 13; Ahmad bin Hanbal, V/428, VI/314.
-
-²¹⁸ CT: QS al-Baqarah [2]: 255.
-
-²¹⁹ CT: QS al-Ikhlas [112]: 3.
-
-²²⁰ CT: QS Maryam [19]: 35. (Edisi Turki tertulis 19/91.)
-
-²²¹ CT: QS al-Mu'minun [23]: 91.
-
-²²² CT: QS al-An'am [6]: 14.
+[^177]: CT: Abu Dawud, *al-Witr*, 23; at-Tirmidzi, *ad-Da'awat*, 104; Ibnu Majah, *ad-Du'a'*, 13; Ahmad bin Hanbal, V/428, VI/314.
 
 ### Pasal Kedua Puluh Sembilan: Tentang Apa yang Mereka Jadikan Pegangan untuk Menetapkan Arah bagi Allah Ta'ala
 
@@ -1998,107 +1795,49 @@ Mereka berpegang dalam hal itu pada Al-Qur'an dan hadis. Adapun Al-Qur'an, dari 
 
 Pertama, berpegang pada enam ayat yang memuat lafaz istiwa di atas Arasy.
 
-Kedua, berpegang pada ayat-ayat yang memuat lafaz "di atas" (*fawq*). Allah Ta'ala berfirman, *"Dialah yang berkuasa di atas hamba-hamba-Nya. Dialah Yang Mahabijaksana lagi Mahateliti,"*²²³ berfirman, *"Dialah yang berkuasa di atas hamba-hamba-Nya, dan diutus-Nya kepadamu malaikat-malaikat penjaga,"*²²⁴ dan berfirman, *"Mereka takut kepada Tuhan mereka yang di atas mereka."*²²⁵
+Kedua, berpegang pada ayat-ayat yang memuat lafaz "di atas" (*fawq*). Allah Ta'ala berfirman, *"Dialah yang berkuasa di atas hamba-hamba-Nya. Dialah Yang Mahabijaksana lagi Mahateliti"* (al-An'am: 18), berfirman, *"Dialah yang berkuasa di atas hamba-hamba-Nya, dan diutus-Nya kepadamu malaikat-malaikat penjaga"* (al-An'am: 61), dan berfirman, *"Mereka takut kepada Tuhan mereka yang di atas mereka"* (an-Nahl: 50).
 
-Ketiga, ayat-ayat yang memuat lafaz ketinggian (*ʿuluww*), seperti firman Allah Ta'ala, *"Dialah Yang Mahatinggi lagi Mahaagung,"*²²⁶ firman Allah Ta'ala, *"Dialah Yang Mahatinggi lagi Mahabesar,"*²²⁷ firman-Nya, *"Sucikanlah nama Tuhanmu Yang Mahatinggi,"*²²⁸ dan firman-Nya, *"kecuali (dengan tujuan) mencari wajah Tuhannya Yang Mahatinggi."*²²⁹ Juga penukilan yang mutawatir tentang bacaan *"Subḥāna rabbiya al-aʿlā"* (Mahasuci Tuhanku Yang Mahatinggi).²³⁰
+Ketiga, ayat-ayat yang memuat lafaz ketinggian (*ʿuluww*), seperti firman Allah Ta'ala, *"Dialah Yang Mahatinggi lagi Mahaagung"* (al-Baqarah: 255), firman Allah Ta'ala, *"Dialah Yang Mahatinggi lagi Mahabesar"* (al-Hajj: 62), firman-Nya, *"Sucikanlah nama Tuhanmu Yang Mahatinggi"* (al-A'la: 1), dan firman-Nya, *"kecuali (dengan tujuan) mencari wajah Tuhannya Yang Mahatinggi"* (al-Lail: 20). Juga penukilan yang mutawatir tentang bacaan *"Subḥāna rabbiya al-aʿlā"* (Mahasuci Tuhanku Yang Mahatinggi).[^178]
 
-Keempat, ayat-ayat yang memuat lafaz naik (*ʿurūj*) kepada-Nya dan mendaki. Allah Ta'ala berfirman, *"Para malaikat dan Jibril naik (menghadap) kepada-Nya,"*²³¹ dan berfirman, *"Kepada-Nyalah akan naik perkataan-perkataan yang baik."*²³²
+Keempat, ayat-ayat yang memuat lafaz naik (*ʿurūj*) kepada-Nya dan mendaki. Allah Ta'ala berfirman, *"Para malaikat dan Jibril naik (menghadap) kepada-Nya"* (al-Ma'arij: 4), dan berfirman, *"Kepada-Nyalah akan naik perkataan-perkataan yang baik"* (Fathir: 10).
 
 Kelima, ayat-ayat yang memuat lafaz penurunan (*inzāl* dan *tanzīl*). Mereka berkata: ayat-ayat itu banyak, lebih dari dua ratus, berkenaan dengan Al-Qur'an yang nyata, Ruh, para malaikat yang didekatkan, Taurat, dan Injil.
 
-Keenam, ayat-ayat yang disertai huruf *ilā* (kepada), padahal huruf itu untuk batas akhir tujuan. Di antaranya firman Allah Ta'ala, *"kepada Tuhannya mereka memandang,"*²³³ yang menuntut pandangan itu berakhir kepada-Nya; firman-Nya, *"kemudian kepada Tuhanmulah kamu akan dikembalikan,"*²³⁴ firman-Nya, *"Hanya kepada-Ku (kamu) kembali,"*²³⁵ dan firman-Nya, *"Kembalilah kepada Tuhanmu."*²³⁶
+Keenam, ayat-ayat yang disertai huruf *ilā* (kepada), padahal huruf itu untuk batas akhir tujuan. Di antaranya firman Allah Ta'ala, *"kepada Tuhannya mereka memandang"* (al-Qiyamah: 23), yang menuntut pandangan itu berakhir kepada-Nya; firman-Nya, *"kemudian kepada Tuhanmulah kamu akan dikembalikan"* (as-Sajdah: 11), firman-Nya, *"Hanya kepada-Ku (kamu) kembali"* (Luqman: 14), dan firman-Nya, *"Kembalilah kepada Tuhanmu"* (al-Fajr: 28).
 
-Ketujuh, firman Allah Ta'ala, *"Sekali-kali tidak! Sesungguhnya mereka pada hari itu benar-benar terhalang dari Tuhan mereka."*²³⁷ Hijab hanya sah bagi sesuatu yang jisim dan berada pada suatu arah, sehingga ia terhalang oleh sesuatu yang lain.
+Ketujuh, firman Allah Ta'ala, *"Sekali-kali tidak! Sesungguhnya mereka pada hari itu benar-benar terhalang dari Tuhan mereka"* (al-Muthaffifin: 15). Hijab hanya sah bagi sesuatu yang jisim dan berada pada suatu arah, sehingga ia terhalang oleh sesuatu yang lain.
 
-Kedelapan, ayat-ayat yang menunjukkan bahwa Dia di langit. Dia berfirman, *"Sudah merasa amankah kamu terhadap (Allah) yang di langit?"*²³⁸ dan berfirman, *"Katakanlah, 'Tidak ada sesuatu pun di langit dan di bumi yang mengetahui perkara yang gaib, kecuali Allah.'"*²³⁹
+Kedelapan, ayat-ayat yang menunjukkan bahwa Dia di langit. Dia berfirman, *"Sudah merasa amankah kamu terhadap (Allah) yang di langit?"* (al-Mulk: 16) dan berfirman, *"Katakanlah, 'Tidak ada sesuatu pun di langit dan di bumi yang mengetahui perkara yang gaib, kecuali Allah'"* (an-Naml: 65).
 
-Kesembilan, ayat-ayat yang memuat pengangkatan kepada-Nya. Allah Ta'ala berfirman tentang Isa 'alaihissalam, *"sesungguhnya Aku mengambilmu dan mengangkatmu kepada-Ku,"*²⁴⁰ dan firman-Nya, *"mereka tidak yakin telah membunuhnya,"*²⁴¹ *"Akan tetapi, Allah telah mengangkatnya kepada-Nya."*²⁴²
+Kesembilan, ayat-ayat yang memuat pengangkatan kepada-Nya. Allah Ta'ala berfirman tentang Isa 'alaihissalam, *"sesungguhnya Aku mengambilmu dan mengangkatmu kepada-Ku"* (Ali 'Imran: 55), dan firman-Nya, *"mereka tidak yakin telah membunuhnya"* (an-Nisa': 157), *"Akan tetapi, Allah telah mengangkatnya kepada-Nya"* (an-Nisa': 158).
 
-Kesepuluh, ayat-ayat yang memuat keberadaan di sisi (*ʿindiyya*), seperti firman-Nya, *"Sesungguhnya orang-orang yang ada di sisi Tuhanmu,"*²⁴³ firman-Nya, *"di sisi (Allah) Penguasa Yang Mahakuasa,"*²⁴⁴ firman-Nya, *"Ya Tuhanku, bangunkanlah untukku sebuah rumah di sisi-Mu dalam surga,"*²⁴⁵ firman-Nya, *"maka (malaikat-malaikat) yang di sisi Tuhanmu,"*²⁴⁶ dan firman-Nya, *"dan (malaikat-malaikat) yang di sisi-Nya tidak mempunyai rasa angkuh untuk menyembah-Nya."*²⁴⁷
+Kesepuluh, ayat-ayat yang memuat keberadaan di sisi (*ʿindiyya*), seperti firman-Nya, *"Sesungguhnya orang-orang yang ada di sisi Tuhanmu"* (al-A'raf: 206), firman-Nya, *"di sisi (Allah) Penguasa Yang Mahakuasa"* (al-Qamar: 55), firman-Nya, *"Ya Tuhanku, bangunkanlah untukku sebuah rumah di sisi-Mu dalam surga"* (at-Tahrim: 11), firman-Nya, *"maka (malaikat-malaikat) yang di sisi Tuhanmu"* (Fushshilat: 38), dan firman-Nya, *"dan (malaikat-malaikat) yang di sisi-Nya tidak mempunyai rasa angkuh untuk menyembah-Nya"* (al-Anbiya': 19).
 
 Inilah penjelasan segi-segi pegangan mereka dari Al-Qur'an dalam menetapkan arah bagi Allah Ta'ala. Mereka berkata: yang menunjukkan bahwa ayat-ayat itu muhkam, bukan mutasyabih, ialah bahwa jumlahnya sangat banyak dan petunjuknya sangat kuat. Seandainya ia termasuk ayat mutasyabih, tentu salah seorang sahabat dan tabiin membicarakannya dan menyebutkan takwil-takwilnya. Karena tidak dinukil hal itu dari seorang pun di antara mereka, kita tahu bahwa ayat-ayat itu muhkam, bukan mutasyabih.
 
 Adapun hadis-hadisnya banyak.
 
-**Hadis pertama**: diriwayatkan oleh Abu Dawud dalam bab bantahan terhadap Jahmiyah dan Muktazilah, dari Hasan bin Muhammad bin Muth'im, dari ayahnya, dari kakeknya, ia berkata, *"Seorang Arab badui datang kepada Nabi shallallahu 'alaihi wasallam dan berkata, 'Wahai Rasulullah, jiwa-jiwa telah binasa, keluarga kelaparan, dan harta benda musnah. Mintakanlah hujan kepada Tuhanmu untuk kami, sebab kami memohon syafaat dengan Allah kepadamu dan denganmu kepada Allah.' Nabi shallallahu 'alaihi wasallam bersabda, 'Subhanallah, subhanallah,' dan beliau terus bertasbih hingga hal itu tampak pada wajah para sahabatnya. Kemudian beliau bersabda, 'Celaka engkau! Tahukah engkau siapa Allah? Kedudukan-Nya lebih agung dari itu. Sesungguhnya Dia tidak dijadikan perantara syafaat kepada siapa pun. Sesungguhnya Dia di atas langit-langit-Nya, di atas Arasy-Nya, dan sesungguhnya Arasy itu di atas-Nya begini,' dan beliau berisyarat dan membentuk kubah dengan tangannya seperti kubah di atasnya. Abul Azhar juga berisyarat: 'Arasy itu berderit karena-Nya seperti derit pelana karena penunggangnya.'"*²⁴⁸
+**Hadis pertama**: diriwayatkan oleh Abu Dawud dalam bab bantahan terhadap Jahmiyah dan Muktazilah, dari Hasan bin Muhammad bin Muth'im, dari ayahnya, dari kakeknya, ia berkata, *"Seorang Arab badui datang kepada Nabi shallallahu 'alaihi wasallam dan berkata, 'Wahai Rasulullah, jiwa-jiwa telah binasa, keluarga kelaparan, dan harta benda musnah. Mintakanlah hujan kepada Tuhanmu untuk kami, sebab kami memohon syafaat dengan Allah kepadamu dan denganmu kepada Allah.' Nabi shallallahu 'alaihi wasallam bersabda, 'Subhanallah, subhanallah,' dan beliau terus bertasbih hingga hal itu tampak pada wajah para sahabatnya. Kemudian beliau bersabda, 'Celaka engkau! Tahukah engkau siapa Allah? Kedudukan-Nya lebih agung dari itu. Sesungguhnya Dia tidak dijadikan perantara syafaat kepada siapa pun. Sesungguhnya Dia di atas langit-langit-Nya, di atas Arasy-Nya, dan sesungguhnya Arasy itu di atas-Nya begini,' dan beliau berisyarat dan membentuk kubah dengan tangannya seperti kubah di atasnya. Abul Azhar juga berisyarat: 'Arasy itu berderit karena-Nya seperti derit pelana karena penunggangnya.'"*[^179]
 
-**Hadis kedua**: diriwayatkan oleh penulis *Syarh as-Sunnah* dalam bab luasnya rahmat Allah Ta'ala, dari Abu Hurairah, dari Nabi shallallahu 'alaihi wasallam, *"Ketika Allah telah menetapkan penciptaan, Dia menulis sebuah ketetapan, dan ketetapan itu ada di sisi-Nya di atas Arasy: sesungguhnya rahmat-Ku mendahului murka-Ku."*²⁴⁹
+**Hadis kedua**: diriwayatkan oleh penulis *Syarh as-Sunnah* dalam bab luasnya rahmat Allah Ta'ala, dari Abu Hurairah, dari Nabi shallallahu 'alaihi wasallam, *"Ketika Allah telah menetapkan penciptaan, Dia menulis sebuah ketetapan, dan ketetapan itu ada di sisi-Nya di atas Arasy: sesungguhnya rahmat-Ku mendahului murka-Ku."*[^180]
 
-**Hadis ketiga**: dikeluarkan dalam *ash-Shahih* dari Umar bin al-Hakam, bahwa ia berkata, *"Aku berada di sisi Nabi shallallahu 'alaihi wasallam, lalu aku berkata, 'Wahai Rasulullah, aku mempunyai seorang budak perempuan yang biasa menggembalakan kambing. Aku mendatanginya dan kehilangan seekor kambing, lalu aku menanyakannya, dan ia berkata, "Dimakan serigala." Aku pun menyesal dan menampar wajahnya, dan aku wajib memerdekakan seorang budak; apakah aku memerdekakannya?' Rasulullah bertanya kepadanya, 'Di mana Allah?' Ia menjawab, 'Di langit.'²⁵¹ Beliau bertanya, 'Siapakah aku?' Ia menjawab, 'Engkau utusan Allah.' Beliau shallallahu 'alaihi wasallam bersabda, 'Merdekakanlah ia, sebab ia seorang mukminah.'"*²⁵⁰ Mereka berkata: ini menunjukkan pernyataan tegas dari Rasulullah shallallahu 'alaihi wasallam bahwa Allah di langit.
+**Hadis ketiga**: dikeluarkan dalam *ash-Shahih* dari Umar bin al-Hakam, bahwa ia berkata, *"Aku berada di sisi Nabi shallallahu 'alaihi wasallam, lalu aku berkata, 'Wahai Rasulullah, aku mempunyai seorang budak perempuan yang biasa menggembalakan kambing. Aku mendatanginya dan kehilangan seekor kambing, lalu aku menanyakannya, dan ia berkata, "Dimakan serigala." Aku pun menyesal dan menampar wajahnya, dan aku wajib memerdekakan seorang budak; apakah aku memerdekakannya?' Rasulullah bertanya kepadanya, 'Di mana Allah?' Ia menjawab, 'Di langit.'[^181] Beliau bertanya, 'Siapakah aku?' Ia menjawab, 'Engkau utusan Allah.' Beliau shallallahu 'alaihi wasallam bersabda, 'Merdekakanlah ia, sebab ia seorang mukminah.'"*[^182] Mereka berkata: ini menunjukkan pernyataan tegas dari Rasulullah shallallahu 'alaihi wasallam bahwa Allah di langit.
 
 Adapun dari sisi rasional, telah dikemukakan perkataan mereka bahwa kita tahu secara niscaya bahwa dari setiap dua maujud, yang satu mesti berada di dalam yang lain atau terpisah darinya pada salah satu arah, dan telah dikemukakan pula penyelidikan tuntas dalam menjawabnya. Hanya kepada Allah kita memohon taufik.
 
-(Pegangan lain mereka:) pertama, kisah mikraj menunjukkan bahwa Yang Disembah terikat pada arah atas. Terkadang mereka berpegang di sini pada firman-Nya, *"Kemudian dia mendekat, lalu bertambah dekat. Maka, jadilah dia dekat (pada jarak) dua busur panah atau lebih dekat (lagi),"*²⁵²,²⁵³ dan ini menunjukkan bahwa kedekatan itu secara arah. Kemudian Dia berfirman, *"Lalu, Dia menyampaikan wahyu kepada hamba-Nya apa yang Dia wahyukan,"*²⁵⁴ dan ini menunjukkan bahwa kedekatan itu berasal dari Allah Ta'ala; dan ini menunjukkan bahwa Dia terikat pada arah atas.
+(Pegangan lain mereka:) pertama, kisah mikraj menunjukkan bahwa Yang Disembah terikat pada arah atas. Terkadang mereka berpegang di sini pada firman-Nya, *"Kemudian dia mendekat, lalu bertambah dekat. Maka, jadilah dia dekat (pada jarak) dua busur panah atau lebih dekat (lagi)"* (an-Najm: 8-9), dan ini menunjukkan bahwa kedekatan itu secara arah. Kemudian Dia berfirman, *"Lalu, Dia menyampaikan wahyu kepada hamba-Nya apa yang Dia wahyukan"* (an-Najm: 10), dan ini menunjukkan bahwa kedekatan itu berasal dari Allah Ta'ala; dan ini menunjukkan bahwa Dia terikat pada arah atas.
 
-Kedua, mereka berpegang pada perkataan Fir'aun, *"Wahai Haman, buatkanlah untukku sebuah bangunan yang tinggi agar aku sampai ke pintu-pintu,"*²⁵⁵ *"(yaitu) pintu-pintu langit, agar aku dapat melihat Tuhannya Musa."*²⁵⁶ Kemudian Musa 'alaihissalam tidak mengingkari perkataan ini, sehingga hal itu menunjukkan bahwa Tuhan berada di langit. Inilah keseluruhan pegangan mereka dalam bab ini.
+Kedua, mereka berpegang pada perkataan Fir'aun, *"Wahai Haman, buatkanlah untukku sebuah bangunan yang tinggi agar aku sampai ke pintu-pintu"* (Gafir: 36), *"(yaitu) pintu-pintu langit, agar aku dapat melihat Tuhannya Musa"* (Gafir: 37). Kemudian Musa 'alaihissalam tidak mengingkari perkataan ini, sehingga hal itu menunjukkan bahwa Tuhan berada di langit. Inilah keseluruhan pegangan mereka dalam bab ini.
 
-²²³ CT: QS al-An'am [6]: 18.
+[^178]: CT: Dari *Majma' az-Zawa'id* karya al-Haitsami; al-Hindi, *Kanz al-'Ummal*, III/111, hadis no. 4129, 4906.
 
-²²⁴ CT: QS al-An'am [6]: 61.
+[^179]: CT: Abu Dawud, *as-Sunnah*, 18.
 
-²²⁵ CT: QS an-Nahl [16]: 50. (Edisi Turki tertulis 16/80.)
+[^180]: CT: al-Bukhari, *at-Tauhid*, 5, 20, 22, 55; Muslim, *at-Taubah*, 14, 16; Ibnu Majah, *az-Zuhd*, 35.
 
-²²⁶ CT: QS al-Baqarah [2]: 255. (Edisi Turki tertulis 2/288.)
+[^181]: CT: Allah Ta'ala tidak diliputi oleh enam arah. Dia tidak di langit dan tidak di bumi, tidak di atas dan tidak di bawah, tidak di kanan dan tidak di kiri, tidak di utara, selatan, timur, maupun barat. Dia mahasuci dari menempati tempat. (catatan penerjemah)
 
-²²⁷ CT: QS al-Hajj [22]: 62. (Edisi Turki tertulis 22/61.)
-
-²²⁸ CT: QS al-A'la [87]: 1.
-
-²²⁹ CT: QS al-Lail [92]: 20.
-
-²³⁰ CT: Dari *Majma' az-Zawa'id* karya al-Haitsami; al-Hindi, *Kanz al-'Ummal*, III/111, hadis no. 4129, 4906.
-
-²³¹ CT: QS al-Ma'arij [70]: 4.
-
-²³² CT: QS Fathir [35]: 10.
-
-²³³ CT: QS al-Qiyamah [75]: 23.
-
-²³⁴ CT: QS as-Sajdah [32]: 11.
-
-²³⁵ CT: QS Luqman [31]: 14.
-
-²³⁶ CT: QS al-Fajr [89]: 28.
-
-²³⁷ CT: QS al-Muthaffifin [83]: 15.
-
-²³⁸ CT: QS al-Mulk [67]: 16. (Edisi Turki tertulis 67/17.)
-
-²³⁹ CT: QS an-Naml [27]: 65.
-
-²⁴⁰ CT: QS Ali 'Imran [3]: 55.
-
-²⁴¹ CT: QS an-Nisa' [4]: 157.
-
-²⁴² CT: QS an-Nisa' [4]: 158.
-
-²⁴³ CT: QS al-A'raf [7]: 206.
-
-²⁴⁴ CT: QS al-Qamar [54]: 55.
-
-²⁴⁵ CT: QS at-Tahrim [66]: 11.
-
-²⁴⁶ CT: QS Fushshilat [41]: 38.
-
-²⁴⁷ CT: QS al-Anbiya' [21]: 19.
-
-²⁴⁸ CT: Abu Dawud, *as-Sunnah*, 18.
-
-²⁴⁹ CT: al-Bukhari, *at-Tauhid*, 5, 20, 22, 55; Muslim, *at-Taubah*, 14, 16; Ibnu Majah, *az-Zuhd*, 35.
-
-²⁵⁰ CT: Muslim, *al-Masajid*, 33; Abu Dawud, *ash-Shalah*, 167, *al-Aiman*, 16; an-Nasa'i, *ash-Shaum*, 20; ad-Darimi, *an-Nudzur*, 10; *al-Muwaththa'*, *al-'Itq*, 8, 9; Ahmad bin Hanbal, II/291.
-
-²⁵¹ CT: Allah Ta'ala tidak diliputi oleh enam arah. Dia tidak di langit dan tidak di bumi, tidak di atas dan tidak di bawah, tidak di kanan dan tidak di kiri, tidak di utara, selatan, timur, maupun barat. Dia mahasuci dari menempati tempat. (catatan penerjemah)
-
-²⁵² CT: QS an-Najm [53]: 8.
-
-²⁵³ CT: QS an-Najm [53]: 9.
-
-²⁵⁴ CT: QS an-Najm [53]: 10.
-
-²⁵⁵ CT: QS Gafir [40]: 36.
-
-²⁵⁶ CT: QS Gafir [40]: 37.
+[^182]: CT: Muslim, *al-Masajid*, 33; Abu Dawud, *ash-Shalah*, 167, *al-Aiman*, 16; an-Nasa'i, *ash-Shaum*, 20; ad-Darimi, *an-Nudzur*, 10; *al-Muwaththa'*, *al-'Itq*, 8, 9; Ahmad bin Hanbal, II/291.
 
 Ketahuilah, dalam menjawab kata-kata ini kami memiliki dua jenis jawaban.
 
@@ -2110,11 +1849,11 @@ Pada titik ini kami memilih mazhab Salaf dan berkata: karena kami telah mengetah
 
 Adapun pegangan mereka yang pertama, yaitu enam ayat yang menunjukkan istiwa Allah Ta'ala di atas Arasy, kami katakan: tidak boleh yang dimaksud Allah Ta'ala dengan istiwa itu adalah menetap di atas Arasy. Hal itu ditunjukkan oleh beberapa segi.
 
-Pertama, sebelum ayat ini²⁵⁷ terdapat firman Allah Ta'ala, *"diturunkan dari (Allah) yang menciptakan bumi dan langit yang tinggi,"*²⁵⁸ dan telah kami jelaskan bahwa ayat ini menunjukkan bahwa Allah Ta'ala tidak terikat pada ruang dan arah mana pun.
+Pertama, sebelum ayat ini (Taha: 5) terdapat firman Allah Ta'ala, *"diturunkan dari (Allah) yang menciptakan bumi dan langit yang tinggi"* (Taha: 4), dan telah kami jelaskan bahwa ayat ini menunjukkan bahwa Allah Ta'ala tidak terikat pada ruang dan arah mana pun.
 
-Kedua, sesudah ayat ini²⁵⁹ terdapat firman Allah Ta'ala, *"Milik-Nyalah apa yang ada di langit dan apa yang ada di bumi."*²⁶⁰ Telah kami jelaskan bahwa langit (*samāʾ*) adalah apa yang padanya terdapat ketinggian dan keberadaan di atas, sehingga segala sesuatu yang berada pada arah atas adalah langit. Jika demikian, firman-Nya, *"Milik-Nyalah apa yang ada di langit dan apa yang ada di bumi,"*²⁶¹ menuntut bahwa segala sesuatu yang berada pada arah atas berada di langit; dan jika demikian, firman-Nya, *"Milik-Nyalah apa yang ada di langit,"*²⁶² menuntut bahwa segala sesuatu yang berada pada arah atas adalah milik Allah Ta'ala dan dimiliki oleh-Nya. Maka, seandainya Allah Ta'ala terikat pada arah atas, niscaya Dia dimiliki oleh diri-Nya sendiri, dan itu mustahil. Maka tetaplah bahwa apa yang sebelum firman-Nya, *"(Yaitu) Yang Maha Pengasih, yang bersemayam di atas Arasy,"* dan apa yang sesudahnya menafikan keterikatan-Nya Subhanahu wa Ta'ala pada ruang dan arah mana pun. Jika demikian, mustahillah yang dimaksud dengan firman-Nya, *"Yang Maha Pengasih bersemayam di atas Arasy,"* adalah bahwa Dia menetap di atas Arasy.
+Kedua, sesudah ayat ini (Taha: 5) terdapat firman Allah Ta'ala, *"Milik-Nyalah apa yang ada di langit dan apa yang ada di bumi"* (Taha: 6). Telah kami jelaskan bahwa langit (*samāʾ*) adalah apa yang padanya terdapat ketinggian dan keberadaan di atas, sehingga segala sesuatu yang berada pada arah atas adalah langit. Jika demikian, firman-Nya, *"Milik-Nyalah apa yang ada di langit dan apa yang ada di bumi"* (Taha: 6), menuntut bahwa segala sesuatu yang berada pada arah atas berada di langit; dan jika demikian, firman-Nya, *"Milik-Nyalah apa yang ada di langit"* (Taha: 6), menuntut bahwa segala sesuatu yang berada pada arah atas adalah milik Allah Ta'ala dan dimiliki oleh-Nya. Maka, seandainya Allah Ta'ala terikat pada arah atas, niscaya Dia dimiliki oleh diri-Nya sendiri, dan itu mustahil. Maka tetaplah bahwa apa yang sebelum firman-Nya, *"(Yaitu) Yang Maha Pengasih, yang bersemayam di atas Arasy,"* dan apa yang sesudahnya menafikan keterikatan-Nya Subhanahu wa Ta'ala pada ruang dan arah mana pun. Jika demikian, mustahillah yang dimaksud dengan firman-Nya, *"Yang Maha Pengasih bersemayam di atas Arasy,"* adalah bahwa Dia menetap di atas Arasy.
 
-Ketiga, apa yang sebelum ayat ini dan sesudahnya disebutkan untuk menjelaskan kesempurnaan kuasa Allah Ta'ala, puncak keagungan-Nya dalam ketuhanan, dan kesempurnaan pengelolaan-Nya. Sebab, firman-Nya, *"diturunkan dari (Allah) yang menciptakan bumi dan langit yang tinggi,"*²⁶³ tidak diragukan bahwa yang dipahami darinya adalah penjelasan kesempurnaan kuasa Allah Ta'ala dan kesempurnaan ketuhanan-Nya. Dan firman-Nya, *"Milik-Nyalah apa yang ada di langit, apa yang ada di bumi, apa yang ada di antara keduanya, dan apa yang ada di bawah tanah,"*²⁶⁴ juga penjelasan kesempurnaan kerajaan dan ketuhanan-Nya. Jika demikian, wajiblah firman-Nya, *"Yang Maha Pengasih bersemayam di atas Arasy,"*²⁶⁵ juga demikian; sebab jika tidak, niscaya ia menjadi perkataan yang asing dari apa yang sebelumnya dan sesudahnya, dan itu tidak boleh. Adapun jika kita membawanya kepada makna kesempurnaan penguasaan-Nya atas Arasy, yang merupakan makhluk terbesar di antara maujud-maujud yang baharu, hal itu sesuai dengan apa yang sebelum ayat ini dan apa yang sesudahnya. Maka segi ini lebih utama.
+Ketiga, apa yang sebelum ayat ini dan sesudahnya disebutkan untuk menjelaskan kesempurnaan kuasa Allah Ta'ala, puncak keagungan-Nya dalam ketuhanan, dan kesempurnaan pengelolaan-Nya. Sebab, firman-Nya, *"diturunkan dari (Allah) yang menciptakan bumi dan langit yang tinggi"* (Taha: 4), tidak diragukan bahwa yang dipahami darinya adalah penjelasan kesempurnaan kuasa Allah Ta'ala dan kesempurnaan ketuhanan-Nya. Dan firman-Nya, *"Milik-Nyalah apa yang ada di langit, apa yang ada di bumi, apa yang ada di antara keduanya, dan apa yang ada di bawah tanah"* (Taha: 6), juga penjelasan kesempurnaan kerajaan dan ketuhanan-Nya. Jika demikian, wajiblah firman-Nya, *"Yang Maha Pengasih bersemayam di atas Arasy"* (Taha: 5), juga demikian; sebab jika tidak, niscaya ia menjadi perkataan yang asing dari apa yang sebelumnya dan sesudahnya, dan itu tidak boleh. Adapun jika kita membawanya kepada makna kesempurnaan penguasaan-Nya atas Arasy, yang merupakan makhluk terbesar di antara maujud-maujud yang baharu, hal itu sesuai dengan apa yang sebelum ayat ini dan apa yang sesudahnya. Maka segi ini lebih utama.
 
 Keempat, yang duduk di atas Arasy mesti memiliki bagian yang berada di sisi kanan Arasy yang berlainan dengan bagian yang berada di sisi kiri Arasy, sehingga niscaya pada dirinya ia terpadu dan tersusun; dan itu mustahil bagi Allah Ta'ala.
 
@@ -2122,17 +1861,17 @@ Kelima, yang duduk di atas Arasy, jika mampu bergerak dan berpindah, ia baharu, 
 
 Keenam, seandainya Dia berada di Arasy (tanpa batas), niscaya Dia berada di semua ruang lainnya, sehingga niscaya Dia bercampur dengan kotoran dan najis; dan jika tidak demikian, niscaya Dia memiliki ujung, akhir, tambahan, dan kekurangan. Semua itu mustahil bagi Allah Ta'ala.
 
-Ketujuh, firman Allah Ta'ala, *"Pada hari itu delapan malaikat menjunjung Arasy Tuhanmu di atas (kepala) mereka."*²⁶⁶ Seandainya Arasy adalah tempat bagi Yang mereka sembah, niscaya para malaikat yang memikul Arasy memikul Tuhan alam, dan itu tidak masuk akal. Sebab, Sang Pencipta-lah yang memelihara makhluk; adapun makhluk tidak memelihara dan tidak memikul Sang Pencipta. Tidak dapat dikatakan bahwa hal ini hanya berlaku bila Tuhan bertumpu dan bersandar pada Arasy, sedangkan kami tidak berpendapat demikian. Sebab, kami katakan: dengan pengandaian itu, Allah Ta'ala tidak menetap di atas Arasy, sebab menetap di atas sesuatu hanya terjadi bila bertumpu padanya. Tidakkah engkau lihat, apabila kita meletakkan suatu jisim di atas tanah, kita berkata bahwa jisim itu menetap di atas tanah, dan kita tidak berkata bahwa tanah menetap di atasnya? Hal itu tidak lain karena sesuatu itu bertumpu pada tanah, sedangkan tanah tidak bertumpu padanya. Maka, jika Tuhan tidak bertumpu pada Arasy, Dia tidak menetap di atas Arasy; dan dengan pengandaian ini mereka terpaksa meninggalkan makna lahiriah ayat, sehingga ayat itu keluar dari kedudukannya sebagai hujah.
+Ketujuh, firman Allah Ta'ala, *"Pada hari itu delapan malaikat menjunjung Arasy Tuhanmu di atas (kepala) mereka"* (al-Haqqah: 17). Seandainya Arasy adalah tempat bagi Yang mereka sembah, niscaya para malaikat yang memikul Arasy memikul Tuhan alam, dan itu tidak masuk akal. Sebab, Sang Pencipta-lah yang memelihara makhluk; adapun makhluk tidak memelihara dan tidak memikul Sang Pencipta. Tidak dapat dikatakan bahwa hal ini hanya berlaku bila Tuhan bertumpu dan bersandar pada Arasy, sedangkan kami tidak berpendapat demikian. Sebab, kami katakan: dengan pengandaian itu, Allah Ta'ala tidak menetap di atas Arasy, sebab menetap di atas sesuatu hanya terjadi bila bertumpu padanya. Tidakkah engkau lihat, apabila kita meletakkan suatu jisim di atas tanah, kita berkata bahwa jisim itu menetap di atas tanah, dan kita tidak berkata bahwa tanah menetap di atasnya? Hal itu tidak lain karena sesuatu itu bertumpu pada tanah, sedangkan tanah tidak bertumpu padanya. Maka, jika Tuhan tidak bertumpu pada Arasy, Dia tidak menetap di atas Arasy; dan dengan pengandaian ini mereka terpaksa meninggalkan makna lahiriah ayat, sehingga ayat itu keluar dari kedudukannya sebagai hujah.
 
 Kedelapan, Allah Ta'ala telah ada, sementara belum ada Arasy dan tempat. Maka, setelah Dia menciptakan makhluk, mustahil dikatakan bahwa Allah Ta'ala menjadi menetap di atas Arasy setelah sebelumnya tidak demikian, sebab Allah Ta'ala berfirman, *"kemudian Dia bersemayam di atas Arasy,"* sedangkan kata *thumma* menunjukkan urutan yang berjarak.
 
-Kesembilan, makna lahiriah firman Allah Ta'ala, *"Kami lebih dekat kepadanya daripada urat lehernya,"*²⁶⁷ firman-Nya, *"Dia bersamamu di mana saja kamu berada,"*²⁶⁸ dan firman-Nya, *"Dialah Tuhan (yang disembah) di langit dan Tuhan (yang disembah) di bumi,"*²⁶⁹ menafikan keadaan-Nya menetap di atas Arasy. Menakwilkan ayat-ayat ini demi memberlakukan ayat-ayat yang mereka jadikan pegangan menurut makna lahiriahnya tidaklah lebih utama daripada sebaliknya.
+Kesembilan, makna lahiriah firman Allah Ta'ala, *"Kami lebih dekat kepadanya daripada urat lehernya"* (Qaf: 16), firman-Nya, *"Dia bersamamu di mana saja kamu berada"* (al-Hadid: 4), dan firman-Nya, *"Dialah Tuhan (yang disembah) di langit dan Tuhan (yang disembah) di bumi"* (az-Zukhruf: 84), menafikan keadaan-Nya menetap di atas Arasy. Menakwilkan ayat-ayat ini demi memberlakukan ayat-ayat yang mereka jadikan pegangan menurut makna lahiriahnya tidaklah lebih utama daripada sebaliknya.
 
 Kesepuluh, dalil-dalil rasional yang pasti, yang telah kami sebutkan sebelumnya, membatalkan keterikatan Allah Ta'ala pada arah mana pun. Jika ini telah tetap, tampaklah bahwa yang dimaksud dengan istiwa bukan menetap. Maka wajiblah yang dimaksud adalah penguasaan (*istīlāʾ*), keperkasaan, berlakunya takdir, dan berjalannya hukum-hukum ketuhanan. Ini lurus menurut kaidah bahasa. Seorang penyair berkata:
 
 > *Bisyr telah menguasai (istawā) Irak, tanpa pedang dan tanpa darah yang tertumpah.*
 
-Yang menguatkan hal itu ialah bahwa Allah Ta'ala menurunkan Al-Qur'an sesuai dengan kebiasaan tutur dan adat para pemilik bahasa. Tidakkah engkau lihat bahwa Allah Ta'ala berfirman, *"Allahlah yang menipu mereka,"*²⁷⁰ berfirman, *"dan itu lebih mudah bagi-Nya,"*²⁷¹ berfirman, *"Mereka membuat tipu daya dan Allah pun membalas tipu daya,"*²⁷² dan berfirman, *"Allah akan memperolok-olokkan mereka"*?²⁷³ Yang dimaksud dalam semua itu adalah bahwa Allah Ta'ala memperlakukan mereka dengan perlakuan (balasan bagi) orang-orang yang menipu, membuat tipu daya, dan memperolok-olok. Demikian pula di sini: yang dimaksud dengan istiwa di atas Arasy adalah pengaturan urusan kerajaan dan alam malakut. Padanannya: *qiyām* asalnya berarti tegak lurus, kemudian disebut dengan makna memulai suatu urusan, sebagaimana dikatakan, "Ia menegakkan (qāma bi-) kerajaan."
+Yang menguatkan hal itu ialah bahwa Allah Ta'ala menurunkan Al-Qur'an sesuai dengan kebiasaan tutur dan adat para pemilik bahasa. Tidakkah engkau lihat bahwa Allah Ta'ala berfirman, *"Allahlah yang menipu mereka"* (an-Nisa': 142), berfirman, *"dan itu lebih mudah bagi-Nya"* (ar-Rum: 27), berfirman, *"Mereka membuat tipu daya dan Allah pun membalas tipu daya"* (Ali 'Imran: 54), dan berfirman, *"Allah akan memperolok-olokkan mereka"* (al-Baqarah: 15)? Yang dimaksud dalam semua itu adalah bahwa Allah Ta'ala memperlakukan mereka dengan perlakuan (balasan bagi) orang-orang yang menipu, membuat tipu daya, dan memperolok-olok. Demikian pula di sini: yang dimaksud dengan istiwa di atas Arasy adalah pengaturan urusan kerajaan dan alam malakut. Padanannya: *qiyām* asalnya berarti tegak lurus, kemudian disebut dengan makna memulai suatu urusan, sebagaimana dikatakan, "Ia menegakkan (qāma bi-) kerajaan."
 
 Jika dikatakan: takwil ini tidak boleh karena beberapa segi.
 
@@ -2146,47 +1885,47 @@ Keempat, penguasaan dengan makna ini berlaku terhadap seluruh makhluk, sehingga 
 
 Jawabannya: yang kami maksud dengan *istīlāʾ* adalah kuasa sempurna yang bebas dari penentang, penghalang, dan penolak. Dengan pengandaian ini, hilanglah semua gugatan ini. Adapun pengkhususan Arasy dengan penyebutan, dalam hal itu ada dua segi.
 
-Pertama, Arasy adalah makhluk terbesar, maka ia dikhususkan dengan penyebutan karena sebab ini, sebagaimana Dia mengkhususkannya dengan penyebutan dalam firman-Nya, *"Dia adalah Tuhan pemilik Arasy yang agung,"*²⁷⁴ karena makna ini.
+Pertama, Arasy adalah makhluk terbesar, maka ia dikhususkan dengan penyebutan karena sebab ini, sebagaimana Dia mengkhususkannya dengan penyebutan dalam firman-Nya, *"Dia adalah Tuhan pemilik Arasy yang agung"* (at-Taubah: 129), karena makna ini.
 
 Kedua, Syekh al-Ghazali rahimahullah berkata dalam kitab *Iljam al-'Awamm*: sebab pengkhususan ini ialah bahwa Allah Ta'ala mengelola seluruh alam dan mengatur urusan dari langit ke bumi melalui perantaraan Arasy. Allah Ta'ala tidak mengadakan suatu rupa di alam sebelum mengadakannya di Arasy, sebagaimana pelukis dan penulis tidak menghasilkan rupa di atas kertas putih sebelum menghasilkannya di otak; bahkan (seorang arsitek) tidak menghasilkan rupa bangunan di luar sebelum menghasilkan rupanya di otak melalui perantaraan hati. Sebagaimana melalui otak ruh mengatur urusan alamnya yang ia atur, demikian pula melalui perantaraan Arasy Allah mengatur urusan seluruh alam.
 
 Ketahuilah, perkataan ini dibangun di atas pokok-pokok para filsuf, yaitu bahwa pengaruh Sang Pencipta Ta'ala adalah pada akal, pengaruh akal pada pengaturan alam atas, dan pengaturan alam atas pada alam bawah. Kami telah membahasnya dalam kitab-kitab rasional murni.
 
-Adapun pegangan mereka yang kedua, yaitu ayat-ayat yang memuat penyebutan "di atas", jawabannya: lafaz "di atas" (dipakai pula untuk ketinggian) dalam martabat dan kuasa. Allah Ta'ala berfirman, *"di atas setiap orang yang berpengetahuan ada Yang Maha Mengetahui,"*²⁷⁵ *"dan sesungguhnya kita berkuasa penuh di atas mereka,"*²⁷⁶ dan *"Tangan Allah di atas tangan-tangan mereka."*²⁷⁷ Yang dimaksud dengan keberadaan di atas dalam ayat-ayat ini adalah keberadaan di atas dengan keperkasaan dan kuasa. Allah Ta'ala juga berfirman, *"nyamuk atau yang di atasnya (fa-mā fawqahā),"*²⁷⁸ yakni yang melebihinya dalam sifat kecil dan remeh. Jika lafaz "di atas" mengandung kemungkinan di atas secara arah dan di atas secara martabat, mengapa kalian membawanya kepada di atas secara arah? Yang menunjukkan bahwa yang dimaksud dengan lafaz "di atas" di sini adalah di atas dengan kuasa dan kepemilikan ada beberapa segi.
+Adapun pegangan mereka yang kedua, yaitu ayat-ayat yang memuat penyebutan "di atas", jawabannya: lafaz "di atas" (dipakai pula untuk ketinggian) dalam martabat dan kuasa. Allah Ta'ala berfirman, *"di atas setiap orang yang berpengetahuan ada Yang Maha Mengetahui"* (Yusuf: 76), *"dan sesungguhnya kita berkuasa penuh di atas mereka"* (al-A'raf: 127), dan *"Tangan Allah di atas tangan-tangan mereka"* (al-Fath: 10). Yang dimaksud dengan keberadaan di atas dalam ayat-ayat ini adalah keberadaan di atas dengan keperkasaan dan kuasa. Allah Ta'ala juga berfirman, *"nyamuk atau yang di atasnya (fa-mā fawqahā)"* (al-Baqarah: 26), yakni yang melebihinya dalam sifat kecil dan remeh. Jika lafaz "di atas" mengandung kemungkinan di atas secara arah dan di atas secara martabat, mengapa kalian membawanya kepada di atas secara arah? Yang menunjukkan bahwa yang dimaksud dengan lafaz "di atas" di sini adalah di atas dengan kuasa dan kepemilikan ada beberapa segi.
 
-Pertama, Dia berfirman, *"Dialah yang berkuasa di atas hamba-hamba-Nya."*²⁷⁹ Keberadaan di atas yang disertai keperkasaan adalah keberadaan di atas dengan kuasa dan kemampuan, bukan dengan makna arah. Buktinya, seorang penjaga terkadang berada di atas sultan secara arah, tetapi tidak dikatakan bahwa ia "di atas sultan" (secara mutlak).
+Pertama, Dia berfirman, *"Dialah yang berkuasa di atas hamba-hamba-Nya"* (al-An'am: 18). Keberadaan di atas yang disertai keperkasaan adalah keberadaan di atas dengan kuasa dan kemampuan, bukan dengan makna arah. Buktinya, seorang penjaga terkadang berada di atas sultan secara arah, tetapi tidak dikatakan bahwa ia "di atas sultan" (secara mutlak).
 
-Kedua, Allah Ta'ala menyifati diri-Nya bersama hamba-hamba-Nya. Dia berfirman, *"Sesungguhnya Allah beserta orang-orang yang bertakwa dan orang-orang yang berbuat kebaikan,"*²⁸⁰ berfirman, *"sesungguhnya Allah beserta orang-orang yang sabar,"*²⁸¹ *"Dia bersamamu di mana saja kamu berada,"*²⁸² *"Kami lebih dekat kepadanya daripada urat lehernya,"*²⁸³ *"Apabila hamba-hamba-Ku bertanya kepadamu tentang Aku, sesungguhnya Aku dekat,"*²⁸⁴ dan *"Tidak ada pembicaraan rahasia antara tiga orang, kecuali Dialah yang keempatnya."*²⁸⁵ Jika kebersamaan dalam ayat-ayat ini boleh dibawa kepada kebersamaan dengan makna ilmu, penjagaan, dan pemeliharaan, mengapa tidak boleh keberadaan di atas dalam ayat-ayat yang kalian sebutkan dibawa kepada keberadaan di atas dengan keperkasaan, kuasa, dan kekuasaan?
+Kedua, Allah Ta'ala menyifati diri-Nya bersama hamba-hamba-Nya. Dia berfirman, *"Sesungguhnya Allah beserta orang-orang yang bertakwa dan orang-orang yang berbuat kebaikan"* (an-Nahl: 128), berfirman, *"sesungguhnya Allah beserta orang-orang yang sabar"* (al-Baqarah: 153), *"Dia bersamamu di mana saja kamu berada"* (al-Hadid: 4), *"Kami lebih dekat kepadanya daripada urat lehernya"* (Qaf: 16), *"Apabila hamba-hamba-Ku bertanya kepadamu tentang Aku, sesungguhnya Aku dekat"* (al-Baqarah: 186), dan *"Tidak ada pembicaraan rahasia antara tiga orang, kecuali Dialah yang keempatnya"* (al-Mujadalah: 7). Jika kebersamaan dalam ayat-ayat ini boleh dibawa kepada kebersamaan dengan makna ilmu, penjagaan, dan pemeliharaan, mengapa tidak boleh keberadaan di atas dalam ayat-ayat yang kalian sebutkan dibawa kepada keberadaan di atas dengan keperkasaan, kuasa, dan kekuasaan?
 
 Ketiga, keberadaan di atas yang terjadi karena arah bukanlah sifat pujian. Sebab, keberadaan di atas itu dimiliki oleh arah dan ruang itu sendiri pada zatnya, dan dimiliki oleh yang bertempat di ruang itu karena ruang tersebut. Maka, seandainya keberadaan di atas secara arah adalah sifat pujian, niscaya arah lebih utama dan lebih sempurna daripada Allah Ta'ala. Tidak dapat dikatakan bahwa kalian pun harus berkata bahwa kuasa lebih utama dan lebih sempurna daripada Allah Ta'ala. Sebab, kami katakan: kuasa adalah sifat Yang Berkuasa dan mustahil ada tanpa-Nya, berbeda dengan ruang dan arah, yang tidak membutuhkan yang bertempat padanya. Maka tetaplah bahwa kesempurnaan dan keutamaan hanya terwujud karena keberadaan di atas dengan makna kuasa dan kekuasaan, dan membawa ayat itu kepadanya lebih utama.
 
-Adapun firman Allah Ta'ala tentang sifat para malaikat, *"Mereka takut kepada Tuhan mereka yang di atas mereka,"*²⁸⁶ di sini ada jawaban lain, yaitu mungkin firman-Nya *"dari atas mereka"* bertaut dengan firman-Nya *"mereka takut"*, yakni: mereka takut kepada Tuhan mereka (akan datangnya azab) dari atas mereka. Sebab, mereka takut turunnya azab kepada mereka dari arah atas mereka.²⁸⁷
+Adapun firman Allah Ta'ala tentang sifat para malaikat, *"Mereka takut kepada Tuhan mereka yang di atas mereka"* (an-Nahl: 50), di sini ada jawaban lain, yaitu mungkin firman-Nya *"dari atas mereka"* bertaut dengan firman-Nya *"mereka takut"*, yakni: mereka takut kepada Tuhan mereka (akan datangnya azab) dari atas mereka. Sebab, mereka takut turunnya azab kepada mereka dari arah atas mereka (an-Nahl: 50).
 
-Adapun pegangan mereka yang ketiga, yaitu berpegang pada ketinggian karena arah: ketinggian juga dipakai untuk ketinggian karena kuasa. Dikatakan, "Sultan lebih tinggi daripada selainnya"; dalam surat-surat para sultan ditulis "Diwan yang Tertinggi"; perintah-perintah mereka disebut "Perintah yang Tertinggi"; dan majelis-majelis mereka disebut "Majelis yang Tertinggi". Yang dimaksud dalam semua itu adalah ketinggian dengan makna keperkasaan dan kuasa, bukan karena tempat dan arah. Lagi pula, Allah Ta'ala berfirman kepada Musa, *"Jangan takut! Sesungguhnya engkaulah yang paling tinggi,"*²⁸⁸ berfirman, *"Janganlah kamu (merasa) lemah dan jangan (pula) bersedih hati, padahal kamu paling tinggi,"*²⁸⁹ dan berfirman, *"dan firman Allah itulah yang paling tinggi,"*²⁹⁰ dan Fir'aun berkata, *"Akulah tuhanmu yang paling tinggi."*²⁹¹ Ketinggian di tempat-tempat ini bermakna ketinggian dengan kuasa, bukan ketinggian secara arah. Yang menunjukkan bahwa yang dimaksud adalah apa yang kami sebutkan ada beberapa segi.
+Adapun pegangan mereka yang ketiga, yaitu berpegang pada ketinggian karena arah: ketinggian juga dipakai untuk ketinggian karena kuasa. Dikatakan, "Sultan lebih tinggi daripada selainnya"; dalam surat-surat para sultan ditulis "Diwan yang Tertinggi"; perintah-perintah mereka disebut "Perintah yang Tertinggi"; dan majelis-majelis mereka disebut "Majelis yang Tertinggi". Yang dimaksud dalam semua itu adalah ketinggian dengan makna keperkasaan dan kuasa, bukan karena tempat dan arah. Lagi pula, Allah Ta'ala berfirman kepada Musa, *"Jangan takut! Sesungguhnya engkaulah yang paling tinggi"* (Taha: 68), berfirman, *"Janganlah kamu (merasa) lemah dan jangan (pula) bersedih hati, padahal kamu paling tinggi"* (Ali 'Imran: 139), dan berfirman, *"dan firman Allah itulah yang paling tinggi"* (at-Taubah: 40), dan Fir'aun berkata, *"Akulah tuhanmu yang paling tinggi"* (an-Nazi'at: 24). Ketinggian di tempat-tempat ini bermakna ketinggian dengan kuasa, bukan ketinggian secara arah. Yang menunjukkan bahwa yang dimaksud adalah apa yang kami sebutkan ada beberapa segi.
 
-Pertama, Allah Ta'ala berfirman, *"Sucikanlah nama Tuhanmu Yang Mahatinggi,"*²⁹² sehingga Dia menetapkan bahwa Allah Ta'ala lebih tinggi daripada segala sesuatu selain-Nya, sedangkan arah adalah sesuatu selain-Nya. Maka wajiblah Zat-Nya lebih tinggi daripada arah, dan apa yang lebih tinggi daripada arah mustahil ketinggiannya disebabkan oleh arah. Maka tetaplah bahwa ketinggian-Nya karena Zat-Nya sendiri, bukan karena arah. Tidak dapat dikatakan bahwa arah bukan sesuatu yang maujud sehingga tercakup dalam firman-Nya, *"Sucikanlah nama Tuhanmu Yang Mahatinggi,"*²⁹³ sebab kami katakan: telah kami jelaskan dalam bab dalil-dalil rasional bahwa arah pasti merupakan sesuatu yang maujud.
+Pertama, Allah Ta'ala berfirman, *"Sucikanlah nama Tuhanmu Yang Mahatinggi"* (al-A'la: 1), sehingga Dia menetapkan bahwa Allah Ta'ala lebih tinggi daripada segala sesuatu selain-Nya, sedangkan arah adalah sesuatu selain-Nya. Maka wajiblah Zat-Nya lebih tinggi daripada arah, dan apa yang lebih tinggi daripada arah mustahil ketinggiannya disebabkan oleh arah. Maka tetaplah bahwa ketinggian-Nya karena Zat-Nya sendiri, bukan karena arah. Tidak dapat dikatakan bahwa arah bukan sesuatu yang maujud sehingga tercakup dalam firman-Nya, *"Sucikanlah nama Tuhanmu Yang Mahatinggi"* (al-A'la: 1), sebab kami katakan: telah kami jelaskan dalam bab dalil-dalil rasional bahwa arah pasti merupakan sesuatu yang maujud.
 
 Kedua, seandainya Allah Ta'ala berada pada arah atas, maka adakalanya Dia memiliki ujung di arah atas, adakalanya tidak memiliki ujung di arah itu. Jika yang pertama, Dia bukan yang paling tinggi dari segala sesuatu, sebab ruang-ruang kosong di atas-Nya lebih tinggi daripada-Nya; dan juga karena Dia berkuasa menciptakan jisim-jisim di semua ruang, sehingga Dia berkuasa menciptakan suatu alam di ruang-ruang yang berada di atas-Nya, dan dengan pengandaian itu alam tersebut lebih tinggi daripada-Nya. Adapun alasan kami mengatakan bahwa (tidak boleh dikatakan) Zat Allah Ta'ala tak berhingga dari arah atas: sebab sisi-Nya yang berhingga ini berbeda esensinya dari sisi yang tak berhingga, dan tidak sah pada masing-masing apa yang sah pada yang lain; (atau jika sama,) sah bagi yang tak berhingga berubah menjadi berhingga dan yang berhingga menjadi tak berhingga, dan itu menuntut kemungkinan terpisah dan tersambung pada Zat Allah Ta'ala, yang mustahil.
 
 Ketiga, jika Dia tak berhingga dari sisi atas, maka tidak ada satu bagian pun kecuali di atasnya ada bagian lain, dan segala sesuatu yang di atasnya ada yang lain bukanlah maujud yang paling tinggi. Maka di antara bagian-bagian itu tidak ada sesuatu yang merupakan maujud paling tinggi. Maka tetaplah, dengan apa yang kami sebutkan, bahwa segala sesuatu yang terikat pada arah tidak mungkin disifati sebagai maujud yang paling tinggi. Jika demikian, wajiblah ketinggian Allah Ta'ala bukan dengan arah dan ruang. Itulah yang dituju.
 
-Adapun pegangan mereka yang keempat, yaitu ayat-ayat yang memuat lafaz naik (*ʿurūj*), seperti firman Allah Ta'ala, *"Dia mengatur segala urusan dari langit ke bumi, kemudian (urusan) itu naik kepada-Nya,"*²⁹⁴ firman-Nya, *"yang memiliki tempat-tempat naik (al-maʿārij),"*²⁹⁵ dan *"Para malaikat dan Jibril naik (menghadap) kepada-Nya,"*²⁹⁶ jawabannya: *maʿārij* adalah jamak dari *maʿraj*, yaitu tempat naik; dari situ firman Allah Ta'ala, *"dan tangga-tangga yang mereka naiki."*²⁹⁷ Dalam ayat-ayat ini tidak ada penjelasan bahwa tempat-tempat naik itu adalah tempat naik bagi apa. Maka gugurlah hujah mereka dalam bab ini. Bahkan boleh jadi tempat-tempat naik itu adalah tempat naik bagi nikmat-nikmat Allah Ta'ala, tempat naik para malaikat, atau tempat naik para penerima pahala.
+Adapun pegangan mereka yang keempat, yaitu ayat-ayat yang memuat lafaz naik (*ʿurūj*), seperti firman Allah Ta'ala, *"Dia mengatur segala urusan dari langit ke bumi, kemudian (urusan) itu naik kepada-Nya"* (as-Sajdah: 5), firman-Nya, *"yang memiliki tempat-tempat naik (al-maʿārij)"* (al-Ma'arij: 3), dan *"Para malaikat dan Jibril naik (menghadap) kepada-Nya"* (al-Ma'arij: 4), jawabannya: *maʿārij* adalah jamak dari *maʿraj*, yaitu tempat naik; dari situ firman Allah Ta'ala, *"dan tangga-tangga yang mereka naiki"* (az-Zukhruf: 33). Dalam ayat-ayat ini tidak ada penjelasan bahwa tempat-tempat naik itu adalah tempat naik bagi apa. Maka gugurlah hujah mereka dalam bab ini. Bahkan boleh jadi tempat-tempat naik itu adalah tempat naik bagi nikmat-nikmat Allah Ta'ala, tempat naik para malaikat, atau tempat naik para penerima pahala.
 
-Adapun firman Allah Ta'ala, *"Para malaikat dan Jibril naik (menghadap) kepada-Nya,"* kami katakan: yang dimaksud dengan huruf *ilā* dalam firman-Nya *"kepada-Nya"* adalah kepada tempat yang Dia kehendaki. Padanannya firman Allah Ta'ala, *"dan kepada-Nyalah segala urusan dikembalikan,"*²⁹⁸ dan yang dimaksud adalah berakhirnya para penerima pahala di tempat-tempat kemuliaan dan kehormatan, seperti perkataan Ibrahim, *"Sesungguhnya aku harus pergi (menghadap) kepada Tuhanku, Dia akan memberi petunjuk kepadaku."*²⁹⁹ Hal ini merupakan isyarat bahwa negeri pahala adalah tempat yang paling tinggi dan paling luhur dibandingkan dengan (tempat) kebanyakan makhluk.
+Adapun firman Allah Ta'ala, *"Para malaikat dan Jibril naik (menghadap) kepada-Nya,"* kami katakan: yang dimaksud dengan huruf *ilā* dalam firman-Nya *"kepada-Nya"* adalah kepada tempat yang Dia kehendaki. Padanannya firman Allah Ta'ala, *"dan kepada-Nyalah segala urusan dikembalikan"* (Hud: 123), dan yang dimaksud adalah berakhirnya para penerima pahala di tempat-tempat kemuliaan dan kehormatan, seperti perkataan Ibrahim, *"Sesungguhnya aku harus pergi (menghadap) kepada Tuhanku, Dia akan memberi petunjuk kepadaku"* (ash-Shaffat: 99). Hal ini merupakan isyarat bahwa negeri pahala adalah tempat yang paling tinggi dan paling luhur dibandingkan dengan (tempat) kebanyakan makhluk.
 
-Adapun pegangan mereka yang kelima, yaitu lafaz *inzāl* dan *tanzīl*, jawabannya: mazhab lawan adalah bahwa Al-Qur'an adalah huruf dan suara, sehingga berpindah mustahil baginya, dan pemakaian lafaz *inzāl* dan *tanzīl* untuknya adalah majaz menurut kesepakatan; maka tidak boleh berpegang padanya. Lagi pula, suatu perbuatan terkadang disandarkan kepada yang memerintahkannya sebagaimana disandarkan kepada pelaku langsungnya. Tidakkah engkau lihat bahwa Allah Ta'ala menyandarkan pencabutan ruh-ruh kepada diri-Nya dengan firman-Nya, *"Allah menggenggam nyawa (manusia) pada saat kematiannya,"*³⁰⁰ kemudian menyandarkannya kepada Malaikat Maut dengan firman-Nya, *"Katakanlah, 'Malaikat maut yang diserahi (untuk mencabut nyawa)mu akan mematikanmu,'"*³⁰¹ kemudian menyandarkannya kepada para malaikat dengan firman-Nya, *"sehingga apabila kematian datang kepada salah seorang di antara kamu, malaikat-malaikat Kami mencabut nyawanya."*³⁰² Dia juga berfirman, *"utusan-utusan (malaikat) Kami selalu mencatat di sisi mereka,"*³⁰³ kemudian berfirman, *"dan sesungguhnya Kami mencatat untuknya."*³⁰⁴ Allah Ta'ala juga berfirman, *"orang-orang yang menyakiti Allah,"*³⁰⁵ yakni para wali-Nya; kemudian berfirman, *"Maka, ketika mereka membuat Kami murka,"*³⁰⁶ yakni para wali Kami; dan berfirman, *"Mereka menipu Allah,"*³⁰⁷ yakni Rasul-Nya dan orang-orang mukmin. Hanya kepada Allah kita memohon taufik.
+Adapun pegangan mereka yang kelima, yaitu lafaz *inzāl* dan *tanzīl*, jawabannya: mazhab lawan adalah bahwa Al-Qur'an adalah huruf dan suara, sehingga berpindah mustahil baginya, dan pemakaian lafaz *inzāl* dan *tanzīl* untuknya adalah majaz menurut kesepakatan; maka tidak boleh berpegang padanya. Lagi pula, suatu perbuatan terkadang disandarkan kepada yang memerintahkannya sebagaimana disandarkan kepada pelaku langsungnya. Tidakkah engkau lihat bahwa Allah Ta'ala menyandarkan pencabutan ruh-ruh kepada diri-Nya dengan firman-Nya, *"Allah menggenggam nyawa (manusia) pada saat kematiannya"* (az-Zumar: 42), kemudian menyandarkannya kepada Malaikat Maut dengan firman-Nya, *"Katakanlah, 'Malaikat maut yang diserahi (untuk mencabut nyawa)mu akan mematikanmu'"* (as-Sajdah: 11), kemudian menyandarkannya kepada para malaikat dengan firman-Nya, *"sehingga apabila kematian datang kepada salah seorang di antara kamu, malaikat-malaikat Kami mencabut nyawanya"* (al-An'am: 61). Dia juga berfirman, *"utusan-utusan (malaikat) Kami selalu mencatat di sisi mereka"* (az-Zukhruf: 80), kemudian berfirman, *"dan sesungguhnya Kami mencatat untuknya"* (al-Anbiya': 94). Allah Ta'ala juga berfirman, *"orang-orang yang menyakiti Allah"* (al-Ahzab: 57), yakni para wali-Nya; kemudian berfirman, *"Maka, ketika mereka membuat Kami murka"* (az-Zukhruf: 55), yakni para wali Kami; dan berfirman, *"Mereka menipu Allah"* (al-Baqarah: 9), yakni Rasul-Nya dan orang-orang mukmin. Hanya kepada Allah kita memohon taufik.
 
-Adapun pegangan mereka yang keenam, yaitu berpegang pada bentuk *ilā* bagi Allah Ta'ala, seperti firman-Nya, *"kepada Tuhannya mereka memandang,"*³⁰⁸ (jawabannya): memandang kepada sesuatu mengharuskan melihatnya, sehingga boleh yang dimaksud dengan memandang adalah melihat, dengan cara menyebut nama sebab untuk akibatnya. Lagi pula, Allah Ta'ala mengisahkan tentang sang Khalil 'alaihissalam bahwa ia berkata, *"Sesungguhnya aku harus pergi (menghadap) kepada Tuhanku, Dia akan memberi petunjuk kepadaku,"*³⁰⁹ dan yang dimaksud bukan kedekatan secara arah; demikian pula di sini. Allah lebih mengetahui.
+Adapun pegangan mereka yang keenam, yaitu berpegang pada bentuk *ilā* bagi Allah Ta'ala, seperti firman-Nya, *"kepada Tuhannya mereka memandang"* (al-Qiyamah: 23), (jawabannya): memandang kepada sesuatu mengharuskan melihatnya, sehingga boleh yang dimaksud dengan memandang adalah melihat, dengan cara menyebut nama sebab untuk akibatnya. Lagi pula, Allah Ta'ala mengisahkan tentang sang Khalil 'alaihissalam bahwa ia berkata, *"Sesungguhnya aku harus pergi (menghadap) kepada Tuhanku, Dia akan memberi petunjuk kepadaku"* (ash-Shaffat: 99), dan yang dimaksud bukan kedekatan secara arah; demikian pula di sini. Allah lebih mengetahui.
 
-Adapun pegangan mereka yang ketujuh, yaitu firman Allah Ta'ala, *"Sudah merasa amankah kamu terhadap (Allah) yang di langit?"*³¹⁰ jawabannya: ayat ini tidak mungkin diberlakukan menurut makna lahiriahnya. Hal itu ditunjukkan oleh dua segi.³¹¹
+Adapun pegangan mereka yang ketujuh, yaitu firman Allah Ta'ala, *"Sudah merasa amankah kamu terhadap (Allah) yang di langit?"* (al-Mulk: 16) jawabannya: ayat ini tidak mungkin diberlakukan menurut makna lahiriahnya. Hal itu ditunjukkan oleh dua segi.[^183]
 
-Pertama, Dia berfirman, *"Dialah Tuhan (yang disembah) di langit dan Tuhan (yang disembah) di bumi."*³¹² Ini menuntut bahwa yang dimaksud dengan keberadaan-Nya di langit dan keberadaan-Nya di bumi adalah satu makna. Namun keberadaan-Nya di bumi tidak bermakna menetap, maka keberadaan-Nya di langit pun wajib tidak bermakna menetap. Maka mengapa tidak boleh yang dimaksud dengan *"Sudah merasa amankah kamu terhadap (Allah) yang di langit"*³¹³ adalah para malaikat yang berada di langit? Sebab, dalam perkataan itu tidak ada yang menunjukkan bahwa yang di langit itu adalah Tuhan, dan tidak diragukan bahwa para malaikat adalah musuh orang-orang kafir dan fasik. Atau mengapa tidak boleh yang dimaksud adalah, "Sudah merasa amankah kamu terhadap Dia yang kerajaan-Nya di langit?" Langit dikhususkan dengan penyebutan karena ia lebih agung daripada bumi, untuk membesarkan perkara.
+Pertama, Dia berfirman, *"Dialah Tuhan (yang disembah) di langit dan Tuhan (yang disembah) di bumi"* (az-Zukhruf: 84). Ini menuntut bahwa yang dimaksud dengan keberadaan-Nya di langit dan keberadaan-Nya di bumi adalah satu makna. Namun keberadaan-Nya di bumi tidak bermakna menetap, maka keberadaan-Nya di langit pun wajib tidak bermakna menetap. Maka mengapa tidak boleh yang dimaksud dengan *"Sudah merasa amankah kamu terhadap (Allah) yang di langit"* (al-Mulk: 16) adalah para malaikat yang berada di langit? Sebab, dalam perkataan itu tidak ada yang menunjukkan bahwa yang di langit itu adalah Tuhan, dan tidak diragukan bahwa para malaikat adalah musuh orang-orang kafir dan fasik. Atau mengapa tidak boleh yang dimaksud adalah, "Sudah merasa amankah kamu terhadap Dia yang kerajaan-Nya di langit?" Langit dikhususkan dengan penyebutan karena ia lebih agung daripada bumi, untuk membesarkan perkara.
 
 Adapun pegangan mereka yang kedelapan, yaitu lafaz hijab, jawabannya: mengapa tidak boleh yang dimaksud dengan hijab adalah tidak adanya penglihatan? Sebab, hijab menuntut tercegahnya penglihatan, sehingga pemakaian lafaz hijab untuk tercegahnya penglihatan termasuk bab memakai nama sebab untuk akibatnya.
 
-Adapun pegangan mereka yang kesembilan, yaitu ayat-ayat yang memuat pengangkatan, seperti firman Allah Ta'ala, *"Akan tetapi, Allah telah mengangkatnya kepada-Nya,"*³¹⁴ dan firman-Nya, *"dan amal kebajikan Dia akan mengangkatnya,"*³¹⁵ jawabannya: ketika Allah Ta'ala mengangkatnya ke tempat kemuliaan dan tempat lain, sah secara majaz dikatakan bahwa Allah Ta'ala mengangkatnya kepada-Nya, sebagaimana seorang raja, apabila memuliakan seseorang, baik dikatakan bahwa ia mengangkatnya ke derajat yang tinggi dari derajat itu dan mendekatkannya kepada dirinya. Dari situ pula firman Allah Ta'ala, *"Selain itu, orang-orang yang paling dahulu (beriman), merekalah yang paling dahulu (masuk surga). Mereka itulah orang yang didekatkan (kepada Allah)."*³¹⁶,³¹⁷
+Adapun pegangan mereka yang kesembilan, yaitu ayat-ayat yang memuat pengangkatan, seperti firman Allah Ta'ala, *"Akan tetapi, Allah telah mengangkatnya kepada-Nya"* (an-Nisa': 158), dan firman-Nya, *"dan amal kebajikan Dia akan mengangkatnya"* (Fathir: 10), jawabannya: ketika Allah Ta'ala mengangkatnya ke tempat kemuliaan dan tempat lain, sah secara majaz dikatakan bahwa Allah Ta'ala mengangkatnya kepada-Nya, sebagaimana seorang raja, apabila memuliakan seseorang, baik dikatakan bahwa ia mengangkatnya ke derajat yang tinggi dari derajat itu dan mendekatkannya kepada dirinya. Dari situ pula firman Allah Ta'ala, *"Selain itu, orang-orang yang paling dahulu (beriman), merekalah yang paling dahulu (masuk surga). Mereka itulah orang yang didekatkan (kepada Allah)"* (al-Waqi'ah: 10-11).
 
-Adapun pegangan mereka yang kesepuluh, yaitu ayat-ayat yang memuat lafaz keberadaan di sisi (*ʿindiyya*), tidak boleh yang dimaksud dengan keberadaan di sisi itu adalah ruang; yang dimaksud adalah kemuliaan. Dalilnya adalah sabda beliau shallallahu 'alaihi wasallam yang mengisahkan firman Tuhan Yang Mahaperkasa, *"Aku berada di sisi orang-orang yang hatinya hancur karena-Ku,"* dan sabdanya, *"Aku berada di sisi persangkaan hamba-Ku kepada-Ku."* Bahkan ini lebih kuat, sebab nas-nas yang mereka sebutkan menunjukkan bahwa para malaikat berada di sisi Allah Ta'ala, (sebagaimana firman-Nya tentang Dawud,) *"Sesungguhnya dia mempunyai kedudukan yang benar-benar dekat di sisi Kami,"*³¹⁸ padahal yang dimaksud dengan keberadaan di sisi ini bukan arah; demikian pula di sini.
+Adapun pegangan mereka yang kesepuluh, yaitu ayat-ayat yang memuat lafaz keberadaan di sisi (*ʿindiyya*), tidak boleh yang dimaksud dengan keberadaan di sisi itu adalah ruang; yang dimaksud adalah kemuliaan. Dalilnya adalah sabda beliau shallallahu 'alaihi wasallam yang mengisahkan firman Tuhan Yang Mahaperkasa, *"Aku berada di sisi orang-orang yang hatinya hancur karena-Ku,"* dan sabdanya, *"Aku berada di sisi persangkaan hamba-Ku kepada-Ku."* Bahkan ini lebih kuat, sebab nas-nas yang mereka sebutkan menunjukkan bahwa para malaikat berada di sisi Allah Ta'ala, (sebagaimana firman-Nya tentang Dawud,) *"Sesungguhnya dia mempunyai kedudukan yang benar-benar dekat di sisi Kami"* (Shad: 40), padahal yang dimaksud dengan keberadaan di sisi ini bukan arah; demikian pula di sini.
 
 Inilah isyarat kepada jawaban atas segi-segi yang mereka jadikan pegangan dari Al-Qur'an dalam menetapkan arah bagi Allah Ta'ala. Hanya kepada Allah kita memohon taufik.
 
@@ -2194,159 +1933,27 @@ Adapun hadis-hadis yang mereka jadikan pegangan, kami katakan:
 
 Adapun hadis pertama, ketahuilah bahwa sebagian orang meriwayatkan hadis ini dengan cara lain. Ia berkata bahwa beliau shallallahu 'alaihi wasallam bersabda, *"Dia meletakkan Arasy-Nya di atas langit-langit begini,"* dan beliau membentuk kubah dengan jarinya seperti kubah. Jika kita membawa riwayat itu kepada cara ini, sama sekali tidak ada kemusykilan padanya. Tujuan perkataan ini adalah pendekatan (pemahaman), pengajaran, dan penjelasan keagungan Allah sejauh yang dapat dijangkau pemahaman penanya. Sabdanya, *"Arasy itu berderit karena-Nya,"* maknanya: Arasy tidak sanggup menanggung kebesaran dan keagungan-Nya, sehingga berderit karena-Nya bila dibebani. Sebab, derit pelana karena penunggangnya terjadi karena kuatnya apa yang di atasnya dan ketidakmampuannya menanggungnya. Maka beliau shallallahu 'alaihi wasallam, dengan jenis (perumpamaan) ini, mendekatkan pemahaman tentang keagungan Allah Ta'ala dan ketinggian Arasy-Nya, agar lawan bicara tahu bahwa Allah Ta'ala lebih agung dan lebih tinggi daripada dijadikan serupa dengan seorang pun dari makhluk-Nya. Aku (ar-Razi) berkata: makna lahiriah hadis itu menunjukkan bahwa Arasy dijadikan berhingga dalam kekuatan (menanggung); sebab jika tidak, tidak akan terjadi derit. Semua itu menafikan ketuhanan. Maka kita tahu bahwa lafaz itu mesti dibawa kepada selain makna lahiriahnya.
 
-Adapun hadis kedua, yaitu sabda beliau shallallahu 'alaihi wasallam, *"Ketika Allah telah menetapkan penciptaan, Dia menulis sebuah ketetapan, dan ketetapan itu ada di sisi-Nya di atas Arasy,"*³²⁰ jawabannya adalah apa yang telah dikemukakan tentang lafaz *ʿind* dalam Al-Qur'an.
+Adapun hadis kedua, yaitu sabda beliau shallallahu 'alaihi wasallam, *"Ketika Allah telah menetapkan penciptaan, Dia menulis sebuah ketetapan, dan ketetapan itu ada di sisi-Nya di atas Arasy,"*[^184] jawabannya adalah apa yang telah dikemukakan tentang lafaz *ʿind* dalam Al-Qur'an.
 
-Adapun hadis ketiga, jawabannya: kata *ayna* (di mana), sebagaimana dijadikan pertanyaan tentang tempat, terkadang dijadikan pertanyaan tentang kedudukan dan derajat. Dikatakan, "Di mana si Fulan dibandingkan si Fulan?" Mungkin pertanyaan itu tentang kedudukan, lalu ia menunjuk ke langit, yakni bahwa Dia sangat tinggi kedudukan-Nya. Beliau mencukupkan diri dengan isyarat itu darinya hanya karena keterbatasan akal dan sedikitnya pemahaman perempuan itu.³²¹ Jawaban ini juga layak menjadi jawaban atas pegangan mereka dengan hadis kedua, yaitu bahwa lafaz *ʿind* disebut untuk menjelaskan kedudukan dan derajat.³¹⁹
+Adapun hadis ketiga, jawabannya: kata *ayna* (di mana), sebagaimana dijadikan pertanyaan tentang tempat, terkadang dijadikan pertanyaan tentang kedudukan dan derajat. Dikatakan, "Di mana si Fulan dibandingkan si Fulan?" Mungkin pertanyaan itu tentang kedudukan, lalu ia menunjuk ke langit, yakni bahwa Dia sangat tinggi kedudukan-Nya. Beliau mencukupkan diri dengan isyarat itu darinya hanya karena keterbatasan akal dan sedikitnya pemahaman perempuan itu.[^185] Jawaban ini juga layak menjadi jawaban atas pegangan mereka dengan hadis kedua, yaitu bahwa lafaz *ʿind* disebut untuk menjelaskan kedudukan dan derajat.[^186]
 
 Adapun kisah mikraj, maksudnya adalah bahwa Allah Ta'ala hendak memperlihatkan (kepada beliau) berbagai jenis makhluk-Nya di alam atas dan alam bawah, agar penyaksiannya terhadap dalil-dalil lebih banyak sehingga jiwanya menjadi lebih kuat dan lebih sempurna, sebagaimana halnya dengan sang Khalil 'alaihissalam.
 
-Adapun firman-Nya, *"Kemudian dia mendekat, lalu bertambah dekat. Maka, jadilah dia dekat (pada jarak) dua busur panah atau lebih dekat (lagi),"*³²²,³²³ dalam hal ini ada beberapa segi.
+Adapun firman-Nya, *"Kemudian dia mendekat, lalu bertambah dekat. Maka, jadilah dia dekat (pada jarak) dua busur panah atau lebih dekat (lagi)"* (an-Najm: 8-9), dalam hal ini ada beberapa segi.
 
 Pertama, kedekatan ini adalah kedekatan kedudukan dan kemuliaan, seperti firman-Nya (dalam hadis qudsi), *"Siapa yang mendekat kepada-Ku sejengkal, Aku mendekat kepadanya sehasta."*
 
-Kedua, "kemudian dia mendekat, lalu bertambah dekat," yakni Jibril mendekat kepada Muhammad 'alaihimassalam. Dalilnya adalah firman Allah Ta'ala dalam ayat lain, *"Sungguh, dia (Nabi Muhammad) benar-benar telah melihatnya (Jibril) di ufuk yang terang."*³²⁴ Kemudian, ketika Jibril mendekat kepada Muhammad 'alaihimassalam, terjadilah wahyu dari Allah Ta'ala kepadanya. Karena itu Dia berfirman, *"Lalu, Dia menyampaikan wahyu kepada hamba-Nya apa yang Dia wahyukan."*³²⁵
+Kedua, "kemudian dia mendekat, lalu bertambah dekat," yakni Jibril mendekat kepada Muhammad 'alaihimassalam. Dalilnya adalah firman Allah Ta'ala dalam ayat lain, *"Sungguh, dia (Nabi Muhammad) benar-benar telah melihatnya (Jibril) di ufuk yang terang"* (at-Takwir: 23). Kemudian, ketika Jibril mendekat kepada Muhammad 'alaihimassalam, terjadilah wahyu dari Allah Ta'ala kepadanya. Karena itu Dia berfirman, *"Lalu, Dia menyampaikan wahyu kepada hamba-Nya apa yang Dia wahyukan"* (an-Najm: 10).
 
-Adapun jawaban atas pegangan mereka pada perkataan Fir'aun, *"Wahai Haman, buatkanlah untukku sebuah bangunan yang tinggi,"*³²⁶ ialah bahwa perkataan ini adalah perkataan Fir'aun, dan ia dilawan oleh kenyataan bahwa Musa 'alaihissalam tidak berkata "Tuhan di langit", melainkan berkata "Tuhan langit". Kemudian, Fir'aun mengira bahwa Tuhan menetap di langit. Inilah jawaban atas syubhat ini. Hanya kepada Allah kita memohon taufik.
+Adapun jawaban atas pegangan mereka pada perkataan Fir'aun, *"Wahai Haman, buatkanlah untukku sebuah bangunan yang tinggi"* (Gafir: 36), ialah bahwa perkataan ini adalah perkataan Fir'aun, dan ia dilawan oleh kenyataan bahwa Musa 'alaihissalam tidak berkata "Tuhan di langit", melainkan berkata "Tuhan langit". Kemudian, Fir'aun mengira bahwa Tuhan menetap di langit. Inilah jawaban atas syubhat ini. Hanya kepada Allah kita memohon taufik.
 
-²⁵⁷ CT: QS Taha [20]: 5. (Edisi Turki tertulis 20/4.)
+[^183]: CT: Dalam teks disebutkan dua segi, tetapi hanya satu segi yang dijelaskan. (catatan penerjemah)
 
-²⁵⁸ CT: QS Taha [20]: 4.
+[^184]: CT: (Teks catatan ini tidak terbaca dalam naskah Turki.)
 
-²⁵⁹ CT: QS Taha [20]: 5. (Edisi Turki tertulis al-Baqarah 2/255.)
+[^185]: CT: Hal ini tidak dapat diberlakukan kepada semua perempuan. Penilaian ini adakalanya khusus bagi perempuan tersebut, atau ar-Razi mungkin mengatakannya karena terpengaruh oleh pandangan tentang perempuan yang umum pada masanya. (catatan penerjemah)
 
-²⁶⁰ CT: QS Taha [20]: 6. (Edisi Turki tertulis al-Baqarah 2/255, ayat yang memuat ungkapan serupa.)
-
-²⁶¹ CT: QS Taha [20]: 6. (Edisi Turki tertulis al-Baqarah 2/255.)
-
-²⁶² CT: QS Taha [20]: 6. (Edisi Turki tertulis al-Baqarah 2/255.)
-
-²⁶³ CT: QS Taha [20]: 4.
-
-²⁶⁴ CT: QS Taha [20]: 6.
-
-²⁶⁵ CT: QS Taha [20]: 5.
-
-²⁶⁶ CT: QS al-Haqqah [69]: 17.
-
-²⁶⁷ CT: (Teks catatan ini tidak terbaca dalam naskah Turki; menurut konteksnya: QS Qaf [50]: 16.)
-
-²⁶⁸ CT: QS al-Hadid [57]: 4.
-
-²⁶⁹ CT: QS az-Zukhruf [43]: 84.
-
-²⁷⁰ CT: QS an-Nisa' [4]: 142.
-
-²⁷¹ CT: QS ar-Rum [30]: 27.
-
-²⁷² CT: QS Ali 'Imran [3]: 54.
-
-²⁷³ CT: QS al-Baqarah [2]: 15.
-
-²⁷⁴ CT: (Teks catatan ini tidak terbaca dalam naskah Turki; menurut konteksnya: QS at-Taubah [9]: 129.)
-
-²⁷⁵ CT: (Teks catatan ini tidak terbaca dalam naskah Turki; menurut konteksnya: QS Yusuf [12]: 76.)
-
-²⁷⁶ CT: QS al-A'raf [7]: 127.
-
-²⁷⁷ CT: QS al-Fath [48]: 10.
-
-²⁷⁸ CT: QS al-Baqarah [2]: 26.
-
-²⁷⁹ CT: QS al-An'am [6]: 18.
-
-²⁸⁰ CT: QS an-Nahl [16]: 128. (Edisi Turki tertulis 16/28.)
-
-²⁸¹ CT: QS al-Baqarah [2]: 153. (Edisi Turki tertulis 2/53.)
-
-²⁸² CT: QS al-Hadid [57]: 4.
-
-²⁸³ CT: QS Qaf [50]: 16.
-
-²⁸⁴ CT: QS al-Baqarah [2]: 186.
-
-²⁸⁵ CT: QS al-Mujadalah [58]: 7.
-
-²⁸⁶ CT: QS an-Nahl [16]: 50. (Edisi Turki tertulis 16/56.)
-
-²⁸⁷ CT: QS an-Nahl [16]: 50. (Edisi Turki tertulis 16/56.)
-
-²⁸⁸ CT: QS Taha [20]: 68.
-
-²⁸⁹ CT: QS Ali 'Imran [3]: 139.
-
-²⁹⁰ CT: QS at-Taubah [9]: 40.
-
-²⁹¹ CT: QS an-Nazi'at [79]: 24.
-
-²⁹² CT: QS al-A'la [87]: 1.
-
-²⁹³ CT: QS al-A'la [87]: 1.
-
-²⁹⁴ CT: (Teks catatan ini tidak terbaca dalam naskah Turki; menurut konteksnya: QS as-Sajdah [32]: 5.)
-
-²⁹⁵ CT: QS al-Ma'arij [70]: 3.
-
-²⁹⁶ CT: QS al-Ma'arij [70]: 4.
-
-²⁹⁷ CT: QS az-Zukhruf [43]: 33.
-
-²⁹⁸ CT: QS Hud [11]: 123.
-
-²⁹⁹ CT: QS ash-Shaffat [37]: 99.
-
-³⁰⁰ CT: QS az-Zumar [39]: 42.
-
-³⁰¹ CT: QS as-Sajdah [32]: 11.
-
-³⁰² CT: QS al-An'am [6]: 61.
-
-³⁰³ CT: QS az-Zukhruf [43]: 80.
-
-³⁰⁴ CT: QS al-Anbiya' [21]: 94.
-
-³⁰⁵ CT: QS al-Ahzab [33]: 57.
-
-³⁰⁶ CT: QS az-Zukhruf [43]: 55.
-
-³⁰⁷ CT: QS al-Baqarah [2]: 9.
-
-³⁰⁸ CT: QS al-Qiyamah [75]: 23.
-
-³⁰⁹ CT: QS ash-Shaffat [37]: 99.
-
-³¹⁰ CT: QS al-Mulk [67]: 16.
-
-³¹¹ CT: Dalam teks disebutkan dua segi, tetapi hanya satu segi yang dijelaskan. (catatan penerjemah)
-
-³¹² CT: QS az-Zukhruf [43]: 84.
-
-³¹³ CT: QS al-Mulk [67]: 16.
-
-³¹⁴ CT: QS an-Nisa' [4]: 158.
-
-³¹⁵ CT: QS Fathir [35]: 10.
-
-³¹⁶ CT: QS al-Waqi'ah [56]: 10.
-
-³¹⁷ CT: QS al-Waqi'ah [56]: 11.
-
-³¹⁸ CT: QS Shad [38]: 40.
-
-³¹⁹ CT: Muslim, *al-Masajid*, 33; Abu Dawud, *ash-Shalah*, 167, *al-Aiman*, 16; an-Nasa'i, *ash-Shaum*, 20; ad-Darimi, *an-Nudzur*, 10; *al-Muwaththa'*, *al-'Itq*, 8, 9; Ahmad bin Hanbal, II/291.
-
-³²⁰ CT: (Teks catatan ini tidak terbaca dalam naskah Turki.)
-
-³²¹ CT: Hal ini tidak dapat diberlakukan kepada semua perempuan. Penilaian ini adakalanya khusus bagi perempuan tersebut, atau ar-Razi mungkin mengatakannya karena terpengaruh oleh pandangan tentang perempuan yang umum pada masanya. (catatan penerjemah)
-
-³²² CT: QS an-Najm [53]: 8.
-
-³²³ CT: QS an-Najm [53]: 9.
-
-³²⁴ CT: QS at-Takwir [81]: 23.
-
-³²⁵ CT: QS an-Najm [53]: 10.
-
-³²⁶ CT: QS Gafir [40]: 36.
+[^186]: CT: Muslim, *al-Masajid*, 33; Abu Dawud, *ash-Shalah*, 167, *al-Aiman*, 16; an-Nasa'i, *ash-Shaum*, 20; ad-Darimi, *an-Nudzur*, 10; *al-Muwaththa'*, *al-'Itq*, 8, 9; Ahmad bin Hanbal, II/291.
 
 ### Pasal Ketiga Puluh: Uraian Umum tentang Hadis-Hadis Ahad
 
@@ -2354,9 +1961,11 @@ Adapun jawaban atas pegangan mereka pada perkataan Fir'aun, *"Wahai Haman, buatk
 
 Kami katakan: berpegang pada hadis ahad (*khabar al-wāḥid*, خبر الواحد) dalam pengenalan akan Allah Ta'ala tidak diperbolehkan. Hal itu ditunjukkan oleh beberapa segi.
 
-Pertama, hadis-hadis ahad bersifat dugaan (*ẓannī*), sehingga tidak boleh berpegang padanya dalam mengenal Allah Ta'ala dan sifat-sifat-Nya. Kami katakan bahwa ia bersifat dugaan karena kita telah bersepakat bahwa para perawi tidak maksum. Bagaimana tidak, sementara ketika kaum Rafidah sepakat tentang kemaksuman Ali radhiyallahu 'anhu seorang, para ahli hadis itu mengafirkan mereka. Jika pendapat tentang kemaksuman Ali karramallahu wajhah mengharuskan mereka mengafirkan orang-orang yang berpendapat tentang kemaksuman Ali, bagaimana mungkin mereka (menetapkan) kemaksuman para perawi ini? Jika mereka tidak maksum, kekeliruan boleh terjadi pada mereka dan dusta pun boleh terjadi pada mereka; maka ketika itu kejujuran mereka tidak diketahui secara pasti, melainkan diduga. Maka tetaplah bahwa hadis ahad bersifat dugaan, sehingga wajib tidak boleh berpegang padanya, karena firman Allah Ta'ala, *"Sesungguhnya dugaan itu tidak berfaedah sedikit pun terhadap kebenaran,"*³²⁷ karena firman Allah Ta'ala tentang sifat orang-orang kafir, *"Mereka tidak lain hanyalah mengikuti dugaan,"*³²⁸ *"Janganlah engkau mengikuti sesuatu yang tidak kauketahui,"*³²⁹ dan karena firman-Nya, *"dan mengatakan tentang Allah apa yang tidak kamu ketahui."*³³⁰ Keumuman ayat-ayat ini ditinggalkan dalam cabang-cabang syariat karena yang dituntut di sana adalah dugaan; maka wajiblah dalam masalah-masalah pokok (*uṣūl*) ia tetap pada hukum asalnya.
+Pertama, hadis-hadis ahad bersifat dugaan (*ẓannī*), sehingga tidak boleh berpegang padanya dalam mengenal Allah Ta'ala dan sifat-sifat-Nya. Kami katakan bahwa ia bersifat dugaan karena kita telah bersepakat bahwa para perawi tidak maksum. Bagaimana tidak, sementara ketika kaum Rafidah sepakat tentang kemaksuman Ali radhiyallahu 'anhu seorang, para ahli hadis itu mengafirkan mereka. Jika pendapat tentang kemaksuman Ali karramallahu wajhah mengharuskan mereka mengafirkan orang-orang yang berpendapat tentang kemaksuman Ali, bagaimana mungkin mereka (menetapkan) kemaksuman para perawi ini? Jika mereka tidak maksum, kekeliruan boleh terjadi pada mereka dan dusta pun boleh terjadi pada mereka; maka ketika itu kejujuran mereka tidak diketahui secara pasti, melainkan diduga. Maka tetaplah bahwa hadis ahad bersifat dugaan, sehingga wajib tidak boleh berpegang padanya, karena firman Allah Ta'ala, *"Sesungguhnya dugaan itu tidak berfaedah sedikit pun terhadap kebenaran"* (an-Najm: 28), karena firman Allah Ta'ala tentang sifat orang-orang kafir, *"Mereka tidak lain hanyalah mengikuti dugaan"* (an-Najm: 28), *"Janganlah engkau mengikuti sesuatu yang tidak kauketahui"* (al-Isra': 36), dan karena firman-Nya, *"dan mengatakan tentang Allah apa yang tidak kamu ketahui"* (al-Baqarah: 169). Keumuman ayat-ayat ini ditinggalkan dalam cabang-cabang syariat karena yang dituntut di sana adalah dugaan; maka wajiblah dalam masalah-masalah pokok (*uṣūl*) ia tetap pada hukum asalnya.
 
-Yang mengherankan dari kaum Hasywiyah ialah bahwa mereka berkata: menyibukkan diri dengan takwil ayat-ayat mutasyabih tidak boleh, karena penentuan takwil itu bersifat dugaan, sedangkan berkata dengan dugaan tentang Al-Qur'an tidak boleh. Kemudian mereka berbicara tentang Zat Allah Ta'ala dan sifat-sifat-Nya dengan hadis-hadis ahad, padahal hadis-hadis itu sangat jauh dari kepastian dan keyakinan. Jika mereka tidak membolehkan penafsiran lafaz-lafaz Al-Qur'an dengan jalan dugaan, maka lebih patut lagi mereka menahan diri dari berbicara tentang Zat al-Haqq Ta'ala dan sifat-sifat-Nya hanya dengan riwayat-riwayat yang lemah.
+Yang mengherankan dari kaum Hasywiyah[^187] ialah bahwa mereka berkata: menyibukkan diri dengan takwil ayat-ayat mutasyabih tidak boleh, karena penentuan takwil itu bersifat dugaan, sedangkan berkata dengan dugaan tentang Al-Qur'an tidak boleh. Kemudian mereka berbicara tentang Zat Allah Ta'ala dan sifat-sifat-Nya dengan hadis-hadis ahad, padahal hadis-hadis itu sangat jauh dari kepastian dan keyakinan. Jika mereka tidak membolehkan penafsiran lafaz-lafaz Al-Qur'an dengan jalan dugaan, maka lebih patut lagi mereka menahan diri dari berbicara tentang Zat al-Haqq Ta'ala dan sifat-sifat-Nya hanya dengan riwayat-riwayat yang lemah.
+
+[^187]: **Hasywiyah** (*al-Ḥashwiyya*; Ing. *al-Hashwiyya (sect)*). Suatu kaum yang berpegang pada makna-makna lahiriah sehingga terjerumus ke dalam paham kejisiman dan semacamnya. Menurut al-Subki, mereka memberlakukan ayat-ayat Allah menurut makna lahiriahnya dan meyakini bahwa itulah yang dimaksud. Nama ini dikaitkan dengan kisah al-Hasan al-Bashri yang menyuruh mereka dipindahkan ke pinggir (*ḥashā*) majelisnya; ada pula yang mengaitkannya dengan *ḥashw* (isian), karena sebagian dari mereka menganut paham kejisiman. (*Kashshāf*, s.v. *al-Ḥashwiyya*.)
 
 Kedua, tingkatan perawi yang paling agung kedudukannya dan paling tinggi derajatnya adalah para sahabat radhiyallahu 'anhum. Namun kita tahu bahwa riwayat mereka tidak menghasilkan kepastian dan keyakinan. Dalilnya: para ahli hadis itu sendiri meriwayatkan dari mereka bahwa masing-masing dari mereka menggugat yang lain dan menisbahkannya kepada hal yang tidak patut. Bukankah masyhur bahwa Umar menggugat Khalid bin al-Walid, bahwa Ibnu Mas'ud dan Abu Dzar bersungguh-sungguh menggugat Utsman, dan dinukil dari Aisyah radhiyallahu 'anha bahwa ia bersungguh-sungguh menggugat Utsman? Bukankah Umar berkata tentang Utsman bahwa ia lebih mengutamakan kerabatnya, dan berkata tentang Thalhah dan az-Zubair hal-hal lain yang serupa dengan itu? Bukankah suatu hari Ali karramallahu wajhah mendengar Abu Hurairah berkata, "Kekasihku Abul Qasim mengabarkan kepadaku," lalu Ali berkata kepadanya, "Sejak kapan ia menjadi kekasihmu?" Bukankah Umar radhiyallahu 'anhu melarang Abu Hurairah banyak meriwayatkan? Bukankah Ibnu Abbas menggugat hadis Abu Sa'id tentang riba (dalam pertukaran), dan menggugat hadis Abu Hurairah tentang mencuci kedua tangan, seraya berkata, "Lalu bagaimana kami berbuat dengan bejana air kami yang besar?" Bukankah ketika Abu Hurairah meriwayatkan, "Siapa yang memasuki waktu subuh dalam keadaan junub, tidak sah puasanya," mereka menggugatnya? Bukankah ketika Ibnu Umar meriwayatkan, "Sesungguhnya mayat benar-benar diazab karena tangisan keluarganya atasnya," Aisyah menggugatnya dengan firman Allah Ta'ala, *"Seseorang tidak akan memikul beban dosa orang lain"*? Bukankah mereka menggugat hadis Fathimah binti Qais dan berkata, "Kami tidak akan meninggalkan Kitab Tuhan kami dan Sunnah Nabi kami karena kabar seorang perempuan yang kami tidak tahu apakah ia jujur atau berdusta"? Bukankah Umar menuntut saksi kepada Abu Musa al-Asy'ari tentang hadis meminta izin dan bersikap keras kepadanya? Bukankah Ali biasa menyumpah para perawi? Bukankah Ali berkata kepada Umar dalam sebagian peristiwa, "Jika mereka mendekatimu (dengan pendapat itu), sungguh mereka telah menipumu"?
 
@@ -2372,14 +1981,6 @@ Kelima, para perawi yang mendengar hadis-hadis ini dari Rasul shallallahu 'alaih
 
 Ketahuilah, pembahasan dalam bab ini banyak, dan kadar yang telah kami kemukakan sudah memadai untuk menjelaskan bahwa tidak boleh berpegang pada hadis-hadis ahad dalam pokok agama. Allah lebih mengetahui.
 
-³²⁷ CT: QS an-Najm [53]: 28.
-
-³²⁸ CT: QS an-Najm [53]: 28.
-
-³²⁹ CT: QS al-Isra' [17]: 36. (Edisi Turki tertulis Yasin 36/36.)
-
-³³⁰ CT: QS al-Baqarah [2]: 169.
-
 ### Pasal Ketiga Puluh Satu: Bagaimana Keadaannya bila Burhan-Burhan Rasional Berlawanan dengan Makna Lahiriah Dalil Naqli
 
 *(Tr. h. 198)*
@@ -2392,9 +1993,9 @@ Kedua, keduanya dibatalkan; maka niscaya dua hal yang bertentangan didustakan, d
 
 Ketiga, dibenarkan makna lahiriah naqli dan didustakan (tuntutan) rasional; dan itu batil. Sebab, kita tidak mungkin mengetahui kesahihan makna lahiriah naqli kecuali bila kita telah mengetahui dengan dalil-dalil rasional penetapan Sang Pencipta dan sifat-sifat-Nya, cara mukjizat menunjukkan kebenaran Rasul shallallahu 'alaihi wasallam, dan munculnya mukjizat-mukjizat pada Muhammad shallallahu 'alaihi wasallam. Seandainya kita membolehkan gugatan terhadap dalil-dalil rasional yang pasti, akal menjadi tertuduh dan perkataannya tidak diterima; dan jika demikian, ia keluar dari kedudukannya sebagai yang diterima perkataannya dalam pokok-pokok ini. Jika pokok-pokok ini tidak tetap, dalil-dalil naqli keluar dari kedudukannya sebagai sesuatu yang berfaedah. Maka tetaplah bahwa menggugat (akal) demi membenarkan naql berujung pada gugatan terhadap akal dan naql sekaligus, dan itu batil.
 
-Karena kemungkinan-kemungkinan itu batil,ᵃ tidak tersisa kecuali memastikan tuntutan dalil-dalil rasional yang pasti, dan (menyatakan) bahwa dalil-dalil naqli ini adakalanya dikatakan tidak sahih, adakalanya dikatakan sahih tetapi yang dimaksud darinya bukan makna lahiriahnya. Kemudian, jika kita membolehkan takwil, kita menyibukkan diri, secara sukarela, dengan menyebutkan takwil-takwil itu secara terperinci; dan jika takwil tidak dibolehkan, kita serahkan pengetahuan tentangnya kepada Allah Ta'ala (*tafwīḍ*, تفويض). Inilah kaidah umum (*al-qānūn al-kullī*) yang menjadi rujukan dalam semua ayat dan hadis mutasyabih. Hanya kepada Allah kita memohon taufik.
+Karena kemungkinan-kemungkinan itu batil,[^188] tidak tersisa kecuali memastikan tuntutan dalil-dalil rasional yang pasti, dan (menyatakan) bahwa dalil-dalil naqli ini adakalanya dikatakan tidak sahih, adakalanya dikatakan sahih tetapi yang dimaksud darinya bukan makna lahiriahnya. Kemudian, jika kita membolehkan takwil, kita menyibukkan diri, secara sukarela, dengan menyebutkan takwil-takwil itu secara terperinci; dan jika takwil tidak dibolehkan, kita serahkan pengetahuan tentangnya kepada Allah Ta'ala (*tafwīḍ*, تفويض). Inilah kaidah umum (*al-qānūn al-kullī*) yang menjadi rujukan dalam semua ayat dan hadis mutasyabih. Hanya kepada Allah kita memohon taufik.
 
-ᵃ CP: Teks Arab berbunyi "karena keempat kemungkinan itu batil", padahal yang dinyatakan batil baru tiga. Kemungkinan keempat yang tersisa, yakni membenarkan tuntutan akal dan tidak memberlakukan makna lahiriah naql, justru itulah yang kemudian dipilih; maka di sini dipakai ungkapan "kemungkinan-kemungkinan itu".
+[^188]: CP: Teks Arab berbunyi "karena keempat kemungkinan itu batil", padahal yang dinyatakan batil baru tiga. Kemungkinan keempat yang tersisa, yakni membenarkan tuntutan akal dan tidak memberlakukan makna lahiriah naql, justru itulah yang kemudian dipilih; maka di sini dipakai ungkapan "kemungkinan-kemungkinan itu".
 
 ---
 
@@ -2409,35 +2010,35 @@ Bagian ini terdiri atas beberapa pasal.
 
 Ketahuilah, banyak ahli fikih, ahli hadis, dan kaum sufi membolehkan hal itu, sedangkan para mutakalim mengingkarinya. Mereka (para mutakalim) berhujah dengan ayat-ayat, hadis-hadis, dan dalil rasional. Adapun ayat-ayatnya banyak.
 
-Pertama, firman Allah Ta'ala, *"Tidakkah mereka merenungkan Al-Qur'an ataukah hati mereka sudah terkunci?"*¹ Dia memerintahkan manusia untuk merenungkan Al-Qur'an. Seandainya Al-Qur'an tidak dapat dipahami, bagaimana Dia memerintahkan kita merenungkannya?
+Pertama, firman Allah Ta'ala, *"Tidakkah mereka merenungkan Al-Qur'an ataukah hati mereka sudah terkunci?"* (Muhammad: 24) Dia memerintahkan manusia untuk merenungkan Al-Qur'an. Seandainya Al-Qur'an tidak dapat dipahami, bagaimana Dia memerintahkan kita merenungkannya?
 
-Kedua, firman-Nya, *"Tidakkah mereka menadaburi Al-Qur'an? Seandainya (Al-Qur'an) itu tidak datang dari sisi Allah, tentulah mereka menemukan banyak pertentangan di dalamnya."*² Bagaimana Dia memerintahkan kita merenungkannya untuk mengetahui tidak adanya kontradiksi dan pertentangan, padahal ia tidak dapat dipahami oleh makhluk?
+Kedua, firman-Nya, *"Tidakkah mereka menadaburi Al-Qur'an? Seandainya (Al-Qur'an) itu tidak datang dari sisi Allah, tentulah mereka menemukan banyak pertentangan di dalamnya"* (an-Nisa': 82). Bagaimana Dia memerintahkan kita merenungkannya untuk mengetahui tidak adanya kontradiksi dan pertentangan, padahal ia tidak dapat dipahami oleh makhluk?
 
-Ketiga, firman Allah Ta'ala, *"Sesungguhnya ia (Al-Qur'an) benar-benar diturunkan oleh Tuhan semesta alam."*³ *"Ia dibawa turun oleh ar-Ruh al-Amin (Jibril) ke dalam hatimu agar engkau menjadi salah seorang pemberi peringatan dengan bahasa Arab yang jelas."*⁴ Seandainya ia tidak dapat dipahami, bagaimana mungkin Rasul menjadi pemberi peringatan dengannya? Lagi pula, firman-Nya *"dengan bahasa Arab yang jelas"* menunjukkan bahwa ia turun dengan bahasa orang Arab; dan jika demikian, ia wajib dapat diketahui.
+Ketiga, firman Allah Ta'ala, *"Sesungguhnya ia (Al-Qur'an) benar-benar diturunkan oleh Tuhan semesta alam"* (asy-Syu'ara': 192). *"Ia dibawa turun oleh ar-Ruh al-Amin (Jibril) ke dalam hatimu agar engkau menjadi salah seorang pemberi peringatan dengan bahasa Arab yang jelas"* (asy-Syu'ara': 193-195). Seandainya ia tidak dapat dipahami, bagaimana mungkin Rasul menjadi pemberi peringatan dengannya? Lagi pula, firman-Nya *"dengan bahasa Arab yang jelas"* menunjukkan bahwa ia turun dengan bahasa orang Arab; dan jika demikian, ia wajib dapat diketahui.
 
-Keempat, firman Allah Ta'ala, *"niscaya orang-orang yang (mampu) menggali (maknanya) di antara mereka akan mengetahuinya."*⁵ Menggali (*istinbāṭ*) darinya tidak mungkin dilakukan kecuali setelah memahami maknanya secara menyeluruh.
+Keempat, firman Allah Ta'ala, *"niscaya orang-orang yang (mampu) menggali (maknanya) di antara mereka akan mengetahuinya"* (an-Nisa': 83). Menggali (*istinbāṭ*) darinya tidak mungkin dilakukan kecuali setelah memahami maknanya secara menyeluruh.
 
-Kelima, firman Allah Ta'ala, *"sebagai penjelasan bagi segala sesuatu,"*⁶ dan firman-Nya, *"Tidak ada sesuatu pun yang Kami luputkan di dalam Kitab."*⁷
+Kelima, firman Allah Ta'ala, *"sebagai penjelasan bagi segala sesuatu"* (an-Nahl: 89), dan firman-Nya, *"Tidak ada sesuatu pun yang Kami luputkan di dalam Kitab"* (al-An'am: 38).
 
-Keenam, firman Allah Ta'ala, *"petunjuk bagi orang-orang yang bertakwa."*⁸ Sesuatu yang tidak dapat diketahui tidak dapat menjadi petunjuk.
+Keenam, firman Allah Ta'ala, *"petunjuk bagi orang-orang yang bertakwa"* (al-Baqarah: 2). Sesuatu yang tidak dapat diketahui tidak dapat menjadi petunjuk.
 
 Ketujuh, firman Allah Ta'ala, *"(Itulah) hikmah yang sempurna,"* dan firman-Nya, *"penyembuh bagi apa yang terdapat dalam dada, dan petunjuk serta rahmat bagi orang-orang mukmin."* Semua sifat ini tidak terwujud pada sesuatu yang tidak dapat diketahui.
 
-Kedelapan, firman Allah Ta'ala, *"Sungguh, telah datang kepadamu cahaya dari Allah dan Kitab yang menjelaskan."*⁹ Ia tidak dapat menjelaskan kecuali bila dapat diketahui.
+Kedelapan, firman Allah Ta'ala, *"Sungguh, telah datang kepadamu cahaya dari Allah dan Kitab yang menjelaskan"* (al-Ma'idah: 15). Ia tidak dapat menjelaskan kecuali bila dapat diketahui.
 
-Kesembilan, firman Allah Ta'ala, *"Apakah tidak cukup bagi mereka bahwa Kami telah menurunkan kepadamu Kitab yang dibacakan kepada mereka? Sesungguhnya dalam (Al-Qur'an) itu terdapat rahmat dan pelajaran."*¹⁰ Bagaimana Kitab itu mencukupi dan bagaimana ia menjadi pelajaran, padahal ia tidak dapat dipahami?
+Kesembilan, firman Allah Ta'ala, *"Apakah tidak cukup bagi mereka bahwa Kami telah menurunkan kepadamu Kitab yang dibacakan kepada mereka? Sesungguhnya dalam (Al-Qur'an) itu terdapat rahmat dan pelajaran"* (al-'Ankabut: 51). Bagaimana Kitab itu mencukupi dan bagaimana ia menjadi pelajaran, padahal ia tidak dapat dipahami?
 
-Kesepuluh, firman Allah Ta'ala, *"(Al-Qur'an) ini adalah penjelasan (yang sempurna) bagi manusia agar mereka diberi peringatan dengannya."*¹¹ Bagaimana ia menjadi penyampaian dan bagaimana peringatan terjadi dengannya, padahal ia tidak dapat diketahui? Di akhir ayat Dia berfirman, *"dan agar orang yang berakal mengambil pelajaran,"*¹² dan itu hanya terjadi seandainya ia dapat diketahui.
+Kesepuluh, firman Allah Ta'ala, *"(Al-Qur'an) ini adalah penjelasan (yang sempurna) bagi manusia agar mereka diberi peringatan dengannya"* (Ibrahim: 52). Bagaimana ia menjadi penyampaian dan bagaimana peringatan terjadi dengannya, padahal ia tidak dapat diketahui? Di akhir ayat Dia berfirman, *"dan agar orang yang berakal mengambil pelajaran"* (Ibrahim: 52), dan itu hanya terjadi seandainya ia dapat diketahui.
 
-Kesebelas, firman Allah Ta'ala, *"sungguh telah sampai kepadamu bukti kebenaran (burhān) dari Tuhanmu, dan telah Kami turunkan kepadamu cahaya yang terang benderang."*¹³ Bagaimana ia menjadi burhan dan cahaya yang terang, padahal ia tidak dapat diketahui?
+Kesebelas, firman Allah Ta'ala, *"sungguh telah sampai kepadamu bukti kebenaran (burhān) dari Tuhanmu, dan telah Kami turunkan kepadamu cahaya yang terang benderang"* (an-Nisa': 174). Bagaimana ia menjadi burhan dan cahaya yang terang, padahal ia tidak dapat diketahui?
 
-Kedua belas, firman Allah Ta'ala, *"siapa yang mengikuti petunjuk-Ku, dia tidak akan sesat dan tidak akan celaka,"*¹⁴ *"Siapa yang berpaling dari peringatan-Ku, sesungguhnya baginya penghidupan yang sempit."*¹⁵ Bagaimana mungkin ia diikuti pada satu waktu dan dijauhi pada waktu lain, padahal ia tidak dapat diketahui?
+Kedua belas, firman Allah Ta'ala, *"siapa yang mengikuti petunjuk-Ku, dia tidak akan sesat dan tidak akan celaka"* (Taha: 123), *"Siapa yang berpaling dari peringatan-Ku, sesungguhnya baginya penghidupan yang sempit"* (Taha: 124). Bagaimana mungkin ia diikuti pada satu waktu dan dijauhi pada waktu lain, padahal ia tidak dapat diketahui?
 
-Ketiga belas, firman Allah Ta'ala, *"Sesungguhnya Al-Qur'an ini memberi petunjuk ke (jalan) yang paling lurus."*¹⁶ Bagaimana ia menjadi pemberi petunjuk, padahal ia tidak dapat diketahui oleh manusia?
+Ketiga belas, firman Allah Ta'ala, *"Sesungguhnya Al-Qur'an ini memberi petunjuk ke (jalan) yang paling lurus"* (al-Isra': 9). Bagaimana ia menjadi pemberi petunjuk, padahal ia tidak dapat diketahui oleh manusia?
 
-Keempat belas, firman Allah 'Azza wa Jalla, *"Rasul (Muhammad) beriman pada apa yang diturunkan kepadanya dari Tuhannya,"*¹⁷ sampai firman-Nya, *"Kami dengar dan kami taat."*¹⁸ Ketaatan tidak mungkin kecuali setelah mengetahui; maka Al-Qur'an wajib dapat dipahami.
+Keempat belas, firman Allah 'Azza wa Jalla, *"Rasul (Muhammad) beriman pada apa yang diturunkan kepadanya dari Tuhannya"* (al-Baqarah: 285), sampai firman-Nya, *"Kami dengar dan kami taat"* (al-Baqarah: 285). Ketaatan tidak mungkin kecuali setelah mengetahui; maka Al-Qur'an wajib dapat dipahami.
 
-Adapun hadis-hadisnya, sabda beliau shallallahu 'alaihi wasallam, *"Sesungguhnya aku tinggalkan di tengah kalian sesuatu yang jika kalian berpegang padanya kalian tidak akan tersesat: Kitab Allah, sunahku, dan keluargaku."*¹⁹ Bagaimana mungkin berpegang padanya, padahal ia tidak dapat diketahui? Dan dari Ali radhiyallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Hendaklah kalian berpegang pada Kitab Allah. Di dalamnya ada berita tentang orang-orang sebelum kalian, kabar tentang apa yang sesudah kalian, dan hukum tentang apa yang ada di antara kalian. Ia adalah pemisah (antara yang hak dan yang batil), bukan senda gurau. Siapa pun yang sewenang-wenang meninggalkannya, Allah akan mematahkannya; dan siapa yang mencari petunjuk pada selainnya, Allah akan menyesatkannya. Ia adalah tali Allah yang kukuh, peringatan yang penuh hikmah, dan jalan yang lurus. Ialah yang tidak dibelokkan oleh hawa nafsu, para ulama tidak pernah kenyang darinya, tidak menjadi usang karena banyak diulang, dan keajaiban-keajaibannya tidak pernah habis. Siapa yang berkata dengannya, ia benar; siapa yang memutuskan dengannya, ia adil; siapa yang berhujah dengannya, ia menang; dan siapa yang mengajak kepadanya, ia diberi petunjuk ke jalan yang lurus."*²⁰
+Adapun hadis-hadisnya, sabda beliau shallallahu 'alaihi wasallam, *"Sesungguhnya aku tinggalkan di tengah kalian sesuatu yang jika kalian berpegang padanya kalian tidak akan tersesat: Kitab Allah, sunahku, dan keluargaku."*[^189] Bagaimana mungkin berpegang padanya, padahal ia tidak dapat diketahui? Dan dari Ali radhiyallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Hendaklah kalian berpegang pada Kitab Allah. Di dalamnya ada berita tentang orang-orang sebelum kalian, kabar tentang apa yang sesudah kalian, dan hukum tentang apa yang ada di antara kalian. Ia adalah pemisah (antara yang hak dan yang batil), bukan senda gurau. Siapa pun yang sewenang-wenang meninggalkannya, Allah akan mematahkannya; dan siapa yang mencari petunjuk pada selainnya, Allah akan menyesatkannya. Ia adalah tali Allah yang kukuh, peringatan yang penuh hikmah, dan jalan yang lurus. Ialah yang tidak dibelokkan oleh hawa nafsu, para ulama tidak pernah kenyang darinya, tidak menjadi usang karena banyak diulang, dan keajaiban-keajaibannya tidak pernah habis. Siapa yang berkata dengannya, ia benar; siapa yang memutuskan dengannya, ia adil; siapa yang berhujah dengannya, ia menang; dan siapa yang mengajak kepadanya, ia diberi petunjuk ke jalan yang lurus."*[^190]
 
 Adapun dalil rasional, dari beberapa segi.
 
@@ -2451,11 +2052,11 @@ Inilah keseluruhan perkataan para mutakalim. Hanya kepada Allah kita memohon tau
 
 Para penentang mereka berhujah dengan ayat, hadis, dan dalil rasional. Adapun ayat, dari dua segi.
 
-Pertama, firman Allah Ta'ala tentang sifat ayat-ayat mutasyabih, *"padahal tidak ada yang mengetahui takwilnya kecuali Allah."*²¹ Berhenti (*waqf*) di sini wajib, dan dalilnya akan datang, insyaallah.
+Pertama, firman Allah Ta'ala tentang sifat ayat-ayat mutasyabih, *"padahal tidak ada yang mengetahui takwilnya kecuali Allah"* (Ali 'Imran: 7). Berhenti (*waqf*) di sini wajib, dan dalilnya akan datang, insyaallah.
 
 Kedua, huruf-huruf terpotong (*al-ḥurūf al-muqaṭṭaʿa*) yang disebut di awal surah-surah.
 
-Adapun hadis, sabda beliau shallallahu 'alaihi wasallam, *"Sesungguhnya di antara ilmu ada yang seperti sesuatu yang tersimpan rapat, yang tidak diketahui kecuali oleh orang-orang yang mengenal Allah. Apabila mereka mengucapkannya, orang-orang yang lengah terhadap Allah mengingkarinya."*²²
+Adapun hadis, sabda beliau shallallahu 'alaihi wasallam, *"Sesungguhnya di antara ilmu ada yang seperti sesuatu yang tersimpan rapat, yang tidak diketahui kecuali oleh orang-orang yang mengenal Allah. Apabila mereka mengucapkannya, orang-orang yang lengah terhadap Allah mengingkarinya."*[^191]
 
 Adapun dalil rasional: perbuatan-perbuatan yang dibebankan kepada kita ada dua macam. Di antaranya ada yang kita ketahui segi hikmahnya secara garis besar dengan akal kita, seperti salat, zakat, dan puasa: salat adalah kerendahan hati dan permohonan kepada Sang Pencipta, zakat adalah berbuat baik kepada orang-orang yang membutuhkan, dan puasa adalah menundukkan nafsu. Di antaranya pula ada yang tidak kita ketahui segi hikmahnya, seperti amalan-amalan haji; sebab kita tidak mengetahui segi hikmah melempar jumrah dan sai antara Shafa dan Marwah. Kemudian para peneliti sepakat bahwa sebagaimana baik bagi Yang Mahabijaksana Ta'ala memerintahkan hamba-hamba-Nya dengan jenis pertama, baik pula (memerintahkan) jenis kedua. Sebab, ketaatan dalam jenis pertama tidak menunjukkan kesempurnaan kepatuhan, karena boleh jadi yang diperintah melakukannya semata-mata karena ia mengetahui dengan akalnya segi kemaslahatan di dalamnya. Adapun ketaatan dalam jenis kedua menunjukkan kesempurnaan kepatuhan dan puncak penyerahan diri; sebab, karena ia sama sekali tidak mengetahui segi kemaslahatan di dalamnya, pelaksanaannya tidak lain karena kepatuhan dan penyerahan diri semata. Jika demikian halnya dalam perbuatan, mengapa tidak boleh demikian pula dalam perkataan? Yakni, apa yang Allah turunkan kepada kita dan Dia perintahkan kita untuk memuliakan dan membacanya terbagi menjadi dua: sebagiannya kita ketahui maknanya meskipun kita tidak meliputi seluruh kandungannya, dan sebagiannya sama sekali tidak kita ketahui maknanya; dan tujuan penurunannya serta pembebanan untuk membaca dan memuliakannya adalah tampaknya kesempurnaan penghambaan dan kepatuhan kepada perintah-perintah Allah Ta'ala.
 
@@ -2463,49 +2064,11 @@ Bahkan di sini ada faedah lain, yaitu bahwa manusia, apabila telah memahami suat
 
 Inilah yang ada padaku dari perkataan kedua golongan dalam bab ini. Hanya kepada Allah kita memohon taufik.
 
-¹ CT: QS Muhammad [47]: 24.
+[^189]: CT: Abu Dawud, *al-Manasik*, 56; Ibnu Majah, *al-Manasik*, 84; *al-Muwaththa'*, *al-Qadar*, 3.
 
-² CT: QS an-Nisa' [4]: 82.
+[^190]: CT: ad-Darimi, II/526.
 
-³ CT: QS asy-Syu'ara' [26]: 192.
-
-⁴ CT: QS asy-Syu'ara' [26]: 193-195.
-
-⁵ CT: QS an-Nisa' [4]: 83.
-
-⁶ CT: QS an-Nahl [16]: 89.
-
-⁷ CT: QS al-An'am [6]: 38.
-
-⁸ CT: QS al-Baqarah [2]: 2.
-
-⁹ CT: QS al-Ma'idah [5]: 15.
-
-¹⁰ CT: QS al-'Ankabut [29]: 51.
-
-¹¹ CT: QS Ibrahim [14]: 52.
-
-¹² CT: QS Ibrahim [14]: 52.
-
-¹³ CT: QS an-Nisa' [4]: 174.
-
-¹⁴ CT: QS Taha [20]: 123.
-
-¹⁵ CT: QS Taha [20]: 124.
-
-¹⁶ CT: QS al-Isra' [17]: 9.
-
-¹⁷ CT: QS al-Baqarah [2]: 285.
-
-¹⁸ CT: QS al-Baqarah [2]: 285.
-
-¹⁹ CT: Abu Dawud, *al-Manasik*, 56; Ibnu Majah, *al-Manasik*, 84; *al-Muwaththa'*, *al-Qadar*, 3.
-
-²⁰ CT: ad-Darimi, II/526.
-
-²¹ CT: QS Ali 'Imran [3]: 7.
-
-²² CT: ad-Dailami, *al-Firdaus*, I/210.
+[^191]: CT: ad-Dailami, *al-Firdaus*, I/210.
 
 ### Pasal Kedua: Tentang Penyifatan Al-Qur'an sebagai Muhkam dan Mutasyabih
 
@@ -2513,17 +2076,17 @@ Inilah yang ada padaku dari perkataan kedua golongan dalam bab ini. Hanya kepada
 
 Ketahuilah, Kitab Allah Ta'ala menunjukkan bahwa ia seluruhnya muhkam, menunjukkan bahwa ia seluruhnya mutasyabih, dan menunjukkan bahwa sebagiannya muhkam dan sebagiannya mutasyabih.
 
-Adapun yang menunjukkan bahwa ia seluruhnya muhkam adalah firman Allah Ta'ala, *"Alif Lam Ra. (Inilah) Kitab yang ayat-ayatnya disusun dengan rapi (uḥkimat),"*²³ dan *"Alif Lam Ra. Inilah ayat-ayat Kitab (Al-Qur'an) yang penuh hikmah (al-ḥakīm)."*²⁴ Dalam kedua ayat ini disebutkan bahwa seluruhnya muhkam. Yang dimaksud dengan *iḥkām* dalam makna ini adalah bahwa ia benar dalam lafaz-lafaznya dan benar dalam makna-maknanya, dan bahwa Al-Qur'an lebih utama daripada setiap perkataan selainnya dalam lafaz dan maknanya, dan tidak seorang pun dari makhluk mampu mendatangkan perkataan yang setara dengan Al-Qur'an dalam lafaz dan maknanya. Orang Arab menyebut bangunan yang kukuh dan perjanjian yang kukuh, yang tidak mungkin dibatalkan, sebagai *muḥkam*. Inilah makna penyifatan seluruh Al-Qur'an sebagai muhkam.
+Adapun yang menunjukkan bahwa ia seluruhnya muhkam adalah firman Allah Ta'ala, *"Alif Lam Ra. (Inilah) Kitab yang ayat-ayatnya disusun dengan rapi (uḥkimat)"* (Hud: 1), dan *"Alif Lam Ra. Inilah ayat-ayat Kitab (Al-Qur'an) yang penuh hikmah (al-ḥakīm)"* (Yunus: 1). Dalam kedua ayat ini disebutkan bahwa seluruhnya muhkam. Yang dimaksud dengan *iḥkām* dalam makna ini adalah bahwa ia benar dalam lafaz-lafaznya dan benar dalam makna-maknanya, dan bahwa Al-Qur'an lebih utama daripada setiap perkataan selainnya dalam lafaz dan maknanya, dan tidak seorang pun dari makhluk mampu mendatangkan perkataan yang setara dengan Al-Qur'an dalam lafaz dan maknanya. Orang Arab menyebut bangunan yang kukuh dan perjanjian yang kukuh, yang tidak mungkin dibatalkan, sebagai *muḥkam*. Inilah makna penyifatan seluruh Al-Qur'an sebagai muhkam.
 
-Adapun yang menunjukkan bahwa ia seluruhnya mutasyabih adalah firman Allah Ta'ala, *"Kitab (Al-Qur'an) yang (ayat-ayatnya) serupa (mutashābih),"*²⁵ maknanya: sebagiannya serupa dengan sebagian yang lain dalam keindahan dan kefasihan, dan sebagiannya membenarkan sebagian yang lain. Kepada makna itulah isyarat firman Allah Ta'ala, *"Seandainya (Al-Qur'an) itu tidak datang dari sisi Allah, tentulah mereka menemukan banyak pertentangan di dalamnya,"*²⁶ yakni niscaya sebagiannya bertentangan dengan yang lain dan susunan perkataannya berbeda-beda dalam kekuatan dan kefasihan.
+Adapun yang menunjukkan bahwa ia seluruhnya mutasyabih adalah firman Allah Ta'ala, *"Kitab (Al-Qur'an) yang (ayat-ayatnya) serupa (mutashābih)"* (az-Zumar: 23), maknanya: sebagiannya serupa dengan sebagian yang lain dalam keindahan dan kefasihan, dan sebagiannya membenarkan sebagian yang lain. Kepada makna itulah isyarat firman Allah Ta'ala, *"Seandainya (Al-Qur'an) itu tidak datang dari sisi Allah, tentulah mereka menemukan banyak pertentangan di dalamnya"* (an-Nisa': 82), yakni niscaya sebagiannya bertentangan dengan yang lain dan susunan perkataannya berbeda-beda dalam kekuatan dan kefasihan.
 
-Adapun yang menunjukkan bahwa sebagiannya muhkam dan sebagiannya mutasyabih adalah firman Allah Ta'ala, *"Dialah yang menurunkan Kitab (Al-Qur'an) kepadamu. Di antara ayat-ayatnya ada yang muhkamat, itulah pokok-pokok isi Kitab, dan yang lain mutasyabihat."*²⁷
+Adapun yang menunjukkan bahwa sebagiannya muhkam dan sebagiannya mutasyabih adalah firman Allah Ta'ala, *"Dialah yang menurunkan Kitab (Al-Qur'an) kepadamu. Di antara ayat-ayatnya ada yang muhkamat, itulah pokok-pokok isi Kitab, dan yang lain mutasyabihat"* (Ali 'Imran: 7).
 
 Kita mesti menafsirkan muhkam dan mutasyabih menurut asal bahasa, kemudian (menurut) orang yang menafsirkannya dalam kebiasaan syariat.
 
 Adapun *muḥkam* dalam bahasa: orang Arab berkata *ḥakamtu*, *aḥkamtu*, dan *ḥakkamtu* dengan makna "aku menolak dan mencegah". Hakim mencegah orang zalim dari kezaliman; *ḥakamat al-lijām* (kekang kendali) mencegah kuda dari berontak. Dalam hadis an-Nakha'i: "*Aḥkim* anak yatim sebagaimana engkau *aḥkim* anakmu," yakni cegahlah ia dari kerusakan. Dan ucapan "*Aḥkimū* orang-orang bodoh kalian," yakni cegahlah mereka. Bangunan *muḥkam* adalah bangunan kukuh yang mencegah siapa pun yang hendak merusaknya. Hikmah dinamai hikmah karena ia mencegah orang yang memilikinya dari hal-hal yang tidak patut.
 
-Adapun *mutashābih* adalah keadaan salah satu dari dua hal serupa dengan yang lain sedemikian rupa sehingga pikiran tidak mampu membedakannya. Allah Ta'ala berfirman, *"Sesungguhnya sapi itu masih samar (tashābaha) bagi kami,"*²⁸ dan berfirman, *"Hati mereka serupa."*²⁹ Dari situ ungkapan *ishtabaha al-amrān* (dua perkara itu tersamar) apabila keduanya tidak dapat dibedakan. Para tukang sulap disebut *aṣḥāb al-shubuhāt* (pembuat kesamaran). Beliau shallallahu 'alaihi wasallam bersabda, *"Yang halal itu jelas dan yang haram itu jelas, dan di antara keduanya ada perkara-perkara yang samar (mushtabihāt),"*³⁰ dan dalam riwayat lain *mutashābihāt*. Inilah penjelasan cermat tentang muhkam dan mutasyabih menurut ahli bahasa.
+Adapun *mutashābih* adalah keadaan salah satu dari dua hal serupa dengan yang lain sedemikian rupa sehingga pikiran tidak mampu membedakannya. Allah Ta'ala berfirman, *"Sesungguhnya sapi itu masih samar (tashābaha) bagi kami"* (al-Baqarah: 70), dan berfirman, *"Hati mereka serupa"* (al-Baqarah: 118). Dari situ ungkapan *ishtabaha al-amrān* (dua perkara itu tersamar) apabila keduanya tidak dapat dibedakan. Para tukang sulap disebut *aṣḥāb al-shubuhāt* (pembuat kesamaran). Beliau shallallahu 'alaihi wasallam bersabda, *"Yang halal itu jelas dan yang haram itu jelas, dan di antara keduanya ada perkara-perkara yang samar (mushtabihāt),"*[^192] dan dalam riwayat lain *mutashābihāt*. Inilah penjelasan cermat tentang muhkam dan mutasyabih menurut ahli bahasa.
 
 Adapun dalam kebiasaan ulama, ketahuilah bahwa orang-orang telah banyak berbicara tentang tafsir muhkam dan mutasyabih, dan kitab-kitab para pendahulu kita memuatnya. Pendapatku tentangnya: lafaz yang diletakkan untuk suatu makna, adakalanya mengandung kemungkinan makna selain itu, adakalanya tidak. Jika ia diletakkan untuk suatu makna dan tidak mengandung kemungkinan makna lain, itulah nas (*naṣṣ*, نص). Jika ia mengandung kemungkinan makna lain, maka adakalanya kemungkinannya untuk salah satu dari keduanya lebih kuat daripada yang lain, adakalanya tidak, melainkan kemungkinannya untuk keduanya setara. Jika kemungkinannya untuk salah satunya lebih kuat, maka lafaz itu, dalam kaitannya dengan makna yang kuat, adalah *ẓāhir* (lahiriah), dan dalam kaitannya dengan makna yang lemah adalah *muʾawwal* (yang ditakwilkan). Adapun jika kemungkinannya untuk keduanya setara, lafaz itu, dalam kaitannya dengan keduanya sekaligus, adalah *mushtarak* (homonim), dan dalam kaitannya dengan masing-masing adalah *mujmal* (global). Maka dari pembagian ini keluarlah bahwa lafaz itu adakalanya nas, zahir, mujmal, atau muawwal.
 
@@ -2531,41 +2094,15 @@ Nas dan zahir sama-sama memiliki keunggulan (penunjukan); hanya saja nas unggul 
 
 Adapun mujmal dan muawwal, keduanya sama-sama memiliki penunjukan lafaz yang tidak unggul; hanya saja mujmal tidak memiliki keunggulan terhadap salah satu dari kedua sisi, sedangkan muawwal memiliki keunggulan terhadap sisi yang lain (dan tidak terhadap sisi yang dimaksud). Kesamaannya, yaitu tidak adanya keunggulan terhadap (makna yang dimaksud), itulah yang dinamai mutasyabih, karena di dalamnya terdapat ketidakpahaman.
 
-Kemudian ketahuilah bahwa lafaz, jika kaitannya dengan dua pengertian itu setara, di sini pikiran tertegun, seperti kata *qurʾ* dalam kaitannya dengan haid dan suci. Yang sulit dan musykil hanyalah bila lafaz, menurut peletakan asalnya, kuat pada salah satu dari dua pengertian dan lemah pada yang lain, kemudian yang kuat itu batil dan yang lemah itu benar. Contohnya dari Al-Qur'an adalah firman Allah Ta'ala, *"Jika Kami hendak membinasakan suatu negeri, Kami perintahkan orang-orang yang hidup mewah di negeri itu, lalu mereka melakukan kefasikan di dalamnya."*³¹ Makna lahiriah perkataan ini adalah bahwa mereka diperintahkan untuk berbuat fasik; sedangkan yang muhkam adalah firman Allah Ta'ala, *"Sesungguhnya Allah tidak menyuruh berbuat keji,"*³² sebagai bantahan terhadap orang-orang kafir dalam apa yang Dia kisahkan dari mereka, *"Apabila mereka melakukan perbuatan keji, mereka berkata, 'Kami mendapati nenek moyang kami melakukan yang demikian, dan Allah menyuruh kami mengerjakannya.'"*³³ Demikian pula firman Allah Ta'ala, *"Mereka telah melupakan Allah, maka Allah melupakan mereka."*³⁴ Makna lahiriah lupa adalah yang terjadi (setelah) adanya pengetahuan, sedangkan makna lemahnya adalah meninggalkan, (seperti firman-Nya,) "maka Dia menjadikan mereka lupa akan diri sendiri"; dan yang muhkam adalah firman Allah Ta'ala, *"Dan Tuhanmu tidak lupa,"*³⁵ dan firman-Nya, *"Tuhanku tidak akan salah dan tidak (pula) lupa."*³⁶ Inilah ringkasan pembahasan tentang tafsir muhkam dan mutasyabih. Hanya kepada Allah kita memohon taufik.
+Kemudian ketahuilah bahwa lafaz, jika kaitannya dengan dua pengertian itu setara, di sini pikiran tertegun, seperti kata *qurʾ* dalam kaitannya dengan haid dan suci. Yang sulit dan musykil hanyalah bila lafaz, menurut peletakan asalnya, kuat pada salah satu dari dua pengertian dan lemah pada yang lain, kemudian yang kuat itu batil dan yang lemah itu benar. Contohnya dari Al-Qur'an adalah firman Allah Ta'ala, *"Jika Kami hendak membinasakan suatu negeri, Kami perintahkan orang-orang yang hidup mewah di negeri itu, lalu mereka melakukan kefasikan di dalamnya"* (al-Isra': 16). Makna lahiriah perkataan ini adalah bahwa mereka diperintahkan untuk berbuat fasik; sedangkan yang muhkam adalah firman Allah Ta'ala, *"Sesungguhnya Allah tidak menyuruh berbuat keji"* (al-A'raf: 28), sebagai bantahan terhadap orang-orang kafir dalam apa yang Dia kisahkan dari mereka, *"Apabila mereka melakukan perbuatan keji, mereka berkata, 'Kami mendapati nenek moyang kami melakukan yang demikian, dan Allah menyuruh kami mengerjakannya'"* (al-A'raf: 28). Demikian pula firman Allah Ta'ala, *"Mereka telah melupakan Allah, maka Allah melupakan mereka"* (at-Taubah: 67). Makna lahiriah lupa adalah yang terjadi (setelah) adanya pengetahuan, sedangkan makna lemahnya adalah meninggalkan, (seperti firman-Nya,) "maka Dia menjadikan mereka lupa akan diri sendiri"; dan yang muhkam adalah firman Allah Ta'ala, *"Dan Tuhanmu tidak lupa"* (Maryam: 64), dan firman-Nya, *"Tuhanku tidak akan salah dan tidak (pula) lupa"* (Taha: 52). Inilah ringkasan pembahasan tentang tafsir muhkam dan mutasyabih. Hanya kepada Allah kita memohon taufik.
 
-²³ CT: QS Hud [11]: 1.
-
-²⁴ CT: QS Yunus [10]: 1.
-
-²⁵ CT: QS az-Zumar [39]: 23.
-
-²⁶ CT: QS an-Nisa' [4]: 82.
-
-²⁷ CT: QS Ali 'Imran [3]: 7.
-
-²⁸ CT: QS al-Baqarah [2]: 70.
-
-²⁹ CT: QS al-Baqarah [2]: 118.
-
-³⁰ CT: al-Bukhari, *al-Iman*, 39.
-
-³¹ CT: QS al-Isra' [17]: 16. (Edisi Turki tertulis 16/122.)
-
-³² CT: QS al-A'raf [7]: 28.
-
-³³ CT: QS al-A'raf [7]: 28.
-
-³⁴ CT: QS at-Taubah [9]: 67.
-
-³⁵ CT: QS Maryam [19]: 64. (Edisi Turki tertulis 19/5.)
-
-³⁶ CT: QS Taha [20]: 52.
+[^192]: CT: al-Bukhari, *al-Iman*, 39.
 
 ### Pasal Ketiga: Tentang Jalan untuk Mengetahui apakah Suatu Ayat Muhkam atau Mutasyabih
 
 *(Tr. h. 211)*
 
-Ketahuilah, ini persoalan besar. Sebab, setiap penganut mazhab mengklaim bahwa ayat-ayat yang sesuai dengan mazhab lawannya adalah mutasyabih. Seorang Muktazili berkata bahwa firman-Nya, *"Siapa yang menghendaki (beriman), hendaklah dia beriman, dan siapa yang menghendaki (kufur), biarlah dia kufur,"*³⁷ adalah muhkam, sedangkan firman-Nya, *"Kamu tidak mampu (menempuh jalan itu) kecuali apabila dikehendaki Allah,"*³⁸ adalah mutasyabih; sedangkan seorang Sunni membalik ketetapan itu. Contoh-contoh dalam bab ini banyak. Maka di sini mesti ada kaidah pokok yang menjadi rujukan dalam bab ini.
+Ketahuilah, ini persoalan besar. Sebab, setiap penganut mazhab mengklaim bahwa ayat-ayat yang sesuai dengan mazhab lawannya adalah mutasyabih. Seorang Muktazili berkata bahwa firman-Nya, *"Siapa yang menghendaki (beriman), hendaklah dia beriman, dan siapa yang menghendaki (kufur), biarlah dia kufur"* (al-Kahf: 29), adalah muhkam, sedangkan firman-Nya, *"Kamu tidak mampu (menempuh jalan itu) kecuali apabila dikehendaki Allah"* (al-Insan: 30), adalah mutasyabih; sedangkan seorang Sunni membalik ketetapan itu. Contoh-contoh dalam bab ini banyak. Maka di sini mesti ada kaidah pokok yang menjadi rujukan dalam bab ini.
 
 Kami katakan: jika lafaz ayat atau hadis bermakna lahiriah pada suatu makna, kita hanya boleh meninggalkan makna lahiriah itu dengan dalil yang terpisah (*dalīl munfaṣil*); sebab jika tidak, perkataan itu keluar dari keadaannya sebagai sesuatu yang berfaedah, dan Al-Qur'an keluar dari keadaannya sebagai hujah. Kemudian dalil yang terpisah itu adakalanya bersifat lafzi, adakalanya rasional.
 
@@ -2575,29 +2112,25 @@ Adapun yang kedua, yaitu dikatakan bahwa salah satu dari kedua makna lahiriah le
 
 Maka tetaplah, dengan apa yang telah kami sebutkan, bahwa memalingkan lafaz dari makna lahiriahnya kepada maknanya yang lemah (*marjūḥ*) tidak boleh kecuali ketika tegak dalil yang pasti bahwa makna lahiriahnya mustahil dan terlarang. Apabila hal ini telah terwujud, ketika itu wajib bagi mukalaf memastikan bahwa yang dimaksud Allah Ta'ala dengan lafaz ini bukanlah apa yang diisyaratkan oleh makna lahiriahnya. Kemudian pada titik ini, siapa yang membolehkan takwil akan beralih kepadanya, dan siapa yang tidak membolehkannya akan menyerahkan pengetahuannya kepada Allah Ta'ala. Hanya kepada Allah kita memohon taufik.
 
-³⁷ CT: QS al-Kahf [18]: 29.
-
-³⁸ CT: QS al-Insan [76]: 30.
-
 ### Pasal Keempat: Penetapan Mazhab Salaf
 
 *(Tr. h. 213)*
 
 Inti mazhab ini ialah bahwa tentang ayat-ayat mutasyabih ini wajib dipastikan bahwa yang dimaksud Allah Ta'ala darinya adalah sesuatu selain makna lahiriahnya; kemudian wajib menyerahkan maknanya kepada Allah Ta'ala (*tafwīḍ*), dan tidak boleh menyelami tafsirnya. Sedangkan mayoritas mutakalim berkata: justru wajib menyelami takwil ayat-ayat mutasyabih itu. Kaum Salaf berhujah atas kebenaran mazhab mereka dengan beberapa segi.
 
-**Hujah pertama**: berpegang pada wajibnya berhenti (*waqf*) pada firman Allah Ta'ala, *"padahal tidak ada yang mengetahui takwilnya kecuali Allah."*³⁹ Yang menunjukkan bahwa berhenti di situ wajib ada beberapa segi.
+**Hujah pertama**: berpegang pada wajibnya berhenti (*waqf*) pada firman Allah Ta'ala, *"padahal tidak ada yang mengetahui takwilnya kecuali Allah"* (Ali 'Imran: 7). Yang menunjukkan bahwa berhenti di situ wajib ada beberapa segi.
 
-Pertama, apa yang sebelum ayat ini menunjukkan bahwa mencari-cari yang mutasyabih itu tercela, sebab Dia berfirman, *"Adapun orang-orang yang dalam hatinya ada kecenderungan pada kesesatan, mereka mengikuti yang mutasyabihat untuk mencari-cari fitnah dan untuk mencari-cari takwilnya."*⁴⁰ Seandainya mencari-cari yang mutasyabih itu boleh, tentu Allah Ta'ala tidak mencelanya.
+Pertama, apa yang sebelum ayat ini menunjukkan bahwa mencari-cari yang mutasyabih itu tercela, sebab Dia berfirman, *"Adapun orang-orang yang dalam hatinya ada kecenderungan pada kesesatan, mereka mengikuti yang mutasyabihat untuk mencari-cari fitnah dan untuk mencari-cari takwilnya"* (Ali 'Imran: 7). Seandainya mencari-cari yang mutasyabih itu boleh, tentu Allah Ta'ala tidak mencelanya.
 
-Jika dikatakan: mengapa tidak boleh yang dimaksud adalah mencari tahu waktu terjadinya kiamat, sebagaimana dalam firman Allah Ta'ala, *"Mereka menanyakan kepadamu tentang kiamat, 'Kapan terjadi?' Katakanlah, 'Sesungguhnya pengetahuan tentang kiamat itu ada pada Tuhanku,'"*⁴¹ dan mungkin pula yang dimaksud adalah mencari tahu kadar pahala dan siksa, serta mencari tahu waktu-waktu munculnya kemenangan dan pertolongan, sebagaimana mereka berkata, "Mengapa engkau tidak mendatangkan malaikat kepada kami?" Dijawab: karena Allah Ta'ala membagi Kitab menjadi dua bagian, muhkam dan mutasyabih, dan akal menunjukkan kesahihan pembagian ini dari sisi bahwa membawa lafaz kepada maknanya yang kuat adalah muhkam, dan membawanya kepada maknanya yang tidak kuat adalah mutasyabih; kemudian Allah Ta'ala mencela cara orang yang mencari takwil yang mutasyabih; maka mengkhususkan (celaan) itu pada sebagian mutasyabih dan tidak pada sebagian yang lain berarti meninggalkan makna lahiriah.
+Jika dikatakan: mengapa tidak boleh yang dimaksud adalah mencari tahu waktu terjadinya kiamat, sebagaimana dalam firman Allah Ta'ala, *"Mereka menanyakan kepadamu tentang kiamat, 'Kapan terjadi?' Katakanlah, 'Sesungguhnya pengetahuan tentang kiamat itu ada pada Tuhanku'"* (al-A'raf: 187), dan mungkin pula yang dimaksud adalah mencari tahu kadar pahala dan siksa, serta mencari tahu waktu-waktu munculnya kemenangan dan pertolongan, sebagaimana mereka berkata, "Mengapa engkau tidak mendatangkan malaikat kepada kami?" Dijawab: karena Allah Ta'ala membagi Kitab menjadi dua bagian, muhkam dan mutasyabih, dan akal menunjukkan kesahihan pembagian ini dari sisi bahwa membawa lafaz kepada maknanya yang kuat adalah muhkam, dan membawanya kepada maknanya yang tidak kuat adalah mutasyabih; kemudian Allah Ta'ala mencela cara orang yang mencari takwil yang mutasyabih; maka mengkhususkan (celaan) itu pada sebagian mutasyabih dan tidak pada sebagian yang lain berarti meninggalkan makna lahiriah.
 
-Kedua, Allah Ta'ala memuji orang-orang yang ilmunya mendalam (*al-rāsikhūn fī l-ʿilm*, الراسخون في العلم) karena mereka *"berkata, 'Kami beriman kepadanya,'"*⁴² dan Dia berfirman di awal surah al-Baqarah, *"Adapun orang-orang yang beriman, mereka tahu bahwa itu kebenaran dari Tuhan mereka."*⁴³ Seandainya orang-orang yang ilmunya mendalam itu mengetahui takwil ayat mutasyabih itu secara terperinci, tidak ada pujian bagi mereka dalam beriman kepadanya, sebab setiap orang yang mengetahui sesuatu secara terperinci tentu beriman kepadanya. Adapun orang-orang yang ilmunya mendalam, mereka adalah orang-orang yang mengetahui dengan dalil-dalil rasional yang pasti bahwa Allah Ta'ala mengetahui objek-objek pengetahuan yang tak berhingga, mengetahui bahwa Al-Qur'an adalah kalam Allah Ta'ala, dan mengetahui bahwa Dia tidak berbicara dengan kebatilan dan kesia-siaan. Maka, apabila mereka mendengar suatu ayat yang dalil-dalil pasti menunjukkan bahwa makna lahiriahnya tidak mungkin dimaksud oleh Allah Ta'ala, melainkan yang dimaksud Allah Ta'ala darinya adalah selain makna lahiriah itu, mereka menyerahkan penentuan maksud itu kepada ilmu-Nya, dan memastikan bahwa makna itu, apa pun adanya, adalah benar dan tepat. Merekalah orang-orang yang ilmunya mendalam, karena ayat-ayat mutasyabih semacam ini tidak menggeser mereka dari keimanan dan keyakinan akan kebenaran Al-Qur'an.
+Kedua, Allah Ta'ala memuji orang-orang yang ilmunya mendalam (*al-rāsikhūn fī l-ʿilm*, الراسخون في العلم) karena mereka *"berkata, 'Kami beriman kepadanya'"* (Ali 'Imran: 7), dan Dia berfirman di awal surah al-Baqarah, *"Adapun orang-orang yang beriman, mereka tahu bahwa itu kebenaran dari Tuhan mereka"* (al-Baqarah: 26). Seandainya orang-orang yang ilmunya mendalam itu mengetahui takwil ayat mutasyabih itu secara terperinci, tidak ada pujian bagi mereka dalam beriman kepadanya, sebab setiap orang yang mengetahui sesuatu secara terperinci tentu beriman kepadanya. Adapun orang-orang yang ilmunya mendalam, mereka adalah orang-orang yang mengetahui dengan dalil-dalil rasional yang pasti bahwa Allah Ta'ala mengetahui objek-objek pengetahuan yang tak berhingga, mengetahui bahwa Al-Qur'an adalah kalam Allah Ta'ala, dan mengetahui bahwa Dia tidak berbicara dengan kebatilan dan kesia-siaan. Maka, apabila mereka mendengar suatu ayat yang dalil-dalil pasti menunjukkan bahwa makna lahiriahnya tidak mungkin dimaksud oleh Allah Ta'ala, melainkan yang dimaksud Allah Ta'ala darinya adalah selain makna lahiriah itu, mereka menyerahkan penentuan maksud itu kepada ilmu-Nya, dan memastikan bahwa makna itu, apa pun adanya, adalah benar dan tepat. Merekalah orang-orang yang ilmunya mendalam, karena ayat-ayat mutasyabih semacam ini tidak menggeser mereka dari keimanan dan keyakinan akan kebenaran Al-Qur'an.
 
-Ketiga, seandainya firman-Nya *"dan orang-orang yang ilmunya mendalam"*⁴⁴ di-*ʿaṭaf*-kan kepada firman-Nya *"kecuali Allah,"*⁴⁵ niscaya firman-Nya *"mereka berkata, 'Kami beriman kepadanya'"*⁴⁶ menjadi permulaan kalimat, dan itu jauh dari kefasihan; sebab yang lebih patut adalah dikatakan, "dan mereka berkata, 'Kami beriman kepadanya,'" atau "serta berkata, 'Kami beriman kepadanya.'" Jika dikatakan: untuk membenarkannya ada dua segi. Pertama, takdirnya: "mereka ini, yang berpendapat dengan takwil, berkata, 'Kami beriman kepadanya.'" Kedua, *"mereka berkata"* adalah *ḥāl* (keterangan keadaan) dari orang-orang yang ilmunya mendalam. Dijawab: yang pertama tertolak, sebab menafsirkan kalam Allah Ta'ala dengan cara yang tidak membutuhkan penyisipan lebih utama daripada menafsirkannya dengan cara yang membutuhkan penyisipan. Yang kedua pun lemah, sebab pemilik *ḥāl* adalah yang telah disebut sebelumnya, dan di sini telah disebut sebelumnya Allah Ta'ala dan orang-orang yang ilmunya mendalam. Maka (menurut kaidah itu) firman-Nya *"mereka berkata, 'Kami beriman kepadanya'"*⁴⁷ wajib menjadi *ḥāl* dari keduanya; namun (karena mustahil bagi Allah) ia dijadikan *ḥāl* dari orang-orang yang ilmunya mendalam saja, tidak dari Allah Ta'ala, sehingga itu berarti meninggalkan makna lahiriah, sebab makna lahiriahnya menuntut ia menjadi *ḥāl* dari setiap yang telah disebut sebelumnya. Maka tetaplah bahwa pendapat tentang bolehnya takwil membutuhkan penyisipan dalam ayat ini, sedangkan pendapat tentang tidak bolehnya takwil tidak membutuhkannya; maka yang kedua lebih utama.
+Ketiga, seandainya firman-Nya *"dan orang-orang yang ilmunya mendalam"* (Ali 'Imran: 7) di-*ʿaṭaf*-kan kepada firman-Nya *"kecuali Allah"* (Ali 'Imran: 7), niscaya firman-Nya *"mereka berkata, 'Kami beriman kepadanya'"* (Ali 'Imran: 7) menjadi permulaan kalimat, dan itu jauh dari kefasihan; sebab yang lebih patut adalah dikatakan, "dan mereka berkata, 'Kami beriman kepadanya,'" atau "serta berkata, 'Kami beriman kepadanya.'" Jika dikatakan: untuk membenarkannya ada dua segi. Pertama, takdirnya: "mereka ini, yang berpendapat dengan takwil, berkata, 'Kami beriman kepadanya.'" Kedua, *"mereka berkata"* adalah *ḥāl* (keterangan keadaan) dari orang-orang yang ilmunya mendalam. Dijawab: yang pertama tertolak, sebab menafsirkan kalam Allah Ta'ala dengan cara yang tidak membutuhkan penyisipan lebih utama daripada menafsirkannya dengan cara yang membutuhkan penyisipan. Yang kedua pun lemah, sebab pemilik *ḥāl* adalah yang telah disebut sebelumnya, dan di sini telah disebut sebelumnya Allah Ta'ala dan orang-orang yang ilmunya mendalam. Maka (menurut kaidah itu) firman-Nya *"mereka berkata, 'Kami beriman kepadanya'"* (Ali 'Imran: 7) wajib menjadi *ḥāl* dari keduanya; namun (karena mustahil bagi Allah) ia dijadikan *ḥāl* dari orang-orang yang ilmunya mendalam saja, tidak dari Allah Ta'ala, sehingga itu berarti meninggalkan makna lahiriah, sebab makna lahiriahnya menuntut ia menjadi *ḥāl* dari setiap yang telah disebut sebelumnya. Maka tetaplah bahwa pendapat tentang bolehnya takwil membutuhkan penyisipan dalam ayat ini, sedangkan pendapat tentang tidak bolehnya takwil tidak membutuhkannya; maka yang kedua lebih utama.
 
-Keempat, firman Allah Ta'ala, *"semuanya dari Tuhan kami,"*⁴⁸ yakni mereka beriman kepada apa yang mereka ketahui secara terperinci dan kepada apa yang tidak mereka ketahui perincian dan takwilnya. Sebab, seandainya mereka mengetahui perincian perkataan itu, tidak tersisa faedah bagi perkataan ini. Inilah segi terbaik dalam berdalil dengan ayat ini untuk membela mazhab Salaf.
+Keempat, firman Allah Ta'ala, *"semuanya dari Tuhan kami"* (Ali 'Imran: 7), yakni mereka beriman kepada apa yang mereka ketahui secara terperinci dan kepada apa yang tidak mereka ketahui perincian dan takwilnya. Sebab, seandainya mereka mengetahui perincian perkataan itu, tidak tersisa faedah bagi perkataan ini. Inilah segi terbaik dalam berdalil dengan ayat ini untuk membela mazhab Salaf.
 
-Jika dikatakan: pendalilan ini hanya tuntas dengan menegakkan dalil bahwa berhenti pada firman Allah Ta'ala, *"padahal tidak ada yang mengetahui takwilnya kecuali Allah,"*⁴⁹ itu wajib; padahal *ʿaṭaf* (menyambung) itu boleh, karena *ʿaṭaf* ini adalah qiraah yang masyhur dan dinukil secara mutawatir, sehingga menegakkan dalil atas kerusakannya berarti menggugat penukilan yang mutawatir, dan itu tidak boleh. Dijawab: kami tidak menjadikan masalah ini pasti, melainkan dugaan dan kemungkinan; dengan pengandaian ini, pertanyaan itu pun hilang.
+Jika dikatakan: pendalilan ini hanya tuntas dengan menegakkan dalil bahwa berhenti pada firman Allah Ta'ala, *"padahal tidak ada yang mengetahui takwilnya kecuali Allah"* (Ali 'Imran: 7), itu wajib; padahal *ʿaṭaf* (menyambung) itu boleh, karena *ʿaṭaf* ini adalah qiraah yang masyhur dan dinukil secara mutawatir, sehingga menegakkan dalil atas kerusakannya berarti menggugat penukilan yang mutawatir, dan itu tidak boleh. Dijawab: kami tidak menjadikan masalah ini pasti, melainkan dugaan dan kemungkinan; dengan pengandaian ini, pertanyaan itu pun hilang.
 
 **Hujah kedua** atas kebenaran mazhab Salaf: berpegang pada ijmak para sahabat radhiyallahu 'anhum. Ayat-ayat dan hadis-hadis mutasyabih dalam Al-Qur'an dan hadis ini banyak, dan dorongan untuk membahas dan mengetahui hakikatnya sangat besar. Seandainya membahas takwilnya secara terperinci itu boleh, makhluk yang paling patut melakukannya adalah para sahabat dan tabiin radhiyallahu 'anhum. Seandainya mereka melakukannya, tentu hal itu masyhur dan dinukil secara mutawatir. Karena tidak dinukil dari seorang pun di antara sahabat dan tabiin bahwa mereka menyelaminya, kita tahu bahwa menyelaminya tidak boleh.
 
@@ -2607,75 +2140,31 @@ Adapun yang pertama (yakni muawwal), kami katakan: lafaz, jika ia memiliki satu 
 
 Adapun para mutakalim yang berpendapat dengan takwil-takwil terperinci, hujah mereka adalah apa yang telah dikemukakan, yaitu bahwa Al-Qur'an wajib dapat dipahami, dan tidak ada jalan untuk itu dalam ayat dan riwayat mutasyabih kecuali dengan menyebutkan takwil-takwil; maka menempuhnya wajib. Allah lebih mengetahui.
 
-³⁹ CT: QS Ali 'Imran [3]: 7.
-
-⁴⁰ CT: QS Ali 'Imran [3]: 7.
-
-⁴¹ CT: QS al-A'raf [7]: 187.
-
-⁴² CT: (Teks catatan ini tidak terbaca dalam naskah Turki; menurut konteksnya: QS Ali 'Imran [3]: 7.)
-
-⁴³ CT: QS al-Baqarah [2]: 26.
-
-⁴⁴ CT: QS Ali 'Imran [3]: 7.
-
-⁴⁵ CT: QS Ali 'Imran [3]: 7.
-
-⁴⁶ CT: QS Ali 'Imran [3]: 7.
-
-⁴⁷ CT: QS Ali 'Imran [3]: 7.
-
-⁴⁸ CT: QS Ali 'Imran [3]: 7.
-
-⁴⁹ CT: QS Ali 'Imran [3]: 7.
-
 ### Pasal Kelima: Tentang Cabang-Cabang Mazhab Salaf
 
 *(Tr. h. 217)*
 
 Cabang-cabang itu ada empat.
 
-**Cabang pertama**: tidak boleh mengganti satu lafaz dari lafaz-lafaz mutasyabih dengan lafaz lain yang tidak mutasyabih, baik dalam bahasa Arab maupun bahasa Persia. Sebab, di antara lafaz-lafaz mutasyabih ada yang lebih kuat memberi kesan batil daripada yang lain, dan tambahan kesan itu terdapat pada (pergantian) dua lafaz; namun membedakan jenis ini dari jenis pertama sulit, sehingga sikap hati-hati adalah menahan diri dari semuanya. Tidakkah engkau lihat bahwa syariat mewajibkan idah atas perempuan yang telah digauli untuk memastikan kosongnya rahim, sebagai kehati-hatian demi hukum nasab? Kemudian mereka berkata: idah wajib atas perempuan mandul,⁵⁰ perempuan yang telah putus haid,⁵¹ dan dalam hal *ʿazl*, karena keadaan batin rahim tidak diketahui kecuali oleh Yang Maha Mengetahui segala yang gaib; maka mewajibkan idah lebih ringan daripada menempuh bahaya. Padahal bahaya dalam pengenalan akan Allah Ta'ala dan sifat-sifat-Nya lebih besar daripada bahaya dalam idah. Maka, jika kita memperhatikan kehati-hatian dalam hal itu, lebih patut lagi kita memperhatikannya di sini.
+**Cabang pertama**: tidak boleh mengganti satu lafaz dari lafaz-lafaz mutasyabih dengan lafaz lain yang tidak mutasyabih, baik dalam bahasa Arab maupun bahasa Persia. Sebab, di antara lafaz-lafaz mutasyabih ada yang lebih kuat memberi kesan batil daripada yang lain, dan tambahan kesan itu terdapat pada (pergantian) dua lafaz; namun membedakan jenis ini dari jenis pertama sulit, sehingga sikap hati-hati adalah menahan diri dari semuanya. Tidakkah engkau lihat bahwa syariat mewajibkan idah atas perempuan yang telah digauli untuk memastikan kosongnya rahim, sebagai kehati-hatian demi hukum nasab? Kemudian mereka berkata: idah wajib atas perempuan mandul,[^193] perempuan yang telah putus haid,[^194] dan dalam hal *ʿazl*, karena keadaan batin rahim tidak diketahui kecuali oleh Yang Maha Mengetahui segala yang gaib; maka mewajibkan idah lebih ringan daripada menempuh bahaya. Padahal bahaya dalam pengenalan akan Allah Ta'ala dan sifat-sifat-Nya lebih besar daripada bahaya dalam idah. Maka, jika kita memperhatikan kehati-hatian dalam hal itu, lebih patut lagi kita memperhatikannya di sini.
 
-**Cabang kedua**: (wajib) menghindari perubahan bentuk kata (*taṣrīf*).ᵃ Maka kita tidak mengatakan tentang firman Allah Ta'ala, *"Dia istiwa,"*⁵² bahwa Dia *mustawin* (yang beristiwa). Sebab, telah kami tetapkan dalam ilmu bayan bahwa isim fa'il menunjukkan keadaan yang tetap dan menetap, sedangkan penunjukan lafaz fi'il atas makna ini lemah. Yang menguatkannya ialah bahwa dalam Al-Qur'an disebutkan Allah Ta'ala mengajari hamba-hamba-Nya. Dia berfirman, *"(Allah) Yang Maha Pengasih,"*⁵³ *"telah mengajarkan Al-Qur'an,"*⁵⁴ *"dan telah mengajarkan kepadamu apa yang belum engkau ketahui,"*⁵⁵ *"dan telah Kami ajarkan kepadanya ilmu dari sisi Kami,"*⁵⁶ dan *"Dia mengajarkan kepada Adam nama-nama (benda) seluruhnya."*⁵⁷ Kemudian kita telah bersepakat bahwa tidak boleh dikatakan bahwa Allah Ta'ala adalah *muʿallim* (guru). Demikian pula di sini.ᵃ
+**Cabang kedua**: (wajib) menghindari perubahan bentuk kata (*taṣrīf*).[^195] Maka kita tidak mengatakan tentang firman Allah Ta'ala, *"Dia istiwa"* (Yunus: 3), bahwa Dia *mustawin* (yang beristiwa). Sebab, telah kami tetapkan dalam ilmu bayan bahwa isim fa'il menunjukkan keadaan yang tetap dan menetap, sedangkan penunjukan lafaz fi'il atas makna ini lemah. Yang menguatkannya ialah bahwa dalam Al-Qur'an disebutkan Allah Ta'ala mengajari hamba-hamba-Nya. Dia berfirman, *"(Allah) Yang Maha Pengasih"* (ar-Rahman: 1), *"telah mengajarkan Al-Qur'an"* (ar-Rahman: 2), *"dan telah mengajarkan kepadamu apa yang belum engkau ketahui"* (an-Nisa': 113), *"dan telah Kami ajarkan kepadanya ilmu dari sisi Kami"* (al-Kahf: 65), dan *"Dia mengajarkan kepada Adam nama-nama (benda) seluruhnya"* (al-Baqarah: 31). Kemudian kita telah bersepakat bahwa tidak boleh dikatakan bahwa Allah Ta'ala adalah *muʿallim* (guru). Demikian pula di sini.
 
 **Cabang ketiga**: tidak boleh mengumpulkan lafaz-lafaz mutasyabih. Sebab, pengucapan satu atau dua lafaz dapat dibawa kepada majaz. Namun, karena penelusuran menunjukkan bahwa yang umum dalam perkataan adalah berbicara dengan makna hakiki, apabila kita mengumpulkan lafaz-lafaz mutasyabih dan meriwayatkannya sekaligus, banyaknya lafaz itu memberi kesan bahwa yang dimaksud adalah makna-makna lahiriahnya. Maka pengumpulan itu menjadi sebab bertambahnya kesan batil, dan itu tidak boleh.
 
-**Cabang keempat**: sebagaimana tidak boleh mengumpulkan yang terpisah-pisah, demikian pula tidak boleh memisahkan yang terhimpun. Firman Allah Ta'ala, *"Dialah yang berkuasa di atas hamba-hamba-Nya,"*⁵⁸ tidak menunjukkan bolehnya dikatakan bahwa Allah Ta'ala "di atas" (secara mutlak). Sebab, karena Dia menyebut "yang berkuasa" (*al-qāhir*) sebelumnya, tampaklah bahwa yang dimaksud dengan keberadaan di atas ini adalah keberadaan di atas dengan makna keperkasaan, bukan dengan makna arah. Bahkan tidak boleh dikatakan "Dialah yang berkuasa di atas selain-Nya"; yang patut dikatakan adalah "di atas hamba-hamba-Nya", sebab penyebutan kehambaan ketika menyifati Allah Ta'ala dengan keberadaan di atas menunjukkan bahwa yang dimaksud dengan keberadaan di atas itu adalah keberadaan di atas dalam kepertuanan dan ketuhanan.
+**Cabang keempat**: sebagaimana tidak boleh mengumpulkan yang terpisah-pisah, demikian pula tidak boleh memisahkan yang terhimpun. Firman Allah Ta'ala, *"Dialah yang berkuasa di atas hamba-hamba-Nya"* (al-An'am: 18), tidak menunjukkan bolehnya dikatakan bahwa Allah Ta'ala "di atas" (secara mutlak). Sebab, karena Dia menyebut "yang berkuasa" (*al-qāhir*) sebelumnya, tampaklah bahwa yang dimaksud dengan keberadaan di atas ini adalah keberadaan di atas dengan makna keperkasaan, bukan dengan makna arah. Bahkan tidak boleh dikatakan "Dialah yang berkuasa di atas selain-Nya"; yang patut dikatakan adalah "di atas hamba-hamba-Nya", sebab penyebutan kehambaan ketika menyifati Allah Ta'ala dengan keberadaan di atas menunjukkan bahwa yang dimaksud dengan keberadaan di atas itu adalah keberadaan di atas dalam kepertuanan dan ketuhanan.
 
-Ketahuilah, Allah Ta'ala tidak menyebut lafaz-lafaz mutasyabih kecuali Dia sertakan dengannya suatu petunjuk (*qarīna*) yang menunjukkan hilangnya kesan yang batil. Contohnya: Allah Ta'ala berfirman, *"Allah (pemberi) cahaya (kepada) langit dan bumi,"*⁵⁹ lalu sesudahnya Dia sebutkan, *"Perumpamaan cahaya-Nya,"*⁶⁰ sehingga Dia menyandarkan cahaya kepada diri-Nya; dan seandainya Allah Ta'ala adalah cahaya itu sendiri, Dia tidak akan menyandarkannya kepada diri-Nya, sebab menyandarkan sesuatu kepada dirinya sendiri mustahil. Dan ketika Allah Ta'ala berfirman, *"(Yaitu) Yang Maha Pengasih, yang bersemayam di atas Arasy,"*⁶¹ Dia sebutkan sebelumnya, *"diturunkan dari (Allah) yang menciptakan bumi dan langit yang tinggi,"*⁶² dan sesudahnya firman-Nya, *"Milik-Nyalah apa yang ada di langit, apa yang ada di bumi, apa yang ada di antara keduanya, dan apa yang ada di bawah tanah."*⁶³ Telah kami sebutkan bahwa kedua ayat ini menunjukkan bahwa segala sesuatu yang terikat pada arah atas adalah makhluk dan baharu. Maka tetaplah, dengan apa yang telah kami sebutkan, bahwa jalan dalam ayat-ayat mutasyabih ini adalah takwil atas lafaz-lafaz itu, sebagai adab terhadap Yang Wajib Ada.⁶⁴ Hanya kepada Allah kita memohon taufik.
+Ketahuilah, Allah Ta'ala tidak menyebut lafaz-lafaz mutasyabih kecuali Dia sertakan dengannya suatu petunjuk (*qarīna*)[^196] yang menunjukkan hilangnya kesan yang batil. Contohnya: Allah Ta'ala berfirman, *"Allah (pemberi) cahaya (kepada) langit dan bumi"* (an-Nur: 35), lalu sesudahnya Dia sebutkan, *"Perumpamaan cahaya-Nya"* (an-Nur: 35), sehingga Dia menyandarkan cahaya kepada diri-Nya; dan seandainya Allah Ta'ala adalah cahaya itu sendiri, Dia tidak akan menyandarkannya kepada diri-Nya, sebab menyandarkan sesuatu kepada dirinya sendiri mustahil. Dan ketika Allah Ta'ala berfirman, *"(Yaitu) Yang Maha Pengasih, yang bersemayam di atas Arasy"* (Taha: 5), Dia sebutkan sebelumnya, *"diturunkan dari (Allah) yang menciptakan bumi dan langit yang tinggi"* (Taha: 4), dan sesudahnya firman-Nya, *"Milik-Nyalah apa yang ada di langit, apa yang ada di bumi, apa yang ada di antara keduanya, dan apa yang ada di bawah tanah"* (Taha: 6). Telah kami sebutkan bahwa kedua ayat ini menunjukkan bahwa segala sesuatu yang terikat pada arah atas adalah makhluk dan baharu. Maka tetaplah, dengan apa yang telah kami sebutkan, bahwa jalan dalam ayat-ayat mutasyabih ini adalah takwil atas lafaz-lafaz itu, sebagai adab terhadap Yang Wajib Ada.[^197] Hanya kepada Allah kita memohon taufik.
 
-⁵⁰ CT: *'Aqīm* dalam bahasa berarti perempuan yang tidak dapat melahirkan. (catatan penerjemah)
+[^196]: **Petunjuk** (*qarīna*; Ing. *presumption, evidence, sign*). Menurut ahli bahasa Arab, *qarīna* adalah sesuatu yang menunjukkan kepada sesuatu yang lain tanpa dipakai untuk menyatakannya secara langsung. Ia terbagi menjadi petunjuk keadaan (*ḥāliyya*) dan petunjuk ucapan (*maqāliyya*). (*Kashshāf*, s.v. *al-qarīna*.)
 
-⁵¹ CT: *Āyisa* dipakai untuk perempuan tua yang haidnya telah terputus dan tidak mungkin haid lagi. (catatan penerjemah)
+[^193]: CT: *'Aqīm* dalam bahasa berarti perempuan yang tidak dapat melahirkan. (catatan penerjemah)
 
-⁵² CT: QS Yunus [10]: 3.
+[^194]: CT: *Āyisa* dipakai untuk perempuan tua yang haidnya telah terputus dan tidak mungkin haid lagi. (catatan penerjemah)
 
-⁵³ CT: QS ar-Rahman [55]: 1.
+[^195]: CP: Teks Arab, diikuti edisi Turki, berbunyi "tidak wajib menghindari perubahan bentuk kata", padahal contoh dan alasannya justru melarang pemakaian bentuk isim fa'il seperti *mustawin*. Tampaknya ada kata yang hilang dalam naskah; terjemahan mengikuti tuntutan konteks, sejalan dengan anjuran al-Ghazali dalam *Iljam al-'Awamm* agar menahan diri dari *taṣrīf* terhadap lafaz-lafaz mutasyabih.
 
-⁵⁴ CT: QS ar-Rahman [55]: 2.
-
-⁵⁵ CT: QS an-Nisa' [4]: 113.
-
-⁵⁶ CT: QS al-Kahf [18]: 65.
-
-⁵⁷ CT: QS al-Baqarah [2]: 31.
-
-⁵⁸ CT: QS al-An'am [6]: 18.
-
-⁵⁹ CT: QS an-Nur [24]: 35.
-
-⁶⁰ CT: QS an-Nur [24]: 35.
-
-⁶¹ CT: QS Taha [20]: 5.
-
-⁶² CT: QS Taha [20]: 4.
-
-⁶³ CT: QS Taha [20]: 6.
-
-⁶⁴ CT: Wajib al-Wujud: Allah Tabaraka wa Ta'ala adalah Wajib al-Wujud; Dia telah ada di azali ketika tidak ada sesuatu pun.
-
-ᵃ CP: Teks Arab, diikuti edisi Turki, berbunyi "tidak wajib menghindari perubahan bentuk kata", padahal contoh dan alasannya justru melarang pemakaian bentuk isim fa'il seperti *mustawin*. Tampaknya ada kata yang hilang dalam naskah; terjemahan mengikuti tuntutan konteks, sejalan dengan anjuran al-Ghazali dalam *Iljam al-'Awamm* agar menahan diri dari *taṣrīf* terhadap lafaz-lafaz mutasyabih.
+[^197]: CT: Wajib al-Wujud: Allah Tabaraka wa Ta'ala adalah Wajib al-Wujud; Dia telah ada di azali ketika tidak ada sesuatu pun.
 
 ---
 
@@ -2694,11 +2183,11 @@ Adapun dalam ketuhanan, sebab orang-orang yang membenarkan Al-Qur'an meyakini te
 
 Adapun dalam kenabian, sebab orang-orang yang mengetahui wajibnya menyucikan Allah dari sifat-sifat ini menjadikannya gugatan terhadap kenabian Muhammad shallallahu 'alaihi wasallam. Mereka berkata: seandainya ia rasul yang benar dari sisi Allah Ta'ala, tingkatan yang paling utama baginya adalah mengenal Tuhannya; karena ia tidak mengenal-Nya, bahkan menyifati-Nya dengan sifat-sifat hal-hal yang baharu, mustahillah ia rasul yang benar.
 
-Adapun dalam syariat, sebab di antara mereka ada yang, seandainya ditanya, akan terseret karena hal itu untuk menggugat Al-Qur'an. Mereka berkata bahwa Al-Qur'an telah diubah dan diganti, dan bahwa Al-Qur'an yang diturunkan kepada Muhammad shallallahu 'alaihi wasallam bersih dari syubhat-syubhat ini. Mereka berhujah bahwa Al-Qur'an ini penuh dengan penyifatan Al-Qur'an sebagai petunjuk, penjelasan, hikmah, penyembuh, dan cahaya; padahal sudah diketahui secara niscaya bahwa ayat-ayat mutasyabih ini merupakan sebab besar bagi kesesatan makhluk dan terjerumusnya mereka ke dalam penjisiman dan penyerupaan. Maka adakalanya ayat-ayat yang menunjukkan bahwa Al-Qur'an adalah cahaya atau penyembuh itu dusta, adakalanya ayat-ayat yang menunjukkan penjisiman dan penyerupaan itu batil dan dusta; dan dengan kedua pengandaian itu, gugatan terhadap Al-Qur'an tak terelakkan. (Mereka berkata:) andaikan kita membawa ayat-ayat mutasyabih ini kepada perkataan majaz, namun di antara perkataan ada majaz yang memberi kesan kepada perkataan batil dan keyakinan rusak; maka wajiblah kebenaran itu dinyatakan secara tegas agar hal itu menjadi sebab hilangnya kesan batil tersebut. Padahal dalam Al-Qur'an tidak terdapat lafaz-lafaz yang menunjukkan penyucian dan tauhid secara tegas; sebab firman-Nya, *"Katakanlah, 'Dialah Allah Yang Maha Esa,'"*¹ dan firman-Nya, *"Tidak ada sesuatu pun yang serupa dengan-Nya. Dia Yang Maha Mendengar lagi Maha Melihat,"*² tidak menunjukkan penyucian kecuali dengan penunjukan yang lemah. Semua itu mengharuskan gugatan terhadap Al-Qur'an. Inilah pemaparan syubhat ini dalam bab ini.
+Adapun dalam syariat, sebab di antara mereka ada yang, seandainya ditanya, akan terseret karena hal itu untuk menggugat Al-Qur'an. Mereka berkata bahwa Al-Qur'an telah diubah dan diganti, dan bahwa Al-Qur'an yang diturunkan kepada Muhammad shallallahu 'alaihi wasallam bersih dari syubhat-syubhat ini. Mereka berhujah bahwa Al-Qur'an ini penuh dengan penyifatan Al-Qur'an sebagai petunjuk, penjelasan, hikmah, penyembuh, dan cahaya; padahal sudah diketahui secara niscaya bahwa ayat-ayat mutasyabih ini merupakan sebab besar bagi kesesatan makhluk dan terjerumusnya mereka ke dalam penjisiman dan penyerupaan. Maka adakalanya ayat-ayat yang menunjukkan bahwa Al-Qur'an adalah cahaya atau penyembuh itu dusta, adakalanya ayat-ayat yang menunjukkan penjisiman dan penyerupaan itu batil dan dusta; dan dengan kedua pengandaian itu, gugatan terhadap Al-Qur'an tak terelakkan. (Mereka berkata:) andaikan kita membawa ayat-ayat mutasyabih ini kepada perkataan majaz, namun di antara perkataan ada majaz yang memberi kesan kepada perkataan batil dan keyakinan rusak; maka wajiblah kebenaran itu dinyatakan secara tegas agar hal itu menjadi sebab hilangnya kesan batil tersebut. Padahal dalam Al-Qur'an tidak terdapat lafaz-lafaz yang menunjukkan penyucian dan tauhid secara tegas; sebab firman-Nya, *"Katakanlah, 'Dialah Allah Yang Maha Esa'"* (al-Ikhlas: 1), dan firman-Nya, *"Tidak ada sesuatu pun yang serupa dengan-Nya. Dia Yang Maha Mendengar lagi Maha Melihat"* (asy-Syura: 11), tidak menunjukkan penyucian kecuali dengan penunjukan yang lemah. Semua itu mengharuskan gugatan terhadap Al-Qur'an. Inilah pemaparan syubhat ini dalam bab ini.
 
 Ketahuilah, para ulama peneliti menyebutkan berbagai faedah dalam penurunan ayat-ayat mutasyabih.
 
-Pertama, selama ayat-ayat mutasyabih ada, sampai kepada kebenaran menjadi lebih sukar dan lebih berat; dan bertambahnya kesukaran mengharuskan bertambahnya pahala. Allah Ta'ala berfirman, *"Apakah kamu mengira akan masuk surga, padahal belum nyata bagi Allah orang-orang yang berjihad di antaramu dan belum nyata orang-orang yang sabar?"*³
+Pertama, selama ayat-ayat mutasyabih ada, sampai kepada kebenaran menjadi lebih sukar dan lebih berat; dan bertambahnya kesukaran mengharuskan bertambahnya pahala. Allah Ta'ala berfirman, *"Apakah kamu mengira akan masuk surga, padahal belum nyata bagi Allah orang-orang yang berjihad di antaramu dan belum nyata orang-orang yang sabar?"* (Ali 'Imran: 142)
 
 Kedua, seandainya Al-Qur'an seluruhnya muhkam, ia hanya akan sesuai dengan satu mazhab, sehingga dengan pengandaian ini pernyataan tegasnya membatalkan setiap mazhab selain mazhab itu; dan hal itu membuat para penganut mazhab-mazhab lain menjauh dari menerimanya, menelaahnya, dan mengambil manfaat darinya. Adapun karena ia memuat yang muhkam dan yang mutasyabih, ketika itu penganut setiap mazhab berharap mendapati di dalamnya apa yang menguatkan mazhabnya dan mendukung pendapatnya. Ketika itu semua penganut mazhab menelaahnya, dan setiap penganut mazhab bersungguh-sungguh dalam menakwilkan. Apabila mereka bersungguh-sungguh dalam takwil itu, ayat-ayat muhkam menjadi penafsir bagi ayat-ayat mutasyabih. Dengan jalan inilah orang yang berada di atas kebatilan terbebas dari kebatilannya, sehingga kita sampai kepada kebenaran.
 
@@ -2708,191 +2197,83 @@ Keempat, karena Al-Qur'an memuat yang muhkam dan yang mutasyabih, ia membutuhkan
 
 Kelima, dan inilah sebab yang paling kuat: Al-Qur'an memuat seruan kepada kalangan khusus dan kalangan awam. (Tabiat kalangan awam,) dalam kebanyakan perkara, menolak untuk menangkap hakikat-hakikat rasional yang murni. Maka orang awam yang pada awalnya mendengar penetapan suatu maujud yang bukan jisim, tidak menempati ruang, dan tidak dapat ditunjuk, akan mengira bahwa itu ketiadaan murni, sehingga ia terjerumus ke dalam penafian (*taʿṭīl*). Maka yang lebih maslahat adalah menyeru mereka dengan lafaz-lafaz yang menunjukkan sebagian dari apa yang sesuai dengan apa yang mereka khayalkan dan sangkakan, bercampur dengan apa yang menunjukkan kebenaran yang tegas. Bagian pertama, yaitu apa yang dengannya mereka diseru pada awalnya, termasuk jenis mutasyabih; dan bagian kedua, yaitu apa yang disingkapkan kepada mereka pada akhirnya, termasuk muhkam. Inilah yang kami ringkaskan dalam bab ini. Hanya kepada Allah kita memohon taufik.
 
-¹ CT: QS al-Ikhlas [112]: 1.
-
-² CT: QS asy-Syura [42]: 11.
-
-³ CT: QS Ali 'Imran [3]: 142.
-
 ### Pasal Kedua: Apakah Mujassim (Penganut Penjisiman) Disifati sebagai Musyabbih (Penganut Penyerupaan) atau Tidak
 
 *(Tr. h. 226)*
 
 Kaum Mujassim berkata: meskipun kami berkata bahwa Allah Ta'ala adalah jisim yang terikat pada ruang dan arah, kami meyakini bahwa Dia berbeda dari semua jisim lain dalam zat dan hakikat-Nya, dan itu mencegah pendapat tentang penyerupaan. Sebab, penetapan kesamaan dalam beberapa hal tidak mengharuskan penetapan penyerupaan. Buktinya, Allah Ta'ala menyatakan secara tegas dalam Kitab-Nya kesamaan dalam banyak sifat, dan tidak ada seorang pun yang berkata bahwa hal itu mengharuskan penyerupaan.
 
-Pertama, Dia berfirman tentang sifat diri-Nya, *"Sesungguhnya Aku bersama kamu berdua, Aku mendengar dan melihat,"*⁴ dan berfirman tentang sifat manusia, *"maka Kami menjadikannya dapat mendengar dan melihat."*⁵
+Pertama, Dia berfirman tentang sifat diri-Nya, *"Sesungguhnya Aku bersama kamu berdua, Aku mendengar dan melihat"* (Taha: 46), dan berfirman tentang sifat manusia, *"maka Kami menjadikannya dapat mendengar dan melihat"* (al-Insan: 2).
 
-Kedua, Allah Ta'ala berfirman, *"Buatlah bahtera itu dengan mata-mata Kami,"*⁶ dan berfirman tentang manusia, *"kamu lihat mata mereka mencucurkan air mata."*⁷
+Kedua, Allah Ta'ala berfirman, *"Buatlah bahtera itu dengan mata-mata Kami"* (Hud: 37), dan berfirman tentang manusia, *"kamu lihat mata mereka mencucurkan air mata"* (al-Ma'idah: 83).
 
-Ketiga, firman Allah Ta'ala, *"Padahal kedua tangan-Nya terbentang,"*⁸ dan tentang manusia, *"Itu karena perbuatan yang dilakukan dahulu oleh kedua tanganmu."*⁹ Dia berfirman tentang diri-Nya, *"di antara apa yang telah diciptakan oleh tangan-tangan Kami, yaitu hewan-hewan ternak,"*¹⁰ dan tentang manusia, *"Tangan Allah di atas tangan-tangan mereka."*¹¹
+Ketiga, firman Allah Ta'ala, *"Padahal kedua tangan-Nya terbentang"* (al-Ma'idah: 64), dan tentang manusia, *"Itu karena perbuatan yang dilakukan dahulu oleh kedua tanganmu"* (al-Hajj: 10). Dia berfirman tentang diri-Nya, *"di antara apa yang telah diciptakan oleh tangan-tangan Kami, yaitu hewan-hewan ternak"* (Yasin: 71), dan tentang manusia, *"Tangan Allah di atas tangan-tangan mereka"* (al-Fath: 10).
 
-Keempat, Allah Ta'ala berfirman, *"(Yaitu) Yang Maha Pengasih, yang bersemayam di atas Arasy,"*¹² dan tentang manusia, *"agar kamu duduk (tastawū) di atas punggungnya."*¹³
+Keempat, Allah Ta'ala berfirman, *"(Yaitu) Yang Maha Pengasih, yang bersemayam di atas Arasy"* (Taha: 5), dan tentang manusia, *"agar kamu duduk (tastawū) di atas punggungnya"* (az-Zukhruf: 13).
 
-Kelima, Dia berfirman tentang sifat diri-Nya, *"Yang Mahaperkasa (al-ʿAzīz), Yang Maha Kuasa (al-Jabbār),"*¹⁴ dan menyifati makhluk dengan sifat itu. Saudara-saudara Yusuf berkata, *"Wahai al-Aziz,"*¹⁵ dan Dia berfirman, *"Demikianlah Allah mengunci hati setiap orang yang sombong dan sewenang-wenang (jabbār)."*¹⁶
+Kelima, Dia berfirman tentang sifat diri-Nya, *"Yang Mahaperkasa (al-ʿAzīz), Yang Maha Kuasa (al-Jabbār)"* (al-Hasyr: 23), dan menyifati makhluk dengan sifat itu. Saudara-saudara Yusuf berkata, *"Wahai al-Aziz"* (Yusuf: 78), dan Dia berfirman, *"Demikianlah Allah mengunci hati setiap orang yang sombong dan sewenang-wenang (jabbār)"* (Gafir: 35).
 
-Keenam, Dia menamai diri-Nya Yang Mahaagung (*al-ʿAẓīm*), kemudian menyifati Arasy (dengannya). Dia berfirman, *"Tuhan pemilik Arasy yang agung."*¹⁷
+Keenam, Dia menamai diri-Nya Yang Mahaagung (*al-ʿAẓīm*), kemudian menyifati Arasy (dengannya). Dia berfirman, *"Tuhan pemilik Arasy yang agung"* (at-Taubah: 129).
 
-Ketujuh, Dia menyifati diri-Nya dengan *al-Ḥafīẓ* (Maha Memelihara) dan *al-ʿAlīm* (Maha Mengetahui), dan Yusuf menyifati dirinya dengan keduanya, ia berkata, *"sesungguhnya aku orang yang pandai menjaga lagi berpengetahuan."*¹⁸ Dia berfirman, *"Mereka memberi kabar gembira kepadanya dengan (kelahiran) seorang anak yang alim,"*¹⁹ dan berfirman dalam ayat lain, *"dengan (kelahiran) seorang anak yang sangat santun (ḥalīm)."*²⁰
+Ketujuh, Dia menyifati diri-Nya dengan *al-Ḥafīẓ* (Maha Memelihara) dan *al-ʿAlīm* (Maha Mengetahui), dan Yusuf menyifati dirinya dengan keduanya, ia berkata, *"sesungguhnya aku orang yang pandai menjaga lagi berpengetahuan"* (Yusuf: 55). Dia berfirman, *"Mereka memberi kabar gembira kepadanya dengan (kelahiran) seorang anak yang alim"* (adz-Dzariyat: 28), dan berfirman dalam ayat lain, *"dengan (kelahiran) seorang anak yang sangat santun (ḥalīm)"* (ash-Shaffat: 101).
 
-Kedelapan, *al-ḥakam* (hakim). Allah berfirman, *"Ketahuilah bahwa segala hukum (pada hari itu) adalah milik-Nya,"*²¹ dan menyifati kita dengannya, Dia berfirman, *"kirimlah seorang juru damai (ḥakam) dari keluarga laki-laki dan seorang juru damai dari keluarga perempuan."*²²
+Kedelapan, *al-ḥakam* (hakim). Allah berfirman, *"Ketahuilah bahwa segala hukum (pada hari itu) adalah milik-Nya"* (al-An'am: 62), dan menyifati kita dengannya, Dia berfirman, *"kirimlah seorang juru damai (ḥakam) dari keluarga laki-laki dan seorang juru damai dari keluarga perempuan"* (an-Nisa': 35).
 
 Kesembilan, *al-Rāḥim* dan *al-Raḥīm* (Maha Penyayang); ini jelas.
 
-Kesepuluh, *al-Shakūr* (Maha Mensyukuri). Allah berfirman, *"Sesungguhnya Tuhan kami benar-benar Maha Pengampun lagi Maha Mensyukuri."*²³
+Kesepuluh, *al-Shakūr* (Maha Mensyukuri). Allah berfirman, *"Sesungguhnya Tuhan kami benar-benar Maha Pengampun lagi Maha Mensyukuri"* (Fathir: 34).
 
 Kesebelas, *al-ʿAliyy* (Mahatinggi). Manusia pun dinamai dengannya, seperti Ali radhiyallahu 'anhu.
 
-Kedua belas, *al-Kabīr* (Mahabesar). Dia berfirman tentang diri-Nya, *"Dialah Yang Mahatinggi lagi Mahabesar,"*²⁴ dan berfirman, *"ia mempunyai ayah yang sudah sangat tua (shaykhan kabīran),"*²⁵ dan berfirman, mengisahkan dua perempuan, *"sedangkan ayah kami adalah orang tua yang telah lanjut usia (shaykhun kabīr)."*²⁶
+Kedua belas, *al-Kabīr* (Mahabesar). Dia berfirman tentang diri-Nya, *"Dialah Yang Mahatinggi lagi Mahabesar"* (Saba': 23), dan berfirman, *"ia mempunyai ayah yang sudah sangat tua (shaykhan kabīran)"* (Yusuf: 78), dan berfirman, mengisahkan dua perempuan, *"sedangkan ayah kami adalah orang tua yang telah lanjut usia (shaykhun kabīr)"* (al-Qashash: 23).
 
-Ketiga belas, *al-Ḥamīd* (Maha Terpuji). Allah Ta'ala menyifati diri-Nya dalam Kitab-Nya, Dia berfirman, *"diturunkan dari Tuhan Yang Mahabijaksana lagi Maha Terpuji."*²⁷
+Ketiga belas, *al-Ḥamīd* (Maha Terpuji). Allah Ta'ala menyifati diri-Nya dalam Kitab-Nya, Dia berfirman, *"diturunkan dari Tuhan Yang Mahabijaksana lagi Maha Terpuji"* (Fushshilat: 42).
 
-Keempat belas, *al-Shahīd* (Maha Menyaksikan). Dia berfirman tentang makhluk, *"Bagaimanakah (keadaan orang-orang kafir nanti) jika Kami mendatangkan seorang saksi (shahīd) dari setiap umat."*²⁸
+Keempat belas, *al-Shahīd* (Maha Menyaksikan). Dia berfirman tentang makhluk, *"Bagaimanakah (keadaan orang-orang kafir nanti) jika Kami mendatangkan seorang saksi (shahīd) dari setiap umat"* (an-Nisa': 41).
 
-Kelima belas, *al-Ḥaqq* (Mahabenar). Dia berfirman, *"Mahatinggi Allah, Raja yang sebenar-benarnya (al-Ḥaqq),"*²⁹ *"Kami menurunkannya (Al-Qur'an) dengan sebenar-benarnya dan (Al-Qur'an) itu turun dengan (membawa) kebenaran,"*³⁰ *"Kerajaan yang hak pada hari itu adalah milik Tuhan Yang Maha Pengasih,"*³¹ *"Setiap kali mereka datang kepadamu (membawa) sesuatu yang aneh, pasti Kami datangkan kepadamu yang benar,"*³² dan *"Dialah yang telah mengutus Rasul-Nya dengan petunjuk dan agama yang benar."*³³
+Kelima belas, *al-Ḥaqq* (Mahabenar). Dia berfirman, *"Mahatinggi Allah, Raja yang sebenar-benarnya (al-Ḥaqq)"* (Taha: 114), *"Kami menurunkannya (Al-Qur'an) dengan sebenar-benarnya dan (Al-Qur'an) itu turun dengan (membawa) kebenaran"* (al-Isra': 105), *"Kerajaan yang hak pada hari itu adalah milik Tuhan Yang Maha Pengasih"* (al-Furqan: 26), *"Setiap kali mereka datang kepadamu (membawa) sesuatu yang aneh, pasti Kami datangkan kepadamu yang benar"* (al-Furqan: 33), dan *"Dialah yang telah mengutus Rasul-Nya dengan petunjuk dan agama yang benar"* (at-Taubah: 33).
 
-Keenam belas, *al-Wakīl* (Maha Pemelihara). Allah Ta'ala berfirman, *"Dia Pemelihara (wakīl) segala sesuatu,"*³⁴ dan makhluk pun terkadang disifati dengannya; dikatakan, "Si Fulan wakil si Fulan."
+Keenam belas, *al-Wakīl* (Maha Pemelihara). Allah Ta'ala berfirman, *"Dia Pemelihara (wakīl) segala sesuatu"* (al-An'am: 102), dan makhluk pun terkadang disifati dengannya; dikatakan, "Si Fulan wakil si Fulan."
 
-Ketujuh belas, *al-Mawlā* (Maha Pelindung). Allah Ta'ala berfirman, *"Yang demikian itu karena sesungguhnya Allah pelindung orang-orang yang beriman, sedangkan orang-orang kafir tidak ada pelindung bagi mereka,"*³⁵ kemudian Dia berfirman tentang kita, *"Bagi setiap (harta peninggalan), Kami telah menetapkan para ahli waris (mawālī),"*³⁶ dan Nabi shallallahu 'alaihi wasallam bersabda, *"Siapa yang aku menjadi maulanya, maka Ali adalah maulanya."*³⁷
+Ketujuh belas, *al-Mawlā* (Maha Pelindung). Allah Ta'ala berfirman, *"Yang demikian itu karena sesungguhnya Allah pelindung orang-orang yang beriman, sedangkan orang-orang kafir tidak ada pelindung bagi mereka"* (Muhammad: 11), kemudian Dia berfirman tentang kita, *"Bagi setiap (harta peninggalan), Kami telah menetapkan para ahli waris (mawālī)"* (an-Nisa': 33), dan Nabi shallallahu 'alaihi wasallam bersabda, *"Siapa yang aku menjadi maulanya, maka Ali adalah maulanya."*[^198]
 
-Kedelapan belas, *al-Waliyy* (Maha Penolong). Allah Ta'ala berfirman, *"Sesungguhnya penolong kamu hanyalah Allah, Rasul-Nya, dan orang-orang yang beriman,"*³⁸ Nabi shallallahu 'alaihi wasallam bersabda, *"Perempuan mana pun yang menikahkan dirinya tanpa izin walinya, nikahnya batal,"* dan Allah Ta'ala berfirman, *"Orang-orang mukmin, laki-laki dan perempuan, sebagian mereka menjadi penolong bagi sebagian yang lain."*³⁹
+Kedelapan belas, *al-Waliyy* (Maha Penolong). Allah Ta'ala berfirman, *"Sesungguhnya penolong kamu hanyalah Allah, Rasul-Nya, dan orang-orang yang beriman"* (al-Ma'idah: 55), Nabi shallallahu 'alaihi wasallam bersabda, *"Perempuan mana pun yang menikahkan dirinya tanpa izin walinya, nikahnya batal,"* dan Allah Ta'ala berfirman, *"Orang-orang mukmin, laki-laki dan perempuan, sebagian mereka menjadi penolong bagi sebagian yang lain"* (at-Taubah: 71).
 
-Kesembilan belas, *al-Ḥayy* (Mahahidup). Allah Ta'ala berfirman, *"Dialah Yang Mahahidup, tidak ada tuhan selain Dia,"*⁴⁰ *"Alif Lam Mim.*⁴¹ *Allah, tidak ada tuhan selain Dia, Yang Mahahidup lagi terus-menerus mengurus,"*⁴² dan berfirman, *"Kami jadikan segala sesuatu yang hidup berasal dari air."*⁴³
+Kesembilan belas, *al-Ḥayy* (Mahahidup). Allah Ta'ala berfirman, *"Dialah Yang Mahahidup, tidak ada tuhan selain Dia"* (Gafir: 65), *"Alif Lam Mim* (Ali 'Imran: 1). *Allah, tidak ada tuhan selain Dia, Yang Mahahidup lagi terus-menerus mengurus"* (Ali 'Imran: 2), dan berfirman, *"Kami jadikan segala sesuatu yang hidup berasal dari air"* (al-Anbiya': 30).
 
-Kedua puluh, *al-Wāḥid* (Maha Esa). Allah Ta'ala berfirman, *"Katakanlah, 'Sesungguhnya Dia hanyalah Tuhan Yang Maha Esa (wāḥid).'"*⁴⁴ Sifat ini pun berlaku pada kebanyakan hal; dikatakan, "satu (*wāḥid*) pakaian" dan "satu manusia."
+Kedua puluh, *al-Wāḥid* (Maha Esa). Allah Ta'ala berfirman, *"Katakanlah, 'Sesungguhnya Dia hanyalah Tuhan Yang Maha Esa (wāḥid)'"* (al-An'am: 19). Sifat ini pun berlaku pada kebanyakan hal; dikatakan, "satu (*wāḥid*) pakaian" dan "satu manusia."
 
-Kedua puluh satu, *al-Tawwāb* (Maha Penerima tobat). Allah Ta'ala berfirman, *"Sungguh, Allah Maha Penerima tobat lagi Maha Penyayang,"*⁴⁵ dan makhluk pun dinamai dengannya; Dia berfirman, *"Sesungguhnya Allah menyukai orang-orang yang bertobat (al-tawwābīn)."*⁴⁶
+Kedua puluh satu, *al-Tawwāb* (Maha Penerima tobat). Allah Ta'ala berfirman, *"Sungguh, Allah Maha Penerima tobat lagi Maha Penyayang"* (an-Nisa': 16), dan makhluk pun dinamai dengannya; Dia berfirman, *"Sesungguhnya Allah menyukai orang-orang yang bertobat (al-tawwābīn)"* (al-Baqarah: 222).
 
-Kedua puluh dua, *al-Ghaniyy* (Mahakaya). Allah Ta'ala berfirman, *"Allahlah Yang Mahakaya,"*⁴⁷ dan berfirman, *"Sesungguhnya alasan (untuk menyalahkan) hanyalah terhadap orang-orang yang meminta izin kepadamu, padahal mereka orang kaya,"*⁴⁸ dan beliau bersabda, *"Ambillah (zakat) dari orang-orang kaya mereka dan kembalikanlah kepada orang-orang fakir mereka."*⁴⁹
+Kedua puluh dua, *al-Ghaniyy* (Mahakaya). Allah Ta'ala berfirman, *"Allahlah Yang Mahakaya"* (Muhammad: 38), dan berfirman, *"Sesungguhnya alasan (untuk menyalahkan) hanyalah terhadap orang-orang yang meminta izin kepadamu, padahal mereka orang kaya"* (at-Taubah: 93), dan beliau bersabda, *"Ambillah (zakat) dari orang-orang kaya mereka dan kembalikanlah kepada orang-orang fakir mereka."*[^199]
 
-Kedua puluh tiga, *al-Nūr* (cahaya). Allah Ta'ala berfirman, *"Allah (pemberi) cahaya (kepada) langit dan bumi,"*⁵⁰ dan berfirman, *"cahaya mereka bersinar di depan mereka."*⁵¹
+Kedua puluh tiga, *al-Nūr* (cahaya). Allah Ta'ala berfirman, *"Allah (pemberi) cahaya (kepada) langit dan bumi"* (an-Nur: 35), dan berfirman, *"cahaya mereka bersinar di depan mereka"* (al-Hadid: 12).
 
-Kedua puluh empat, *al-Hādī* (Maha Pemberi petunjuk). Allah Ta'ala berfirman, *"tetapi Allahlah yang memberi petunjuk kepada siapa yang Dia kehendaki,"*⁵² dan berfirman, *"Sesungguhnya engkau hanyalah seorang pemberi peringatan dan bagi setiap kaum ada seorang pemberi petunjuk."*⁵³
+Kedua puluh empat, *al-Hādī* (Maha Pemberi petunjuk). Allah Ta'ala berfirman, *"tetapi Allahlah yang memberi petunjuk kepada siapa yang Dia kehendaki"* (al-Baqarah: 272), dan berfirman, *"Sesungguhnya engkau hanyalah seorang pemberi peringatan dan bagi setiap kaum ada seorang pemberi petunjuk"* (ar-Ra'd: 7).
 
-Kedua puluh lima, *al-Mustamiʿ* (Yang mendengarkan). Allah Ta'ala berfirman, *"Sekali-kali tidak (akan terjadi). Maka, pergilah kamu berdua dengan membawa ayat-ayat Kami, sesungguhnya Kami bersamamu mendengarkan,"*⁵⁴ dan berfirman kepada Musa 'alaihissalam, *"maka dengarkanlah apa yang akan diwahyukan (kepadamu)."*⁵⁵
+Kedua puluh lima, *al-Mustamiʿ* (Yang mendengarkan). Allah Ta'ala berfirman, *"Sekali-kali tidak (akan terjadi). Maka, pergilah kamu berdua dengan membawa ayat-ayat Kami, sesungguhnya Kami bersamamu mendengarkan"* (asy-Syu'ara': 15), dan berfirman kepada Musa 'alaihissalam, *"maka dengarkanlah apa yang akan diwahyukan (kepadamu)"* (Taha: 13).
 
-Kedua puluh enam, *al-Qadīm* (yang qadim). Allah Ta'ala berfirman, *"sehingga kembalilah ia seperti bentuk tandan yang tua (al-qadīm)."*⁵⁶
+Kedua puluh enam, *al-Qadīm* (yang qadim). Allah Ta'ala berfirman, *"sehingga kembalilah ia seperti bentuk tandan yang tua (al-qadīm)"* (Yasin: 39).
 
 Ketahuilah, tidak ada perselisihan bahwa lafaz maujud, sesuatu, yang satu, zat, yang diketahui, yang disebut, yang mengetahui, yang berkuasa, yang hidup, yang berkehendak, yang mendengar, yang melihat, yang berbicara, dan yang kekal, berlaku bagi al-Haqq Subhanahu wa Ta'ala dan bagi makhluk-Nya. Maka tetaplah, dengan apa yang telah kami sebutkan, bahwa keserupaan dari sebagian segi tidak mengharuskan orang yang mengatakannya disifati sebagai orang yang menyerupakan Allah dengan makhluk. Kami tidak menetapkan keserupaan antara Dia dan makhluk-Nya kecuali dalam sebagian keadaan dan sifat; hanya saja kami meyakini bahwa Allah Ta'ala, walaupun jisim, berbeda dari semua jisim lain dalam zat dan hakikat-Nya. Maka tetaplah bahwa memakai nama *musyabbih* untuk golongan ini adalah dusta dan kepalsuan. Inilah keseluruhan perkataan mereka dalam bab ini.
 
 Ketahuilah, inti jawaban dari pihak kami ialah bahwa kami telah membuktikan dalam Bagian Pertama kitab ini bahwa jisim-jisim itu serupa dalam keseluruhan esensi. Maka, seandainya Sang Pencipta Ta'ala jisim, niscaya Dia padanan bagi jisim-jisim ini dalam keseluruhan esensi, dan ketika itu pendapat tentang penyerupaan tak terelakkan. Adapun (kesamaan) dalam hal yang tidak ditunjukkan oleh dalil (sebagai keserupaan hakikat), seperti keadaan sebagai maujud, yang mengetahui, dan yang berkuasa, hal itu tidak mengharuskan keserupaan dalam keseluruhan esensi. Maka jelaslah perbedaannya. Hanya kepada Allah kita memohon taufik.
 
-⁴ CT: QS Taha [20]: 46. (Edisi Turki tertulis 20/16.)
+[^198]: CT: at-Tirmidzi, *al-Manaqib*, (20); Ibnu Majah, *al-Muqaddimah*, (11)8.
 
-⁵ CT: QS al-Insan [76]: 2.
-
-⁶ CT: QS Hud [11]: 37.
-
-⁷ CT: QS al-Ma'idah [5]: 83. (Edisi Turki tertulis 5/71.)
-
-⁸ CT: QS al-Ma'idah [5]: 64.
-
-⁹ CT: QS al-Hajj [22]: 10. (Edisi Turki tertulis 22/19.)
-
-¹⁰ CT: QS Yasin [36]: 71.
-
-¹¹ CT: QS al-Fath [48]: 10.
-
-¹² CT: QS Taha [20]: 5.
-
-¹³ CT: QS az-Zukhruf [43]: 13.
-
-¹⁴ CT: QS al-Hasyr [59]: 23.
-
-¹⁵ CT: QS Yusuf [12]: 78.
-
-¹⁶ CT: QS Gafir [40]: 35.
-
-¹⁷ CT: QS at-Taubah [9]: 129.
-
-¹⁸ CT: QS Yusuf [12]: 55.
-
-¹⁹ CT: QS adz-Dzariyat [51]: 28.
-
-²⁰ CT: QS ash-Shaffat [37]: 101.
-
-²¹ CT: (Teks catatan ini tidak terbaca dalam naskah Turki; menurut konteksnya: QS al-An'am [6]: 62.)
-
-²² CT: QS an-Nisa' [4]: 35.
-
-²³ CT: QS Fathir [35]: 34.
-
-²⁴ CT: QS Saba' [34]: 23.
-
-²⁵ CT: QS Yusuf [12]: 78.
-
-²⁶ CT: QS al-Qashash [28]: 23.
-
-²⁷ CT: QS Fushshilat [41]: 42.
-
-²⁸ CT: QS an-Nisa' [4]: 41.
-
-²⁹ CT: QS Taha [20]: 114.
-
-³⁰ CT: QS al-Isra' [17]: 105.
-
-³¹ CT: QS al-Furqan [25]: 26.
-
-³² CT: QS al-Furqan [25]: 33.
-
-³³ CT: QS at-Taubah [9]: 33.
-
-³⁴ CT: QS al-An'am [6]: 102.
-
-³⁵ CT: QS Muhammad [47]: 11.
-
-³⁶ CT: QS an-Nisa' [4]: 33.
-
-³⁷ CT: at-Tirmidzi, *al-Manaqib*, (20); Ibnu Majah, *al-Muqaddimah*, (11)8.
-
-³⁸ CT: QS al-Ma'idah [5]: 55.
-
-³⁹ CT: QS at-Taubah [9]: 71.
-
-⁴⁰ CT: QS Gafir [40]: 65.
-
-⁴¹ CT: QS Ali 'Imran [3]: 1.
-
-⁴² CT: QS Ali 'Imran [3]: 2.
-
-⁴³ CT: QS al-Anbiya' [21]: 30.
-
-⁴⁴ CT: QS al-An'am [6]: 19. (Edisi Turki tertulis 6/15.)
-
-⁴⁵ CT: QS an-Nisa' [4]: 16.
-
-⁴⁶ CT: QS al-Baqarah [2]: 222. (Edisi Turki tertulis 2/122.)
-
-⁴⁷ CT: QS Muhammad [47]: 38.
-
-⁴⁸ CT: QS at-Taubah [9]: 93.
-
-⁴⁹ CT: al-Baihaqi, *as-Sunan al-Kubra*, IV/101.
-
-⁵⁰ CT: QS an-Nur [24]: 35.
-
-⁵¹ CT: QS al-Hadid [57]: 12.
-
-⁵² CT: QS al-Baqarah [2]: 272. (Edisi Turki tertulis 2/172.)
-
-⁵³ CT: QS ar-Ra'd [13]: 7.
-
-⁵⁴ CT: QS asy-Syu'ara' [26]: 15.
-
-⁵⁵ CT: QS Taha [20]: 13.
-
-⁵⁶ CT: QS Yasin [36]: 39.
+[^199]: CT: al-Baihaqi, *as-Sunan al-Kubra*, IV/101.
 
 ### Pasal Ketiga: Bahwa Orang yang Menetapkan Allah Ta'ala sebagai Jisim yang Menempati Ruang dan Terikat pada Arah Tertentu adalah Kafir
 
 *(Tr. h. 232)*
 
-Ia kafir. Sebab, menurut mazhab kami, segala sesuatu yang terikat pada arah dan ruang adalah makhluk yang baharu, yang memiliki Tuhan yang mengadakan dan menciptakannya. Adapun orang-orang yang berpendapat tentang kejisiman dan arah, yang mengingkari adanya maujud lain selain hal-hal yang dapat ditunjuk ini, mereka mengingkari Zat Maujud yang diyakini sebagai Tuhan. Jika mereka mengingkari Zat-Nya, tak ayal mereka kafir. Ini berbeda dengan Muktazilah, sebab mereka menetapkan suatu maujud di balik hal-hal yang dapat ditunjuk oleh indra ini; hanya saja mereka menyelisihi kami dalam sifat-sifat Maujud itu. Sedangkan kaum Mujassimah menyelisihi kami dalam penetapan Zat Yang Disembah dan wujud-Nya, sehingga perselisihan ini lebih besar. Maka kekufuran niscaya berlaku atas mereka karena mereka mengingkari Zat Yang Disembah dengan benar dan wujud-Nya, sedangkan (perselisihan) Muktazilah adalah dalam sifat-Nya, bukan dalam Zat-Nya.ᵃ
+Ia kafir. Sebab, menurut mazhab kami, segala sesuatu yang terikat pada arah dan ruang adalah makhluk yang baharu, yang memiliki Tuhan yang mengadakan dan menciptakannya. Adapun orang-orang yang berpendapat tentang kejisiman dan arah, yang mengingkari adanya maujud lain selain hal-hal yang dapat ditunjuk ini, mereka mengingkari Zat Maujud yang diyakini sebagai Tuhan. Jika mereka mengingkari Zat-Nya, tak ayal mereka kafir. Ini berbeda dengan Muktazilah, sebab mereka menetapkan suatu maujud di balik hal-hal yang dapat ditunjuk oleh indra ini; hanya saja mereka menyelisihi kami dalam sifat-sifat Maujud itu. Sedangkan kaum Mujassimah menyelisihi kami dalam penetapan Zat Yang Disembah dan wujud-Nya, sehingga perselisihan ini lebih besar. Maka kekufuran niscaya berlaku atas mereka karena mereka mengingkari Zat Yang Disembah dengan benar dan wujud-Nya, sedangkan (perselisihan) Muktazilah adalah dalam sifat-Nya, bukan dalam Zat-Nya.[^200]
 
 Inilah akhir pembahasan dalam kitab ini. Kami memohon kepada Allah Yang Mahaagung agar menjadikannya, di dunia dan akhirat, sebab bagi kemenangan, keselamatan, dan diperolehnya derajat-derajat, dengan rahmat-Nya. Sesungguhnya Dia Yang Maha Penyayang di antara para penyayang. Segala puji bagi Allah, Tuhan semesta alam.
 
 Selesailah, dengan pujian kepada Allah Ta'ala, kitab *Asās al-Taqdīs*.
 
-ᵃ CP: Penilaian kafir dalam pasal ini adalah pendapat ar-Razi sesuai dengan argumennya sendiri: yang dikafirkan adalah orang yang mengingkari adanya maujud apa pun selain yang dapat ditunjuk oleh indra, sehingga pada hakikatnya ia mengingkari Tuhan yang transenden. Terjemahan menyampaikan pendapat itu apa adanya tanpa menambah atau mengurangi.
+[^200]: CP: Penilaian kafir dalam pasal ini adalah pendapat ar-Razi sesuai dengan argumennya sendiri: yang dikafirkan adalah orang yang mengingkari adanya maujud apa pun selain yang dapat ditunjuk oleh indra, sehingga pada hakikatnya ia mengingkari Tuhan yang transenden. Terjemahan menyampaikan pendapat itu apa adanya tanpa menambah atau mengurangi.
 
 ---
 
