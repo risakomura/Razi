@@ -12,9 +12,9 @@
 |---|---|
 | Tahap | Terjemahan penuh sedang berjalan |
 | Glosarium | Versi 1.0 (usulan v0.1 diberlakukan melalui instruksi "lanjut hingga tuntas kitab"); tambahan baru dicatat di 2.7 dan menunggu persetujuan eksplisit |
-| Sudah diterjemahkan | Pembuka Kitab; Bagian I seluruhnya; Bagian II: Mukadimah, Pasal 1 sampai 8 |
-| Kalimat terakhir | "Kemudian, jika riwayat itu sahih, ia dibawa kepada makna pendekatan dan pengampunan. Allah lebih mengetahui." |
-| Posisi berikutnya | Naskah Arab: *al-Faṣl al-Tāsiʿ fī al-Majīʾ wa-l-Nuzūl* · Naskah Turki: *Dokuzuncu Kısım*, h. 125 |
+| Sudah diterjemahkan | Pembuka Kitab; Bagian I seluruhnya; Bagian II: Mukadimah, Pasal 1 sampai 12 |
+| Kalimat terakhir | "Maka bagaimana layak menurut akal kalian berani menyembahnya? Hanya kepada Allah kita memohon taufik." |
+| Posisi berikutnya | Naskah Arab: *al-Faṣl al-Thālith ʿAshar fī al-Wajh* · Naskah Turki: *On Üçüncü Kısım*, h. 140 |
 
 ---
 
@@ -1175,3 +1175,205 @@ Ketahuilah, yang dimaksud dengan kedekatan dan kehampiran-Nya adalah kedekatan d
 ⁶⁶ CT: Ahmad bin Hanbal, III/40.
 
 ⁶⁷ CT: al-Bukhari, *al-Mazhalim*, 20; Ibnu Majah, *al-Muqaddimah*, 13; Ahmad bin Hanbal, II/74.
+
+### Pasal Kesembilan: Tentang "Datang" (*Majīʾ*) dan "Turun" (*Nuzūl*)
+
+*(Tr. h. 125)*
+
+Mereka berhujah dengan firman Allah Ta'ala, *"Tidak ada yang mereka tunggu-tunggu, kecuali datangnya Allah dalam naungan awan,"*⁶⁸ dan dengan firman-Nya, *"dan Tuhanmu datang."*⁶⁹ Mereka juga berhujah dengan hadis-hadis. Di antaranya riwayat penulis *Syarh as-Sunnah* rahimahullah dalam bab menghidupkan akhir malam dan keutamaannya, dari Abu Hurairah dan Abu Sa'id al-Khudri radhiyallahu 'anhuma, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Tidaklah suatu kaum berkumpul mengingat Allah kecuali para malaikat mengelilingi mereka, rahmat meliputi mereka, ketenangan turun kepada mereka, dan Allah menyebut mereka di tengah (makhluk) yang ada di sisi-Nya. Kemudian Allah Ta'ala menunggu hingga, apabila tiba sepertiga malam terakhir, Dia turun ke langit dunia ini lalu menyeru: Adakah pendosa yang bertobat? Adakah yang memohon ampun? Adakah yang berdoa? Adakah yang meminta? Hingga fajar."*⁷⁰ Penulis kitab itu berkata: hadis ini disepakati kesahihannya. Dalam bab ini juga, dari Abu Hurairah, bahwa Nabi shallallahu 'alaihi wasallam bersabda, *"Tuhan kita turun setiap malam ke langit dunia ketika tersisa sepertiga malam terakhir, lalu berfirman: Siapa yang berdoa kepada-Ku, niscaya Aku kabulkan; siapa yang meminta kepada-Ku, niscaya Aku beri; siapa yang memohon ampun kepada-Ku, niscaya Aku ampuni."*⁷¹ Kemudian ia berkata: hadis ini disepakati kesahihannya. Ia juga meriwayatkan dari Abu Hurairah, dari Rasulullah shallallahu 'alaihi wasallam, hadis tersebut dengan tambahan, *"Kemudian Dia Tabaraka wa Ta'ala membentangkan kedua tangan-Nya dan berfirman: Siapa yang mau memberi pinjaman kepada Yang tidak pernah papa dan tidak pernah berbuat zalim?"* Penulis kitab ini juga meriwayatkan dalam bab malam pertengahan Syakban, dari Urwah, dari Aisyah radhiyallahu 'anha, ia berkata: Suatu malam aku kehilangan Rasulullah shallallahu 'alaihi wasallam, lalu aku keluar, dan ternyata beliau berada di Baqi'. Beliau bertanya, "Apakah engkau takut Allah dan Rasul-Nya berlaku tidak adil kepadamu?" Aku menjawab, "Wahai Rasulullah, aku mengira engkau mendatangi istri-istrimu yang lain." Beliau bersabda, *"Sesungguhnya Allah turun pada malam pertengahan Syakban, lalu mengampuni lebih banyak daripada bilangan bulu kambing Bani Kalb."*⁷² Al-Bukhari melemahkan hadis ini.
+
+Ketahuilah, pembahasan tentang firman-Nya, *"Tidak ada yang mereka tunggu-tunggu, kecuali datangnya Allah dalam naungan awan,"*⁷³ dari dua segi.
+
+Pertama, kami jelaskan dengan dalil-dalil yang tak terbantahkan bahwa Allah Subhanahu wa Ta'ala mahasuci dari datang dan pergi.
+
+Kedua, kami sebutkan takwil-takwil atas ayat-ayat ini.
+
+Adapun jenis pertama, kami katakan: yang menunjukkan kemustahilan datang dan pergi bagi Allah Ta'ala ada beberapa segi.
+
+Pertama, telah tetap dalam ilmu usul bahwa segala sesuatu yang sah baginya datang dan pergi tidak lepas dari hal yang baharu, dan apa yang tidak lepas dari hal yang baharu adalah baharu. Maka niscaya segala sesuatu yang sah baginya datang dan pergi wajib baharu dan diciptakan; dan Tuhan Yang Qadim mustahil demikian.
+
+Kedua, segala sesuatu yang sah baginya berpindah dan datang dari satu tempat ke tempat lain adalah terbatas dan berhingga, sehingga ia terikat pada ukuran tertentu, padahal menurut akal boleh saja ia berukuran lebih besar dari itu. Maka keterikatannya pada ukuran itu terjadi karena pengkhususan dan pengunggulan oleh suatu penentu keunggulan, dan itu mustahil bagi Tuhan Yang Qadim.
+
+Ketiga, seandainya kita membolehkan sesuatu yang padanya sah datang dan pergi menjadi Tuhan yang qadim dan azali, maka ketika itu kita tidak dapat memutuskan penafian ketuhanan matahari dan bulan.
+
+Keempat, Allah Ta'ala mengisahkan tentang sang Khalil 'alaihissalam bahwa ia menggugat ketuhanan bintang, bulan, dan matahari dengan perkataannya, *"Aku tidak suka kepada yang terbenam."*⁷⁴ Terbenam tidak bermakna apa pun selain menghilang dan hadir. Maka siapa yang membolehkan menghilang dan hadir bagi Tuhan Ta'ala telah menggugat dalil sang Khalil, dan mendustakan Allah dalam pembenaran-Nya terhadap sang Khalil, ketika Dia berfirman, *"Itulah keterangan Kami yang Kami berikan kepada Ibrahim untuk menghadapi kaumnya."*⁷⁵
+
+Adapun jenis kedua, yaitu penjelasan takwil-takwil yang disebutkan atas ayat ini, kami katakan: ada beberapa segi.
+
+Pertama, maksudnya: tidak ada yang mereka tunggu kecuali datangnya ayat-ayat Allah kepada mereka. Datangnya ayat-ayat Allah dijadikan sebagai datangnya Dia untuk membesarkan kedudukan ayat-ayat itu, sebagaimana dikatakan, "Raja telah datang," apabila pasukan besar datang dari pihaknya. Yang menunjukkan kebenaran takwil ini ialah bahwa Allah Ta'ala berfirman dalam ayat sebelumnya, *"Jika kamu tergelincir setelah bukti-bukti nyata sampai kepadamu, ketahuilah bahwa Allah Mahaperkasa lagi Mahabijaksana."*⁷⁶ Dia menyebutkan hal itu dalam konteks larangan dan ancaman, lalu menguatkannya dengan firman-Nya, *"Tidak ada yang mereka tunggu-tunggu, kecuali datangnya Allah."*⁷⁷ Sudah maklum bahwa, dengan pengandaian datang dan pergi sah bagi Allah Ta'ala, kehadiran-Nya semata tidak menjadi sebab larangan dan ancaman; sebab ketika hadir, sebagaimana Dia menghardik dan menghukum suatu kaum, Dia pun memberi pahala dan memuliakan kaum yang lain. Maka tetaplah bahwa kehadiran semata tidak menjadi sebab larangan, ancaman, dan peringatan. Karena maksud ayat ini adalah ancaman, wajiblah disisipkan dalam ayat itu (makna) datangnya kewibawaan, keperkasaan, dan ancaman. Bila kita menyisipkan makna itu, syubhat pun hilang sepenuhnya. Ini takwil yang baik dan sesuai dengan susunan ayat.
+
+Segi kedua: maksudnya adalah, tidak ada yang mereka tunggu kecuali datangnya perintah (*amr*) Allah kepada mereka. Poros pembahasan dalam bab ini ialah bahwa bila penyandaran (secara hakiki) mustahil, makna lahiriah itu wajib dipalingkan kepada takwil, sebagaimana dikatakan para ulama tentang firman Allah Ta'ala, *"Sesungguhnya orang-orang yang menentang Allah,"*⁷⁸ bahwa yang dimaksud adalah menentang para wali-Nya. Allah Ta'ala juga berfirman, *"Tanyalah negeri itu,"*⁷⁹ padahal yang dimaksud adalah penduduk negeri itu. Demikian pula firman Allah Ta'ala, *"datangnya Allah,"*⁸⁰ yakni datangnya perintah Allah. Di sini tidak ada apa pun selain pembuangan *muḍāf* (kata yang disandarkan) dan penempatan *muḍāf ilayh* (kata tempat bersandar) pada kedudukannya; dan itu majaz yang masyhur. Dikatakan, "Amir memukul si Fulan dan memberinya," padahal maksudnya ia memerintahkan hal itu. Yang menguatkan kebenaran takwil ini ada dua segi.
+
+Pertama, firman Allah Ta'ala, *"datangnya Allah,"*⁸¹ dan firman-Nya, *"dan Tuhanmu datang,"*⁸² adalah pemberitaan tentang keadaan hari kiamat. Lalu Allah Ta'ala menyebutkan peristiwa yang sama ini dalam surah an-Nahl dengan firman-Nya, *"Tidak ada yang mereka tunggu-tunggu, kecuali datangnya para malaikat kepada mereka atau datangnya perintah Tuhanmu."*⁸³ Maka ayat ini menjadi penafsir bagi ayat mutasyabih itu; sebab karena semua ayat ini berbicara tentang satu peristiwa, tidaklah janggal membawa sebagiannya kepada sebagian yang lain.
+
+Kedua, Allah Ta'ala berfirman sesudah ayat ini, *"dan perkara (al-amr) pun diputuskan."*⁸⁴ Tidak diragukan bahwa *alif lām* (pada *al-amr*) menunjuk sesuatu yang telah disebut sebelumnya,⁸⁵ dan ini menuntut ia telah disebut sebelumnya sehingga *alif lām* itu merujuk kepadanya. Tidak ada yang demikian kecuali apa yang telah kami sisipkan, yakni bahwa firman-Nya *"datangnya Allah"*⁸⁶ berarti datangnya perintah Allah.
+
+Jika dikatakan: menurut kalian, perintah (*amr*) Allah adalah sifat yang qadim, sehingga datang mustahil baginya. Kami jawab: kata *amr* dalam bahasa memiliki dua makna: salah satunya perbuatan, dan yang kedua jalan (keadaan). Allah Ta'ala berfirman, *"Perintah (amr) Kami hanyalah (dengan) satu (perkataan) seperti kejapan mata,"*⁸⁷ dan berfirman, *"Perintah (amr) Fir'aun sama sekali tidak benar."*⁸⁸ Maka *amr* dalam ayat ini dibawa kepada makna perbuatan, yaitu apa yang layak bagi tempat-tempat pemberhentian (di hari kiamat) itu, berupa kengerian-kengerian dan penampakan ayat-ayat yang menggentarkan. Inilah takwil pertama yang telah kami sebutkan. Adapun jika kita membawa *amr* kepada perintah yang merupakan lawan larangan, dalam hal ini ada dua segi.
+
+Pertama, takdirnya: seorang penyeru berseru pada hari kiamat, "Ketahuilah, sesungguhnya Allah memerintahkan kalian begini dan begini," dan datangnya perintah adalah sampainya seruan itu kepada mereka. Firman-Nya, *"dalam naungan awan,"*⁸⁹ yakni bersama naungan awan; takdirnya: terdengarnya seruan itu dan sampainya naungan-naungan itu terjadi pada waktu yang sama.
+
+Kedua, yang dimaksud dengan datangnya perintah Allah Ta'ala dalam naungan awan adalah terjadinya suara-suara terpenggal tertentu di dalam gumpalan-gumpalan awan itu yang menunjukkan ketetapan Allah Ta'ala atas setiap orang sesuai dengan yang layak baginya, berupa kebahagiaan dan kecelakaan. Atau yang dimaksud adalah bahwa Allah Ta'ala menciptakan tulisan-tulisan yang tersusun di dalam naungan awan, dan tulisan itu jelas dan nyata karena sangat putihnya awan itu dan hitamnya tulisan itu, serta menunjukkan keadaan para penghuni padang mahsyar dalam hal janji, ancaman, dan lainnya. Faedah naungan awan itu ialah bahwa Allah Ta'ala menjadikannya tanda bagi apa yang hendak Dia turunkan kepada kaum itu, sehingga mereka tahu bahwa perkara itu telah dekat dan hadir.
+
+Segi ketiga dalam takwil: maknanya adalah, tidak ada yang mereka tunggu kecuali Allah mendatangkan kepada mereka apa yang telah Dia janjikan berupa azab dan hisab. Apa yang didatangkan itu dibuang karena bersandar pada pemahaman (pendengar); sebab, seandainya azab yang didatangkan kepada mereka itu disebutkan, hal itu lebih ringan bagi mereka dalam hal ancaman, sedangkan jika tidak disebutkan, itu lebih mendalam dalam menakut-nakuti, karena ketika itu pikiran mereka terbelah dan angan-angan mereka pergi ke segala arah. Semisal dengannya firman Allah Ta'ala, *"maka Allah mendatangi mereka dari arah yang tidak mereka sangka. Allah menanamkan rasa takut ke dalam hati mereka; mereka menghancurkan rumah-rumah mereka dengan tangannya sendiri dan tangan orang-orang mukmin."*⁹⁰ Maknanya: Allah mendatangi mereka dengan penelantaran-Nya dari arah yang tidak mereka sangka. Demikian pula firman Allah Ta'ala, *"maka Allah mendatangi bangunan mereka dari fondasinya."*⁹¹ Dalam tutur yang lazim dan masyhur, ketika mendengar seseorang diangkat menjadi penguasa, dikatakan, "Si Fulan telah datang kepada kami dengan kesewenang-wenangan dan kezalimannya." Tidak diragukan bahwa itu majaz yang masyhur.
+
+Segi keempat dalam takwil: kata *fī* bermakna *bi-*, sebab huruf-huruf jar dapat saling menggantikan. Takdirnya: tidak ada yang mereka tunggu kecuali Allah mendatangkan kepada mereka naungan awan dan para malaikat. Maksudnya, Allah mendatangkan kepada mereka awan bersama para malaikat.
+
+Segi kelima, dan inilah yang terkuat di antara semua yang telah lalu: telah kami sebutkan dalam *at-Tafsir al-Kabir* bahwa firman Allah Ta'ala, *"Wahai orang-orang yang beriman, masuklah ke dalam Islam secara keseluruhan,"*⁹² turun berkenaan dengan kaum Yahudi. Dengan pengandaian ini, firman Allah Ta'ala, *"Jika kamu tergelincir setelah bukti-bukti nyata sampai kepadamu,"*⁹³ adalah seruan kepada kaum Yahudi, sehingga firman-Nya, *"Tidak ada yang mereka tunggu-tunggu, kecuali datangnya Allah dalam naungan awan,"*⁹⁴ adalah kisah tentang mereka. Maknanya: mereka tidak mau menerima agama kalian kecuali karena mereka menunggu Allah datang kepada mereka dalam naungan awan. Yang menunjukkan bahwa itulah maksudnya ialah bahwa mereka pernah melakukan hal itu terhadap Musa 'alaihissalam, dan berkata, *"Kami tidak akan beriman kepadamu sebelum kami melihat Allah dengan jelas."*⁹⁵ Jika telah tetap bahwa ayat ini mengisahkan keadaan dan keyakinan kaum Yahudi, tidaklah terlarang memberlakukan ayat itu menurut makna lahiriahnya. Sebab, kaum Yahudi menganut agama penyerupaan; mereka membolehkan datang dan pergi bagi Allah Ta'ala, dan berkata bahwa Allah Ta'ala menampakkan diri kepada Musa 'alaihissalam di Bukit Thur dalam naungan awan, lalu mereka mengira hal serupa terjadi pada zaman Muhammad shallallahu 'alaihi wasallam. Sudah maklum bahwa mazhab mereka bukan hujah. Walhasil, ayat itu menunjukkan bahwa suatu kaum menunggu Allah datang kepada mereka, dan di dalam ayat itu tidak ada petunjuk bahwa kaum itu benar. Dengan pengandaian ini, hilanglah kemusykilan. Inilah jawaban yang dijadikan pegangan atas penggunaan mereka terhadap ayat tersebut.
+
+Jika dikatakan: bagaimana takwil ini bertaut dengan ayat ini, sementara di akhirnya Dia berfirman, *"Hanya kepada Allah segala urusan dikembalikan"*?⁹⁶ Kami jawab: Allah Ta'ala mengisahkan pembangkangan mereka dan tindakan mereka menggantungkan penerimaan agama yang benar pada syarat yang rusak, lalu sesudahnya menyebutkan apa yang berkedudukan sebagai ancaman bagi mereka dengan firman-Nya, *"Hanya kepada Allah segala urusan dikembalikan."*⁹⁷
+
+Adapun firman Allah Ta'ala, *"dan Tuhanmu datang, sedangkan malaikat berbaris-baris,"*⁹⁸ pembahasannya juga dari dua segi.
+
+Pertama, kita membawa ayat ini ke dalam bab *muḍāf* (pembuangan kata yang disandarkan). Menurut segi ini, dalam ayat itu ada beberapa kemungkinan. Pertama: dan datanglah perintah Tuhanmu untuk menghisab dan memberi balasan. Kedua: dan datanglah keperkasaan Tuhanmu, sebagaimana dikatakan, "Raja yang perkasa telah datang kepada kami," apabila pasukannya datang. Ketiga: dan datanglah tampaknya pengenalan akan Allah Ta'ala secara niscaya pada hari itu, sehingga hal itu berkedudukan seperti kedatangan dan penampakan-Nya.
+
+Segi kedua: kita tidak membawa ayat ini kepada pembuangan *muḍāf*. Dalam hal ini ada dua segi. Pertama, yang dimaksud dengan ayat ini adalah tampaknya ayat-ayat Allah Ta'ala serta rahasia jejak kuasa, keperkasaan, dan kekuasaan-Nya; maksudnya adalah mengumpamakan keadaan itu dengan keadaan raja ketika hadir, sebab dengan kehadirannya semata tampak tanda-tanda kewibawaan dan kewenangan yang tidak tampak dengan tampilnya seluruh pasukannya. Kedua, *al-Rabb* berarti pendidik (*al-murabbī*). Mungkin saja seorang malaikat agung, malaikat teragung, adalah pendidik Nabi, dan dialah yang dimaksud dengan firman-Nya, *"dan Tuhanmu (Rabbuka) datang."*⁹⁹
+
+⁶⁸ CT: QS al-Baqarah [2]: 210.
+
+⁶⁹ CT: QS al-Fajr [89]: 22.
+
+⁷⁰ CT: Muslim, *Shalat al-Musafirin*, 172; Ibnu Majah, *Iqamah*, 182; Ahmad bin Hanbal, II/383.
+
+⁷¹ CT: al-Bukhari, *at-Tahajjud*, 14; Muslim, *Shalat al-Musafirin*, 168-17(0); Abu Dawud, *as-Sunnah*, 19; at-Tirmidzi, *ash-Shalah*, 211.
+
+⁷² CT: at-Tirmidzi, *ash-Shaum*, 39; Ibnu Majah, *Iqamah*, 191.
+
+⁷³ CT: QS al-Baqarah [2]: 210.
+
+⁷⁴ CT: QS al-An'am [6]: 76.
+
+⁷⁵ CT: QS al-An'am [6]: 83.
+
+⁷⁶ CT: QS al-Baqarah [2]: 209.
+
+⁷⁷ CT: QS al-Baqarah [2]: 210.
+
+⁷⁸ CT: QS al-Mujadalah [58]: 5.
+
+⁷⁹ CT: QS Yusuf [12]: 82.
+
+⁸⁰ CT: QS al-Baqarah [2]: 210.
+
+⁸¹ CT: QS al-Baqarah [2]: 210.
+
+⁸² CT: QS al-Fajr [89]: 22.
+
+⁸³ CT: QS an-Nahl [16]: 33.
+
+⁸⁴ CT: QS al-Baqarah [2]: 210.
+
+⁸⁵ CT: Dalam bahasa Arab ada kaidah: sesuatu yang belum tentu, ketika pertama kali disebut, disebut dalam bentuk *nakirah* (tak tentu) tanpa *al-*. Namun bila hal yang sama disebut lagi sesudahnya, yang tadinya *nakirah* menjadi *ma'rifah* (tentu) dan diberi *al-*. (catatan penerjemah)
+
+⁸⁶ CT: QS al-Baqarah [2]: 210.
+
+⁸⁷ CT: QS al-Qamar [54]: 50.
+
+⁸⁸ CT: QS Hud [11]: 97.
+
+⁸⁹ CT: QS al-Baqarah [2]: 210.
+
+⁹⁰ CT: QS al-Hasyr [59]: 2. (Edisi Turki tertulis 53/2.)
+
+⁹¹ CT: QS an-Nahl [16]: 26.
+
+⁹² CT: QS al-Baqarah [2]: 208.
+
+⁹³ CT: QS al-Baqarah [2]: 209.
+
+⁹⁴ CT: QS al-Baqarah [2]: 210.
+
+⁹⁵ CT: QS al-Baqarah [2]: 55.
+
+⁹⁶ CT: QS al-Baqarah [2]: 210.
+
+⁹⁷ CT: QS al-Baqarah [2]: 210.
+
+⁹⁸ CT: QS al-Fajr [89]: 22.
+
+⁹⁹ CT: QS al-Fajr [89]: 22.
+
+Adapun hadis yang memuat turun-Nya ke langit dunia, pembahasannya dari dua segi.
+
+Pertama, menjelaskan bahwa kata "turun" terkadang dipakai bukan dalam arti berpindah. Penetapannya dari beberapa segi.
+
+Pertama, firman Allah Ta'ala, *"Dia menurunkan delapan pasang hewan ternak untukmu."*¹⁰⁰ Kita tahu secara niscaya bahwa unta atau sapi tidak turun dari langit ke bumi dengan cara berpindah. Allah Ta'ala berfirman, *"lalu Allah menurunkan ketenangan kepada Rasul-Nya,"*¹⁰¹ padahal perpindahan mustahil bagi ketenangan. Allah Ta'ala berfirman, *"yang dibawa turun oleh ar-Ruh al-Amin (Jibril) ke dalam hatimu,"*¹⁰² padahal Al-Qur'an, baik kita katakan bahwa ia adalah sifat yang qadim maupun kita katakan bahwa ia adalah huruf dan suara, mustahil berpindah.
+
+Asy-Syafi'i al-Muthallibi radhiyallahu 'anhu berkata, "Aku memasuki Mesir, dan mereka tidak memahami perkataanku, maka aku turun, lalu turun lagi." Yang dimaksud dengan turun di sini bukan berpindah.
+
+Kedua, mereka berpendapat bahwa setiap langit, dibandingkan dengan langit di atasnya, bagaikan setetes air di lautan dan sekeping dirham di padang luas; kemudian seluruh langit, dibandingkan dengan Kursi, bagaikan setetes air di lautan; dan Kursi, dibandingkan dengan Arasy, juga demikian. Kemudian mereka berkata bahwa Arasy dipenuhi oleh-Nya dan Kursi adalah tempat kedua kaki-Nya. Maka, jika Dia turun ke langit dunia, yang berada pada puncak kecil dibandingkan dengan jisim yang agung itu, maka adakalanya dikatakan bahwa bagian-bagian jisim yang agung itu saling masuk satu ke dalam yang lain; dan itu mengharuskan pendapat bahwa bagian-bagian itu menerima tercerai-berai dan tercabik-cabik, serta mengharuskan pendapat tentang saling masuknya bagian-bagian satu sama lain, yang menuntut bolehnya seluruh alam masuk ke dalam sebutir biji sawi, dan itu mustahil. Adakalanya dikatakan bahwa bagian-bagian itu lenyap ketika turun ke langit dunia; dan itu adalah pendapat bahwa Dia menerima ketiadaan dan wujud, sesuatu yang tidak dikatakan oleh seorang berakal pun tentang sifat Tuhan Ta'ala. Maka tetaplah dengan burhan yang tak terbantahkan ini bahwa pendapat tentang turun menurut cara yang mereka katakan itu batil.
+
+Ketiga, telah kami buktikan bahwa alam itu bulat. Jika demikian, wajib dipastikan bahwa selamanya yang terjadi di salah satu belahan bumi adalah malam dan di belahan lain siang. Jika Dia wajib turun ke langit dunia pada malam hari, dan telah kami buktikan bahwa malam selalu ada, maka ini menuntut Dia selamanya tetap berada di langit dunia, hanya saja berputar di punggung falak mengikuti perputaran falak dan mengikuti berpindahnya malam dari satu sisi bumi ke sisi yang lain. Seandainya boleh sesuatu yang selamanya berputar bersama falak menjadi Tuhan alam, mengapa tidak boleh Tuhan alam itu falak sendiri? Sudah maklum bahwa itu tidak dikatakan oleh seorang berakal pun.
+
+Jenis kedua pembahasan tentang hadis ini adalah membangunnya di atas takwil secara terperinci, yaitu membawa turun ini kepada makna turunnya rahmat-Nya ke bumi¹⁰³ pada waktu itu. Sebab dikhususkannya waktu itu dengan perbuatan ini ada beberapa segi.
+
+Pertama, tobat yang dilakukan di tengah malam, menurut lahirnya, bersih dari noda-noda dunia, karena orang lain tidak mengetahuinya; maka ia lebih dekat untuk diterima.
+
+Kedua, yang umumnya menguasai manusia di tengah malam adalah kemalasan, tidur, dan kelengahan. Sekiranya bukan karena kesungguhan yang besar dalam mencari agama dan kerinduan yang kuat untuk mewujudkannya, ia tidak akan menanggung beratnya berjaga dan tidak akan berpaling dari kenikmatan-kenikmatan jasmani. Semakin sempurna dan paripurna kesungguhan, kerinduan, dan keikhlasan, semakin melimpah pula pahalanya.
+
+Ketiga, malam adalah waktu malas dan lesu, sehingga untuk mendorong orang menyibukkan diri dengan ibadah di malam hari dibutuhkan hal-hal tambahan yang berpengaruh dalam menggerakkan dorongan untuk beribadah dan bertahajud. Maka baiklah jika Pembuat Syariat mengkhususkan waktu ini dengan perkataan seperti ini, agar dorongan untuk bertahajud lebih penuh. Ketiga sisi ini layak menjadi sebab syariat mengkhususkan waktu ini dengan kemuliaan ini. Karena itulah Allah Ta'ala berfirman, *"dan pada akhir malam mereka memohon ampunan,"*¹⁰⁴ dan berfirman, *"dan yang memohon ampunan pada waktu sahur."*¹⁰⁵
+
+Segi keempat: sekelompok malaikat yang mulia turun pada waktu itu dengan perintah Allah Ta'ala, lalu hal itu disandarkan kepada Allah Ta'ala karena terjadi dengan sebab perintah Allah Ta'ala, sebagaimana dikatakan, "Amir membangun rumah dan mencetak dinar." Di antara yang menempuh takwil ini ada yang meriwayatkan hadis itu dengan harakat damah pada huruf *yāʾ* (*yunzilu*, "Dia menurunkan"), untuk menegaskan makna ini.
+
+Ketahuilah, kesempurnaan penetapan tentang hadis ini ialah bahwa raja yang singgah di tempat seseorang untuk memperbaiki keadaannya dan memperhatikan urusannya tentu memuliakannya dengan sangat; bahkan singgahnya di tempat orang itu merupakan puncak pemuliaan terhadapnya. Karena singgah (turun) itu mengharuskan pemuliaan, nama "turun" dipakai untuk pemuliaan. Inilah pula yang dimaksud dengan firman Allah Ta'ala, *"dan Tuhanmu datang, sedangkan malaikat berbaris-baris,"*¹⁰⁶ sebab raja, apabila datang dan hadir untuk memutuskan perselisihan, besarlah pengaruhnya dan dahsyatlah kewibawaannya. Allah lebih mengetahui.
+
+¹⁰⁰ CT: QS az-Zumar [39]: 6.
+
+¹⁰¹ CT: QS al-Fath [48]: 26.
+
+¹⁰² CT: QS asy-Syu'ara' [26]: 193.
+
+¹⁰³ CT: Tidak ada keraguan tentang kebenaran makna ini, sebab Allah Tabaraka wa Ta'ala mahasuci dari gerak dan diam, dari datang dan pergi, dari duduk dan berdiri, serta dari (sifat) ruh-ruh dan jisim-jisim, yang halus maupun yang kasar. Dia tidak di atas dan tidak di bawah. Takwil ini adalah takwil Imam Malik, yang diriwayatkan oleh al-Baihaqi darinya.
+
+¹⁰⁴ CT: QS adz-Dzariyat [51]: 18.
+
+¹⁰⁵ CT: QS Ali 'Imran [3]: 17.
+
+¹⁰⁶ CT: QS al-Fajr [89]: 22.
+
+### Pasal Kesepuluh: Tentang "Keluar" (*Khurūj*), "Tampil" (*Burūz*), "Menampakkan Diri" (*Tajallī*), dan "Tampak" (*Ẓuhūr*)
+
+*(Tr. h. 136)*
+
+Beliau shallallahu 'alaihi wasallam bersabda, *"Kalian akan melihat Tuhan kalian sebagaimana kalian melihat bulan pada malam purnama; kalian tidak akan berdesak-desakan (lā tuḍāmmūn) dalam melihat-Nya."*¹⁰⁷ Dalam riwayat lain, *"kalian tidak akan saling merugikan (lā tuḍārrūn)."* Takwilnya: yang dimaksud adalah menyerupakan penglihatan dengan penglihatan, bukan menyerupakan yang dilihat dengan yang dilihat.¹⁰⁸ Makna sabdanya *lā tuḍāmmūn* adalah: sebagian kalian tidak perlu merapat kepada sebagian yang lain, sebagaimana kalian saling merapat ketika melihat hilal di awal bulan; melainkan penglihatan yang jelas tanpa bersusah payah, sebagaimana kalian melihat bulan purnama. Sabdanya *lā tuḍārrūn* artinya: tidak ada mudarat yang menimpa kalian dalam upaya melihat-Nya; kalian melihat-Nya tanpa bersusah payah mencarinya. Adapun riwayat *tuḍāmūn* dengan tanpa tasydid, yang dimaksud adalah *ḍaym* (perlakuan zalim), yakni tidak ada kezaliman yang menimpa kalian dalam hal itu.
+
+Beliau shallallahu 'alaihi wasallam juga bersabda, *"Sesungguhnya Allah tampil setiap hari Jumat bagi penghuni surga di atas sebuah bukit pasir dari kapur barus (kāfūr),¹¹⁰ lalu (mereka) berada dalam kedekatan (dengan-Nya) sesuai dengan kesegeraan mereka menuju Jumat. Ketahuilah, maka bersegeralah menuju kebaikan."*¹⁰⁹
+
+Ketahuilah, dikatakan bahwa hadis ini lemah. Jika sahih, takwilnya: penghuni surga melihat-Nya sesuai dengan ukuran waktu-waktu dunia yang dahulu mereka isi dengan amal-amal kebaikan. Adapun tampil-Nya bagi penghuni surga dan tergambarnya hal itu bagi mereka, maksudnya Dia menciptakan bagi mereka penglihatan yang bertaut (dengan-Nya) sementara mereka berada di atas bukit pasir kapur barus. Adapun kedekatan-Nya dengan mereka, maknanya kedekatan dengan rahmat, sebagaimana sabda beliau, *"Siapa yang mendekat kepada-Ku sejengkal, Aku mendekat kepadanya sehasta,"*¹¹¹ dan sebagaimana dikatakan tentang orang fasik bahwa ia jauh dari Allah.
+
+Juga riwayat bahwa beliau 'alaihissalam bersabda, *"Tidak seorang pun di antara kalian melainkan Tuhannya akan berdua-duaan dengannya pada hari kiamat dan berbicara kepadanya, tanpa ada penerjemah antara Dia dan orang itu."*¹¹² Kami katakan: segi takwilnya ialah bahwa siapa pun di antara mereka yang hendak menghadap kepada-Nya, ia berdua-duaan dengan-Nya, maka hal itu diungkapkan dengan ungkapan tersebut; dan (juga) karena Dia berkuasa memperdengarkan (kalam-Nya) kepada setiap orang sehingga seakan-akan Dia tidak berbicara dengan selainnya. Allah lebih mengetahui.
+
+¹⁰⁷ CT: al-Bukhari, *Mawaqit ash-Shalah*, 16, 26; *al-Adzan*, 129; *Tafsir as-Suwar*, 50; *ar-Riqaq*, 52; Abu Dawud, *as-Sunnah*, 19; at-Tirmidzi, *al-Jannah*, 16.
+
+¹⁰⁸ CT: Yang dimaksud di sini bukanlah bahwa Allah Ta'ala menyerupai bulan purnama. Maksudnya: sungguh kalian tidak akan mengeluh dalam melihat-Nya; penglihatan itu akan jelas dan terang. Penampakan ini tanpa kaifiat, tanpa keserupaan, dan tanpa arah. (catatan penerjemah)
+
+¹⁰⁹ CT: Sumber hadis ini tidak dapat ditemukan.
+
+¹¹⁰ CT: Nama suatu tempat.
+
+¹¹¹ CT: al-Bukhari, *at-Tauhid*, 15, 50; Muslim, *adz-Dzikr*, 20-22; at-Tirmidzi, *ad-Da'awat*, 131; Ibnu Majah, *al-Adab*, 58; Ahmad bin Hanbal, II/413, 435.
+
+¹¹² CT: al-Bukhari, *ar-Riqaq*, 49, *at-Tauhid*, 24, 36; Muslim, *az-Zakah*, 67; at-Tirmidzi, *al-Qiyamah*, 1; Ibnu Majah, *al-Muqaddimah*, 13; Ahmad bin Hanbal, IV/256.
+
+### Pasal Kesebelas: Tentang Makna-Makna Lahiriah yang Memberi Kesan bahwa Allah Menerima Keterbagian dan Keterpotongan
+
+*(Tr. h. 138)*
+
+Tentang makna-makna lahiriah yang memberi kesan bahwa Dia menerima keterbagian dan keterpotongan, Mahatinggi Dia dari hal itu setinggi-tingginya. Adapun yang terdapat dalam Al-Qur'an, firman Allah Ta'ala tentang Adam 'alaihissalam, *"Maka, apabila Aku telah menyempurnakan (kejadian)-nya dan Aku telah meniupkan roh-Ku ke dalamnya,"*¹¹³ dan firman-Nya tentang Maryam 'alaihassalam (dan Isa), *"dan roh dari-Nya."*¹¹⁴ Adapun hadis, riwayat Abu Hurairah radhiyallahu 'anhu bahwa beliau shallallahu 'alaihi wasallam bersabda, *"Ketika Adam diciptakan dan ditiupkan ke dalamnya roh-Nya, Adam bersin dan bersyukur kepada Allah. Lalu Tuhannya berfirman kepadanya, 'Semoga Tuhanmu merahmatimu.' Kemudian Dia berfirman, 'Inilah salammu dan salam anak cucumu.'"*¹¹⁵
+
+Takwilnya, kami katakan: adapun penyandaran roh kepada diri-Nya, itu adalah penyandaran pemuliaan. Adapun peniupan, itu adalah pengungkapan akibat dengan menyebut sebabnya. Takwil ini wajib ditempuh karena mustahil Allah Ta'ala menerima keterbagian dan keterpotongan.
+
+¹¹³ CT: QS al-Hijr [15]: 29.
+
+¹¹⁴ CT: QS an-Nisa' [4]: 171.
+
+¹¹⁵ CT: at-Tirmidzi, *at-Tafsir*, 2.
+
+### Pasal Kedua Belas: Jawaban atas Pendalilan Mereka dengan Firman Allah Ta'ala, "Apakah Mereka (Berhala-Berhala) Mempunyai Kaki untuk Berjalan?"
+
+*(Tr. h. 139)*
+
+Mereka berdalil dengan firman Allah Ta'ala, *"Apakah mereka (berhala-berhala) mempunyai kaki untuk berjalan, tangan untuk memegang dengan keras, mata untuk melihat, atau telinga untuk mendengar?"*¹¹⁶ Mereka berkata: Allah Ta'ala mencela berhala-berhala ini dan menggugat ketuhanannya karena tidak memiliki anggota-anggota ini. Maka, seandainya anggota-anggota ini tidak ada pada Allah Ta'ala, gugatan itu berlaku pula terhadap-Nya, dan itu batil.
+
+Jawabannya: dikatakan bahwa maksud (penyebutan) tangan-tangan ini adalah hal lain selain yang kalian sebutkan. Penjelasannya: orang-orang kafir yang menyembah berhala memiliki kaki untuk berjalan, tangan untuk memegang dengan keras, mata untuk melihat, dan telinga untuk mendengar. (Seakan-akan dikatakan kepada mereka:) karena yang dimaksud dengan kaki, tangan, mata, dan telinga adalah daya-daya penggerak dan pencerap ini, maka jika anggota-anggota ini ada pada kalian dan tidak ada pada berhala-berhala itu, kalian lebih mulia dan lebih tinggi daripadanya. Maka bagaimana layak menurut akal kalian berani menyembahnya? Hanya kepada Allah kita memohon taufik.
+
+¹¹⁶ CT: QS al-A'raf [7]: 195.
