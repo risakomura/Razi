@@ -12,9 +12,9 @@
 |---|---|
 | Tahap | Terjemahan penuh sedang berjalan |
 | Glosarium | Versi 1.0 (usulan v0.1 diberlakukan melalui instruksi "lanjut hingga tuntas kitab"); tambahan baru dicatat di 2.7 dan menunggu persetujuan eksplisit |
-| Sudah diterjemahkan | Pembuka Kitab; Bagian I seluruhnya; Bagian II: Mukadimah, Pasal 1 sampai 12 |
-| Kalimat terakhir | "Maka bagaimana layak menurut akal kalian berani menyembahnya? Hanya kepada Allah kita memohon taufik." |
-| Posisi berikutnya | Naskah Arab: *al-Faṣl al-Thālith ʿAshar fī al-Wajh* · Naskah Turki: *On Üçüncü Kısım*, h. 140 |
+| Sudah diterjemahkan | Pembuka Kitab; Bagian I seluruhnya; Bagian II: Mukadimah, Pasal 1 sampai 15 |
+| Kalimat terakhir | "Inilah yang dimaksud dengan sabdanya, "Sesungguhnya angin berasal dari embusan napas ar-Rahman," yakni termasuk hal yang padanya Allah jadikan kelapangan. Hanya kepada Allah kita memohon taufik." |
+| Posisi berikutnya | Naskah Arab: *al-Faṣl al-Sādis ʿAshar fī al-Yad* · Naskah Turki: *On Altıncı Kısım*, h. 149 |
 
 ---
 
@@ -1377,3 +1377,181 @@ Mereka berdalil dengan firman Allah Ta'ala, *"Apakah mereka (berhala-berhala) me
 Jawabannya: dikatakan bahwa maksud (penyebutan) tangan-tangan ini adalah hal lain selain yang kalian sebutkan. Penjelasannya: orang-orang kafir yang menyembah berhala memiliki kaki untuk berjalan, tangan untuk memegang dengan keras, mata untuk melihat, dan telinga untuk mendengar. (Seakan-akan dikatakan kepada mereka:) karena yang dimaksud dengan kaki, tangan, mata, dan telinga adalah daya-daya penggerak dan pencerap ini, maka jika anggota-anggota ini ada pada kalian dan tidak ada pada berhala-berhala itu, kalian lebih mulia dan lebih tinggi daripadanya. Maka bagaimana layak menurut akal kalian berani menyembahnya? Hanya kepada Allah kita memohon taufik.
 
 ¹¹⁶ CT: QS al-A'raf [7]: 195.
+
+### Pasal Ketiga Belas: Tentang "Wajah" (*Wajh*)
+
+*(Tr. h. 140)*
+
+Mereka berhujah dengan hadis-hadis dan ayat-ayat untuk menetapkan wajah bagi Allah Ta'ala. Adapun ayat-ayatnya banyak.
+
+Pertama, firman Allah Ta'ala, *"Semua yang ada di bumi itu akan binasa,"*¹¹⁷ *"(Akan tetapi,) wajah Tuhanmu yang memiliki kebesaran dan kemuliaan tetap kekal."*¹¹⁸ Mereka berkata: mustahil wajah Tuhan adalah Tuhan itu sendiri, dan hal itu ditunjukkan oleh dua segi. Pertama, Allah Ta'ala menyandarkan wajah kepada diri-Nya, sedangkan menyandarkan sesuatu kepada dirinya sendiri mustahil. Kedua, seandainya *dhū al-jalāl* (yang memiliki kebesaran) adalah sifat bagi *Rabb*, niscaya wajib dikatakan *dhī al-jalāl*, sebab sifat bagi kata yang berkasus genitif ikut berkasus genitif.¹¹⁹
+
+Kedua, firman Allah Ta'ala, *"Segala sesuatu pasti binasa, kecuali wajah-Nya."*¹²⁰
+
+Ketiga, firman Allah Ta'ala, *"Bersabarlah engkau bersama orang-orang yang menyeru Tuhannya pada pagi dan senja hari, mereka menghendaki wajah-Nya."*¹²¹ᵃ
+
+Keempat, firman Allah Ta'ala, *"Janganlah engkau mengusir orang-orang yang menyeru Tuhannya pada pagi dan petang hari, mereka menghendaki wajah-Nya."*¹²²
+
+Kelima, firman Allah Ta'ala, *"Milik Allahlah timur dan barat. Ke mana pun kamu menghadap, di sanalah wajah Allah."*¹²³
+
+Keenam, firman Allah Ta'ala, *"orang-orang yang menghendaki wajah Allah."*¹²⁴
+
+Ketujuh, firman Allah Ta'ala, *"kecuali (dengan tujuan) mencari wajah Tuhannya Yang Mahatinggi."*¹²⁵
+
+Adapun hadis-hadisnya banyak.
+
+Pertama, diriwayatkan oleh (Ibnu) Khuzaimah dari Jabir, ia berkata: ketika turun firman Allah Ta'ala, *"Katakanlah, 'Dialah yang berkuasa untuk mengirimkan azab kepadamu dari atas kamu,'"*¹²⁶ Nabi shallallahu 'alaihi wasallam bersabda, *"Aku berlindung dengan wajah-Mu."* Kemudian (turun), *"atau dari bawah kakimu,"* (dan beliau mengucapkan hal yang sama). Kemudian (turun), *"atau Dia mencampurkan kamu dalam golongan-golongan (yang saling bertentangan) dan merasakan kepada sebagian kamu keganasan sebagian yang lain,"*¹²⁷ lalu beliau shallallahu 'alaihi wasallam bersabda, *"Dua hal ini lebih ringan dan lebih mudah."*¹²⁸
+
+Kedua, Ammar bin Yasir meriwayatkan dari Nabi shallallahu 'alaihi wasallam bahwa beliau berdoa, *"Ya Allah, dengan ilmu-Mu tentang yang gaib dan kuasa-Mu atas makhluk, hidupkanlah aku selama hidup itu lebih baik bagiku, dan wafatkanlah aku apabila wafat itu lebih baik bagiku. Ya Allah, aku memohon kepada-Mu rasa takut kepada-Mu dalam keadaan tersembunyi dan terlihat, kalimat yang benar dan adil dalam keadaan marah dan rida. Aku memohon kepada-Mu kesederhanaan dalam keadaan fakir dan kaya. Aku memohon kepada-Mu kenikmatan yang tidak berganti, dan penyejuk mata yang tidak terputus. Aku memohon kepada-Mu rida setelah ketetapan, dan sejuknya kehidupan setelah mati. Aku memohon kepada-Mu kelezatan memandang wajah-Mu, dan kerinduan untuk bertemu dengan-Mu tanpa kesengsaraan yang membahayakan dan tanpa fitnah yang menyesatkan. Ya Allah, hiasilah kami dengan perhiasan iman, dan jadikanlah kami pemberi petunjuk yang mendapat petunjuk."*¹²⁹
+
+Ketiga, beliau shallallahu 'alaihi wasallam bersabda, *"Siapa yang berpuasa sehari di jalan (Allah) karena mencari wajah Allah, Allah menjauhkan wajahnya dari neraka sejauh (perjalanan) tujuh puluh musim gugur."*¹³⁰
+
+Keempat, dari Ibnu Abbas, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Siapa yang meminta perlindungan kepada kalian dengan nama Allah, lindungilah ia; dan siapa yang meminta kepada kalian dengan wajah Allah, muliakanlah ia."*¹³¹
+
+Kelima, dari Abu Hurairah radhiyallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Perumpamaan orang yang berjihad di jalan Allah karena mencari wajah Allah adalah seperti orang yang berdiri salat, hingga ia kembali dari jihadnya."*¹³²
+
+Keenam, Abdullah (bin Mas'ud) berkata: Rasulullah shallallahu 'alaihi wasallam membagi-bagikan (harta), lalu seseorang berkata, "Pembagian ini tidak dimaksudkan untuk wajah Allah." Aku pun mendatangi Nabi shallallahu 'alaihi wasallam dan menyebutkan hal itu kepada beliau, maka wajah beliau memerah hingga aku berharap tidak memberitahukannya. Beliau bersabda, *"Semoga Allah merahmati kami dan Musa. Sungguh, ia telah disakiti lebih dari ini, dan ia bersabar."*¹³³
+
+Ketujuh, dari Hudzaifah, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Sesungguhnya seorang muslim, apabila memasuki salatnya, Allah menghadapkan wajah-Nya kepadanya, dan Dia tidak berpaling darinya hingga orang itu berpaling atau berhadas."*¹³⁴
+
+Kedelapan, dari al-Harits al-Asy'ari, bahwa Nabi shallallahu 'alaihi wasallam bersabda, *"Sesungguhnya Allah Ta'ala mewahyukan kepada Yahya bin Zakariya agar berkata kepada Bani Israil: Apabila kalian berdiri untuk salat, janganlah menoleh, sebab Allah menghadapkan wajah-Nya kepada hamba-Nya."*¹³⁵
+
+Kesembilan, hadis masyhur bahwa beliau 'alaihissalam berkata tentang firman Allah Ta'ala, *"Bagi orang-orang yang berbuat baik ada pahala yang terbaik (surga) dan tambahannya,"*¹³⁶ dan juga bersabda, *"Dua surga yang bangunan dan segala isinya dari perak, dan dua surga yang bangunan dan segala isinya dari emas. Tidak ada (penghalang) antara kaum itu dan memandang wajah Tuhan mereka di surga 'Adn kecuali selendang kebesaran pada wajah-Nya."*¹³⁷
+
+Kesepuluh, dari Abdullah bin Mas'ud, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Perempuan itu aurat. Apabila ia keluar, setan menyambutnya dengan gembira; dan keadaannya yang paling dekat dengan wajah Tuhannya adalah ketika ia berada di bagian terdalam rumahnya."*¹³⁸
+
+Ketahuilah, wajah yang disebutkan dalam ayat-ayat dan hadis-hadis ini tidak mungkin wajah dalam arti anggota dan organ tubuh. Hal itu ditunjukkan oleh beberapa segi.
+
+Pertama, firman Allah Ta'ala, *"Segala sesuatu pasti binasa, kecuali wajah-Nya."*¹³⁹ Sebab, seandainya wajah itu adalah anggota tubuh yang khusus, niscaya seluruh jasad dan badan binasa, binasa pula mata yang ada pada wajah, dan tidak tersisa kecuali wajah semata. Sebagian orang dungu dari kaum Musyabbihah menerima hal itu, dan itu adalah kebodohan yang besar.
+
+Kedua, firman Allah Ta'ala, *"(Akan tetapi,) wajah Tuhanmu yang memiliki kebesaran dan kemuliaan tetap kekal,"*¹⁴⁰ makna lahiriahnya menuntut wajah itu disifati dengan kebesaran dan kemuliaan, padahal sudah maklum bahwa yang disifati dengan kebesaran dan kemuliaan adalah Allah Ta'ala. Itu menuntut wajah merupakan kinayah bagi Zat.
+
+Ketiga, firman Allah Ta'ala, *"Ke mana pun kamu menghadap, di sanalah wajah Allah."* Yang dimaksud dengan wajah di sini bukan anggota tubuh yang khusus. Sebab, kita mencerap dengan indra bahwa anggota tubuh yang dinamai wajah tidak ada di segala penjuru alam. Lagi pula, seandainya anggota itu ada di segala penjuru, niscaya satu jisim berada di banyak tempat sekaligus dalam satu waktu, dan itu tidak dikatakan oleh seorang berakal pun.
+
+Keempat, firman Allah Ta'ala, *"mereka menghendaki wajah-Nya,"*¹⁴¹ dan firman-Nya, *"kecuali (dengan tujuan) mencari wajah Tuhannya Yang Mahatinggi,"*¹⁴² tidak satu pun dapat dibawa kepada makna lahiriahnya. Sebab, menurut mazhab mereka, wajah Allah Ta'ala qadim dan azali, sedangkan yang qadim dan azali tidak dapat dikehendaki (untuk diwujudkan); sebab makna sesuatu yang dikehendaki adalah terwujudnya dan masuknya ke dalam wujud, dan itu mustahil pada yang qadim dan azali. Lagi pula, orang-orang itu menyembah Allah Ta'ala, dan mereka tidak menghendaki wajah Allah (dalam arti anggota tubuh). Seandainya Dia murka kepada mereka, mereka tidak menghendaki-Nya (dalam keadaan itu); yang mereka kehendaki dari-Nya hanyalah agar Dia rida kepada mereka. Itu menunjukkan bahwa yang dimaksud dengan wajah dalam ayat-ayat ini bukan organ tubuh yang khusus itu sendiri, melainkan sesuatu yang lain, yaitu keridaan Allah Ta'ala kepada mereka.
+
+Kelima, hadis yang telah kami riwayatkan, yaitu sabda beliau 'alaihissalam, *"Keadaan perempuan yang paling dekat dengan wajah Tuhannya adalah ketika ia berada di bagian terdalam rumahnya."*¹⁴³ Sudah maklum bahwa seandainya yang dimaksud dengan wajah adalah anggota tubuh yang khusus, keadaan dekat dan jauh tidak akan berbeda karena ia berada di rumahnya atau tidak. Adapun jika kita membawa wajah kepada makna keridaan, maknanya menjadi lurus.
+
+Maka tetaplah dengan dalil-dalil ini bahwa wajah yang disebutkan dalam ayat-ayat dan hadis-hadis ini tidak mungkin bermakna anggota dan organ tubuh. Jika engkau telah mengetahui hal ini, kami katakan: lafaz wajah dijadikan kinayah (*kināya*, كناية) terkadang bagi Zat dan terkadang bagi keridaan.
+
+Adapun yang pertama, kami katakan: sebab wajib dijadikannya wajah sebagai kinayah bagi Zat ada beberapa segi.
+
+Pertama, yang terlihat dari manusia pada kebanyakan waktu tidak lain adalah wajahnya, dan dengan wajahnya manusia itu terbedakan dari selainnya. Maka wajah seakan-akan anggota yang dengannya wujud manusia itu terwujud dan dengannya diketahui bahwa ia ada. Karena demikian halnya, tak ayal baiklah menjadikan wajah sebagai nama bagi seluruh zat. Yang menguatkan hal itu ialah bahwa suatu kaum, apabila di tengah mereka ada seseorang yang mengatur keadaan mereka dan memperbaiki urusan mereka, ia dinamai "wajah kaum" dan "orang terkemuka (*wajīh*) mereka"; sebabnya adalah apa yang telah kami sebutkan.
+
+Kedua, yang dituju dari manusia adalah tampaknya jejak akal, indra, pemahaman, dan pikirannya. Sudah maklum bahwa sumber keadaan-keadaan ini adalah kepala, dan tempat tampaknya jejak daya-daya ini adalah wajah. Karena sebagian besar tujuan penciptaan manusia tampak pada wajah, tak ayal baiklah memakai nama wajah untuk seluruh zat.
+
+Ketiga, wajah dikhususkan dengan kelebihan keindahan dan kehalusan, susunan yang menakjubkan dan paduan yang luar biasa; dan segala keadaan yang ada di dalam hati tampak pada wajah. Karena wajah terbedakan dari anggota-anggota lainnya dengan kekhususan-kekhususan ini, tak ayal baiklah memakai lafaz wajah untuk seluruh zat.
+
+Adapun penjelasan sebab bolehnya menjadikan lafaz wajah sebagai kinayah bagi keridaan: apabila hati manusia condong kepada sesuatu, ia menghadapkan wajahnya kepadanya; dan apabila ia membenci sesuatu, ia memalingkan wajahnya darinya. Karena menghadapkan wajah kepada sesuatu termasuk kelaziman kecondongan kepadanya, tak ayal baiklah menjadikan lafaz wajah sebagai kinayah bagi keridaan.
+
+Jika engkau telah mengetahui pendahuluan ini, kami katakan: adapun firman Allah Ta'ala, *"Segala sesuatu pasti binasa, kecuali wajah-Nya,"*¹⁴⁴ dan firman-Nya, *"(Akan tetapi,) wajah Tuhanmu tetap kekal,"*¹⁴⁵ yang dimaksud adalah Zat, dan tujuan penyebutannya adalah penegasan dan kesungguhan. Sebab, dikatakan, "Wajah perkara ini adalah begini dan begini," dan "Wajah dalil ini adalah begini dan begini," dan yang dimaksud adalah perkara itu sendiri dan dalil itu sendiri. Demikian pula di sini. Adapun firman Allah Ta'ala, *"di sanalah wajah Allah,"*¹⁴⁶ *"Sesungguhnya kami memberi makanan kepadamu hanyalah karena mengharapkan wajah Allah,"*¹⁴⁷ dan *"kecuali (dengan tujuan) mencari wajah Tuhannya Yang Mahatinggi,"*¹⁴⁸ yang dimaksud dengan semuanya adalah keridaan Allah Ta'ala. Demikian pula halnya pada hadis-hadis itu. Hanya kepada Allah kita memohon taufik.
+
+¹¹⁷ CT: QS ar-Rahman [55]: 26.
+
+¹¹⁸ CT: QS ar-Rahman [55]: 27.
+
+¹¹⁹ CT: Ayat itu berbunyi *wajhu rabbika dhū al-jalāli wa-l-ikrām*.
+
+¹²⁰ CT: QS al-Qashash [28]: 88.
+
+¹²¹ CT: QS al-Kahf [18]: 28.
+
+¹²² CT: QS al-An'am [6]: 52.
+
+¹²³ CT: QS al-Baqarah [2]: 115.
+
+¹²⁴ CT: QS ar-Rum [30]: 38.
+
+¹²⁵ CT: QS al-Lail [92]: 20.
+
+¹²⁶ CT: QS al-An'am [6]: 65.
+
+¹²⁷ CT: QS al-An'am [6]: 65.
+
+¹²⁸ CT: al-Bukhari, *Tafsir as-Suwar*, 6, 2; *al-I'tisham*, 11; *at-Tauhid*, 16; Abu Dawud, *al-Adab*, 98; at-Tirmidzi, *Tafsir as-Suwar*, 6, 2.
+
+¹²⁹ CT: an-Nasa'i, *as-Sahw*, 62.
+
+¹³⁰ CT: at-Tirmidzi, *Fadha'il al-Jihad*, 3; an-Nasa'i, *ash-Shiyam*, 44, 45; Ibnu Majah, *ash-Shiyam*, 34; Ahmad bin Hanbal, II/300, 357.
+
+¹³¹ CT: Abu Dawud, *az-Zakah*, 38, *al-Adab*, 108; an-Nasa'i, *az-Zakah*, 72; Ahmad bin Hanbal, I/250; II/68, 99, 127.
+
+¹³² CT: al-Bukhari, *al-Jihad*, 2; Muslim, *al-Imarah*, 110; an-Nasa'i, *al-Jihad*, 14, 16; Ibnu Majah, *al-Jihad*, 1; Imam Malik, *al-Jihad*, 1; Ahmad bin Hanbal, II/424.
+
+¹³³ CT: al-Bukhari, *al-Anbiya'*, 27, *al-Maghazi*, 56, *al-Adab*, 53; Muslim, *az-Zakah*, 140-141; at-Tirmidzi, *al-Manaqib*, 63.
+
+¹³⁴ CT: al-Bukhari, *al-Adzan*, 86; at-Tirmidzi, *ash-Shalah*, 63; an-Nasa'i, *at-Tathbiq*, 19, 84, *as-Sahw*, 3; Ibnu Majah, *Iqamah*, 2, 12, 15; Ahmad bin Hanbal, II/100.
+
+¹³⁵ CT: at-Tirmidzi, *al-Adab*, 78.
+
+¹³⁶ CT: QS Yunus [10]: 26.
+
+¹³⁷ CT: Sumber hadis ini tidak dapat ditemukan.
+
+¹³⁸ CT: at-Tirmidzi, *ar-Radha'*, 18.
+
+¹³⁹ CT: QS al-Qashash [28]: 88.
+
+¹⁴⁰ CT: QS ar-Rahman [55]: 27.
+
+¹⁴¹ CT: QS al-An'am [6]: 52.
+
+¹⁴² CT: QS al-Lail [92]: 20.
+
+¹⁴³ CT: Muslim, *ash-Shalah*, 215; an-Nasa'i, *al-Mawaqit*, 35, *at-Tathbiq*, 78; at-Tirmidzi, *ad-Da'awat*, 118; Ahmad bin Hanbal, II/421.
+
+¹⁴⁴ CT: (Teks catatan ini tidak terbaca dalam naskah Turki; menurut konteksnya: QS al-Qashash [28]: 88.)
+
+¹⁴⁵ CT: QS ar-Rahman [55]: 27.
+
+¹⁴⁶ CT: QS al-Baqarah [2]: 115.
+
+¹⁴⁷ CT: QS al-Insan [76]: 9.
+
+¹⁴⁸ CT: QS al-Lail [92]: 20.
+
+ᵃ CP: Terjemahan Kemenag mengalihkan *wajh* dalam ayat-ayat seperti QS al-Kahf [18]: 28, al-Insan [76]: 9, dan al-Lail [92]: 20 menjadi "keridaan-Nya". Di sini kata "wajah" dipertahankan karena ayat-ayat itu dikutip sebagai lafaz yang diperdebatkan; pengalihan Kemenag itu sendiri bersesuaian dengan takwil yang dipilih ar-Razi di akhir pasal ini.
+
+### Pasal Keempat Belas: Tentang "Mata" (*ʿAyn*)
+
+*(Tr. h. 146)*
+
+Mereka berhujah dengan Al-Qur'an dan hadis untuk menetapkannya. Adapun Al-Qur'an, firman Allah Ta'ala kepada Nuh 'alaihissalam, *"Buatlah bahtera itu dengan mata-mata Kami (di bawah pengawasan Kami),"*¹⁴⁹ kepada Musa 'alaihissalam, *"dan agar engkau diasuh di atas mata-Ku (di bawah pengawasan-Ku),"*¹⁵⁰ dan kepada Muhammad shallallahu 'alaihi wasallam, *"Bersabarlah dalam menunggu ketetapan Tuhanmu karena sesungguhnya engkau berada dalam mata-mata Kami (dalam pengawasan Kami)."*¹⁵¹
+
+Adapun hadis, penulis *Syarh as-Sunnah* rahimahullah meriwayatkan dalam bab penyebutan Dajjal, dari Ibnu Umar radhiyallahu 'anhuma, ia berkata, *"Rasulullah shallallahu 'alaihi wasallam berdiri di tengah manusia, lalu memuji Allah dengan pujian yang layak bagi-Nya, kemudian menyebut Dajjal dan bersabda: Sungguh aku memperingatkan kalian tentangnya, dan tidak ada seorang nabi pun kecuali telah memperingatkan kaumnya tentangnya; sungguh Nuh telah memperingatkan kaumnya. Namun aku akan mengatakan kepada kalian tentangnya suatu perkataan yang belum pernah dikatakan seorang nabi kepada kaumnya: Sesungguhnya ia buta sebelah, dan sesungguhnya Allah tidak buta sebelah."*¹⁵² Kemudian penulis kitab itu berkata: hadis ini sahih, dikeluarkan oleh al-Bukhari dalam kitabnya. Diriwayatkan pula dari Ibnu Abbas radhiyallahu 'anhu bahwa ia menyebut Dajjal dari Nabi shallallahu 'alaihi wasallam, lalu beliau bersabda, *"Sesungguhnya Allah tidak tersembunyi bagi kalian; sesungguhnya Dia tidak buta sebelah,"* dan beliau menunjuk matanya dengan tangannya, *"sedangkan al-Masih ad-Dajjal buta mata kanannya, seakan-akan matanya sebutir anggur yang menonjol."*¹⁵³ Kemudian ia berkata: hadis ini disepakati kesahihannya oleh dua syekh. Di antara yang juga menunjukkan penetapan mata bagi Allah Ta'ala adalah riwayat dalam doa-doa, *"Jagalah kami dengan mata-Mu yang tidak tidur."* Lagi pula, dalam kebiasaan tutur dikatakan, "Mata Allah atasmu."
+
+Ketahuilah, nas-nas Al-Qur'an itu tidak mungkin diberlakukan menurut makna lahiriahnya karena beberapa segi.
+
+Pertama, makna lahiriah firman Allah Ta'ala, *"dan agar engkau diasuh di atas mata-Ku,"*¹⁵⁴ menuntut Musa 'alaihissalam menetap di atas mata itu, menempel padanya, dan berada di atasnya; dan itu tidak dikatakan oleh seorang berakal pun.
+
+Kedua, firman Allah Ta'ala, *"Buatlah bahtera itu dengan mata-mata Kami,"*¹⁵⁵ menuntut alat pembuatan itu adalah mata-mata tersebut.
+
+Ketiga, menetapkan banyak mata pada satu wajah itu buruk. Maka tetaplah bahwa takwil mesti ditempuh, yaitu membawa lafaz-lafaz ini kepada makna besarnya perhatian dan penjagaan. Segi kebaikan majaz ini ialah bahwa orang yang besar perhatiannya kepada sesuatu, kecondongannya kepadanya, dan keinginannya terhadapnya, banyak memandang kepadanya. Maka lafaz mata, yang merupakan alat pandangan itu, dijadikan kinayah bagi besarnya perhatian.
+
+Adapun hadis yang engkau riwayatkan itu musykil, sebab makna lahiriahnya menuntut bahwa Nabi shallallahu 'alaihi wasallam menampakkan perbedaan antara Tuhan Ta'ala dan Dajjal yang buta sebelah dengan keadaan Allah Ta'ala yang tidak buta sebelah, dan itu jauh (dari kebenaran). Hadis ahad, apabila mencapai tingkat kelemahan makna seperti ini, wajib diyakini bahwa perkataan itu didahului suatu pendahuluan yang, seandainya disebutkan, kemusykilan ini akan hilang. Bukankah perawi hadis ini adalah Ibnu Umar? Kemudian, ketika Ibnu Umar meriwayatkan sabda beliau, "Sesungguhnya mayat benar-benar diazab karena tangisan keluarganya," Aisyah radhiyallahu 'anha menggugatnya dan menyebutkan bahwa perkataan Rasul itu didahului oleh perkataan lain, dan ia berhujah untuk itu dengan firman Allah Ta'ala, *"Seseorang tidak akan memikul beban dosa orang lain,"*¹⁵⁶ (seraya menjelaskan bahwa) seandainya perkataan itu dikisahkan (secara utuh), kemusykilan ini akan hilang. Demikian pula di sini: sangat jauh kemungkinan perkataan semacam ini keluar dari Rasul yang telah Allah Ta'ala pilih untuk risalah-Nya dan Dia perintahkan untuk menjelaskan syariat-Nya. Hanya kepada Allah kita memohon taufik.
+
+¹⁴⁹ CT: QS Hud [11]: 37.
+
+¹⁵⁰ CT: QS Taha [20]: 39.
+
+¹⁵¹ CT: QS ath-Thur [52]: 48.
+
+¹⁵² CT: al-Bukhari, *al-Anbiya'*, 3, *al-Maghazi*, 77, *al-Adab*, 97; Muslim, *al-Fitan*, 95; Abu Dawud, *as-Sunnah*, 26; at-Tirmidzi, *al-Fitan*, 56; Ahmad bin Hanbal, II/135, 139.
+
+¹⁵³ CT: al-Bukhari, *al-Anbiya'*, 3, *al-Maghazi*, 77, *al-Adab*, 97; Muslim, *al-Fitan*, 95, 101; Abu Dawud, *al-Malahim*, 14.
+
+¹⁵⁴ CT: QS Taha [20]: 39.
+
+¹⁵⁵ CT: QS Hud [11]: 37.
+
+¹⁵⁶ CT: QS al-An'am [6]: 164.
+
+### Pasal Kelima Belas: Tentang "Embusan Napas" (*Nafas*)
+
+*(Tr. h. 148)*
+
+Lafaz ini tidak terdapat dalam Al-Qur'an, tetapi diriwayatkan bahwa Nabi shallallahu 'alaihi wasallam bersabda, *"Janganlah kalian mencaci angin, sebab ia berasal dari embusan napas ar-Rahman."* Beliau juga bersabda, *"Sungguh, aku merasakan embusan napas ar-Rahman dari arah Yaman."*¹⁵⁷
+
+Takwilnya: kata itu diambil dari ucapan *naffastu ʿan fulān*, yakni aku melapangkan (kesusahan) darinya, dan *anfasa Allāhu ʿan fulān*, yakni Allah melapangkan (kesusahan) darinya. Apabila angin itu sejuk menyenangkan, hilanglah hal-hal yang tidak disukai itu. Maka ketika beliau mendapatinya dari arah Yaman, tercapailah apa yang dituju. Lagi pula, sesuatu yang menyertai hal yang dibenci ikut dibenci, dan sesuatu yang menyertai hal yang dicintai ikut dicintai. Maka ketika Nabi shallallahu 'alaihi wasallam mendapatkan pertolongan dari arah Yaman, beliau mendapatkan kelapangan dari hal-hal yang tidak disukai dari arah itu. Karena itu, tak ayal, benarlah sabda beliau, *"Sungguh, aku merasakan embusan napas ar-Rahman dari arah Yaman."* Karena itu pula Nabi shallallahu 'alaihi wasallam bersabda, *"Iman itu dari Yaman, dan hikmah itu dari Yaman."* Inilah yang dimaksud dengan sabdanya, *"Sesungguhnya angin berasal dari embusan napas ar-Rahman,"* yakni termasuk hal yang padanya Allah jadikan kelapangan. Hanya kepada Allah kita memohon taufik.
+
+¹⁵⁷ CT: at-Tirmidzi, *al-Fitan*, 65, *al-Birr*, 48; Abu Dawud, *al-Adab*, 45; Ibnu Majah, *al-Adab*, 29; Ahmad bin Hanbal, II/250, 268, 409, 437, 518.
