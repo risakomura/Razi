@@ -12,9 +12,9 @@
 |---|---|
 | Tahap | Terjemahan penuh sedang berjalan |
 | Glosarium | Versi 1.0 (usulan v0.1 diberlakukan melalui instruksi "lanjut hingga tuntas kitab"); tambahan baru dicatat di 2.7 dan menunggu persetujuan eksplisit |
-| Sudah diterjemahkan | Pembuka Kitab; Bagian I dan II seluruhnya; Bagian III: Pasal 1 sampai 3 |
-| Kalimat terakhir | "Kemudian pada titik ini, siapa yang membolehkan takwil akan beralih kepadanya, dan siapa yang tidak membolehkannya akan menyerahkan pengetahuannya kepada Allah Ta'ala. Hanya kepada Allah kita memohon taufik." |
-| Posisi berikutnya | Naskah Arab: *al-Faṣl al-Rābiʿ fī Taqrīr Madhhab al-Salaf* · Naskah Turki: *Dördüncü Kısım*, h. 213 |
+| Sudah diterjemahkan | Pembuka Kitab; Bagian I, II, dan III seluruhnya |
+| Kalimat terakhir | "Maka tetaplah, dengan apa yang telah kami sebutkan, bahwa jalan dalam ayat-ayat mutasyabih ini adalah takwil atas lafaz-lafaz itu, sebagai adab terhadap Yang Wajib Ada. Hanya kepada Allah kita memohon taufik." |
+| Posisi berikutnya | Naskah Arab: *al-Qism al-Rābiʿ fī Baqiyyat al-Kalām fī Hādhā al-Bāb* · Naskah Turki: *Dördüncü Bölüm*, h. 223 |
 
 ---
 
@@ -2522,3 +2522,101 @@ Maka tetaplah, dengan apa yang telah kami sebutkan, bahwa memalingkan lafaz dari
 ³⁷ CT: QS al-Kahf [18]: 29.
 
 ³⁸ CT: QS al-Insan [76]: 30.
+
+### Pasal Keempat: Penetapan Mazhab Salaf
+
+*(Tr. h. 213)*
+
+Inti mazhab ini ialah bahwa tentang ayat-ayat mutasyabih ini wajib dipastikan bahwa yang dimaksud Allah Ta'ala darinya adalah sesuatu selain makna lahiriahnya; kemudian wajib menyerahkan maknanya kepada Allah Ta'ala (*tafwīḍ*), dan tidak boleh menyelami tafsirnya. Sedangkan mayoritas mutakalim berkata: justru wajib menyelami takwil ayat-ayat mutasyabih itu. Kaum Salaf berhujah atas kebenaran mazhab mereka dengan beberapa segi.
+
+**Hujah pertama**: berpegang pada wajibnya berhenti (*waqf*) pada firman Allah Ta'ala, *"padahal tidak ada yang mengetahui takwilnya kecuali Allah."*³⁹ Yang menunjukkan bahwa berhenti di situ wajib ada beberapa segi.
+
+Pertama, apa yang sebelum ayat ini menunjukkan bahwa mencari-cari yang mutasyabih itu tercela, sebab Dia berfirman, *"Adapun orang-orang yang dalam hatinya ada kecenderungan pada kesesatan, mereka mengikuti yang mutasyabihat untuk mencari-cari fitnah dan untuk mencari-cari takwilnya."*⁴⁰ Seandainya mencari-cari yang mutasyabih itu boleh, tentu Allah Ta'ala tidak mencelanya.
+
+Jika dikatakan: mengapa tidak boleh yang dimaksud adalah mencari tahu waktu terjadinya kiamat, sebagaimana dalam firman Allah Ta'ala, *"Mereka menanyakan kepadamu tentang kiamat, 'Kapan terjadi?' Katakanlah, 'Sesungguhnya pengetahuan tentang kiamat itu ada pada Tuhanku,'"*⁴¹ dan mungkin pula yang dimaksud adalah mencari tahu kadar pahala dan siksa, serta mencari tahu waktu-waktu munculnya kemenangan dan pertolongan, sebagaimana mereka berkata, "Mengapa engkau tidak mendatangkan malaikat kepada kami?" Dijawab: karena Allah Ta'ala membagi Kitab menjadi dua bagian, muhkam dan mutasyabih, dan akal menunjukkan kesahihan pembagian ini dari sisi bahwa membawa lafaz kepada maknanya yang kuat adalah muhkam, dan membawanya kepada maknanya yang tidak kuat adalah mutasyabih; kemudian Allah Ta'ala mencela cara orang yang mencari takwil yang mutasyabih; maka mengkhususkan (celaan) itu pada sebagian mutasyabih dan tidak pada sebagian yang lain berarti meninggalkan makna lahiriah.
+
+Kedua, Allah Ta'ala memuji orang-orang yang ilmunya mendalam (*al-rāsikhūn fī l-ʿilm*, الراسخون في العلم) karena mereka *"berkata, 'Kami beriman kepadanya,'"*⁴² dan Dia berfirman di awal surah al-Baqarah, *"Adapun orang-orang yang beriman, mereka tahu bahwa itu kebenaran dari Tuhan mereka."*⁴³ Seandainya orang-orang yang ilmunya mendalam itu mengetahui takwil ayat mutasyabih itu secara terperinci, tidak ada pujian bagi mereka dalam beriman kepadanya, sebab setiap orang yang mengetahui sesuatu secara terperinci tentu beriman kepadanya. Adapun orang-orang yang ilmunya mendalam, mereka adalah orang-orang yang mengetahui dengan dalil-dalil rasional yang pasti bahwa Allah Ta'ala mengetahui objek-objek pengetahuan yang tak berhingga, mengetahui bahwa Al-Qur'an adalah kalam Allah Ta'ala, dan mengetahui bahwa Dia tidak berbicara dengan kebatilan dan kesia-siaan. Maka, apabila mereka mendengar suatu ayat yang dalil-dalil pasti menunjukkan bahwa makna lahiriahnya tidak mungkin dimaksud oleh Allah Ta'ala, melainkan yang dimaksud Allah Ta'ala darinya adalah selain makna lahiriah itu, mereka menyerahkan penentuan maksud itu kepada ilmu-Nya, dan memastikan bahwa makna itu, apa pun adanya, adalah benar dan tepat. Merekalah orang-orang yang ilmunya mendalam, karena ayat-ayat mutasyabih semacam ini tidak menggeser mereka dari keimanan dan keyakinan akan kebenaran Al-Qur'an.
+
+Ketiga, seandainya firman-Nya *"dan orang-orang yang ilmunya mendalam"*⁴⁴ di-*ʿaṭaf*-kan kepada firman-Nya *"kecuali Allah,"*⁴⁵ niscaya firman-Nya *"mereka berkata, 'Kami beriman kepadanya'"*⁴⁶ menjadi permulaan kalimat, dan itu jauh dari kefasihan; sebab yang lebih patut adalah dikatakan, "dan mereka berkata, 'Kami beriman kepadanya,'" atau "serta berkata, 'Kami beriman kepadanya.'" Jika dikatakan: untuk membenarkannya ada dua segi. Pertama, takdirnya: "mereka ini, yang berpendapat dengan takwil, berkata, 'Kami beriman kepadanya.'" Kedua, *"mereka berkata"* adalah *ḥāl* (keterangan keadaan) dari orang-orang yang ilmunya mendalam. Dijawab: yang pertama tertolak, sebab menafsirkan kalam Allah Ta'ala dengan cara yang tidak membutuhkan penyisipan lebih utama daripada menafsirkannya dengan cara yang membutuhkan penyisipan. Yang kedua pun lemah, sebab pemilik *ḥāl* adalah yang telah disebut sebelumnya, dan di sini telah disebut sebelumnya Allah Ta'ala dan orang-orang yang ilmunya mendalam. Maka (menurut kaidah itu) firman-Nya *"mereka berkata, 'Kami beriman kepadanya'"*⁴⁷ wajib menjadi *ḥāl* dari keduanya; namun (karena mustahil bagi Allah) ia dijadikan *ḥāl* dari orang-orang yang ilmunya mendalam saja, tidak dari Allah Ta'ala, sehingga itu berarti meninggalkan makna lahiriah, sebab makna lahiriahnya menuntut ia menjadi *ḥāl* dari setiap yang telah disebut sebelumnya. Maka tetaplah bahwa pendapat tentang bolehnya takwil membutuhkan penyisipan dalam ayat ini, sedangkan pendapat tentang tidak bolehnya takwil tidak membutuhkannya; maka yang kedua lebih utama.
+
+Keempat, firman Allah Ta'ala, *"semuanya dari Tuhan kami,"*⁴⁸ yakni mereka beriman kepada apa yang mereka ketahui secara terperinci dan kepada apa yang tidak mereka ketahui perincian dan takwilnya. Sebab, seandainya mereka mengetahui perincian perkataan itu, tidak tersisa faedah bagi perkataan ini. Inilah segi terbaik dalam berdalil dengan ayat ini untuk membela mazhab Salaf.
+
+Jika dikatakan: pendalilan ini hanya tuntas dengan menegakkan dalil bahwa berhenti pada firman Allah Ta'ala, *"padahal tidak ada yang mengetahui takwilnya kecuali Allah,"*⁴⁹ itu wajib; padahal *ʿaṭaf* (menyambung) itu boleh, karena *ʿaṭaf* ini adalah qiraah yang masyhur dan dinukil secara mutawatir, sehingga menegakkan dalil atas kerusakannya berarti menggugat penukilan yang mutawatir, dan itu tidak boleh. Dijawab: kami tidak menjadikan masalah ini pasti, melainkan dugaan dan kemungkinan; dengan pengandaian ini, pertanyaan itu pun hilang.
+
+**Hujah kedua** atas kebenaran mazhab Salaf: berpegang pada ijmak para sahabat radhiyallahu 'anhum. Ayat-ayat dan hadis-hadis mutasyabih dalam Al-Qur'an dan hadis ini banyak, dan dorongan untuk membahas dan mengetahui hakikatnya sangat besar. Seandainya membahas takwilnya secara terperinci itu boleh, makhluk yang paling patut melakukannya adalah para sahabat dan tabiin radhiyallahu 'anhum. Seandainya mereka melakukannya, tentu hal itu masyhur dan dinukil secara mutawatir. Karena tidak dinukil dari seorang pun di antara sahabat dan tabiin bahwa mereka menyelaminya, kita tahu bahwa menyelaminya tidak boleh.
+
+**Hujah ketiga**: telah kami sebutkan bahwa lafaz mutasyabih ada dua macam: mujmal dan muawwal. Adapun mujmal, yaitu yang mengandung kemungkinan dua makna atau lebih secara setara, kami katakan: ia adakalanya mengandung kemungkinan dua makna saja, adakalanya lebih dari dua. Jika mengandung kemungkinan dua makna saja, lalu dalil menunjukkan tiadanya salah satunya, ketika itu pastilah yang dimaksud adalah yang kedua; seperti "di atas", yang adakalanya dimaksudkan di atas secara arah, adakalanya di atas secara martabat; karena membawanya kepada makna arah itu batil, pastilah makna martabat. Adapun jika pengertian lafaz itu (lebih dari dua), dari tiadanya salah satu pengertian tidak niscaya pastinya pengertian kedua atau ketiga secara tertentu; dan tidak mungkin pula membawa lafaz itu kepada keduanya sekaligus, karena telah tetap bahwa lafaz homonim tidak boleh dipakai untuk dua pengertian sekaligus.
+
+Adapun yang pertama (yakni muawwal), kami katakan: lafaz, jika ia memiliki satu makna hakiki, lalu dalil menunjukkan bahwa makna itu tidak dimaksud, wajiblah lafaz itu dibawa kepada makna majaznya. Kemudian, makna majaz itu, jika hanya satu, pastilah lafaz dipalingkan kepadanya demi menjaganya dari penafian (makna sama sekali); dan jika majaznya banyak, lafaz itu beredar di antara majaz-majaz itu, sehingga ketika itu pembahasan yang telah kami sebutkan tentang mujmal kembali berlaku di sini persis sama. Maka tetaplah, dengan apa yang telah kami sebutkan, bahwa takwil ayat mutasyabih terkadang diketahui secara pasti dan terkadang hanya diduga; sedangkan berpendapat dengan dugaan tidak dapat diterima (dalam masalah ini), sebagaimana telah ditetapkan dalam bab bahwa berpegang pada hadis ahad dalam mengenal Allah tidak boleh. Inilah pembahasan tentang penetapan mazhab Salaf.
+
+Adapun para mutakalim yang berpendapat dengan takwil-takwil terperinci, hujah mereka adalah apa yang telah dikemukakan, yaitu bahwa Al-Qur'an wajib dapat dipahami, dan tidak ada jalan untuk itu dalam ayat dan riwayat mutasyabih kecuali dengan menyebutkan takwil-takwil; maka menempuhnya wajib. Allah lebih mengetahui.
+
+³⁹ CT: QS Ali 'Imran [3]: 7.
+
+⁴⁰ CT: QS Ali 'Imran [3]: 7.
+
+⁴¹ CT: QS al-A'raf [7]: 187.
+
+⁴² CT: (Teks catatan ini tidak terbaca dalam naskah Turki; menurut konteksnya: QS Ali 'Imran [3]: 7.)
+
+⁴³ CT: QS al-Baqarah [2]: 26.
+
+⁴⁴ CT: QS Ali 'Imran [3]: 7.
+
+⁴⁵ CT: QS Ali 'Imran [3]: 7.
+
+⁴⁶ CT: QS Ali 'Imran [3]: 7.
+
+⁴⁷ CT: QS Ali 'Imran [3]: 7.
+
+⁴⁸ CT: QS Ali 'Imran [3]: 7.
+
+⁴⁹ CT: QS Ali 'Imran [3]: 7.
+
+### Pasal Kelima: Tentang Cabang-Cabang Mazhab Salaf
+
+*(Tr. h. 217)*
+
+Cabang-cabang itu ada empat.
+
+**Cabang pertama**: tidak boleh mengganti satu lafaz dari lafaz-lafaz mutasyabih dengan lafaz lain yang tidak mutasyabih, baik dalam bahasa Arab maupun bahasa Persia. Sebab, di antara lafaz-lafaz mutasyabih ada yang lebih kuat memberi kesan batil daripada yang lain, dan tambahan kesan itu terdapat pada (pergantian) dua lafaz; namun membedakan jenis ini dari jenis pertama sulit, sehingga sikap hati-hati adalah menahan diri dari semuanya. Tidakkah engkau lihat bahwa syariat mewajibkan idah atas perempuan yang telah digauli untuk memastikan kosongnya rahim, sebagai kehati-hatian demi hukum nasab? Kemudian mereka berkata: idah wajib atas perempuan mandul,⁵⁰ perempuan yang telah putus haid,⁵¹ dan dalam hal *ʿazl*, karena keadaan batin rahim tidak diketahui kecuali oleh Yang Maha Mengetahui segala yang gaib; maka mewajibkan idah lebih ringan daripada menempuh bahaya. Padahal bahaya dalam pengenalan akan Allah Ta'ala dan sifat-sifat-Nya lebih besar daripada bahaya dalam idah. Maka, jika kita memperhatikan kehati-hatian dalam hal itu, lebih patut lagi kita memperhatikannya di sini.
+
+**Cabang kedua**: tidak wajib menghindari perubahan bentuk kata (*taṣrīf*)... namun (juga) tidak boleh kita katakan tentang firman Allah Ta'ala, *"Dia istiwa,"*⁵² bahwa Dia *mustawin* (yang beristiwa). Sebab, telah kami tetapkan dalam ilmu bayan bahwa isim fa'il menunjukkan keadaan yang tetap dan menetap, sedangkan penunjukan lafaz fi'il atas makna ini lemah. Yang menguatkannya ialah bahwa dalam Al-Qur'an disebutkan Allah Ta'ala mengajari hamba-hamba-Nya. Dia berfirman, *"(Allah) Yang Maha Pengasih,"*⁵³ *"telah mengajarkan Al-Qur'an,"*⁵⁴ *"dan telah mengajarkan kepadamu apa yang belum engkau ketahui,"*⁵⁵ *"dan telah Kami ajarkan kepadanya ilmu dari sisi Kami,"*⁵⁶ dan *"Dia mengajarkan kepada Adam nama-nama (benda) seluruhnya."*⁵⁷ Kemudian kita telah bersepakat bahwa tidak boleh dikatakan bahwa Allah Ta'ala adalah *muʿallim* (guru). Demikian pula di sini.ᵃ
+
+**Cabang ketiga**: tidak boleh mengumpulkan lafaz-lafaz mutasyabih. Sebab, pengucapan satu atau dua lafaz dapat dibawa kepada majaz. Namun, karena penelusuran menunjukkan bahwa yang umum dalam perkataan adalah berbicara dengan makna hakiki, apabila kita mengumpulkan lafaz-lafaz mutasyabih dan meriwayatkannya sekaligus, banyaknya lafaz itu memberi kesan bahwa yang dimaksud adalah makna-makna lahiriahnya. Maka pengumpulan itu menjadi sebab bertambahnya kesan batil, dan itu tidak boleh.
+
+**Cabang keempat**: sebagaimana tidak boleh mengumpulkan yang terpisah-pisah, demikian pula tidak boleh memisahkan yang terhimpun. Firman Allah Ta'ala, *"Dialah yang berkuasa di atas hamba-hamba-Nya,"*⁵⁸ tidak menunjukkan bolehnya dikatakan bahwa Allah Ta'ala "di atas" (secara mutlak). Sebab, karena Dia menyebut "yang berkuasa" (*al-qāhir*) sebelumnya, tampaklah bahwa yang dimaksud dengan keberadaan di atas ini adalah keberadaan di atas dengan makna keperkasaan, bukan dengan makna arah. Bahkan tidak boleh dikatakan "Dialah yang berkuasa di atas selain-Nya"; yang patut dikatakan adalah "di atas hamba-hamba-Nya", sebab penyebutan kehambaan ketika menyifati Allah Ta'ala dengan keberadaan di atas menunjukkan bahwa yang dimaksud dengan keberadaan di atas itu adalah keberadaan di atas dalam kepertuanan dan ketuhanan.
+
+Ketahuilah, Allah Ta'ala tidak menyebut lafaz-lafaz mutasyabih kecuali Dia sertakan dengannya suatu petunjuk (*qarīna*) yang menunjukkan hilangnya kesan yang batil. Contohnya: Allah Ta'ala berfirman, *"Allah (pemberi) cahaya (kepada) langit dan bumi,"*⁵⁹ lalu sesudahnya Dia sebutkan, *"Perumpamaan cahaya-Nya,"*⁶⁰ sehingga Dia menyandarkan cahaya kepada diri-Nya; dan seandainya Allah Ta'ala adalah cahaya itu sendiri, Dia tidak akan menyandarkannya kepada diri-Nya, sebab menyandarkan sesuatu kepada dirinya sendiri mustahil. Dan ketika Allah Ta'ala berfirman, *"(Yaitu) Yang Maha Pengasih, yang bersemayam di atas Arasy,"*⁶¹ Dia sebutkan sebelumnya, *"diturunkan dari (Allah) yang menciptakan bumi dan langit yang tinggi,"*⁶² dan sesudahnya firman-Nya, *"Milik-Nyalah apa yang ada di langit, apa yang ada di bumi, apa yang ada di antara keduanya, dan apa yang ada di bawah tanah."*⁶³ Telah kami sebutkan bahwa kedua ayat ini menunjukkan bahwa segala sesuatu yang terikat pada arah atas adalah makhluk dan baharu. Maka tetaplah, dengan apa yang telah kami sebutkan, bahwa jalan dalam ayat-ayat mutasyabih ini adalah takwil atas lafaz-lafaz itu, sebagai adab terhadap Yang Wajib Ada.⁶⁴ Hanya kepada Allah kita memohon taufik.
+
+⁵⁰ CT: *'Aqīm* dalam bahasa berarti perempuan yang tidak dapat melahirkan. (catatan penerjemah)
+
+⁵¹ CT: *Āyisa* dipakai untuk perempuan tua yang haidnya telah terputus dan tidak mungkin haid lagi. (catatan penerjemah)
+
+⁵² CT: QS Yunus [10]: 3.
+
+⁵³ CT: QS ar-Rahman [55]: 1.
+
+⁵⁴ CT: QS ar-Rahman [55]: 2.
+
+⁵⁵ CT: QS an-Nisa' [4]: 113.
+
+⁵⁶ CT: QS al-Kahf [18]: 65.
+
+⁵⁷ CT: QS al-Baqarah [2]: 31.
+
+⁵⁸ CT: QS al-An'am [6]: 18.
+
+⁵⁹ CT: QS an-Nur [24]: 35.
+
+⁶⁰ CT: QS an-Nur [24]: 35.
+
+⁶¹ CT: QS Taha [20]: 5.
+
+⁶² CT: QS Taha [20]: 4.
+
+⁶³ CT: QS Taha [20]: 6.
+
+⁶⁴ CT: Wajib al-Wujud: Allah Tabaraka wa Ta'ala adalah Wajib al-Wujud; Dia telah ada di azali ketika tidak ada sesuatu pun.
+
+ᵃ CP: Kalimat pembuka cabang kedua dalam teks Arab berbunyi "tidak wajib menghindari perubahan bentuk kata", sementara contoh dan alasannya justru melarang pemakaian bentuk isim fa'il. Tampaknya ada kata yang hilang dalam naskah (semestinya "wajib menghindari"). Terjemahan mempertahankan bunyi teks dan menandai rumpangnya dengan elipsis.
