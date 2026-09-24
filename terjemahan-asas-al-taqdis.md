@@ -12,9 +12,9 @@
 |---|---|
 | Tahap | Terjemahan penuh sedang berjalan |
 | Glosarium | Versi 1.0 (usulan v0.1 diberlakukan melalui instruksi "lanjut hingga tuntas kitab"); tambahan baru dicatat di 2.7 dan menunggu persetujuan eksplisit |
-| Sudah diterjemahkan | Pembuka Kitab; Bagian I dan Bagian II seluruhnya |
-| Kalimat terakhir | "Inilah kaidah umum (*al-qānūn al-kullī*) yang menjadi rujukan dalam semua ayat dan hadis mutasyabih. Hanya kepada Allah kita memohon taufik." |
-| Posisi berikutnya | Naskah Arab: *al-Qism al-Thālith fī Taqrīr Madhhab al-Salaf* · Naskah Turki: *Üçüncü Bölüm*, h. 203 |
+| Sudah diterjemahkan | Pembuka Kitab; Bagian I dan II seluruhnya; Bagian III: Pasal 1 sampai 3 |
+| Kalimat terakhir | "Kemudian pada titik ini, siapa yang membolehkan takwil akan beralih kepadanya, dan siapa yang tidak membolehkannya akan menyerahkan pengetahuannya kepada Allah Ta'ala. Hanya kepada Allah kita memohon taufik." |
+| Posisi berikutnya | Naskah Arab: *al-Faṣl al-Rābiʿ fī Taqrīr Madhhab al-Salaf* · Naskah Turki: *Dördüncü Kısım*, h. 213 |
 
 ---
 
@@ -2339,3 +2339,186 @@ Ketiga, dibenarkan makna lahiriah naqli dan didustakan (tuntutan) rasional; dan 
 Karena kemungkinan-kemungkinan itu batil,ᵃ tidak tersisa kecuali memastikan tuntutan dalil-dalil rasional yang pasti, dan (menyatakan) bahwa dalil-dalil naqli ini adakalanya dikatakan tidak sahih, adakalanya dikatakan sahih tetapi yang dimaksud darinya bukan makna lahiriahnya. Kemudian, jika kita membolehkan takwil, kita menyibukkan diri, secara sukarela, dengan menyebutkan takwil-takwil itu secara terperinci; dan jika takwil tidak dibolehkan, kita serahkan pengetahuan tentangnya kepada Allah Ta'ala (*tafwīḍ*, تفويض). Inilah kaidah umum (*al-qānūn al-kullī*) yang menjadi rujukan dalam semua ayat dan hadis mutasyabih. Hanya kepada Allah kita memohon taufik.
 
 ᵃ CP: Teks Arab berbunyi "karena keempat kemungkinan itu batil", padahal yang dinyatakan batil baru tiga. Kemungkinan keempat yang tersisa, yakni membenarkan tuntutan akal dan tidak memberlakukan makna lahiriah naql, justru itulah yang kemudian dipilih; maka di sini dipakai ungkapan "kemungkinan-kemungkinan itu".
+
+---
+
+## BAGIAN KETIGA
+## PENETAPAN MAZHAB SALAF
+
+*(Arab: al-Qism al-Thālith · Tr. h. 203)*
+
+Bagian ini terdiri atas beberapa pasal.
+
+### Pasal Pertama: Apakah Boleh dalam Kitab Allah Ta'ala Terdapat Sesuatu yang Tidak Ada Jalan bagi Kita untuk Mengetahuinya?
+
+Ketahuilah, banyak ahli fikih, ahli hadis, dan kaum sufi membolehkan hal itu, sedangkan para mutakalim mengingkarinya. Mereka (para mutakalim) berhujah dengan ayat-ayat, hadis-hadis, dan dalil rasional. Adapun ayat-ayatnya banyak.
+
+Pertama, firman Allah Ta'ala, *"Tidakkah mereka merenungkan Al-Qur'an ataukah hati mereka sudah terkunci?"*¹ Dia memerintahkan manusia untuk merenungkan Al-Qur'an. Seandainya Al-Qur'an tidak dapat dipahami, bagaimana Dia memerintahkan kita merenungkannya?
+
+Kedua, firman-Nya, *"Tidakkah mereka menadaburi Al-Qur'an? Seandainya (Al-Qur'an) itu tidak datang dari sisi Allah, tentulah mereka menemukan banyak pertentangan di dalamnya."*² Bagaimana Dia memerintahkan kita merenungkannya untuk mengetahui tidak adanya kontradiksi dan pertentangan, padahal ia tidak dapat dipahami oleh makhluk?
+
+Ketiga, firman Allah Ta'ala, *"Sesungguhnya ia (Al-Qur'an) benar-benar diturunkan oleh Tuhan semesta alam."*³ *"Ia dibawa turun oleh ar-Ruh al-Amin (Jibril) ke dalam hatimu agar engkau menjadi salah seorang pemberi peringatan dengan bahasa Arab yang jelas."*⁴ Seandainya ia tidak dapat dipahami, bagaimana mungkin Rasul menjadi pemberi peringatan dengannya? Lagi pula, firman-Nya *"dengan bahasa Arab yang jelas"* menunjukkan bahwa ia turun dengan bahasa orang Arab; dan jika demikian, ia wajib dapat diketahui.
+
+Keempat, firman Allah Ta'ala, *"niscaya orang-orang yang (mampu) menggali (maknanya) di antara mereka akan mengetahuinya."*⁵ Menggali (*istinbāṭ*) darinya tidak mungkin dilakukan kecuali setelah memahami maknanya secara menyeluruh.
+
+Kelima, firman Allah Ta'ala, *"sebagai penjelasan bagi segala sesuatu,"*⁶ dan firman-Nya, *"Tidak ada sesuatu pun yang Kami luputkan di dalam Kitab."*⁷
+
+Keenam, firman Allah Ta'ala, *"petunjuk bagi orang-orang yang bertakwa."*⁸ Sesuatu yang tidak dapat diketahui tidak dapat menjadi petunjuk.
+
+Ketujuh, firman Allah Ta'ala, *"(Itulah) hikmah yang sempurna,"* dan firman-Nya, *"penyembuh bagi apa yang terdapat dalam dada, dan petunjuk serta rahmat bagi orang-orang mukmin."* Semua sifat ini tidak terwujud pada sesuatu yang tidak dapat diketahui.
+
+Kedelapan, firman Allah Ta'ala, *"Sungguh, telah datang kepadamu cahaya dari Allah dan Kitab yang menjelaskan."*⁹ Ia tidak dapat menjelaskan kecuali bila dapat diketahui.
+
+Kesembilan, firman Allah Ta'ala, *"Apakah tidak cukup bagi mereka bahwa Kami telah menurunkan kepadamu Kitab yang dibacakan kepada mereka? Sesungguhnya dalam (Al-Qur'an) itu terdapat rahmat dan pelajaran."*¹⁰ Bagaimana Kitab itu mencukupi dan bagaimana ia menjadi pelajaran, padahal ia tidak dapat dipahami?
+
+Kesepuluh, firman Allah Ta'ala, *"(Al-Qur'an) ini adalah penjelasan (yang sempurna) bagi manusia agar mereka diberi peringatan dengannya."*¹¹ Bagaimana ia menjadi penyampaian dan bagaimana peringatan terjadi dengannya, padahal ia tidak dapat diketahui? Di akhir ayat Dia berfirman, *"dan agar orang yang berakal mengambil pelajaran,"*¹² dan itu hanya terjadi seandainya ia dapat diketahui.
+
+Kesebelas, firman Allah Ta'ala, *"sungguh telah sampai kepadamu bukti kebenaran (burhān) dari Tuhanmu, dan telah Kami turunkan kepadamu cahaya yang terang benderang."*¹³ Bagaimana ia menjadi burhan dan cahaya yang terang, padahal ia tidak dapat diketahui?
+
+Kedua belas, firman Allah Ta'ala, *"siapa yang mengikuti petunjuk-Ku, dia tidak akan sesat dan tidak akan celaka,"*¹⁴ *"Siapa yang berpaling dari peringatan-Ku, sesungguhnya baginya penghidupan yang sempit."*¹⁵ Bagaimana mungkin ia diikuti pada satu waktu dan dijauhi pada waktu lain, padahal ia tidak dapat diketahui?
+
+Ketiga belas, firman Allah Ta'ala, *"Sesungguhnya Al-Qur'an ini memberi petunjuk ke (jalan) yang paling lurus."*¹⁶ Bagaimana ia menjadi pemberi petunjuk, padahal ia tidak dapat diketahui oleh manusia?
+
+Keempat belas, firman Allah 'Azza wa Jalla, *"Rasul (Muhammad) beriman pada apa yang diturunkan kepadanya dari Tuhannya,"*¹⁷ sampai firman-Nya, *"Kami dengar dan kami taat."*¹⁸ Ketaatan tidak mungkin kecuali setelah mengetahui; maka Al-Qur'an wajib dapat dipahami.
+
+Adapun hadis-hadisnya, sabda beliau shallallahu 'alaihi wasallam, *"Sesungguhnya aku tinggalkan di tengah kalian sesuatu yang jika kalian berpegang padanya kalian tidak akan tersesat: Kitab Allah, sunahku, dan keluargaku."*¹⁹ Bagaimana mungkin berpegang padanya, padahal ia tidak dapat diketahui? Dan dari Ali radhiyallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Hendaklah kalian berpegang pada Kitab Allah. Di dalamnya ada berita tentang orang-orang sebelum kalian, kabar tentang apa yang sesudah kalian, dan hukum tentang apa yang ada di antara kalian. Ia adalah pemisah (antara yang hak dan yang batil), bukan senda gurau. Siapa pun yang sewenang-wenang meninggalkannya, Allah akan mematahkannya; dan siapa yang mencari petunjuk pada selainnya, Allah akan menyesatkannya. Ia adalah tali Allah yang kukuh, peringatan yang penuh hikmah, dan jalan yang lurus. Ialah yang tidak dibelokkan oleh hawa nafsu, para ulama tidak pernah kenyang darinya, tidak menjadi usang karena banyak diulang, dan keajaiban-keajaibannya tidak pernah habis. Siapa yang berkata dengannya, ia benar; siapa yang memutuskan dengannya, ia adil; siapa yang berhujah dengannya, ia menang; dan siapa yang mengajak kepadanya, ia diberi petunjuk ke jalan yang lurus."*²⁰
+
+Adapun dalil rasional, dari beberapa segi.
+
+Pertama, seandainya dalam Al-Qur'an terdapat sesuatu yang tidak ada jalan bagi kita untuk mengetahuinya, niscaya seruan itu seperti menyeru orang Arab dengan bahasa Zanji, dan itu tidak boleh.
+
+Kedua, tujuan perkataan adalah memberi pemahaman. Seandainya ia tidak dapat dipahami, niscaya ia sia-sia.
+
+Ketiga, tantangan (*taḥaddī*) terjadi dengan Al-Qur'an, dan sesuatu yang tidak dapat diketahui tidak boleh dijadikan tantangan.
+
+Inilah keseluruhan perkataan para mutakalim. Hanya kepada Allah kita memohon taufik.
+
+Para penentang mereka berhujah dengan ayat, hadis, dan dalil rasional. Adapun ayat, dari dua segi.
+
+Pertama, firman Allah Ta'ala tentang sifat ayat-ayat mutasyabih, *"padahal tidak ada yang mengetahui takwilnya kecuali Allah."*²¹ Berhenti (*waqf*) di sini wajib, dan dalilnya akan datang, insyaallah.
+
+Kedua, huruf-huruf terpotong (*al-ḥurūf al-muqaṭṭaʿa*) yang disebut di awal surah-surah.
+
+Adapun hadis, sabda beliau shallallahu 'alaihi wasallam, *"Sesungguhnya di antara ilmu ada yang seperti sesuatu yang tersimpan rapat, yang tidak diketahui kecuali oleh orang-orang yang mengenal Allah. Apabila mereka mengucapkannya, orang-orang yang lengah terhadap Allah mengingkarinya."*²²
+
+Adapun dalil rasional: perbuatan-perbuatan yang dibebankan kepada kita ada dua macam. Di antaranya ada yang kita ketahui segi hikmahnya secara garis besar dengan akal kita, seperti salat, zakat, dan puasa: salat adalah kerendahan hati dan permohonan kepada Sang Pencipta, zakat adalah berbuat baik kepada orang-orang yang membutuhkan, dan puasa adalah menundukkan nafsu. Di antaranya pula ada yang tidak kita ketahui segi hikmahnya, seperti amalan-amalan haji; sebab kita tidak mengetahui segi hikmah melempar jumrah dan sai antara Shafa dan Marwah. Kemudian para peneliti sepakat bahwa sebagaimana baik bagi Yang Mahabijaksana Ta'ala memerintahkan hamba-hamba-Nya dengan jenis pertama, baik pula (memerintahkan) jenis kedua. Sebab, ketaatan dalam jenis pertama tidak menunjukkan kesempurnaan kepatuhan, karena boleh jadi yang diperintah melakukannya semata-mata karena ia mengetahui dengan akalnya segi kemaslahatan di dalamnya. Adapun ketaatan dalam jenis kedua menunjukkan kesempurnaan kepatuhan dan puncak penyerahan diri; sebab, karena ia sama sekali tidak mengetahui segi kemaslahatan di dalamnya, pelaksanaannya tidak lain karena kepatuhan dan penyerahan diri semata. Jika demikian halnya dalam perbuatan, mengapa tidak boleh demikian pula dalam perkataan? Yakni, apa yang Allah turunkan kepada kita dan Dia perintahkan kita untuk memuliakan dan membacanya terbagi menjadi dua: sebagiannya kita ketahui maknanya meskipun kita tidak meliputi seluruh kandungannya, dan sebagiannya sama sekali tidak kita ketahui maknanya; dan tujuan penurunannya serta pembebanan untuk membaca dan memuliakannya adalah tampaknya kesempurnaan penghambaan dan kepatuhan kepada perintah-perintah Allah Ta'ala.
+
+Bahkan di sini ada faedah lain, yaitu bahwa manusia, apabila telah memahami suatu makna dan meliputinya, berkuranglah pengaruhnya di dalam hati; sedangkan apabila ia tidak memahami maksudnya, seraya yakin bahwa yang mengucapkan perkataan itu adalah Hakim yang paling bijaksana, hatinya akan senantiasa berpaling kepadanya dan senantiasa memikirkannya. Inti pembebanan (*taklīf*) adalah sibuknya batin dengan mengingat Allah Ta'ala dan memikirkan kalam-Nya. Maka tidaklah janggal dikatakan bahwa dalam keadaan hamba yang senantiasa berpaling pikirannya dan sibuk hatinya dengan hal itu terdapat kemaslahatan yang besar baginya, sehingga Allah Ta'ala membebani hamba dengan hal itu demi mewujudkan kemaslahatan ini.
+
+Inilah yang ada padaku dari perkataan kedua golongan dalam bab ini. Hanya kepada Allah kita memohon taufik.
+
+¹ CT: QS Muhammad [47]: 24.
+
+² CT: QS an-Nisa' [4]: 82.
+
+³ CT: QS asy-Syu'ara' [26]: 192.
+
+⁴ CT: QS asy-Syu'ara' [26]: 193-195.
+
+⁵ CT: QS an-Nisa' [4]: 83.
+
+⁶ CT: QS an-Nahl [16]: 89.
+
+⁷ CT: QS al-An'am [6]: 38.
+
+⁸ CT: QS al-Baqarah [2]: 2.
+
+⁹ CT: QS al-Ma'idah [5]: 15.
+
+¹⁰ CT: QS al-'Ankabut [29]: 51.
+
+¹¹ CT: QS Ibrahim [14]: 52.
+
+¹² CT: QS Ibrahim [14]: 52.
+
+¹³ CT: QS an-Nisa' [4]: 174.
+
+¹⁴ CT: QS Taha [20]: 123.
+
+¹⁵ CT: QS Taha [20]: 124.
+
+¹⁶ CT: QS al-Isra' [17]: 9.
+
+¹⁷ CT: QS al-Baqarah [2]: 285.
+
+¹⁸ CT: QS al-Baqarah [2]: 285.
+
+¹⁹ CT: Abu Dawud, *al-Manasik*, 56; Ibnu Majah, *al-Manasik*, 84; *al-Muwaththa'*, *al-Qadar*, 3.
+
+²⁰ CT: ad-Darimi, II/526.
+
+²¹ CT: QS Ali 'Imran [3]: 7.
+
+²² CT: ad-Dailami, *al-Firdaus*, I/210.
+
+### Pasal Kedua: Tentang Penyifatan Al-Qur'an sebagai Muhkam dan Mutasyabih
+
+*(Tr. h. 208)*
+
+Ketahuilah, Kitab Allah Ta'ala menunjukkan bahwa ia seluruhnya muhkam, menunjukkan bahwa ia seluruhnya mutasyabih, dan menunjukkan bahwa sebagiannya muhkam dan sebagiannya mutasyabih.
+
+Adapun yang menunjukkan bahwa ia seluruhnya muhkam adalah firman Allah Ta'ala, *"Alif Lam Ra. (Inilah) Kitab yang ayat-ayatnya disusun dengan rapi (uḥkimat),"*²³ dan *"Alif Lam Ra. Inilah ayat-ayat Kitab (Al-Qur'an) yang penuh hikmah (al-ḥakīm)."*²⁴ Dalam kedua ayat ini disebutkan bahwa seluruhnya muhkam. Yang dimaksud dengan *iḥkām* dalam makna ini adalah bahwa ia benar dalam lafaz-lafaznya dan benar dalam makna-maknanya, dan bahwa Al-Qur'an lebih utama daripada setiap perkataan selainnya dalam lafaz dan maknanya, dan tidak seorang pun dari makhluk mampu mendatangkan perkataan yang setara dengan Al-Qur'an dalam lafaz dan maknanya. Orang Arab menyebut bangunan yang kukuh dan perjanjian yang kukuh, yang tidak mungkin dibatalkan, sebagai *muḥkam*. Inilah makna penyifatan seluruh Al-Qur'an sebagai muhkam.
+
+Adapun yang menunjukkan bahwa ia seluruhnya mutasyabih adalah firman Allah Ta'ala, *"Kitab (Al-Qur'an) yang (ayat-ayatnya) serupa (mutashābih),"*²⁵ maknanya: sebagiannya serupa dengan sebagian yang lain dalam keindahan dan kefasihan, dan sebagiannya membenarkan sebagian yang lain. Kepada makna itulah isyarat firman Allah Ta'ala, *"Seandainya (Al-Qur'an) itu tidak datang dari sisi Allah, tentulah mereka menemukan banyak pertentangan di dalamnya,"*²⁶ yakni niscaya sebagiannya bertentangan dengan yang lain dan susunan perkataannya berbeda-beda dalam kekuatan dan kefasihan.
+
+Adapun yang menunjukkan bahwa sebagiannya muhkam dan sebagiannya mutasyabih adalah firman Allah Ta'ala, *"Dialah yang menurunkan Kitab (Al-Qur'an) kepadamu. Di antara ayat-ayatnya ada yang muhkamat, itulah pokok-pokok isi Kitab, dan yang lain mutasyabihat."*²⁷
+
+Kita mesti menafsirkan muhkam dan mutasyabih menurut asal bahasa, kemudian (menurut) orang yang menafsirkannya dalam kebiasaan syariat.
+
+Adapun *muḥkam* dalam bahasa: orang Arab berkata *ḥakamtu*, *aḥkamtu*, dan *ḥakkamtu* dengan makna "aku menolak dan mencegah". Hakim mencegah orang zalim dari kezaliman; *ḥakamat al-lijām* (kekang kendali) mencegah kuda dari berontak. Dalam hadis an-Nakha'i: "*Aḥkim* anak yatim sebagaimana engkau *aḥkim* anakmu," yakni cegahlah ia dari kerusakan. Dan ucapan "*Aḥkimū* orang-orang bodoh kalian," yakni cegahlah mereka. Bangunan *muḥkam* adalah bangunan kukuh yang mencegah siapa pun yang hendak merusaknya. Hikmah dinamai hikmah karena ia mencegah orang yang memilikinya dari hal-hal yang tidak patut.
+
+Adapun *mutashābih* adalah keadaan salah satu dari dua hal serupa dengan yang lain sedemikian rupa sehingga pikiran tidak mampu membedakannya. Allah Ta'ala berfirman, *"Sesungguhnya sapi itu masih samar (tashābaha) bagi kami,"*²⁸ dan berfirman, *"Hati mereka serupa."*²⁹ Dari situ ungkapan *ishtabaha al-amrān* (dua perkara itu tersamar) apabila keduanya tidak dapat dibedakan. Para tukang sulap disebut *aṣḥāb al-shubuhāt* (pembuat kesamaran). Beliau shallallahu 'alaihi wasallam bersabda, *"Yang halal itu jelas dan yang haram itu jelas, dan di antara keduanya ada perkara-perkara yang samar (mushtabihāt),"*³⁰ dan dalam riwayat lain *mutashābihāt*. Inilah penjelasan cermat tentang muhkam dan mutasyabih menurut ahli bahasa.
+
+Adapun dalam kebiasaan ulama, ketahuilah bahwa orang-orang telah banyak berbicara tentang tafsir muhkam dan mutasyabih, dan kitab-kitab para pendahulu kita memuatnya. Pendapatku tentangnya: lafaz yang diletakkan untuk suatu makna, adakalanya mengandung kemungkinan makna selain itu, adakalanya tidak. Jika ia diletakkan untuk suatu makna dan tidak mengandung kemungkinan makna lain, itulah nas (*naṣṣ*, نص). Jika ia mengandung kemungkinan makna lain, maka adakalanya kemungkinannya untuk salah satu dari keduanya lebih kuat daripada yang lain, adakalanya tidak, melainkan kemungkinannya untuk keduanya setara. Jika kemungkinannya untuk salah satunya lebih kuat, maka lafaz itu, dalam kaitannya dengan makna yang kuat, adalah *ẓāhir* (lahiriah), dan dalam kaitannya dengan makna yang lemah adalah *muʾawwal* (yang ditakwilkan). Adapun jika kemungkinannya untuk keduanya setara, lafaz itu, dalam kaitannya dengan keduanya sekaligus, adalah *mushtarak* (homonim), dan dalam kaitannya dengan masing-masing adalah *mujmal* (global). Maka dari pembagian ini keluarlah bahwa lafaz itu adakalanya nas, zahir, mujmal, atau muawwal.
+
+Nas dan zahir sama-sama memiliki keunggulan (penunjukan); hanya saja nas unggul dan mencegah kebalikannya, sedangkan zahir unggul tetapi tidak mencegah kebalikannya. Maka nas dan zahir sama-sama memiliki keunggulan, dan kadar inilah yang dinamai muhkam.
+
+Adapun mujmal dan muawwal, keduanya sama-sama memiliki penunjukan lafaz yang tidak unggul; hanya saja mujmal tidak memiliki keunggulan terhadap salah satu dari kedua sisi, sedangkan muawwal memiliki keunggulan terhadap sisi yang lain (dan tidak terhadap sisi yang dimaksud). Kesamaannya, yaitu tidak adanya keunggulan terhadap (makna yang dimaksud), itulah yang dinamai mutasyabih, karena di dalamnya terdapat ketidakpahaman.
+
+Kemudian ketahuilah bahwa lafaz, jika kaitannya dengan dua pengertian itu setara, di sini pikiran tertegun, seperti kata *qurʾ* dalam kaitannya dengan haid dan suci. Yang sulit dan musykil hanyalah bila lafaz, menurut peletakan asalnya, kuat pada salah satu dari dua pengertian dan lemah pada yang lain, kemudian yang kuat itu batil dan yang lemah itu benar. Contohnya dari Al-Qur'an adalah firman Allah Ta'ala, *"Jika Kami hendak membinasakan suatu negeri, Kami perintahkan orang-orang yang hidup mewah di negeri itu, lalu mereka melakukan kefasikan di dalamnya."*³¹ Makna lahiriah perkataan ini adalah bahwa mereka diperintahkan untuk berbuat fasik; sedangkan yang muhkam adalah firman Allah Ta'ala, *"Sesungguhnya Allah tidak menyuruh berbuat keji,"*³² sebagai bantahan terhadap orang-orang kafir dalam apa yang Dia kisahkan dari mereka, *"Apabila mereka melakukan perbuatan keji, mereka berkata, 'Kami mendapati nenek moyang kami melakukan yang demikian, dan Allah menyuruh kami mengerjakannya.'"*³³ Demikian pula firman Allah Ta'ala, *"Mereka telah melupakan Allah, maka Allah melupakan mereka."*³⁴ Makna lahiriah lupa adalah yang terjadi (setelah) adanya pengetahuan, sedangkan makna lemahnya adalah meninggalkan, (seperti firman-Nya,) "maka Dia menjadikan mereka lupa akan diri sendiri"; dan yang muhkam adalah firman Allah Ta'ala, *"Dan Tuhanmu tidak lupa,"*³⁵ dan firman-Nya, *"Tuhanku tidak akan salah dan tidak (pula) lupa."*³⁶ Inilah ringkasan pembahasan tentang tafsir muhkam dan mutasyabih. Hanya kepada Allah kita memohon taufik.
+
+²³ CT: QS Hud [11]: 1.
+
+²⁴ CT: QS Yunus [10]: 1.
+
+²⁵ CT: QS az-Zumar [39]: 23.
+
+²⁶ CT: QS an-Nisa' [4]: 82.
+
+²⁷ CT: QS Ali 'Imran [3]: 7.
+
+²⁸ CT: QS al-Baqarah [2]: 70.
+
+²⁹ CT: QS al-Baqarah [2]: 118.
+
+³⁰ CT: al-Bukhari, *al-Iman*, 39.
+
+³¹ CT: QS al-Isra' [17]: 16. (Edisi Turki tertulis 16/122.)
+
+³² CT: QS al-A'raf [7]: 28.
+
+³³ CT: QS al-A'raf [7]: 28.
+
+³⁴ CT: QS at-Taubah [9]: 67.
+
+³⁵ CT: QS Maryam [19]: 64. (Edisi Turki tertulis 19/5.)
+
+³⁶ CT: QS Taha [20]: 52.
+
+### Pasal Ketiga: Tentang Jalan untuk Mengetahui apakah Suatu Ayat Muhkam atau Mutasyabih
+
+*(Tr. h. 211)*
+
+Ketahuilah, ini persoalan besar. Sebab, setiap penganut mazhab mengklaim bahwa ayat-ayat yang sesuai dengan mazhab lawannya adalah mutasyabih. Seorang Muktazili berkata bahwa firman-Nya, *"Siapa yang menghendaki (beriman), hendaklah dia beriman, dan siapa yang menghendaki (kufur), biarlah dia kufur,"*³⁷ adalah muhkam, sedangkan firman-Nya, *"Kamu tidak mampu (menempuh jalan itu) kecuali apabila dikehendaki Allah,"*³⁸ adalah mutasyabih; sedangkan seorang Sunni membalik ketetapan itu. Contoh-contoh dalam bab ini banyak. Maka di sini mesti ada kaidah pokok yang menjadi rujukan dalam bab ini.
+
+Kami katakan: jika lafaz ayat atau hadis bermakna lahiriah pada suatu makna, kita hanya boleh meninggalkan makna lahiriah itu dengan dalil yang terpisah (*dalīl munfaṣil*); sebab jika tidak, perkataan itu keluar dari keadaannya sebagai sesuatu yang berfaedah, dan Al-Qur'an keluar dari keadaannya sebagai hujah. Kemudian dalil yang terpisah itu adakalanya bersifat lafzi, adakalanya rasional.
+
+Adapun yang pertama, kami katakan: ini hanya tuntas bila terjadi pertentangan antara dua dalil lafzi itu. Jika terjadi pertentangan di antara keduanya, meninggalkan salah satunya demi mempertahankan yang lain tidak lebih utama daripada sebaliknya; kecuali jika dikatakan bahwa salah satu dari kedua dalil itu pasti dan yang lain lahiriah, sehingga yang pasti lebih unggul daripada yang lahiriah; atau dikatakan bahwa keduanya sama-sama lahiriah, tetapi salah satunya lebih kuat. Namun kami katakan: yang pertama batil, sebab dalil-dalil lafzi tidak pernah pasti, karena ia bergantung pada penukilan bahasa, penukilan segi-segi nahwu dan saraf, serta pada tidak adanya homonimi, majaz, pengkhususan, penyisipan, dan tidak adanya penentang naqli maupun rasional. Masing-masing premis ini bersifat dugaan, dan apa yang bergantung pada yang bersifat dugaan lebih patut lagi bersifat dugaan. Maka tetaplah bahwa tidak satu pun dalil lafzi dapat bersifat pasti.
+
+Adapun yang kedua, yaitu dikatakan bahwa salah satu dari kedua makna lahiriah lebih kuat daripada yang lain, dengan pengandaian ini meninggalkan salah satu makna lahiriah demi menetapkan makna lahiriah yang lain menjadi premis dugaan, sedangkan dugaan-dugaan tidak boleh dijadikan sandaran dalam masalah-masalah rasional yang pasti.
+
+Maka tetaplah, dengan apa yang telah kami sebutkan, bahwa memalingkan lafaz dari makna lahiriahnya kepada maknanya yang lemah (*marjūḥ*) tidak boleh kecuali ketika tegak dalil yang pasti bahwa makna lahiriahnya mustahil dan terlarang. Apabila hal ini telah terwujud, ketika itu wajib bagi mukalaf memastikan bahwa yang dimaksud Allah Ta'ala dengan lafaz ini bukanlah apa yang diisyaratkan oleh makna lahiriahnya. Kemudian pada titik ini, siapa yang membolehkan takwil akan beralih kepadanya, dan siapa yang tidak membolehkannya akan menyerahkan pengetahuannya kepada Allah Ta'ala. Hanya kepada Allah kita memohon taufik.
+
+³⁷ CT: QS al-Kahf [18]: 29.
+
+³⁸ CT: QS al-Insan [76]: 30.
