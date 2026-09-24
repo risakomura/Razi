@@ -10,11 +10,33 @@
 
 | Butir | Keterangan |
 |---|---|
-| Tahap | Terjemahan penuh sedang berjalan |
+| Tahap | **Terjemahan penuh selesai** (seluruh teks Arab, Pembuka Kitab sampai penutup Bagian IV) |
 | Glosarium | Versi 1.0 (usulan v0.1 diberlakukan melalui instruksi "lanjut hingga tuntas kitab"); tambahan baru dicatat di 2.7 dan menunggu persetujuan eksplisit |
 | Sudah diterjemahkan | Seluruh kitab: Pembuka Kitab dan Bagian I sampai IV |
 | Kalimat terakhir | "Selesailah, dengan pujian kepada Allah Ta'ala, kitab *Asās al-Taqdīs*." |
 | Posisi berikutnya | Terjemahan tuntas. Tahap berikutnya: penyuntingan dan persetujuan tambahan glosarium (2.7) |
+
+---
+
+## Daftar Isi Terjemahan
+
+- **Pembuka Kitab** (Tr. h. 23)
+- **Bagian Pertama: Dalil-Dalil yang Menunjukkan bahwa Allah Ta'ala Mahasuci dari Kejisiman dan Ruang** (Tr. h. 27)
+  - Pasal 1: Tiga premis (adanya maujud nonspasial; tidak setiap maujud memiliki tara; pendapat kaum yang menjisimkan)
+  - Pasal 2: Dalil-dalil naqli (18 hujah)
+  - Pasal 3: Dalil-dalil rasional bahwa Allah tidak menempati ruang (6 burhan dan 3 syubhat)
+  - Pasal 4: Burhan-burhan bahwa Allah tidak terikat pada ruang dan arah (8 burhan)
+  - Pasal 5: Syubhat-syubhat rasional pihak lawan dan jawabannya
+  - Pasal 6: Penggunaan kata "jisim" oleh Karramiyah
+- **Bagian Kedua: Takwil Ayat-Ayat dan Hadis-Hadis Mutasyabih** (Tr. h. 101)
+  - Mukadimah; Pasal 1 sampai 28: rupa, sosok, diri, ash-Shamad, pertemuan, cahaya, hijab, kedekatan, datang dan turun, penampakan, keterbagian, ayat berhala, wajah, mata, embusan napas, tangan, genggaman, dua tangan, tangan kanan, telapak tangan, lengan, jari, lambung, betis, kaki, tertawa, gembira, malu
+  - Pasal 29: Dalil-dalil penetapan arah dan jawabannya
+  - Pasal 30: Hadis-hadis ahad
+  - Pasal 31: Kaidah umum ketika akal dan makna lahiriah naql berlawanan
+- **Bagian Ketiga: Penetapan Mazhab Salaf** (Tr. h. 203)
+  - Pasal 1 sampai 5: bolehkah ada yang tak diketahui dalam Al-Qur'an; muhkam dan mutasyabih; cara mengenalinya; penetapan mazhab Salaf; empat cabangnya
+- **Bagian Keempat: Sisa Pembahasan** (Tr. h. 223)
+  - Pasal 1 sampai 3: hikmah ayat-ayat mutasyabih; apakah Mujassim disebut Musyabbih; hukum orang yang menjisimkan Allah
 
 ---
 
@@ -171,6 +193,40 @@ Kolom pertama memuat padanan Turki yang dipakai Coşkun, sebagai pembanding. Tra
 | - | المعنى (dalam kalam) | al-maʿnā | **makna (maʿnā)** | Entitas sifat yang menjadi sebab suatu keadaan, bukan "arti". |
 | rubûbiyyet | الربوبية | al-rubūbiyya | **Ketuhanan** | |
 | - | كنه | kunh | **hakikat terdalam** | |
+| - | مماثل / متماثل | mumāthil / mutamāthil | **serupa** | Pasangan dari *mumāthala* (keserupaan). |
+| - | مخصص | mukhaṣṣiṣ | **pengkhusus** | |
+| - | مرجح | murajjiḥ | **penentu keunggulan** | |
+| müessir | مؤثر / تأثير | muʾaththir / taʾthīr | **pemberi pengaruh** / **pengaruh** | |
+| teşahhus | تشخص / شخص | tashakhkhuṣ / shakhṣ | **individuasi** / **individu** | |
+| cins / nev' / fasl | جنس / نوع / فصل | jins / nawʿ / faṣl | **genus** / **spesies** / **diferensia** | |
+| - | عوارض | ʿawāriḍ | **aksiden-aksiden yang datang kemudian** | |
+| ilhad | إلحاد | ilḥād | **ateisme** | |
+| - | تنزيه وتقديس | tanzīh wa-taqdīs | **penyucian dan pengkudusan** | Hanya bila keduanya berpasangan. |
+| - | مسامتة | musāmata | **perhadapan** | Keadaan dua garis saling berhadapan. |
+| - | مجمل | mujmal | **global** (lafaz yang belum terperinci) | |
+| - | حكم (dalam kalam) | ḥukm | **hukum** (keadaan yang berlaku pada zat) | |
+| - | جامع | jāmiʿ | **titik penghubung** (dalam analogi) | |
+| - | محايث / محايثة | muḥāyith / muḥāyatha | **berbagi tempat** | Seperti aksiden dengan substansinya. |
+| illet | علة / معلول / تعليل | ʿilla / maʿlūl / taʿlīl | **sebab** / **akibat** / **pemberian sebab** | |
+| izâfe | إضافة | iḍāfa | **relasi** | |
+| selbî / sübûtî / vücûdî | سلبي / ثبوتي / وجودي / عدمي | salbī / thubūtī / wujūdī / ʿadamī | **negatif** / **positif** / **eksistensial** / **bersifat ketiadaan** | |
+| mugalata | مغالطة | mughālaṭa | **sofisme** | |
+| devir | دور | dawr | **lingkaran (daur)** | |
+| - | اشتراك لفظي | ishtirāk lafẓī | **keserupaan lafaz** (homonimi) | |
+| - | النفوس الناطقة | al-nufūs al-nāṭiqa | **jiwa-jiwa rasional** | |
+| takiyye | تقية | taqiyya | **taqiah** | |
+| - | صورة | ṣūra | **rupa** | |
+| şahıs | شخص | shakhṣ | **sosok** | |
+| - | غيرة | ghayra | **kecemburuan** | |
+| - | مسخ | maskh | **perubahan rupa (maskh)** | |
+| - | كناية | kināya | **kinayah** | |
+| - | داعي / دواعي | dāʿī / dawāʿī | **dorongan** | Dalam pembahasan qada dan qadar. |
+| - | نص / مؤول / مشترك | naṣṣ / muʾawwal / mushtarak | **nas** / **muawwal (yang ditakwilkan)** / **homonim** | |
+| - | دليل منفصل | dalīl munfaṣil | **dalil terpisah** | |
+| - | قرينة | qarīna | **petunjuk (qarinah)** | |
+| - | تفويض | tafwīḍ | **penyerahan makna kepada Allah (tafwīḍ)** | Melengkapi entri 2.4. |
+| - | القانون الكلي | al-qānūn al-kullī | **kaidah umum** | |
+| - | ملحد / ملاحدة | mulḥid / malāḥida | **kaum mulhid** | |
 
 ---
 
@@ -180,7 +236,7 @@ Kolom pertama memuat padanan Turki yang dipakai Coşkun, sebagai pembanding. Tra
 |---|---|---|---|
 | 0.1 | 2026-09-24 | Usulan awal | Diganti v1.0 |
 | 1.0 | 2026-09-24 | v0.1 diberlakukan tanpa perubahan melalui instruksi "lanjut hingga tuntas kitab"; sampel gaya dilebur ke dalam terjemahan | Berlaku |
-| 1.0 + 2.7 | 2026-09-24 | Tambahan istilah dicatat di 2.7 | Menunggu persetujuan |
+| 1.0 + 2.7 | 2026-09-24 | Tambahan istilah selama penerjemahan dicatat di 2.7 (sekitar 50 entri) | Menunggu persetujuan |
 
 ---
 
