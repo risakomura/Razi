@@ -11,11 +11,11 @@
 
 | Butir | Keterangan |
 |---|---|
-| Tahap | Penerjemahan berjalan: Mukadimah |
-| Sudah diterjemahkan | Pembuka; Mukadimah Pasal 1 dan 2 |
-| Posisi berikutnya | Mukadimah, Pasal Ketiga (Tr. h. 19; berkas Turki baris 475; berkas Arab baris 9962) |
-| Nomor catatan terakhir | CT: t10 · CA: a33 · CP: p2 |
-| Catatan Kashshāf baru | istiqra, tasdiq, basira |
+| Tahap | Penerjemahan berjalan: Mukadimah selesai, masuk Kitab Pertama |
+| Sudah diterjemahkan | Pembuka; Mukadimah (Pasal 1 sampai 4) |
+| Posisi berikutnya | Kitab Pertama, Persiapan (Tr. h. 31; berkas Turki baris 548; berkas Arab baris 10056) |
+| Nomor catatan terakhir | CT: t6 · CA: a78 · CP: p4 |
+| Catatan Kashshāf baru | istiqra, tasdiq, basira, riyada, maad |
 
 ---
 
@@ -82,11 +82,12 @@ Kolom dan sumber padanan Inggris mengikuti Glosarium v2.0 *Asās al-Taqdīs*. Ta
 | تصور / تصديق | taṣawwur / taṣdīq | - / assent | **konsepsi** / **pembenaran** † | Pasangan dalam logika. Catatan Kashshāf pada *taṣdīq*. |
 | كسبي | kasbī | - | **perolehan** (pengetahuan hasil usaha) | Lawan *badīhī*. |
 | بصيرة | baṣīra | perspicacity, sagacity | **mata batin** † | |
-| رياضة / مجاهدة | riyāḍa / mujāhada | practice of piety, asceticism | **latihan rohani** / **perjuangan batin** | |
+| رياضة / مجاهدة | riyāḍa / mujāhada | practice of piety, asceticism | **latihan rohani** / **perjuangan batin** † | |
 | مكاشفة | mukāshafa | - | **penyingkapan** | |
 | المبدأ الأول | al-mabdaʾ al-awwal | - | **Prinsip Pertama** | |
-| المبدأ والمعاد | al-mabdaʾ wa-l-maʿād | hereafter, resurrection (*maʿād*) | **asal-mula dan tempat kembali** | |
+| المبدأ والمعاد | al-mabdaʾ wa-l-maʿād | hereafter, resurrection, afterworld (*maʿād*) | **asal-mula dan tempat kembali** † | Catatan Kashshāf pada *maʿād*. |
 | سعادة / شقاوة | saʿāda / shaqāwa | happiness | **kebahagiaan** / **kesengsaraan** | |
+| الحكماء الإلهيون | al-ḥukamāʾ al-ilāhiyyūn | - | **para filsuf ketuhanan** | |
 | مرجح | murajjiḥ | - | **penentu keunggulan** | Mengikuti Glosarium *Asās*. |
 | مؤثر | muʾaththir | - | **pemberi pengaruh** | Mengikuti Glosarium *Asās*. |
 
@@ -329,3 +330,193 @@ Karena derajat-derajat perantara antara Yang Awal dan Yang Akhir itu banyak dan 
 [^p2]: CP: Terjemahan Turki menambahkan "falak Atlas" dan "falak terjauh" (*felek-i aksâ*) sesudah Saturnus, yang tidak terdapat dalam teks Arab edisi al-Saqqā. Terjemahan Indonesia mengikuti teks Arab. Jahe (*zanjabīl*), salsabil, dan kapur barus (*kāfūr*) adalah nama-nama minuman surga dalam surah al-Insan yang di sini dikaitkan dengan planet-planet.
 
 Bila engkau telah mengetahui hal ini, tampaklah bahwa hanya sedikit ruh manusia yang memiliki kesiapan untuk menerima satu kilatan dari cahaya-cahaya alam keagungan. Ini adalah isyarat dan peringatan yang kami sebutkan pada pembukaan ilmu ini, agar orang mengetahui bahwa sedikit saja dari pembahasan pengetahuan-pengetahuan mulia ini sudah amat banyak bagi ruh-ruh manusia. Karena itu, dalam Kitab Ilahi Allah Yang Mahabenar berfirman, *"Dan sedikit sekali dari hamba-hamba-Ku yang bersyukur"* (Saba': 13), dan berfirman mengisahkan Iblis, *"dan Engkau tidak akan mendapati kebanyakan mereka bersyukur"* (al-A'raf: 17). Cukuplah uraian sekadar ini pada kesempatan ini, sebab ilmu ini adalah lautan yang tak bertepi.
+
+### Pasal Ketiga {.pasal-ke}
+
+### Apakah Jalan Menuju Pengetahuan-Pengetahuan Ilahi Itu Satu, ataukah Lebih dari Satu? {.judul-pasal}
+
+[Tr. h. 19]{.penanda}
+
+Ketahuilah, telah tersingkap bagi para pemilik mata batin bahwa jalan menuju pengetahuan-pengetahuan ini ada dua. Pertama, jalan para ahli penalaran dan pendalilan (*aṣḥāb al-naẓar wa-l-istidlāl*). Kedua, jalan para ahli latihan rohani dan perjuangan batin (*aṣḥāb al-riyāḍa wa-l-mujāhada*).[^k-riyada]
+
+[^k-riyada]: **Latihan rohani** (*riyāḍa*; Ing. *practice of piety, asceticism*). Menurut ahli bahasa, *riyāḍa* adalah mengganti keadaan yang tercela dengan keadaan yang terpuji. Sebagian filsuf berkata: *riyāḍa* adalah berpaling dari tujuan-tujuan syahwat. Ada pula yang mendefinisikannya dengan menjaga diri, berpuasa, menahan diri dari celaan, dan menjauh dari pergaulan dengan orang banyak. (*Kashshāf*, s.v. *al-riyāḍa*.)
+
+Jalan pertama, yaitu jalan penalaran dan pendalilan, adalah jalan para filsuf ketuhanan (*al-ḥukamāʾ al-ilāhiyyūn*). Jalan ini berdalil dengan keadaan[^a41] hal-hal yang mungkin untuk menetapkan maujud yang wajib ada karena zatnya.[^a42] Sebab:
+
+- (a) telah tetap bahwa maujud-maujud indrawi ini mungkin dan baharu;
+- (b) telah tetap bahwa yang mungkin membutuhkan penentu keunggulan (*murajjiḥ*);
+- (c) telah tetap bahwa yang baharu membutuhkan yang membaharukan (*muḥdith*);
+- (d) telah tetap bahwa regresi tak berhingga dan lingkaran (*dawr*) mustahil.
+
+Maka maujud-maujud ini pasti berujung pada maujud yang qadim, azali,[^a43] dan wajib ada karena zatnya.
+
+[^a41]: CA: Naskah S: "dengan hukum-hukum" (*bi-aḥkām*) sebagai ganti "dengan keadaan" (*bi-aḥwāl*).
+
+[^a42]: CA: Naskah S: "untuk menetapkan wujud yang wajib karena zatnya".
+
+[^a43]: CA: Kata "azali" ditambahkan dari naskah N.
+
+Syekh ar-Ra'is Abu Ali Ibnu Sina[^a44] dalam kitab *al-Ishārāt* menyebutkan bahwa di sini ada jalan lain yang mengantar kepada penetapan Yang Wajib Ada karena Zat-Nya, yaitu dengan merenungkan keadaan wujud sejauh ia wujud. Ia berkata, "Dalam jalan ini tidak diperlukan perenungan atas keadaan selain wujud. Sebab kami katakan: tidak diragukan bahwa dalam wujud ada suatu maujud. Maujud itu, jika wajib karena zatnya, itulah yang dituju; jika mungkin karena zatnya, ia pasti membutuhkan yang wajib karena zatnya. Maka tetaplah bahwa merenungkan keadaan maujud sejauh ia maujud memberi kesaksian atas adanya maujud yang wajib ada karena zatnya." Itulah perkataannya. Kemudian ia mengunggulkan jalan ini atas jalan[^a45] yang berdalil dengan kemungkinan selain-Nya atas wujud-Nya.
+
+[^a44]: CA: Nama "Abu Ali Ibnu Sina" ditambahkan dari naskah S (sebagian tidak terbaca).
+
+[^a45]: CA: Frasa "atas jalan" ditambahkan dari naskah N.
+
+Ketahuilah, pembahasan yang tuntas menunjukkan[^a46] bahwa perkataan ini tidak kuat.[^a47] Sebab, bila kita berkata, "Maujud itu adakalanya wajib karena zatnya, adakalanya mungkin karena zatnya", maka jika ia mungkin karena zatnya, mustahil wujudnya lebih unggul daripada ketiadaannya kecuali karena penentu keunggulan. Ini tidak lain adalah berdalil dengan wujud yang mungkin atas wujud yang wajib. Maka tetaplah bahwa tidak ada jalan untuk menetapkan Yang Wajib Ada kecuali melalui premis ini. Lagi pula, anggaplah jalan yang ia sebutkan memang menunjukkan adanya maujud yang wajib ada karena zatnya; namun masih tersisa[^a48] keraguan: apakah maujud yang wajib karena zatnya itu jisim-jisim ini ataukah selainnya? Selama burhan belum ditegakkan bahwa jisim-jisim ini mungkin karena zatnya, tidak dapat diputuskan bahwa dalam wujudnya ia membutuhkan[^a49] pemberi pengaruh dan penentu keunggulan.
+
+[^a46]: CA: Kata "menunjukkan" (*yadullu*) ditambahkan dari naskah N.
+
+[^a47]: CA: Naskah S: "tidak kuat bagi dalil itu" (sebagian tidak terbaca).
+
+[^a48]: CA: Kata "masih tersisa" (*yabqā*) ditambahkan dari naskah S.
+
+[^a49]: CA: Naskah S: *taḥtāju* (bentuk feminin dari "membutuhkan").
+
+Maka tetaplah dengan uraian kami bahwa pengetahuan tentang Yang Wajib Ada karena Zat-Nya hanya dapat diperoleh bila kita merenungkan keadaan wujud hal-hal indrawi ini. Bila kita telah menjelaskan bahwa hal-hal itu mungkin karena zatnya, lalu menjelaskan bahwa yang mungkin karena zatnya pasti membutuhkan penentu keunggulan, lalu menjelaskan bahwa regresi tak berhingga dan lingkaran itu batil, barulah kita dapat memastikan adanya maujud yang wajib ada karena zatnya. Inilah ringkasan pembahasan tentang berdalil dengan wujud selain Allah atas wujud Allah Ta'ala.
+
+Adapun jalan kedua, yaitu jalan para ahli latihan rohani, adalah jalan yang menakjubkan,[^a50] kokoh, dan perkasa. Sebab, bila manusia sibuk menyucikan kalbunya dari mengingat selain Allah, dan terus-menerus mengingat Allah dengan lisan jasad dan lisan ruhnya, jatuhlah ke dalam kalbunya cahaya, sinar, keadaan yang perkasa, dan daya yang luhur. Pada substansi jiwanya tersingkap cahaya-cahaya tinggi dan rahasia-rahasia ilahi. Semua itu adalah maqam-maqam yang tak mungkin diketahui secara rinci selama manusia belum sampai kepadanya. Namun aku akan mengingatkan beberapa maqam yang harus diketahui, agar peringatan ini[^a51] menjadi sebab untuk berhati-hati terhadap kekeliruan yang terjadi di dalamnya.
+
+[^a50]: CA: Naskah N: "jalan yang menakjubkan, lezat, kuat, dan perkasa". Catatan lain di tempat ini sebagian tidak terbaca.
+
+[^a51]: CA: Naskah Z: "agar persoalan ini" (*li-taṣīra tilka al-qaḍiyya*).
+
+**Maqam pertama** di antara maqam-maqam yang diperhitungkan dalam bab ini: telah tetap menurut kami bahwa jiwa-jiwa rasional manusia berbeda-beda dalam esensi dan substansinya. Sebagiannya bercahaya, ilahi, dan luhur; sebagian lainnya gelap, keruh, dan rendah. Kami telah menguraikan makna-makna ini secara mendalam dalam kitab *al-Nafs*.
+
+Bila hal ini telah tetap, kami katakan: di antara jiwa-jiwa itu ada yang pada asal substansi dan esensinya adalah jiwa ilahi yang condong kepada hadirat kesucian, amat mencintainya, dan tenggelam dalam derajat-derajat pengenalannya. Ada pula yang memperoleh sesuatu dari keadaan-keadaan ini, tetapi lemah. Dan ada jiwa-jiwa keruh dan gelap yang kosong dari tarikan-tarikan ilahi dan dorongan-dorongan rohani ini, tenggelam dalam lautan hawa nafsu[^a52] serta kegelapan alam indra dan khayal.
+
+[^a52]: CA: Kata "hawa nafsu" (*al-hawā*) dalam naskah S ditulis dengan bentuk lain (sebagian tidak terbaca).
+
+Untuk memperjelas makna-makna ini, aku buat satu perumpamaan. Gunung dan bukit di bumi ada dua macam: ada yang di dalamnya terbentuk sesuatu dari barang tambang, dan ada yang tidak. Induksi menunjukkan[^a53] bahwa gunung yang kosong dari barang tambang jauh lebih banyak daripada gunung yang di dalamnya terbentuk barang tambang. Selanjutnya kami katakan: di antara gunung yang di dalamnya terbentuk barang tambang, ada yang menghasilkan tambang rendah, seperti minyak bumi, belerang, kapur, dan garam, dan ada yang menghasilkan tambang mulia, seperti emas, perak, yakut, dan lal. Induksi menunjukkan bahwa gunung yang mengandung tambang mulia dan berharga ini jauh lebih sedikit daripada gunung yang mengandung tambang rendah. Kemudian kami katakan: bahkan di antara gunung-gunung yang mengandung tambang mulia ini, yaitu tujuh logam esensial (*al-ajsād al-sabʿa al-dhātiyya*),[^a54] kita lihat bahwa logam yang lebih rendah lebih banyak tambangnya, sedangkan logam yang lebih mulia lebih sedikit tambangnya. Sebab induksi menyaksikan bahwa tambang besi, tembaga, timah putih, dan timah hitam jauh lebih banyak daripada tambang emas dan perak.
+
+[^a53]: CA: Dalam naskah S, kalimat "Gunung dan bukit … Induksi menunjukkan" memiliki susunan yang didahulukan dan diakhirkan.
+
+[^a54]: CA: Frasa "yaitu tujuh logam esensial" ditambahkan dari naskah N. Catatan berikutnya: tambahan dari naskah S (sebagian tidak terbaca).
+
+Tambang emas dan perak[^a55] pun berbeda-beda. Ada gunung yang menuntut kerja keras dan berat untuk menghasilkan sedikit emas, dan ada yang tidak demikian, bahkan kerja yang sedikit dan ringan kadang mengantar kepada harta yang banyak. Di antara kedua ujung ini terdapat tingkatan-tingkatan pertengahan yang berbeda-beda dalam sedikit dan banyaknya. Kebaikan dan kesempurnaan terus bertambah, hingga bisa jadi perkaranya berujung pada sebuah gunung yang di dalamnya manusia menemukan gua penuh berisi emas dan perak.[^a56] Bila engkau telah mengetahui tingkatan-tingkatan ini, tampaklah bagimu bahwa gunung yang memuat gua semacam itu amat langka, dan sampai kepadanya serta meraihnya hanya terjadi secara kebetulan dalam kurun-kurun yang berjauhan.[^a57]
+
+[^a55]: CA: Kata "dan perak" ditambahkan dari naskah S.
+
+[^a56]: CA: Kata "dan perak" ditambahkan dari naskah N.
+
+[^a57]: CA: Kalimat "Bila engkau telah mengetahui … kurun-kurun yang berjauhan" ditambahkan dari salah satu naskah (siglumnya tidak terbaca).
+
+Bila engkau telah mengetahui hal ini, kami katakan: anggaplah ruh-ruh manusia seperti gunung dan bukit, dan cahaya pengenalan serta kecintaan kepada Allah seperti emas murni. Sebagaimana kebanyakan gunung dan bukit di dunia kosong dari barang tambang, demikian pula ruh kebanyakan makhluk kosong dari kecenderungan kepada alam rohani. Golongan ini, sekalipun berlebih-lebihan dalam latihan jasmani, hanya sedikit memperoleh manfaat darinya; sebagaimana gunung yang kosong dari tambang, andaikan manusia bersusah payah menggarapnya, ia sama sekali tidak akan menemukan apa pun di dalamnya.
+
+Adapun golongan kedua, yaitu ruh-ruh yang di dalamnya terdapat barang-barang tambang itu: sebagaimana gunung-gunung yang mengandung tambang emas dan perak berbeda-beda, sebagian menuntut kerja yang banyak untuk memperoleh manfaat yang sedikit, demikian pula golongan ruh ini; ada yang membutuhkan latihan rohani yang berat dan banyak untuk memperoleh sedikit dari penyingkapan-penyingkapan (*mukāshafāt*) ini, dan ada yang tidak demikian, bahkan amal yang sedikit mengantarnya meraih nikmat-nikmat yang besar. Sebagaimana tingkatan gunung-gunung yang mengandung barang tambang[^a58] berbeda-beda dalam sedikit dan banyaknya dengan perbedaan yang tak dapat dipastikan, demikian pula tingkatan derajat ruh-ruh berbeda dalam kuat dan lemahnya, sedikit dan banyaknya, dengan perbedaan yang tak dapat dipastikan. Dan sebagaimana tidak mustahil, meski jarang, ditemukan gunung yang memuat gua penuh emas,[^a59] demikian pula tidak mustahil ditemukan, dalam kurun-kurun yang berjauhan, seorang manusia yang gua ruhnya penuh dengan cahaya keagungan Allah.
+
+[^a58]: CA: Frasa "yang mengandung barang tambang" ditambahkan dari naskah N.
+
+[^a59]: CA: Naskah S: "emas murni" (*dhahaban ibrīzan*).
+
+Bila engkau memahami perumpamaan ini, engkau tahu bahwa tidak setiap orang yang menempuh latihan rohani, sekalipun dengan cara yang paling berat, pasti sampai kepada sesuatu. Dan tidak setiap orang yang sampai kepada sesuatu telah sampai ke puncak; bahkan puncak di jalan ini mustahil. Sebab, sebagaimana keagungan Allah dan ketinggian kebesaran-Nya tidak berujung, demikian pula martabat-martabat kebahagiaan dalam bab ini tidak berujung. Maka jadikanlah perumpamaan ini di pelupuk matamu dan tetap hadir dalam khayalmu, agar engkau tidak tertipu lalu mengira bahwa setiap orang yang menempuh jalan pasti sampai, dan setiap orang yang mencari pasti menemukan.
+
+Kami tidak mengingkari bahwa latihan-latihan itu membuahkan pengaruh dari sebagian segi, sebab orang yang tekun beramal tentu mendapat bekas dari sebagian segi. Namun jelas bahwa bercelak mata tidak sama dengan mata yang memang hitam sejak lahir.[^p3] Alangkah bagus ucapan sang bijak di antara para penyair, al-Mutanabbi:
+
+> Hati diminta untuk melupakan kalian,
+> namun tabiat menolak siapa pun yang hendak mengubahnya.[^t5]
+
+[^p3]: CP: Peribahasa Arab *laysa al-takaḥḥul fī al-ʿaynayn ka-l-kaḥal* membedakan mata yang diberi celak (*takaḥḥul*) dari mata yang hitam alami (*kaḥal*): yang diusahakan tidak sama dengan yang menjadi pembawaan.
+
+[^t5]: CT: Maksudnya: aku meminta hatiku untuk melupakanmu, tetapi engkau telah seperti tabiatku sendiri, dan tabiat tidak mungkin berpindah dari satu keadaan ke keadaan lain.
+
+Aristoteles berkata, "Barang siapa hendak memasuki[^a60] pencarian pengetahuan-pengetahuan ilahi ini, hendaklah ia menciptakan bagi dirinya fitrah yang lain." Maksudnya, manusia hendaknya bersungguh-sungguh menanggalkan akalnya dari keterkaitan dengan indra, daya waham,[^a61] dan daya khayal. Inilah yang dapat dikatakan tentang maqam ini.
+
+[^a60]: CA: Naskah S: "hendak memulai" (*al-shurūʿ*).
+
+[^a61]: CA: Kata "daya waham" ditambahkan dari naskah N.
+
+**Maqam kedua**: inti jalan ini adalah mengosongkan kalbu dari mengingat selain Allah. Sebab substansi jiwa, dengan tabiat asal dan naluri fitrinya, merindukan[^a62] hadirat keagungan Allah. Hanya saja, ketika ia terikat pada badan ini dan sibuk dengan kenikmatan jasmani serta kelezatan-kelezatan rendah, tenggelamnya di sisi ini menjadi[^a63] penghalang baginya untuk tertarik ke tanah air[^a64] asalnya dan pusat zatinya. Bila manusia bersungguh-sungguh menghilangkan hal-hal yang datang kemudian ini, substansi jiwa tetap bersama kelaziman-kelaziman aslinya, debu yang menghijab dan tabir yang menghalangi pun terangkat, dan ketika itu tampaklah padanya cahaya[^a65] keagungan Allah. Maka hendaklah manusia bersungguh-sungguh dalam hal ini sekurang-kurangnya sampai ia merasakan kelezatan mengetahui satu zarah dari cahaya ilmu itu. Sebab, bila kebahagiaan itu telah diperoleh, kelezatan menguat dan kegembiraan membesar, dan hal itu menjadi tarikan terbesar yang membawanya berpaling kepada Allah Yang Mahabenar dan menghadap kepada-Nya.
+
+[^a62]: CA: Naskah S: "sepadan dengan hadirat" (*munāsiba li-ḥaḍra*) sebagai ganti "merindukan" (*ʿāshiqa*).
+
+[^a63]: CA: Naskah S: *ṣāra* (menjadi) dengan bentuk berbeda.
+
+[^a64]: CA: Naskah S: *al-quṭr* (negeri) sebagai ganti *al-waṭan* (tanah air).
+
+[^a65]: CA: Naskah S: "sifat" (sebagian tidak terbaca) sebagai ganti "cahaya".
+
+**Maqam ketiga**: orang yang menempuh latihan rohani, bila kosong dari jalan penalaran dan pendalilan, bisa jadi pada derajat-derajat[^a66] latihannya tampak baginya penyingkapan-penyingkapan yang kuat dan keadaan-keadaan[^a67] yang luhur dan perkasa, lalu ia meyakini bahwa itulah keadaan penyingkapan yang terakhir dan derajat yang tertinggi. Hal itu pun menjadi penghalang baginya untuk sampai kepada tujuan. Adapun bila ia telah terlatih dalam jalan penalaran dan pendalilan, dan dapat membedakan maqam yang mustahil dicapai dari maqam yang tidak mustahil, ia akan aman dari kekeliruan ini. Dan bila seseorang telah sempurna dalam jalan pendalilan rasional, kemudian dikaruniai kesempurnaan dalam jalan penyucian dan latihan rohani, sedangkan jiwanya sejak awal fitrahnya memiliki kesiapan yang besar untuk keadaan-keadaan ini, maka orang itu dapat sampai ke puncak tertinggi dalam jenjang dan tangga pendakian ini.
+
+[^a66]: CA: Naskah S: "gerakan-gerakan" (*ḥarakāt*) sebagai ganti "derajat-derajat" (*darajāt*).
+
+[^a67]: CA: Kata "keadaan-keadaan" ditambahkan dari naskah S.
+
+Dinukil dari Aristoteles bahwa ia berkata, "Dahulu aku minum dan tak juga puas. Ketika aku minum dari lautan ini, aku puas dengan kepuasan yang tak akan pernah haus lagi sesudahnya." Keadaan-keadaan ini tak dapat diuraikan dengan kata-kata dan tak terjangkau oleh ucapan. Siapa yang tidak merasakan tidak akan mengenal, dan siapa yang tidak menyaksikan tidak akan membenarkan. Allah lebih mengetahui hal-hal yang gaib.
+
+### Pasal Keempat {.pasal-ke}
+
+### Penetapan Masalah-Masalah Pokok Ilmu Ini {.judul-pasal}
+
+[Tr. h. 24]{.penanda}
+
+Ketahuilah, manusia memiliki tiga keadaan: masa lalu, masa kini, dan masa depan.
+
+Tentang masa lalu, manusia ingin mengetahui bagaimana keadaan-keadaan yang dialaminya ini pada masa lalu. Hal itu hanya dapat diperoleh dengan mengenal Prinsip Pertama, mengenal sifat-sifat-Nya, dan mengetahui bagaimana keadaan-keadaan ini muncul dari-Nya. Inilah tiga hal yang harus diketahui lebih dahulu, dan pada jalan masing-masing terdapat simpul yang menakutkan.
+
+**Pengetahuan tentang zat**: bila kita memutuskan bahwa Zat-Nya sama dengan sesuatu dari hal-hal yang kita cerap dengan indra kita, yang kita dapati dalam jiwa kita, atau yang kita dapati dengan akal kita, niscaya Zat-Nya mungkin karena zatnya, dan itu mustahil. Bila kita memutuskan bahwa Zat yang khusus itu berbeda dari semua maujud yang kita pahami dan kita ketahui, akal tetap bingung dan terpana, tidak mendapat petunjuk kepada apa pun. Walhasil, bila akal menetapkan hakikat itu dengan cara yang dapat dicapai oleh pencerapannya, berarti ia sama sekali tidak mengenal-Nya, sebab segala yang demikian adalah mungkin ada, bukan wajib ada. Dan bila akal menetapkan-Nya sebagai berbeda dari seluruh hakikat ini, ia tak mampu mengenal-Nya sebagaimana Dia adanya. Bila ia tak mampu mengenal dan mengonsepsikan-Nya, bagaimana mungkin ia menyifati-Nya dengan sifat-sifat keagungan, kebesaran, dan kesucian? Inilah perhentian yang menggentarkan dalam pengetahuan tentang zat.
+
+**Pengetahuan tentang sifat**: di sini ada dua maqam yang amat menggentarkan.
+
+Maqam pertama: jika sifat-sifat itu berlainan dengan zat, hakikat Tuhan tersusun dari banyak esensi,[^a68] sedangkan setiap yang tersusun adalah mungkin; maka Yang Wajib karena Zat-Nya menjadi mungkin karena zatnya, dan itu mustahil. Jika sifat-sifat itu identik dengan zat, hal itu pun bermasalah dari dua segi. Pertama, esensi masing-masing sifat ini dapat diketahui tanpa memperhatikan hakikat zat yang khusus; seandainya zat[^a69] identik dengan sifat, niscaya hal itu mustahil. Kedua, setiap sifat memiliki esensi yang berlainan dengan esensi sifat yang lain; seandainya sifat-sifat itu identik dengan zat yang satu, niscaya sesuatu yang satu tidak lagi satu, melainkan esensi-esensi yang berbeda-beda, dan itu mustahil.
+
+[^a68]: CA: Naskah S: "maka hakikat Tuhan adalah makna-makna yang tersusun dari banyak esensi". Catatan-catatan berikutnya di halaman ini menandai tambahan dari naskah N (sebagian tidak terbaca).
+
+[^a69]: CA: Kata "zat" ditambahkan dari naskah N.
+
+Maqam kedua: ilmu Allah Ta'ala pasti meliputi hal-hal universal dan partikular yang tak berhingga, dan kuasa Allah Ta'ala pasti berlaku atas seluruh hal yang mungkin. Padahal satu sifat yang meliputi hal-hal tak berhingga secara terperinci, tanpa satu urusan menyibukkan-Nya dari urusan lain, adalah sesuatu yang tidak pernah kita dapati dalam jiwa dan akal kita. Karena itu, sulit bagi akal manusia untuk mengonsepsikan pencerapan makna-makna ini.
+
+**Pengetahuan tentang perbuatan**: di sini ada perhentian yang membuat akal kebingungan dan pemahaman tersesat, yaitu: bagaimana dapat dipahami[^a70] penyandaran pengaruh yang tertentu kepada pemberi pengaruh yang sama sekali tidak mengalami penentuan? Sebab, selama tidak terjadi pada-Nya suatu kehendak, perubahan waktu,[^a71] munculnya suatu maslahat, atau hilangnya suatu penghalang, mustahil Dia menjadi pelaku setelah sebelumnya tidak demikian. Para penganut kebaharuan alam harus membuka simpul ini. Adapun para penganut keqadiman alam mengira bahwa mereka telah lolos dari simpul ini, padahal tidak demikian. Sebab, tidak diragukan bahwa bentuk-bentuk dan aksiden-aksiden di alam ini baharu, bahwa keadaan-keadaan ini ada setelah tiada dan tiada setelah ada. Bila setiap yang baharu kita sandarkan kepada yang baharu lainnya tanpa berujung pada maujud yang qadim, itu mustahil. Dan bila ia pasti berujung dan bersandar pada akhirnya kepada maujud yang wajib ada karena zatnya dan suci dari segala segi perubahan, kesulitan itu pun kembali.
+
+[^a70]: CA: Frasa "bagaimana dapat dipahami" (*kayfa yuʿqal*) ditambahkan dari naskah S.
+
+[^a71]: CA: Frasa "perubahan waktu" ditambahkan dari naskah S.
+
+Ketahuilah, tujuan kami menyebutkan kesulitan-kesulitan ini di sini adalah untuk mengingatkannya. Adapun penjelasan[^a72] masing-masing secara tuntas dan sempurna akan datang di tempatnya dalam kitab ini, insya Allah Ta'ala. Inilah isyarat kepada pengetahuan tentang masa lalu.
+
+[^a72]: CA: Naskah S: "definisi" (*taʿrīf*) sebagai ganti "penjelasan" (*taqrīr*).
+
+Adapun kajian tentang keadaan masa kini: manusia perlu mengetahui keyakinan dan amal mana yang membawanya meraih kebahagiaan terbesar dan derajat tertinggi, dan keyakinan serta amal mana yang sebaliknya.
+
+Adapun kajian tentang masa depan: manusia perlu mengetahui bahwa ia memiliki tempat kembali (*maʿād*).[^k-maad] Tempat kembali itu mungkin hanya rohani, atau hanya jasmani,[^a73] atau keduanya sekaligus. Ia juga perlu mengetahui keadaan kebahagiaan dan kesengsaraannya di tempat kembali itu.
+
+[^k-maad]: **Tempat kembali** (*maʿād*; Ing. *hereafter, resurrection, afterworld*). Di kalangan ahli balagah, *maʿād* adalah nama salah satu gaya bait. Adapun menurut ahli kalam, *maʿād* disebut juga *ḥashr* (kebangkitan), dan terbagi dua: jasmani dan rohani. (*Kashshāf*, s.v. *al-maʿād*.)
+
+[^a73]: CA: Frasa "atau hanya jasmani" ditambahkan dari naskah S.
+
+Inilah pembatasan bab-bab ilmu ilahi. Dengan demikian tampaklah, melalui induksi, bahwa ilmu ini mencakup sepuluh bagian.
+
+**Bagian pertama**: penetapan dalil-dalil[^a74] yang menunjukkan adanya maujud yang wajib ada karena zatnya.
+
+[^a74]: CA: Kata "yang menunjukkan" ditambahkan dari salah satu naskah (sebagian tidak terbaca).
+
+**Bagian kedua**: pembahasan tentang sifat-sifat negatif-Nya, yaitu sifat-sifat keagungan (*jalāl*). Termasuk di dalamnya bahwa Dia Esa secara mutlak, suci[^a75] dari segala segi[^a76] kejamakan (dan inilah sifat-sifat negatif-Nya), dan konsekuensinya Dia suci dari lawan dan tandingan, serta suci dari kejisiman, ruang, dan tempat.
+
+[^a75]: CA: Naskah S: *munazzah* (suci) sebagai ganti *mubarraʾ* (terbebas). Catatan lain di sini: naskah S: *khālin* (kosong).
+
+[^a76]: CA: Naskah S: "dari" (*ʿan*) dengan susunan berbeda.
+
+**Bagian ketiga**: pembahasan tentang sifat-sifat kemuliaan (*ikrām*), yaitu ilmu, kuasa, kehendak, dan rahmat.
+
+**Bagian keempat**: pembahasan tentang perbuatan-perbuatan-Nya, yang terbagi menjadi beberapa bagian. Pertama, apakah Dia senantiasa menjadi pelaku dan pemberi limpahan? Kedua, pembahasan tentang cara perbuatan-perbuatan muncul dari-Nya; termasuk di dalamnya pemetaan mazhab-mazhab manusia, serta pemaparan dalil-dalil yang kurang memadai dan syubhat-syubhat yang menggugat dalam setiap mazhab. Ketiga, pembahasan tentang qada dan qadar.
+
+**Bagian kelima**: pembahasan tentang uraian firman-Nya dalam penciptaan alam atas dan alam bawah, sebatas kemampuan akal manusia, disertai peringatan bahwa sampai kepada hakikat terdalam bab ini termasuk hal yang tak dapat dicapai makhluk. Termasuk di dalamnya penjelasan apakah alam jasmani itu satu atau lebih.
+
+**Bagian keenam**: pembahasan tentang martabat ruh-ruh suci serta penjelasan derajat-derajat para malaikat rohani dan malaikat karubiyun dengan segala perbedaan derajat mereka.[^p4]
+
+[^p4]: CP: Terjemahan Turki berbunyi "derajat para malaikat dan empat malaikat besar". Terjemahan Indonesia mengikuti teks Arab: *al-malāʾika al-rūḥāniyyīn wa-l-karūbiyyīn* (malaikat rohani dan malaikat karubiyun).
+
+**Bagian ketujuh**: pembahasan tentang hakikat tempat dan waktu, beserta perincian pendapat-pendapat tentang keduanya.
+
+**Bagian kedelapan**: pembahasan tentang kenabian dan uraian hakikatnya, perbedaan mazhab-mazhab manusia tentangnya, serta pemaparan segi-segi yang menguatkan dan segi-segi yang menggugat dalam setiap mazhab.
+
+**Bagian kesembilan**: pembahasan[^a77] tentang cara memperoleh sifat-sifat utama yang menjadikan jiwa termasuk golongan orang-orang berbahagia lagi saleh, bukan golongan orang-orang sengsara lagi durhaka.
+
+[^a77]: CA: Kata "pembahasan" ditambahkan dari naskah N.
+
+**Bagian kesepuluh**: pembahasan tentang tempat kembali yang rohani dan jasmani, serta uraian sifat-sifat masing-masing dari kedua bagian itu.[^t6][^a78]
+
+[^t6]: CT: Susunan yang disebut ar-Razi pada pembukaan ini berbeda dari susunan kitab yang sampai kepada kita dalam edisi cetak. Ada tiga sebabnya. Pertama, naskah cetak tidak memuat sebagian bagian kitab. Kedua, pengarang wafat sebelum menulis dua bagian terakhir. Ketiga, naskah-naskah tulisan tangan memuat bagian-bagian kitab dengan urutan yang berbeda.
+
+[^a78]: CA: Ketahuilah, bagian kesembilan membahas ilmu akhlak, dan bagian kesepuluh membahas tempat kembali yang rohani dan jasmani. Pengarang telah berpulang ke rahmat Allah Ta'ala sebelum menulis tentang akhlak dan tentang tempat kembali.
+
+Di sinilah akhir uraian tentang pembagian ilmu ilahi. Kami memohon pertolongan dan taufik kepada Allah untuk sampai kepada tujuan-tujuan yang luhur dan maksud-maksud yang suci ini, sesuai dengan daya manusia dan kemampuan insani. Inilah akhir pembahasan tentang Mukadimah.
