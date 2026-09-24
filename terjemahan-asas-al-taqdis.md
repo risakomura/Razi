@@ -12,9 +12,9 @@
 |---|---|
 | Tahap | Terjemahan penuh sedang berjalan |
 | Glosarium | Versi 1.0 (usulan v0.1 diberlakukan melalui instruksi "lanjut hingga tuntas kitab"); tambahan baru dicatat di 2.7 dan menunggu persetujuan eksplisit |
-| Sudah diterjemahkan | Pembuka Kitab; Bagian I seluruhnya; Bagian II: Mukadimah, Pasal 1 sampai 21 |
-| Kalimat terakhir | "Padanannya firman Allah Ta'ala, "Sesungguhnya Allah, Dialah Pemberi rezeki, Pemilik kekuatan, lagi Sangat Kukuh."" |
-| Posisi berikutnya | Naskah Arab: *al-Faṣl al-Thānī wa-l-ʿIshrūn fī al-Iṣbaʿ* · Naskah Turki: *Yirmi İkinci Kısım*, h. 162 |
+| Sudah diterjemahkan | Pembuka Kitab; Bagian I seluruhnya; Bagian II: Mukadimah, Pasal 1 sampai 28 |
+| Kalimat terakhir | "Namun dari keadaan yang lain lebih baik tidak niscaya ia sendiri buruk. Allah lebih mengetahui." |
+| Posisi berikutnya | Naskah Arab: *al-Faṣl al-Tāsiʿ wa-l-ʿIshrūn fīmā yatamassakūna bihi fī ithbāt al-jiha* · Naskah Turki: *Yirmi Dokuzuncu Kısım*, h. 175 |
 
 ---
 
@@ -1763,3 +1763,173 @@ Di akhir sebuah hadis panjang disebutkan, *"Lengan Allah lebih kuat daripada len
 ¹⁹⁴ CT: Ahmad bin Hanbal, III/473.
 
 ¹⁹⁵ CT: QS adz-Dzariyat [51]: 58.
+
+### Pasal Kedua Puluh Dua: Tentang "Jari" (*Iṣbaʿ*)
+
+*(Tr. h. 162)*
+
+Lafaz ini tidak disebut dalam Al-Qur'an, tetapi disebut dalam hadis.
+
+**Hadis pertama**: al-Qusyairi, yakni Muslim bin al-Hajjaj, meriwayatkan dari Anas bin Malik radhiyallahu 'anhu, ia berkata: Nabi shallallahu 'alaihi wasallam sering berdoa, *"Wahai Yang membolak-balikkan hati, teguhkanlah hatiku di atas agama-Mu."* Mereka bertanya, "Wahai Rasulullah, bukankah telah dikabarkan kepadamu ampunan atas apa yang engkau lakukan? Apakah engkau masih takut?" Beliau bersabda, *"Hati-hati itu berada di antara dua jari dari jari-jari Allah Ta'ala; Dia membolak-balikkannya sekehendak-Nya."*¹⁹⁶
+
+**Hadis kedua**: diriwayatkan oleh penulis *Syarh as-Sunnah* dalam bab firman Allah Ta'ala, *"Kami memalingkan hati dan penglihatan mereka,"*¹⁹⁷ bahwa Nabi shallallahu 'alaihi wasallam bersabda, *"Tidak ada satu hati pun kecuali berada di antara dua jari dari jari-jari Tuhan semesta alam; apabila Dia menghendaki, Dia menjaganya, dan apabila Dia menghendaki, Dia mengubah kilaunya bila ia terperdaya."* Perawi berkata: maka beliau shallallahu 'alaihi wasallam biasa berdoa, *"Wahai Yang membolak-balikkan hati, teguhkanlah hatiku di atas agama-Mu. Dan timbangan berada di tangan ar-Rahman; Dia mengangkat suatu kaum dan merendahkan kaum yang lain hingga hari kiamat."*¹⁹⁸
+
+**Hadis ketiga**: diriwayatkan oleh Ibnu Khuzaimah dalam kitabnya, dari Alqamah, dari Abdullah bin Mas'ud radhiyallahu 'anhu, ia berkata, *"Seorang ahli kitab datang kepada Nabi shallallahu 'alaihi wasallam dan berkata, 'Wahai Abul Qasim, sudahkah sampai kepadamu bahwa Allah memikul seluruh makhluk di atas satu jari, langit dan bumi di atas satu jari, pepohonan di atas satu jari, dan tanah basah di atas satu jari?' Maka Nabi shallallahu 'alaihi wasallam tertawa hingga tampak gigi gerahamnya. Lalu Allah Ta'ala menurunkan, 'Mereka tidak mengagungkan Allah sebagaimana mestinya,'¹⁹⁹ sampai akhir ayat."*²⁰⁰ Kemudian Ibnu Khuzaimah menyebutkan hadis ini dengan riwayat lain dari Abdullah dengan sanad yang hasan, dan (dalam riwayat itu) disebutkan, *"Maka Nabi shallallahu 'alaihi wasallam tertawa karena heran dan membenarkannya."*
+
+Ketahuilah, yang dimaksud dengan jari bukan anggota jasmani. Hal itu ditunjukkan oleh beberapa segi.
+
+Pertama, niscaya Allah Ta'ala memiliki dua jari untuk setiap hati, atau niscaya Allah memiliki dua jari yang terbilang dan keduanya berada di dalam perut setiap manusia, sehingga satu jisim berada di banyak tempat. Semua itu dangkal dan batil.
+
+Kedua, niscaya kedua jari-Nya berada di dalam rongga kita, padahal menurut kaum Mujassimah Allah Ta'ala berada di atas Arasy;²⁰¹ dan itu pun mustahil.
+
+Ketiga, itu menuntut tidak sah bagi-Nya mengelola kecuali dengan jari-jari, dan itu adalah kelemahan dan kebutuhan, yang mustahil bagi Allah Ta'ala.
+
+Takwil yang benar tentangnya ialah bahwa sesuatu yang dipegang manusia dengan jari-jarinya menjadi objek kuasanya dan tempat pengelolaannya dengan mudah tanpa perlawanan sedikit pun. Karena jari-jari menjadi sebab bagi kemampuan dan kuasa ini, lafaz jari dijadikan kinayah bagi kuasa yang sempurna itu.
+
+Jika engkau telah mengetahui pendahuluan ini, kami katakan: adapun hadis pertama, di dalamnya terdapat rahasia yang halus. Sebab, yang mengelola badan adalah hati, dan hati tidak lepas dari berbuat dan meninggalkan. Berbuat bergantung pada adanya dorongan (*dāʿī*, داعي) untuk berbuat, dan meninggalkan bergantung pada adanya lawan dari dorongan itu; dan tidak ada jalan keluar dari kedua keadaan ini, sebab keluar dari kedua sisi kontradiksi itu mustahil. Kemudian, adanya dorongan untuk berbuat berasal dari Allah Ta'ala, tidak berasal dari hamba; sebab jika tidak, niscaya hamba, untuk menghasilkan dorongan itu, membutuhkan dorongan lain, sehingga terjadi regresi tak berhingga, dan itu mustahil. Maka tetaplah bahwa hati berada di antara kedua keadaan ini. Jika di dalamnya muncul sesuatu yang mendorongnya untuk berbuat, ia bertekad berbuat; dan jika tidak muncul, ia tetap meninggalkan. Maka terjadinya kedua keadaan ini, untuk berbuat dan meninggalkan, di dalam hati orang-orang mukmin laksana dua jari yang memberi pengaruh dalam membolak-balikkan sesuatu; dan terbolak-baliknya hati karena kedua dorongan ini menyerupai terbolak-baliknya sesuatu yang dipegang dengan dua jari dari satu keadaan ke keadaan lain. Sebagaimana manusia mengelola sesuatu yang dipegang dengan jari-jarinya melalui jari-jari itu, al-Haqq Subhanahu mengelola hati hamba-hamba-Nya melalui penciptaan dorongan-dorongan itu. Inilah rahasia teragung dan kaidah termulia dalam masalah qada dan qadar, dan Nabi shallallahu 'alaihi wasallam telah mengungkapkan rahasia yang halus ini dengan lafaz yang ringkas ini. Di antara yang menunjukkan bahwa maksudnya adalah apa yang kami sebutkan ialah apa yang kami riwayatkan dalam hadis bahwa beliau shallallahu 'alaihi wasallam sering berdoa, *"Teguhkanlah hatiku di atas agama-Mu."*
+
+Adapun hadis yang diriwayatkan Abdullah dari seorang Yahudi, pembahasannya dari dua segi.
+
+Segi pertama: perkataan ini bukan hujah. Mungkin Nabi shallallahu 'alaihi wasallam tertawa mendengar perkataan itu karena meremehkannya; sebab orang berakal, bila mendengar suatu perkataan, terkadang menertawakannya karena meremehkannya. Masih dapat dikatakan bahwa Abdullah menukil bahwa beliau shallallahu 'alaihi wasallam tertawa mendengar perkataannya sebagai pembenaran baginya. Namun kami katakan: ini berpegang pada dugaan semata, sehingga sama sekali bukan hujah. Kemudian, hal itu dilawan oleh riwayat dalam hadis bahwa beliau shallallahu 'alaihi wasallam ketika itu membaca firman Allah Ta'ala, *"Mereka tidak mengagungkan Allah sebagaimana mestinya,"*²⁰² dan ini mengisyaratkan bahwa beliau shallallahu 'alaihi wasallam mengingkari perkataannya.
+
+Segi kedua: jika hadis ini sahih, ia dibawa kepada makna bahwa Allah Ta'ala berkuasa mengelola jisim-jisim yang agung ini dengan kuasa yang tidak dapat ditolak oleh penolak dan tidak dapat dilawan oleh penghalang. Sebab, telah kami jelaskan bahwa sesuatu yang dipegang manusia dengan jarinya dapat ia kelola dengan cara yang paling sempurna. Maka jari di sini untuk memperkenalkan kesempurnaan kuasa Allah Ta'ala dan berlakunya pengelolaan-Nya atas jisim-jisim yang agung ini. Padanannya adalah ucapan orang ketika menyifati suatu perbuatan sebagai mudah dan ringan, "Pekerjaan ini berada di telapak tangannya, bahkan di ujung jarinya," dan yang dimaksud adalah apa yang telah kami sebutkan. Hanya kepada Allah kita memohon taufik.
+
+¹⁹⁶ CT: at-Tirmidzi, *al-Qadar*, 7, *ad-Da'awat*, 89, 124; Ibnu Majah, *ad-Du'a'*, 2; Ahmad bin Hanbal, IV/182, 418, VI/91, 251; al-Bukhari, *at-Tauhid*, 11; Ahmad bin Hanbal, IV/182.
+
+¹⁹⁷ CT: QS al-An'am [6]: 110.
+
+¹⁹⁸ CT: Ibnu Majah, *al-Muqaddimah*, 13(2).
+
+¹⁹⁹ CT: al-Bukhari, *at-Tauhid*, 19, 26, 36; *Tafsir as-Suwar*, 2, 39; Muslim, *Shifat al-Munafiqin*, 19, 21; at-Tirmidzi, *Tafsir as-Suwar*, 3, 39.
+
+²⁰⁰ CT: QS al-An'am [6]: 91.
+
+²⁰¹ CT: Para pendukung Mujassimah mendakwakan bahwa Allah Ta'ala berada di atas Arasy. Dakwaan ini batil. Sebab, seandainya Dia berada di atas Arasy, niscaya Dia jisim dan terbatas; jika demikian, niscaya Dia bagian dari alam; jika Dia bagian dari alam, niscaya Dia makhluk; dan jika Dia makhluk, tidak sah ketuhanan-Nya. Semua itu mustahil. Allah Ta'ala Mahatinggi dari hal itu setinggi-tingginya. Dia qadim dengan diri-Nya sendiri dan tidak membutuhkan apa pun. Dia mahasuci dari jisim, keterbatasan, dan keserupaan. (catatan penerjemah)
+
+²⁰² CT: QS az-Zumar [39]: 67.
+
+### Pasal Kedua Puluh Tiga: Tentang "Lambung" (*Janb*)
+
+*(Tr. h. 166)*
+
+Allah Ta'ala berfirman, *"Alangkah besar penyesalanku atas kelalaianku di sisi (janb) Allah."*²⁰³ Ketahuilah, yang dimaksud dengan *janb* di sini adalah wajah (arah tujuan). Sebab kebaikan majaz ini ialah bahwa sisi sesuatu dinamai *janb* karena sesuatu itu menjadi menjauhi (*mujānib*) yang lain. Maka orang yang melakukan suatu amal dengan ikhlas bagi Allah Ta'ala telah menjauhi, dalam amal itu, selain Allah; sehingga sah dikatakan bahwa amal itu berada "di sisi Allah". Metafora ini dikenal dan lazim dalam kebiasaan tutur. Hanya kepada Allah kita memohon taufik.
+
+²⁰³ CT: QS az-Zumar [39]: 56.
+
+### Pasal Kedua Puluh Empat: Tentang "Betis" (*Sāq*)
+
+*(Tr. h. 167)*
+
+Mereka berhujah dengan Al-Qur'an dan hadis tentang betis. Adapun Al-Qur'an, firman Allah Ta'ala, *"(Ingatlah) pada hari ketika betis disingkapkan dan mereka diseru untuk bersujud."*²⁰⁴ Adapun hadis, penulis *Syarh as-Sunnah* rahimahullah meriwayatkan tentang firman Allah Ta'ala, *"Sesungguhnya guncangan hari Kiamat itu adalah suatu (peristiwa) yang sangat besar,"*²⁰⁵ dari Abu Sa'id al-Khudri radhiyallahu 'anhu, bahwa ia berkata: aku mendengar Nabi shallallahu 'alaihi wasallam bersabda, *"Tuhan kita menyingkapkan betis-Nya, lalu bersujudlah kepada-Nya setiap mukmin laki-laki dan perempuan. Tinggallah orang yang dahulu di dunia bersujud karena riya dan ingin didengar; ia pergi hendak bersujud, tetapi punggungnya kembali menjadi satu lempeng."*²⁰⁶
+
+Ketahuilah, mereka tidak memiliki hujah dalam ayat dan hadis ini. Hal itu ditunjukkan oleh beberapa segi.
+
+Pertama, di dalam ayat tidak disebutkan bahwa Allah menyingkapkan betis-Nya. Dia hanya berfirman, *"betis disingkapkan,"* dengan bentuk pasif yang tidak disebut pelakunya.
+
+Kedua, menetapkan satu betis bagi makhluk hidup adalah kekurangan, dan Allah Mahatinggi dari hal itu.
+
+Ketiga, menyingkap betis hanya dilakukan untuk menjaga pakaian dari terkena kotoran sesuatu yang dihindari, dan Tuhan alam Mahaagung dari hal itu. Bahkan kami katakan: yang dimaksud dengan betis adalah dahsyatnya kengerian hari kiamat. Dikatakan, "Perang telah tegak di atas betisnya," yakni pada puncak kedahsyatannya. Maka firman-Nya, "betis disingkapkan," berarti kedahsyatan kiamat, kengerian-kengeriannya, dan ragam azabnya. Dia menyandarkannya kepada diri-Nya karena itu adalah kedahsyatan yang tidak dapat dilakukan kecuali oleh Allah Ta'ala.
+
+²⁰⁴ CT: QS al-Qalam [68]: 42.
+
+²⁰⁵ CT: QS al-Hajj [22]: 1.
+
+²⁰⁶ CT: al-Bukhari, *at-Tauhid*, 24, *Tafsir as-Suwar*, 2, 68; Muslim, *al-Iman*, 302; ad-Darimi, *ar-Riqaq*, 83; Ahmad bin Hanbal, III/17.
+
+### Pasal Kedua Puluh Lima: Tentang "Kaki" (*Rijl*) dan "Telapak Kaki" (*Qadam*)
+
+*(Tr. h. 168)*
+
+Adapun kaki, penulis *Syarh as-Sunnah* rahimahullah meriwayatkan di akhir kitabnya dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wasallam bersabda, *"Surga dan neraka berbantah-bantahan. Neraka berkata, 'Aku diistimewakan dengan orang-orang yang sombong dan sewenang-wenang.' Surga berkata, 'Mengapa yang memasukiku hanya orang-orang lemah dan rendahan dari kaum muslim?' Allah Ta'ala berfirman kepada surga, 'Engkau hanyalah rahmat-Ku; dengan engkau Aku merahmati siapa yang Kukehendaki dari hamba-hamba-Ku.' Dan Dia berfirman kepada neraka, 'Engkau hanyalah azab-Ku; dengan engkau Aku mengazab siapa yang Kukehendaki dari hamba-hamba-Ku. Masing-masing dari kalian berdua akan dipenuhi.' Adapun neraka, ia tidak akan penuh hingga Allah Ta'ala meletakkan kaki-Nya di dalamnya, lalu ia berkata, 'Cukup, cukup.' Ketika itu sebagiannya mengerut ke sebagian yang lain, dan Allah tidak menzalimi seorang pun dari makhluk-Nya. Adapun surga, Allah akan menciptakan makhluk (baru) untuknya."* Penulis *Syarh as-Sunnah* rahimahullah berkata: hadis ini disepakati kesahihannya, dikeluarkan oleh dua syekh.²⁰⁷
+
+Adapun telapak kaki, penulis kitab ini meriwayatkan dari Anas radhiyallahu ta'ala 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wasallam bersabda, *"Jahanam senantiasa berkata, 'Apakah masih ada tambahan?'²⁰⁸ hingga Tuhan Yang Mahaperkasa meletakkan telapak kaki-Nya di dalamnya, lalu ia berkata, 'Cukup, demi keperkasaan-Mu,' dan sebagiannya mengerut ke sebagian yang lain. Di surga senantiasa ada ruang lebih, hingga Allah Ta'ala menciptakan makhluk (baru) lalu menempatkan mereka di ruang lebih surga itu."*²⁰⁹ Penulis *Syarh as-Sunnah* berkata: hadis ini disepakati kesahihannya, dikeluarkan oleh dua syekh.ᵃ
+
+²⁰⁷ CT: al-Bukhari, *Tafsir as-Suwar*, 1, 50; Muslim, *al-Jannah*, 24-26; at-Tirmidzi, *al-Jannah*, 22; Ahmad bin Hanbal, II/314.
+
+²⁰⁸ CT: QS Qaf [50]: 30.
+
+²⁰⁹ CT: Muslim, *al-Jannah*, 38; Ahmad bin Hanbal, III/134, 141, 234.
+
+ᵃ CP: Dalam kedua naskah, pasal ini berakhir dengan periwayatan hadis tanpa takwil tersendiri; takwilnya dapat dirujuk pada kaidah umum yang dijelaskan dalam pasal-pasal sebelumnya.
+
+### Pasal Kedua Puluh Enam: Tentang "Tertawa" (*Ḍaḥik*)
+
+*(Tr. h. 169)*
+
+Sifat ini tidak terdapat dalam Al-Qur'an, tetapi terdapat dalam hadis. Penulis *Syarh as-Sunnah* rahimahullah meriwayatkan dalam bab orang yang terakhir keluar dari neraka, dari Ibnu Mas'ud radhiyallahu 'anhu, sebuah hadis panjang tentang sifat orang yang dikeluarkan Allah dari neraka dengan karunia-Nya. Beliau bersabda, *"Lalu ia mendengar suara-suara penghuni surga dan berkata, 'Wahai Tuhanku, masukkanlah aku ke dalamnya.' Allah berfirman, 'Wahai anak Adam, apakah engkau rela bila Aku memberimu dunia dan yang semisal dengannya?' Ia berkata, 'Wahai Tuhanku, apakah Engkau memperolok-olokku, padahal Engkau Tuhan semesta alam?'"* Ibnu Mas'ud tertawa lalu berkata, "Tidakkah kalian bertanya kepadaku mengapa aku tertawa?" Mereka bertanya, "Mengapa engkau tertawa?" Ia berkata, "Di sini Rasulullah shallallahu 'alaihi wasallam tertawa." Mereka bertanya, "Mengapa Rasulullah shallallahu 'alaihi wasallam tertawa?" Ia menjawab, *"Karena tawa Tuhan semesta alam. Lalu Allah berfirman, 'Sesungguhnya Aku tidak memperolok-olokmu, dan Aku Mahakuasa atas apa yang Kukehendaki.'"*²¹⁰
+
+Ia juga menyebutkan di awal bab ini sebuah hadis panjang dari Abu Hurairah radhiyallahu 'anhu, sampai pada sabdanya, *"Kemudian ia berkata, 'Wahai Tuhanku, masukkanlah aku ke surga.' Allah berfirman, 'Bukankah engkau telah mengaku tidak akan meminta kepada-Ku selain itu? Celakalah engkau, wahai anak Adam, alangkah ingkar janjinya engkau!' Ia berkata, 'Wahai Tuhanku, janganlah Engkau jadikan aku makhluk-Mu yang paling celaka.' Ia terus berdoa hingga Dia tertawa. Apabila Dia telah tertawa karenanya, Allah mengizinkannya masuk surga."*²¹¹
+
+Ketahuilah, tertawa dalam arti hakikinya mustahil bagi Allah Ta'ala. Hal itu ditunjukkan oleh beberapa segi.
+
+Pertama, firman Allah Ta'ala, *"dan sesungguhnya Dialah yang menjadikan orang tertawa dan menangis."* Maka jelaslah bahwa yang layak bagi-Nya adalah membuat tertawa dan membuat menangis; adapun tertawa dan menangis, keduanya tidak layak bagi-Nya.
+
+Kedua, tertawa adalah perubahan yang terjadi pada kulit wajah bersamaan dengan timbulnya kegembiraan di dalam hati, dan itu mustahil bagi Allah Ta'ala.
+
+Ketiga, seandainya tertawa boleh bagi-Nya, boleh pula menangis. Sebagian orang dungu memang menerimanya dan mengira bahwa Dia menangis atas kaum yang ditenggelamkan banjir Nuh 'alaihissalam. Ini kebodohan yang parah. Sebab, Allah Ta'ala-lah yang menciptakan banjir itu; jika Dia tidak menyukainya, mengapa Dia menciptakannya? Dan jika Dia tidak membencinya, mengapa (Dia menangis) mengingkarinya?
+
+Keempat, tertawa lahir dari keheranan, sedangkan keheranan adalah keadaan yang terjadi pada manusia ketika ia tidak mengetahui sebab; dan itu mustahil bagi Yang Maha Mengetahui yang gaib dan yang nyata.
+
+Jika ini telah tetap, kami katakan: segi takwilnya ada beberapa.
+
+Pertama, sebagaimana masdar baik disandarkan kepada objeknya, baik pula disandarkan kepada pelakunya. Maka ucapannya, "Aku tertawa karena tawa Tuhan," berarti: karena tawa yang terjadi pada diriku sebab Tuhan menciptakan tawa itu.
+
+Kedua, yang dimaksud adalah: seandainya Allah Ta'ala termasuk yang tertawa seperti para raja, perkataan ini tentu membuat-Nya tertawa.
+
+Ketiga, tertawa dibawa kepada makna terjadinya keridaan dan izin. Ini jenis metafora (*istiʿāra*, استعارة) yang masyhur.
+
+Adapun hadis Abu Hurairah radhiyallahu 'anhu, yaitu, "Hamba itu berkata, 'Janganlah Engkau jadikan aku makhluk-Mu yang paling celaka,' lalu Allah tertawa (*yaḍḥaku*) karenanya," boleh jadi telah terjadi kekeliruan dalam harakat, dan yang benar adalah *fa-yuḍḥiku Allāhu minhu*, yakni Allah membuat para malaikat tertawa karena perkataan itu. Yang menunjukkan bahwa apa yang kami sebutkan ini mungkin ialah bahwa Abu Hurairah dan Abu Sa'id al-Khudri radhiyallahu 'anhuma berselisih tentang kadar pemberian kepada orang itu. Abu Sa'id berkata, "Allah memberinya apa yang ia minta dan sepuluh kali lipatnya," sedangkan Abu Hurairah berkata, "Allah memberinya itu dan yang semisal dengannya bersamanya." Perselisihan keduanya dalam hadis ini disebutkan dalam semua kitab hadis. Karena bagian hadis ini tidak terjaga dengan cermat, boleh jadi pula harakat itu tidak terjaga dengan cermat. Hanya kepada Allah kita memohon taufik.
+
+²¹⁰ CT: Muslim, *al-Iman*, 310; Ahmad bin Hanbal, I/392, 411.
+
+²¹¹ CT: Ahmad bin Hanbal, II/276, 534.
+
+### Pasal Kedua Puluh Tujuh: Tentang "Gembira" (*Faraḥ*)
+
+*(Tr. h. 171)*
+
+Dari an-Nu'man bin Basyir radhiyallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda, *"Allah lebih gembira dengan tobat hamba-Nya daripada seorang hamba yang kehilangan hewan tunggangannya di tanah gersang pada hari yang sangat terik, sementara di atas tunggangan itu ada bekal makanan dan minumannya. Ketika tunggangannya hilang, ia yakin akan binasa; lalu ketika menemukannya, ia bergembira karenanya. Maka Allah lebih gembira dengan tobat hamba-Nya daripada hamba ini."*²¹² Beliau shallallahu 'alaihi wasallam juga bersabda, *"Tidaklah seseorang mendatangi masjid-masjid untuk salat dan zikir kecuali Allah Ta'ala menyambutnya dengan gembira, sebagaimana keluarga orang yang bepergian menyambut gembira orang mereka yang bepergian apabila ia datang kepada mereka."*²¹³
+
+Takwilnya: orang yang rida terhadap sesuatu bergembira dengannya, maka rida dinamai gembira. Inilah pembahasan tentang sambutan gembira (*bashāsha*).
+
+Termasuk dalam bab ini sabda beliau shallallahu 'alaihi wasallam, *"Tuhan kalian heran terhadap seorang pemuda yang tidak memiliki kecenderungan (kepada hawa nafsu)."* Dalam hadis lain, *"Tuhan kalian heran terhadap tiga golongan: kaum yang berbaris dalam salat, kaum yang salat (di tengah) memerangi kaum musyrik, dan seseorang yang bangun untuk salat di tengah malam."*²¹⁴ Dan beliau membaca, *"Bahkan Aku heran, sedangkan mereka memperolok-olok,"*²¹⁵ dengan harakat damah pada *tāʾ* (*ʿajibtu*). Hal itu menunjukkan tetapnya makna ini bagi Allah Ta'ala.
+
+Ketahuilah, takwilnya ialah bahwa keheranan adalah keadaan yang terjadi ketika sesuatu dianggap besar. Maka, apabila Allah Ta'ala membesarkan suatu perbuatan, baik dalam banyaknya pahala maupun banyaknya siksa, boleh dipakai lafaz keheranan untuknya. Hanya kepada Allah kita memohon taufik.
+
+²¹² CT: al-Bukhari, *ad-Da'awat*, 3; Muslim, *at-Taubah*, 1-8; at-Tirmidzi, *al-Qiyamah*, 49, *ad-Da'awat*, 98; Ibnu Majah, *az-Zuhd*, 30; ad-Darimi, *ar-Riqaq*, 19.
+
+²¹³ CT: Ibnu Majah, *al-Masajid*, 19; Ahmad bin Hanbal, II/307, 328, 340, 453.
+
+²¹⁴ CT: Ahmad bin Hanbal, IV/151.
+
+²¹⁵ CT: QS ash-Shaffat [37]: 12.
+
+### Pasal Kedua Puluh Delapan: Tentang "Malu" (*Ḥayāʾ*)
+
+*(Tr. h. 172)*
+
+Allah Ta'ala berfirman, *"Sesungguhnya Allah tidak malu membuat perumpamaan apa pun."*²¹⁶ Salman radhiyallahu 'anhu meriwayatkan dari Rasulullah shallallahu 'alaihi wasallam, *"Sesungguhnya Allah Mahapemalu lagi Mahamulia; Dia malu, apabila seorang hamba mengangkat kedua tangannya kepada-Nya, untuk mengembalikan keduanya dalam keadaan hampa, hingga Dia meletakkan kebaikan pada keduanya."*²¹⁷
+
+Ketahuilah, malu adalah perubahan dan kekalahan jiwa yang menimpa manusia karena takut akan sesuatu yang karenanya ia akan dicela dan dinista. Kata ini diturunkan dari *ḥayāt* (hidup). Dikatakan *ḥayiya al-rajulu*, sebagaimana dikatakan *nasiya* (sakit urat nasanya), *ḥashiya* (sakit perutnya), dan *shaẓiya al-farasu* (kuda itu sakit tulang keringnya), apabila anggota-anggota itu terkena sakit. Orang yang dihinggapi kekalahan jiwa dan perubahan itu dijadikan seakan-akan kekuatannya merosot dan hidupnya berkurang. Karena itu dikatakan, "Si Fulan binasa karena malu terhadap hal itu," "Aku melihat kebinasaan di wajahnya karena sangat malunya," dan "Ia meleleh karena malu."
+
+Jika ini telah tetap, kami katakan: sifat ini mesti ditakwilkan, dan dalam hal ini ada dua segi.
+
+Pertama, kaidah umum (*al-qānūn al-kullī*, القانون الكلي) dalam sifat-sifat semacam ini ialah bahwa setiap sifat yang tetap bagi hamba dan termasuk kekhususan jisim, apabila Allah Ta'ala disifati dengannya, dibawa kepada ujung akhir (*nihāyāt*) dari keadaan-keadaan itu, bukan kepada permulaan-permulaannya (*bidāyāt*). Contohnya: malu adalah keadaan yang terjadi pada manusia, dan ia memiliki permulaan dan akhir. Permulaannya adalah perubahan jasmani yang menimpa manusia karena takut dinisbahkan kepada perbuatan buruk; sedangkan akhirnya adalah bahwa manusia meninggalkan perbuatan itu. Maka, apabila malu disebut bagi Allah Ta'ala, yang dimaksud bukanlah keadaan awal yang merupakan permulaan dan pendahuluan malu itu, melainkan meninggalkan perbuatan, yang merupakan akhir dan tujuannya. Demikian pula marah: ia memiliki permulaan, yaitu mendidihnya darah hati dan hasrat untuk membalas, dan memiliki tujuan akhir, yaitu menimpakan hukuman kepada yang dimarahi. Maka, apabila kita menyifati Allah Ta'ala dengan marah, yang dimaksud bukanlah permulaan itu, yakni mendidihnya darah hati dan hasrat untuk membalas, melainkan akhirnya, yaitu penimpaan hukuman. Inilah kaidahnya.
+
+Kedua, apa yang tidak boleh bagi Allah dari jenis sifat-sifat ini, apakah boleh disebutkan dengan cara menafikannya dari Allah Ta'ala? Sebagian berkata: tidak boleh memakai lafaz-lafaz ini bahkan dengan cara menafikan; yang wajib dikatakan adalah bahwa Allah Ta'ala tidak disifati (dengannya). Adapun mengatakan secara mutlak "Dia tidak malu" itu mustahil (tidak dibenarkan), sebab memberi kesan penafian sesuatu yang boleh bagi-Nya. Adapun apa yang disebutkan Allah Ta'ala dalam Kitab-Nya, seperti firman-Nya, *"Dia tidak dilanda oleh kantuk dan tidak (pula) oleh tidur,"*²¹⁸ dan *"Dia tidak beranak dan tidak pula diperanakkan,"*²¹⁹ meskipun berbentuk penafian, hakikatnya tidak demikian; yang dimaksud adalah penafian sahnya penyifatan itu. Demikian pula firman-Nya, *"Tidak layak bagi Allah mempunyai anak,"*²²⁰ firman-Nya, *"Allah tidak mempunyai anak,"*²²¹ dan firman-Nya, *"Dia memberi makan dan tidak diberi makan."*²²² Tidak setiap yang dipakai secara mutlak dalam Al-Qur'an boleh dipakai secara mutlak dalam percakapan; yang benar, hal itu tidak boleh dipakai kecuali disertai penjelasan bahwa ia mustahil dan terlarang bagi Allah Ta'ala.
+
+Yang lain berkata: tidak mengapa memakai penafian ini secara mutlak, sebab sifat-sifat ini memang tertiadakan dari Allah Ta'ala, sehingga pemberitaan tentang ketiadaannya adalah benar, maka penafian itu wajib dibolehkan. Terkadang dikatakan bahwa pemberitaan tentang ketiadaannya menuntut sahnya pemakaian sifat itu bagi-Nya. Namun kami katakan: petunjuk ini tidak dapat diterima, sebab pemberitaan tentang ketiadaan sesuatu tidak mengandung petunjuk bahwa sesuatu itu boleh atau mustahil baginya. Bahkan, seandainya lafaz itu disertai sesuatu yang menunjukkan penafian kesahihannya juga, itu lebih baik, karena merupakan kesungguhan dalam menjelaskan dan menghilangkan kesan keliru. Namun dari keadaan yang lain lebih baik tidak niscaya ia sendiri buruk. Allah lebih mengetahui.
+
+²¹⁶ CT: QS al-Baqarah [2]: 26.
+
+²¹⁷ CT: Abu Dawud, *al-Witr*, 23; at-Tirmidzi, *ad-Da'awat*, 104; Ibnu Majah, *ad-Du'a'*, 13; Ahmad bin Hanbal, V/428, VI/314.
+
+²¹⁸ CT: QS al-Baqarah [2]: 255.
+
+²¹⁹ CT: QS al-Ikhlas [112]: 3.
+
+²²⁰ CT: QS Maryam [19]: 35. (Edisi Turki tertulis 19/91.)
+
+²²¹ CT: QS al-Mu'minun [23]: 91.
+
+²²² CT: QS al-An'am [6]: 14.
