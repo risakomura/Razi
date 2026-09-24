@@ -12,9 +12,9 @@
 | Butir | Keterangan |
 |---|---|
 | Tahap | Penerjemahan berjalan: Kitab Pertama, Bagian Pertama |
-| Sudah diterjemahkan | Basmalah dan Pembuka; Mukadimah Pasal 1 sampai 4; Kitab Pertama dan Kitab Kedua seluruhnya; Kitab Ketiga Bab Pertama sampai Ketiga, Bab Keempat Pasal 1 (sebagian) |
-| Posisi berikutnya | Kitab Ketiga, Bab Keempat, Pasal 1, Masalah kedua, lanjutan sanggahan atas dalil pengkhususan (berkas Turki baris 3991) |
-| Nomor catatan terakhir | CT: t10 · CA: a10 · CP: p10 |
+| Sudah diterjemahkan | Basmalah dan Pembuka; Mukadimah Pasal 1 sampai 4; Kitab Pertama dan Kitab Kedua seluruhnya; Kitab Ketiga Bab Pertama sampai Kedelapan, Bab Kesembilan Pasal 1 sampai 4 (sebagian) |
+| Posisi berikutnya | Kitab Ketiga, Bab Kesembilan, Pasal 4, dalil pihak yang menolak bahwa pengadaan lain daripada yang diadakan (berkas Turki baris 4224) |
+| Nomor catatan terakhir | CT: t10 · CA: a10 · CP: p11 |
 | Catatan Kashshāf baru | istiqra, tasdiq, basira, riyada, maad, iqnai, tali |
 
 ---
@@ -4862,3 +4862,385 @@ Bagian kedua pun batil, sebab pengetahuan tentang terjadinya (*wuqūʿ*) sesuatu
 Selain itu, bila pengaruh sifat ini dalam mengkhususkan sesuatu terjadi melalui jalan keniscayaan, pemberi pengaruh adalah yang meniscayakan karena zatnya; dan bila pengaruh ini terjadi melalui jalan sifat, itulah hasil yang hendak dicapai. Sebab sifat ini adalah sifat yang meniscayakan pengunggulan salah satu dari dua sisi yang mungkin atas yang lain, bukan melalui jalan keniscayaan dan bukan pula melalui jalan pengadaan, dan itulah hasil yang dituju. Inilah penjelasan terbaik tentang dalil ini.
 
 Seseorang dapat berkata: karena telah kami jelaskan bahwa pemberi pengaruh yang tidak memberi pengaruh melalui jalan peniscayaan atau pengadaan itu mustahil menurut akal, tidak ada faedahnya kembali kepada masalah ini; apa yang kami sebutkan adalah dalil yang pasti terhadap apa yang kalian sebutkan ini. Kemudian kami katakan: mengapa yang berpengaruh dalam pengkhususan ini bukan kuasa? Adapun perkataannya, "Nisbah kuasa kepada pengadaan sama pada seluruh waktu," mereka adakalanya berkata, "Kehendak layak untuk mengunggulkan perbuatan ini pada waktu ini sebagaimana layak pula untuk mengunggulkannya pada waktu lain," adakalanya berkata, "Sifat ini layak untuk mengkhususkan alam pada waktu ini, meskipun pertautannya dengan pengkhususan alam pada waktu lain mustahil." Bila yang pertama benar, kelayakan suatu sifat bagi banyak segi adakalanya membutuhkan penentu keunggulan, adakalanya tidak. Bila membutuhkan, kehendak pun harus membutuhkan penentu keunggulan lain; dan bila tidak membutuhkannya, kuasa pun harus tidak membutuhkan kehendak.
+
+Pada bagian kedua kami katakan: bila kehendak adalah sifat yang azali dan ketiadaannya mustahil, ia bertaut dengan penciptaan alam pada waktu tertentu. Bila munculnya alam pada waktu lain layak, Dia menjadi Tuhan yang wajib karena zat-Nya, bukan pelaku yang melakukan perbuatan-Nya melalui jalan keabsahan. Diketahui bahwa masalah ini adalah cabang dari masalah yang berkuasa lagi bebas memilih, dan setiap cabang yang meniscayakan rusaknya pokok adalah batil. Bila mungkin dikatakan, "Pertautan kehendak khusus ini dengan satu segi ini telah ditentukan," mengapa tidak mungkin dikatakan bahwa pertautan kuasa khusus ini dengan satu segi telah ditentukan? Dalam hal ini, kuasa tidak membutuhkan kehendak yang mengunggulkan. Inilah seluruh perdebatan tentang dalil ini.
+
+**Masalah ketiga**: orang-orang yang mengingkari sifat ini berdalil dari segi-segi berikut.
+
+**Dalil pertama**: bila kehendak sempurna dalam seluruh segi pemberian pengaruh, perbuatan menjadi wajib; bila tidak sempurna, perbuatan menjadi mustahil. Maka penetapan kehendak ini mustahil.
+
+**Dalil kedua**: dari kehendak kita hanya memahami kecenderungan untuk menarik manfaat atau menolak mudarat, dan ini mustahil bagi Allah Ta'ala. Kita sama sekali tidak dapat memikirkan bahwa kehendak memiliki makna lain. Maka mustahil dikatakan bahwa hal itu ada pada Allah.
+
+**Dalil ketiga**: bila kehendak terwujud, ia adakalanya qadim, adakalanya baharu. Karena kedua bagian itu batil, diketahui bahwa perkataan tentang penetapan kehendak pun batil.
+
+**Dalil keempat**: tuntutan pengunggulan ini adakalanya melalui jalan keniscayaan, adakalanya melalui jalan kemungkinan. Yang pertama batil; jika tidak, Dia harus menjadi yang meniscayakan karena zat-Nya (*mūjib bi-l-dhāt*). Yang kedua pun batil, sebab terwujudnya pengunggulan bersama kebolehan dan kesetaraan adalah mustahil. Inilah seluruh perkataan dalam masalah ini.
+
+Allah yang paling mengetahui kebenarannya.
+
+### Pasal Kedua {.pasal-ke}
+
+### Kelezatan dan Kepedihan {.judul-pasal}
+
+Telah engkau ketahui sebelumnya bahwa kelezatan adakalanya jasmani, adakalanya rohani. Kelezatan jasmani mustahil bagi Allah; karena telah terbukti bahwa Dia bukan jisim, mustahil pula Dia merasakan kelezatan jasmani. Adapun kelezatan rohani, para filsuf sepakat bahwa kelezatan ini ada pada yang wajib ada. Mereka berdalil tentang hal ini dengan mendakwakan adanya dua keadaan: pertama, Allah Ta'ala mencintai zat-Nya; kedua, Dia bergembira dengan kesempurnaan-kesempurnaan-Nya dan merasakan kelezatan darinya. Penjelasan yang pertama sebagai berikut: mengetahui bahwa sesuatu itu sempurna meniscayakan mencintainya. Dalilnya adalah kesinambungan pengalaman: ketika kita mendengar keberanian Rustam dan Isfandiyar, dalam hati kita terbentuk cinta dan kecondongan yang besar, dan tidak ada yang menjelaskan cinta ini selain keyakinan kita bahwa pada keduanya terdapat kesempurnaan-kesempurnaan.
+
+Bila hal ini telah terbukti, kami katakan: "Pengetahuan Allah Ta'ala adalah pengetahuan yang paling luhur, dan kesempurnaan-Nya adalah kesempurnaan yang paling luhur. Bila kesempurnaan yang karena zat-Nya paripurna ini diketahui dengan pengetahuan yang sempurna ini, cinta yang paripurna ini pasti melekat pada pengetahuan yang paripurna ini. Penjelasan yang kedua, yakni bahwa Dia rida dengan merasakan kelezatan dari kesempurnaan-kesempurnaan-Nya karena zat-Nya, adalah sebagai berikut: sebagaimana pengetahuan sesuatu tentang kesempurnaannya sendiri meniscayakan cinta yang besar kepadanya, ia meniscayakan pula kegembiraan dan kelezatan. Bila pengetahuan ini terwujud pada Allah Ta'ala, kegembiraan dan kelezatan ini pun niscaya terwujud."
+
+Bila hal ini dipahami, kami katakan bahwa dari prinsip pokok ini terbentuk dua prinsip cabang.
+
+Prinsip cabang pertama: nisbah kegembiraan dan kelezatan-Nya dengan kesempurnaan-kesempurnaan zat-Nya kepada kegembiraan salah seorang di antara kita dengan kesempurnaan-kesempurnaan zatnya sama seperti nisbah pengetahuan-Nya kepada pengetahuan kita dan nisbah kesempurnaan-kesempurnaan-Nya kepada kesempurnaan kita. Karena pengetahuan dan kesempurnaan-Nya tidak dapat dinisbahkan kepada pengetahuan dan kesempurnaan yang lain, kegembiraan-Nya dengan kesempurnaan-kesempurnaan zat-Nya pun tidak dapat dinisbahkan kepada yang lain yang bergembira dengan kesempurnaan-kesempurnaan zatnya.
+
+Prinsip cabang kedua: wujud-wujud terpisah, yang dalam bahasa syariat dinamakan malaikat dan dalam bahasa para filsuf dinamakan akal-akal dan jiwa-jiwa, adalah wujud-wujud yang bergembira dengan diri mereka dan merasakan kelezatan dari kesempurnaan-kesempurnaan mereka. Namun kegembiraan mereka ini sesuai dengan derajat kesempurnaan-kesempurnaan mereka. Karena Allah Yang Mahasuci adalah wujud yang paling sempurna, Dia pun pasti yang pertama dalam menjadi wujud yang paling luhur yang bergembira dengan zat-Nya.
+
+## Bab Kelima {.bab-ke}
+
+## Allah Ta'ala Maha Mendengar dan Maha Melihat {.judul-bab}
+
+Pembahasan ini pun terbagi menjadi tiga bagian.
+
+Pertama: penelitian tentang kuiditas pendengaran dan penglihatan.
+
+Kedua: penelitian tentang dalil-dalil yang menunjukkan penetapan sifat ini pada Allah Yang Mahasuci.
+
+Ketiga: penelitian tentang dalil-dalil orang yang mengingkari tetapnya sifat ini pada Allah.
+
+#### Penelitian tentang Kuiditas Pendengaran dan Penglihatan {.subpasal}
+
+**Pembahasan pertama**: ketika kita memandang rupa Zaid, pengetahuan kita tentangnya terbentuk dengan cara yang paling sempurna. Kemudian ketika kita memejamkan mata, meskipun kedua bentuk itu terjadi dalam kedua keadaan, kita memahami perbedaan yang jelas antara kedua keadaan itu. Dengan metode ini kita mengetahui bahwa penglihatan adalah keadaan yang merupakan tambahan atas pengetahuan. Orang-orang berselisih dalam hal ini. Sebagian berkata bahwa perbedaan ini berkaitan dengan terwujudnya bentuk dan rupa yang dilihat pada biji mata dan terpantulnya pada biji mata itu; perbedaan itu berkaitan dengan pengaruh bentuk ini pada biji mata. Untuk menetapkan pantulan ini mereka mengemukakan dalil-dalil berikut.
+
+Pertama: orang yang memandang bola matahari dengan saksama dan lama, lalu memejamkan matanya, menyadari bahwa matahari itu terpantul sepenuhnya dalam khayalnya; bahkan setelah memejamkan mata pun ia seakan-akan masih memandang dan melihat bola matahari. Meskipun manusia hendak menghilangkan khayal ini, ia tidak akan berhasil. Dengan demikian kita mengetahui bahwa bentuk yang dilihat terukir pada biji mata.
+
+Kedua: orang yang memandang taman hijau dalam waktu lama dan dengan perhatian penuh, lalu mengalihkan biji matanya kepada sesuatu yang berwarna putih, melihat sesuatu yang putih ini sebagai campuran putih dan hijau. Seandainya mata tidak terpengaruh oleh kehijauan, campuran ini tidak akan terjadi. Ketika biji mata, setelah menyesuaikan diri dengan kualitas warna hijau, memandang jisim putih, kehijauan yang terjadi pada biji mata bercampur dengan keputihan yang ada pada kain itu, sehingga yang dilihat seakan-akan warna campuran dari kedua warna itu.
+
+Ketiga: ketika kita memandang biji mata yang berhadapan dengan wajah seseorang, kita melihat bentuk wajah itu pada biji mata tersebut. Hal ini menunjukkan bahwa bentuk yang dilihat tergores dan terukir pada biji mata.
+
+Keempat: biji mata terpengaruh dan menjadi lemah karena kita memandang cahaya matahari pada titik puncaknya. Bila kita terus memandangnya, pada biji mata terjadi kelelahan dan kelemahan, dan ia menjadi tercerai-berai. Hal ini menunjukkan bahwa biji mata terpengaruh oleh bentuk yang dilihat.
+
+Bila hal ini dipahami, kami katakan: sebagian orang berkata bahwa perbedaan yang terbentuk dalam kedua keadaan itu berkaitan dengan terpengaruhnya biji mata oleh yang dilihat dalam keadaan memandang, dan bahwa keterpengaruhan ini tidak ada dalam keadaan kedua. Sebagian lain berkata bahwa keterpengaruhan ini terbentuk tanpa diperdebatkan, tetapi bersamaan dengan itu pencerapan dengan penglihatan karena zatnya berbeda dari pencerapan dengan pengetahuan. Segi-segi yang menunjukkan hal ini adalah sebagai berikut.
+
+Pertama: kita melihat separuh bola alam dengan mata, padahal diketahui bahwa mustahil separuh bola alam terpantul dalam mata, sebab sesuatu yang besar tidak terpantul dalam sesuatu yang kecil. Dengan demikian terbuktilah bahwa meskipun kita melihat bentuk separuh bola alam, bentuk separuh bola alam itu tidak terpantul dalam mata. Kemudian keadaan yang dinamakan penglihatan terbedakan dari keadaan yang dinamakan pengetahuan dengan pembedaan yang diketahui secara niscaya. Dengan demikian kita memahami bahwa perbedaan ini berkaitan dengan kedua pencerapan itu sendiri.
+
+Kedua: terpengaruhnya mata dan terpisahnya dari sesuatu tidak memiliki makna selain terjadinya suatu bentuk yang setara dengan bentuk yang dilihat, diterimanya bentuk ini setelah sebelumnya tidak ada, dan terjadinya suatu perwujudan yang dinamakan keterpengaruhan, penerimaan, dan konsepsi padahal sebelumnya tidak ada perwujudan. Keadaan ini bukan termasuk jenis penyingkapan dan penampakan, sedangkan penglihatan termasuk jenis penyingkapan dan penampakan. Maka penglihatan pasti berbeda dari pantulan dan keterpengaruhan ini.
+
+Ketiga: seandainya keadaan yang dinamakan melihat dan dilihat tidak lain adalah keterpengaruhan ini, niscaya dikatakan bahwa ketika keterpengaruhan ini terbentuk dengan cara yang paling baik, penglihatan ini pun terbentuk dengan cara yang paling baik. Padahal tidak demikian, sebab ketika kita memandang cahaya matahari, kita melihat bahwa ia menguatkan dan menyempurnakan keterpengaruhan itu, tetapi keadaan yang dinamakan melihat dan dilihat tidak menjadi lemah. Dengan demikian kita memahami bahwa keterpengaruhan dan pantulan berbeda dari melihat dan dilihat. Inilah perkataan tentang penjelasan makna penglihatan.
+
+Adapun tentang pendengaran, kami katakan: sebelum mendengar suara, kita mengetahui hakikat dan kuiditas suara. Ketika kita mendengar sesuatu dengan telinga, kita memahami perbedaan yang jelas antara kedua keadaan itu, yang saya maksud adalah keadaan mengetahui dan keadaan mendengar. Perbedaan ini diketahui secara gamblang.
+
+Sebagian orang berkata: "Perbedaan ini berkaitan dengan suara. Suara muncul ketika udara bergelombang; ketika gelombang itu sampai ke permukaan saluran pendengaran, ia membenturnya. Benturan ini, yakni gerakan yang keras, adalah yang membentuk perbedaan antara kedua keadaan itu." Dalil terbentuknya pengaruh ini adalah sebagai berikut: "Ketika suara menguat, muncul pengaruh yang keras pada telinga, bahkan karena itu kadang-kadang permukaan saluran itu robek. Ketika manusia mendengar suara terompet, ia mengira seakan-akan akan terjadi robekan dan pecahan di otaknya. Terbuktilah bahwa pada saat mendengar ini terjadi pengukiran dan keterpengaruhan." Karena itu ada yang berkata bahwa "perbedaan yang terbentuk dalam kedua keadaan itu berkaitan dengan hal ini."
+
+Sebagian orang berkata pula: perbedaan ini diterima dan tidak perlu diperdebatkan, tetapi kami mendakwakan bahwa ada perbedaan antara kedua jenis pencerapan ini; yang kami maksud dengan kedua jenis pencerapan ini adalah jenis yang dinamakan "pengetahuan" dan jenis yang dinamakan "pendengaran." Dalilnya adalah perbedaan pendengaran dari jenis ini, dan segi-segi yang menunjukkan perbedaan ini adalah sebagai berikut.
+
+Pertama: kita mendengar suara orang yang berbicara di balik dinding secara lengkap dan utuh, padahal mustahil gelombang ini sampai kepada kita secara lengkap dan utuh, sebab dinding penghalang yang berada di antara pendengar dan pembicara menghalanginya. Tidak dapat pula dikatakan: "Pada dinding terdapat pori-pori, celah-celah, dan lubang-lubang, sehingga udara yang bergelombang dapat melewati lubang-lubang dan celah-celah ini lalu sampai ke saluran pendengaran." Mereka mengatakan bahwa dalilnya adalah sebagai berikut: "Andaikan seseorang duduk di rumah gelap yang memiliki pintu. Bila seseorang berbicara di luar rumah, pendengaran lebih kuat bila pintu rumah terbuka, dan lebih lemah serta samar bila pintu rumah tertutup. Hal ini menunjukkan apa yang kami katakan."
+
+Kami katakan: keadaan ini batil, sebab dinding adalah jisim yang padat. Ketika gelombang yang terbentuk dari perkataan orang ini dan suaranya sampai ke dinding ini, ia tidak dapat mempertahankan bentuk dan rupanya. Mustahil rupa yang menyebar di udara yang halus tetap bertahan ketika sampai ke dinding yang padat. Apa yang menembus udara ini melalui pori-pori dinding dan lubangnya yang sempit pun tidak dapat mempertahankan rupanya seperti di luar rumah. Dengan demikian mendengar perkataan menurut rupa dan susunannya pasti mustahil. Karena hal itu ternyata terjadi, apa yang mereka katakan pasti batil.
+
+**Dalil kedua**: ketika kita mendengar suatu suara, kita mengetahui bahwa kita mendengarnya dari sisi kanan atau kiri. Hal ini menunjukkan bahwa kita mendengar suara itu di tempat ia muncul. Sebab bila kita katakan, "Yang didengar hanyalah benturan yang terbentuk di dalam saluran pendengaran," dengan daya pendengaran tempat suara dan arahnya ini niscaya tidak dapat diketahui. Demikian pula daya peraba, ketika sampai ke anggota tubuh, hanya merasakan kualitas yang disentuh; daya ini tidak dapat membedakan arah datangnya kualitas yang terindra itu dari arah-arah lainnya. Dengan demikian terbuktilah bahwa pencerapan yang dinamakan pendengaran adalah keadaan yang berbeda dari terpengaruhnya saluran pendengaran dan terpisahnya dari gelombang yang sampai kepadanya.
+
+**Dalil ketiga**: sebagaimana kami sebutkan tentang penglihatan, seandainya keadaan yang dinamakan mendengar tidak lain adalah keterpengaruhan ini, niscaya dikatakan: "Dalam setiap keadaan di mana keterpengaruhan kuat dan paling sempurna, pendengaran pun harus kuat dan paling sempurna."
+
+Karena konsekuen ini batil, anteseden pun batil. Berdasarkan segi-segi yang kami jelaskan ini, terbuktilah bahwa penglihatan adalah keadaan tambahan atas pengetahuan dan atas keterpengaruhan mata, dan bahwa pendengaran adalah keadaan tambahan atas pengetahuan dan atas keterpengaruhan telinga. Tidak diragukan bahwa ia adalah keadaan yang menunjukkan jenis penyingkapan dan penampakan, dan lebih kuat serta lebih sempurna daripada keadaan yang dinamakan pengetahuan.
+
+**Pembahasan kedua**: apakah ada dalil yang menunjukkan adanya jenis penampakan dan penyingkapan ini pada Allah Ta'ala?
+
+Ketahuilah bahwa meskipun kita menunjukkan bahwa keadaan ini berbeda dari keterpengaruhan mata dan telinga, kita tertahan pada satu tahap lain, yaitu adanya kemungkinan bahwa terjadinya keadaan ini bergantung pada syarat terbentuknya keterpengaruhan ini pada mata dan telinga. Dalilnya sebagai berikut: setiap kali anggota-anggota tubuh ini rusak, pencerapan-pencerapan ini, yakni penglihatan dan pendengaran, pun rusak. Hal ini membuat kita berpikir bahwa pencerapan bergantung pada syarat sehatnya anggota-anggota tubuh ini. Demikian pula mungkin dikatakan: "Meskipun terwujudnya jenis-jenis pencerapan ini pada jiwa manusia bergantung pada syarat sehatnya anggota-anggota tubuh ini, tidaklah mustahil hal itu terwujud pada jiwa-jiwa terpisah tanpa anggota tubuh. Terwujudnya wujud bagi hal-hal yang mungkin ini bergantung pada adanya pemberi pengaruh yang memberi pengaruh kepadanya; dan meskipun tidak ada pemberi pengaruh, yang wajib ada karena zat-Nya tetap ada."
+
+Kedua kemungkinan ini sama-sama ada. Dengan pengandaian pertama, penetapan sifat ini pada Allah mustahil, sedangkan dengan pengandaian kedua tidak mustahil. Di sini kita pasti harus berhenti. Jika tidak, premis yang dibangun di atas yang benar dan sesuai meniscayakan penetapannya pada Allah pula. Karena Allah Ta'ala adalah wujud yang paling sempurna, Dia harus disifati dengan seluruh sifat kesempurnaan, dan diketahui bahwa keadaan yang dinamakan penglihatan dan pendengaran termasuk sifat-sifat kesempurnaan. Bila seseorang mengetahui sesuatu lalu melihatnya, ia merasakan dalam dirinya perubahan dari kekurangan kepada kesempurnaan, dari ketertutupan kepada keterbukaan. Karena keadaan ini termasuk sifat-sifat kesempurnaan, ketiadaannya termasuk sifat-sifat kekurangan. Yang benar adalah bahwa Allah Yang Mahasuci lagi Mahatinggi niscaya tersucikan dari seluruh sifat kekurangan dan disifati dengan seluruh sifat kesempurnaan. Sebagai kemestian akal pertama, kita harus meyakini bahwa Allah Ta'ala disifati dengan sifat ini dan tersucikan dari kekurangan yang terbentuk karena ketiadaannya.
+
+**Pembahasan ketiga**: tentang dalil yang menghalangi disifatinya Allah Ta'ala dengan pencerapan ini. Penjelasannya sebagai berikut: mustahil melihat sesuatu sebelum ia muncul, dan mustahil pula mendengar sesuatu sebelum ia muncul. Bila hal ini telah terbukti, kami katakan: mereka berkata bahwa dalil ini menghalangi disifatinya Allah Ta'ala dengan sifat ini dari dua segi.
+
+Pertama: seandainya Allah Ta'ala disifati dengan pencerapan ini, sifat ini akan berubah, sebab Dia melihat sesuatu dalam keadaan adanya dan tidak melihatnya sebelum ia ada; demikian pula Dia mendengar suara pada saat terwujudnya dan tidak mendengarnya sebelum terwujud. Hal ini meniscayakan perubahan pada zat Allah Ta'ala, dan ini mustahil berdasarkan dalil-dalil yang telah kami sebutkan tentang kemustahilan perubahan pada seluruh sifat ilahi.
+
+**Dalil kedua**: mencerap sesuatu, meskipun zatnya meniscayakan terwujudnya pencerapan ini, bergantung pada syarat sesuatu itu sendiri dicerap. Dengan demikian terbuktilah bahwa terjadinya pencerapan ini bergantung pada adanya yang dicerap itu sendiri. Dalam hal ini, zat Allah tidak cukup bagi niscayanya sifat ini, melainkan bergantung pada keadaan yang lain. Kami katakan: zat-Nya bergantung pada sifat ini, dan sifat ini bergantung pada yang lain; yang bergantung pada sesuatu yang bergantung pada yang lain pun bergantung pada yang lain, dan setiap yang bergantung pada yang lain adalah mungkin karena zatnya. Adapun yang wajib karena zatnya menjadi mungkin karena zatnya adalah kontradiksi. Inilah keseluruhan penelitian rasional yang kami ringkas di bawah judul ini.
+
+Dalam bagian ini para teolog memiliki dua penjelasan yang lemah; keduanya pun akan kami sebutkan dan kami tunjukkan kelemahannya.
+
+Pertama: metode yang menjadi sandaran kaum Asy'ariyah. Mereka berkata: Allah Ta'ala hidup, dan setiap yang hidup mungkin memiliki sifat pendengaran dan penglihatan. Sesuatu yang mungkin memiliki suatu sifat pasti disifati dengannya; bila tidak disifati dengannya, ia pasti disifati dengan lawannya. Lawan pendengaran adalah tuli, dan lawan penglihatan adalah buta, dan keduanya adalah kekurangan, sedangkan kekurangan mustahil bagi Allah. Maka Dia pasti disifati dengan pendengaran dan penglihatan. Demikianlah penjelasan perkataan kaum Asy'ariyah.
+
+Terhadap dalil ini dapat diajukan berbagai pertanyaan.
+
+Pertanyaan pertama: apa yang kalian maksud dengan perkataan kalian, "Allah Ta'ala hidup"? Bila yang kalian maksud adalah bahwa Allah Ta'ala tidak mustahil mengetahui dan berkuasa, hal ini memang diterima. Lalu mengapa kalian mengatakan, "Yang tidak mustahil mengetahui dan berkuasa tidak mustahil pula mendengar dan melihat"? Bukankah perdebatannya justru di sini? Bila dengan keadaan Allah Ta'ala hidup kalian memaksudkan makna selain perkataan ini, yakni bahwa Dia tidak mustahil mengetahui dan berkuasa, hal itu perlu dijelaskan; sebab di samping pembenarannya merupakan hal yang diketahui, konsepsinya pun merupakan hal yang perlu ditafsirkan.
+
+Pertanyaan kedua: berdasarkan sebab kemustahilan ini, bila kita menerima bahwa keadaan-Nya hidup adalah sifat tambahan, mengapa kalian mengatakan, "Bila ada sifat kehidupan, pendengaran dan penglihatan pun harus termasuk dalam kemungkinan"? Hal ini dapat dijelaskan dari berbagai segi.
+
+Pertama: kehidupan Allah Ta'ala berbeda dari kehidupan salah seorang di antara kita. Keadaan kehidupan salah seorang di antara kita berpengaruh pada pendengaran dan penglihatannya tidak meniscayakan bahwa kehidupan-Nya pun demikian. Bila telah terbukti bahwa perbedaannya terletak pada kuiditas, kesetaraan dalam kemestian dan hukum tidaklah niscaya. Pahamilah bahwa kehidupan salah seorang di antara kita meniscayakan pula syahwat, kebencian, kepedihan, kelezatan, kebodohan, dan dugaan, sedangkan bagi kehidupan Allah Ta'ala sifat-sifat ini tidak mungkin. Hal ini karena kehidupan Allah Ta'ala berbeda dari kehidupan kita. Dari keadaan kehidupan kita yang terikat dengan sifat-sifat ini, tidak niscaya kehidupan-Nya pun demikian. Bila perbedaan ini telah terbukti dalam bentuk ini, mengapa hal serupa tidak berlaku pula di sini?
+
+Segi kedua: dengan pengandaian bahwa ada keserupaan antara kedua kehidupan itu, kami katakan: sebagaimana dalam terbentuknya kemungkinan diperhitungkan adanya yang memungkinkan, dalam hal ini diperhitungkan pula keadaan zat sebagai penerima. Meskipun kita mengandaikan di sini ada kehidupan yang memungkinkan, tidaklah mustahil dikatakan: zat khusus ini, dari segi kekhususannya, berbeda dari zat-zat lain dan tidak menerima sifat ini. Karena zat khusus ini tidak menerima keabsahan ini, keabsahan itu pun hilang. Dalilnya adalah sebagai berikut: wujud memungkinkan seluruh sifat, dan wujud Allah Ta'ala pun ada; namun bersamaan dengan itu, kebanyakan sifat mustahil bagi Allah Ta'ala. Hal ini hanya karena zat khusus ini tidak menerima sifat-sifat itu. Di sini pun demikian.
+
+Segi ketiga: andaikan ada sifat kehidupan yang layak bagi kedua sifat ini dan zat yang karena zatnya menerimanya. Namun tidaklah mustahil kelayakan ini bergantung pada suatu syarat khusus, dan terbentuknya syarat ini pada Allah Ta'ala mustahil. Dengan demikian kemungkinan ini pun hilang, bukan karena hilangnya yang memungkinkan, melainkan karena hilangnya syarat. Dalam hal ini seseorang dapat berkata, "Bila kemungkinan-kemungkinan ini ada, dalil ini batal."
+
+Pertanyaan ketiga: kami terima bahwa sifat ini terbentuk pada zat Allah Ta'ala. Namun apa yang dimaksud dengan buta dan tuli yang kalian tetapkan sebagai lawan penglihatan dan pendengaran? Bila dengan tuli yang kalian maksud adalah ketiadaan pendengaran dan dengan buta ketiadaan penglihatan, pada akhirnya perkataan kalian berkaitan dengan bahwa bila penglihatan dan pendengaran tidak terbentuk, keduanya pun tidak terbentuk, bahwa ketiadaan keduanya adalah kekurangan, dan bahwa kekurangan mustahil bagi Allah. Kepada kalian dapat pula dikatakan: "Bukankah perdebatan justru terletak pada apakah terwujudnya kedua sifat ini wajib dan ketiadaannya mustahil atau tidak?" Karena inti dalil kalian berkaitan dengan bahwa kedua sifat ini tidak mustahil bagi Allah Ta'ala, hal ini hanyalah mengulangi dakwaan itu sendiri, dan diketahui bahwa hal ini batil. Bila kalian mendakwakan bahwa tuli dan buta adalah sifat yang bersifat wujud (*wujūdī*) yang berlawanan dengan pendengaran dan penglihatan, semua ini tidak dapat diterima; lalu apa dalil kebenarannya?
+
+Pertanyaan keempat: kami terima bahwa tuli dan buta adalah dua pengertian bersifat wujud yang berlawanan dengan pendengaran dan penglihatan. Lalu mengapa kalian mengatakan, "Zat yang menerima dua hal yang berlawanan pasti disifati dengan salah satunya"? Kami katakan bahwa perkataan yang menunjukkan kebatilannya adalah sebagai berikut: seluruh jisim setara, sehingga setara pula dalam menerima sifat-sifat. Jisim udara, meskipun menerima rasa-rasa yang berbeda dan warna-warna yang berbeda, tidak disifati dengan salah satunya. Salah seorang di antara kita pun dapat disifati dengan kehendak dan keengganan, tetapi kita mengetahui perbuatan-perbuatan orang awam di pasar yang tidak kita kehendaki dan tidak pula kita pandang buruk.
+
+Pertanyaan kelima: apa yang dimaksud dengan kekurangan dalam perkataan kalian bahwa buta dan tuli adalah kekurangan? Bila dengan kekurangan di sini kalian memaksudkan keadaan yang menghalangi Allah Ta'ala menjadi pelaku dan pencipta alam, mengapa kalian tidak mengatakan, "Terwujudnya kedua sifat ini menghalangi Allah Ta'ala menjadi pencipta dan pelaku alam"? Bila kalian memaksudkan makna lain, hal itu pun perlu dijelaskan.
+
+Pertanyaan keenam: apa dalil kalian bahwa kekurangan mustahil bagi Allah? Di samping orang-orang yang mendakwakan bahwa hal ini gamblang, ada pula orang-orang yang bersandar pada dalil-dalil naqli. Adapun yang pertama, bila dakwaan kegamblangan dalam hal ini benar, di sini ada jalan lain yang lebih dekat, yaitu mengatakan: "Yang hidup yang mendengar dan melihat adalah sempurna, dan yang tidak demikian adalah kurang. Pengetahuan yang gamblang memutuskan bahwa Allah disifati dengan sifat-sifat kesempurnaan, bukan kekurangan; maka Dia pasti disifati dengan keadaan mendengar dan melihat." Bila hal ini terbukti, tampaklah bahwa metode ini lebih tepat daripada metode panjang yang kalian sebutkan sebelumnya. Perkataan orang-orang yang menyandarkan hal ini kepada ijmak pun lemah, sebab ayat-ayat yang menunjukkan bahwa ijmak adalah dalil lebih lemah penunjukannya daripada ayat-ayat yang menunjukkan bahwa Dia Maha Mendengar dan Maha Melihat.
+
+Saya katakan: bila mencukupkan diri dengan premis-premis naqli itu mungkin, mencukupkan diri dengan ayat-ayat ini lebih tepat, sebab ayat-ayat ini lebih baik penunjukannya kepada masalah ini dan premis-premisnya pun paling sesuai. Inilah yang dapat dikatakan tentang dalil ini.
+
+Metode kedua adalah metode Muktazilah.
+
+Muktazilah berkata: Allah Ta'ala hidup dan tidak memiliki cacat. Setiap yang hidup dan tidak memiliki cacat pasti mencerap seluruh hal yang dapat dicerap bila hal-hal itu hadir. Kesimpulannya, Dia mencerap seluruh hal yang dapat dicerap pada saat hal-hal itu hadir. Premis pertama adalah bahwa Allah Ta'ala hidup dan tidak memiliki cacat, dan ini telah terbukti. Premis kedua adalah bahwa setiap wujud yang hidup dan tidak memiliki cacat mencerap seluruh hal yang dapat dicerap bila hal-hal itu hadir. Mereka berdalil untuk hal ini sebagai berikut: "Salah seorang di antara kita, bila ia hidup dan selamat dari cacat, pasti mencerap. Tidakkah engkau perhatikan bahwa wujud yang hidup, bila matanya sehat dan yang dilihat hadir beserta syarat-syaratnya, ia melihatnya? Bila telinganya sehat dan yang didengar hadir, ia mendengarnya. Bila anggota-anggota tubuhnya sehat, ketika bara api diletakkan di atas tubuhnya, ia merasakan panasnya." Dari apa yang kami sebutkan ini terbuktilah bahwa "wujud yang hidup, bila tidak cacat, pasti menangkap hal-hal yang dapat dicerap pada saat hal-hal itu hadir."
+
+Seseorang dapat berkata sebagai berikut.
+
+Pertanyaan pertama: keadaan hidup salah seorang di antara kita berbeda dari keadaan hidup Allah Ta'ala. Demikian pula salah seorang di antara kita, karena zat dan kuiditasnya, berbeda dari zat Allah Ta'ala. Hukum yang tetap pada suatu kuiditas tidak niscaya tetap pada sesuatu yang serupa tetapi berbeda dari kuiditas itu.
+
+Pertanyaan kedua: andaikan sifat kehidupan dimiliki bersama oleh alam yang terindra dan alam yang tidak terindra. Namun tidaklah mustahil keadaan kehidupan meniscayakan sifat-sifat pencerapan bergantung pada syarat-syarat yang menghalangi tetapnya pada Allah Ta'ala. Dalam hal ini, karena syarat-syarat ini hilang, mustahil hukum itu terjadi pula di alam yang tidak terindra.
+
+Salah seorang Muktazilah belakangan berkata: karena tetapnya hal-hal ini pada Allah Ta'ala mustahil, hal-hal itu keluar dari keadaannya sebagai syarat keabsahan pencerapan. Sebab mustahil sesuatu yang tidak ada menjadi syarat bagi pemberian pengaruh oleh yang meniscayakan. Bila hal-hal itu keluar dari keadaannya sebagai syarat sementara yang meniscayakan ada, bekas yang bertaut dengannya pun niscaya.
+
+Kami katakan bahwa hal ini batil. Sebab bila sesuatu menjadi syarat bagi sesuatu yang lain, maka bila syarat-syarat ini hilang, yang disyaratkan pun harus hilang, atau yang disyaratkan harus telah terjadi tanpa syarat-syarat ini. Andaikan pun apa yang kalian sebutkan ini benar, kali ini analogi kebalikannya (*qiyās al-khulf*) batil. Bila kita katakan, "Bila yang meniscayakan tidak ada, yang diniscayakan pun harus tidak ada," akan dikatakan: "Mengapa tidak ada? Ia telah keluar dari keadaannya sebagai yang meniscayakan, sehingga yang diniscayakan harus ada tanpanya." Dengan demikian, meskipun perkataan yang kalian sebutkan benar, analogi kebalikannya pasti batil.
+
+Pertanyaan ketiga: andaikan keadaan hidup wujud yang hidup meniscayakan sifat keadaan mencerap. Namun keadaan ini hanya berlaku pada pencerapan-pencerapan indrawi; keadaan hidup yang hidup meniscayakan jenis pencerapan ini. Adapun penglihatan dan pendengaran tidak dapat dicerap semata-mata dengan keadaan hidup yang hidup. Dalam hal ini, perkataan kalian, "Yang meniscayakan pencerapan ini adalah keadaannya hidup," pun batil.
+
+Inilah seluruh perkataan di bawah judul ini. Allah yang paling mengetahui kebenarannya.
+
+## Bab Keenam {.bab-ke}
+
+## Allah Ta'ala Maha Berfirman {.judul-bab}
+
+### Masalah Pertama {.pasal-ke}
+
+### Penelitian tentang Hakikat Perkataan {.judul-pasal}
+
+Perlu diketahui bahwa kita mengetahui secara niscaya keadaan-keadaan kita seperti memerintah, melarang, mengabarkan, dan bertanya. Kami katakan: kuiditas-kuiditas ini adakalanya terlepas dari lafal-lafal ini, adakalanya berupa makna-makna yang ditunjukkan oleh lafal-lafal ini. Yang pertama batil dari segi-segi berikut.
+
+Pertama: bentuk-bentuk kata (*ṣīgha*) yang menunjukkan kuiditas perintah dan larangan berbeda-beda sesuai dengan perbedaan bahasa, sedangkan kuiditas perintah dan larangan itu sama. Maka kelainan menjadi niscaya.
+
+Kedua: kuiditas perintah dan larangan adalah hakikat-hakikat zati, sehingga mustahil keduanya berubah seiring berubahnya istilah dan peletakan bahasa (*waḍʿ*). Adapun lafal-lafal dan ungkapan-ungkapan ini menerima perubahan dan kelainan. Maka kelainan menjadi niscaya.
+
+Ketiga: dapat dipahami bahwa bentuk-bentuk kata yang diletakkan untuk mengungkapkan makna kabar diletakkan pula untuk mengungkapkan makna tuntutan atau kebalikannya. Adapun berubahnya kuiditas kabar menjadi tuntutan atau kebalikannya tidak dapat dipahami. Maka kelainan pun menjadi niscaya.
+
+Ketiga segi ini dan yang semacamnya menunjukkan bahwa perintah, larangan, mengabarkan, dan bertanya bukanlah lafal-lafal ini itu sendiri. Bila hal ini dipahami, kami katakan bahwa terdapat perselisihan tentang kuiditas tuntutan. Sebagian berkata bahwa tuntutan tidak lain adalah menghendaki agar orang lain melakukan suatu perbuatan, dan larangan adalah menghendaki agar ia tidak melakukannya. Sebagian lain menyatakan bahwa tuntutan berbeda dari kehendak ini, dan mereka berdalil dengan bahwa seseorang dapat menghendaki orang lain melakukan sesuatu yang tidak ia perintahkan, dan demikian pula menghendaki agar orang lain tidak melakukan sesuatu yang ia perintahkan. Hal ini hanya dapat berlaku bila dengan perintah itu dimaksudkan tujuan selain menghendaki dilakukannya sesuatu. Kelompok pertama menjawab hal ini dengan berkata: "Bila seseorang menghendaki orang lain melakukan suatu perbuatan, ia memberi tahu orang itu bahwa ia menghendaki orang itu melakukan perbuatan tersebut, atau bahwa ia tidak menghendakinya. Bila ia melakukan sesuatu yang menunjukkan bahwa ia menghendaki perbuatan itu, hal itu dinamakan memerintahkan perbuatan itu." Yang kedua adalah memerintahkan suatu perbuatan yang tidak ia kehendaki terjadinya. Terhadap hal ini dijawab: "Ini pada hakikatnya bukan perintah, melainkan menyebutkan suatu lafal yang membuat orang mengira bahwa ia menghendaki perbuatan ini. Inilah ujung perdebatan dalam hal ini."
+
+Selanjutnya bercabanglah suatu perdebatan baru. Kami katakan pula bahwa tuntutan kejiwaan ini adalah kehendak atau sesuatu yang lain; namun ketika kita hendak memberi tahu orang lain bahwa makna ini telah muncul dalam benak kita, kita harus melakukan sesuatu yang menunjukkan bahwa makna ini telah muncul dalam benak kita. Manusia mengetahui bahwa hal yang paling tepat dan sesuai adalah meletakkan lafal khusus untuk memperhatikan suatu makna tertentu, meskipun mereka menggunakan suara-suara yang terputus-putus dan lafal-lafal yang bersambung. Melakukan hal demikian sesuai untuk mengungkapkan apa yang mereka maksudkan. Padahal mereka mampu mengetahui makna-makna ini dengan perbuatan dan tindakan, di luar lafal-lafal ini. Namun mereka memahami bahwa metode ini lebih mudah dan lebih tepat dari berbagai segi.
+
+Pertama: manusia terpaksa menghirup embusan angin pagi yang sejuk untuk melegakan dadanya, dan ketika embusan ini menjadi panas, ia perlu mengeluarkannya dari dadanya. Pengeluaran ini adalah sebab terbentuknya suara. Suara ini mungkin terputus pada makhraj-makhraj dan sudut-sudut yang berbeda. Suara-suara ini terbentuk dengan pemotongan oleh susunan-susunan yang berbeda makhraj dan posisinya, yaitu huruf-huruf. Ketika suara-suara yang banyak ini tergabung, terbentuklah kelompok-kelompok suara yang banyak pula, yang masing-masing dapat diterapkan pada satu jenis kuiditas. Dengan metode ini, berbeda dari perbuatan-perbuatan lain, makna-makna yang tak berhingga dapat dikenali, dan makna-makna ini bergantung pada gabungan segi-segi yang banyak ini.
+
+Kedua: suara-suara ini berkurang dan lenyap sebagaimana ia muncul; ia ada ketika dibutuhkan dan tidak ada ketika tidak dibutuhkan. Adapun hal-hal lain tidak demikian.
+
+Ketiga: mengeluarkan suara-suara ini menyerupai melakukan sesuatu yang alami, berbeda dari perbuatan-perbuatan lain. Dengan metode ini, mengungkapkan makna-makna yang ada dalam benak dan hati dengan ungkapan-ungkapan dan lafal-lafal ini lebih tepat daripada mengungkapkannya dengan metode-metode lain. Jelas bahwa pembicara tidak lain adalah orang yang melakukan perbuatan berbicara, sebab yang dimaksud dengan berbicara adalah bahwa manusia melakukan suatu tindakan. Maknanya adalah bahwa setiap kali seseorang melakukan tindakan itu, dalam hatinya ada kecenderungan atau keengganan terhadap hal itu. Kemudian dengan penunjukan ini mereka bersepakat atas lafal-lafal ini. Ini adalah perkataan yang dapat dipahami, dan di sini tidak perlu ada perdebatan.
+
+### Masalah Kedua {.pasal-ke}
+
+### Keadaan Allah Ta'ala sebagai Yang Berfirman {.judul-pasal}
+
+Ketahuilah bahwa bagian ini terbagi dua, yaitu keadaan Allah Ta'ala sebagai pelaku yang bebas memilih dan keadaan-Nya mengetahui partikular-partikular. Orang-orang yang menafsirkan tuntutan ini sebagai kehendak berkata: "Telah terbukti bahwa Allah Ta'ala menghendaki sebagian hal dan tidak menghendaki sebagian hal lain. Ketika Dia menciptakan suara-suara pada suatu jisim khusus, suara-suara ini, berdasarkan peletakan dan istilah, menunjukkan bahwa Dia menghendaki apa yang Dia kehendaki dan tidak menghendaki apa yang tidak Dia kehendaki. Inilah firman (*kalām*)."
+
+Adapun orang-orang yang menafsirkan tuntutan ini dengan makna yang berbeda dari kehendak harus membuktikan premis-premis berikut.
+
+Pertama: perbedaan yang dapat dipahami antara tuntutan ini dan kehendak.
+
+Kedua: mengemukakan dalil bahwa Allah Ta'ala disifati dengan makna ini. Sebagaimana akan dijelaskan kemudian, kelompok ini tidak memiliki dalil yang kokoh untuk hal ini.
+
+Ketiga: orang-orang yang mendakwakan makna ini meyakini bahwa ia qadim, dan ini adalah kemungkinan yang sangat jauh. Alasan-alasan berikut menunjukkan hal ini.
+
+Pertama: perintah dan larangan tidak memiliki makna selain mewajibkan (*ilzām*) perbuatan dan meninggalkan perbuatan. Diketahui secara niscaya bahwa mewajibkan Zaid melakukan atau meninggalkan suatu perbuatan sebelum Zaid ada adalah mustahil. Tentang makna mewajibkan, kami katakan: "Wahai Zaid, aku mewajibkanmu melakukan perbuatan ini; wahai Amr, aku mewajibkanmu meninggalkan ini." Bila Zaid dan Amr tidak ada, ada pengetahuan niscaya bahwa mustahil berkata kepada mereka, "Wahai Zaid, aku mewajibkanmu melakukan perbuatan ini, dan wahai Amr, aku mewajibkanmu melakukan perbuatan ini." Seandainya pengetahuan ini tidak niscaya, niscaya tidak ada satu pun pengetahuan niscaya dalam akal.
+
+Kedua: Allah Ta'ala mengabarkan tentang berbagai hal, seperti dalam firman-Nya, *"Sesungguhnya Kami telah mengutus Nuh"* (Nuh: 1), dan *"dan telah durhakalah Adam"* (Taha: 121). Diketahui bahwa hal yang dikabarkan mendahului terwujudnya kabar dari segi wujud. Bila kabar ini azali, niscaya yang azali didahului oleh yang lain, dan ini mustahil. Bila mereka menyanggah hal ini dengan pengetahuan, kami katakan: pendapat yang benar dalam hal ini adalah pendapat Abu al-Husain al-Bashri, yaitu bahwa "bila yang diketahui berubah, pengetahuan pun berubah."[^p11]
+
+[^p11]: CP: Terjemahan Turki menyebut nama ini "Hasan-ı Basrî". Di sini kami mengikuti teks Arab, yang menyebut Abu al-Husain al-Bashri. Pendapat bahwa pengetahuan berubah bersama perubahan yang diketahui pun telah dinisbahkan kepadanya dalam Pasal Keenam bab sebelumnya.
+
+Ketiga: bila Allah Ta'ala mewajibkan Zaid menunaikan salat subuh, lalu Zaid melakukan perbuatan itu, apakah kewajiban pertama itu tetap ada atau tidak? Bila kewajiban pertama itu tetap ada, ia sama sekali tidak mungkin terlepas dari tanggungan (*ʿuhda*) ini, sebab meskipun ia melakukan perbuatan itu ribuan kali, kewajiban pertama itu akan tetap ada. Bila kewajiban ini tidak tetap dan lenyap, padahal para teolog bersikeras bahwa lenyapnya yang qadim itu mustahil, maka ketika kewajiban ini lenyap, sebagai kemestian perkataan mereka sendiri, perintah ini pun harus tidak qadim.
+
+Keempat: menurut mereka, naskh itu boleh, sedangkan naskh tidak lain adalah menghapus tetapnya suatu hukum atau mengakhiri hukum itu. Pada kedua pengandaian itu, naskh adalah menghapus sesuatu yang ada, sedangkan keqadiman sesuatu yang ketiadaannya telah terbukti adalah mustahil.
+
+Kelima: hubungan sifat qadim yang azali dengan hal-hal yang menjadi pertautannya dapat merupakan keadaan yang zati, mesti, dan wajib. Bila perintah Allah qadim, pertautannya dengan sesuatu yang mungkin pun niscaya. Namun menurut orang-orang yang mengatakan hal ini, keadaan baik dan buruk sebagai sesuatu yang rasional adalah batil; tidak ada sesuatu pun yang tidak mungkin Dia perintahkan, dan demikian pula tidak ada sesuatu pun yang tidak mungkin Dia larang. Dengan demikian, perintah dan larangan harus bertaut dengan segala sesuatu. Dalam hal ini, segala sesuatu niscaya diperintahkan sekaligus dilarang, dan ini berujung pada berkumpulnya dua hal yang berlawanan, dan ini mustahil.
+
+Keenam: sebagaimana telah kami jelaskan bahwa pengetahuan tentang sesuatu harus berubah sesuai dengan berubahnya hal-hal yang diketahui, kabar pun harus berubah bila hal yang dikabarkan berubah. Segala sesuatu yang membawa kepada perubahan niscaya tidak qadim, sebab telah terbukti bahwa lenyapnya sesuatu yang qadim adalah mustahil.
+
+Inilah segi-segi rasional yang tujuannya adalah menunjukkan bahwa tuntutan dan kabar ini tidak qadim, baik kita katakan bahwa tuntutan ini adalah kehendak maupun sesuatu yang lain.
+
+Orang-orang yang mendakwakan bahwa kalam itu qadim mengemukakan dalil-dalil berikut.
+
+Pertama: Allah Ta'ala hidup, dan setiap yang hidup dapat disifati sebagai yang berbicara. Wujud yang mungkin disifati dengan suatu sifat mungkin pula disifati dengan sifat itu atau lawannya. Lawan berbicara adalah bisu dan diam, yang merupakan kekurangan, sedangkan kekurangan Allah mustahil. Maka Dia niscaya disifati dengan kalam pada azali.
+
+Kedua: kita telah memutuskan bahwa Dia berfirman. Dia berfirman adakalanya karena zat-Nya, dan ini batil berdasarkan kesepakatan, adakalanya dengan sifat kalam. Bila kalam ini baharu, ia adakalanya baharu pada zat-Nya, adakalanya pada selain-Nya, adakalanya tanpa tempat. Ketiga bagian itu batil. Maka kalam ini pasti qadim. Kami katakan bahwa kalam mustahil baharu pada zat Allah, sebab hal ini meniscayakan hal-hal yang baharu berdiri pada zat Allah Ta'ala, dan ini batil.
+
+Kami tegaskan pula bahwa kalam mustahil baharu di luar zat-Nya. Bila Dia berfirman dengan kalam yang terwujud pada yang lain, Dia pun dapat menjadi tidak mengetahui dengan kebodohan yang berdiri pada yang lain, dan tidak berkuasa dengan kelemahan yang ada pada yang lain, dan ini batil. Bila kita katakan bahwa kalam diciptakan tanpa tempat, hal ini pun mustahil berdasarkan kesepakatan. Selain itu, kalam Allah adalah sifat, dan tidak diragukan bahwa sifat sesuatu pasti terjadi pada sesuatu itu.
+
+Ketiga: kalam adakalanya sifat kesempurnaan, adakalanya sifat kekurangan. Bila sifat kesempurnaan, Dia harus disifati dengannya selamanya; sebab bila Dia tidak disifati dengannya pada azali, Dia niscaya kosong dari sifat kesempurnaan, sedangkan kekosongan dari sifat kesempurnaan adalah kekurangan, dan Allah mustahil kurang. Bila kekurangan merupakan sifatnya, Allah sama sekali tidak dapat disifati dengannya, sebab Allah Yang Mahaperkasa lagi Mahaluhur mustahil kurang. Ketika kita menerima bahwa Allah Ta'ala disifati dengan sifat ini, kita mengetahui bahwa ia bukan sifat kekurangan.
+
+Keempat: ada pengetahuan niscaya bahwa yang berbicara lebih sempurna dan lebih utama daripada yang tidak berbicara, dan tidak diragukan bahwa salah seorang di antara kita berbicara. Bila Allah Ta'ala tidak berfirman pada azali, keadaan salah seorang di antara kita niscaya lebih sempurna dan lebih utama daripada Allah Ta'ala yang ada pada azali, dan ini mustahil. Karena itu terbuktilah bahwa Allah Ta'ala disifati dengan sifat ini pada azali.
+
+Seseorang dapat berkata: segi pertama telah kami bicarakan dalam masalah pendengaran dan penglihatan. Yang hendak kami katakan di sini adalah sebagai berikut: kami tidak menerima bahwa diam adalah kekurangan. Sebaliknya, kekurangan adalah bila seseorang berkata kepada Zaid dan Amr ketika keduanya tidak ada, "Wahai Zaid, tunaikanlah salat, dan wahai Amr, berpuasalah!" Bila seseorang duduk sendirian di rumahnya jauh dari manusia, lalu berkata, "Wahai yang berdiri, duduklah, dan wahai yang tegak, pergilah!" setiap orang akan memutuskan bahwa ia gila dan kurang akal. Di sini pun demikian.
+
+Segi kedua adalah perkataan kalian, "Kami telah berijmak bahwa Allah Ta'ala berfirman." Bila dengan itu kalian memaksudkan bahwa Dia melakukan perbuatan-perbuatan khusus, perbuatan-perbuatan ini menunjukkan bahwa Allah Ta'ala menghendaki sebagian perbuatan dan tidak menghendaki sebagian yang lain. Hal ini diterima, tetapi sekadar ini tidak menunjukkan bahwa Allah Ta'ala disifati dengan sifat yang dinamakan "kalam." Bila dengan keadaan-Nya berfirman kalian memaksudkan sesuatu di luar itu, hal ini pun tidak dapat diterima. Maka kesepakatan itu hanya pada lafal.
+
+Adapun segi ketiga adalah bahwa kalam adalah sifat kesempurnaan, bahwa kekosongan darinya adalah kekurangan, dan bahwa kekurangan ini mustahil bagi Allah. Jawabannya sebagai berikut: menyibukkan diri dengan perintah dan larangan ketika yang diperintah dan yang dilarang tidak ada justru merupakan kekurangan.
+
+Jawaban ini berlaku pula bagi segi keempat. Inilah ringkasan penjelasan yang rasional dalam hal ini. Tentang ungkapan-ungkapan lafzi dan yang didengar pun masih banyak yang dapat dikatakan, tetapi hal itu tidak sesuai dengan bagian ini.
+
+Allah yang paling mengetahui kebenarannya, dan taufik datang dari-Nya.
+
+## Bab Ketujuh {.bab-ke}
+
+## Allah Ta'ala Mahaqadim dan Mahakekal {.judul-bab}
+
+#### Tentang Keqadiman dan Kekekalan {.subpasal}
+
+Sebagian orang berkata: keadaan-Nya qadim dan kekal adalah zat-Nya yang khusus itu sendiri. Sebagian lain berkata bahwa keduanya adalah sifat-sifat yang berdiri pada zat Allah Ta'ala.
+
+Kelompok pertama berdalil dari segi-segi berikut.
+
+**Dalil pertama**: makna keadaan sesuatu qadim dapat kita pahami, sedangkan zat khusus yang merupakan zat Allah Ta'ala, dari segi keadaannya sebagai zat, bukanlah sesuatu yang kita ketahui. Dalam hal ini, kelainan menjadi niscaya. Penjelasan yang pertama sebagai berikut: yang qadim adalah yang adanya tidak berpermulaan, dan yang kekal adalah yang adanya terus berlangsung; makna ini dapat dipahami. Adapun zat khusus yang merupakan zat Allah Ta'ala tidak dapat dipahami. Bila masalah ini dijelaskan demikian, tampaklah dua premis dan kesimpulannya menjadi niscaya.
+
+**Dalil kedua**: kami katakan bahwa yang qadim dan kekal adakalanya jisim, adakalanya substansi, adakalanya aksiden, adakalanya berbeda dari ketiga hal ini. Dalam hal ini kita menjadikan makna qadim dan kekal sebagai sumber pembagian ke dalam salah satu dari empat bagian ini, sedangkan sumber pembagian dimiliki bersama oleh bagian-bagiannya. Maka makna qadim dan kekal pun dimiliki bersama oleh bagian-bagian itu, sehingga ia harus berbeda dari seluruh bagian ini.
+
+**Dalil ketiga**: kami katakan bahwa zat Allah Ta'ala qadim dan kekal, dan dalam hal ini proposisi itu dapat dipahami. Adapun bila kita katakan, "Zat Allah adalah zat," tidak ada yang dapat dipahami dari perkataan ini. Seandainya tidak ada kelainan antara zat dan keadaannya kekal, masing-masing dari kedua proposisi ini dapat menggantikan yang lain.
+
+Ketiga alasan ini menunjukkan bahwa keadaan-Nya qadim dan kekal adalah sifat.
+
+Adapun orang-orang yang mengingkari bahwa kekekalan adalah sifat tambahan atas zat berdalil dari dua segi.
+
+**Dalil pertama**: seandainya kekekalan adalah sifat yang berdiri pada zat Allah Ta'ala, zat akan membutuhkan sifat ini, dan keadaan ini meniscayakan bahwa yang wajib karena zatnya menjadi wajib karena yang lain, padahal ini mustahil. Seseorang dapat berkata: "Mengapa tidak mungkin zat yang khusus, dari segi keadaannya sebagai zat yang khusus, meniscayakan keberlangsungan dan ketetapan? Bila kita menetapkan sesuatu di luar zat, mustahil keberlangsungan zat ini menjadi niscaya. Adapun bila kita katakan, 'Zat yang khusus meniscayakan keberlangsungan ini,' kemustahilan itu tidak niscaya." Namun dengan pengandaian ini, keberlangsungan menjadi salah satu sifat zat.
+
+**Dalil kedua**: bila keberlangsungan dan ketetapan adalah sifat, sifat ini pun kekal dan terus berlangsung dengan cara yang sama. Dalam hal ini, keberlangsungannya menjadi tambahan atas zat, dan niscaya terjadi regresi tak berhingga. Demikian pula kami katakan: "Keberlangsungan sifat ini adakalanya karena zatnya, adakalanya karena sesuatu yang lain. Bila keberlangsungan sifat ini karena zatnya dan keberlangsungan zat karena sifat ini, sifat ini menjadi sifat yang wajib karena zatnya, dan dengan demikian zat menjadi wajib karena sifat ini. Padahal yang berlangsung karena zatnya lebih layak menjadi zat yang mandiri karena zatnya daripada berlangsung karena sebab lain. Bila sifat ini berlangsung karena sesuatu yang lain, maka bila sesuatu yang lain itu adalah zat, niscaya terjadi lingkaran, dan bila sesuatu selain zat, niscaya terjadi regresi tak berhingga; semua ini mustahil." Inilah ringkasan perkataan yang dapat dipahami dalam hal ini.
+
+Allah yang paling mengetahui kebenarannya.
+
+## Bab Kedelapan {.bab-ke}
+
+## Tentang Allah Ta'ala Mahahidup {.judul-bab}
+
+Perlu diketahui bahwa yang dimaksud dengan keadaan Allah Ta'ala hidup adalah bahwa Dia mungkin mengetahui dan berkuasa. Karena keadaan-Nya berkuasa dan mengetahui telah terbukti dengan dalil, dan kemustahilan adanya setiap yang ada adalah mustahil, terbukti pula bahwa Allah Ta'ala mengetahui dan berkuasa. Keadaan-Nya hidup tidak memiliki makna lain. Seseorang dapat berkata: kemustahilan adalah konsep yang berkaitan dengan ketiadaan, dan menafikan kemustahilan berarti meniadakan ketiadaan; dalam hal ini Dia ada. Adapun keadaan-Nya hidup adalah konsep yang berkaitan dengan wujud. Ini adalah sifat zati dan kualitas zat; karena itu, mustahil ia merupakan zat itu sendiri. Dengan demikian ia adalah sifat wujudi yang ada bersama zat.
+
+Di antara manusia ada pula yang berkata: "Kehidupan adalah sifat yang ada. Karena itu, zat mungkin mengetahui dan berkuasa. Bila zat tidak memperoleh kekhususan dengan sifat yang menjadikannya berkuasa dan mengetahui ini, adanya kemungkinan ini pada zat ini tidak lebih utama daripada adanya pada zat-zat lain."
+
+Kepada orang ini dikatakan: hal ini niscaya bila kita katakan, "Zat-zat itu setara dalam kuiditas." Bahkan dikatakan: "Bila sebagian zat tidak memperoleh kekhususan dengan sifat ini, pembedaan ini pun tidak terbentuk. Namun karena zat-Nya yang khusus berbeda dari zat-zat lain dalam kuiditasnya, apa yang kalian sebutkan itu tidak niscaya."
+
+Selain itu, sebagaimana zat-zat berbeda dalam kemungkinan mengetahui dan berkuasa, zat-zat itu pun berbeda dalam kemungkinan hidup. Bila perbedaan ini harus dijelaskan dengan suatu sifat, perbedaan dalam kemungkinan kehidupan pun harus dijelaskan dengan sifat lain, dan ini meniscayakan regresi tak berhingga.
+
+Bila kalian berkata, "Perbedaan ini dijelaskan dengan zat yang khusus; mengapa hal serupa tidak mungkin dalam kemungkinan keadaan mengetahui dan berkuasa?" Allah yang paling mengetahui kebenarannya.
+
+## Bab Kesembilan {.bab-ke}
+
+## Keterangan-Keterangan tentang Masalah Sifat-Sifat {.judul-bab}
+
+### Pasal Pertama {.pasal-ke}
+
+### Pembatasan Sifat-Sifat Allah Ta'ala {.judul-pasal}
+
+Perlu diketahui bahwa para teolog membatasi sifat-sifat pada delapan sifat ini: hidup, mengetahui, berkuasa, berkehendak, mendengar, melihat, berfirman, dan kekal. Ketika dikatakan kepada mereka, "Apakah kalian menerima adanya sifat lain bagi Allah?" mereka menjawab: "Tidak, sebab tidak ada dalil yang menunjukkannya, dan tidak ada pula dalil yang meniscayakan ketiadaannya." Mereka juga berkata: "Seandainya kita menetapkan suatu sifat yang tidak ada dalilnya, dalam hal ini suatu bilangan tidak lebih utama daripada bilangan lain. Dalam hal ini, kita niscaya menetapkan sifat-sifat tak berhingga yang tidak diketahui, dan ini mustahil."
+
+Dalam ilmu logika engkau telah mempelajari: "Tidak mengetahui sesuatu tidak memberi pengetahuan tentang ketiadaan sesuatu itu." Demikian pula engkau telah mengetahui bahwa bila dengan perkataan orang yang berkata, "Dalam hal ini suatu bilangan tidak lebih utama daripada bilangan lain," dimaksudkan tidak adanya keutamaan itu pada dirinya sendiri, hal ini bukanlah sesuatu yang mungkin dibuktikan. Sebaliknya, yang harus dikatakan adalah: kita memutuskan adanya sesuatu yang dibuktikan oleh akal, sedangkan tentang sesuatu yang adanya maupun ketiadaannya tidak ditunjukkan oleh akal, kita harus berhenti (*tawaqquf*).
+
+### Pasal Kedua {.pasal-ke}
+
+### Apakah Allah Ta'ala Mengetahui karena Zat-Nya atau karena Suatu Sifat? {.judul-pasal}
+
+Perlu diketahui bahwa hal terpenting dalam masalah ini adalah meneliti titik simpul perdebatan. Kami katakan: "Tidak diragukan bahwa yang berkuasa adalah yang mungkin melakukan perbuatan. Keabsahan ini bukanlah zat yang khusus itu sendiri, sebab keabsahan ini dapat dipahami oleh orang yang tidak mengetahui hakikat zat yang khusus ini." Demikian pula yang mengetahui adalah orang yang memiliki kesadaran tentang sesuatu dan dengannya membedakannya. Engkau pun mengetahui bahwa makna kesadaran, pencerapan, dan pembedaan tidak tampak kecuali dengan adanya nisbah khusus antara zat yang mengetahui dan yang diketahui. Nisbah-nisbah dan relasi-relasi yang disifati sebagai pengetahuan ini harus ditetapkan; jika tidak, menerima bahwa Allah Ta'ala mengetahui dan berkuasa menjadi mustahil. Bila makna inilah yang dimaksud dengan perkataan, "Allah Ta'ala mengetahui dan memiliki pengetahuan; Dia berkuasa dan memiliki kuasa," tidak ada alasan untuk mengingkarinya. Bila makna yang mengetahui adalah zat yang disifati dengan nisbah khusus ini, dan makna yang berkuasa adalah zat yang disifati dengan keabsahan khusus ini, lalu nisbah-nisbah ini dianggap tidak ada, relasi-relasi ini akan menghapus keadaan-Nya mengetahui dan berkuasa. Bila yang dimaksud dengan keduanya adalah makna lain selain yang kami sebutkan ini, hal ini membutuhkan perdebatan lain selain yang kami bicarakan. Penjelasannya sebagai berikut.
+
+Sebagian teolog mendakwakan bahwa pengetahuan adalah sifat yang berdiri pada zat yang mengetahui dan memiliki pertautan dengan yang diketahui. Orang yang mendakwakan hal ini telah menetapkan tiga hal: pertama zat, kedua sifat, dan ketiga hubungan antara yang diketahui ini dan sifat ini, yakni pengetahuan.
+
+Sebagian teolog lain mendakwakan bahwa pengetahuan adalah sifat yang meniscayakan keadaan mengetahui. Mereka juga membela adanya pertautan antara yang mengetahui dan yang diketahui. Saya tidak mengetahui bagaimana pendapat mereka dalam hal ini. Boleh jadi mereka berkata, "Keadaan mengetahui bertaut dengan yang diketahui, bukan dengan pengetahuan," dan mungkin pula mereka berkata, "Pengetahuan bertaut dengan yang diketahui, bukan dengan keadaan mengetahui." Berdasarkan pilihan-pilihan ini pun mereka telah menetapkan empat hal: zat, pengetahuan, keadaan mengetahui, dan pertautan.
+
+Demikian pula tidaklah jauh kemungkinan bahwa mereka menetapkan pengetahuan dan keadaan mengetahui sama-sama memiliki pertautan; dengan pengandaian ini mereka menetapkan lima hal.
+
+Adapun kami hanya memandang dua hal yang tetap: zat dan nisbah yang dinamakan keadaan mengetahui. Kami mendakwakan bahwa nisbah ini bukan zat itu sendiri; sebaliknya, ia adalah keadaan yang ada pada zat dan merupakan tambahan atas zat. Inilah penelitian yang semata-mata rasional.
+
+Adapun pokok-pokok pembahasan lafzi adalah sebagai berikut.
+
+Pertama: apakah dapat dikatakan bahwa sifat-sifat ini lain daripada zat, atau bahkan bahwa sifat-sifat ini bukan zat itu sendiri dan bukan pula sesuatu selainnya?
+
+Kedua: apakah sifat-sifat ini disifati dengan keqadiman atau tidak?
+
+Ketiga: apakah sifat-sifat ini disifati sebagai aksiden atau tidak?
+
+Keempat: apakah sifat-sifat ini disifati sebagai berdiri pada zat, bertempat (*ḥāll*) pada zat, atau ada pada zat, atau tidak? Ataukah seluruh lafal ini harus dipandang mustahil? Atau hanya dapat dikatakan, "Sifat-sifat itu ada karena zat"? Seluruh pokok perdebatan ini bersifat lafzi, bukan berkaitan dengan makna.
+
+Bila hal ini dipahami, kami katakan: masyhur bahwa Muktazilah dan para filsuf mengingkari sifat-sifat, sedangkan kaum Sifatiyah menerimanya.
+
+Penjelasan tentang perselisihan dalam hal yang kami bicarakan adalah sebagai berikut.
+
+Kami katakan: di sini ada dua tahap. Pertama, menetapkan pengetahuan dan kuasa dalam arti bahwa nisbah-nisbah khusus ini adalah keadaan-keadaan tambahan atas zat. Tahap kedua adalah menjelaskan hal berikut: apakah sifat-sifat yang dinamakan pengetahuan dan kuasa ini wajib dengan dirinya sendiri, atau diwajibkan oleh zat Allah Ta'ala? Ataukah dapat dikatakan, "Zat Allah meniscayakan suatu makna, dan makna ini meniscayakan nisbah-nisbah dan relasi-relasi ini"?
+
+Tahap pertama adalah menjelaskan, sesuai dengan keterangan yang kami berikan di atas, kemustahilan bahwa pengetahuan dan kuasa merupakan zat itu sendiri; sebaliknya, keduanya adalah sifat-sifat yang berdiri pada zat. Segi-segi yang menunjukkan kebenaran perkataan kami ini adalah sebagai berikut.
+
+**Dalil pertama**: perkataan kita, "Dia mengetahui," bertentangan dengan perkataan kita, "Dia tidak mengetahui," tetapi tidak bertentangan dengan perkataan kita, "Dia tidak ada." Perkataan kita, "Dia ada," pun bertentangan dengan perkataan kita, "Dia tidak ada," tetapi tidak bertentangan dengan perkataan kita, "Dia tidak mengetahui." Seandainya keadaan-Nya ada adalah keadaan-Nya mengetahui itu sendiri, kelainan ini mustahil, sebab mustahil kebalikan dari satu hal membenarkan sesuatu yang bukan kebalikannya.
+
+**Dalil kedua**: bila telah dibuktikan dengan dalil bahwa alam memiliki pemberi pengaruh yang qadim, azali, dan wajib ada karena zat-Nya, dalam keadaan ini akal belum tetap memutuskan apakah pemberi pengaruh ini mengetahui atau tidak, dan apakah Dia berkuasa atau tidak; untuk membuktikan bahwa Allah Ta'ala mengetahui dan berkuasa diperlukan dalil tersendiri. Seandainya keadaan-Nya mengetahui dan berkuasa adalah keadaan-Nya ada, qadim, dan wajib itu sendiri, keadaannya tidak akan demikian, sebab mustahil satu hal sekaligus diketahui dan tidak diketahui, karena mustahil mengumpulkan dua hal yang bertentangan.
+
+**Dalil ketiga**: bila kita katakan, "Zat Allah yang ada adalah ada," proposisi itu tidak memberi faedah apa pun. Adapun bila kita katakan, "Zat Allah yang ada adalah mengetahui dan berkuasa," proposisi itu berfaedah dan membutuhkan dalil untuk dibenarkan. Seandainya apa yang dipahami dari keadaan-Nya mengetahui dan berkuasa tidak berbeda dari apa yang dipahami dari keadaan-Nya ada, keadaannya tidak akan demikian.
+
+**Dalil keempat**: telah kami jelaskan bahwa Dia adalah yang mengetahui yang dibentuk oleh suatu nisbah yang dinamakan pengetahuan. Keadaan yang mengetahui sebagai yang mengetahui, dan nisbah antara zat yang diketahui dan zat yang mengetahui, bukanlah sifat zat ini, dan tidak membutuhkannya. Nisbah-nisbah dan relasi-relasi adalah kategori yang ada dalam kaitan dengan yang lain, sedangkan zat-zat yang berdiri dengan dirinya sendiri tidak demikian. Bila semua ini meniscayakan kelainan, bagaimana kita dapat tidak mengatakannya?
+
+**Dalil kelima**: apa yang dipahami dari keadaan zat berkuasa berbeda dari apa yang dipahami dari keadaannya mengetahui. Sebab yang berkuasa dapat mengetahui atau tidak mengetahui, dan demikian pula yang mengetahui dapat berkuasa atau tidak berkuasa. Bila kuiditas keadaan mengetahui berbeda dari kuiditas keadaan berkuasa, dan definisi keadaan mengetahui berbeda dari definisi keadaan berkuasa, maka bila kita katakan, "Ia adalah zat itu sendiri," satu hal niscaya bukan satu hal, melainkan dua hal yang berbeda, dan ini mustahil.
+
+**Dalil keenam**: seandainya keadaan-Nya mengetahui adalah keadaan-Nya berkuasa itu sendiri, setiap wujud yang mungkin Dia ketahui niscaya sekaligus mungkin Dia kuasai. Hal ini meniscayakan bahwa yang wajib karena zatnya dan yang mustahil karena zatnya menjadi objek kuasa sebagaimana menjadi objek pengetahuan. Padahal orang-orang berakal sepakat bahwa yang wajib karena zatnya dan yang mustahil karena zatnya diketahui tetapi tidak menjadi objek kuasa. Dengan demikian kita mengetahui bahwa apa yang dipahami dari keadaan sesuatu sebagai yang diketahui berbeda dari apa yang dipahami dari keadaannya sebagai objek kuasa, dan ini meniscayakan kelainan antara pengetahuan dan kuasa.
+
+**Dalil ketujuh**: bila perbuatan yang berkuasa telah ada, ia tidak dapat terus mengadakannya, sebab mengadakan yang sudah ada dan terjadinya kembali sesuatu yang sudah terwujud adalah mustahil, sedangkan sesuatu yang mustahil tidak dapat menjadi objek kuasa. Maka objek kuasa, setelah ada, tidak dapat terus menjadi objek kuasa; namun setelah ada, ia dapat terus menjadi objek pengetahuan. Benarnya penafian dan penetapan ini meniscayakan kelainan antara pengetahuan dan kuasa.
+
+**Dalil kedelapan**: karena ungkapan "yang-yang qadim" membawa kepada kemustahilan, ungkapan itu pun mustahil. Dalilnya sebagai berikut: "Telah kami tunjukkan bahwa perkataan tentang keqadiman adalah makna positif. Yang-yang qadim berserikat dalam makna ini. Bila berserikat, sebagiannya adakalanya berbeda dari sebagian yang lain dalam bagian-bagian pembentuknya, adakalanya tidak. Bila yang pertama benar, apa yang dimiliki bersama berbeda dari apa yang membedakan, sebab masing-masing yang qadim ini tersusun dari dua batasan ini. Karena bagian dari sesuatu yang qadim niscaya qadim pula, keduanya pun qadim. Kedua bagian ini berserikat dalam keqadiman dan berbeda dalam sesuatu yang meniscayakan yang lain; maka kedua bagian ini pun tersusun. Dalam hal ini, masing-masing niscaya terbentuk dari bagian-bagian yang tak berhingga, dan ini mustahil. Bila yang kedua benar, yaitu sebagian yang qadim ini tidak berbeda dari sebagian yang lain dalam bagian pembentuk kuiditas, semuanya pasti merupakan hal-hal yang serupa dalam keseluruhan kuiditas. Dalam hal ini, zat harus menjadi sifat dan sifat menjadi zat, dan hal ini meniscayakan pendapat tentang berbilangnya tuhan-tuhan, dan ini mustahil."
+
+**Dalil kesembilan**: seandainya sifat berdiri pada zat, niscaya muncul banyak yang qadim yang berbeda satu sama lain.
+
+**Dalil kesepuluh**: makna bertempatnya sifat pada zat adalah bahwa sifat ini terbentuk pada tempat tertentu, bergantung pada keberadaan tempat itu di sana. Bila makna ini kita keluarkan dari akal, kebersamaan salah satunya dengan yang lain tidak lebih benar daripada adanya yang lain dengan yang pertama. Telah terbukti bahwa sifat ada dengan yang disifatinya, dan ini meniscayakan bahwa yang disifati berada pada suatu tempat secara khusus dengan arah; padahal ini mustahil bagi Allah Ta'ala.
+
+**Dalil kesebelas**: ketuhanan zat Allah Ta'ala adakalanya sempurna dengan sifat-sifat ini, adakalanya tidak. Yang pertama meniscayakan bahwa Dia membutuhkan wujud lain, sedangkan yang kedua meniscayakan bahwa zat yang khusus ini cukup bagi ketuhanan. Bila demikian, Tuhan dalam ketuhanan-Nya tidak membutuhkan seluruh sifat ini, sehingga sifat-sifat semacam itu, berdasarkan kesepakatan, harus dinafikan dari zat.
+
+**Dalil kedua belas**: zat sendirian adakalanya cukup bagi ketuhanan, adakalanya tidak. Bila zat sendirian cukup bagi terwujudnya ketuhanan, sifat-sifat ini tidak diperlukan bagi terbentuknya ketuhanan. Bila zat sendirian tidak cukup, kami katakan: dengan pengandaian ini, zat dari segi keadaannya sebagai zat tidak cukup, dan demikian pula sifat-sifat tidak cukup. Bila keduanya berkumpul, adakalanya muncul keadaan tambahan atas keadaan sendiri-sendiri itu, adakalanya tidak. Bila muncul keadaan tambahan, yang meniscayakannya adakalanya zat sendirian, adakalanya sifat sendirian, dan dalam hal ini pembagian kembali ke awal. Bila yang meniscayakannya adalah berkumpulnya keduanya, perdebatan kembali kepada apakah muncul dalam keadaan berkumpul sesuatu yang tidak ada dalam keadaan sendiri-sendiri, atau tidak. Bila yang pertama, terwujudnya keadaan tambahan ini disebabkan oleh keadaan tambahan lain, dan ini meniscayakan regresi tak berhingga yang mustahil. Bila keadaan tambahan ini sama sekali tidak terbentuk, apa yang terwujud dalam keadaan berkumpul sama seperti dalam keadaan sendiri-sendiri; dan karena dalam keadaan sendiri-sendiri ketuhanan tidak terbentuk, harus diyakini secara pasti bahwa ketika berkumpul pun ia tidak terbentuk. Terbuktilah bahwa ketuhanan, dari segi keadaan-Nya sebagai Tuhan, termasuk kemestian zat yang khusus ini, dan di samping itu tidak perlu lagi menetapkan sifat lain.
+
+#### Dalil-Dalil yang Mereka Pegang Khusus dalam Menolak Pengetahuan {.subpasal}
+
+**Dalil pertama**: seandainya Allah Ta'ala mengetahui dengan suatu pengetahuan, pengetahuan-Nya akan bertaut dengan segala sesuatu yang bertaut dengan pengetahuan salah seorang di antara kita. Dalam hal ini, kedua pengetahuan itu serupa, dan karena keserupaan ini, keduanya niscaya sama-sama qadim atau sama-sama baharu, dan ini mustahil.
+
+**Dalil kedua**: seandainya Allah Ta'ala mengetahui dengan suatu pengetahuan, Dia mengetahui adakalanya dengan satu pengetahuan, adakalanya dengan pengetahuan-pengetahuan yang tak berhingga, adakalanya dengan pengetahuan-pengetahuan yang berhingga. Karena ketiga kemungkinan itu batil, keadaan-Nya mengetahui dengan suatu pengetahuan pun batil. Kami katakan: "Tidak mungkin Dia mengetahui dengan satu pengetahuan," sebab tidak benar bahwa Allah Ta'ala mengetahui apa yang Dia ketahui dengan pengetahuan tentang yang diketahui ini tanpa menyadari bahwa Dia mengetahui yang diketahui lain, sebab yang diketahui berbeda dari yang tidak diketahui. Kami lanjutkan: tidak mungkin pula Dia mengetahui dengan pengetahuan-pengetahuan yang berhingga, sebab apa yang Dia ketahui tidak berhingga; bila pengetahuan-pengetahuan yang berhingga dibagikan kepada hal-hal yang diketahui yang tak berhingga, satu pengetahuan niscaya bertaut dengan banyak hal yang diketahui. Dapat kita katakan pula: tidak mungkin Dia mengetahui dengan pengetahuan-pengetahuan yang tak berhingga, sebab setiap bilangan yang ada menerima penambahan dan pengurangan, dan setiap yang demikian adalah berhingga. Kesimpulannya, setiap bilangan yang ada adalah berhingga, dan adanya yang tak berhingga mustahil.
+
+**Dalil ketiga**: bila Dia mengetahui dengan suatu pengetahuan, Dia mengetahui pengetahuan ini adakalanya dengan pengetahuan itu sendiri, dan ini mustahil, sebab pengetahuan pasti membutuhkan nisbah, dan mustahil ada nisbah antara sesuatu dan dirinya sendiri. Bila Dia mengetahuinya dengan pengetahuan lain, perkataan tentangnya sama seperti yang pertama, dan niscaya terjadi regresi tak berhingga atau lingkaran; keduanya pun mustahil.
+
+Jawaban atas yang pertama: hal ini bertumpu pada anggapan bahwa satu hal tidak dapat sekaligus menjadi pelaku dan penerima, dan telah kami jelaskan kebatilannya.
+
+Jawaban atas yang kedua: mengapa tidak mungkin dikatakan bahwa zat yang khusus itu adalah wujud yang wajib karena zatnya? Sebab zat itulah yang meniscayakan keadaan berkuasa ini dan keadaan mengetahui yang khusus ini.
+
+Terhadap dalil pertama Muktazilah kami katakan: bila dengan keadaan wajibnya keadaan mengetahui Allah Ta'ala kalian memaksudkan zat yang khusus ini sendiri, hal ini pun diperdebatkan. Bila kalian memaksudkan bahwa ia wajib secara mutlak, hal ini tidak membatalkan tujuan kami. Bila zat Allah Ta'ala meniscayakan makna ini, makna ini meniscayakan pula keadaan mengetahui; dalam hal ini zat-Nya meniscayakan apa yang diniscayakan oleh keadaan mengetahui, dan hal ini tidak merugikan keadaan mengetahui sebagai yang meniscayakan.
+
+Terhadap dalil kedua Muktazilah kami katakan: mereka menerima terwujudnya keadaan mengetahui dan keadaan berkuasa. Segala yang mereka sebutkan dalam pengertian ini kami ajukan kembali sebagai sanggahan terhadap kalian tentang keadaan mengetahui dan keadaan berkuasa.
+
+Dalil ketiga bergantung pada banyak yang qadim yang saling berbeda. Bila dengan dua wujud yang berbeda kalian memaksudkan dua hakikat yang berbeda, hal ini dapat diterima, dan itulah pokok masalahnya. Bila dengan keduanya kalian memaksudkan dua hal yang salah satunya dapat berbeda dari yang lain dengan tempat atau waktu, mengapa kalian mengatakan, "Kedua yang ada itu harus demikian"?
+
+Dalil keempat adalah bahwa yang dipahami dari bertempat adalah keberadaan sifat pada suatu tempat, bergantung pada adanya tempatnya. Tafsiran ini telah kami bantah dalam bagian yang menjelaskan substansi dan aksiden. Jawaban atas perkataan, "Bila kita menolak makna ini, bertempatnya salah satu dari keduanya pada yang lain tidak lebih utama daripada kebalikannya," adalah: "Telah kami jelaskan bahwa perkataan orang yang berkata, 'Ini tidak lebih utama daripada itu,' adalah premis yang lemah dan rusak."
+
+Dalil kelima adalah bahwa bila zat-Nya sempurna dalam ketuhanan, tidak ada lagi kebutuhan kepada sifat. Kami katakan: mengapa tidak mungkin dikatakan bahwa zat yang khusus ini meniscayakan makna ini, dan makna ini meniscayakan keadaan mengetahui? Jawaban ini sekaligus menjadi jawaban atas dalil keenam.
+
+Adapun tentang dalil pertama yang mereka pegang dalam menolak pengetahuan Allah, kami katakan: bila dua pengetahuan bertaut dengan satu yang diketahui ini, keduanya berserikat dalam hukum ini. Berserikat dalam suatu bekas bukanlah berserikat dalam kuiditas pemberi pengaruh, sebab tidaklah mustahil dua hal yang kuiditasnya berbeda berserikat dalam sebagian kemestian.
+
+Tentang dalil kedua kami katakan: seluruh sanggahan yang kalian arahkan kepada kami tentang pengetahuan mengikat kalian pula tentang hal-hal yang memiliki pertautan. Jawaban ini sekaligus menjadi jawaban atas dalil ketiga.
+
+Dengan peringatan-peringatan ini tampaklah kelemahan seluruh dalil ini. Kami katakan pula: seluruh dalil ini diarahkan kepada orang yang mengatakan bahwa pertautan-pertautan ini dijelaskan dengan sifat-sifat atau dengan makna-makna yang berdiri pada zat. Kami tidak berpendapat demikian; sebaliknya, telah kami tunjukkan bahwa pertautan-pertautan ini adalah hal-hal yang diketahui sebagai tambahan atas zat, dan menurut kami hal-hal itu dijelaskan oleh zat itu sendiri. Dengan demikian tampaklah bahwa tidak satu pun dari dalil-dalil ini dapat diarahkan kepada kami. Allah-lah yang membimbing kepada kebenaran.
+
+Tahap kedua: ketahuilah bahwa telah kami sebutkan sebelumnya bahwa yang dimaksud dengan keadaan berkuasa adalah bahwa Dia mungkin mengadakan atau meninggalkan, dan yang dimaksud dengan keadaan mengetahui adalah nisbah khusus dan relasi khusus ini. Dalam hal ini kami katakan bahwa diketahui secara niscaya bahwa keabsahan khusus dan nisbah khusus ini bukanlah zat-zat yang mandiri dengan hakikatnya dan berdiri dengan dirinya sendiri. Maka keduanya pasti mungkin karena zatnya, dan setiap wujud yang mungkin pasti memiliki sebab. Sebab ini adakalanya zat-zat keduanya sendiri, adakalanya sesuatu yang lain. Yang pertama batil; jika tidak, zat-zat ini niscaya membutuhkan yang lain dalam hal-hal yang mesti baginya, dan wujud yang membutuhkan yang lain adalah mungkin karena zatnya. Maka wujud yang wajib karena zatnya akan menjadi mungkin karena zatnya. Dalam hal ini, terbuktilah bahwa yang meniscayakan hukum-hukum dan nisbah-nisbah ini adalah zat-Nya yang khusus. Namun di sini ada persoalan lain, yaitu: kemestian terbagi dua, kemestian tanpa perantara dan kemestian dengan perantara. Tidaklah jauh kemungkinan bahwa yang meniscayakan keadaan mengetahui dan keadaan berkuasa ini adalah zat Allah itu sendiri. Maka mungkin dikatakan: zat Allah Ta'ala meniscayakan suatu keadaan, dan keadaan ini meniscayakan keadaan mengetahui dan keadaan berkuasa ini. Kami katakan pula: perantara ini adakalanya satu, adakalanya banyak, dan kedua segi ini sama-sama mungkin. Dapat pula kita katakan: bila harus diterima bahwa zat yang khusus ini meniscayakan nisbah-nisbah dan relasi-relasi ini, baik dengan perantara maupun tanpa perantara, sementara perantara ini tidak diketahui, menurut metode yang paling tepat dan sesuai kita harus menghapus perantara itu dan menerima bahwa zat yang khusus inilah yang meniscayakannya. Yang menjelaskan hal ini adalah sebagai berikut: ketika kita berdalil dengan kebaharuan alam atas adanya pelaku yang bebas memilih, lalu dikatakan, "Mengapa tidak mungkin dikatakan bahwa pelaku yang bebas memilih itu adalah akibat dari suatu sebab yang meniscayakan karena zatnya?" kami katakan: bila kita menerima adanya yang ada yang wajib karena zatnya dan adanya pelaku yang bebas memilih, yang paling tepat adalah mengatakan: pelaku yang bebas memilih ini adalah wujud yang wajib karena zatnya. Dengan demikian kita pun menghapus perantara-perantara. Bila kita mengatakan hal ini tentang akibat-akibat yang terpisah dari zat Allah Ta'ala, kita pun harus mengatakan dan memahami hal yang sama tentang sifat-sifat yang berdiri pada zat Allah.
+
+Orang-orang yang menetapkan sifat-sifat ini berdalil dari segi-segi berikut.
+
+**Dalil pertama**: di alam yang terindra, pengetahuan adalah sifat yang bertaut dengan makna; maka di alam yang tidak terindra pun harus demikian, sebab hakikat dan kuiditas tidak berbeda karena berbedanya alam-alam ini.
+
+**Dalil kedua**: di alam yang terindra, keadaan mengetahui terjadi setelah sebelumnya tidak ada. Maka pengetahuan pasti merupakan sifat yang ada. Dalam hal ini tidak dapat dikatakan, "Yang baharu hanyalah nisbah-nisbah dan relasi-relasi, sebab zat jisim tidak mungkin bertaut dengan yang diketahui." Maka yang baharu pasti merupakan sifat yang membentuk pertautan.
+
+**Dalil ketiga**: pengetahuan adalah sesuatu yang memiliki pertautan dengan yang diketahui. Seandainya zat bertaut dengan yang diketahui, zat Allah niscaya menjadi pengetahuan, dan ini batil.
+
+Seseorang dapat berkata sebagai jawaban atas yang pertama: di alam yang tampak, pengetahuan tidak lain adalah pertautan khusus atau nisbah khusus ini. Dari makna pengetahuan kita hanya memahami kesadaran dan pencerapan ini, dan ini tidak lain adalah nisbah khusus ini.
+
+Jawaban atas yang kedua: mengapa tidak mungkin dikatakan, "Ketika nisbah khusus ini muncul pada jisim, pengetahuan, kesadaran, dan pencerapan pun terbentuk, dan ketika semua ini tidak ada, pengetahuan pun hilang. Adapun keyakinan, ia pun terjadi sebagai sifat, dan bagi sifat ini terbentuk pertautan ini, dan ini tidak dapat diterima"?
+
+Jawaban atas yang ketiga: kami tidak menerima bahwa pengetahuan adalah sesuatu yang bertaut dengan yang tidak ada. Sebaliknya, pengetahuan tidak lain adalah pertautan dan nisbah khusus ini itu sendiri. Berdasarkan hal itu, dari disifatinya zat dengan pertautan ini tidak niscaya zat ini adalah pengetahuan. Inilah seluruh yang hendak kami katakan di bawah judul ini.
+
+Allah yang paling mengetahui kebenarannya.
+
+### Pasal Ketiga {.pasal-ke}
+
+### Penghitungan Sifat-Sifat Allah Ta'ala {.judul-pasal}
+
+Para filsuf sepakat bahwa sifat-sifat Allah Ta'ala adakalanya penafian, adakalanya relasi. Penafian seperti perkataan kita, "Dia bukan jisim, bukan substansi, dan tidak menempati ruang"; relasi seperti perkataan kita, "Dia Maha Pemurah, Yang Mengadakan, dan Yang Mahalembut." Adapun tentang sifat-sifat yang tersusun dari kedua bagian ini, saya katakan: mereka sendiri menyebutkan sesuatu yang membatalkan premis ini. Mereka berkata: pengetahuan tidak lain adalah bentuk yang ada pada yang mengetahui dan bersesuaian dengan yang diketahui. Bila demikian, pengetahuan Allah Ta'ala tentang hal-hal yang diketahui tidak lain adalah bentuk yang bersesuaian dengan hal-hal yang diketahui, padahal bentuk-bentuk ini bukan termasuk golongan penafian maupun relasi. Ini merupakan pengakuan mereka bahwa Allah Ta'ala memiliki sifat hakiki yang berdiri pada zat-Nya, dan membatalkan ungkapan mereka, "Sifat-sifat Allah terbatas pada penafian dan relasi."
+
+Telah kami jelaskan bahwa pembatasan ini tidak memiliki jalan selain metode yang paling tepat dan paling sesuai. Bila pengetahuan termasuk golongan nisbah dan relasi, penetapan pengetahuan tidak menghapus pembatasan ini. Inilah yang hendak kami katakan dalam hal ini. Hanya Allah yang membimbing kepada kebenaran.
+
+### Pasal Keempat {.pasal-ke}
+
+### Apakah Pengadaan (*Takwīn*) Sama dengan yang Diadakan (*Mukawwan*) atau Tidak? {.judul-pasal}
+
+Ketika Allah Ta'ala mengeluarkan sesuatu kepada wujud, di sini ada dua hal: pertama, yang diciptakan ini; kedua, Allah Ta'ala menciptakan sesuatu ini dan mengeluarkannya dari ketiadaan kepada wujud. Apakah penciptaan Allah Ta'ala atasnya sama dengan sesuatu itu sendiri atau lain daripadanya? Padanan pembahasan ini di alam yang terindra adalah sebagai berikut: apakah menggerakkan sama dengan gerak, dan menghitamkan sama dengan hitam? Orang yang berkata bahwa pengadaan sama dengan yang diadakan mengatakan bahwa menggerakkan sama dengan gerak dan menghitamkan sama dengan hitam. Adapun orang yang berkata bahwa pengadaan lain daripada yang diadakan menyatakan bahwa dalam contoh ini keduanya berbeda. Pembahasan ini sulit dipahami dan mengandung kekaburan yang besar.
+
+Kepada orang yang mendakwakan bahwa pengadaan lain daripada yang diadakan kami katakan: kemukakanlah dalil! Sebab bila dikatakan, "Mengapa sesuatu ini menjadi baharu, sedangkan sebelumnya ia tidak diadakan?" kami jawab: "Karena yang berkuasa telah menciptakan dan mewujudkannya." Dengan demikian ia menjelaskan adanya sesuatu itu semata-mata dengan penciptaan oleh pencipta dan pengadaan oleh yang mengadakan. Seandainya penciptaan oleh pencipta adalah adanya bekas ini itu sendiri, perkataan kita, "Ini terjadi karena yang berkuasa mengadakannya," berkedudukan sama dengan mengatakan, "Ia mengadakan dirinya sendiri." Namun bila ia mengadakan karena dirinya dan dengan dirinya sendiri, yang berkuasa tidak memiliki pengaruh apa pun padanya, dan ini meniscayakan tidak adanya pengaruh dan pemberi pengaruh, dan ini batil. Dengan demikian, pengadaan oleh yang mengadakan berbeda dari adanya sesuatu itu sendiri.
+
+Pengadaan dan penciptaan ini pun bukan kuasa itu sendiri, sebab yang berkuasa dapat mampu atas segala sesuatu meskipun ia tidak mengadakannya. Pahamilah bahwa Allah Ta'ala mampu menciptakan banyak matahari dan banyak bulan, tetapi Dia tidak menciptakannya meskipun mampu menciptakannya. Dengan demikian terbuktilah bahwa pengadaan adalah sifat yang berbeda dari kuasa dan dari yang diadakan, dan itulah hasil yang hendak dicapai.
