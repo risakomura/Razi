@@ -12,9 +12,9 @@
 |---|---|
 | Tahap | Terjemahan penuh sedang berjalan |
 | Glosarium | Versi 1.0 (usulan v0.1 diberlakukan melalui instruksi "lanjut hingga tuntas kitab"); tambahan baru dicatat di 2.7 dan menunggu persetujuan eksplisit |
-| Sudah diterjemahkan | Pembuka Kitab; Bagian I, Pasal 1 (Premis 1 sampai 3) |
-| Kalimat terakhir | "Itulah tuntasnya pembahasan tentang premis-premis, dan hanya kepada Allah kita memohon taufik." |
-| Posisi berikutnya | Naskah Arab: *al-Faṣl al-Thānī fī Taqrīr al-Dalāʾil al-Samʿiyya* · Naskah Turki: *İkinci Kısım*, h. 40 |
+| Sudah diterjemahkan | Pembuka Kitab; Bagian I, Pasal 1 dan 2 |
+| Kalimat terakhir | "Hanya kepada Allah kita memohon taufik. (akhir Pasal Kedua: dalil-dalil naqli)" |
+| Posisi berikutnya | Naskah Arab: *al-Faṣl al-Thālith fī Iqāmat al-Dalāʾil al-ʿAqliyya* · Naskah Turki: *Üçüncü Kısım*, h. 57 |
 
 ---
 
@@ -309,3 +309,160 @@ Abu Ma'syar al-Munajjim menyebutkan bahwa sebab manusia berani menjadikan penyem
 
 Ketahuilah, banyak di antara mereka menolak kemungkinan gerak dan diam bagi Allah Ta'ala. Adapun Karramiyah, mereka tidak berpendapat adanya anggota dan organ tubuh, tetapi mengatakan bahwa Dia terikat pada (arah) di atas Arasy. Mazhab ini memuat tiga kemungkinan: adakalanya dikatakan bahwa Dia bersentuhan dengan Arasy; adakalanya dikatakan bahwa Dia terpisah darinya dengan jarak yang berhingga; dan adakalanya dikatakan bahwa Dia terpisah darinya dengan jarak yang tak berhingga. Masing-masing dari ketiga kemungkinan ini dianut oleh sekelompok Karramiyah. Mereka juga berselisih apakah Allah Ta'ala terikat pada arah-arah itu karena Zat-Nya sendiri ataukah karena suatu makna (*maʿnā*, معنى) yang qadim. Itulah tuntasnya pembahasan tentang premis-premis, dan hanya kepada Allah kita memohon taufik.
 
+### Pasal Kedua: Penetapan Dalil-Dalil Naqli bahwa Allah Ta'ala Mahasuci dari Kejisiman, Ruang, dan Arah
+
+*(Tr. h. 40)*
+
+**Hujah pertama**: firman Allah Ta'ala, *"Katakanlah (Nabi Muhammad), 'Dialah Allah Yang Maha Esa. Allah tempat meminta segala sesuatu. Dia tidak beranak dan tidak pula diperanakkan, serta tidak ada sesuatu pun yang setara dengan-Nya.'"*⁶ Ketahuilah, telah masyhur dalam tafsir bahwa Nabi shallallahu 'alaihi wasallam ditanya tentang esensi Tuhannya, tentang sifat dan ciri-Nya, lalu beliau menanti jawaban dari Allah Ta'ala, maka Allah menurunkan surah ini. Jika engkau telah mengetahui hal itu, kami katakan: surah ini mesti termasuk ayat-ayat muhkam (*muḥkam*, محكم), bukan mutasyabih (*mutashābih*, متشابه), sebab Allah Ta'ala menjadikannya jawaban atas pertanyaan orang-orang yang menyerupakan (Allah)⁷, bahkan menurunkannya tepat ketika penjelasan dibutuhkan. Itu menuntut surah ini termasuk ayat-ayat muhkam, bukan mutasyabih. Jika ini telah tetap, wajiblah dipastikan bahwa setiap mazhab yang menyalahi surah ini batil.
+
+Kami katakan: firman-Nya *aḥad* (Esa) menunjukkan penafian kejisiman dan penafian ruang dan arah. Adapun petunjuknya bahwa Allah Ta'ala bukan jisim ialah karena jisim, paling sedikit, tersusun dari dua substansi (*jawhar*, جوهر), dan itu menafikan keesaan, sedangkan kata *aḥad* adalah bentuk penegasan (*mubālagha*) dalam makna keesaan. Maka firman-Nya *aḥad* menafikan kejisiman. Adapun petunjuknya bahwa Dia bukan substansi, kami katakan:⁸ orang-orang yang mengingkari atom (*al-jawhar al-fard*, الجوهر الفرد) berkata bahwa setiap yang menempati ruang (*mutaḥayyiz*, متحيز) mesti memiliki satu sisi yang terbedakan dari sisi yang lain; sebab kanannya pasti terbedakan dari kirinya, depannya dari belakangnya, dan atasnya dari bawahnya. Segala sesuatu yang di dalamnya satu hal terbedakan dari hal lain adalah sesuatu yang terbagi. Sebab, kanannya bersifat kanan, bukan kiri, dan kirinya bersifat kiri, bukan kanan. Seandainya kanannya adalah kirinya itu sendiri, niscaya berhimpun pada satu hal yang sama bahwa ia kanan sekaligus bukan kanan, kiri sekaligus bukan kiri; maka berhimpunlah penafian dan penetapan pada satu hal, dan itu mustahil. Mereka berkata: maka tetaplah bahwa setiap yang menempati ruang itu terbagi, dan tetap pula bahwa setiap yang terbagi bukanlah *aḥad*. Karena Allah Ta'ala bersifat *aḥad*, wajiblah Dia sama sekali tidak menempati ruang, dan itu menafikan bahwa Dia substansi. Adapun orang-orang yang menetapkan adanya atom, mereka tidak dapat berdalil dari sisi ini untuk menafikan bahwa Allah Ta'ala substansi. Namun mereka dapat berhujah dengan ayat ini dari segi lain untuk menafikannya, yaitu: sebagaimana kata *aḥad* dimaksudkan untuk menafikan ketersusunan dan perpaduan pada zat, ia juga dimaksudkan untuk menafikan lawan dan tandingan. Seandainya Allah Ta'ala adalah atom, niscaya setiap atom adalah padanan bagi-Nya, dan itu menafikan keesaan-Nya. Lalu mereka menguatkan segi ini dengan firman-Nya, *"serta tidak ada sesuatu pun yang setara dengan-Nya."* Seandainya Dia substansi, niscaya setiap atom setara dengan-Nya. Maka, dari segi yang telah kami tetapkan, surah ini menunjukkan bahwa Allah Ta'ala bukan jisim dan bukan substansi. Jika telah tetap bahwa Dia bukan jisim dan bukan substansi, wajiblah Dia tidak berada pada ruang dan arah mana pun. Sebab, segala sesuatu yang terikat pada ruang dan arah, jika ia terbagi, ia adalah jisim, dan telah kami jelaskan kebatilannya; dan jika tidak terbagi, ia adalah atom, dan telah kami jelaskan pula kebatilannya. Karena kedua kemungkinan itu batil, tetaplah bahwa Dia mustahil berada pada suatu arah sama sekali. Maka tetaplah bahwa firman-Nya *aḥad* menunjukkan secara pasti (*qaṭʿī*, قطعي) bahwa Allah Ta'ala bukan jisim, bukan substansi, dan sama sekali tidak berada pada ruang dan arah.
+
+⁶ CT: QS al-Ikhlas [112]: 1-4.
+
+⁷ CT: Yang dimaksud di sini adalah kaum musyrik yang ragu tentang Zat dan sifat-sifat Allah Ta'ala serta mencampuradukkan yang hakiki dengan yang tidak hakiki. (catatan penerjemah)
+
+⁸ CT: Pada masa klasik, mayoritas ulama meyakini bahwa materi tersusun dari dua unsur pokok, yaitu substansi dan aksiden. (catatan penerjemah)
+
+Ketahuilah, sebagaimana Allah Ta'ala menegaskan bahwa Dia Esa, Dia pun menegaskan burhan (*burhān*, برهان) yang karenanya Dia wajib dinyatakan Esa. Dia berfirman, *"Dialah Allah Yang Maha Esa."*⁹ Keadaan-Nya sebagai Tuhan menuntut Dia tidak membutuhkan segala sesuatu selain-Nya. Sementara itu, setiap yang tersusun membutuhkan setiap bagiannya, dan setiap bagiannya adalah selain dirinya; maka setiap yang tersusun membutuhkan selain dirinya. Keadaan-Nya sebagai Tuhan mencegah-Nya membutuhkan selain diri-Nya, dan itu mengharuskan kepastian bahwa Dia Esa. Keesaan-Nya mengharuskan kepastian bahwa Dia bukan jisim, bukan substansi, dan tidak berada pada ruang dan arah. Maka tetaplah bahwa firman Allah Ta'ala, *"Dialah Allah Yang Maha Esa,"* adalah burhan yang pasti atas tetapnya semua tuntutan ini.
+
+Adapun firman-Nya, *"Allah tempat meminta segala sesuatu (ash-Shamad),"*¹⁰ maka *ash-Shamad* ialah Tuan yang dituju dalam segala kebutuhan. Ini menunjukkan bahwa Dia bukan jisim dan tidak terikat pada ruang dan arah. Petunjuknya atas penafian kejisiman dapat ditinjau dari beberapa segi.
+
+Pertama, setiap jisim tersusun, dan setiap yang tersusun membutuhkan setiap bagiannya, sedangkan setiap bagiannya adalah selain dirinya; maka setiap yang tersusun membutuhkan selain dirinya. Yang membutuhkan selain dirinya bukanlah Yang Mahakaya; ia membutuhkan selain dirinya, sehingga ia bukan *ash-Shamad* secara mutlak.
+
+Kedua, seandainya Dia tersusun dari organ dan anggota tubuh, niscaya Dia membutuhkan mata untuk melihat, tangan untuk berbuat, dan kaki untuk berjalan; dan itu menafikan keadaan-Nya sebagai *ash-Shamad* secara mutlak.
+
+Ketiga, kami akan menegakkan dalil bahwa jisim-jisim itu serupa satu sama lain, dan hal-hal yang serupa wajib berserikat dalam kelaziman-kelazimannya. Maka, seandainya sebagian jisim membutuhkan sebagian yang lain, niscaya semua jisim membutuhkan jisim itu, dan niscaya pula jisim itu membutuhkan dirinya sendiri; semua itu mustahil. Karena hal itu mustahil, wajiblah tidak ada satu jisim pun yang membutuhkan-Nya; dan jika demikian, Dia bukanlah *ash-Shamad* secara mutlak.
+
+Adapun petunjuknya bahwa Allah Ta'ala mahasuci dari ruang dan arah ialah: seandainya Allah Ta'ala terikat pada ruang dan arah, maka keberadaan-Nya pada ruang tertentu itu adakalanya wajib, adakalanya jaiz. Jika wajib, maka Zat Allah Ta'ala membutuhkan ruang tertentu itu untuk wujud dan kenyataan-Nya, sedangkan ruang tertentu itu tidak membutuhkan Zat-Nya yang khusus itu. Sebab, seandainya kita andaikan Zat Allah Ta'ala tidak berada di ruang tertentu itu, ruang itu sama sekali tidak menjadi batal. Dengan pengandaian ini, Allah Ta'ala membutuhkan ruang itu, sehingga Dia bukan *ash-Shamad* secara mutlak. Adapun jika keberadaan-Nya pada ruang tertentu itu jaiz, tidak wajib, maka Dia membutuhkan suatu pengkhusus (*mukhaṣṣiṣ*, مخصص) yang mengkhususkan-Nya pada ruang tertentu itu; dan itu mengharuskan Dia membutuhkan, serta menafikan keadaan-Nya sebagai *ash-Shamad*.
+
+Adapun firman-Nya, *"serta tidak ada sesuatu pun yang setara dengan-Nya,"*¹¹ ini pun menunjukkan bahwa Dia bukan jisim dan bukan substansi. Sebab, kami akan menegakkan dalil bahwa substansi-substansi itu serupa satu sama lain. Maka, seandainya Allah Ta'ala substansi, niscaya Dia padanan bagi semua substansi, sehingga setiap substansi setara dengan-Nya. Dan seandainya Dia jisim, niscaya Dia tersusun dari substansi-substansi, karena demikianlah jisim, lalu kembalilah keharusan yang telah disebutkan. Maka tetaplah bahwa surah ini termasuk dalil yang paling terang bahwa Allah Ta'ala bukan jisim, bukan substansi, dan tidak berada pada tempat dan ruang.
+
+⁹ CT: QS al-Ikhlas [112]: 1.
+
+¹⁰ CT: QS al-Ikhlas [112]: 2.
+
+¹¹ CT: QS al-Ikhlas [112]: 4.
+
+Ketahuilah, sebagaimana orang-orang kafir bertanya kepada Rasul tentang sifat Tuhannya, lalu Allah menjawab dengan surah ini yang menunjukkan bahwa Allah Ta'ala mahasuci dari keadaan sebagai jisim, substansi, atau sesuatu yang terikat pada tempat, demikian pula Fir'aun bertanya kepada Musa 'alaihissalam tentang sifat Allah Ta'ala. Ia berkata, *"Apakah Tuhan seluruh alam itu?"*¹²ᵃ Musa tidak menjawab pertanyaan ini kecuali dengan menyebut bahwa Allah Ta'ala adalah Pencipta dan Pengatur manusia, serta Pencipta dan Pengatur langit dan bumi. Ini pun termasuk dalil terkuat bahwa Allah Ta'ala tidak menempati ruang dan tidak berada pada arah. Sebab, kami akan menjelaskan, insyaallah, bahwa keadaan sesuatu sebagai bervolume dan menempati ruang adalah zat, diri, dan hakikatnya sendiri, bukan sifat yang melekat pada zat. Adapun keadaan-Nya sebagai Pencipta dan Pengatur segala sesuatu adalah sifat. Sementara itu, kata *mā* (apakah) adalah pertanyaan tentang esensi dan permintaan akan hakikat. Maka, seandainya Allah Ta'ala menempati ruang, niscaya menjawab pertanyaan *"Apakah Tuhan seluruh alam itu?"*¹³ dengan menyebut bahwa Dia menempati ruang lebih tepat daripada menjawabnya dengan menyebut bahwa Dia Pencipta. Jika demikian, jawaban Musa 'alaihissalam keliru, dan tuduhan Fir'aun bahwa ia *"orang gila"*¹⁴ yang tidak memahami pertanyaan dan tidak mengajukan jawaban yang tepat dan mengena atas pertanyaan itu menjadi benar. Karena itu batil, kita tahu bahwa Allah Ta'ala tidak menempati ruang. Maka, tak ayal, hakikat-Nya Subhanahu wa Ta'ala tidak dapat diperkenalkan kecuali dengan menyebut bahwa Dia Pencipta dan Pengatur. Maka jawaban Musa 'alaihissalam benar, dan pertanyaan Fir'aun gugur dan rusak. Maka tetaplah bahwa sebagaimana jawaban Muhammad atas pertanyaan orang-orang kafir tentang sifat Allah Ta'ala menunjukkan kemahasucian Allah Ta'ala dari keadaan menempati ruang, demikian pula jawaban Musa 'alaihissalam.
+
+Adapun sang Khalil (Ibrahim) shallallahu 'alaihi wasallam, Allah Ta'ala mengisahkan dalam Kitab-Nya bahwa ia berdalil dengan terjadinya perubahan pada keadaan bintang-bintang atas kebaharuannya, lalu ketika dalilnya tuntas ia berkata, *"Sesungguhnya aku menghadapkan wajahku kepada (Allah) yang menciptakan langit dan bumi dengan penuh kepasrahan (mengikuti) agama yang benar."*¹⁵ Ketahuilah, peristiwa ini menunjukkan penyucian dan pengkudusan Allah Ta'ala dari keadaan menempati ruang dan arah. Petunjuknya atas penyucian Allah Ta'ala dari keadaan menempati ruang dapat ditinjau dari beberapa segi.
+
+Pertama, kami akan menjelaskan, insyaallah, bahwa jisim-jisim itu serupa satu sama lain. Jika itu telah tetap, kami katakan: apa yang berlaku sah pada salah satu dari dua hal yang serupa, wajib berlaku sah pula pada yang lain. Maka, seandainya Allah Ta'ala jisim atau substansi, wajiblah berlaku sah pada-Nya segala yang berlaku sah pada selain-Nya, dan berlaku sah pada selain-Nya segala yang berlaku sah pada-Nya; dan itu menuntut kemungkinan berubah pada-Nya. Karena sang Khalil shallallahu 'alaihi wasallam memutuskan bahwa yang berubah dari satu keadaan ke keadaan lain tidak layak menjadi Tuhan, dan telah tetap bahwa seandainya Dia jisim niscaya perubahan berlaku sah pada-Nya, maka wajib dipastikan bahwa Allah Ta'ala sama sekali tidak menempati ruang.
+
+Kedua, ketika dalilnya tuntas, ia berkata, *"Aku menghadapkan wajahku kepada (Allah) yang menciptakan langit dan bumi,"* dan tidak menyebut satu pun sifat Allah Ta'ala selain bahwa Dia Pencipta alam. Allah Ta'ala memuji dan memuliakannya atas perkataan ini dengan firman-Nya, *"Itulah keterangan Kami yang Kami berikan kepada Ibrahim untuk menghadapi kaumnya. Kami tinggikan derajat siapa yang Kami kehendaki."*¹⁶ Seandainya Tuhan alam adalah jisim yang bersifat dengan ukuran tertentu dan bentuk tertentu, niscaya pengetahuan tentang-Nya tidak sempurna kecuali setelah mengetahui bahwa Dia jisim yang menempati ruang. Jika demikian, ia tidak layak dipuji dan dimuliakan hanya karena mengetahui bahwa Dia Pencipta alam. Karena kadar pengetahuan ini sudah memadai bagi kesempurnaan pengenalan akan Allah Ta'ala, hal itu menunjukkan bahwa Allah Ta'ala tidak menempati ruang.
+
+Ketiga, seandainya Allah Ta'ala jisim, niscaya setiap jisim berserikat dengan-Nya dalam keseluruhan esensi-Nya. Maka pendapat bahwa Dia jisim menuntut penetapan sekutu bagi Allah Ta'ala, dan itu bertentangan dengan perkataannya, *"dan aku bukanlah termasuk orang-orang musyrik."* Maka tetaplah, dengan apa yang telah kami sebutkan, bahwa para nabi yang agung, semoga selawat Allah tercurah kepada mereka, memastikan penyucian dan pengkudusan Allah Ta'ala dari kejisiman, kesubstansian, dan arah. Hanya kepada Allah kita memohon taufik.
+
+¹² CT: QS asy-Syu'ara' [26]: 23.
+
+¹³ CT: QS asy-Syu'ara' [26]: 23.
+
+¹⁴ CT: QS asy-Syu'ara' [26]: 27.
+
+¹⁵ CT: QS al-An'am [6]: 79.
+
+¹⁶ CT: QS al-An'am [6]: 83.
+
+ᵃ CP: Terjemahan Kemenag mengalihkan *mā* dalam QS asy-Syu'ara' [26]: 23 menjadi "siapa". Di sini dipakai "apakah", karena seluruh argumen ar-Razi bertumpu pada *mā* sebagai pertanyaan tentang esensi.
+
+**Hujah kedua dari Al-Qur'an**: firman Allah Ta'ala, *"Tidak ada sesuatu pun yang serupa dengan-Nya."*¹⁷ Seandainya Dia jisim, niscaya Dia padanan bagi semua jisim dalam keseluruhan esensi, sebab kami akan menjelaskan, insyaallah, dengan dalil-dalil yang terang bahwa jisim-jisim itu semuanya serupa satu sama lain; dan itu seolah-olah bertentangan dengan nas ini. Jika dikatakan: mengapa tidak boleh dikatakan bahwa Allah Ta'ala, walaupun jisim, berbeda dari jisim-jisim lain, sebagaimana manusia dan kuda, walaupun sama-sama jisim, berbeda dalam keadaan dan sifat, sehingga tidak boleh dikatakan bahwa kuda itu semisal manusia? Demikian pula di sini. Jawabannya dari dua sisi.
+
+Pertama, kami akan menegakkan dalil bahwa jisim-jisim itu semuanya serupa dalam keseluruhan esensi. Maka, seandainya Allah Ta'ala jisim, niscaya Zat-Nya padanan bagi semua jisim, dan itu menyalahi nas. Manusia dan kuda, zat masing-masing serupa dengan zat yang lain; perbedaan hanya terjadi pada sifat dan aksiden (*aʿrāḍ*, أعراض). Jika dua zat itu serupa, maka terikatnya masing-masing pada sifat-sifat khususnya termasuk hal yang jaiz, bukan yang wajib, sebab hal-hal yang serupa dalam keseluruhan zat dan esensi tidak mungkin berbeda dalam kelaziman-kelazimannya. Maka, seandainya Sang Pencipta Ta'ala jisim, wajiblah keterikatan-Nya pada sifat-sifat khusus-Nya termasuk hal yang jaiz; dan jika demikian, niscaya Dia membutuhkan pengatur dan pengkhusus, dan itu membatalkan pendapat bahwa Dia Tuhan alam.
+
+Kedua, dengan pengandaian bahwa Allah Ta'ala berserikat dengan jisim-jisim lain dalam kejisiman dan berbeda dari mereka dalam esensi khusus-Nya, wajiblah terjadi kemajemukan pada Zat Allah Ta'ala. Sebab, kejisiman adalah titik kesamaan antara Allah dan selain-Nya, sedangkan kekhususan Zat-Nya bukan titik kesamaan antara Allah Ta'ala dan selain-Nya; dan titik kesamaan berlainan dengan titik pembeda. Itu menuntut terjadinya ketersusunan pada Zat-Nya yang khusus, dan setiap yang tersusun adalah mungkin, bukan wajib, sebagaimana telah kami jelaskan. Maka tetaplah bahwa pertanyaan ini gugur. Allah lebih mengetahui.
+
+¹⁷ CT: QS asy-Syura [42]: 11.
+
+**Hujah ketiga**: firman Allah Ta'ala, *"Allahlah Yang Mahakaya dan kamulah yang fakir."*¹⁸ Ayat ini menunjukkan bahwa Allah Ta'ala Mahakaya. Seandainya Dia jisim, niscaya Dia tidak Mahakaya, sebab setiap jisim tersusun dan setiap yang tersusun membutuhkan setiap bagiannya. Lagi pula, seandainya keterikatan-Nya pada arah itu wajib, niscaya Dia membutuhkan arah, dan itu merusak keadaan-Nya sebagai Yang Mahakaya secara mutlak.
+
+¹⁸ CT: QS Muhammad [47]: 38.
+
+**Hujah keempat**: firman Allah Ta'ala, *"Tidak ada tuhan selain Dia, Yang Mahahidup lagi terus-menerus mengurus (makhluk-Nya)."*¹⁹ *Al-Qayyūm* ialah Dia yang berdiri sendiri dan menegakkan selain-Nya. Keadaan-Nya berdiri sendiri berarti Dia tidak membutuhkan segala sesuatu selain-Nya, dan keadaan-Nya menegakkan selain-Nya berarti segala sesuatu selain-Nya membutuhkan-Nya. Seandainya Dia jisim, niscaya Dia membutuhkan selain-Nya, yaitu bagian-Nya, dan selain-Nya, yaitu bagian-Nya itu, tidak membutuhkan-Nya; maka ketika itu Dia bukan *al-Qayyūm*. Lagi pula, seandainya keberadaan-Nya di suatu ruang itu wajib, niscaya Dia membutuhkan ruang itu, sehingga Dia bukan *al-Qayyūm* secara mutlak. Jika dikatakan: bukankah kalian berpendapat bahwa Dia wajib bersifat dengan ilmu, dan menurut kalian hal itu tidak merusak keadaan-Nya sebagai *al-Qayyūm*? Maka mengapa tidak boleh pula dikatakan bahwa Dia wajib berada di ruang tertentu, dan hal itu tidak merusak keadaan-Nya sebagai *al-Qayyūm*? Dijawab: menurut kami, Zat-Nya ibarat yang mengharuskan sifat itu, dan hal itu tidak merusak pensifatan Zat sebagai *al-Qayyūm*. Adapun di sini, tidak mungkin dikatakan bahwa Zat-Nya mengharuskan ruang tertentu itu, sebab dengan pengandaian bahwa Dia tidak berada di ruang itu, tidak lantas ruang itu batal atau tiada. Maka ruang itu tidak membutuhkan-Nya, sedangkan Dia membutuhkan ruang itu. Maka jelaslah perbedaannya. Allah lebih mengetahui.
+
+¹⁹ CT: QS al-Baqarah [2]: 255.
+
+**Hujah kelima**: firman Allah Ta'ala, *"Apakah engkau mengetahui ada sesuatu yang sama dengan-Nya?"*²⁰ Ibnu Abbas radhiyallahu 'anhuma berkata: "Apakah engkau mengetahui ada padanan bagi-Nya?" Seandainya Dia menempati ruang, niscaya setiap substansi adalah padanan-Nya.
+
+²⁰ CT: QS Maryam [19]: 65.
+
+**Hujah keenam**: firman Allah Ta'ala, *"Dialah Allah Yang Maha Pencipta, Yang Mengadakan, Yang Membentuk Rupa."*²¹ Segi pendalilannya: telah kami jelaskan dalam kitab-kitab kami yang lain bahwa *al-khāliq* (pencipta) dalam bahasa berarti yang menentukan ukuran. Seandainya Allah Ta'ala jisim, niscaya Dia berhingga; dan jika berhingga, niscaya Dia terkhususkan dengan ukuran tertentu. Karena Dia menyifati diri-Nya sebagai Pencipta, wajiblah Allah Ta'ala menjadi penentu ukuran bagi segala yang berukuran dengan ukuran-ukurannya yang khusus. Maka, jika Dia sendiri berukuran pada Zat-Nya dengan ukuran tertentu, niscaya Dia penentu ukuran bagi diri-Nya sendiri, dan itu mustahil. Lagi pula, seandainya Dia jisim, niscaya Dia berhingga; setiap yang berhingga dikelilingi oleh satu batas atau batas-batas yang beragam; setiap yang demikian berbentuk; dan setiap yang berbentuk memiliki rupa. Maka, seandainya Dia jisim, niscaya Dia memiliki rupa. Padahal Allah Ta'ala menyifati diri-Nya sebagai Pembentuk Rupa, sehingga niscaya Dia pembentuk rupa bagi diri-Nya sendiri, dan itu mustahil. Maka wajiblah Dia mahasuci dari rupa dan kejisiman agar kemustahilan ini tidak terjadi.
+
+²¹ CT: QS al-Hasyr [59]: 24.
+
+**Hujah ketujuh**: firman Allah Ta'ala, *"Dialah Yang Awal, Yang Akhir, Yang Zahir, dan Yang Batin."*²² Dia menyifati diri-Nya sebagai Yang Zahir dan Yang Batin. Seandainya Dia jisim, niscaya sisi lahirnya berlainan dengan sisi batinnya, sehingga satu hal yang sama tidak dapat disifati sebagai zahir dan batin sekaligus. Sebab, dengan pengandaian bahwa Dia jisim, yang zahir dari-Nya adalah permukaan-Nya dan yang batin dari-Nya adalah kedalaman-Nya, sehingga satu hal yang sama tidak zahir dan batin sekaligus. Lagi pula, para mufasir berkata: Dia zahir dari sisi dalil-dalil, dan batin dari sisi bahwa Dia tidak dicerap oleh indra dan tidak terjangkau oleh khayal. Seandainya Dia jisim, niscaya Dia tidak mungkin disifati sebagai tidak dicerap oleh indra dan tidak terjangkau oleh khayal.
+
+²² CT: QS al-Hadid [57]: 3.
+
+**Hujah kedelapan**: firman Allah Ta'ala, *"sedangkan ilmu mereka tidak dapat meliputi-Nya,"*²³ dan firman-Nya, *"Dia tidak dapat dijangkau oleh penglihatan mata."*²⁴ Ini menunjukkan bahwa Allah Ta'ala mahasuci dari ukuran, bentuk, dan rupa; sebab jika tidak, niscaya pencerapan dan ilmu dapat meliputi-Nya, dan itu menyalahi kedua nas ini.
+
+Jika dikatakan: mengapa tidak boleh dikatakan bahwa Dia, walaupun jisim, adalah jisim yang besar, sehingga karena itulah pencerapan dan ilmu tidak dapat meliputi-Nya? Kami jawab: jika demikian halnya, sah pula dikatakan bahwa ilmu dan penglihatan makhluk tidak dapat meliputi langit, gunung, lautan, dan padang-padang luas, sebab semua itu jisim-jisim besar yang ujung-ujungnya tidak terliputi oleh penglihatan dan keseluruhan bagiannya tidak terjangkau oleh ilmu. Jika demikian halnya, tidak ada faedahnya mengkhususkan Zat Allah Ta'ala dengan sifat ini.
+
+²³ CT: QS Taha [20]: 110.
+
+²⁴ CT: QS al-An'am [6]: 103.
+
+**Hujah kesembilan**: firman Allah Ta'ala, *"Apabila hamba-hamba-Ku bertanya kepadamu (Nabi Muhammad) tentang Aku, sesungguhnya Aku dekat. Aku mengabulkan permohonan orang yang berdoa apabila dia berdoa kepada-Ku. Maka, hendaklah mereka memenuhi (perintah)-Ku dan beriman kepada-Ku agar mereka selalu berada dalam kebenaran."*²⁵ Nabi shallallahu 'alaihi wasallam pernah ditanya, "Apakah Tuhan kami dekat sehingga kami bermunajat kepada-Nya, ataukah jauh sehingga kami menyeru-Nya?" Lalu Allah Ta'ala menurunkan ayat ini. Seandainya Allah Ta'ala berada di langit atau di Arasy, tidaklah benar perkataan bahwa Allah Ta'ala dekat dengan hamba-hamba-Nya.
+
+²⁵ CT: QS al-Baqarah [2]: 186.
+
+**Hujah kesepuluh**: seandainya Allah Ta'ala berada pada arah atas, niscaya Dia adalah langit; dan seandainya Dia langit, niscaya Dia makhluk bagi diri-Nya sendiri, dan itu mustahil. Maka keberadaan-Nya pada arah atas mustahil. Kami katakan bahwa seandainya Allah Ta'ala berada pada arah atas niscaya Dia langit, karena dua segi.
+
+Pertama, kata *samāʾ* (langit) diturunkan dari *sumuww* (ketinggian), dan segala sesuatu yang menaungimu adalah *samāʾ*. Inilah derivasi kebahasaan yang asli, dan kebiasaan pemakaian Al-Qur'an pun mengukuhkannya. Buktinya, para mufasir menyebutkan dalam tafsir firman Allah Ta'ala, *"dan Dia (juga) menurunkan (butiran-butiran) es dari langit, (yaitu) dari (gumpalan-gumpalan awan seperti) gunung-gunung,"*²⁶ bahwa yang dimaksud adalah awan. Mereka berkata: menamai awan dengan *samāʾ* dibenarkan karena padanya terdapat makna ketinggian. Mereka juga menyebutkan dalam tafsir firman-Nya, *"Kami turunkan dari langit air yang sangat suci,"*²⁷ bahwa yang dimaksud adalah dari awan. Maka tetaplah bahwa derivasi kebahasaan dan kebiasaan pemakaian Al-Qur'an bersesuaian dalam menamai segala sesuatu yang bersifat tinggi dan luhur dengan *samāʾ*.
+
+Kedua, seandainya Allah Ta'ala berada di atas Arasy, niscaya siapa pun yang duduk di Arasy lalu memandang ke atas tidak melihat apa-apa kecuali ujung Zat Allah Ta'ala. Maka nisbah ujung permukaan terakhir Zat Allah Ta'ala terhadap penghuni Arasy sama dengan nisbah permukaan terakhir langit terhadap penghuni bumi. Itu menuntut kepastian bahwa seandainya Dia berada di atas Arasy, niscaya Zat-Nya bagaikan langit bagi penghuni Arasy. Maka tetaplah bahwa seandainya Allah Ta'ala terikat pada arah atas, niscaya Zat-Nya adalah langit.
+
+Kami katakan bahwa seandainya Zat-Nya langit niscaya Zat-Nya makhluk, karena firman Allah Ta'ala, *"diturunkan dari (Allah) yang menciptakan bumi dan langit yang tinggi."*²⁸ Kata *al-samāwāt* adalah bentuk jamak yang diberi *alif lām*, dan ini menuntut seluruh langit adalah makhluk Allah Ta'ala. Maka, seandainya Dia langit, niscaya Dia pencipta bagi diri-Nya sendiri. Demikian pula firman Allah Ta'ala, *"Sesungguhnya Tuhanmu adalah Allah yang menciptakan langit dan bumi dalam enam masa,"*²⁹ menunjukkan apa yang kami sebutkan. Maka tetaplah bahwa seandainya Allah Ta'ala terikat pada arah atas, niscaya Dia langit; seandainya Dia langit, niscaya Dia makhluk bagi diri-Nya sendiri; dan ini mustahil. Maka wajiblah Dia tidak terikat pada arah atas.
+
+Jika dikatakan: menurut kebiasaan pemakaian, kata *samāʾ* khusus untuk benda-benda langit yang melingkar ini; lagi pula, andaikan kata ini dalam peletakan asalnya mencakup Zat Allah Ta'ala, (keumumannya dapat dikhususkan). Kami jawab: perbedaan (yang kalian ajukan pada keberatan pertama) tidak dapat diterima. Bagaimana tidak, sementara telah kami buktikan bahwa dengan pengandaian Allah Ta'ala terikat pada arah atas, nisbah Zat-Nya terhadap penghuni Arasy sama dengan nisbah langit terhadap penghuni bumi. Maka wajib dipastikan bahwa seandainya Dia terikat pada arah atas, niscaya Dia langit. Adapun jawaban atas keberatan kedua: pengkhususan keumuman hanya ditempuh dalam keadaan terpaksa. Seandainya ada dalil rasional yang pasti bahwa Allah Ta'ala terikat pada arah atas, kita wajib menempuh pengkhususan ini. Namun, selama tidak satu dalil pun tegak atas hal itu, bahkan dalil-dalil rasional dan naqli yang pasti justru tegak atas kemustahilan-Nya berada pada arah, kita tidak terpaksa menerima pengkhususan ini. Maka gugurlah perkataan itu.
+
+²⁶ CT: QS an-Nur [24]: 43.
+
+²⁷ CT: QS al-Furqan [25]: 48.
+
+²⁸ CT: QS Taha [20]: 4.
+
+²⁹ CT: QS Yunus [10]: 3; QS al-A'raf [7]: 54.
+
+**Hujah kesebelas**: firman Allah Ta'ala, *"Katakanlah (Nabi Muhammad), 'Milik siapakah apa yang ada di langit dan di bumi?' Katakanlah, 'Milik Allah.'"*³⁰ Ini mengisyaratkan bahwa tempat dan segala isinya adalah milik Allah Ta'ala. Dan firman-Nya, *"Milik-Nyalah segala apa yang ada pada malam dan siang hari,"*³¹ menunjukkan bahwa waktu dan segala isinya adalah milik Allah Ta'ala. Kedua ayat itu bersama-sama menunjukkan bahwa tempat dan segala yang bertempat, waktu dan segala yang berwaktu, semuanya milik Allah Ta'ala; dan itu menunjukkan kemahasucian-Nya dari tempat dan waktu. Segi ini disebutkan oleh Abu Muslim al-Ashfahani rahimahullah dalam tafsirnya.
+
+Ketahuilah, dalam didahulukannya penyebutan tempat atas penyebutan waktu terdapat rahasia yang mulia dan hikmah yang tinggi.
+
+³⁰ CT: QS al-An'am [6]: 12.
+
+³¹ CT: QS al-An'am [6]: 13.
+
+**Hujah kedua belas**: firman Allah Ta'ala, *"Pada hari itu delapan malaikat menjunjung Arasy Tuhanmu di atas (kepala) mereka."*³² Seandainya Sang Pencipta berada di Arasy, niscaya pemikul Arasy memikul pula Dia yang berada di Arasy, sehingga Sang Pencipta membutuhkan makhluk. Dekat dengan ini firman-Nya, *"(Malaikat-malaikat) yang memikul Arasy."*³³
+
+³² CT: QS al-Haqqah [69]: 17.
+
+³³ CT: QS Gafir [40]: 7.
+
+**Hujah ketiga belas**: seandainya Allah Ta'ala menetap di atas Arasy, niscaya memulai penciptaan dengan Arasy lebih patut daripada memulainya dengan langit. Sebab, dengan pengandaian bahwa Dia menetap di atas Arasy, Arasy adalah tempat bagi-Nya, sedangkan langit adalah tempat bagi hamba-hamba-Nya; dan yang lebih dekat kepada akal ialah menyiapkan tempat bagi diri sendiri lebih dahulu daripada menyiapkan tempat bagi hamba-hamba. Namun sudah maklum³⁴ bahwa penciptaan langit mendahului penciptaan Arasy, berdasarkan firman-Nya, *"Sesungguhnya Tuhanmu adalah Allah yang menciptakan langit dan bumi dalam enam masa, kemudian Dia bersemayam di atas Arasy,"*³⁵ sedangkan kata *thumma* (kemudian) menunjukkan urutan yang berjarak.
+
+³⁴ CT: Sudah maklum bahwa Arasy diciptakan pada urutan kedua. Sebab, ketika Rasulullah shallallahu 'alaihi wasallam ditanya tentang permulaan penciptaan, beliau menjawab, "Arasy-Nya berada di atas air." Ini menunjukkan secara pasti bahwa Arasy diciptakan setelah air, dan sebelum bumi dan langit. Ayat tersebut tidak bermakna bahwa langit diciptakan sebelum Arasy. Hadis ini diriwayatkan oleh al-Bukhari dan al-Baihaqi.
+
+³⁵ CT: QS Yunus [10]: 3; QS al-A'raf [7]: 54.
+
+**Hujah keempat belas**: firman Allah Ta'ala, *"Segala sesuatu pasti binasa, kecuali wajah-Nya."*³⁶ Makna lahiriah ayat ini menuntut binasanya Arasy dan binasanya seluruh ruang dan arah, dan ketika itu Allah Yang Mahabenar Subhanahu wa Ta'ala tetap ada dalam keadaan mahasuci dari ruang dan arah. Jika itu telah tetap, mustahillah Dia sekarang berada pada suatu arah; sebab jika tidak, niscaya terjadi perubahan pada Zat. Jika dikatakan: ruang dan arah bukanlah sesuatu yang maujud sehingga dapat binasa dan fana. Kami jawab: ruang-ruang dan arah-arah adalah hal-hal yang berbeda hakikatnya dan berlainan esensinya. Buktinya, kalian berkata bahwa Zat Allah Ta'ala wajib berada pada arah atas dan mustahil berada pada arah-arah lainnya. Sekiranya arah atas tidak berbeda esensinya dari arah-arah lain, tentu arah atas tidak berbeda dari arah-arah lain dalam kekhasan dan hukum ini. Lagi pula, kita berkata, "Jisim ini berada di ruang ini setelah sebelumnya berada di ruang lain." Maka ruang-ruang ini terbilang, berlainan, dan silih berganti, sedangkan ketiadaan murni tidaklah demikian. Maka tetaplah bahwa ruang-ruang ini adalah hal-hal yang berbeda hakikatnya dan berlainan bilangannya, dan segala yang demikian mustahil merupakan ketiadaan murni; maka ia adalah sesuatu yang maujud. Jika ini telah tetap, ia tercakup dalam firman Allah Ta'ala, *"Segala sesuatu pasti binasa, kecuali wajah-Nya."* Apabila ruang dan arah binasa, Zat Allah Ta'ala tetap ada dalam keadaan mahasuci dari ruang. Sisa pembahasannya telah dikemukakan sebelumnya.
+
+³⁶ CT: QS al-Qashash [28]: 88.
+
+**Hujah kelima belas**: firman Allah Ta'ala, *"Dialah Yang Awal dan Yang Akhir."*³⁷ Ini menuntut Zat-Nya mendahului dalam wujud segala sesuatu selain-Nya dan datang kemudian dalam wujud setelah segala sesuatu selain-Nya. Itu menuntut Dia telah maujud sebelum ruang dan arah, dan tetap maujud setelah ruang dan arah fana. Jika ini telah tetap, penerapannya adalah seperti yang telah kami sebutkan pada hujah ketiga belas dan keempat belas.
+
+³⁷ CT: QS al-Hadid [57]: 3.
+
+**Hujah keenam belas**: firman Allah Ta'ala, *"sujudlah dan dekatkanlah (dirimu kepada Allah)."*³⁸ Seandainya Dia berada pada arah atas, niscaya sujud justru menghasilkan jarak dari Allah Ta'ala, bukan kedekatan kepada-Nya, dan itu menyalahi makna asalnya.
+
+³⁸ CT: QS al-'Alaq [96]: 19.
+
+**Hujah ketujuh belas**: firman Allah Ta'ala, *"Karena itu, janganlah kamu mengadakan tandingan-tandingan bagi Allah."*³⁹ *Al-nidd* (tandingan) berarti padanan. Seandainya Allah Ta'ala jisim, niscaya Dia padanan bagi setiap jisim, karena kami akan menjelaskan, insyaallah, bahwa jisim-jisim itu semuanya serupa satu sama lain. Maka dengan pengandaian ini tandingan itu ada, dan itu bertentangan dengan nas ini.
+
+³⁹ CT: QS al-Baqarah [2]: 22.
+
+**Hujah kedelapan belas**: hadis masyhur yang diriwayatkan bahwa Imran bin al-Hushain berkata, "Wahai Rasulullah, kabarkanlah kepada kami tentang permulaan perkara ini." Beliau bersabda, *"Allah telah ada, dan tidak ada sesuatu pun bersama-Nya."*⁴⁰ᵇ Telah berulang kali kami buktikan bahwa seandainya Allah Ta'ala terikat pada ruang dan arah, niscaya ruang itu adalah sesuatu yang maujud bersama-Nya, dan itu bertentangan dengan nas ini.
+
+⁴⁰ CT: Sumber hadis ini tidak dapat ditemukan.
+
+ᵇ CP: Hadis Imran bin al-Hushain diriwayatkan oleh al-Bukhari (*Kitāb Badʾ al-Khalq*) dengan lafaz *kāna Allāhu wa-lam yakun shayʾun ghayruhu* ("Allah telah ada, dan tidak ada sesuatu pun selain-Nya").
+
+Ketahuilah, sebagian dari segi-segi yang kami sebutkan ini kuat dan sebagian lemah. Bagaimanapun, telah tetap bahwa di dalam Al-Qur'an dan hadis terdapat banyak dalil yang menunjukkan kemahasucian Allah Ta'ala dari ruang dan arah. Hanya kepada Allah kita memohon taufik.
