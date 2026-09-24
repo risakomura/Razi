@@ -12,9 +12,9 @@
 |---|---|
 | Tahap | Terjemahan penuh sedang berjalan |
 | Glosarium | Versi 1.0 (usulan v0.1 diberlakukan melalui instruksi "lanjut hingga tuntas kitab"); tambahan baru dicatat di 2.7 dan menunggu persetujuan eksplisit |
-| Sudah diterjemahkan | Pembuka Kitab; Bagian I seluruhnya; Bagian II: Mukadimah, Pasal 1 sampai 29 |
-| Kalimat terakhir | "Inilah jawaban atas syubhat ini. Hanya kepada Allah kita memohon taufik." |
-| Posisi berikutnya | Naskah Arab: *al-Faṣl al-Thalāthūn fī Kalām Kullī fī Akhbār al-Āḥād* · Naskah Turki: *Otuzuncu Kısım*, h. 194 |
+| Sudah diterjemahkan | Pembuka Kitab; Bagian I dan Bagian II seluruhnya |
+| Kalimat terakhir | "Inilah kaidah umum (*al-qānūn al-kullī*) yang menjadi rujukan dalam semua ayat dan hadis mutasyabih. Hanya kepada Allah kita memohon taufik." |
+| Posisi berikutnya | Naskah Arab: *al-Qism al-Thālith fī Taqrīr Madhhab al-Salaf* · Naskah Turki: *Üçüncü Bölüm*, h. 203 |
 
 ---
 
@@ -2291,3 +2291,51 @@ Adapun jawaban atas pegangan mereka pada perkataan Fir'aun, *"Wahai Haman, buatk
 ³²⁵ CT: QS an-Najm [53]: 10.
 
 ³²⁶ CT: QS Gafir [40]: 36.
+
+### Pasal Ketiga Puluh: Uraian Umum tentang Hadis-Hadis Ahad
+
+*(Tr. h. 194)*
+
+Kami katakan: berpegang pada hadis ahad (*khabar al-wāḥid*, خبر الواحد) dalam pengenalan akan Allah Ta'ala tidak diperbolehkan. Hal itu ditunjukkan oleh beberapa segi.
+
+Pertama, hadis-hadis ahad bersifat dugaan (*ẓannī*), sehingga tidak boleh berpegang padanya dalam mengenal Allah Ta'ala dan sifat-sifat-Nya. Kami katakan bahwa ia bersifat dugaan karena kita telah bersepakat bahwa para perawi tidak maksum. Bagaimana tidak, sementara ketika kaum Rafidah sepakat tentang kemaksuman Ali radhiyallahu 'anhu seorang, para ahli hadis itu mengafirkan mereka. Jika pendapat tentang kemaksuman Ali karramallahu wajhah mengharuskan mereka mengafirkan orang-orang yang berpendapat tentang kemaksuman Ali, bagaimana mungkin mereka (menetapkan) kemaksuman para perawi ini? Jika mereka tidak maksum, kekeliruan boleh terjadi pada mereka dan dusta pun boleh terjadi pada mereka; maka ketika itu kejujuran mereka tidak diketahui secara pasti, melainkan diduga. Maka tetaplah bahwa hadis ahad bersifat dugaan, sehingga wajib tidak boleh berpegang padanya, karena firman Allah Ta'ala, *"Sesungguhnya dugaan itu tidak berfaedah sedikit pun terhadap kebenaran,"*³²⁷ karena firman Allah Ta'ala tentang sifat orang-orang kafir, *"Mereka tidak lain hanyalah mengikuti dugaan,"*³²⁸ *"Janganlah engkau mengikuti sesuatu yang tidak kauketahui,"*³²⁹ dan karena firman-Nya, *"dan mengatakan tentang Allah apa yang tidak kamu ketahui."*³³⁰ Keumuman ayat-ayat ini ditinggalkan dalam cabang-cabang syariat karena yang dituntut di sana adalah dugaan; maka wajiblah dalam masalah-masalah pokok (*uṣūl*) ia tetap pada hukum asalnya.
+
+Yang mengherankan dari kaum Hasywiyah ialah bahwa mereka berkata: menyibukkan diri dengan takwil ayat-ayat mutasyabih tidak boleh, karena penentuan takwil itu bersifat dugaan, sedangkan berkata dengan dugaan tentang Al-Qur'an tidak boleh. Kemudian mereka berbicara tentang Zat Allah Ta'ala dan sifat-sifat-Nya dengan hadis-hadis ahad, padahal hadis-hadis itu sangat jauh dari kepastian dan keyakinan. Jika mereka tidak membolehkan penafsiran lafaz-lafaz Al-Qur'an dengan jalan dugaan, maka lebih patut lagi mereka menahan diri dari berbicara tentang Zat al-Haqq Ta'ala dan sifat-sifat-Nya hanya dengan riwayat-riwayat yang lemah.
+
+Kedua, tingkatan perawi yang paling agung kedudukannya dan paling tinggi derajatnya adalah para sahabat radhiyallahu 'anhum. Namun kita tahu bahwa riwayat mereka tidak menghasilkan kepastian dan keyakinan. Dalilnya: para ahli hadis itu sendiri meriwayatkan dari mereka bahwa masing-masing dari mereka menggugat yang lain dan menisbahkannya kepada hal yang tidak patut. Bukankah masyhur bahwa Umar menggugat Khalid bin al-Walid, bahwa Ibnu Mas'ud dan Abu Dzar bersungguh-sungguh menggugat Utsman, dan dinukil dari Aisyah radhiyallahu 'anha bahwa ia bersungguh-sungguh menggugat Utsman? Bukankah Umar berkata tentang Utsman bahwa ia lebih mengutamakan kerabatnya, dan berkata tentang Thalhah dan az-Zubair hal-hal lain yang serupa dengan itu? Bukankah suatu hari Ali karramallahu wajhah mendengar Abu Hurairah berkata, "Kekasihku Abul Qasim mengabarkan kepadaku," lalu Ali berkata kepadanya, "Sejak kapan ia menjadi kekasihmu?" Bukankah Umar radhiyallahu 'anhu melarang Abu Hurairah banyak meriwayatkan? Bukankah Ibnu Abbas menggugat hadis Abu Sa'id tentang riba (dalam pertukaran), dan menggugat hadis Abu Hurairah tentang mencuci kedua tangan, seraya berkata, "Lalu bagaimana kami berbuat dengan bejana air kami yang besar?" Bukankah ketika Abu Hurairah meriwayatkan, "Siapa yang memasuki waktu subuh dalam keadaan junub, tidak sah puasanya," mereka menggugatnya? Bukankah ketika Ibnu Umar meriwayatkan, "Sesungguhnya mayat benar-benar diazab karena tangisan keluarganya atasnya," Aisyah menggugatnya dengan firman Allah Ta'ala, *"Seseorang tidak akan memikul beban dosa orang lain"*? Bukankah mereka menggugat hadis Fathimah binti Qais dan berkata, "Kami tidak akan meninggalkan Kitab Tuhan kami dan Sunnah Nabi kami karena kabar seorang perempuan yang kami tidak tahu apakah ia jujur atau berdusta"? Bukankah Umar menuntut saksi kepada Abu Musa al-Asy'ari tentang hadis meminta izin dan bersikap keras kepadanya? Bukankah Ali biasa menyumpah para perawi? Bukankah Ali berkata kepada Umar dalam sebagian peristiwa, "Jika mereka mendekatimu (dengan pendapat itu), sungguh mereka telah menipumu"?
+
+Ketahuilah, jika engkau menelaah kitab-kitab hadis, engkau akan mendapati hal-hal dari jenis ini yang tak terbilang dan tak terhitung. Jika ini telah tetap, kami katakan: si penggugat, jika ia jujur, gugatan itu mengena yang digugat; dan jika ia berdusta, gugatan itu mengena si penggugat. Bagaimanapun, gugatan pasti mengena. Hanya saja kami katakan bahwa Allah Ta'ala memuji para sahabat radhiyallahu 'anhum dalam Al-Qur'an secara umum, dan itu menghasilkan dugaan tentang kejujuran. Karena keunggulan inilah kami menerima riwayat mereka dalam cabang-cabang syariat. Adapun pembicaraan tentang Zat Allah Ta'ala dan sifat-sifat-Nya, bagaimana mungkin dibangun di atas riwayat yang lemah ini?
+
+Ketiga, telah masyhur di tengah umat bahwa sekelompok kaum mulhid telah memalsukan hadis-hadis mungkar dan bersiasat untuk menyebarkannya kepada para ahli hadis. Para ahli hadis, karena kebersihan hati mereka, tidak mengenalinya, bahkan menerimanya. Kemungkaran apa yang melebihi menyifati Allah Ta'ala dengan sesuatu yang merusak ketuhanan dan membatalkan rububiah? Maka wajib dipastikan bahwa hadis-hadis semacam ini palsu.
+
+Adapun al-Bukhari dan al-Qusyairi (Muslim), keduanya tidak mengetahui hal-hal gaib. Keduanya hanya berijtihad dan berhati-hati sebatas kemampuan mereka. Adapun meyakini bahwa keduanya mengetahui seluruh keadaan yang terjadi sejak zaman Rasul shallallahu 'alaihi wasallam sampai zaman kita, itu tidak dikatakan oleh seorang berakal pun. Paling jauh kita berbaik sangka kepada keduanya dan kepada orang-orang yang darinya keduanya meriwayatkan. Namun, apabila kita menyaksikan sebuah hadis yang memuat kemungkaran yang tidak mungkin disandarkan kepada Rasul shallallahu 'alaihi wasallam, kita memastikan bahwa itu termasuk pemalsuan kaum mulhid dan penyebaran mereka kepada para ahli hadis itu.
+
+Keempat, para ahli hadis itu menolak riwayat-riwayat dengan cacat yang paling ringan: "ia condong kepada kecintaan terhadap Ali, maka ia Rafidhi, sehingga riwayatnya tidak diterima"; "Ma'bad al-Juhani berpendapat tentang qadar, maka riwayatnya tidak diterima." Namun tidak ada seorang berakal pun di antara mereka yang berkata, "Ia menyifati Allah Ta'ala dengan sesuatu yang membatalkan ketuhanan dan rububiah-Nya, maka riwayatnya tidak diterima." Sungguh ini termasuk hal yang menakjubkan.
+
+Kelima, para perawi yang mendengar hadis-hadis ini dari Rasul shallallahu 'alaihi wasallam tidak menuliskannya dari lafaz Rasul. Mereka mendengar sesuatu dalam suatu majelis, lalu meriwayatkan hal-hal itu setelah dua puluh tahun atau lebih. Orang yang mendengar sesuatu dalam suatu majelis sekali saja, lalu meriwayatkannya setelah dua puluh atau tiga puluh tahun, tidak mungkin meriwayatkan lafaz-lafaz itu persis; dan ini seperti hal yang diketahui secara niscaya. Jika demikian halnya, telah pasti bahwa tidak satu pun dari lafaz-lafaz ini merupakan lafaz Rasul shallallahu 'alaihi wasallam; ia tidak lain adalah lafaz perawi. Dan bagaimana dapat dipastikan bahwa perawi ini (benar-benar) mendengar apa yang berlangsung dalam majelis itu? Sebab, orang yang mendengar suatu perkataan dalam satu majelis, lalu tidak menuliskannya dan tidak mengulang-ulangnya setiap hari, melainkan menyebutkannya setelah dua puluh atau tiga puluh tahun, menurut lahirnya ia telah melupakan banyak darinya, atau susunan, urutan, dan paduan perkataan itu menjadi kacau baginya. Dengan kemungkinan ini, bagaimana mungkin berpegang padanya dalam mengenal Zat Allah Ta'ala dan sifat-sifat-Nya?
+
+Ketahuilah, pembahasan dalam bab ini banyak, dan kadar yang telah kami kemukakan sudah memadai untuk menjelaskan bahwa tidak boleh berpegang pada hadis-hadis ahad dalam pokok agama. Allah lebih mengetahui.
+
+³²⁷ CT: QS an-Najm [53]: 28.
+
+³²⁸ CT: QS an-Najm [53]: 28.
+
+³²⁹ CT: QS al-Isra' [17]: 36. (Edisi Turki tertulis Yasin 36/36.)
+
+³³⁰ CT: QS al-Baqarah [2]: 169.
+
+### Pasal Ketiga Puluh Satu: Bagaimana Keadaannya bila Burhan-Burhan Rasional Berlawanan dengan Makna Lahiriah Dalil Naqli
+
+*(Tr. h. 198)*
+
+Ketahuilah, apabila dalil-dalil rasional yang pasti telah tegak atas tetapnya sesuatu, lalu kita mendapati dalil-dalil naqli yang makna lahiriahnya memberi kesan kebalikannya, maka keadaannya tidak lepas dari salah satu dari empat kemungkinan.
+
+Pertama, dibenarkan tuntutan akal dan naql sekaligus; maka niscaya dua hal yang bertentangan dibenarkan, dan itu mustahil.
+
+Kedua, keduanya dibatalkan; maka niscaya dua hal yang bertentangan didustakan, dan itu mustahil.
+
+Ketiga, dibenarkan makna lahiriah naqli dan didustakan (tuntutan) rasional; dan itu batil. Sebab, kita tidak mungkin mengetahui kesahihan makna lahiriah naqli kecuali bila kita telah mengetahui dengan dalil-dalil rasional penetapan Sang Pencipta dan sifat-sifat-Nya, cara mukjizat menunjukkan kebenaran Rasul shallallahu 'alaihi wasallam, dan munculnya mukjizat-mukjizat pada Muhammad shallallahu 'alaihi wasallam. Seandainya kita membolehkan gugatan terhadap dalil-dalil rasional yang pasti, akal menjadi tertuduh dan perkataannya tidak diterima; dan jika demikian, ia keluar dari kedudukannya sebagai yang diterima perkataannya dalam pokok-pokok ini. Jika pokok-pokok ini tidak tetap, dalil-dalil naqli keluar dari kedudukannya sebagai sesuatu yang berfaedah. Maka tetaplah bahwa menggugat (akal) demi membenarkan naql berujung pada gugatan terhadap akal dan naql sekaligus, dan itu batil.
+
+Karena kemungkinan-kemungkinan itu batil,ᵃ tidak tersisa kecuali memastikan tuntutan dalil-dalil rasional yang pasti, dan (menyatakan) bahwa dalil-dalil naqli ini adakalanya dikatakan tidak sahih, adakalanya dikatakan sahih tetapi yang dimaksud darinya bukan makna lahiriahnya. Kemudian, jika kita membolehkan takwil, kita menyibukkan diri, secara sukarela, dengan menyebutkan takwil-takwil itu secara terperinci; dan jika takwil tidak dibolehkan, kita serahkan pengetahuan tentangnya kepada Allah Ta'ala (*tafwīḍ*, تفويض). Inilah kaidah umum (*al-qānūn al-kullī*) yang menjadi rujukan dalam semua ayat dan hadis mutasyabih. Hanya kepada Allah kita memohon taufik.
+
+ᵃ CP: Teks Arab berbunyi "karena keempat kemungkinan itu batil", padahal yang dinyatakan batil baru tiga. Kemungkinan keempat yang tersisa, yakni membenarkan tuntutan akal dan tidak memberlakukan makna lahiriah naql, justru itulah yang kemudian dipilih; maka di sini dipakai ungkapan "kemungkinan-kemungkinan itu".
