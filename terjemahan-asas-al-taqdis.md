@@ -12,9 +12,9 @@
 |---|---|
 | Tahap | Terjemahan penuh sedang berjalan |
 | Glosarium | Versi 1.0 (usulan v0.1 diberlakukan melalui instruksi "lanjut hingga tuntas kitab"); tambahan baru dicatat di 2.7 dan menunggu persetujuan eksplisit |
-| Sudah diterjemahkan | Pembuka Kitab; Bagian I, II, dan III seluruhnya |
-| Kalimat terakhir | "Maka tetaplah, dengan apa yang telah kami sebutkan, bahwa jalan dalam ayat-ayat mutasyabih ini adalah takwil atas lafaz-lafaz itu, sebagai adab terhadap Yang Wajib Ada. Hanya kepada Allah kita memohon taufik." |
-| Posisi berikutnya | Naskah Arab: *al-Qism al-Rābiʿ fī Baqiyyat al-Kalām fī Hādhā al-Bāb* · Naskah Turki: *Dördüncü Bölüm*, h. 223 |
+| Sudah diterjemahkan | Seluruh kitab: Pembuka Kitab dan Bagian I sampai IV |
+| Kalimat terakhir | "Selesailah, dengan pujian kepada Allah Ta'ala, kitab *Asās al-Taqdīs*." |
+| Posisi berikutnya | Terjemahan tuntas. Tahap berikutnya: penyuntingan dan persetujuan tambahan glosarium (2.7) |
 
 ---
 
@@ -2620,3 +2620,224 @@ Ketahuilah, Allah Ta'ala tidak menyebut lafaz-lafaz mutasyabih kecuali Dia serta
 ⁶⁴ CT: Wajib al-Wujud: Allah Tabaraka wa Ta'ala adalah Wajib al-Wujud; Dia telah ada di azali ketika tidak ada sesuatu pun.
 
 ᵃ CP: Teks Arab, diikuti edisi Turki, berbunyi "tidak wajib menghindari perubahan bentuk kata", padahal contoh dan alasannya justru melarang pemakaian bentuk isim fa'il seperti *mustawin*. Tampaknya ada kata yang hilang dalam naskah; terjemahan mengikuti tuntutan konteks, sejalan dengan anjuran al-Ghazali dalam *Iljam al-'Awamm* agar menahan diri dari *taṣrīf* terhadap lafaz-lafaz mutasyabih.
+
+---
+
+## BAGIAN KEEMPAT
+## SISA PEMBAHASAN DALAM BAB INI
+
+*(Arab: al-Qism al-Rābiʿ · Tr. h. 223)*
+
+Bagian ini terdiri atas beberapa pasal.
+
+### Pasal Pertama: Tentang Hukum Penyebutan Ayat-Ayat Mutasyabih Ini
+
+Ketahuilah, penyebutan ayat-ayat mutasyabih ini telah menjadi syubhat yang besar bagi makhluk dalam ketuhanan, kenabian, dan syariat.
+
+Adapun dalam ketuhanan, sebab orang-orang yang membenarkan Al-Qur'an meyakini tentang Allah Ta'ala keyakinan-keyakinan yang batil, sehingga mereka menjadi tidak mengenal Allah Ta'ala dan menyifati-Nya Subhanahu wa Ta'ala dengan apa yang menafikan ketuhanan dan keqadiman.
+
+Adapun dalam kenabian, sebab orang-orang yang mengetahui wajibnya menyucikan Allah dari sifat-sifat ini menjadikannya gugatan terhadap kenabian Muhammad shallallahu 'alaihi wasallam. Mereka berkata: seandainya ia rasul yang benar dari sisi Allah Ta'ala, tingkatan yang paling utama baginya adalah mengenal Tuhannya; karena ia tidak mengenal-Nya, bahkan menyifati-Nya dengan sifat-sifat hal-hal yang baharu, mustahillah ia rasul yang benar.
+
+Adapun dalam syariat, sebab di antara mereka ada yang, seandainya ditanya, akan terseret karena hal itu untuk menggugat Al-Qur'an. Mereka berkata bahwa Al-Qur'an telah diubah dan diganti, dan bahwa Al-Qur'an yang diturunkan kepada Muhammad shallallahu 'alaihi wasallam bersih dari syubhat-syubhat ini. Mereka berhujah bahwa Al-Qur'an ini penuh dengan penyifatan Al-Qur'an sebagai petunjuk, penjelasan, hikmah, penyembuh, dan cahaya; padahal sudah diketahui secara niscaya bahwa ayat-ayat mutasyabih ini merupakan sebab besar bagi kesesatan makhluk dan terjerumusnya mereka ke dalam penjisiman dan penyerupaan. Maka adakalanya ayat-ayat yang menunjukkan bahwa Al-Qur'an adalah cahaya atau penyembuh itu dusta, adakalanya ayat-ayat yang menunjukkan penjisiman dan penyerupaan itu batil dan dusta; dan dengan kedua pengandaian itu, gugatan terhadap Al-Qur'an tak terelakkan. (Mereka berkata:) andaikan kita membawa ayat-ayat mutasyabih ini kepada perkataan majaz, namun di antara perkataan ada majaz yang memberi kesan kepada perkataan batil dan keyakinan rusak; maka wajiblah kebenaran itu dinyatakan secara tegas agar hal itu menjadi sebab hilangnya kesan batil tersebut. Padahal dalam Al-Qur'an tidak terdapat lafaz-lafaz yang menunjukkan penyucian dan tauhid secara tegas; sebab firman-Nya, *"Katakanlah, 'Dialah Allah Yang Maha Esa,'"*¹ dan firman-Nya, *"Tidak ada sesuatu pun yang serupa dengan-Nya. Dia Yang Maha Mendengar lagi Maha Melihat,"*² tidak menunjukkan penyucian kecuali dengan penunjukan yang lemah. Semua itu mengharuskan gugatan terhadap Al-Qur'an. Inilah pemaparan syubhat ini dalam bab ini.
+
+Ketahuilah, para ulama peneliti menyebutkan berbagai faedah dalam penurunan ayat-ayat mutasyabih.
+
+Pertama, selama ayat-ayat mutasyabih ada, sampai kepada kebenaran menjadi lebih sukar dan lebih berat; dan bertambahnya kesukaran mengharuskan bertambahnya pahala. Allah Ta'ala berfirman, *"Apakah kamu mengira akan masuk surga, padahal belum nyata bagi Allah orang-orang yang berjihad di antaramu dan belum nyata orang-orang yang sabar?"*³
+
+Kedua, seandainya Al-Qur'an seluruhnya muhkam, ia hanya akan sesuai dengan satu mazhab, sehingga dengan pengandaian ini pernyataan tegasnya membatalkan setiap mazhab selain mazhab itu; dan hal itu membuat para penganut mazhab-mazhab lain menjauh dari menerimanya, menelaahnya, dan mengambil manfaat darinya. Adapun karena ia memuat yang muhkam dan yang mutasyabih, ketika itu penganut setiap mazhab berharap mendapati di dalamnya apa yang menguatkan mazhabnya dan mendukung pendapatnya. Ketika itu semua penganut mazhab menelaahnya, dan setiap penganut mazhab bersungguh-sungguh dalam menakwilkan. Apabila mereka bersungguh-sungguh dalam takwil itu, ayat-ayat muhkam menjadi penafsir bagi ayat-ayat mutasyabih. Dengan jalan inilah orang yang berada di atas kebatilan terbebas dari kebatilannya, sehingga kita sampai kepada kebenaran.
+
+Ketiga, jika Al-Qur'an memuat yang muhkam dan yang mutasyabih, orang yang menelaahnya membutuhkan bantuan dalil-dalil akal dan memperbanyak ilmu-ilmu lainnya; ketika itu ia terbebas dari kegelapan taklid dan sampai kepada cahaya pendalilan dan hujah. Adapun seandainya ia seluruhnya muhkam, ia tidak membutuhkan pegangan pada dalil-dalil rasional, sehingga ketika itu ia tetap dalam kebodohan dan taklid.
+
+Keempat, karena Al-Qur'an memuat yang muhkam dan yang mutasyabih, ia membutuhkan pembelajaran jalan-jalan takwil dan pengunggulan sebagiannya atas sebagian yang lain; dan untuk mempelajari itu dibutuhkan penguasaan banyak ilmu, seperti ilmu bahasa, nahwu, ushul fikih, dan pengetahuan tentang jalan-jalan pengunggulan. Seandainya Al-Qur'an tidak memuat ayat-ayat mutasyabih ini, ia tidak membutuhkan satu pun dari hal itu. Maka dalam penyertaan ayat-ayat mutasyabih terdapat faedah-faedah ini.
+
+Kelima, dan inilah sebab yang paling kuat: Al-Qur'an memuat seruan kepada kalangan khusus dan kalangan awam. (Tabiat kalangan awam,) dalam kebanyakan perkara, menolak untuk menangkap hakikat-hakikat rasional yang murni. Maka orang awam yang pada awalnya mendengar penetapan suatu maujud yang bukan jisim, tidak menempati ruang, dan tidak dapat ditunjuk, akan mengira bahwa itu ketiadaan murni, sehingga ia terjerumus ke dalam penafian (*taʿṭīl*). Maka yang lebih maslahat adalah menyeru mereka dengan lafaz-lafaz yang menunjukkan sebagian dari apa yang sesuai dengan apa yang mereka khayalkan dan sangkakan, bercampur dengan apa yang menunjukkan kebenaran yang tegas. Bagian pertama, yaitu apa yang dengannya mereka diseru pada awalnya, termasuk jenis mutasyabih; dan bagian kedua, yaitu apa yang disingkapkan kepada mereka pada akhirnya, termasuk muhkam. Inilah yang kami ringkaskan dalam bab ini. Hanya kepada Allah kita memohon taufik.
+
+¹ CT: QS al-Ikhlas [112]: 1.
+
+² CT: QS asy-Syura [42]: 11.
+
+³ CT: QS Ali 'Imran [3]: 142.
+
+### Pasal Kedua: Apakah Mujassim (Penganut Penjisiman) Disifati sebagai Musyabbih (Penganut Penyerupaan) atau Tidak
+
+*(Tr. h. 226)*
+
+Kaum Mujassim berkata: meskipun kami berkata bahwa Allah Ta'ala adalah jisim yang terikat pada ruang dan arah, kami meyakini bahwa Dia berbeda dari semua jisim lain dalam zat dan hakikat-Nya, dan itu mencegah pendapat tentang penyerupaan. Sebab, penetapan kesamaan dalam beberapa hal tidak mengharuskan penetapan penyerupaan. Buktinya, Allah Ta'ala menyatakan secara tegas dalam Kitab-Nya kesamaan dalam banyak sifat, dan tidak ada seorang pun yang berkata bahwa hal itu mengharuskan penyerupaan.
+
+Pertama, Dia berfirman tentang sifat diri-Nya, *"Sesungguhnya Aku bersama kamu berdua, Aku mendengar dan melihat,"*⁴ dan berfirman tentang sifat manusia, *"maka Kami menjadikannya dapat mendengar dan melihat."*⁵
+
+Kedua, Allah Ta'ala berfirman, *"Buatlah bahtera itu dengan mata-mata Kami,"*⁶ dan berfirman tentang manusia, *"kamu lihat mata mereka mencucurkan air mata."*⁷
+
+Ketiga, firman Allah Ta'ala, *"Padahal kedua tangan-Nya terbentang,"*⁸ dan tentang manusia, *"Itu karena perbuatan yang dilakukan dahulu oleh kedua tanganmu."*⁹ Dia berfirman tentang diri-Nya, *"di antara apa yang telah diciptakan oleh tangan-tangan Kami, yaitu hewan-hewan ternak,"*¹⁰ dan tentang manusia, *"Tangan Allah di atas tangan-tangan mereka."*¹¹
+
+Keempat, Allah Ta'ala berfirman, *"(Yaitu) Yang Maha Pengasih, yang bersemayam di atas Arasy,"*¹² dan tentang manusia, *"agar kamu duduk (tastawū) di atas punggungnya."*¹³
+
+Kelima, Dia berfirman tentang sifat diri-Nya, *"Yang Mahaperkasa (al-ʿAzīz), Yang Maha Kuasa (al-Jabbār),"*¹⁴ dan menyifati makhluk dengan sifat itu. Saudara-saudara Yusuf berkata, *"Wahai al-Aziz,"*¹⁵ dan Dia berfirman, *"Demikianlah Allah mengunci hati setiap orang yang sombong dan sewenang-wenang (jabbār)."*¹⁶
+
+Keenam, Dia menamai diri-Nya Yang Mahaagung (*al-ʿAẓīm*), kemudian menyifati Arasy (dengannya). Dia berfirman, *"Tuhan pemilik Arasy yang agung."*¹⁷
+
+Ketujuh, Dia menyifati diri-Nya dengan *al-Ḥafīẓ* (Maha Memelihara) dan *al-ʿAlīm* (Maha Mengetahui), dan Yusuf menyifati dirinya dengan keduanya, ia berkata, *"sesungguhnya aku orang yang pandai menjaga lagi berpengetahuan."*¹⁸ Dia berfirman, *"Mereka memberi kabar gembira kepadanya dengan (kelahiran) seorang anak yang alim,"*¹⁹ dan berfirman dalam ayat lain, *"dengan (kelahiran) seorang anak yang sangat santun (ḥalīm)."*²⁰
+
+Kedelapan, *al-ḥakam* (hakim). Allah berfirman, *"Ketahuilah bahwa segala hukum (pada hari itu) adalah milik-Nya,"*²¹ dan menyifati kita dengannya, Dia berfirman, *"kirimlah seorang juru damai (ḥakam) dari keluarga laki-laki dan seorang juru damai dari keluarga perempuan."*²²
+
+Kesembilan, *al-Rāḥim* dan *al-Raḥīm* (Maha Penyayang); ini jelas.
+
+Kesepuluh, *al-Shakūr* (Maha Mensyukuri). Allah berfirman, *"Sesungguhnya Tuhan kami benar-benar Maha Pengampun lagi Maha Mensyukuri."*²³
+
+Kesebelas, *al-ʿAliyy* (Mahatinggi). Manusia pun dinamai dengannya, seperti Ali radhiyallahu 'anhu.
+
+Kedua belas, *al-Kabīr* (Mahabesar). Dia berfirman tentang diri-Nya, *"Dialah Yang Mahatinggi lagi Mahabesar,"*²⁴ dan berfirman, *"ia mempunyai ayah yang sudah sangat tua (shaykhan kabīran),"*²⁵ dan berfirman, mengisahkan dua perempuan, *"sedangkan ayah kami adalah orang tua yang telah lanjut usia (shaykhun kabīr)."*²⁶
+
+Ketiga belas, *al-Ḥamīd* (Maha Terpuji). Allah Ta'ala menyifati diri-Nya dalam Kitab-Nya, Dia berfirman, *"diturunkan dari Tuhan Yang Mahabijaksana lagi Maha Terpuji."*²⁷
+
+Keempat belas, *al-Shahīd* (Maha Menyaksikan). Dia berfirman tentang makhluk, *"Bagaimanakah (keadaan orang-orang kafir nanti) jika Kami mendatangkan seorang saksi (shahīd) dari setiap umat."*²⁸
+
+Kelima belas, *al-Ḥaqq* (Mahabenar). Dia berfirman, *"Mahatinggi Allah, Raja yang sebenar-benarnya (al-Ḥaqq),"*²⁹ *"Kami menurunkannya (Al-Qur'an) dengan sebenar-benarnya dan (Al-Qur'an) itu turun dengan (membawa) kebenaran,"*³⁰ *"Kerajaan yang hak pada hari itu adalah milik Tuhan Yang Maha Pengasih,"*³¹ *"Setiap kali mereka datang kepadamu (membawa) sesuatu yang aneh, pasti Kami datangkan kepadamu yang benar,"*³² dan *"Dialah yang telah mengutus Rasul-Nya dengan petunjuk dan agama yang benar."*³³
+
+Keenam belas, *al-Wakīl* (Maha Pemelihara). Allah Ta'ala berfirman, *"Dia Pemelihara (wakīl) segala sesuatu,"*³⁴ dan makhluk pun terkadang disifati dengannya; dikatakan, "Si Fulan wakil si Fulan."
+
+Ketujuh belas, *al-Mawlā* (Maha Pelindung). Allah Ta'ala berfirman, *"Yang demikian itu karena sesungguhnya Allah pelindung orang-orang yang beriman, sedangkan orang-orang kafir tidak ada pelindung bagi mereka,"*³⁵ kemudian Dia berfirman tentang kita, *"Bagi setiap (harta peninggalan), Kami telah menetapkan para ahli waris (mawālī),"*³⁶ dan Nabi shallallahu 'alaihi wasallam bersabda, *"Siapa yang aku menjadi maulanya, maka Ali adalah maulanya."*³⁷
+
+Kedelapan belas, *al-Waliyy* (Maha Penolong). Allah Ta'ala berfirman, *"Sesungguhnya penolong kamu hanyalah Allah, Rasul-Nya, dan orang-orang yang beriman,"*³⁸ Nabi shallallahu 'alaihi wasallam bersabda, *"Perempuan mana pun yang menikahkan dirinya tanpa izin walinya, nikahnya batal,"* dan Allah Ta'ala berfirman, *"Orang-orang mukmin, laki-laki dan perempuan, sebagian mereka menjadi penolong bagi sebagian yang lain."*³⁹
+
+Kesembilan belas, *al-Ḥayy* (Mahahidup). Allah Ta'ala berfirman, *"Dialah Yang Mahahidup, tidak ada tuhan selain Dia,"*⁴⁰ *"Alif Lam Mim.*⁴¹ *Allah, tidak ada tuhan selain Dia, Yang Mahahidup lagi terus-menerus mengurus,"*⁴² dan berfirman, *"Kami jadikan segala sesuatu yang hidup berasal dari air."*⁴³
+
+Kedua puluh, *al-Wāḥid* (Maha Esa). Allah Ta'ala berfirman, *"Katakanlah, 'Sesungguhnya Dia hanyalah Tuhan Yang Maha Esa (wāḥid).'"*⁴⁴ Sifat ini pun berlaku pada kebanyakan hal; dikatakan, "satu (*wāḥid*) pakaian" dan "satu manusia."
+
+Kedua puluh satu, *al-Tawwāb* (Maha Penerima tobat). Allah Ta'ala berfirman, *"Sungguh, Allah Maha Penerima tobat lagi Maha Penyayang,"*⁴⁵ dan makhluk pun dinamai dengannya; Dia berfirman, *"Sesungguhnya Allah menyukai orang-orang yang bertobat (al-tawwābīn)."*⁴⁶
+
+Kedua puluh dua, *al-Ghaniyy* (Mahakaya). Allah Ta'ala berfirman, *"Allahlah Yang Mahakaya,"*⁴⁷ dan berfirman, *"Sesungguhnya alasan (untuk menyalahkan) hanyalah terhadap orang-orang yang meminta izin kepadamu, padahal mereka orang kaya,"*⁴⁸ dan beliau bersabda, *"Ambillah (zakat) dari orang-orang kaya mereka dan kembalikanlah kepada orang-orang fakir mereka."*⁴⁹
+
+Kedua puluh tiga, *al-Nūr* (cahaya). Allah Ta'ala berfirman, *"Allah (pemberi) cahaya (kepada) langit dan bumi,"*⁵⁰ dan berfirman, *"cahaya mereka bersinar di depan mereka."*⁵¹
+
+Kedua puluh empat, *al-Hādī* (Maha Pemberi petunjuk). Allah Ta'ala berfirman, *"tetapi Allahlah yang memberi petunjuk kepada siapa yang Dia kehendaki,"*⁵² dan berfirman, *"Sesungguhnya engkau hanyalah seorang pemberi peringatan dan bagi setiap kaum ada seorang pemberi petunjuk."*⁵³
+
+Kedua puluh lima, *al-Mustamiʿ* (Yang mendengarkan). Allah Ta'ala berfirman, *"Sekali-kali tidak (akan terjadi). Maka, pergilah kamu berdua dengan membawa ayat-ayat Kami, sesungguhnya Kami bersamamu mendengarkan,"*⁵⁴ dan berfirman kepada Musa 'alaihissalam, *"maka dengarkanlah apa yang akan diwahyukan (kepadamu)."*⁵⁵
+
+Kedua puluh enam, *al-Qadīm* (yang qadim). Allah Ta'ala berfirman, *"sehingga kembalilah ia seperti bentuk tandan yang tua (al-qadīm)."*⁵⁶
+
+Ketahuilah, tidak ada perselisihan bahwa lafaz maujud, sesuatu, yang satu, zat, yang diketahui, yang disebut, yang mengetahui, yang berkuasa, yang hidup, yang berkehendak, yang mendengar, yang melihat, yang berbicara, dan yang kekal, berlaku bagi al-Haqq Subhanahu wa Ta'ala dan bagi makhluk-Nya. Maka tetaplah, dengan apa yang telah kami sebutkan, bahwa keserupaan dari sebagian segi tidak mengharuskan orang yang mengatakannya disifati sebagai orang yang menyerupakan Allah dengan makhluk. Kami tidak menetapkan keserupaan antara Dia dan makhluk-Nya kecuali dalam sebagian keadaan dan sifat; hanya saja kami meyakini bahwa Allah Ta'ala, walaupun jisim, berbeda dari semua jisim lain dalam zat dan hakikat-Nya. Maka tetaplah bahwa memakai nama *musyabbih* untuk golongan ini adalah dusta dan kepalsuan. Inilah keseluruhan perkataan mereka dalam bab ini.
+
+Ketahuilah, inti jawaban dari pihak kami ialah bahwa kami telah membuktikan dalam Bagian Pertama kitab ini bahwa jisim-jisim itu serupa dalam keseluruhan esensi. Maka, seandainya Sang Pencipta Ta'ala jisim, niscaya Dia padanan bagi jisim-jisim ini dalam keseluruhan esensi, dan ketika itu pendapat tentang penyerupaan tak terelakkan. Adapun (kesamaan) dalam hal yang tidak ditunjukkan oleh dalil (sebagai keserupaan hakikat), seperti keadaan sebagai maujud, yang mengetahui, dan yang berkuasa, hal itu tidak mengharuskan keserupaan dalam keseluruhan esensi. Maka jelaslah perbedaannya. Hanya kepada Allah kita memohon taufik.
+
+⁴ CT: QS Taha [20]: 46. (Edisi Turki tertulis 20/16.)
+
+⁵ CT: QS al-Insan [76]: 2.
+
+⁶ CT: QS Hud [11]: 37.
+
+⁷ CT: QS al-Ma'idah [5]: 83. (Edisi Turki tertulis 5/71.)
+
+⁸ CT: QS al-Ma'idah [5]: 64.
+
+⁹ CT: QS al-Hajj [22]: 10. (Edisi Turki tertulis 22/19.)
+
+¹⁰ CT: QS Yasin [36]: 71.
+
+¹¹ CT: QS al-Fath [48]: 10.
+
+¹² CT: QS Taha [20]: 5.
+
+¹³ CT: QS az-Zukhruf [43]: 13.
+
+¹⁴ CT: QS al-Hasyr [59]: 23.
+
+¹⁵ CT: QS Yusuf [12]: 78.
+
+¹⁶ CT: QS Gafir [40]: 35.
+
+¹⁷ CT: QS at-Taubah [9]: 129.
+
+¹⁸ CT: QS Yusuf [12]: 55.
+
+¹⁹ CT: QS adz-Dzariyat [51]: 28.
+
+²⁰ CT: QS ash-Shaffat [37]: 101.
+
+²¹ CT: (Teks catatan ini tidak terbaca dalam naskah Turki; menurut konteksnya: QS al-An'am [6]: 62.)
+
+²² CT: QS an-Nisa' [4]: 35.
+
+²³ CT: QS Fathir [35]: 34.
+
+²⁴ CT: QS Saba' [34]: 23.
+
+²⁵ CT: QS Yusuf [12]: 78.
+
+²⁶ CT: QS al-Qashash [28]: 23.
+
+²⁷ CT: QS Fushshilat [41]: 42.
+
+²⁸ CT: QS an-Nisa' [4]: 41.
+
+²⁹ CT: QS Taha [20]: 114.
+
+³⁰ CT: QS al-Isra' [17]: 105.
+
+³¹ CT: QS al-Furqan [25]: 26.
+
+³² CT: QS al-Furqan [25]: 33.
+
+³³ CT: QS at-Taubah [9]: 33.
+
+³⁴ CT: QS al-An'am [6]: 102.
+
+³⁵ CT: QS Muhammad [47]: 11.
+
+³⁶ CT: QS an-Nisa' [4]: 33.
+
+³⁷ CT: at-Tirmidzi, *al-Manaqib*, (20); Ibnu Majah, *al-Muqaddimah*, (11)8.
+
+³⁸ CT: QS al-Ma'idah [5]: 55.
+
+³⁹ CT: QS at-Taubah [9]: 71.
+
+⁴⁰ CT: QS Gafir [40]: 65.
+
+⁴¹ CT: QS Ali 'Imran [3]: 1.
+
+⁴² CT: QS Ali 'Imran [3]: 2.
+
+⁴³ CT: QS al-Anbiya' [21]: 30.
+
+⁴⁴ CT: QS al-An'am [6]: 19. (Edisi Turki tertulis 6/15.)
+
+⁴⁵ CT: QS an-Nisa' [4]: 16.
+
+⁴⁶ CT: QS al-Baqarah [2]: 222. (Edisi Turki tertulis 2/122.)
+
+⁴⁷ CT: QS Muhammad [47]: 38.
+
+⁴⁸ CT: QS at-Taubah [9]: 93.
+
+⁴⁹ CT: al-Baihaqi, *as-Sunan al-Kubra*, IV/101.
+
+⁵⁰ CT: QS an-Nur [24]: 35.
+
+⁵¹ CT: QS al-Hadid [57]: 12.
+
+⁵² CT: QS al-Baqarah [2]: 272. (Edisi Turki tertulis 2/172.)
+
+⁵³ CT: QS ar-Ra'd [13]: 7.
+
+⁵⁴ CT: QS asy-Syu'ara' [26]: 15.
+
+⁵⁵ CT: QS Taha [20]: 13.
+
+⁵⁶ CT: QS Yasin [36]: 39.
+
+### Pasal Ketiga: Bahwa Orang yang Menetapkan Allah Ta'ala sebagai Jisim yang Menempati Ruang dan Terikat pada Arah Tertentu adalah Kafir
+
+*(Tr. h. 232)*
+
+Ia kafir. Sebab, menurut mazhab kami, segala sesuatu yang terikat pada arah dan ruang adalah makhluk yang baharu, yang memiliki Tuhan yang mengadakan dan menciptakannya. Adapun orang-orang yang berpendapat tentang kejisiman dan arah, yang mengingkari adanya maujud lain selain hal-hal yang dapat ditunjuk ini, mereka mengingkari Zat Maujud yang diyakini sebagai Tuhan. Jika mereka mengingkari Zat-Nya, tak ayal mereka kafir. Ini berbeda dengan Muktazilah, sebab mereka menetapkan suatu maujud di balik hal-hal yang dapat ditunjuk oleh indra ini; hanya saja mereka menyelisihi kami dalam sifat-sifat Maujud itu. Sedangkan kaum Mujassimah menyelisihi kami dalam penetapan Zat Yang Disembah dan wujud-Nya, sehingga perselisihan ini lebih besar. Maka kekufuran niscaya berlaku atas mereka karena mereka mengingkari Zat Yang Disembah dengan benar dan wujud-Nya, sedangkan (perselisihan) Muktazilah adalah dalam sifat-Nya, bukan dalam Zat-Nya.ᵃ
+
+Inilah akhir pembahasan dalam kitab ini. Kami memohon kepada Allah Yang Mahaagung agar menjadikannya, di dunia dan akhirat, sebab bagi kemenangan, keselamatan, dan diperolehnya derajat-derajat, dengan rahmat-Nya. Sesungguhnya Dia Yang Maha Penyayang di antara para penyayang. Segala puji bagi Allah, Tuhan semesta alam.
+
+Selesailah, dengan pujian kepada Allah Ta'ala, kitab *Asās al-Taqdīs*.
+
+ᵃ CP: Penilaian kafir dalam pasal ini adalah pendapat ar-Razi sesuai dengan argumennya sendiri: yang dikafirkan adalah orang yang mengingkari adanya maujud apa pun selain yang dapat ditunjuk oleh indra, sehingga pada hakikatnya ia mengingkari Tuhan yang transenden. Terjemahan menyampaikan pendapat itu apa adanya tanpa menambah atau mengurangi.
+
+---
+
+*Tamat.*
