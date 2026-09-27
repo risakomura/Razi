@@ -1,0 +1,244 @@
+# Tafṣīl al-Nashʾatayn wa Taḥṣīl al-Saʿādatayn: Terjemahan Indonesia (Edisi Kedua)
+
+**Judul Indonesia:** *Kejadian dan Kebahagiaan*, edisi kedua (terjemahan ulang)
+**Karya:** al-Rāghib al-Iṣfahānī, Abū al-Qāsim al-Ḥusain bin Muḥammad bin al-Mufaḍḍal (w. 502/1108), *Tafṣīl al-Nashʾatayn wa Taḥṣīl al-Saʿādatayn*
+**Naskah dasar (Arab):** *Tafṣīl al-Nashʾatayn wa Taḥṣīl al-Saʿādatayn*, Beirut: Dār Maktabat al-Ḥayāh, 1983 (berkas Shamela `a7a42ea4…mobi`; penomoran sesuai edisi cetak). Berkas ini mulai dari Bab Kedua (hlm. 22); mukadimah dan Bab Pertama tidak termuat.
+**Naskah pembanding (Turki):** Râgıb el-İsfehânî, *Mutluluğun Kazanılması (Tafsîlü'n-Neş'eteyn ve Tahsîlü's-Saâdeteyn Tercemesi)*, terj. Lütfi Doğan, Istanbul, 1998, cet. ke-4 (berkas `3bce4fce-MUTLULUGUN.docx`, hasil OCR; berdasarkan edisi Kairo: Maṭbaʿat al-Ḥamīdiyya, 1323 H)
+**Terjemahan edisi pertama:** Ade Arieska, *Kejadian dan Kebahagiaan*, Kalam Project dan Yayasan Al-Maʿarij Darmaraja, April 2026 (berkas `1e5987d5-KEJADIAN_dan_KEBAHAGIAAN.docx`)
+**Karya pendamping:** terjemahan *al-Dharīʿa ilā Makārim al-Sharīʿa* dalam repositori yang sama (`terjemahan-adh-dhariah.md`), selanjutnya disebut "terjemahan *al-Dharīʿa*"
+**Rujukan istilah:** al-Rāghib al-Iṣfahānī, *al-Mufradāt fī Gharīb al-Qurʾān*, ed. Ṣafwān ʿAdnān al-Dāwūdī, 1412/1992 (primer); Muḥammad ʿAlī al-Tahānawī, *Kashshāf Iṣṭilāḥāt al-Funūn wa-l-ʿUlūm*, ed. Rafīq al-ʿAjam dan ʿAlī Daḥrūj, 1996 (pembanding)
+
+---
+
+## 0. Status Proyek dan Penanda Posisi
+
+| Butir | Keterangan |
+|---|---|
+| Tahap | Penerjemahan berjalan |
+| Sudah diterjemahkan | Mukadimah; Bab Pertama |
+| Posisi berikutnya | Bab Kedua (Arab bab 2) |
+| Nomor catatan terakhir | CP: p13 · CD: d8 |
+| Catatan istilah | lihat 3.3 |
+
+---
+
+## 1. Konvensi Markup (untuk Pembentukan DOCX)
+
+Markup sama dengan terjemahan *al-Dharīʿa*. Setiap baris hanya memuat satu unsur.
+
+| Markup MD | Unsur | Gaya DOCX |
+|---|---|---|
+| `# Teks {.kitab-ke}` | Nomor bab: Bab Pertama, dst. | Kitab Ke |
+| `# Teks {.judul-kitab}` | Judul bab atau Mukadimah | Judul Kitab |
+| `## Teks {.judul-bab}` | Subbagian di dalam bab (*faṣl*, "Pasal") | Judul Bab |
+| `[Teks]{.basmalah}` (satu paragraf) | Basmalah pembuka | Basmalah |
+| Paragraf biasa | Teks isi | Teks Isi / Teks Isi Pertama |
+| `> teks` (satu larik per baris) | Syair | Syair |
+| `**Label**:` di awal paragraf | Label pembagian (Pertama, Kedua, dst.) | Label Argumen |
+| `*"kutipan"* (Surah: ayat)` | Kutipan ayat beserta rujukannya | Kutipan Ayat + Rujukan Ayat |
+| `*"kutipan"*` tanpa rujukan ayat | Kutipan hadis, atsar, atau ucapan | Kutipan Riwayat |
+| `*kata*` lainnya | Transliterasi dan judul karya | Transliterasi |
+| `[^pN]` | Catatan penerjemah (awalan **CP:**), termasuk catatan edisi pertama yang dipertahankan atau direvisi | Catatan Kaki |
+| `[^dN]` | Catatan rujukan silang ke *al-Dharīʿa* (awalan **CD:**): kesamaan gagasan, perbedaan, atau pertentangan | Catatan Kaki |
+| `[^m-…]` / `[^k-…]` | Catatan istilah *al-Mufradāt* / *Kashshāf* untuk istilah yang belum diberi catatan dalam terjemahan *al-Dharīʿa* | Catatan Kaki |
+| `[^r-…]` | Rujukan ke catatan istilah yang sudah ada dalam terjemahan *al-Dharīʿa* | Catatan Kaki |
+
+Definisi catatan kaki diletakkan tepat sesudah paragraf yang merujuknya. Penanda halaman sumber tidak dipakai.
+
+---
+
+## 2. Keputusan Kerja
+
+1. **Teks dasar:** teks Arab edisi Dār Maktabat al-Ḥayāh (1983) untuk Bab Kedua sampai Bab Ketiga Puluh Tiga. Terjemahan Turki Lütfi Doğan dipakai sebagai saksi kedua, terutama bila teks Shamela tampak rusak. **Mukadimah dan Bab Pertama** tidak termuat dalam berkas Arab; keduanya diterjemahkan ulang berdasarkan terjemahan edisi pertama (yang dibuat dari edisi Arab yang sama) dan dicocokkan dengan terjemahan Turki. Bagian yang bergantung pada rekonstruksi ini ditandai dalam catatan CP bila ada keraguan.
+2. **Terjemahan edisi pertama** dijadikan ilham, bukan dasar: kalimat disusun ulang, padanan istilah diganti mengikuti glosarium *al-Dharīʿa*, dan penafsiran yang keliru dibetulkan.
+3. **Redaksi yang sama dengan *al-Dharīʿa*:** bila al-Rāghib memakai redaksi yang sama persis dengan *al-Dharīʿa* (ayat, hadis, syair, atau kalimatnya sendiri), terjemahannya mengikuti terjemahan *al-Dharīʿa*. Pencocokan dilakukan dengan membandingkan teks Arab kedua kitab secara otomatis per jendela kata, lalu diperiksa manual. Ternyata redaksi yang benar-benar sama sedikit; yang banyak adalah kesamaan gagasan, dan itu dicatat dalam catatan CD.
+4. **Catatan kaki edisi pertama:** catatan penjelasan yang tepat dipertahankan (disunting); catatan yang keliru direvisi dan disebut revisinya; rujukan ayat dipindahkan ke badan teks.
+5. **Catatan istilah:** istilah yang sudah diberi catatan *al-Mufradāt*/*Kashshāf* dalam terjemahan *al-Dharīʿa* cukup dirujuk dengan nomor nota kakinya (penomoran berurutan sesuai kemunculan dalam berkas *al-Dharīʿa*, yang juga menjadi urutan penomoran DOCX-nya), disertai kunci catatannya. Istilah baru diberi catatan baru.
+6. **Catatan Turki:** catatan kaki Lütfi Doğan hampir seluruhnya rujukan ayat dan takhrij hadis, sehingga tidak diambil. Edisi Arab Shamela tidak memuat catatan penyunting.
+7. **Istilah epistemologis:** *idrāk* = menangkap, menginsafi, mengidrak (pengidrakan); *taʿaqqul* = menginteleksi (inteleksi); *maʿqūl* = inteligibel; *maḥsūs* = terindra; *ʿaqlī* = akliah. Kata "mencerap" dan "mengakali" tidak dipakai.
+8. Prinsip lain sama dengan terjemahan *al-Dharīʿa*: kutipan Al-Qur'an mengikuti Terjemahan Kemenag RI dengan rujukan (Surah: ayat) di badan teks; transliterasi IJMES untuk istilah konseptual; tanpa aksara Arab di badan terjemahan; tanpa tanda pisah panjang dan menengah; nama tokoh dalam bentuk lazim Indonesia.
+
+---
+
+## 3. Glosarium
+
+Glosarium ini memetakan glosarium *al-Dharīʿa* yang terpakai dalam kitab ini, ditambah istilah khas *Tafṣīl al-Nashʾatayn*. Kolomnya sama dengan glosarium *al-Dharīʿa*.
+
+(Disusun pada akhir penerjemahan.)
+
+### 3.3 Daftar Catatan Istilah di Badan Terjemahan
+
+(Disusun pada akhir penerjemahan.)
+
+---
+
+# TERJEMAHAN
+
+[Dengan nama Allah Yang Maha Pengasih, Maha Penyayang.]{.basmalah}
+
+Segala puji bagi Allah yang mengutus hamba-Nya dengan risalah, yang mengajari kita melalui lisannya cara memuji-Nya, dan yang mendorong kita kepada apa yang ada di sisi-Nya. Kita memohon kepada-Nya agar melimpahkan selawat kepada Nabi-Nya, Muhammad, dan keluarganya, dan agar menunjuki kita, dengan dalil yang paling terang dan hujah yang paling kuat, kepada jalan yang paling berhasil dan titian yang paling lurus.
+
+# Mukadimah Pengarang {.judul-kitab}
+
+Syekh Abu al-Qasim al-Husain bin Muhammad bin al-Mufaddal al-Raghib berkata: Ini adalah risalah tentang perincian dua kejadian (*tafṣīl al-nashʾatayn*) dan perolehan dua kebahagiaan (*taḥṣīl al-saʿādatayn*).[^m-nasha][^r-saada]
+
+[^m-nasha]: **Kejadian** (*nashʾa*). Dalam *al-Mufradāt*: *nashʾ* dan *nashʾa* ialah mengadakan sesuatu dan menumbuhkannya (*iḥdāth al-shayʾ wa tarbiyatuh*), seperti *"Dan sungguh, kamu telah tahu penciptaan yang pertama (al-nashʾa al-ūlā)"* (al-Waqi'ah: 62). Dari sini *nashaʾa al-saḥāb*, awan yang terbentuk di udara lalu tumbuh sedikit demi sedikit. *Inshāʾ* ialah mengadakan sesuatu dan menumbuhkannya, dan paling banyak dipakai untuk makhluk hidup; semua pemakaian dalam *"kemudian Kami jadikan dia makhluk yang (berbentuk) lain"* (al-Mu'minun: 14) dan *"kemudian Allah menjadikan kejadian yang akhir (al-nashʾa al-ākhira)"* (al-'Ankabut: 20) bermakna mengadakan. Unsur "menumbuhkan" (*tarbiya*) penting: *nashʾa* bukan penciptaan sekaligus (*ibdāʿ*), melainkan kejadian yang tumbuh bertahap, sejalan dengan uraian Bab Kelima tentang terbentuknya manusia sedikit demi sedikit. Padanan "kejadian" dipertahankan dari edisi pertama. Istilah ini tidak memiliki entri yang relevan dalam *Kashshāf*. (*al-Mufradāt*, s.v. *n-sh-ʾ*.)
+
+[^r-saada]: **Kebahagiaan** (*saʿāda*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 91 (`m-saada`, *al-Mufradāt*) dan no. 92 (`k-saada`, *Kashshāf*).
+
+Kejadian yang pertama ialah yang disebut dalam firman Allah Ta'ala: *"Dan sungguh, kamu telah tahu penciptaan yang pertama, mengapa kamu tidak mengambil pelajaran?"* (al-Waqi'ah: 62). Yang kedua ialah yang disebut dalam firman Allah Ta'ala: *"Katakanlah, 'Berjalanlah di bumi, maka perhatikanlah bagaimana (Allah) memulai penciptaan (makhluk), kemudian Allah menjadikan kejadian yang akhir. Sungguh, Allah Mahakuasa atas segala sesuatu'"* (al-'Ankabut: 20).
+
+Kebahagiaan yang pertama ialah yang disebut dalam firman Allah Ta'ala: *"Ingatlah nikmat-Ku yang telah Aku berikan kepadamu"* (al-Baqarah: 40). Yang kedua ialah yang disebut dalam firman Allah Ta'ala: *"Dan adapun orang-orang yang berbahagia, maka (tempatnya) di dalam surga; mereka kekal di dalamnya selama ada langit dan bumi, kecuali jika Tuhanmu menghendaki (yang lain); sebagai karunia yang tidak ada putus-putusnya"* (Hud: 108).[^d1]
+
+[^d1]: CD: Pasangan "kebahagiaan dunia" dan "kebahagiaan akhirat" di sini diuraikan lebih rinci dalam *al-Dharīʿa*, Pasal Pertama, yang membagi kebahagiaan duniawi menjadi tiga (jiwa, badan, luar) dan menjadikan kebahagiaan ukhrawi sebagai kebahagiaan hakiki. Dalam *Tafṣīl*, kebahagiaan pertama dijangkarkan pada nikmat (al-Baqarah: 40), sedang dalam *al-Dharīʿa* nikmat-nikmat itu justru dipetakan sebagai "lima nikmat dan dua puluh macamnya" yang menjadi sarana kebahagiaan. Lihat glosarium *al-Dharīʿa* 3.1a.
+
+Aku menyusun risalah ini untuk Ustaz yang mulia, semoga Allah Ta'ala meneguhkannya, ketika aku melihat besarnya perhatiannya untuk meraih kemanusiaan (*insāniyya*) yang dengannya dua kebahagiaan itu diraih. Semoga Allah Ta'ala menolongnya untuk meraih faedah-faedahnya, sehingga ia meliputi seluruh jenisnya, memelihara maknanya, dan menjaga segala kekhususannya.[^r-ins] Sebab kata "manusia" (*insān*) pada masa ini hampir, atau bahkan sudah, menjadi lafaz yang disematkan pada makna yang tidak ada, dan nama bagi makhluk yang tidak dikenal, seperti *ʿanqāʾ mughrib* dan nama-nama tanpa makna yang semisal.[^p1] Sebagaimana Allah Ta'ala berfirman tentang arca-arca yang dinamai "tuhan": *"Itu tidak lain hanyalah nama-nama yang kamu dan nenek moyangmu mengada-adakannya; Allah tidak memberikan suatu keterangan apa pun untuk (menyembah)nya"* (an-Najm: 23), dan berfirman: *"Apa yang kamu sembah selain Dia, hanyalah nama-nama yang kamu buat-buat, baik oleh kamu sendiri maupun oleh nenek moyangmu"* (Yusuf: 40). Dia menjadikannya nama-nama tanpa sesuatu yang dinamai.
+
+[^r-ins]: **Manusia dan kemanusiaan** (*insān*, *insāniyya*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 370 (`m-ins`, *al-Mufradāt*): manusia dinamai *insān* karena tidak dapat tegak kecuali dengan akrabnya satu sama lain, atau karena ia akrab dengan apa yang dibiasakannya. Dalam *Tafṣīl*, *insāniyya* dipakai dalam arti normatif: kemanusiaan yang sejati, yaitu terwujudnya apa yang menjadi tujuan penciptaan manusia (lihat Bab Ketujuh dan Bab Kedua Puluh).
+
+[^p1]: CP: *ʿAnqāʾ mughrib* (atau *ʿanqāʾ mughriba*) ialah burung legendaris dalam tradisi Arab yang namanya dikenal tetapi wujudnya tidak pernah disaksikan. Ibnu Manzhur dalam *Lisān al-ʿArab* (s.v. *ʿ-n-q*) mencatat bahwa *ʿanqāʾ* ialah ungkapan bagi sesuatu yang tidak ada asal kenyataannya, dan juga burung yang tidak tersisa pada manusia apa pun tentang sifatnya selain namanya. Karena itu ia menjadi lambang bagi nama tanpa kenyataan. Maksud al-Rāghib: kata "manusia" beredar luas di lisan, tetapi hakikat yang semestinya ditunjuknya, yaitu manusia yang telah menyempurnakan dirinya, hampir tidak dijumpai lagi. (Catatan edisi pertama, disunting.)
+
+Yang kumaksud dengan "manusia" bukanlah setiap makhluk yang tegak tubuhnya, lebar kukunya, halus kulitnya, dan mampu tertawa.[^p2] Sebab di antara mereka ada yang bertutur tetapi menurut hawa nafsu; belajar tetapi mempelajari apa yang memberi mudarat dan tidak memberi manfaat; mengetahui tetapi hanya yang lahir dari kehidupan dunia, sedang terhadap akhirat mereka lalai; menulis kitab dengan tangan mereka sendiri lalu berkata "Ini dari Allah" untuk menjualnya dengan harga murah; berbantah tetapi dengan yang batil untuk melenyapkan yang hak; beriman tetapi kepada *jibt* dan *ṭāghūt*; menyembah tetapi selain Allah, sesuatu yang tidak memberi mudarat dan tidak memberi manfaat kepada mereka; bermalam tetapi dengan menetapkan perkataan yang tidak diridai; mendatangi salat tetapi dengan malas dan tidak mengingat Allah kecuali sedikit; salat tetapi lalai dari salatnya; mengingat tetapi bila diberi peringatan tidak mengindahkannya; berdoa tetapi bersama Allah menyeru tuhan yang lain; berinfak tetapi tidak berinfak kecuali dengan rasa enggan; berhukum tetapi hukum jahiliah yang mereka cari; dan merangkai ucapan tetapi yang mereka rangkai adalah kebohongan.[^p3]
+
+[^p2]: CP: Ciri-ciri ini adalah definisi manusia menurut rupa lahir (*al-ṣūra al-takhṭīṭiyya*) yang lazim dalam logika dan fisiognomi: tegak tubuh (*intiṣāb al-qāma*), lebar kuku (*ʿarḍ al-ẓufr*), halus kulit, dan kemampuan tertawa (*al-ḍaḥḥāk*), yakni kekhasan (*khāṣṣa*) manusia menurut ahli logika. Al-Rāghib menolak menjadikannya ukuran kemanusiaan. Lihat pula Bab Ketiga Puluh Tiga, yang mengulang ciri-ciri yang sama.
+
+[^p3]: CP: Seluruh rangkaian ini tersusun dari isyarat-isyarat Al-Qur'an, antara lain: bertutur menurut hawa nafsu (bandingkan an-Najm: 3); mempelajari yang memberi mudarat (al-Baqarah: 102); mengetahui yang lahir dari kehidupan dunia (ar-Rum: 7); menulis kitab dengan tangan sendiri (al-Baqarah: 79); berbantah dengan yang batil (Gafir: 5); beriman kepada *jibt* dan *ṭāghūt* (an-Nisa': 51); menyembah yang tidak memberi mudarat dan manfaat (Yunus: 18; al-Hajj: 12); menetapkan perkataan yang tidak diridai di malam hari (an-Nisa': 108); mendatangi salat dengan malas (an-Nisa': 142; at-Taubah: 54); lalai dari salat (al-Ma'un: 5); tidak mengindahkan peringatan (ash-Shaffat: 13); menyeru tuhan lain (al-Furqan: 68); berinfak dengan enggan (at-Taubah: 54); mencari hukum jahiliah (al-Ma'idah: 50). Karena al-Rāghib merangkainya sebagai ucapannya sendiri, isyarat-isyarat itu diterjemahkan tanpa tanda kutip ayat.
+
+Maka mereka itu, walaupun menurut rupa yang terindra (*al-ṣūra al-maḥsūsa*) termasuk manusia, menurut rupa yang inteligibel (*al-ṣūra al-maʿqūla*) bukanlah manusia, bahkan bukan pula *nasnās*.[^p4][^r-mahsus] Sebagaimana Amirul Mukminin Ali bin Abi Thalib, semoga Allah memuliakan wajahnya, melukiskan keadaan mereka: *"Wahai orang-orang yang menyerupai laki-laki, padahal bukan laki-laki!"*[^p5] Bahkan mereka itulah manusia (*al-ins*) yang disebut dalam firman Allah Ta'ala: *"setan-setan (dari jenis) manusia dan jin, sebagian mereka membisikkan kepada sebagian yang lain perkataan yang indah sebagai tipuan"* (al-An'am: 112).[^d2]
+
+[^p4]: CP: *Nasnās* dalam tradisi Arab dipakai untuk makhluk yang menyerupai manusia tetapi bukan manusia (sebagian menggambarkannya sebagai makhluk berkaki satu, sebagian sebagai sejenis kera), dan secara kiasan untuk orang-orang rendah dan rakyat jelata yang kacau. Al-Jahizh dalam *Kitāb al-Ḥayawān* menegaskan bahwa orang-orang berakal memakai kata ini hanya untuk orang-orang rendah dan kacau, dan mengkritik mereka yang menganggapnya jenis makhluk tersendiri. Maksud al-Rāghib: orang-orang tersebut, menurut hakikatnya, bahkan tidak layak disebut makhluk yang "menyerupai manusia". (Catatan edisi pertama, disunting.)
+
+[^r-mahsus]: **Terindra dan inteligibel** (*maḥsūs*, *maʿqūl*). Lihat glosarium terjemahan *al-Dharīʿa* 3.5 (entri *maʿqūl / maḥsūs* dan *idrāk*). Pada edisi pertama pasangan ini diterjemahkan "citra fisik" dan "citra metafisik"; padanan itu diganti karena *maʿqūl* bukan "metafisik", melainkan "yang ditangkap oleh akal" (*intelligible*), lawan dari yang ditangkap oleh indra (*sensible*). Uraian edisi pertama tentang dua jenis *idrāk* dipindahkan ke catatan Bab Kedua.
+
+[^p5]: CP: Ucapan Ali bin Abi Thalib ini terdapat dalam *Nahj al-Balāgha*, khutbah tentang jihad (khutbah no. 27 dalam susunan Subḥī al-Ṣāliḥ), yang ditujukan kepada para pengikutnya yang enggan berjihad.
+
+[^d2]: CD: Gagasan bahwa sebagian manusia hanya manusia menurut rupa lahir diuraikan dalam *al-Dharīʿa*, Pasal Pertama, bahasan "Penjelasan tentang Apa yang Membuat Manusia Unggul" dan "Keutamaan yang Lahir dari Keutamaan Jiwa", dengan pembagian yang sama: manusia yang terlepas dari kemanusiaan kecuali dalam rupa lahirnya, dan manusia yang naik hingga menyerupai malaikat. Ayat al-An'am: 112 dikutip pula dalam *al-Dharīʿa*, Pasal Kelima, bahasan "Permusuhan".
+
+Tidaklah aku menganggap al-Buhturi[^p6] berlebihan dalam kebenarannya ketika ia menilai kebanyakan manusia menurut akhlak (*khuluq*), bukan menurut rupa ciptaan (*khalq*),[^r-khuluq] dalam ucapannya:
+
+[^p6]: CP: Al-Buhturi, al-Walid bin 'Ubaid al-Tha'i, Abu 'Ubadah (206-284 H/821-898 M), salah seorang dari tiga penyair terbesar masa Abbasiyah bersama Abu Tammam dan al-Mutanabbi; syairnya dijuluki "rantai-rantai emas". Lihat al-Ziriklī, *al-Aʿlām*, 8/121. (Catatan edisi pertama, disunting.)
+
+[^r-khuluq]: **Akhlak dan rupa ciptaan** (*khuluq*, *khalq*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 79 (`m-khuluq`) dan no. 80 (`k-khuluq`): dalam *al-Mufradāt*, *khalq* dan *khuluq* pada asalnya satu, tetapi *khalq* dikhususkan untuk keadaan, bentuk, dan rupa yang ditangkap dengan penglihatan mata, sedang *khuluq* untuk daya dan perangai yang ditangkap dengan mata batin.
+
+> Tak tersisa dari kebanyakan manusia ini sesuatu
+> yang dapat dijangkau angan, selain rupa-rupa ini.[^p7]
+
+[^p7]: CP: Maksudnya, bila orang-orang itu direnungkan, tidak ada pada mereka sesuatu yang layak ditangkap oleh daya angan (*wahm*) atau pemahaman selain rupa lahir mereka; isi batin yang menjadikan mereka manusia tidak ada. Catatan edisi pertama ("maksudnya dalam ranah *maʿqūl*, bukan *maḥsūs*") dibetulkan: yang ditegaskan penyair justru sebaliknya, yakni yang tersisa hanyalah yang terindra (rupa), sedang yang inteligibel telah hilang.
+
+Tidak pula aku menganggap berlebihan penyair lain yang berkata:
+
+> Bila engkau memikirkan mereka, engkau dapati kebanyakan mereka
+> telah turun ke derajat keledai, anjing, atau serigala.
+
+Jangan engkau sangka bait-bait ini sekadar ucapan penyair dan kiasan belaka. Sebab Allah Ta'ala telah berfirman: *"atau apakah engkau mengira bahwa kebanyakan mereka itu mendengar atau memahami? Mereka itu hanyalah seperti hewan ternak, bahkan lebih sesat jalannya"* (al-Furqan: 44).[^d3]
+
+[^d3]: CD: Ayat yang sama dikutip dalam *al-Dharīʿa*, Pasal Pertama, bahasan "Penjelasan tentang Apa yang Membuat Manusia Unggul", untuk menegaskan bahwa manusia yang tidak memakai akalnya turun ke bawah derajat binatang.
+
+Dalam risalah ini aku telah menyebutkan secara ringkas keseluruhan yang ada (*mawjūdāt*), kedudukan manusia di antaranya, serta asal, sumber, dan kesudahan segala yang ada itu; kemudian kebahagiaan yang disediakan bagi manusia di dua negeri dengan meraih kemanusiaan, dan cara meraihnya.
+
+Aku memulainya dengan mengingatkan kewajiban manusia mengenal dirinya. Sebab siapa yang tahu bahwa sesuatu termasuk hal yang wajib diketahui, meskipun belum mengetahuinya, dari kesadaran itu saja ia telah memperoleh suatu pengetahuan. Termasuk ilmu ialah engkau mengetahui bahwa engkau tidak mengetahui; dan kesadaran manusia bahwa ia tidak mengetahui adalah salah satu dari dua ilmu.
+
+Ibnu Abbas, semoga Allah meridainya, berkata: "Siapa yang tidak merasakan dalam akalnya kekurangan yang ditimbulkan kebodohan, tidak merasakan dalam kalbunya kehinaan yang ditimbulkan kemaksiatan, dan tidak tampak pada lisannya kelemahan ketika ketajamannya tumpul di hadapan ketajaman lawannya, ia bukanlah orang yang mau keluar dari kerendahan, bukan orang yang rindu lepas dari ketidakberdayaan, dan tidak peduli membedakan hujah dari syubhat."
+
+Sebatas pengetahuan seseorang tentang manfaat sesuatu, sebatas itu pula ia menginginkannya dan bersabar menanggung kesulitan dalam meraihnya. Karena itu Allah Ta'ala berfirman tentang keadaan orang yang tidak mengetahui manfaat dari apa yang ia cari: *"Dan bagaimana engkau akan dapat bersabar atas sesuatu, sedang engkau belum mempunyai pengetahuan yang cukup tentang hal itu?"* (al-Kahf: 68).
+
+Maka ketahuilah, wahai orang yang mulia, keutamaan kemanusiaan dan keberuntungan yang disediakan bagi orang yang menyucikan jiwanya, sebagaimana firman Allah Ta'ala: *"Sungguh beruntung orang yang menyucikannya (jiwa itu)"* (asy-Syams: 9). Itulah kemuliaan-kemuliaan sejati:
+
+> Itulah kemuliaan-kemuliaan, bukan dua cawan susu
+> yang dicampur air, lalu kemudian menjadi air kencing.[^p8]
+
+[^p8]: CP: Ini adalah bait yang masyhur dan dinisbatkan kepada Umayyah bin Abi al-Shalt (sebagian menisbatkannya kepada ayahnya, Abu al-Shalt al-Tsaqafi) dalam pujiannya kepada Saif bin Dzi Yazan: "*Tilka al-makārimu lā qaʿbāni min labanin, shībā bi-māʾin fa-ʿādā baʿdu abwālā*." Maksudnya: kemuliaan sejati adalah perbuatan besar yang abadi namanya, bukan jamuan remeh (dua cawan susu encer) yang segera habis dan berubah menjadi kotoran. Al-Rāghib memakainya untuk membandingkan kemuliaan kemanusiaan dengan kenikmatan jasmani yang fana. Edisi pertama menyatakan kesulitan menerjemahkan ungkapan ini; kini ungkapan itu diterjemahkan sebagai syair, dan redaksi "*hiya al-makārim*" dalam edisi Arab adalah varian dari "*tilka al-makārim*".
+
+Janganlah jauhnya perjalanan yang akan engkau tempuh menjadikanmu berat, dan janganlah keadaan orang yang engkau kagumi kemegahan halaman rumahnya dan perhiasannya memalingkanmu. Bila engkau menyingkirkan darinya pakaian dan perhiasannya, maka "tidak ada kampung di balik Abbadan".[^p9] Bahkan engkau tidak akan melihatnya kecuali sebagai hamba bagi batu, tanah liat, hewan ternak, atau perempuan, seperti orang yang dicela Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, dengan sabdanya: *"Celakalah hamba dinar, celakalah hamba dirham; celaka dan tersungkurlah ia; bila tertusuk duri, semoga tidak tercabut."*[^d4]
+
+[^p9]: CP: Abbadan adalah kota di muara Sungai Tigris, titik terakhir daratan berpenghuni sebelum laut. Peribahasa "tidak ada kampung di balik Abbadan" (*laysa warāʾa ʿAbbādān qarya*) berarti "tidak ada apa-apa lagi sesudah ini". Maksud al-Rāghib: bila pakaian dan perhiasan orang yang dikagumi itu disingkirkan, tidak ada sesuatu pun di baliknya; hakikatnya kosong, dan yang tersisa hanyalah perbudakannya kepada benda-benda. Rujukan edisi pertama: *Rasāʾil al-Thaʿālibī*, hlm. 75. (Catatan edisi pertama, disunting dan dipertajam.)
+
+[^d4]: CD: Hadis yang sama dikutip dua kali dalam *al-Dharīʿa*: Pasal Ketiga, bahasan "Kanaah dan Zuhud", dan Pasal Keenam, bahasan "Pujian dan Celaan terhadap Harta"; di sana al-Rāghib menjadikannya dasar tesis bahwa harta adalah "pelayan yang tidak dilayani", sehingga menjadikan diri budak harta berarti membalik tatanan perolehan. Terjemahan hadis di sini mengikuti terjemahan *al-Dharīʿa*.
+
+Maka berhati-hatilah, sebab engkau kini berada di awal masa mudamu, ketika dahanmu masih lentur.
+
+Ketahuilah, tidak layak bagi seorang yang memiliki cita-cita (*himma*), yang dianugerahi Allah Ta'ala akhlak yang indah dan rupa ciptaan yang baik, yang disediakan baginya pendidik yang mendidiknya dengan baik, dan yang dihilangkan Allah darinya penghalang-penghalang pertolongan-Nya setelah ia mencapai usia dewasa, untuk rela tetap menjadi hewan padahal ia mampu menjadi manusia; tidak pula rela tetap menjadi manusia padahal ia mampu menjadi malaikat; dan tidak pula rela tetap pada kedudukan malaikat padahal ia mampu menjadi raja di tempat duduk kebenaran di sisi Raja Yang Mahakuasa, sementara para malaikat berdiri melayaninya,[^r-himma] sebagaimana firman Allah Ta'ala: *"sedang para malaikat masuk ke tempat-tempat mereka dari semua pintu; (sambil mengucapkan), 'Salamun 'alaikum (keselamatan atasmu) karena kesabaranmu.' Maka alangkah nikmatnya tempat kesudahan itu"* (ar-Ra'd: 23-24).[^d5]
+
+[^r-himma]: **Cita-cita** (*himma*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 235 (`m-himma`) dan no. 236 (`k-himma`), serta bahasan "Kebesaran Cita-Cita" dalam Pasal Ketiga.
+
+[^d5]: CD: Tangga "hewan, manusia, malaikat, raja di sisi Allah" di sini sejalan dengan *al-Dharīʿa*, Pasal Pertama, bahasan "Kedudukan Manusia di antara Binatang dan Malaikat", dan dengan uraian tentang kebesaran cita-cita dalam Pasal Ketiga: orang yang besar cita-citanya tidak rela dengan cita-cita kebinatangan, tetapi berupaya menjadi khalifah Allah di dunia dan tetangga-Nya di akhirat. *Tafṣīl* menambah satu anak tangga yang tidak disebut dalam *al-Dharīʿa*, yaitu melampaui kedudukan malaikat; hal ini diuraikan dalam Bab Ketiga Puluh Tiga.
+
+Semoga Allah Ta'ala memberi kami taufik untuk mencapai hal itu, dan tidak menjadikan kami termasuk orang-orang malas yang disifati dalam firman-Nya: *"Sekiranya (yang kamu serukan kepada mereka) ada keuntungan yang mudah diperoleh dan perjalanan yang tidak seberapa jauh, niscaya mereka mengikutimu, tetapi tempat yang dituju itu terasa sangat jauh bagi mereka"* (at-Taubah: 42). Semoga Allah Ta'ala menjadikan kami dan engkau termasuk orang-orang mukmin yang disifati dalam firman-Nya: *"Dialah yang telah menurunkan ketenangan ke dalam hati orang-orang mukmin"* (al-Fath: 4), dan firman-Nya: *"Merekalah orang-orang yang dalam hatinya telah ditanamkan Allah keimanan dan Allah telah menguatkan mereka dengan pertolongan yang datang dari-Nya"* (al-Mujadilah: 22), sehingga engkau tidak tertipu oleh apa yang *"seperti fatamorgana di tanah yang datar, yang disangka air oleh orang-orang yang dahaga, tetapi apabila (air) itu didatangi tidak ada apa pun"* (an-Nur: 39).
+
+Risalah ini terdiri dari tiga puluh tiga bab: (1) tentang pengenalan manusia terhadap dirinya; (2) tentang jenis-jenis yang ada dan kedudukan manusia di antaranya; (3) tentang unsur-unsur yang darinya manusia diadakan; (4) tentang daya-daya segala sesuatu yang terhimpun dalam diri manusia; (5) tentang terbentuknya manusia sedikit demi sedikit hingga menjadi manusia yang sempurna; (6) tentang tampaknya manusia dalam ciri-ciri segala yang ada dan dikhususkannya ia dengan daya dari masing-masing; (7) tentang kuiditas manusia; (8) tentang kelayakan manusia bagi dua negeri; (9) tentang perumpamaan diri manusia dan penggambarannya; (10) tentang manusia sebagai tujuan alam dan diadakannya selain manusia demi dia; (11) tentang tujuan diadakannya manusia dan kedudukan-kedudukan mereka; (12) tentang perbedaan tingkat dan keragaman manusia; (13) tentang sebab perbedaan tingkat manusia; (14) tentang penjelasan pohon kenabian dan keutamaannya atas substansi seluruh makhluk; (15) tentang petunjuk segala sesuatu kepada kemaslahatannya; (16) tentang kebahagiaan manusia dan kerinduannya kepadanya; (17) tentang keadaan manusia di dunianya dan apa yang perlu ia bekalkan darinya; (18) tentang saling menopangnya akal dan syariat dan kebutuhan masing-masing kepada yang lain; (19) tentang keutamaan syariat; (20) tentang bahwa orang yang tidak mengkhususkan diri dengan syariat dan ibadah kepada Allah bukanlah manusia; (21) tentang perbuatan-perbuatan yang berkaitan dengan syariat; (22) tentang hakikat ibadah; (23) tentang macam-macam ibadah berupa ilmu dan amal; (24) tentang bahwa tujuan ibadah ialah menyucikan jiwa dan mendatangkan kesehatannya; (25) tentang penyakit-penyakit dan najis-najis yang tidak dapat dihilangkan kecuali dengan syariat; (26) tentang daya-daya yang wajib dihilangkan penyakit dan najisnya, dan makna-makna yang diraih dengan itu; (27) tentang manusia yang difitrahkan untuk memperbaiki jiwanya; (28) tentang sebab keburukan manusia dan ketertinggalannya dari keutamaan; (29) tentang keadaan dan kedudukan manusia dalam melakukan perbuatan terpuji dan tercela; (30) tentang berbaliknya manusia dari jalan kebaikan dan keburukan; (31) tentang kadar yang mungkin dalam meraih kebahagiaan; (32) tentang penetapan hari kembali, keutamaan kematian, dan apa yang diperoleh sesudahnya; (33) tentang keutamaan manusia bila ia lebih mulia daripada malaikat.
+
+# Bab Pertama {.kitab-ke}
+
+# Pengenalan Manusia terhadap Dirinya {.judul-kitab}
+
+Para bijak (*ḥukamāʾ*) terkadang berkata: "Yang pertama kali wajib diketahui manusia ialah mengenal dirinya," dan terkadang berkata: "Yang pertama kali wajib diketahui manusia ialah mengenal Allah Ta'ala." Tidak ada pertentangan di antara kedua ucapan itu. Dengan ucapan pertama mereka memaksudkan yang pertama dari segi urutan, dan dengan ucapan kedua yang pertama dari segi kemuliaan, sebab pengetahuan yang paling mulia adalah mengenal Allah Ta'ala.[^d6] Dalam pengenalan manusia terhadap dirinya terdapat jalan menuju banyak hal.
+
+[^d6]: CD: Persoalan yang sama dibahas dalam *al-Dharīʿa*, Pasal Pertama, bahasan "Hakikat Manusia dan Cara Penyusunannya", yang juga mengutip adz-Dzariyat: 20-21, Fushshilat: 53, riwayat "Kenalilah dirimu, wahai manusia, niscaya engkau mengenal Tuhanmu", dan al-Hasyr: 19. Yasien Mohamed dalam catatannya atas bagian itu (terjemahan *al-Dharīʿa*, catatan CY no. 8) merujuk langsung kepada pembahasan *Tafṣīl* ini. Perbedaannya: *al-Dharīʿa* hanya memberi dasar-dasar, sedang *Tafṣīl* merinci delapan faedah mengenal diri dan tiga takwil riwayat itu.
+
+**Pertama**: hanya dengan mengenal dirinya manusia dapat meraih pengetahuan tentang selain dirinya. Siapa yang tidak mengenal dirinya tidak akan mengenal sesuatu pun selainnya.
+
+**Kedua**: sebagaimana akan kami jelaskan, diri manusia adalah ringkasan yang menghimpun seluruh yang ada.[^p10] Maka siapa yang mengenal dirinya sebagaimana mestinya, ia telah mengenal segala yang ada. Karena itu Allah Ta'ala berfirman: *"Dan mengapa mereka tidak memikirkan tentang (kejadian) diri mereka? Allah tidak menciptakan langit dan bumi dan apa yang ada di antara keduanya melainkan dengan (tujuan) yang benar dan dalam waktu yang ditentukan. Dan sesungguhnya kebanyakan di antara manusia benar-benar mengingkari pertemuan dengan Tuhannya"* (ar-Rum: 8). Dalam ayat ini terdapat peringatan bahwa seandainya mereka memikirkan diri mereka dan mengenalnya, niscaya dengan pengenalan itu mereka mengetahui hakikat segala yang ada, mana yang fana dan mana yang kekal; dengan pengetahuan itu mereka menangkap hakikat langit dan bumi, sehingga mereka tidak mengingkari kebangkitan sesudah mati, yang merupakan pertemuan dengan Tuhan mereka. Sebagaimana firman Allah Ta'ala di ayat lain: *"Kami akan memperlihatkan kepada mereka tanda-tanda (kebesaran) Kami di segenap penjuru dan pada diri mereka sendiri, sehingga jelaslah bagi mereka bahwa Al-Qur'an itu adalah benar. Tidak cukupkah (bagi kamu) bahwa Tuhanmu menjadi saksi atas segala sesuatu?"* (Fushshilat: 53), dan firman-Nya: *"Dan di bumi terdapat tanda-tanda (kebesaran Allah) bagi orang-orang yang yakin, dan (juga) pada dirimu sendiri. Maka apakah kamu tidak memperhatikan?"* (adz-Dzariyat: 20-21).
+
+[^p10]: CP: Lihat Bab Keempat (daya-daya segala sesuatu yang terhimpun dalam diri manusia) dan Bab Keenam (tampaknya manusia dalam ciri-ciri segala yang ada). Tentang istilah *wujūd* dan *mawjūd*: *wujūd* ialah keberadaan (*existence*, *being*), sedang *mawjūd* (jamak *mawjūdāt*) ialah sesuatu yang ada (*existent*); dalam terjemahan ini *mawjūdāt* diterjemahkan "segala yang ada" atau "yang ada". Catatan edisi pertama yang menyatakan bahwa *mawjūd* adalah realitas di luar pikiran sedang *wujūd* adalah konsep mental tentang "ada" direvisi: pembedaan itu tidak dikenal sebagai pembedaan baku dalam falsafah Islam. *Wujūd* sendiri dibagi para filsuf menjadi wujud di luar (*fī al-aʿyān*), wujud di dalam pikiran (*fī al-adhhān*), wujud dalam ucapan, dan wujud dalam tulisan, dan pembagian empat inilah yang tepat dari catatan edisi pertama.
+
+**Ketiga**: siapa yang mengenal dirinya mengenal alam; dan siapa yang mengenal alam, seakan-akan ia menyaksikan keagungan dan kekuasaan Allah Ta'ala dalam penciptaan langit dan bumi ketika Dia menciptakan keduanya, sehingga ia terhindar dari keadaan orang-orang yang tersesat dan mengingkari karena kebodohan mereka. Sebagaimana firman Allah Ta'ala tentang orang-orang yang tidak mengetahui hal itu lalu jatuh ke dalam pengingkaran karena kebodohan: *"Aku tidak menghadirkan mereka (iblis dan anak cucunya) untuk menyaksikan penciptaan langit dan bumi dan tidak (pula) penciptaan diri mereka sendiri; dan Aku tidak menjadikan orang yang menyesatkan itu sebagai penolong"* (al-Kahf: 51).
+
+**Keempat**: dengan mengenal rohnya, manusia mengenal alam rohani dan kekekalannya; dan dengan mengenal jasadnya, ia mengenal alam jasmani dan cepat lenyapnya. Dengan demikian ia mengetahui hinanya yang fana dan sementara, dan mulianya yang baik dan kekal.[^r-ruh]
+
+[^r-ruh]: **Roh** (*rūḥ*) dan **jiwa** (*nafs*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 19 (`m-nafs`), no. 20 (`k-nafs`), dan no. 21 (`m-ruh`).
+
+**Kelima**: siapa yang mengenal dirinya mengenal musuh-musuhnya yang tersembunyi di dalam dirinya, sebagaimana diberitakan Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, dengan sabdanya: *"Musuhmu yang paling memusuhi adalah nafsumu yang berada di antara kedua lambungmu."* Dengan itu ia menemukan jalan untuk menjaga diri darinya dan berlindung kepada Allah Ta'ala, sebagaimana Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, berdoa: *"Ya Allah, ilhamkanlah kepadaku petunjukku dan lindungilah aku dari keburukan nafsuku,"* dan berdoa: *"Ya Allah, janganlah Engkau serahkan aku kepada nafsuku sekejap mata pun, sehingga aku binasa."* Siapa yang mengenal musuh-musuhnya yang tersembunyi, tempat-tempat persembunyiannya, dan cara geraknya, akan mampu berhati-hati darinya dan memeranginya, sehingga ia berhak atas pahala yang dijanjikan Allah Ta'ala bagi orang-orang yang berjihad di jalan-Nya. Adapun orang yang tidak mengenal musuh-musuhnya yang tersembunyi dan tempat-tempat persembunyiannya, boleh jadi musuhnya, yaitu hawa nafsu, menampakkan diri kepadanya dalam rupa akal, lalu ia jatuh ke dalam kekeliruan menerima yang batil sebagai yang hak.[^r-aql][^d7] Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, bersabda: *"Hawa nafsu adalah setan,"* bahkan beliau bersabda: *"(Hawa nafsu) adalah tuhan yang disembah selain Allah."* Diriwayatkan bahwa beliau bersabda: *"Tidak ada tuhan yang disembah di muka bumi yang lebih dibenci Allah daripada hawa nafsu,"* lalu beliau membaca: *"Sudahkah engkau (Muhammad) melihat orang yang menjadikan keinginannya sebagai tuhannya. Apakah engkau akan menjadi pelindungnya?"* (al-Furqan: 43).
+
+[^r-aql]: **Akal** (*ʿaql*) dan **hawa nafsu** (*hawā*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 93 (`m-aql`) dan no. 94 (`k-aql`) untuk akal, serta no. 66 (`m-hawa`) dan no. 67 (`k-hawa`) untuk hawa nafsu. Catatan edisi pertama tentang akal bawaan (*gharīzī*, disebut juga *maṭbūʿ*) dan akal perolehan (*mustafād*, disebut juga *masmūʿ*), beserta bait yang dinisbatkan kepada Ali ("Kulihat akal itu ada dua..."), tepat, dan uraian itu terdapat dalam *al-Dharīʿa*, Pasal Kedua, bahasan tentang akal bawaan dan akal perolehan.
+
+[^d7]: CD: Gagasan bahwa hawa nafsu menampakkan diri dalam rupa akal menjadi pokok bahasan *al-Dharīʿa*, Pasal Pertama, bahasan "Penjelasan Perebutan Hawa Nafsu dengan Akal" dan "Lintasan Hati yang Datang dari Arah Akal dan dari Arah Hawa Nafsu", yang memberi ukuran untuk membedakan keduanya. Hadis "Musuhmu yang paling memusuhi..." dan "Hawa nafsu adalah setan" dikutip pula dalam *al-Dharīʿa*, Pasal Kelima, bahasan "Permusuhan", yang menjadikan hawa nafsu dan amarah yang melampaui batas sebagai dua musuh batin yang sempurna; terjemahan kedua hadis di sini mengikuti terjemahan *al-Dharīʿa*.
+
+**Keenam**: siapa yang mengenal dirinya mengetahui cara mengaturnya; dan siapa yang mampu mengatur dirinya dengan baik dan adil, mampu pula mengatur alam dengan baik dan adil. Dengan itu ia menjadi salah seorang khalifah Allah di bumi yang disebut dalam firman-Nya: *"dan menjadikan kamu khalifah di bumi"* (al-A'raf: 129), dan termasuk orang-orang yang berbahagia dengan kerajaan yang disebut dalam firman-Nya: *"dan menjadikan kamu sebagai orang-orang merdeka"* (al-Ma'idah: 20).[^p11][^r-khilafa]
+
+[^p11]: CP: Lafaz ayat ini *wa jaʿalakum mulūkan*, harfiahnya "dan menjadikan kamu raja-raja". Terjemahan Kemenag memakai "orang-orang merdeka", sedang al-Rāghib memahaminya secara harfiah: orang yang mampu mengatur dirinya adalah raja yang sejati.
+
+[^r-khilafa]: **Kekhalifahan** (*khilāfa*) dan **pengaturan** (*siyāsa*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 6 (`m-khilafa`) dan no. 50 (`k-siyasa`), serta Pasal Pertama, bahasan "Siasat yang Membuat Manusia Layak Menjadi Khalifah Allah Ta'ala", yang menyatakan bahwa manusia tidak layak mengatur orang lain sebelum mengatur dirinya.
+
+**Ketujuh**: siapa yang mengenal dirinya, setiap kali melihat suatu aib pada orang lain, ia menduga bahwa aib itu ada pula pada dirinya, entah tampak ke luar, entah tersembunyi di dalam dirinya seperti api tersimpan di dalam batu. Maka ia tidak menjadi orang yang suka menggunjing, mengejek, dan mencela manusia, karena ia dapati setiap aib yang dilihatnya pada orang lain ada pula pada dirinya. Siapa yang melihat aibnya sendiri layak termasuk orang yang didoakan Nabi, semoga Allah melimpahkan selawat dan salam kepadanya: *"Semoga Allah merahmati orang yang disibukkan oleh aibnya sendiri dari aib orang lain."*
+
+Mengenal aib diri adalah perkara yang sangat sulit, sebab setiap manusia mencintai dirinya, dan cintanya kepada dirinya membutakannya dari melihat aib-aibnya. Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, bersabda: *"Cintamu kepada sesuatu membuat buta dan tuli."* Orang yang buta dan tuli terhadap aib sesuatu biasanya justru kagum kepadanya, padahal tidak ada bahaya yang lebih besar daripada ujubnya seseorang terhadap dirinya.[^r-ujb] Sebagian bijak berkata: "Pendusta berada di puncak kejauhan dari kebenaran, dan orang yang riya lebih buruk keadaannya daripada pendusta, karena pendusta berdusta dengan ucapannya, sedang orang yang riya berdusta dengan ucapan dan perbuatannya. Orang yang ujub lebih buruk keadaannya daripada keduanya, sebab pendusta dan orang yang riya terkadang mengambil manfaat dari keadaannya, sedang orang yang ujub sama sekali tidak mengambil manfaat darinya. Lagi pula, karena pendusta dan orang yang riya mengetahui keadaan mereka, nasihat yang engkau berikan kepada mereka terkadang bermanfaat dan membekas; sedang orang yang ujub, karena kebodohannya terhadap keadaannya, menyangka nasihatmu kepadanya omong kosong dan sia-sia."[^d8]
+
+[^r-ujb]: **Ujub** (*ʿujb*) dan **riya** (*riyāʾ*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 261 (`m-ujb`), no. 262 (`k-ujb`), dan no. 263 (`k-riya`).
+
+[^d8]: CD: Perbandingan pendusta, orang yang riya, dan orang yang ujub ini terdapat pula dalam *al-Dharīʿa*, Pasal Ketiga, bahasan "Ujub", dengan redaksi yang lebih panjang. Terjemahan di sini mengikuti terjemahan *al-Dharīʿa* sejauh redaksinya sama. Ada dua perbedaan. (1) *Al-Dharīʿa* menyebut pendusta "di puncak kejauhan dari keutamaan", sedang *Tafṣīl* (menurut terjemahan edisi pertama dan Turki) "dari kebenaran". (2) *Al-Dharīʿa* menjelaskan manfaat riya dan dusta dengan contoh nakhoda yang menenangkan penumpangnya dan pemimpin yang riya agar diteladani, sedang *Tafṣīl* hanya menyebut bahwa keduanya "terkadang mengambil manfaat". Hadis "Cintamu kepada sesuatu membuat buta dan tuli" juga dikutip di sana untuk menjelaskan asal ujub.
+
+**Kedelapan**: siapa yang mengenal dirinya pasti mengenal Allah Ta'ala. Diriwayatkan bahwa dalam setiap kitab yang diturunkan Allah Ta'ala kepada para nabi-Nya termaktub: *"Kenalilah dirimu, wahai manusia, niscaya engkau mengenal Tuhanmu."*[^p12] Itulah makna firman Allah Ta'ala: *"Kami akan memperlihatkan kepada mereka tanda-tanda (kebesaran) Kami di segenap penjuru dan pada diri mereka sendiri"* (Fushshilat: 53).
+
+[^p12]: CP: Riwayat ini tidak dapat dipastikan asalnya dalam kitab-kitab terdahulu; al-Rāghib menukilnya dengan ungkapan "diriwayatkan". Maksim serupa dikenal luas dalam kebijaksanaan kuno. Di Yunani, "Kenalilah dirimu" (*gnôthi seautón*) terpahat di kuil Apollon di Delphi, bersama "Jangan berlebih-lebihan" (*mēdèn ágan*) dan huruf "E" (dibaca *ei*, "Engkau ada") yang ditafsirkan Plutarkhos dalam *De E apud Delphos*. Herakleitos berkata bahwa setiap manusia memiliki kemampuan mengenal dirinya dan berpikir dengan jernih; Protagoras menyatakan manusia sebagai ukuran segala sesuatu (*homo mensura*); Plato dalam *Nomoi* (716c) melalui tokoh Orang Asing dari Athena membalikkannya: "Tuhanlah ukuran segala sesuatu bagi kita", dan orang yang bersahaja (*sōphrōn*) dicintai Tuhan karena menyerupai-Nya; dalam *Theaitetos* (176b) Sokrates menyebut "menyerupai Tuhan" (*homoiōsis theōi*) sebagai tujuan hidup. Catatan edisi pertama tentang hal ini disunting dengan dua pembetulan: huruf ketiga di Delphi adalah "E", bukan "Engkaulah Dia", dan pembicara dalam *Nomoi* bukan Sokrates. Rujukan edisi pertama: H. Tränkle, "Gnothi Seauton", *Würzburger Jahrbücher für die Altertumswissenschaft* 11 (1985): 19-31; J. Engels, *Die Sieben Weisen* (München, 2010); W. Jaeger, *The Theology of the Early Greek Philosophers* (Oxford, 1947).
+
+Dalam riwayat itu ada tiga takwil.
+
+**Pertama**: dengan mengenal diri, seseorang sampai kepada pengenalan terhadap Allah Ta'ala, seperti ucapan: "Pelajarilah bahasa Arab, niscaya engkau mengetahui fikih," yakni dengan mempelajari bahasa Arab seseorang dapat sampai kepada ilmu fikih, meskipun di antara keduanya masih ada perantara-perantara.
+
+**Kedua**: bila seseorang meraih pengenalan terhadap dirinya, pengenalan terhadap Allah hadir padanya bersamaan, tanpa jeda, sebagaimana cahaya hadir bersamaan dengan terbitnya matahari tanpa tertinggal sedikit pun waktu.
+
+**Ketiga**: pengenalan terhadap Allah Ta'ala hanya terwujud melalui pengenalan terhadap diri. Sebab bila engkau mengenal dirimu dengan sebenar-benarnya, engkau mengenal alam; bila engkau mengenal alam, engkau tahu dengan pasti bahwa ia baru (*muḥdath*); dan engkau tahu dengan pasti bahwa yang baru membutuhkan Pengada yang sama sekali tidak menyerupainya dalam keadaan apa pun. Itulah puncak pengenalan terhadap Allah.[^r-marifa]
+
+[^r-marifa]: **Makrifat** (*maʿrifa*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 156 (`m-marifa`) dan no. 157 (`k-marifa`): dalam *al-Mufradāt*, makrifat ialah menangkap sesuatu dengan memikirkan dan merenungkan jejaknya, sehingga pengenalan manusia terhadap Allah adalah dengan merenungkan jejak-jejak-Nya, bukan dengan menangkap Zat-Nya. Takwil ketiga di sini adalah penerapan langsung dari definisi itu.
+
+Para ulama berkata: itulah makna ucapan Amirul Mukminin, semoga Allah memuliakan wajahnya: "Akal diberikan untuk menegakkan kehambaan, bukan untuk menangkap hakikat ketuhanan." Lalu ia bersyair:
+
+> Bagaimana manusia yang tak mampu menangkap hakikat jiwa
+> dapat menangkap Yang Mahaperkasa dalam keazalian-Nya?
+> Dialah yang mengadakan segala sesuatu dari ketiadaan;
+> bagaimana yang baru diadakan dapat menangkap-Nya?
+
+Ia juga berkata:
+
+> Tak mampu menangkap pengidrakan adalah pengidrakan;
+> menyelidiki rahasia Zat Sang Rahasia adalah syirik.
+> Dalam lubuk kalbu makhluk ada cita-cita tentang Zat itu
+> yang tak sanggup dijangkau jin dan malaikat.
+> Yang menunjuki kepada-Nya hanyalah petunjuk dari-Nya;
+> dan yang berusaha memahami-Nya, walau seorang wali, tak akan sampai.[^p13]
+
+[^p13]: CP: Kedua syair ini diterjemahkan dari terjemahan edisi pertama dan terjemahan Turki, karena teks Arab bagian ini tidak tersedia. Larik pertama syair kedua adalah ungkapan yang sangat masyhur, "*al-ʿajzu ʿan darki al-idrāki idrākun, wa al-baḥthu ʿan sirri dhāti al-sirri ishrākun*", yang dinisbatkan kepada Abu Bakar al-Shiddiq dan juga kepada Ali. Edisi pertama menerjemahkannya sebagai prosa; di sini dikembalikan menjadi syair.
+
+Abu Bakar al-Shiddiq, semoga Allah meridainya, berkata: "Wahai Zat yang puncak pengenalan terhadap-Nya adalah pengakuan akan ketidakmampuan mengenal-Nya."
+
+Allah Ta'ala berfirman: *"Dan janganlah kamu seperti orang-orang yang lupa kepada Allah, sehingga Allah menjadikan mereka lupa akan diri sendiri"* (al-Hasyr: 19). Ini adalah peringatan bahwa seandainya mereka mengenal diri mereka, niscaya mereka mengenal Allah Ta'ala; maka ketika mereka tidak mengenal-Nya, ketidaktahuan mereka tentang Allah menjadi tanda bahwa mereka tidak mengenal diri mereka.
