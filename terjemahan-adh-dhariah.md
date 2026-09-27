@@ -14,9 +14,9 @@
 | Butir | Keterangan |
 |---|---|
 | Tahap | Penerjemahan berjalan |
-| Sudah diterjemahkan | Pasal Pertama; Pasal Kedua; Pasal Ketiga; Pasal Keempat; Pasal Kelima; Pasal Keenam (sebagian) |
-| Posisi berikutnya | Pasal Keenam, lanjutan kisah putra raja (Arab dh2 baris 2391) |
-| Nomor catatan terakhir | CE: e81 · CY: y55 · CP: p40 |
+| Sudah diterjemahkan | Pasal Pertama; Pasal Kedua; Pasal Ketiga; Pasal Keempat; Pasal Kelima; Pasal Keenam |
+| Posisi berikutnya | Pasal Keenam selesai; Pasal Ketujuh (Arab dh2 baris 2484) |
+| Nomor catatan terakhir | CE: e85 · CY: y55 · CP: p44 |
 | Catatan *Mufradāt* dan *Kashshāf* | lihat 3.13 |
 
 ---
@@ -3591,3 +3591,143 @@ Selain itu, sebagaimana buruk bagi manusia untuk hanya menyibukkan diri dengan u
 Jika dikatakan: telah dikatakan bahwa manusia ada tiga: "Orang yang disibukkan oleh tempat kembalinya dari penghidupannya, dan itulah derajat orang-orang yang beruntung; orang yang disibukkan oleh penghidupannya dari tempat kembalinya, dan itulah derajat orang-orang yang binasa; dan orang yang sibuk dengan keduanya, dan itulah derajat orang-orang yang mempertaruhkan diri." Ia berkata: "Telah diketahui bahwa orang yang beruntung lebih baik keadaannya daripada orang yang mempertaruhkan diri."
 
 Dijawab kepadanya: kedudukan-kedudukan yang tinggi tidak lepas dari pertaruhan. Orang yang berkata demikian tidak bermaksud mengutamakan orang yang beruntung itu; ia hanya khawatir bila orang yang tidak mampu mencalonkan diri untuk kekhalifahan Allah. Hal ini dikuatkan oleh riwayat bahwa salah seorang putra raja yang telah kuat dalam ilmu dan hikmah menjauhkan diri dari kerajaan dan zuhud terhadap dunia. Maka seorang raja menulis kepadanya: "Engkau telah menjauhkan diri dari apa yang kami jalani. Jika engkau tahu bahwa apa yang engkau pilih itu lebih utama, beri tahulah kami agar kami meninggalkan apa yang kami jalani; dan jangan sekali-kali engkau kira bahwa aku akan menerima ucapan darimu tanpa hujah."
+
+Maka ia menulis kepada raja itu: "Ketahuilah, kita adalah hamba-hamba seorang Raja yang Maha Penyayang, yang mengutus kita untuk memerangi musuh, dan memberitahu kita bahwa tujuan dari itu adalah mengalahkannya atau selamat darinya. Ketika mereka telah dekat dengan serbuan, mereka menjadi tiga golongan. Golongan yang berhati-hati: mencari keselamatan darinya lalu menjauh, maka ia memperoleh bebas dari celaan meskipun tidak memperoleh pujian. Golongan yang nekat: maju tanpa pandangan yang jelas, lalu musuh melukai dan mengalahkannya, maka dengan itu ia mendatangkan murka Tuhannya. Dan golongan yang berani: maju dengan pandangan yang jelas, lalu berperang, berjuang sungguh-sungguh, dan bersusah payah; dialah yang beruntung dengan keberuntungan yang sempurna. Adapun aku, ketika aku dapati diriku lemah, aku rela dengan yang lebih rendah di antara dua cita-cita dan yang lebih bawah di antara dua kedudukan. Maka jadilah engkau, wahai raja, termasuk golongan yang paling utama, niscaya engkau menjadi yang paling mulia di antara mereka di sisi Allah. Wassalam."[^p41]
+
+[^p41]: CP: Perumpamaan tiga golongan pasukan ini adalah penerapan skema keberanian dari Pasal Keempat (kepengecutan, kenekatan, keberanian) pada pilihan hidup antara menjauhi dunia dan mengelolanya. Yang menjauh (*mutaḥarriz*) setara dengan sisi kekurangan: selamat dari celaan tetapi tidak meraih pujian; yang nekat (*mutahawwir*) adalah yang terjun ke dunia tanpa bekal ilmu; yang berani (*shujāʿ*) adalah yang terjun dengan *baṣīra*. Putra raja yang zuhud itu mengakui dirinya memilih jalan yang lebih rendah karena menyadari kelemahannya, dan justru mendorong sang raja kepada jalan yang lebih tinggi. Ini menegaskan tesis al-Rāghib bahwa kekhalifahan (mengelola dunia untuk Allah) lebih utama daripada pengasingan diri, bagi yang mampu.
+
+## Penjelasan tentang Siapa yang Boleh Memperbanyak Bagian-Bagian Dunia dan Siapa yang Tidak Boleh {.judul-bab}
+
+Yang menjadi ukuran dalam mengambil dunia, memperbanyaknya atau menyedikitkannya, zuhud terhadapnya atau menginginkannya, bukanlah mengambil sedikit atau banyak, melainkan mengambilnya dari jalan yang semestinya dan meletakkannya sebagaimana semestinya. Amirul Mukminin Ali ibn Abi Talib, semoga Allah memuliakan wajahnya, berkata: "Seandainya seseorang mengambil semua yang ada di bumi dan dengannya ia menghendaki wajah Allah, ia disebut zahid; dan seandainya ia meninggalkan semua yang ada di bumi tetapi tidak menghendaki wajah Allah dengannya, ia tidak disebut zahid, dan tidak pula dengan itu ia menjadi hamba bagi Allah."[^e82] Maka hendaklah apa yang engkau ambil dan apa yang engkau tinggalkan adalah karena Allah Azza wa Jalla, bukan karena selain-Nya.
+
+[^e82]: CE: Kami tidak menemukan ucapan ini dinisbatkan kepada Imam Ali. Akan tetapi al-Ḥārith al-Muḥāsibī (w. 243 H) memiliki ungkapan yang semakna dengan lafaz yang dekat, yang ia sebutkan tanpa menisbatkannya kepada siapa pun.
+
+Ketahuilah, orang bijak, bila mengambil bagian-bagian dunia, berlaku seperti pawang yang mahir yang memegang ular. Ia telah mengenal manfaat dan bahayanya, dan aman dari bisa dan keburukannya. Dengan memegangnya ia mengupayakan cara yang dengannya ia sendiri mendapat manfaat dan memberi manfaat kepada orang lain; maka hal itu mubah baginya. Adapun orang yang tidak bijak, bila mengambilnya, ia seperti orang bodoh yang memandang bagus ular itu dan merasakan lembutnya sentuhannya, lalu menyangka bahwa ular itu layak dijadikan kalung, maka ia melingkarkannya di lehernya sebagai kalung, lalu ular itu mematuk dan membunuhnya. Alangkah bagusnya ucapan penyair dalam melukiskan dunia:
+
+> Ia adalah dunia, seperti ular yang menyemburkan bisa,
+> meskipun lembut bila disentuh.
+
+Sebagaimana tidak boleh bagi orang yang tidak tahu cara menjinakkan ular dan tidak mengenal manfaatnya meneladani pawang dalam memegang ular dan mengendalikannya, demikian pula tidak boleh bagi orang bodoh meneladani orang bijak dalam mengambil bagian-bagian dunia. Sebagaimana mustahil orang buta menempuh jalan terjal yang ditempuh orang yang melihat tanpa penuntun, karena ia tidak aman dari jatuh ke dalam lubang, demikian pula mustahil orang bodoh yang bertindak semaunya dengan pendapatnya sendiri menempuh jalan dalam mengambil bagian-bagian dunia yang telah ditempuh orang bijak yang berilmu, karena ia tidak aman dari jatuh ke dalam jurang.
+
+Lagi pula, dunia adalah perempuan cantik yang dungu, sebagaimana kata penyair:
+
+> Ada padanya tabiat perempuan-perempuan cantik, maka aku tak tahu
+> apakah ia terhitung di antara perempuan-perempuan cantik atau bukan.
+
+Sebagaimana perempuan cantik tidak boleh didatangi dan dijumpai berduaan oleh laki-laki kecuali orang yang dikebiri yang aman terhadapnya, demikian pula dunia tidak boleh dikuasai kecuali oleh orang yang telah terputus darinya dengan kesucian diri dan zuhud, agar ia tidak tertipu olehnya. Seperti Amirul Mukminin Ali, semoga Allah meridainya, yang berkata: "Wahai yang merah (emas), wahai yang putih (perak), memerahlah dan memutihlah, dan tipulah orang selain aku. Ini adalah petikanku dan yang terbaik darinya ada di dalamnya, sebab setiap pemetik tangannya menuju mulutnya."[^e83]
+
+[^e83]: CE: Ungkapan ini, dengan beberapa perbedaan, dinisbatkan kepada Imam Ali. Lihat *Nahj al-Balāgha*, no. 374.
+
+Siapa yang memahami hal itu akan tahu bahwa Allah Ta'ala telah membolehkan seluruh dunia bagi wali-wali-Nya, karena Dia tahu bahwa mereka tidak mengambilnya kecuali sesuai yang semestinya dan dengan cara yang semestinya, dan bila mengambilnya mereka meletakkannya sebagaimana semestinya dan di tempat yang semestinya. Berdasarkan ini Allah berfirman: *"Sesungguhnya bumi (ini) milik Allah; diwariskan-Nya kepada siapa saja yang Dia kehendaki di antara hamba-hamba-Nya. Dan kesudahan (yang baik) adalah bagi orang-orang yang bertakwa"* (al-A'raf: 128), dan berfirman: *"bahwa bumi ini akan diwarisi oleh hamba-hamba-Ku yang saleh"* (al-Anbiya': 105), dan ayat-ayat lain yang telah disebutkan.
+
+## Hukuman Duniawi yang Menimpa Para Pemuja Dunia {.judul-bab}
+
+Allah Azza wa Jalla memiliki dua hukuman bagi orang yang mengambil dari dunia apa yang tidak boleh ia ambil, atau mengambilnya dari jalan yang boleh tetapi tidak menunaikan haknya.
+
+**Pertama**: hukuman yang tampak bagi mata dan mata batin, yaitu hukuman orang yang merampas harta secara terang-terangan atau mencurinya secara sembunyi-sembunyi, dan seperti orang yang menahan hak Allah berupa zakat. Hukuman-hukuman itu tampak, dan penguasa diperintahkan untuk menegakkannya.
+
+**Kedua**: hukuman yang tersembunyi dari mata tetapi dijangkau oleh mata batin orang-orang berakal, seperti hukuman orang yang mengambil harta dari jalan yang tidak boleh ia ambil, atau menahannya di tempat yang tidak boleh ia tahan, tanpa ada hukuman had yang diperintahkan kepada penguasa untuk ditegakkan. Hukuman orang ini adalah apa yang diriwayatkan: *"Hamba mana pun yang kalbunya dihuni cinta dunia, ia diuji dengan tiga hal: kesibukan yang tidak sampai ke ujungnya, kefakiran yang tidak tercapai kekayaannya, dan angan-angan yang tidak tercapai batasnya,"* dan sabda Nabi, semoga Allah melimpahkan selawat dan salam kepadanya: *"Siapa yang dunia menjadi cita-citanya yang terbesar, Allah mencerai-beraikan urusannya, menjadikan kefakirannya di depan kedua matanya, dan Allah tidak peduli di lembah dunia mana Dia membinasakannya."*
+
+Berdasarkan itu Allah Ta'ala berfirman: *"Sesungguhnya maksud Allah dengan itu adalah untuk menyiksa mereka dalam kehidupan dunia dan kelak akan mati dalam keadaan kafir"* (at-Taubah: 55), dan berfirman: *"Dan barang siapa berpaling dari peringatan-Ku, maka sungguh, dia akan menjalani kehidupan yang sempit"* (Taha: 124). Yang dimaksud bukan sedikitnya penghidupan, melainkan duka dan kecemasan yang ia derita di dalamnya, yang mengeruhkan hidupnya.
+
+## Infak yang Terpuji dan Infak yang Tercela {.judul-bab}
+
+Infak ada dua macam: terpuji dan tercela.[^m-infaq]
+
+[^m-infaq]: **Infak** (*infāq*) dan **pemborosan** (*isrāf*). Dalam *al-Mufradāt*: *saraf* ialah melampaui batas dalam setiap perbuatan yang dilakukan manusia, meskipun dalam infak lebih terkenal, seperti *"Dan (termasuk hamba-hamba Tuhan Yang Maha Pengasih) orang-orang yang apabila menginfakkan (harta), mereka tidak berlebihan, dan tidak (pula) kikir"* (al-Furqan: 67). *Isrāf* terkadang dikatakan dengan memandang kadar dan terkadang dengan memandang cara; karena itu Sufyan berkata: "Apa yang engkau infakkan bukan dalam ketaatan kepada Allah adalah *saraf*, meskipun sedikit." Pembedaan kadar (*kammiyya*) dan cara (*kayfiyya*) inilah yang dipakai al-Rāghib dalam bahasan ini, dan ucapan Sufyan sejajar dengan jawaban sang bijak tentang "sedikit yang boros dan banyak yang hemat". (*al-Mufradāt*, s.v. *s-r-f*.)
+
+Yang terpuji: di antaranya ada yang membuat pelakunya meraih keadilan, yaitu memberikan apa yang diwajibkan syariat untuk diberikan, seperti sedekah yang wajib dan nafkah untuk keluarga; ada yang membuat pelakunya meraih pahala, yaitu berinfak kepada orang yang diwajibkan syariat untuk dinafkahi; dan ada yang membuat pelakunya meraih kemerdekaan jiwa, yaitu memberikan apa yang dianjurkan syariat untuk diberikan. Yang terakhir ini mendatangkan syukur dari manusia dan pahala dari Pemilik nikmat.
+
+Yang tercela ada dua macam: kelebihan (*ifrāṭ*), yaitu *tabdhīr* (menghambur-hamburkan) dan *isrāf* (pemborosan); dan kekurangan (*tafrīṭ*), yaitu *taqtīr* (menyempitkan nafkah) dan *imsāk* (menahan). Keduanya diperhatikan dari segi cara dan kadar.[^m-tabdhir][^k-israf]
+
+[^m-tabdhir]: **Menghambur-hamburkan** (*tabdhīr*) dan **menyempitkan nafkah** (*taqtīr*). Dalam *al-Mufradāt*: *tabdhīr* ialah mencerai-beraikan; asalnya menebar dan melemparkan benih (*badhr*), lalu dipinjam untuk setiap orang yang menyia-nyiakan hartanya, sebab menebar benih tampak sebagai penyia-nyiaan bagi orang yang tidak tahu akhirnya (al-Isra': 26-27). Adapun *qatr* ialah menyedikitkan nafkah, dan ia berhadapan dengan *isrāf*; keduanya tercela (al-Furqan: 67). Asalnya dari *qutār*, asap yang naik dari panggangan, seakan orang kikir hanya mengambil asap dari sesuatu. Firman *"Dan manusia itu memang sangat kikir (qatūr)"* (al-Isra': 100) adalah peringatan tentang kekikiran yang menjadi tabiat manusia. Di tengah keduanya adalah *iqtiṣād* (kesederhanaan), yang dalam *al-Mufradāt* disebut "terpuji secara mutlak dalam hal yang memiliki dua tepi, kelebihan dan kekurangan, seperti kemurahan yang berada di antara pemborosan dan kekikiran". (*al-Mufradāt*, s.v. *b-dh-r*; *q-t-r*; *q-ṣ-d*.)
+
+[^k-israf]: **Pemborosan** (*isrāf*; Ing. *excess, surplus*). *Kashshāf*, mengutip al-Jurjānī: membelanjakan harta yang banyak untuk tujuan yang rendah; dikatakan pula, *isrāf* ialah membelanjakan sesuatu pada tempat yang semestinya tetapi melebihi yang semestinya, berbeda dengan *tabdhīr* yang ialah membelanjakan sesuatu pada tempat yang tidak semestinya. Pembedaan al-Jurjānī ini (kadar untuk *isrāf*, tempat untuk *tabdhīr*) sejalan dengan dua ukuran al-Rāghib, meskipun al-Rāghib menerapkan keduanya sekaligus pada *tabdhīr*. (*Kashshāf*, s.v. *al-isrāf*.)
+
+*Tabdhīr* dari segi kadar ialah memberi lebih dari yang mampu ditanggung keadaannya; dari segi cara ialah meletakkannya bukan pada tempatnya. Ukuran dari segi cara lebih diperhitungkan daripada dari segi kadar. Betapa banyak orang yang membelanjakan satu dirham dari ribuan dirham, tetapi dalam infaknya itu ia boros dan dengan pemberiannya ia merusak dan zalim, seperti orang yang memberi seorang pelacur satu dirham atau membeli khamar. Dan betapa banyak orang yang membelanjakan ribuan dirham, sedang ia tidak memiliki selainnya, tetapi di dalamnya ia hemat dan dengan pemberiannya ia bersungguh-sungguh, sebagaimana diriwayatkan tentang al-Siddiq Abu Bakr, semoga Allah meridainya. Seorang bijak ditanya: "Kapan memberi yang sedikit menjadi pemborosan dan yang banyak menjadi kesederhanaan?" Ia menjawab: "Bila memberi yang sedikit itu dalam kebatilan dan memberi yang banyak itu dalam kebenaran."
+
+*Taqtīr* dari segi kadar ialah membelanjakan kurang dari yang mampu ditanggung keadaannya; dari segi cara ialah menahan di tempat yang wajib memberi dan meletakkan di tempat yang tidak wajib.
+
+Menurut manusia, *tabdhīr* lebih terpuji, karena ia adalah kemurahan meskipun lebih dari yang semestinya, sedang *taqtīr* adalah kekikiran, dan kemurahan dalam segala keadaan lebih terpuji daripada kekikiran. Sebab kembalinya orang yang menghambur-hamburkan kepada kedermawanan mudah, sedang naiknya orang kikir kepadanya sulit; dan karena orang yang menghambur-hamburkan terkadang memberi manfaat kepada orang lain meskipun merugikan dirinya, sedang orang yang menyempitkan nafkah tidak memberi manfaat kepada orang lain maupun dirinya sendiri.
+
+Namun sesungguhnya *tabdhīr* dari satu segi lebih buruk, sebab tidak ada pemborosan kecuali di sampingnya ada hak yang disia-siakan, dan karena *tabdhīr* membawa pelakunya kepada menzalimi orang lain. Karena itu dikatakan: "Orang yang bakhil lebih dapat dimaafkan daripada orang yang zalim," sebab ia bodoh terhadap nilai harta yang merupakan sebab bertahannya jiwa, sedang kebodohan adalah pangkal setiap keburukan; adapun orang yang memboroskan dan menghambur-hamburkan zalim dari dua segi: karena mengambil bukan dari tempatnya, dan meletakkan bukan pada tempatnya.[^p42]
+
+[^p42]: CP: Perbandingan kekikiran dan pemborosan di sini dibuat dari dua sudut pandang yang berbeda. Dari sudut pandang awam dan dari segi kemungkinan perbaikan, pemborosan lebih ringan: ia masih bentuk kemurahan (hanya berlebih), mudah dikembalikan ke kedermawanan, dan masih bermanfaat bagi orang lain. Dari sudut pandang hakikat dan keadilan, pemborosan lebih berat: selalu ada hak yang disia-siakan di sampingnya, dan ia mendorong kepada kezaliman (mengambil dari yang bukan tempatnya untuk menutup pemborosan). Karena itu al-Qur'an mencelanya lebih keras ("saudara-saudara setan"). Pola ini menunjukkan bahwa bagi al-Rāghib, dua ekstrem sebuah keutamaan tidak harus setara buruknya.
+
+Karena banyaknya celaan terhadap pemborosan, Allah Ta'ala mencelanya lebih berat daripada celaan terhadap kekikiran. Dia berfirman: *"dan janganlah kamu menghambur-hamburkan (hartamu) secara boros. Sesungguhnya orang-orang yang pemboros itu adalah saudara setan"* (al-Isra': 26-27), dan berfirman: *"Dan janganlah engkau jadikan tanganmu terbelenggu pada lehermu dan jangan (pula) engkau terlalu mengulurkannya (sangat pemurah) nanti kamu menjadi tercela dan menyesal"* (al-Isra': 29): tercela dari pihak orang yang meminta kepadamu lalu engkau tidak mendapati apa yang dapat engkau berikan, dan menyesal karena tidak sampai kepada keinginanmu. Al-Mutanabbi menyinggung hal ini ketika berkata:
+
+> Janganlah seluruh hartamu terurai demi kemuliaan,
+> sehingga terurai pula kemuliaan yang simpulnya diikat dengan harta.
+> Tidak ada kemuliaan di dunia bagi orang yang sedikit hartanya,
+> dan tidak ada harta di dunia bagi orang yang sedikit kemuliaannya.
+
+Pemborosan tidak hanya berkaitan dengan harta, tetapi dengan segala sesuatu yang diletakkan bukan pada tempatnya yang layak. Tidakkah engkau lihat bahwa Allah Ta'ala menyifati kaum Luth dengan pemborosan karena mereka meletakkan benih bukan pada ladangnya? Dia berfirman: *"Sungguh, kamu telah melampiaskan syahwatmu kepada sesama lelaki bukan kepada perempuan. Kamu benar-benar kaum yang melampaui batas (musrifūn)"* (al-A'raf: 81). Dia menyifati Fir'aun dengan firman-Nya: *"Sungguh, dia (Fir'aun) itu orang yang sombong, termasuk orang-orang yang melampaui batas"* (ad-Dukhan: 31), dan firman-Nya: *"Dan sungguh, Fir'aun itu benar-benar telah berbuat sewenang-wenang di bumi. Dan sungguh, dia termasuk orang-orang yang melampaui batas"* (Yunus: 83).
+
+## Hakikat Kedermawanan, Kemurahan, Kebakhilan, dan Kekikiran {.judul-bab}
+
+Kedermawanan (*sakhāʾ*) ialah keadaan jiwa dalam diri manusia yang mendorong untuk memberikan perolehan-perolehan, baik pemberian itu terjadi maupun tidak. Itu adalah akhlak, dan lawannya adalah kebakhilan (*shuḥḥ*). Kemurahan (*jūd*) ialah engkau memberikan perolehan itu, dan lawannya adalah kekikiran (*bukhl*).[^m-jud][^k-jud][^m-shuhh][^m-bukhl] Inilah pokoknya, meskipun masing-masing terkadang dipakai di tempat yang lain.
+
+[^m-jud]: **Kemurahan** (*jūd*). Dalam *al-Mufradāt*: *jūd* ialah memberikan perolehan-perolehan, baik harta maupun ilmu; dikatakan *rajul jawād*, dan kuda yang *jawād* ialah yang dermawan dengan simpanan larinya; hujan yang lebat disebut *jawd*; dan Allah disifati *al-Jawād*. Kaitan dengan *jayyid* (baik) diisyaratkan oleh *"(Tuhan kami) ialah (Tuhan) yang telah memberikan kepada setiap sesuatu bentuk kejadiannya, kemudian memberinya petunjuk"* (Taha: 50). Definisi ini sama dengan definisi al-Rāghib di sini: *jūd* adalah pemberian aktual, bukan disposisinya. (*al-Mufradāt*, s.v. *j-w-d*.)
+
+[^k-jud]: **Kemurahan** (*jūd*; Ing. *generosity, mercy*). *Kashshāf*: memberikan apa yang semestinya, bukan karena imbalan dan bukan karena tujuan tertentu; dirujuk kepada entri *raḥma*. Definisi ini, yang berasal dari para filsuf dan ahli kalam, identik dengan apa yang al-Rāghib sebut "kemurahan ilahi" dalam bahasan macam-macam kemurahan: pemberian tanpa pamrih, sehingga orang yang memberi karena takut atau mengharap pujian disebut "orang yang menjaga dirinya" atau "pedagang". Entri *sakhāʾ*, *shuḥḥ*, dan *bukhl* tidak terdapat dalam *Kashshāf*. (*Kashshāf*, s.v. *al-jūd*.)
+
+[^m-shuhh]: **Kebakhilan** (*shuḥḥ*). Dalam *al-Mufradāt*: *shuḥḥ* ialah kekikiran yang disertai keinginan keras (*ḥirṣ*), dan itu dalam hal yang telah menjadi kebiasaan, seperti *"walaupun manusia itu menurut tabiatnya kikir (al-shuḥḥ)"* (an-Nisa': 128) dan *"Dan siapa yang dijaga dirinya dari kekikiran (shuḥḥ)"* (al-Hasyr: 9). Unsur "kebiasaan" dan "tabiat" menjelaskan mengapa al-Rāghib di sini menjadikan *shuḥḥ* sebagai disposisi (lawan *sakhāʾ*), bukan perbuatan. (*al-Mufradāt*, s.v. *sh-ḥ-ḥ*.)
+
+[^m-bukhl]: **Kekikiran** (*bukhl*). Dalam *al-Mufradāt*: *bukhl* ialah menahan perolehan-perolehan dari apa yang tidak semestinya ditahan darinya, dan lawannya adalah *jūd*. Dikatakan *bakhila fa-huwa bākhil*; adapun *bakhīl* ialah yang banyak kekikirannya, seperti *raḥīm* dari *rāḥim*. Kekikiran ada dua: kikir dengan perolehan milik sendiri, dan kikir dengan perolehan milik orang lain, dan yang kedua paling tercela, berdasarkan *"(yaitu) orang yang kikir, dan menyuruh orang lain berbuat kikir"* (an-Nisa': 37). Uraian bentuk kata *bākhil*/*bakhīl* dan pembagian kekikiran dalam *al-Mufradāt* sama dengan yang dipakai di sini. (*al-Mufradāt*, s.v. *b-kh-l*.)
+
+Yang menunjukkan benarnya pembedaan ini ialah bahwa mereka menjadikan pelaku dari *sakhāʾ* dan *shuḥḥ* dalam wazan perbuatan-perbuatan naluriah, sehingga mereka berkata *shaḥīḥ* dan *sakhiyy*; sedang mereka berkata *jawād* dan *bākhil*. Adapun ucapan mereka *bakhīl*, itu dialihkan dari bentuk pelaku untuk makna banyak, seperti ucapan mereka *rāḥim* dan *raḥīm*. Karena kedermawanan adalah naluri, Sang Pencipta Azza wa Jalla tidak disifati dengannya.[^p43]
+
+[^p43]: CP: Pembedaan ini adalah salah satu kunci terpenting dalam glosarium keutamaan al-Rāghib. *Sakhāʾ* dan *shuḥḥ* adalah *hayʾa* (disposisi, naluri, akhlak), sedang *jūd* dan *bukhl* adalah *fiʿl* (perbuatan aktual). Bukti linguistiknya: wazan *faʿīl* (*sakhiyy*, *shaḥīḥ*) dipakai untuk sifat bawaan, sedang *fāʿil* (*jawād*, *bākhil*) untuk pelaku perbuatan. Konsekuensi teologisnya: Allah disifati *al-Jawād* (karena Dia memberi) tetapi tidak disifati *sakhiyy* (karena itu naluri makhluk). Konsekuensi etisnya: *shuḥḥ* dalam jiwa tidak tercela selama tidak ditaati (hadis "kebakhilan yang ditaati"), sebab yang tercela adalah tunduk kepadanya dalam perbuatan. Hubungan ini sejajar dengan pasangan *ḥilm* dan *taḥallum* dalam Pasal Keempat.
+
+Allah Ta'ala telah membesarkan perkara kebakhilan dan memperingatkannya. Karena itu Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, bersabda: *"Tiga hal yang membinasakan: kebakhilan yang ditaati, hawa nafsu yang diikuti, dan ujubnya seseorang terhadap dirinya."* Beliau mengkhususkan kata "yang ditaati" untuk mengingatkan bahwa kebakhilan dalam jiwa tidak termasuk hal yang karenanya seseorang berhak dicela, sebab ia bukan perbuatannya; ia hanya dicela karena tunduk kepadanya. Allah Ta'ala berfirman: *"Dan siapa yang dijaga dirinya dari kekikiran, maka mereka itulah orang-orang yang beruntung"* (al-Hasyr: 9), dan berfirman: *"walaupun manusia itu menurut tabiatnya kikir"* (an-Nisa': 128). Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, bersabda: *"Tidak akan pernah berkumpul kebakhilan dan iman dalam kalbu seorang hamba."*
+
+## Keutamaan Kemurahan dan Celaan terhadap Kekikiran {.judul-bab}
+
+Kemurahan terpuji di lisan semua makhluk. Karena itu dikatakan: "Cukuplah kemurahan sebagai terpuji bahwa namanya, bila disebut secara mutlak, tidak dipakai kecuali untuk pujian; dan cukuplah kekikiran sebagai tercela bahwa namanya, bila disebut secara mutlak, tidak dipakai kecuali untuk celaan." Seorang bijak ditanya: "Perbuatan manusia manakah yang paling menyerupai perbuatan Sang Pencipta Ta'ala?" Ia menjawab: "Kemurahan." Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, bersabda: *"Kemurahan adalah salah satu pohon surga; siapa yang memegang salah satu dahannya, dahan itu membawanya ke surga. Kekikiran adalah salah satu pohon neraka; siapa yang memegang salah satu dahannya, dahan itu membawanya ke neraka."*
+
+Termasuk kemuliaannya ialah bahwa Allah Azza wa Jalla menyandingkan penyebutannya dengan iman dan menyifati pemiliknya dengan keberuntungan (*falāḥ*), sedang *falāḥ* adalah nama yang paling menghimpun kebahagiaan dua negeri.[^m-falah] Dia berfirman: *"(yaitu) mereka yang beriman kepada yang gaib, melaksanakan salat, dan menginfakkan sebagian rezeki yang Kami berikan kepada mereka"* (al-Baqarah: 3), sampai firman-Nya: *"Merekalah orang-orang yang beruntung"* (al-Baqarah: 5). Dia juga berfirman: *"Dan siapa yang dijaga dirinya dari kekikiran, maka mereka itulah orang-orang yang beruntung"* (al-Hasyr: 9).
+
+[^m-falah]: **Keberuntungan** (*falāḥ*). Dalam *al-Mufradāt*: *falāḥ* ialah kemenangan dan tercapainya keinginan, dan ada dua macam: duniawi, yaitu meraih kebahagiaan-kebahagiaan yang membuat hidup dunia menyenangkan, yakni kekekalan, kekayaan, dan kemuliaan; dan ukhrawi, yaitu empat hal: kekekalan tanpa kefanaan, kekayaan tanpa kefakiran, kemuliaan tanpa kehinaan, dan ilmu tanpa kebodohan. Karena itu dikatakan: "Tidak ada kehidupan kecuali kehidupan akhirat." Pembagian ini menjelaskan pernyataan al-Rāghib di sini bahwa *falāḥ* adalah "nama yang paling menghimpun kebahagiaan dua negeri". (*al-Mufradāt*, s.v. *f-l-ḥ*.)
+
+Layaklah kemurahan disandingkan dengan iman, sebab tidak ada sesuatu yang lebih khas dan lebih sejenis dengan iman daripada kemurahan. Termasuk sifat orang mukmin adalah lapang dada: *"Barang siapa dikehendaki Allah akan mendapat hidayah (petunjuk), Dia akan membukakan dadanya untuk (menerima) Islam. Dan barang siapa dikehendaki-Nya menjadi sesat, Dia jadikan dadanya sempit dan sesak"* (al-An'am: 125). Keduanya termasuk sifat orang pemurah dan orang kikir, sebab orang pemurah disifati dengan lapang dada untuk berinfak, dan orang kikir disifati dengan sempit dada untuk menahan. Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, bersabda: *"Penyakit apa yang lebih parah daripada kekikiran?"*
+
+Kekikiran ada tiga macam: kikirnya manusia dengan hartanya sendiri, kikirnya dengan harta orang lain terhadap orang lain, dan kikirnya terhadap dirinya sendiri dengan harta orang lain; yang terakhir ini paling buruk di antara ketiganya. Orang yang kikir dengan apa yang ada di tangannya sesungguhnya kikir terhadap dirinya sendiri dengan harta Allah, sebab telah dikemukakan bahwa harta adalah pinjaman di tangan manusia yang akan diambil kembali. Tidak ada yang lebih bodoh daripada orang yang tidak menyelamatkan dirinya dari azab yang kekal dengan harta milik orang lain, terutama bila ia tidak takut akan tuntutan dan tanggungan dari pemiliknya, sedang jaminan ilahi menjamin penggantian atas infak. Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, bersabda: *"Ya Allah, segerakanlah pengganti bagi orang yang berinfak, dan segerakanlah kebinasaan bagi orang yang menahan."* Beliau juga bersabda: *"Sesungguhnya Allah menurunkan pertolongan kepada hamba sesuai kadar tanggungannya."* Diriwayatkan pula: *"Siapa yang melapangkan, akan dilapangkan baginya."*
+
+## Macam-Macam Kemurahan dan Apa yang Dimurahkan {.judul-bab}
+
+Kemurahan ada lima macam.
+
+**Pertama**: kemurahan Tuhan Ta'ala, yaitu memberi kepada setiap orang sesuai kadar kelayakannya.
+
+**Kedua**: kemurahan para raja, yaitu menghamparkan harta kepada para pencari pemberian, yang kaya maupun yang fakir.
+
+**Ketiga**: kemurahan rakyat biasa yang di bawah raja, yaitu memberikan harta kepada para peminta.
+
+**Keempat**: kemurahan para pengembara miskin, yaitu memberi kepada teman minum, teman bergaul, dan kawan-kawan peminum.
+
+**Kelima**: kemurahan orang awam, yaitu berbuat baik kepada kerabat.
+
+Yang terpuji dari semua itu adalah kemurahan ilahi, yaitu memberikan apa yang ada sebatas kemampuan kepada setiap orang yang membutuhkan sesuai kadar kelayakannya, tanpa mengungkit dan tanpa menyakiti.[^p44] Orang yang memberikan apa yang ia butuhkan kepada orang yang tidak membutuhkannya adalah pemboros yang menyia-nyiakan; orang yang memberi orang lain sesuatu karena takut adalah orang yang menjaga dirinya; dan orang yang memberi karena mengharap pahala atau pujian duniawi adalah pedagang.
+
+[^p44]: CP: Lima macam kemurahan ini disusun dari yang tertinggi (meneladani sifat Allah) hingga yang paling sempit lingkupnya. Kriteria kemurahan sejati ada tiga: (1) kadar: sebatas kemampuan (*bi-qadr al-ṭāqa*); (2) sasaran: setiap yang membutuhkan sesuai kelayakannya (*bi-qadr istiḥqāqihi*), sehingga memberi kepada yang tidak butuh adalah *isrāf*; (3) motif: tanpa *mann* (mengungkit) dan *adhā* (menyakiti), dan tanpa pamrih. Motif-motif yang tidak murni diberi nama: memberi karena takut = *wāqin nafsahu* (menjaga diri); karena mengharap pahala atau pujian = *tājir* (pedagang). Bandingkan catatan *Kashshāf* tentang *jūd*: "memberikan apa yang semestinya, bukan karena imbalan dan bukan karena tujuan".
+
+Ucapan Abu Nuwas:[^e84]
+
+[^e84]: CE: *Mukhtārāt al-Bārūdī*, 1/109.
+
+> Seorang pemuda yang membeli pujian yang baik dengan hartanya,
+> dan tahu bahwa perputaran masa terus berputar,
+
+tidak sampai kepada penyifatan dengan kemurahan yang sempurna, melainkan penyifatan dengan perdagangan yang terpuji. Lebih bagus darinya ucapan Ibn al-Rumi:[^e85]
+
+[^e85]: CE: *Mukhtārāt al-Bārūdī*, 1/104.
+
+> Pedagang kebajikan senantiasa memperoleh
+> dua keuntungan dalam setiap perdagangan yang ia jalankan:
+> pahala dan pujian; sesungguhnya yang ia cari
+> adalah pahala, tetapi keduanya sama-sama datang kepadanya.
+
+Dan sungguh bagus ucapan Bashshar:
+
+> Ia memberimu bukan karena harapan atau takut,
+> tetapi karena ia menikmati lezatnya memberi.
