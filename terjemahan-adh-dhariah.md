@@ -14,9 +14,9 @@
 | Butir | Keterangan |
 |---|---|
 | Tahap | Penerjemahan berjalan |
-| Sudah diterjemahkan | Pasal Pertama; Pasal Kedua; Pasal Ketiga; Pasal Keempat; Pasal Kelima; Pasal Keenam |
-| Posisi berikutnya | Pasal Keenam selesai; Pasal Ketujuh (Arab dh2 baris 2484) |
-| Nomor catatan terakhir | CE: e85 · CY: y55 · CP: p44 |
+| Sudah diterjemahkan | Seluruh kitab (Mukadimah dan Pasal Pertama sampai Ketujuh) |
+| Posisi berikutnya | Selesai; tersisa pengisian 3.13 |
+| Nomor catatan terakhir | CE: e86 · CY: y55 · CP: p48 |
 | Catatan *Mufradāt* dan *Kashshāf* | lihat 3.13 |
 
 ---
@@ -3731,3 +3731,174 @@ Dan sungguh bagus ucapan Bashshar:
 
 > Ia memberimu bukan karena harapan atau takut,
 > tetapi karena ia menikmati lezatnya memberi.
+
+# Pasal Ketujuh {.kitab-ke}
+
+# Tentang Perbuatan {.judul-kitab}
+
+## Macam-Macam Perbuatan {.judul-bab}
+
+Perbuatan ada dua macam: ilahi dan insani.
+
+Perbuatan ilahi ada empat macam: *ibdāʿ* (penciptaan dari ketiadaan), *takwīn* (pembentukan), *tarbiya* (pemeliharaan), dan *iḥāla* (pengubahan). Semua itu disebut *khalq* (penciptaan), karena wujud masing-masing terjadi dengan suatu ukuran; dan *khalq* pada asalnya adalah penentuan ukuran yang lurus.[^m-khalq]
+
+[^m-khalq]: **Penciptaan** (*khalq*). Dalam *al-Mufradāt*, al-Rāghib memberi definisi yang sama: asal makna *khalq* ialah penentuan ukuran yang lurus (*al-taqdīr al-mustaqīm*). Ia dipakai untuk mengadakan sesuatu tanpa asal dan tanpa contoh (*"Dia menciptakan langit dan bumi"*, al-An'am: 1, yakni mengadakannya dari ketiadaan, berdasarkan *"(Allah) pencipta langit dan bumi"*, al-Baqarah: 117), dan untuk mengadakan sesuatu dari sesuatu (an-Nisa': 1; an-Nahl: 4). *Khalq* dalam arti *ibdāʿ* hanya milik Allah (*"Maka apakah (Allah) yang menciptakan sama dengan yang tidak dapat menciptakan?"*, an-Nahl: 17); adapun *khalq* dalam arti pengubahan (*istiḥāla*) terkadang Allah berikan kepada selain-Nya, seperti Isa (*"dan ketika engkau membentuk dari tanah berupa burung dengan seizin-Ku"*, al-Ma'idah: 110). Pembedaan ini sejajar dengan empat perbuatan ilahi di sini. (*al-Mufradāt*, s.v. *kh-l-q*.)
+
+**Pertama**: *ibdāʿ*, yaitu mengadakan sesuatu sekaligus, bukan dari sesuatu yang ada, bukan dengan urutan, dan bukan dari kekurangan menuju kesempurnaan. Ini tidak ada kecuali bagi Sang Pencipta Azza wa Jalla, meskipun orang Arab terkadang memakai kata *ibdāʿ* untuk orang yang menggali sumur di tempat yang belum pernah digali sebelumnya, dan untuk orang yang menggubah syair atau mengemukakan ucapan yang belum pernah ditenun dengan corak serupa sebelumnya.[^m-ibda][^k-ibda]
+
+[^m-ibda]: **Penciptaan dari ketiadaan** (*ibdāʿ*). Dalam *al-Mufradāt*: *ibdāʿ* ialah membuat suatu karya tanpa meniru dan tanpa mengikuti contoh; dari situ dikatakan *rakiyya badīʿ*, sumur yang baru digali. Bila dipakai untuk Allah, maknanya adalah mengadakan sesuatu tanpa alat, tanpa materi, tanpa waktu, dan tanpa tempat, dan itu hanya milik Allah. *Badīʿ* dipakai untuk pencipta (*"(Allah) pencipta (badīʿ) langit dan bumi"*, al-Baqarah: 117) dan untuk yang diciptakan (sumur yang baru). Contoh "sumur yang baru digali" disebut pula di sini. (*al-Mufradāt*, s.v. *b-d-ʿ*.)
+
+[^k-ibda]: **Penciptaan dari ketiadaan** (*ibdāʿ*; Ing. *creativity*). *Kashshāf*: secara bahasa, mengadakan sesuatu tanpa contoh sebelumnya. Dalam istilah para filsuf, mengadakan sesuatu yang tidak didahului ketiadaan; lawannya adalah *ṣunʿ*, yaitu mengadakan sesuatu yang didahului ketiadaan. Dikutip Ibn Sīnā dalam *al-Ishārāt*: *ibdāʿ* ialah bahwa dari sesuatu terdapat wujud bagi yang lain yang bergantung kepadanya semata, tanpa perantara berupa materi, alat, atau waktu. Rumusan "tanpa materi, alat, dan waktu" ini sama dengan penjelasan al-Rāghib, meskipun ia tidak mengikuti tesis filsuf tentang yang "tidak didahului ketiadaan". (*Kashshāf*, s.v. *al-ibdāʿ*.)
+
+**Kedua**: *takwīn*, yaitu mengadakan sesuatu dari ketiadaan dengan urutan, dan dari kekurangan menuju kesempurnaan.[^k-takwin] Para ahli kalam terkadang memakai *takwīn* di tempat *ibdāʿ*. Karena mereka lalai terhadap hakikat *takwīn*, mereka mengingkari dan memandang keji ucapan orang yang berkata: "Langit tidak *mukawwan*," dan mereka mengira bahwa ia berkata: "Langit tidak diciptakan dari ketiadaan dan tidak diciptakan." Padahal yang dimaksud orang itu, menurut apa yang disebutkan para pengikutnya dan ditunjukkan oleh ucapannya, ialah bahwa Allah Ta'ala menciptakannya dari ketiadaan (*abdaʿahā*), sebagaimana firman-Nya: *"(Allah) pencipta langit dan bumi"* (al-Baqarah: 117), dan tidak menciptakannya dengan ciptaan yang kurang pada awal pertumbuhannya lalu menyempurnakannya sedikit demi sedikit, seperti manusia, hewan, dan tumbuhan.
+
+[^k-takwin]: **Pembentukan** (*takwīn*; Ing. *creation, generation*). *Kashshāf*: menurut ahli kalam, mengeluarkan yang tiada dari ketiadaan menuju keberadaan; dan darinya diungkapkan dengan *fiʿl*, *khalq*, *ikhtirāʿ*, *ibdāʿ*, *ṣunʿ*, bahkan memberi rezeki, membentuk rupa, dan menghidupkan, sebagai ungkapan-ungkapan tentang *takwīn* dengan memandang keterkaitan tertentu. Menurut para filsuf, *ikhtirāʿ* dan *ibdāʿ* berbeda dari *iḥdāth*, karena keduanya tanpa masa dan tidak didahului ketiadaan, dan *ibdāʿ* lebih khusus lagi karena disyaratkan tanpa materi. Catatan ini membenarkan pengamatan al-Rāghib bahwa para ahli kalam memakai *takwīn* sebagai sinonim *ibdāʿ*, sedang ia sendiri membedakannya secara tegas. *Al-Mufradāt* di bawah akar *k-w-n* juga mencatat bahwa "banyak ahli kalam memakai *kawn* dalam makna *ibdāʿ*". (*Kashshāf*, s.v. *al-takwīn*.)
+
+**Ketiga**: memelihara sesuatu (*rabb*), yaitu memberinya makan, yakni mengganti apa yang terurai dari tubuh-tubuh pada apa yang telah ada dari suatu kejadian, agar ia bertahan selama masa yang ditetapkan baginya. Karena itulah Allah Ta'ala disebut *Rabb al-ʿĀlamīn* (Pemelihara semesta alam).[^m-rabb]
+
+[^m-rabb]: **Pemeliharaan** (*rabb*, *tarbiya*). Dalam *al-Mufradāt*: *rabb* pada asalnya adalah *tarbiya*, yaitu menumbuhkan sesuatu keadaan demi keadaan hingga batas kesempurnaan. *Rabb* adalah masdar yang dipinjam untuk pelaku, dan tidak dikatakan *al-Rabb* secara mutlak kecuali untuk Allah Ta'ala, yang menjamin kemaslahatan seluruh yang ada. Dengan idafah ia dipakai untuk-Nya dan untuk selain-Nya, seperti *Rabb al-ʿĀlamīn* (al-Fatihah: 2) dan "pemilik rumah" (*rabb al-dār*). (*al-Mufradāt*, s.v. *r-b-b*.)
+
+**Keempat**: *iḥāla*, pengubahan sesuatu, yaitu perubahan-perubahan yang menimpa semua yang ada dalam kualitas-kualitasnya, berupa rasa, warna, dan bau.[^p45]
+
+[^p45]: CP: Empat perbuatan ilahi ini adalah kerangka kosmologis yang mendasari etika al-Rāghib. *Ibdāʿ* (dari ketiadaan, sekaligus, tanpa perantara) hanya milik Allah; *takwīn* (bertahap dari kurang menuju sempurna) adalah pola penciptaan makhluk yang tumbuh; *tarbiya* (memelihara dengan mengganti yang terurai) adalah dasar nama *Rabb*; *iḥāla* (mengubah kualitas) adalah perubahan aksiden. Dua yang terakhir, dalam batas tertentu, dapat "ditiru" manusia melalui keterampilan dan pendidikan, yang sejalan dengan tesis Pasal Pertama bahwa manusia adalah khalifah Allah yang meneladani sifat-sifat-Nya sebatas kemampuan manusiawi.
+
+## Perbuatan Insani Ada Tiga Macam {.judul-bab}
+
+**Pertama**: yang semata-mata bersifat jiwa, yaitu pikiran-pikiran dan ilmu-ilmu, dan apa yang dinisbatkan kepada perbuatan-perbuatan kalbu.
+
+**Kedua**: yang bersifat badan, yaitu gerakan-gerakan yang dilakukan manusia dengan badannya, seperti berjalan, berdiri, dan duduk.
+
+**Ketiga**: yang bersifat keterampilan, yaitu apa yang dilakukan manusia dengan keikutsertaan badan dan jiwa, seperti pekerjaan-pekerjaan dan keterampilan-keterampilan.
+
+## Perbedaan antara *ʿAmal*, *Fiʿl*, dan *Ṣunʿ* {.judul-bab}
+
+*Fiʿl* (perbuatan) adalah lafaz umum yang dipakai untuk apa yang dikerjakan dengan baik maupun tidak, dengan ilmu maupun tanpa ilmu, dengan maksud maupun tanpa maksud, dan untuk apa yang berasal dari manusia, hewan, dan benda mati.[^m-fil][^k-fil]
+
+[^m-fil]: **Perbuatan** (*fiʿl*) dan **amal** (*ʿamal*). Dalam *al-Mufradāt*, definisi *fiʿl* sama dengan di sini: pengaruh dari pihak yang memengaruhi, yang umum untuk apa yang dikerjakan dengan baik maupun tidak, dengan ilmu maupun tanpa ilmu, dengan maksud maupun tanpa maksud, dari manusia, hewan, dan benda mati. Adapun *ʿamal* ialah setiap perbuatan yang berasal dari makhluk hidup dengan maksud, sehingga lebih khusus daripada *fiʿl*, sebab *fiʿl* bisa dinisbatkan kepada hewan yang berbuat tanpa maksud dan kepada benda mati, sedang *ʿamal* jarang dinisbatkan kepada keduanya, kecuali dalam ungkapan *al-baqar al-ʿawāmil* (sapi-sapi pekerja). Adapun *ṣunʿ* lebih khusus lagi (lihat catatan *m-sina* pada Pasal Keenam). Tiga entri ini dalam *al-Mufradāt* saling merujuk, menunjukkan bahwa bahasan ini adalah ringkasan sistematis dari leksikografi al-Rāghib sendiri. (*al-Mufradāt*, s.v. *f-ʿ-l*; *ʿ-m-l*.)
+
+[^k-fil]: **Perbuatan** (*fiʿl*; Ing. *deed, action*). Entri *fiʿl* dalam *Kashshāf* terutama membahas makna nahwu (kata kerja: apa yang menunjukkan makna pada dirinya disertai salah satu dari tiga zaman), sedang makna etis-filosofisnya terdapat dalam entri *khuluq*: "watak yang dengannya perbuatan-perbuatan keluar dari jiwa dengan mudah tanpa didahului pikiran, pertimbangan, dan pemaksaan diri". Pembedaan al-Rāghib bahwa *ṣunʿ* "terkadang tanpa pikiran karena kemuliaan pelakunya" sejalan dengan definisi *khuluq* ini: keahlian yang telah menjadi watak tidak lagi memerlukan pertimbangan. Lihat catatan *k-khuluq* pada Pasal Pertama. (*Kashshāf*, s.v. *al-fiʿl*; *al-khuluq*.)
+
+Adapun *ʿamal* tidak dikatakan kecuali untuk apa yang berasal dari makhluk hidup, bukan dari benda mati, dan untuk apa yang dilakukan dengan maksud dan ilmu, bukan yang tanpa maksud dan ilmu. Seorang sastrawan berkata: "*ʿAmal* adalah kebalikan susunan huruf dari *ʿilm*. Sebab *ʿilm* adalah perbuatan kalbu dan *ʿamal* adalah perbuatan anggota badan, dan *ʿamal* muncul dari perbuatan kalbu, yaitu ilmu, dan berbalik darinya."
+
+Adapun *ṣunʿ* berasal dari manusia, bukan dari hewan lainnya, dan tidak dikatakan kecuali untuk apa yang dikerjakan dengan baik. Karena itu orang laki-laki yang mahir disebut *ṣanaʿ* dan perempuan yang mahir disebut *ṣanāʿ*.
+
+*Ṣunʿ* terkadang tanpa pikiran karena kemuliaan pelakunya; *fiʿl* terkadang tanpa pikiran karena kekurangan pelakunya; sedang *ʿamal* tidak terjadi kecuali dengan pikiran karena pelakunya berada di tengah.
+
+*Ṣunʿ* adalah yang paling khusus di antara tiga makna itu, *fiʿl* yang paling umum, dan *ʿamal* yang di tengah. Maka setiap *ṣunʿ* adalah *ʿamal*, tetapi tidak setiap *ʿamal* adalah *ṣunʿ*; dan setiap *ʿamal* adalah *fiʿl*, tetapi tidak setiap *fiʿl* adalah *ʿamal*. Bentuk Persia dari lafaz-lafaz ini memberitahukan perbedaannya: *fiʿl* disebut *kār*, *ʿamal* disebut *kirdār*, dan *ṣunʿ* disebut *kunish*.[^p46]
+
+[^p46]: CP: Pembedaan tiga istilah ini adalah kunci terminologi seluruh *al-Dharīʿa*, yang judulnya sendiri (*al-Dharīʿa ilā Makārim al-Sharīʿa*) menyangkut perbuatan yang terpuji. *Fiʿl* (perbuatan) paling umum: berlaku bagi benda mati, hewan, dan manusia, dengan atau tanpa ilmu dan maksud. *ʿAmal* (amal) di tengah: hanya bagi makhluk hidup, dan harus dengan ilmu dan maksud, sehingga "pelakunya berada di tengah" dan memerlukan pikiran. *Ṣunʿ* (karya) paling khusus: hanya bagi manusia, dan harus dikerjakan dengan baik (*ijāda*); ia bisa tanpa pikiran karena keahlian telah menjadi watak. Glosarium ini memakai padanan tetap: *fiʿl* = perbuatan, *ʿamal* = amal, *ṣunʿ* = karya.
+
+## Macam-Macam Keterampilan {.judul-bab}
+
+Keterampilan ada dua macam: ilmiah dan amaliah.
+
+Yang ilmiah ialah yang tidak memerlukan bantuan anggota badan seperti tangan dan kaki, seperti pengetahuan-pengetahuan ketuhanan dan ilmu hitung.
+
+Yang amaliah ialah yang memerlukan bantuan anggota badan, dan ini ada dua macam.
+
+**Pertama**: sesuatu yang berakhir dengan berakhirnya gerak pembuatnya, seperti tari, tiupan seruling, dan peniruan.
+
+**Kedua**: sesuatu yang meninggalkan bekas, dan ini ada dua macam: yang meninggalkan bekas yang dapat dipahami akal tetapi tidak terindra, seperti kedokteran dan kedokteran hewan; dan yang meninggalkan bekas yang terindra, seperti bangunan dan tulisan.
+
+## Perbuatan yang Dikehendaki dan yang Tidak Dikehendaki {.judul-bab}
+
+Perbuatan yang tampak dari selain Allah ada yang bersifat *taskhīrī* (ditundukkan) dan ada yang tidak bersifat *taskhīrī*.
+
+Yang *taskhīrī* ialah yang tampak dari pelakunya bukan dengan maksud dan kehendak darinya. Ini terkadang berasal dari benda mati dan hewan yang tidak bertutur, dan ada dua jenis: jenis yang ditundukkan oleh Sang Pencipta Ta'ala, seperti api membakar besi dan salju mendinginkan air; dan jenis yang ditundukkan oleh manusia, seperti batu penggiling yang menggiling dan kincir air yang berputar.
+
+Adapun yang tidak *taskhīrī* ada dua macam: yang permulaan kehendaknya berasal dari pelakunya, dan yang permulaan kehendaknya tidak berasal darinya. Yang permulaan kehendaknya berasal dari pelakunya ada tiga.
+
+**Pertama**: menurut daya pembeda (*tamyīz*), seperti orang yang mengambil kebaikan dan bukan keburukan karena mengutamakannya.
+
+**Kedua**: menurut amarah, seperti orang yang menyerang orang yang membuatnya marah.
+
+**Ketiga**: menurut syahwat, seperti orang yang mengambil apa yang ia inginkan karena syahwatnya.
+
+Yang permulaan kehendaknya tidak berasal darinya ada dua macam: macam yang permulaan maupun ujung kehendaknya tidak berasal darinya, seperti orang yang memanah sasaran lalu mengenai seseorang; dan macam yang permulaan kehendaknya tidak berasal darinya tetapi ujungnya berasal darinya, seperti orang yang berada di sebuah kapal lalu takut tenggelam, sehingga ia terpaksa melemparkan barang-barangnya ke laut agar selamat.
+
+Perbuatan benda-benda mati hanya terjadi dengan penundukan. Perbuatan tumbuhan terjadi dengan penundukan dan dengan dorongan yang dituntut oleh daya syahwat. Perbuatan hewan terjadi dengan keduanya dan dengan dorongan mengalahkan yang dituntut oleh daya amarah. Perbuatan manusia terjadi dengan semua itu dan dengan pikiran yang dituntut oleh daya akal.[^p47]
+
+[^p47]: CP: Kalimat ini adalah hierarki wujud menurut daya-daya yang menjadi sumber perbuatan, dan sekaligus ringkasan antropologi seluruh kitab. Benda mati: hanya *taskhīr* (ditundukkan). Tumbuhan: *taskhīr* + *nizāʿ* (dorongan menarik yang bersumber dari daya syahwat, dalam arti daya menarik apa yang sesuai). Hewan: + *ghalaba* (dorongan mengalahkan, dari daya amarah). Manusia: + *fikra* (pikiran, dari daya akal). Karena manusia memiliki semua lapisan ini, ia dapat bertindak menurut daya mana pun; keutamaannya ialah bila daya akal memimpin daya amarah dan syahwat, sebagaimana diuraikan dalam Pasal Pertama hingga Keenam. Bandingkan tiga sumber kehendak di atas: *tamyīz* (daya pikir), *ghaḍab* (daya amarah), *shahwa* (daya syahwat).
+
+## Perbuatan yang Menjadikan Pelakunya Layak Dicela dan yang Tidak {.judul-bab}
+
+Perbuatan ada dua macam: yang dikehendaki (*irādī*) dan yang tidak dikehendaki.
+
+Yang dikehendaki ada dua macam: yang berasal dari pertimbangan (*rawiyya*) dan yang tidak berasal dari pertimbangan.
+
+Yang berasal dari pertimbangan ada dua macam. Pertama, yang berasal dari pertimbangan tentang apa yang disangka berada di puncak kemuliaan, yaitu yang terjadi menurut jiwa yang bertutur (*al-nafs al-nāṭiqa*). Ini disebut *ikhtiyār* (pilihan), yaitu mencari apa yang baik baginya, dan dengannya ia selalu berhak dipuji bila ia benar-benar pilihan yang hakiki.[^k-ikhtiyar] Kedua, yang berasal dari pertimbangan tentang apa yang tidak berada di puncak kemuliaan, dan itu bisa menurut daya amarah, yaitu menolak apa yang membahayakannya, atau menurut daya syahwat. Masing-masing dari keduanya, bila sesuai dengan kadar yang dituntut akal, pelakunya berhak dipuji; dan bila melebihi atau kurang dari yang dituntut akal, pelakunya berhak dicela.
+
+[^k-ikhtiyar]: **Pilihan** (*ikhtiyār*; Ing. *choice, free will*). *Kashshāf*: secara bahasa *īthār* (mengutamakan), yaitu menguatkan, mengkhususkan, dan mendahulukan sesuatu atas yang lain; ia lebih khusus daripada *irāda*. Di kalangan ahli kalam dan filsuf, kadang ia dipakai untuk *irāda* dan kadang untuk *qudra* (kemampuan), lawan dari *ījāb* (keniscayaan). Makna yang masyhur: keadaan pelaku yang bila ia mau, ia berbuat, dan bila tidak mau, ia tidak berbuat. Al-Rāghib di sini memberi makna etis yang lebih sempit: *ikhtiyār* ialah kehendak dari pertimbangan jiwa bertutur yang mencari apa yang benar-benar baik; karena itu ia "selalu terpuji" bila merupakan pilihan yang hakiki. Tentang *irāda*, lihat catatan *m-irada* dan *k-irada* pada Pasal Pertama. (*Kashshāf*, s.v. *al-ikhtiyār*.)
+
+Perbuatan yang dikehendaki tetapi tidak berasal dari pertimbangan dan pilihan ada dua macam: yang ia lakukan terhadap dirinya sendiri, dan yang ia lakukan terhadap orang lain. Masing-masing ada dua macam: manfaat dan mudarat. Yang dimaksudkan untuk manfaat dirinya, terkadang pelakunya berhak dipuji; yang dimaksudkan untuk manfaat orang lain, pelakunya berhak dipuji dan disyukuri sekaligus; yang dimaksudkan untuk mudarat dirinya, pelakunya berhak dicela; dan yang dimaksudkan untuk mudarat orang lain, pelakunya berhak dicela dan ditegur.
+
+Perbuatan yang tidak dikehendaki ada tiga macam.
+
+**Pertama**: yang bersifat paksaan fisik (*qasrī*), yaitu yang permulaannya dari luar dan pelakunya sama sekali tidak ikut membantu, seperti orang yang didorong angin lalu jatuh menimpa sebuah bejana hingga pecah. Ini tidak tercela sama sekali.
+
+**Kedua**: yang bersifat keterdesakan (*iljāʾī*), seperti orang yang dipaksa penguasa untuk melakukan suatu perbuatan. Bila perbuatan yang dipaksakan itu sangat buruk sedang sebab pemaksanya ringan, pelakunya berhak dicela, seperti orang yang dipukul agar membunuh seseorang. Bila perbuatan yang dipaksakan itu tidak terlalu buruk sedang sebab pemaksanya berat, pelakunya tidak berhak dicela, seperti orang yang pedang diletakkan di lehernya dan diancam akan dibunuh jika tidak mengucapkan kata-kata buruk. Keduanya disebut *ikrāh* (pemaksaan).[^k-ikrah]
+
+[^k-ikrah]: **Pemaksaan** (*ikrāh*; Ing. *constraint, coercion*). *Kashshāf*: secara bahasa, membawa seseorang kepada perkara yang tidak ia sukai, atau yang tidak ia kehendaki menurut tabiat atau syariat. Menurut syariat, perbuatan yang dilakukan seseorang terhadap orang lain sehingga hilang kerelaannya atau rusak pilihannya, sementara kecakapannya tetap. Perbuatan itu mencakup yang bersifat hukmi, misalnya seseorang diperintah membunuh tanpa diancam, tetapi ia tahu dari keadaan bahwa jika tidak membunuh, ia akan dibunuh. Kriteria al-Rāghib (perbandingan antara beratnya perbuatan yang dipaksakan dan beratnya ancaman) melengkapi definisi fikih ini dengan timbangan etis. *Al-Mufradāt* membahas akar *k-r-h* terutama dalam pasangan *ṭawʿan wa karhan* (Fussilat: 11). (*Kashshāf*, s.v. *al-ikrāh*.)
+
+**Ketiga**: kekeliruan (*khaṭaʾ*), yaitu yang permulaannya dari pelakunya sendiri, dan ini ada dua jenis.[^m-khata][^k-khata] Pertama, yang lahir dari suatu perbuatan yang ia lakukan dan yang memang boleh ia lakukan, seperti orang yang memanah sasaran lalu mengenai seseorang; karenanya ia tidak berhak dicela selama tidak ada kelalaian darinya dalam berhati-hati. Kedua, yang lahir dari suatu perbuatan yang tidak boleh ia lakukan, seperti orang yang minum lalu mabuk, kemudian mabuknya membawanya memecahkan bejana atau memukul seseorang. Karenanya ia berhak dicela, meskipun ia tidak menghendaki memecahkan bejana dan memukul orang itu, sebab ia telah melakukan sesuatu yang terlarang yang membawanya kepada terjadinya hal itu darinya.
+
+[^m-khata]: **Kekeliruan** (*khaṭaʾ*). Dalam *al-Mufradāt*: *khaṭaʾ* ialah menyimpang dari arah, dan ada beberapa macam. Pertama, menghendaki sesuatu yang tidak baik untuk dikehendaki lalu melakukannya; inilah kesalahan penuh yang dituntut atas pelakunya, dan dikatakan *khaṭiʾa yakhṭaʾu* (*"Sungguh, membunuh mereka itu suatu dosa yang besar"*, al-Isra': 31). Kedua, menghendaki sesuatu yang baik dilakukan, tetapi yang terjadi adalah kebalikan dari yang dikehendaki, dan dikatakan *akhṭaʾa* dan pelakunya *mukhṭiʾ*; ia benar dalam kehendak dan keliru dalam perbuatan, dan inilah yang dimaksud hadis *"diangkat dari umatku kekeliruan dan lupa"* dan *"siapa yang berijtihad lalu keliru, baginya satu pahala"*. Ketiga, menghendaki sesuatu yang tidak baik, lalu yang terjadi kebalikannya; ia keliru dalam kehendak dan benar dalam perbuatan, sehingga tercela karena maksudnya dan tidak terpuji karena perbuatannya. Pembedaan *khaṭiʾa* (sengaja) dan *akhṭaʾa* (tidak sengaja) inilah yang ditutupkan al-Rāghib di akhir bahasan ini. (*al-Mufradāt*, s.v. *kh-ṭ-ʾ*.)
+
+[^k-khata]: **Kekeliruan** (*khaṭaʾ*; Ing. *mistake*). *Kashshāf*: lawan dari benar (*ṣawāb*); dengan kasrah (*khiṭʾ*) berarti dosa (al-Isra': 31). Mengutip *Fatḥ al-Mubīn* syarah *al-Arbaʿīn*: *khaṭaʾ* dipakai dalam tiga makna, yaitu dosa, lawan kesengajaan, dan lawan kebenaran. Yang dimaksud dalam hadis *"Sesungguhnya Allah memaafkan dari umatku kekeliruan"* adalah lawan kesengajaan, yaitu seseorang bermaksud dengan perbuatannya sesuatu lalu yang terjadi bukan yang ia maksud. Makna inilah yang dipakai al-Rāghib untuk jenis pertama kekeliruan (yang tidak tercela). (*Kashshāf*, s.v. *al-khaṭaʾ*.)
+
+Pada jenis pertama dikatakan *akhṭaʾa* dan pelakunya *mukhṭiʾ*; pada jenis kedua dikatakan *khaṭiʾa* dan pelakunya *khāṭiʾ*. Karena itu para ahli bahasa berkata: *khaṭiʾa* untuk yang terjadi secara sengaja, dan *akhṭaʾa* untuk yang terjadi karena lalai.
+
+## Sebab-Sebab yang Kepadanya Perbuatan Dapat Dinisbatkan {.judul-bab}
+
+Kebanyakan sebab yang dibutuhkan suatu perbuatan untuk mewujud ada sepuluh.[^p48] Untuk terjadinya, ia membutuhkan pelaku yang darinya perbuatan itu keluar, seperti tukang kayu; unsur yang dikerjakan, seperti kayu; pengerjaan, seperti memahat; waktu dan tempat untuk mengerjakannya; alat untuk mengerjakannya, seperti pahat dan kapak kecil; tujuan dekat, seperti tukang kayu membuat pintu; tujuan jauh, seperti membentengi rumah dengan pintu itu; contoh yang menjadi acuan pengerjaan dan yang ditirunya; dan pembimbing yang membimbingnya.
+
+[^p48]: CP: Sepuluh sebab ini adalah perluasan empat sebab Aristotelian: sebab pelaku (*fāʿil*: tukang kayu), sebab materi (*ʿunṣur*: kayu), sebab bentuk (di sini dipecah menjadi *ʿamal*/pengerjaan dan *mithāl*/contoh), dan sebab tujuan (dipecah menjadi *gharaḍ qarīb* dan *gharaḍ baʿīd*), ditambah waktu, tempat, alat, dan pembimbing (*murshid*). Kegunaannya dalam etika dan teologi segera tampak: karena setiap perbuatan makhluk bergantung pada banyak sebab, perbuatan itu sah dinisbatkan kepada salah satu sebab dari satu sisi dan dinafikan darinya dari sisi lain. Dengan ini al-Rāghib menjelaskan bagaimana petunjuk dan kesesatan dapat dinisbatkan sekaligus kepada Allah (sebab pertama), setan (penyeru), Rasul dan Al-Qur'an (pembimbing), dan jiwa manusia sendiri (yang meninggalkan kewaspadaan), tanpa menjadikan Allah penyeru kepada kesesatan.
+
+Semua itu terkadang menjadi tempat perbuatan dinisbatkan. Orang berkata "Zaid memberiku" bila Zaid langsung memberi, dan "Allah memberiku" karena Dialah yang memudahkannya. Terkadang sebab dekat dan sebab jauh dihimpun, sehingga ia berkata "Allah dan Zaid memberiku." Penyair berkata:
+
+> Nasib kami dan Tuhan menganugerahkannya kepada kami,
+> dan pukulan pedang yang tajam memutus bagi kami.
+
+Ia menisbatkan kepada sebab pertama, yaitu Allah Ta'ala, kepada sebab terakhir, yaitu pukulan pedang, dan kepada sebab tengah, yaitu nasib. Allah Ta'ala berfirman: *"Allah memegang nyawa (seseorang) pada saat kematiannya"* (az-Zumar: 42), dan berfirman: *"Katakanlah, 'Malaikat maut yang diserahi untuk (mencabut nyawa)mu akan mematikan kamu, kemudian kepada Tuhanmu, kamu akan dikembalikan'"* (as-Sajdah: 11). Pada yang pertama Dia menisbatkan perbuatan kepada yang memerintahkannya, dan pada yang kedua kepada yang melakukannya secara langsung.
+
+Seorang penyair berkata dalam melukiskan baju besi: "al-Haliki (sang pandai besi) memakaikannya kepadaku," dan penyair lain berkata: "Muharriq memakaikannya kepada mereka." Yang pertama menisbatkan perbuatan kepada pembuat baju besi itu, dan yang kedua kepada penggunanya. Penyair lain berkata dalam melukiskan anak-anak panahnya: "Burung elang besar memakaikan bulu-bulunya kepadanya," sehingga ia menisbatkan pemakaian kepada burung yang bulunya diambil lalu dipasangkan padanya.
+
+Dikatakan: "Kedua tanganmulah yang mengikat (kantong air itu), dan mulutmulah yang meniupnya," sehingga perbuatan dinisbatkan kepada alat yang menyatu. Dikatakan pula "pedang yang memotong," sehingga perbuatan dinisbatkan kepada alat yang terpisah. Dikatakan "pukulan yang memutus" dan "tusukan yang menakutkan," sehingga dinisbatkan kepada rasa takut. Dikatakan "rahasia yang menyimpan" dan "kehidupan yang rida (ʿīsha rāḍiya)," sehingga dinisbatkan kepada yang dikenai perbuatan. Allah Ta'ala berfirman: *"tanah haram yang aman"* (al-'Ankabut: 67), sehingga dinisbatkan kepada tempat. Dikatakan "hari yang berpuasa" dan "malam yang berjaga," dan dikatakan pula:[^e86]
+
+[^e86]: CE: Penggalan ini dari bait Jarīr, yang lengkapnya: "Engkau mencelaku, wahai Umm Ghaylān, di malam hari, lalu engkau tidur; padahal malam para penunggang unta tidaklah tidur." Lihat *Dīwān Jarīr*, 2/992.
+
+> ...dan malamnya para penunggang unta tidaklah tidur,
+
+sehingga dinisbatkan kepada waktu.
+
+Karena perbuatan-perbuatan manusia demikian keadaannya, sah pada satu perbuatan untuk ditetapkan bagi salah satu sebab pada satu kali dan dinafikan darinya pada kali lain dengan dua sudut pandang yang berbeda. Berdasarkan itu ucapan penyair:
+
+> Engkau memberi orang yang tidak engkau beri; dan seandainya
+> keramahan pertemuan itu habis, engkau menghalangi orang yang tidak dihalangi.
+
+Ia menetapkan perbuatan baginya dan menafikannya darinya sekaligus dengan dua sudut pandang yang berbeda. Dikatakan: "Kayu ini akulah yang memotongnya, bukan pisau," dan dikatakan: "Pisau yang memotongnya, bukan aku." Dikatakan: "Si fulan diberi petunjuk oleh Allah, diberi petunjuk oleh Rasul, diberi petunjuk oleh Al-Qur'an, dan diberi petunjuk oleh pemahamannya," sehingga petunjuk dinisbatkan kepada semua itu.
+
+Dikatakan pula: "Allah menyesatkannya," karena Allah Ta'ala adalah sebab pertama dalam keberadaannya, keberadaan sebab yang menyesatkannya, dan keberadaan alatnya, meskipun Allah Ta'ala bukanlah yang menyerunya kepada kesesatan. Dikatakan: "Setan menyesatkannya," karena setanlah yang menyeru kepada kesesatan. Dan dikatakan: "Jiwanya menyesatkannya," karena jiwanyalah yang meninggalkan kewaspadaan.
+
+Ini adalah bahasan yang siapa pun memahaminya tidak akan bersandar pada lafaz-lafaz semacam itu untuk menetapkan makna, sehingga ia memandang dari lafaz menuju makna; melainkan dalam hal semacam ini ia memandang dari makna menuju lafaz.
+
+Ketahuilah, karena apa yang telah kami kemukakan inilah, sekelompok orang yang cermat berkata: "Tidak ada satu pun perbuatan yang pelakunya pada hakikatnya adalah pelaku tunggal kecuali Allah Ta'ala, sebab perbuatan-Nya tidak membutuhkan tempat, waktu, alat, materi, maupun contoh yang ditiru." Adapun para pelaku selain Dia Ta'ala, mereka pasti membutuhkan semua itu atau sebagiannya. Karena itu tidak sah menisbatkan *ibdāʿ* kepada selain Dia Ta'ala, baik secara hakiki maupun majazi, sedang perbuatan selain Allah sah ditetapkan menurut cara yang telah dikemukakan.
+
+## Penutup Kitab {.judul-bab}
+
+Syekh Abu al-Qasim al-Raghib, semoga Allah merahmatinya, berkata:
+
+Inilah akhir dari apa yang hendak kujelaskan tentang makna ini. Kututup ucapan dengan memuji Allah Ta'ala, menyanjung-Nya, dan merendahkan diri kepada-Nya agar Dia memberikan manfaat kepadaku dan saudara-saudaraku dengan apa yang telah kuupayakan, dan menjadikanku termasuk orang yang mengambil pelajaran lalu memberi pelajaran, melihat dengan mata batin lalu membuka mata orang lain, menerima nasihat lalu menasihati, dan terjaga lalu membangunkan orang lain. Sebab aib yang paling besar adalah orang memerintah padahal ia sendiri tidak menjalankan perintah, melarang padahal ia sendiri tidak tercegah, dan mengaku memiliki hikmah padahal bila kebaikan-kebaikan menemuinya ia tidak memilihnya, dan bila keburukan-keburukan menemuinya ia tidak membencinya; ia melihat debu kecil di mata saudara-saudaranya lalu mengingkarinya, tetapi membiarkan batang kayu yang melintang di pelupuk matanya sendiri tanpa mengubahnya; ia menasihati orang lain dan menipu dirinya sendiri:
+
+> Seperti orang yang memberi pakaian kepada manusia dari ketelanjangan,
+> sedang auratnya sendiri terbuka bagi manusia, tak ditutupinya sedikit pun;
+
+dan seperti batu asahan yang menajamkan besi tetapi ia sendiri tidak memotong, dan seperti batu keras yang dilewati air yang bermanfaat tetapi ia sendiri tidak mengambil manfaat darinya.
+
+Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, bersabda: *"Sesungguhnya Allah Ta'ala menguatkan agama ini dengan kaum-kaum yang tidak memiliki bagian (di akhirat)."* Maka kami memohon kepada-Nya Ta'ala agar dengan rahmat-Nya Dia menjadikan kami termasuk orang yang menjalankan perintah Nabi-Nya, semoga Allah melimpahkan selawat dan salam kepadanya, ketika beliau bersabda: *"Manfaatkanlah lima perkara sebelum lima perkara: masa mudamu sebelum masa tuamu, sehatmu sebelum sakitmu, waktu luangmu sebelum waktu sibukmu, kayamu sebelum fakirmu, dan hidupmu sebelum matimu."*
+
+Betapa besar penyesalan dan kerugian pada hari kiamat jika Allah tidak melimpahiku dengan rahmat-Nya yang meliputi segala sesuatu. Maka mudahkanlah, wahai Tuhanku, penyeberangan, dan lancarkanlah bagiku jalan lewat, sebab telah tiba masa panenku, meskipun kerusakanku belum diperbaiki dan petunjukku belum tercapai. Ya Allah, limpahkanlah selawat kepada penutup para nabi, Muhammad, dan seluruh keluarganya.
+
+Cukuplah Allah bagi kami, dan Dialah sebaik-baik Pelindung. Tidak ada daya dan kekuatan kecuali dengan Allah Yang Mahatinggi lagi Mahaagung. Ya Allah, limpahkanlah selawat kepada Muhammad dan keluarga Muhammad, seutama-utama selawat yang pernah Engkau limpahkan kepada salah seorang dari makhluk-Mu, selawat yang tidak pernah habis dan tidak terhitung jumlahnya. Ampunilah penulisnya, pemiliknya, kedua orang tuanya, dan seluruh kaum muslimin, serta setiap orang yang mengucapkan amin, wahai Tuhan semesta alam.
+
+Penyalinan kitab ini selesai di kota Aden, pada sepuluh malam yang telah berlalu dari bulan Zulkaidah tahun lima ratus sembilan puluh dua (592 H). Semoga Allah mengampuni penyalinnya, memberi manfaat kepada pemiliknya dengannya, mengilhaminya untuk mengamalkan isinya, dan mempekerjakannya dalam apa yang Dia ridai, demi Muhammad dan keluarganya yang suci. Semoga Allah melimpahkan selawat dan salam kepada Rasul-Nya, junjungan kita Muhammad, Nabi yang ummi, dan kepada keluarganya.
