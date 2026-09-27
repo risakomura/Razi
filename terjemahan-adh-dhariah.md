@@ -14,9 +14,9 @@
 | Butir | Keterangan |
 |---|---|
 | Tahap | Penerjemahan berjalan |
-| Sudah diterjemahkan | Pasal Pertama; Pasal Kedua; Pasal Ketiga |
-| Posisi berikutnya | Pasal Keempat, awal (Arab dh2 baris 1816) |
-| Nomor catatan terakhir | CE: e71 · CY: y55 · CP: p13 |
+| Sudah diterjemahkan | Pasal Pertama; Pasal Kedua; Pasal Ketiga; Pasal Keempat (sebagian) |
+| Posisi berikutnya | Pasal Keempat, bahasan kematian (Arab dh2 baris 1909) |
+| Nomor catatan terakhir | CE: e76 · CY: y55 · CP: p17 |
 | Catatan *Mufradāt* dan *Kashshāf* | lihat 3.13 |
 
 ---
@@ -2619,13 +2619,13 @@ Semua manusia adalah fakir dari dua segi.[^m-faqr]
 
 [^m-faqr]: **Kefakiran** (*faqr*) dan **kekayaan** (*ghinā*). Dalam *al-Mufradāt*, *faqr* dipakai dalam empat makna: (1) adanya kebutuhan darurat, yang umum bagi manusia selama di dunia, bahkan bagi semua yang ada, seperti *"Wahai manusia! Kamulah yang memerlukan Allah"* (Fatir: 15); (2) tidak adanya harta milik, seperti *"(Apa yang kamu infakkan) adalah untuk orang-orang fakir"* (al-Baqarah: 273); (3) kefakiran jiwa, yaitu kerakusan; (4) kefakiran kepada Allah, yang dimaksud dalam doa "Ya Allah, kayakanlah aku dengan kefakiran kepada-Mu". *Ghinā* dipakai dalam tiga makna: (1) tidak adanya kebutuhan sama sekali, dan itu hanya milik Allah (Fatir: 15; al-Hajj: 64); (2) sedikitnya kebutuhan, yang dimaksud dalam *"Dan Dia mendapatimu sebagai seorang yang kekurangan, lalu Dia memberikan kecukupan"* (ad-Duha: 8) dan hadis *"kekayaan adalah kekayaan jiwa"*; (3) banyaknya harta milik sesuai tingkatan manusia. Seluruh argumen al-Rāghib dalam bahasan ini (dua segi kefakiran manusia; orang terkaya adalah yang paling sedikit kebutuhannya; Allah terkaya karena sama sekali tidak butuh) disusun dari pembagian makna ini. (*al-Mufradāt*, s.v. *f-q-r*; *gh-n-y*.)
 
-[^k-ghina]: **Kekayaan** (*ghinā*; Ing. *richness*). *Kashshāf*: lawan kefakiran. Dikutip dari *Khulāṣat al-Sulūk*: menurut sebagian bijak, kekayaan ialah tenangnya kalbu dengan janji Allah Ta'ala; menurut *ahl Allāh*, kekayaan ialah rela dengan yang ada dan sabar atas yang tiada; ada pula yang berkata: kekuatan kalbu di tengah kekurangan, rahasia hati yang terjaga, memutus angan-angan, dan meninggalkan kata-kata tak berguna. Semua definisi ini menunjuk pada *ghinā al-nafs* (kekayaan jiwa), sejalan dengan al-Rāghib. (*Kashshāf*, s.v. *al-ghinā*.)
-
 **Pertama**: karena mereka membutuhkan Allah Ta'ala, sebagaimana firman-Nya: *"Wahai manusia! Kamulah yang memerlukan Allah; dan Allah Dialah Yang Mahakaya (tidak memerlukan sesuatu), Maha Terpuji"* (Fatir: 15).
 
 **Kedua**: karena banyaknya kebutuhan mereka. Maka orang yang paling kaya di antara mereka adalah yang paling sedikit kebutuhannya. Siapa yang menutup kebutuhan-kebutuhannya dengan harta perolehan, tidak ada harapan kebutuhan itu akan tertutup; ia seperti orang yang menambal robekan dengan robekan dan menutup kefakiran dengan kefakiran. Siapa yang menutupnya dengan merasa tidak butuh kepadanya sebatas kemampuannya dan membatasi diri pada kadar kebutuhan daruratnya, dialah orang yang kaya dan dekat kepada Allah, sebagaimana diisyaratkan dalam kisah Talut: *"Allah akan menguji kamu dengan sebuah sungai. Maka barang siapa meminum (airnya), dia bukanlah pengikutku. Dan barang siapa tidak meminumnya, maka dia adalah pengikutku kecuali menciduk seciduk dengan tangan. Tetapi mereka meminumnya kecuali sebagian kecil di antara mereka"* (al-Baqarah: 249).
 
 Karena kekayaan adalah ketiadaan kebutuhan, orang yang paling kaya adalah yang paling sedikit kebutuhannya.[^k-ghina] Karena itu Allah Ta'ala adalah Yang Paling Kaya di antara yang kaya, sebab Dia sama sekali tidak membutuhkan sesuatu. Hal itu ditunjukkan oleh sabda Nabi, semoga Allah melimpahkan selawat dan salam kepadanya: *"Kekayaan bukanlah dengan banyaknya harta benda, tetapi kekayaan adalah kekayaan jiwa."* Di antara bait-bait hikmah:
+
+[^k-ghina]: **Kekayaan** (*ghinā*; Ing. *richness*). *Kashshāf*: lawan kefakiran. Dikutip dari *Khulāṣat al-Sulūk*: menurut sebagian bijak, kekayaan ialah tenangnya kalbu dengan janji Allah Ta'ala; menurut *ahl Allāh*, kekayaan ialah rela dengan yang ada dan sabar atas yang tiada; ada pula yang berkata: kekuatan kalbu di tengah kekurangan, rahasia hati yang terjaga, memutus angan-angan, dan meninggalkan kata-kata tak berguna. Semua definisi ini menunjuk pada *ghinā al-nafs* (kekayaan jiwa), sejalan dengan al-Rāghib. (*Kashshāf*, s.v. *al-ghinā*.)
 
 > Kekayaan jiwa ialah apa yang mencukupimu untuk menutup kebutuhan;
 > jika ia bertambah sedikit saja, kekayaan itu kembali menjadi kefakiran.
@@ -2657,3 +2657,193 @@ Asal makna warak (*waraʿ*) adalah kepengecutan dan kelemahan, dan kata ini terk
 Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, bersabda: *"Seorang hamba tidak akan termasuk orang-orang bertakwa sampai ia meninggalkan apa yang tidak mengapa karena khawatir terhadap apa yang mengapa."* Dengan memandang tingkatan kedua, beliau bersabda: *"Tinggalkanlah apa yang meragukanmu menuju apa yang tidak meragukanmu."* Seseorang bertanya kepada beliau: "Alangkah beratnya warak!" Beliau menjawab: *"Alangkah mudahnya warak: bila engkau ragu terhadap sesuatu, tinggalkanlah."*[^e71]
 
 [^e71]: CE: Makna yang sama dinukil al-Qushayrī dari Sufyān al-Thawrī: "Aku tidak melihat sesuatu yang lebih mudah daripada warak: apa pun yang mengganjal dalam dirimu, tinggalkanlah." Lihat *al-Risāla al-Qushayriyya*.
+
+# Pasal Keempat {.kitab-ke}
+
+# Hal-Hal yang Berkaitan dengan Daya Amarah {.judul-kitab}
+
+## Apa yang Bersumber dari Daya Amarah {.judul-bab}
+
+*Al-ḥamiyya* adalah daya amarah.[^m-hamiyya] Bila ia bergerak, darah kalbu ikut bergerak, lalu darinya lahir tiga keadaan. Sebab ia hanya bergerak terhadap orang yang di atasnya, atau terhadap orang yang di bawahnya, atau terhadap orang yang setara dengannya. Jika terhadap orang di atasnya, yang ia yakini tidak mungkin ia balas, lahirlah darinya mengerutnya darah kalbu karena gelisah atas ketidakmampuan membalas, dan itulah duka (*ghamm*).[^m-ghamm] Jika terhadap orang di bawahnya, yang ia pastikan mampu ia balas, lahirlah darinya bergolaknya darah kalbu karena kehendak untuk membalas, dan itulah amarah (*ghaḍab*).[^m-ghadab][^k-ghadab] Jika terhadap orang yang setara dengannya, yang ia ragukan apakah mampu membalasnya atau tidak, darah itu bimbang antara mengerut dan mengembang, dan itulah dendam (*watr*) dan kedengkian yang terpendam (*ḥiqd*).[^m-watr][^p14]
+
+[^m-hamiyya]: **Daya amarah yang bergolak** (*ḥamiyya*). Dalam *al-Mufradāt*, di bawah akar *ḥ-m-y* yang bermakna panas (seperti panasnya besi yang dibakar dan *ḥumayyā al-kaʾs*, gejolak dan panasnya minuman), al-Rāghib menjelaskan: daya amarah (*al-qūwa al-ghaḍabiyya*), bila bergolak dan menjadi banyak, diungkapkan dengan *ḥamiyya*; maka dikatakan "*ḥamītu ʿalā fulān*", yakni aku marah kepadanya, seperti dalam *"kesombongan (ḥamiyya), (yaitu) kesombongan jahiliah"* (al-Fath: 26). Dari makna yang sama dipinjam ungkapan "aku melindungi (*ḥamaytu*) suatu tempat" dan "melindungi hidungku (harga diriku)". Jadi *ḥamiyya* adalah nama daya amarah itu sendiri ketika ia menyala, dan dalam *al-Dharīʿa* ia menjadi judul seluruh Pasal Keempat. Istilah ini tidak memiliki entri tersendiri dalam *Kashshāf*. (*al-Mufradāt*, s.v. *ḥ-m-y*.)
+
+[^m-ghamm]: **Duka** (*ghamm*). Dalam *al-Mufradāt*: asal makna *ghamm* adalah menutupi sesuatu; dari situ *ghamām* (awan) disebut demikian karena menutupi cahaya matahari, dan "hilal *ghumma*" berarti tertutup awan. *Ghumma* dalam *"kemudian janganlah keputusanmu itu dirahasiakan (ghumma)"* (Yunus: 71) berarti kesusahan. Makna "menutupi" menjelaskan duka sebagai keadaan jiwa yang tertutup dan terhimpit, sejalan dengan penjelasan al-Rāghib di sini bahwa duka adalah mengerutnya darah kalbu ke dalam. (*al-Mufradāt*, s.v. *gh-m-m*.)
+
+[^m-ghadab]: **Amarah** (*ghaḍab*). Dalam *al-Mufradāt*, al-Rāghib memberi definisi yang sama: bergolaknya darah kalbu karena kehendak untuk membalas. Karena itu Nabi bersabda: *"Waspadalah terhadap amarah, karena ia adalah bara yang menyala di kalbu anak Adam; tidakkah kalian lihat urat lehernya menggembung dan matanya memerah?"* Bila Allah disifati dengan amarah, yang dimaksud hanyalah pembalasan (*intiqām*), tanpa unsur lainnya (al-Baqarah: 90; al-Fatihah: 7). (*al-Mufradāt*, s.v. *gh-ḍ-b*.)
+
+[^k-ghadab]: **Amarah** (*ghaḍab*; Ing. *anger, fury, wrath*). *Kashshāf*, mengutip *al-Muṭawwal*: gerak jiwa yang berawal dari kehendak untuk membalas. Para pensyarah mengkritik bahwa definisi ini tidak cocok dengan definisi kesantunan (*ḥilm*) sebagai "tenangnya jiwa sehingga tidak mudah digerakkan oleh amarah"; karena itu dikatakan bahwa yang lebih tepat, amarah adalah keadaan jiwa yang menuntut gerak roh ke luar tubuh untuk mencari pembalasan. Rumusan "gerak roh ke luar" ini sejajar dengan uraian al-Rāghib tentang mengembangnya darah amarah hingga wajah memerah dan urat leher menggembung. (*Kashshāf*, s.v. *al-ghaḍab*.)
+
+[^m-watr]: **Dendam** (*watr*, *tira*). Dalam *al-Mufradāt*: *al-witr*, *al-watr*, dan *al-tira* berarti *dhaḥl*, yakni tuntutan balas atas kejahatan yang pernah dialami; *watartuhu* berarti aku menimpakan sesuatu yang tidak disukai kepadanya, seperti dalam *"dan Dia tidak akan mengurangi (yatirakum) amal-amalmu"* (Muhammad: 35). Adapun *ḥiqd* (kedengkian yang terpendam) diterangkan di bawah akar *ḍ-gh-n*: *ḍighn* adalah *ḥiqd* yang sangat, seperti dalam *"bahwa Allah tidak akan menampakkan kedengkian (aḍghān) mereka"* (Muhammad: 29). Kedua istilah ini tidak memiliki entri tersendiri dalam *Kashshāf*. (*al-Mufradāt*, s.v. *w-t-r*; *ḍ-gh-n*.)
+
+[^p14]: CP: Inilah fisiologi daya amarah menurut al-Rāghib, yang menjadi kunci bagi seluruh Pasal Keempat. Daya amarah (*ḥamiyya*) satu, tetapi manifestasinya ditentukan oleh posisi lawan: (1) terhadap yang lebih kuat dan tak terbalas, darah mengerut ke dalam → *ghamm* (duka), wajah pucat; (2) terhadap yang lebih lemah dan terbalas, darah mengembang ke luar → *ghaḍab* (amarah), wajah merah lalu menghitam; (3) terhadap yang setara dan belum pasti, darah bimbang antara keduanya → *watr* dan *ḥiqd* (dendam terpendam), wajah berganti-ganti merah, kuning, dan hitam. Dengan demikian duka dan amarah "pada dzatnya satu, berbeda karena nisbahnya", sebagaimana dikatakan Ibn 'Abbas. *Ḥard* ditambahkan sebagai amarah yang disertai niat menyasar orang yang dimarahi.
+
+Karena duka dan amarah pada dzatnya satu dan berbeda hanya karena nisbahnya, ketika Ibn 'Abbas, semoga Allah merahmatinya, ditanya tentang keduanya, ia menjawab: "Sumbernya satu, lafaznya berbeda. Siapa yang bertikai dengan orang yang dapat ia kalahkan, ia menampakkannya sebagai amarah; dan siapa yang bertikai dengan orang yang tidak dapat ia kalahkan, ia menyimpannya sebagai kesedihan." Dari sinilah penyair berkata:
+
+> Maka kesedihan setiap orang yang bersedih adalah saudara amarah.
+
+Karena mengembangnya darah amarah, wajah orang yang marah terkadang memerah dan urat lehernya menggembung seperti api yang menyala; dan terkadang wajahnya menghitam, yaitu bila amarahnya banyak dan keras, seperti api di dalam gua yang menghitamkan udaranya. Karena mengerutnya darah gelisah dari permukaan kulit dan terhimpunnya di dalam kalbu, wajah orang yang berduka menjadi pucat kekuningan, dan boleh jadi ia binasa karenanya. Karena bimbangnya darah kalbu dalam kedengkian terpendam di antara keadaan-keadaan ini, wajahnya memerah, menguning, dan menghitam.
+
+*Al-ḥard* adalah amarah, tetapi dipakai bila disertai maksud menyasar orang yang dimarahi. Karena itu dikatakan: "Ia murka seperti murkanya singa."[^m-hard]
+
+[^m-hard]: **Amarah yang menyasar** (*ḥard*). Dalam *al-Mufradāt*: *ḥard* ialah menahan disertai ketajaman dan amarah, seperti dalam *"Dan berangkatlah mereka pada pagi hari dengan niat menghalangi (orang-orang miskin) padahal mereka mampu"* (al-Qalam: 25), yakni dengan tekad menahan buah kebun dari orang lain. *Ḥarida* berarti marah; *nazala fulān ḥarīdan* berarti ia menyendiri menolak bergaul dengan kaum. Makna "tekad yang terarah" ini sejalan dengan definisi di sini: amarah yang disertai niat menyasar. (*al-Mufradāt*, s.v. *ḥ-r-d*.)
+
+## Macam-Macam Sabar dan Pujiannya {.judul-bab}
+
+Sabar ada dua macam: sabar jasmani dan sabar nafsani.[^m-sabr][^k-sabr]
+
+[^m-sabr]: **Sabar** (*ṣabr*). Dalam *al-Mufradāt*: *ṣabr* ialah menahan dalam kesempitan; dikatakan *ṣabartu al-dābba*, aku menahan tunggangan tanpa makanan. *Ṣabr* ialah menahan jiwa pada apa yang dituntut akal dan syariat, atau dari apa yang keduanya tuntut untuk ditahan. Ia adalah kata umum yang namanya berbeda-beda menurut tempatnya: pada musibah ia disebut sabar saja, lawannya *jazaʿ*; dalam peperangan disebut keberanian, lawannya kepengecutan; dalam kesusahan yang menjemukan disebut lapang dada, lawannya *ḍajar*; dalam menahan ucapan disebut menyimpan rahasia, lawannya *madhal* (membocorkan). Allah menamai semua itu sabar (al-Baqarah: 177). Uraian dalam *al-Dharīʿa* ini adalah versi yang lebih lengkap dari daftar yang sama, dengan tambahan kesucian diri, pengendalian diri, kesantunan, kanaah, dan zuhud. (*al-Mufradāt*, s.v. *ṣ-b-r*.)
+
+[^k-sabr]: **Sabar** (*ṣabr*; Ing. *patience, endurance, spiritual power*). *Kashshāf* mencatat definisi kaum salik: *taṣabbur* ialah membebani jiwa dengan hal-hal yang tidak disukai dan meneguk kepahitan; sabar ialah meninggalkan keluhan kepada selain Allah. Sahl berkata: sabar ialah menanti jalan keluar dari Allah, dan itu seutama-utama pengabdian. Ada pula yang berkata: sabar ialah engkau bersabar dalam kesabaran, yakni tidak mengintip jalan keluar. Dibedakan juga antara sabar (tidak mengaduh saat ditimpa bencana) dan rida (tidak merasa jemu saat ditimpa bencana). Pendekatan al-Rāghib berbeda: ia memetakan sabar sebagai satu kapasitas umum jiwa yang berganti nama sesuai objeknya. (*Kashshāf*, s.v. *al-ṣabr*.)
+
+Sabar jasmani ialah menanggung kesulitan sebatas daya tubuh. Batasnya diketahui, dan kebanyakan dimiliki orang-orang yang bertubuh kasar; ia bukan keutamaan yang sempurna. Karena itu penyair berkata:
+
+> Sabar itu dengan jiwa-jiwa diketahui keutamaannya,
+> sabarnya para raja, bukan dengan tubuh.
+
+Sabar jasmani ada dalam perbuatan, seperti berjalan dan mengangkat batu berat, dan dalam menerima perlakuan, seperti sabar atas penyakit dan menanggung pukulan serta luka sayatan.
+
+Sabar nafsani, dan dengannya keutamaan berkaitan, ada dua macam: sabar dari meraih sesuatu yang diinginkan, yang disebut kesucian diri; dan sabar dalam menanggung sesuatu yang tidak disukai atau yang disukai. Yang kedua ini namanya berbeda-beda sesuai perbedaan tempatnya.
+
+Jika terjadi pada turunnya musibah, ia tidak melampaui nama sabar, dan lawannya adalah *jazaʿ* (keluh kesah), *halaʿ* (kegelisahan), dan kesedihan.[^m-jaza] Jika terjadi dalam menanggung kekayaan, ia terkadang disebut pengendalian diri (*ḍabṭ al-nafs*), dan lawannya adalah sikap meninggi dan *baṭar* (lupa diri karena nikmat).[^m-batar] Jika terjadi dalam peperangan, ia disebut keberanian, dan lawannya adalah kepengecutan. Jika terjadi dalam menahan diri dari melampiaskan kehendak amarah, ia disebut kesantunan, dan lawannya adalah *tadhammur* (menggerutu). Jika terjadi dalam bencana yang menjemukan, ia disebut lapang dada (*saʿat al-ṣadr*), dan lawannya adalah sempit dada, *ḍajar* (jemu), dan *tabarrum* (kesal). Jika terjadi dalam menahan ucapan yang tersimpan dalam hati, ia disebut menyimpan rahasia, dan lawannya adalah membocorkan. Jika terjadi dalam menahan diri dari kelebihan-kelebihan hidup, ia disebut kanaah dan zuhud, dan lawannya adalah kerakusan dan keinginan keras.[^p15]
+
+[^m-jaza]: **Keluh kesah** (*jazaʿ*). Dalam *al-Mufradāt*: *jazaʿ* lebih kuat daripada *ḥuzn* (kesedihan), sebab *ḥuzn* umum, sedang *jazaʿ* adalah kesedihan yang memalingkan manusia dari apa yang sedang ia tuju dan memutusnya darinya; asal katanya adalah memutus tali di tengahnya. Contohnya *"Sama saja bagi kita, apakah kita mengeluh atau bersabar"* (Ibrahim: 21). Adapun *ḥuzn* sendiri, dalam *al-Mufradāt*, adalah kekasaran pada tanah dan kekasaran pada jiwa karena duka yang terjadi di dalamnya; lawannya *faraḥ* (gembira). *Halaʿ* tidak memiliki entri tersendiri. Ketiga istilah ini tidak memiliki entri tersendiri dalam *Kashshāf*. (*al-Mufradāt*, s.v. *j-z-ʿ*; *ḥ-z-n*.)
+
+[^m-batar]: **Lupa diri karena nikmat** (*baṭar*). Dalam *al-Mufradāt*: keterkejutan yang menimpa manusia karena buruknya ia menanggung nikmat, sedikitnya ia menunaikan hak nikmat itu, dan memalingkannya dari tempat yang semestinya, seperti dalam *"dengan rasa angkuh dan ingin dipuji orang (baṭaran)"* (al-Anfal: 47) dan *"yang sudah bersenang-senang dalam kehidupannya (baṭirat maʿīshatahā)"* (al-Qasas: 58). *Baṭar* dekat dengan *ṭarab*, yaitu keringanan jiwa yang paling sering timbul dari kegembiraan, dan terkadang dari kesedihan. Dengan demikian *baṭar* adalah kegagalan sabar dalam keadaan lapang, pasangan dari *jazaʿ* yang merupakan kegagalan sabar dalam keadaan sempit. (*al-Mufradāt*, s.v. *b-ṭ-r*.)
+
+[^p15]: CP: Paragraf ini adalah peta paling ringkas tentang bagaimana satu disposisi, yaitu sabar (*ṣabr*) sebagai kemampuan menahan jiwa, menjelma menjadi banyak keutamaan. Tabelnya: (1) menahan diri dari yang diinginkan → *ʿiffa* (kesucian diri); (2) menanggung musibah → *ṣabr* dalam arti sempit, lawan *jazaʿ*, *halaʿ*, *ḥuzn*; (3) menanggung kekayaan → *ḍabṭ al-nafs*, lawan *tarafuʿ*, *baṭar*; (4) peperangan → *shajāʿa*, lawan *jubn*; (5) menahan amarah → *ḥilm*, lawan *tadhammur*; (6) bencana yang menjemukan → *saʿat al-ṣadr*, lawan *ḍīq al-ṣadr*, *ḍajar*, *tabarrum*; (7) menahan ucapan → *kitmān al-sirr*, lawan *ifshāʾ*; (8) menahan diri dari kelebihan hidup → *qanāʿa*, *zuhd*, lawan *sharah*, *ḥirṣ*. Tampak bahwa sabar melintasi daya syahwat (no. 1, 3, 8) dan daya amarah (no. 2, 4, 5, 6), dan dalam kerangka Pasal Pertama ia berfungsi sebagai "tenaga" yang memungkinkan akal memerintah kedua daya itu.
+
+Sabar juga bisa bersifat umum. Allah Ta'ala berfirman: *"dan orang yang sabar dalam kemelaratan, penderitaan dan pada masa peperangan"* (al-Baqarah: 177). Dia menyebut bahwa mereka bersabar dalam *baʾsāʾ*, yakni kefakiran, dalam *ḍarrāʾ*, yakni musibah, dan pada masa *baʾs*, yakni peperangan. Sebagian orang berkata: pengendalian diri dikatakan untuk hal-hal yang melezatkan, dan sabar dikatakan untuk hal-hal yang menyedihkan. Sebagian yang lain berkata: keduanya sinonim yang menunjuk satu makna.
+
+Jika ditanyakan: apa makna sabda Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, *"Sabar adalah separuh iman"*? Dijawab: karena seluruh perbuatan terpuji ada dua macam, yaitu meninggalkan keburukan, yang diungkapkan dengan sabar, dan melakukan kebaikan, yang diungkapkan dengan syukur, maka sabar, yang berarti meninggalkan keburukan, menjadi separuh iman.
+
+## Keberanian {.judul-bab}
+
+Keberanian, bila dipandang sebagai keadaan dalam jiwa, adalah keteguhan kalbu menghadapi hal-hal yang mengerikan dan tenangnya hati dalam situasi-situasi yang menakutkan. Bila dipandang dari segi perbuatan, ia adalah maju ke tempat yang merupakan kesempatan. Ia adalah keutamaan di antara kenekatan dan kepengecutan.[^m-jubn] Ia lahir dari rasa takut dan amarah bila keduanya berada di tengah. Sebab amarah terkadang berlebihan, seperti orang yang cepat naik darah karena hal-hal kecil; terkadang kurang, seperti orang yang tidak marah ketika kehormatan keluarganya dilanggar dan ayah ibunya dicaci; dan terkadang di tengah, sesuai yang semestinya, pada waktu yang semestinya, dan sebatas yang semestinya. Demikian pula rasa takut, terkadang berlebihan sehingga darinya lahir kepengecutan yang gelisah; terkadang kurang sehingga darinya lahir sikap tak tahu malu dan kebebalan, seperti orang yang tidak merasa takut ketika nenek moyangnya dicaci dan kehormatan keluarga serta sahabat-sahabatnya disia-siakan; dan terkadang di tengah, sebagaimana semestinya dan sebatas yang semestinya.[^p16]
+
+[^m-jubn]: **Kepengecutan** (*jubn*). Dalam *al-Mufradāt*: *jubn* ialah lemahnya kalbu dari apa yang semestinya ia kuat menghadapinya; dikatakan *rajul jabān* dan *imraʾa jabān*, dan *ajbantuhu* berarti aku mendapatinya pengecut. Definisi ini menunjukkan bahwa kepengecutan bukan sekadar takut, melainkan takut yang salah tempat, yaitu lemah pada hal yang "berhak" dihadapi dengan kuat. *Tahawwur* (kenekatan) tidak memiliki entri dalam *al-Mufradāt* maupun *Kashshāf*; tentang keberanian, lihat catatan *Kashshāf* pada Pasal Pertama, yang mendefinisikannya sebagai keadaan daya amarah di tengah antara kenekatan (kelebihan) dan kepengecutan (kekurangan). (*al-Mufradāt*, s.v. *j-b-n*.)
+
+[^p16]: CP: Analisis ini lebih halus daripada skema tengah biasa. Keberanian tidak diletakkan langsung pada satu garis antara kenekatan dan kepengecutan, melainkan dilahirkan oleh dua emosi yang masing-masing memiliki titik tengahnya sendiri: amarah (*ghaḍab*) dan rasa takut (*fazaʿ*). Amarah yang tengah memberi dorongan maju secukupnya; takut yang tengah memberi kewaspadaan secukupnya. Kelebihan takut menghasilkan *jubn hāliʿ* (kepengecutan yang gelisah); kekurangan takut menghasilkan *waqāḥa* (tak tahu malu) dan *ghamāra* (kebebalan). Karena itu al-Rāghib dapat berkata bahwa amarah dan takut sama-sama bisa terpuji dan tercela: nilainya ditentukan oleh kadar dan tempatnya.
+
+Karena keduanya, yaitu amarah dan rasa takut, memiliki dua keadaan, terpuji dan tercela, keduanya terkadang dipuji dan terkadang dicela. Amarah dalam firman Allah Ta'ala *"dan Allah murka kepada mereka"* (al-Fath: 6), dan rasa takut dalam ucapan penyair "Aku gentar melihat kezalimannya...", keduanya terpuji. Kenekatan dalam urusan-urusan praktis adalah keteguhan yang tercela dalam hal-hal yang membinasakan, sedang kepengecutan adalah rasa takut dalam hal-hal yang membinasakan.
+
+Ketahuilah, keberanian ada lima macam.[^p17]
+
+**Pertama**: keberanian kebuasan, seperti orang yang maju karena amarahnya bergolak dan ingin menang.
+
+**Kedua**: keberanian kebinatangan, seperti orang yang berperang demi mendapatkan makanan atau perempuan.
+
+**Ketiga**: keberanian pengalaman, seperti orang yang telah berperang berkali-kali lalu menang, kemudian menjadikannya dasar yang ia pijaki.
+
+**Keempat**: keberanian jihad, seperti orang yang berperang untuk membela agama.
+
+**Kelima**: keberanian hikmah, yaitu keberanian yang dalam semua itu lahir dari pikiran, pertimbangan, dan keadaan jiwa yang terpuji, sebatas yang semestinya dan sesuai yang semestinya.
+
+[^p17]: CP: Lima jenis keberanian ini dapat dipetakan pada daya-daya jiwa. Keberanian kebuasan (*sabuʿiyya*) digerakkan oleh daya amarah semata; keberanian kebinatangan (*bahīmiyya*) oleh daya syahwat; keberanian pengalaman (*tajribiyya*) oleh kebiasaan dan perhitungan peluang; keberanian jihad (*jihādiyya*) oleh motif agama; dan keberanian hikmah (*ḥikmiyya*) oleh daya pikir yang menguasai semuanya. Hanya jenis terakhir yang merupakan keberanian dalam arti keutamaan sepenuhnya, karena ia lahir dari "pikiran dan pertimbangan" (*fikr wa tamyīz*) sebagai *hayʾa* (keadaan jiwa yang menetap). Pola ini sejajar dengan kritik al-Rāghib terhadap "kesucian diri palsu" dalam Pasal Ketiga.
+
+Tidakkah engkau lihat bahwa terpuji orang yang maju melawan orang kafir karena marah demi agama Allah, atau karena mengharap pahala-Nya, atau karena takut akan siksa-Nya, atau karena bersandar pada apa yang ia lihat dari terlaksananya janji Allah dalam menolong wali-wali-Nya? Semua itu terpuji, meskipun keberanian yang murni adalah maju tanpa bermaksud meraih pahala atau menolak siksa. Sebab dikatakan: "Siapa yang menyembah Allah demi imbalan, ia adalah orang yang tercela."[^e72]
+
+[^e72]: CE: Lihat *Nahj al-Balāgha*, no. 396.
+
+Perbedaan antara orang yang maju dalam perang semata karena hikmah dan keikhlasan agama dan orang yang maju karena selain itu ialah bahwa orang yang maju bukan karena hikmah dan keikhlasan lebih takut kepada kematian daripada kepada celaan yang benar, sedang orang yang maju karena hikmah dan keikhlasan sebaliknya: ia memilih kematian yang terpuji daripada kehidupan yang tercela. Karena itu Ali, semoga Allah Ta'ala meridainya, berkata: "Wahai manusia, sesungguhnya jika kalian tidak terbunuh, kalian pun akan mati. Demi Zat yang jiwa putra Abu Talib berada di tangan-Nya, seribu tebasan pedang lebih ringan daripada mati di atas ranjang."
+
+Termasuk keberanian yang terpuji ialah perjuangan manusia melawan dirinya sendiri atau melawan orang lain, dan masing-masing ada dua macam. Perjuangan melawan diri dengan ucapan, yaitu dengan belajar; dan dengan perbuatan, yaitu dengan menundukkan syahwat dan mendidik daya amarah. Perjuangan melawan orang lain dengan ucapan, yaitu menghiasi kebenaran dan mengajarkannya; dan dengan perbuatan, yaitu melawan kebatilan dan para pelakunya dengan perang.
+
+## Nama-Nama Macam Rasa Takut dan Keluh Kesah, Perbedaan Keduanya, serta Penjelasan Mana yang Terpuji dan Mana yang Tercela {.judul-bab}
+
+*Fazaʿ* (rasa takut) dan *jazaʿ* (keluh kesah) bersaudara; tetapi *fazaʿ* adalah apa yang menimpa manusia karena sesuatu yang menakutkan, sedang *jazaʿ* adalah apa yang menimpanya karena sesuatu yang menyakitkan.[^m-faza] *Fazaʿ* adalah lafaz umum, baik ia timbul dari suatu tanda dan petunjuk maupun tidak.
+
+[^m-faza]: **Rasa takut** (*fazaʿ*). Dalam *al-Mufradāt*: *fazaʿ* ialah mengerut dan menghindar yang menimpa manusia karena sesuatu yang menakutkan, dan ia termasuk jenis *jazaʿ*. Tidak dikatakan "aku *fazaʿ* terhadap Allah" sebagaimana dikatakan "aku takut (*khiftu*) kepada Allah". *"Kejutan yang dahsyat (al-fazaʿ al-akbar) tidak membuat mereka sedih"* (al-Anbiya': 103) adalah rasa takut masuk neraka. *Faziʿa ilayhi* berarti meminta tolong kepadanya saat takut. Catatan bahwa *fazaʿ* tidak dinisbatkan kepada Allah menjelaskan mengapa al-Rāghib memperlakukannya sebagai istilah payung yang bersifat emosional, sedang *khawf*, *khashya*, *wajal*, dan *rahba* dapat terpuji terhadap Allah. Istilah ini tidak memiliki entri tersendiri dalam *Kashshāf*. (*al-Mufradāt*, s.v. *f-z-ʿ*.)
+
+Bila rasa takut itu timbul karena aib, ia adalah rasa malu dan rasa canggung. Bila timbul karena sesuatu yang membahayakan, ia adalah *faraq* dan *dhuʿr* (kegentaran dan keterkejutan). Bila timbul karena luputnya sesuatu yang dicintai, ia adalah *ishfāq* (kecemasan penuh kasih).[^m-ishfaq] Karena itu Allah Ta'ala berfirman menceritakan penghuni surga: *"Mereka berkata, 'Sesungguhnya kami dahulu, sewaktu berada di tengah-tengah keluarga kami merasa takut (akan ditimpa azab)'"* (at-Tur: 26).
+
+[^m-ishfaq]: **Kecemasan penuh kasih** (*ishfāq*). Dalam *al-Mufradāt*: *ishfāq* ialah perhatian yang bercampur rasa takut, karena orang yang *mushfiq* mencintai orang yang dicemaskannya dan takut akan apa yang menimpanya. Kata ini satu akar dengan *shafaq*, bercampurnya cahaya siang dengan gelapnya malam saat matahari terbenam; seakan kasih dan takut bercampur seperti terang dan gelap di senja hari. Istilah ini tidak memiliki entri tersendiri dalam *Kashshāf*. (*al-Mufradāt*, s.v. *sh-f-q*.)
+
+*Al-khawf* ialah memperkirakan datangnya sesuatu yang tidak disukai berdasarkan suatu tanda.[^m-khawf][^k-khawf] *Al-khashya* ialah rasa takut yang bercampur pengagungan terhadap yang ditakuti, disertai pengenalan terhadapnya.[^m-khashya] Karena itu Allah Ta'ala berfirman: *"(yaitu) orang yang takut kepada Allah Yang Maha Pengasih, sekalipun tidak kelihatan (olehnya)"* (Qaf: 33), dan berfirman: *"Di antara hamba-hamba Allah yang takut kepada-Nya, hanyalah para ulama"* (Fatir: 28).
+
+[^m-khawf]: **Takut** (*khawf*). Dalam *al-Mufradāt*: memperkirakan datangnya sesuatu yang tidak disukai berdasarkan tanda yang diduga atau diketahui, sebagaimana *rajāʾ* dan *ṭamaʿ* adalah memperkirakan datangnya sesuatu yang disukai berdasarkan tanda yang diduga atau diketahui. Lawan *khawf* adalah *amn* (rasa aman). Ia dipakai dalam urusan dunia dan akhirat, seperti *"dan mereka mengharapkan rahmat-Nya dan takut akan azab-Nya"* (al-Isra': 57). Al-Rāghib juga menegaskan di sana bahwa takut kepada Allah tidak dimaksudkan sebagai rasa gentar yang terlintas di hati seperti gentar kepada singa, melainkan menahan diri dari maksiat, persis seperti uraian dalam bahasan ini. (*al-Mufradāt*, s.v. *kh-w-f*.)
+
+[^k-khawf]: **Takut** (*khawf*; Ing. *fear*). *Kashshāf*: menurut ahli suluk, takut ialah malu terhadap maksiat dan larangan serta merasa sakit karenanya. Dikutip sabda Nabi, *"Akulah yang paling takut kepada Allah di antara kalian,"* dan riwayat bahwa Allah mewahyukan kepada Dawud: "Takutlah kepada-Ku sebagaimana engkau takut kepada binatang buas yang menerkam." Definisi sufistik ini menekankan akibat praktis takut (menjauhi maksiat), sejalan dengan al-Rāghib. (*Kashshāf*, s.v. *al-khawf*.)
+
+[^m-khashya]: **Takut yang disertai pengagungan** (*khashya*). Dalam *al-Mufradāt*: *khashya* ialah rasa takut yang bercampur pengagungan, dan paling sering timbul dari pengetahuan tentang apa yang ditakuti; karena itu para ulama dikhususkan dengannya dalam *"Di antara hamba-hamba Allah yang takut kepada-Nya, hanyalah para ulama"* (Fatir: 28). Definisi ini sama dengan definisi di *al-Dharīʿa*. Istilah ini tidak memiliki entri tersendiri dalam *Kashshāf*. (*al-Mufradāt*, s.v. *kh-sh-y*.)
+
+*Al-wajal* ialah merasakan rasa takut dari suatu lintasan hati yang tidak tampak dan tidak memiliki tanda.[^m-wajal] Allah Ta'ala berfirman: *"Dan mereka yang memberikan apa yang mereka berikan (sedekah) dengan hati penuh rasa takut"* (al-Mu'minun: 60). *Al-rahba* ialah rasa takut yang disertai kewaspadaan dan kegoncangan.[^m-rahba] Karena mengandung makna kewaspadaan, Allah Ta'ala berfirman: *"dan penuhilah janjimu kepada-Ku, niscaya Aku penuhi janji-Ku kepadamu, dan takutlah kepada-Ku saja"* (al-Baqarah: 40). *Al-hayba* ialah rasa gentar yang mengundang ketundukan karena merasakan pengagungan, dan karena itu ia dipakai terhadap setiap orang yang disegani.[^k-hayba] Penyair berkata:
+
+[^m-wajal]: **Gemetar** (*wajal*). Dalam *al-Mufradāt*: *wajal* ialah merasakan rasa takut (*istishʿār al-khawf*); contohnya *"Sesungguhnya orang-orang yang beriman adalah mereka yang apabila disebut nama Allah gemetar hatinya"* (al-Anfal: 2) dan *"Sungguh, kami merasa takut kepadamu"* (al-Hijr: 52). Al-Rāghib di *al-Dharīʿa* menambahkan unsur pembeda yang tidak ada dalam *al-Mufradāt*: *wajal* muncul dari lintasan hati tanpa tanda lahir, berbeda dengan *khawf* yang berdasar tanda. Istilah ini tidak memiliki entri tersendiri dalam *Kashshāf*. (*al-Mufradāt*, s.v. *w-j-l*.)
+
+[^m-rahba]: **Takut yang waspada** (*rahba*). Dalam *al-Mufradāt*, al-Rāghib memberi definisi yang sama: *rahba* dan *ruhb* ialah rasa takut yang disertai kewaspadaan dan kegoncangan, seperti *"Sesungguhnya dalam hati mereka, kamu lebih ditakuti (rahbatan)"* (al-Hashr: 13). Dari akar yang sama lahir *rahbāniyya* (kerahiban), karena rahib adalah orang yang berlebihan dalam takut dan waspada. Istilah ini tidak memiliki entri tersendiri dalam *Kashshāf*. (*al-Mufradāt*, s.v. *r-h-b*.)
+
+[^k-hayba]: **Rasa segan** (*hayba*; Ing. *fear, gravity, caution*). *Kashshāf*: lawan dari *uns* (keakraban), dan dirujuk kepada entri *uns*, yang dalam istilah sufi adalah pasangan maqam: *hayba* adalah kesaksian akan keagungan (*jalāl*), *uns* kesaksian akan keindahan (*jamāl*). Definisi al-Rāghib bersifat etis-psikologis: rasa gentar yang menghasilkan ketundukan karena pengagungan, sehingga bisa diarahkan kepada manusia yang disegani, sebagaimana tampak dalam bait yang dikutipnya. *Al-Mufradāt* tidak memuat entri untuk kata ini. (*Kashshāf*, s.v. *al-hayba*.)
+
+> Aku segan kepadamu karena memuliakan, padahal engkau tak punya kuasa
+> atasku; tetapi sang kekasih memenuhi mata pecintanya.
+
+Hal-hal ini terkadang tercela dengan memandang urusan-urusan dunia dan terpuji dengan memandang urusan-urusan akhirat. Allah Ta'ala berfirman: *"Sesungguhnya orang-orang yang beriman adalah mereka yang apabila disebut nama Allah gemetar hatinya"* (al-Anfal: 2), dan berfirman: *"dan takutlah kepada-Ku saja"* (al-Baqarah: 40), dan berfirman: *"Di antara hamba-hamba Allah yang takut kepada-Nya, hanyalah para ulama"* (Fatir: 28).
+
+Takut kepada Allah Ta'ala tidak menunjuk kepada rasa gentar yang terlintas di hati, seperti manusia merasakan gentar terhadap singa, tetapi menunjuk kepada apa yang dituntut oleh rasa takut, yaitu menahan diri dari maksiat. Karena itu dikatakan: "Tidak terhitung orang yang takut siapa yang tidak meninggalkan dosa-dosa." Allah Ta'ala berfirman: *"Sesungguhnya mereka hanyalah setan yang menakut-nakuti (kamu) dengan teman-teman setianya"* (Ali 'Imran: 175), yakni: janganlah kalian melakukan apa yang dituntut oleh rasa takut kepadanya, dan lakukanlah apa yang dituntut oleh rasa takut kepada-Ku.
+
+Jika ditanyakan: bagaimana orang mukmin dipuji dengan kesedihan dan rasa takut, padahal Allah Ta'ala berfirman, *"Ingatlah wali-wali Allah itu, tidak ada rasa takut pada mereka dan mereka tidak bersedih hati"* (Yunus: 62)? Dijawab: yang dipuji adalah tuntutan dari keduanya, yaitu menegakkan ibadah; sedang yang dinafikan dari mereka adalah takut dan sedih yang terdapat pada orang-orang jahat.
+
+## Mengobati Duka dan Menghilangkan Rasa Takut {.judul-bab}
+
+Sepatutnya manusia tahu bahwa dunia penuh musibah dan keruh minumannya; ia membuahkan setiap bencana bagi makhluk. Di dalamnya, bersama setiap suapan ada ganjalan di tenggorokan, dan bersama setiap tegukan ada tersedak.[^e73] Ia adalah musuh yang dicintai, sebagaimana kata Abu Nuwas:[^e74]
+
+[^e73]: CE: Untuk ucapan yang semakna, lihat *Nahj al-Balāgha*, no. 149.
+
+[^e74]: CE: *Dīwān Abī Nuwās*, hlm. 465.
+
+> Bila orang berakal menguji dunia, tersingkaplah
+> baginya seorang musuh dalam pakaian sahabat.
+
+Diriwayatkan pula dari al-Hasan, semoga Allah merahmatinya, bahwa ia berkata: "Perumpamaan kita dengan dunia tidak lain seperti kata Kuthayyir:
+
+> Berbuat buruklah kepada kami atau berbuat baiklah, engkau tak kami cela
+> dan tak kami benci, sekalipun engkau membenci."
+
+Tidak seorang pun di dunia kecuali dalam setiap keadaan ia menjadi sasaran bagi tiga anak panah: anak panah cobaan, anak panah musibah, dan anak panah kematian.
+
+> Bencana-bencana memanahnya dari segala penjuru;
+> suatu hari meleset darinya, dan suatu hari mengenainya.
+
+Seorang bijak berkata: "Sebab-sebab kesedihan adalah hilangnya yang dicintai atau luputnya yang dicari, dan tidak seorang pun selamat dari keduanya, karena ketetapan dan kekekalan tidak ada di alam kejadian dan kerusakan. Siapa yang ingin hidup kekal bersama keluarga dan orang-orang yang dicintainya, ia tidak berakal, karena ia ingin memiliki apa yang tidak dapat dimiliki dan mendapatkan apa yang tidak ada." Maka sepatutnya seseorang tidak mengosongkan kalbunya dari mengambil pelajaran dari apa yang ia lihat: diambilnya kembali titipan-titipan dunia dari pemiliknya dan turunnya bencana-bencananya kepada para penghuninya. Alangkah bagusnya ucapan Ibn al-Rumi:[^e75]
+
+[^e75]: CE: *Dīwān Ibn al-Rūmī*, 2/586.
+
+> Tidakkah engkau lihat musibah masa, sebelum terjadinya,
+> berhadapan muka bila engkau berpikir dalam kesendirian?
+> Mengapa engkau seperti orang yang dipanah dari tempat amannya
+> dengan anak panah yang datang tanpa diduga?
+> Jika engkau berkata, sesuatu yang tak disukai datang kepada kami tiba-tiba,
+> sesungguhnya tidak ada jiwa yang dikejutkan selama ia punya pikiran;
+> dan tidak ada jiwa yang dihukum dengan cobaan, padahal ia telah melihat
+> nasihat demi nasihat dari hari-hari.
+> Bila datang hal-hal yang serupanya telah terjadi
+> sejak dahulu, janganlah engkau anggap itu kejutan.
+
+Termasuk kewajibannya ialah menyedikitkan kepemilikan atas apa yang mewariskan kesedihan. Seorang bijak ditanya: "Kami lihat engkau tidak pernah berduka." Ia menjawab: "Karena aku tidak memiliki sesuatu yang kehilangannya akan membuatku berduka." Seorang penyair mengambil makna ini lalu berkata:
+
+> Siapa yang ingin tidak melihat apa yang menyusahkannya,
+> janganlah ia memiliki sesuatu yang kehilangannya ia pedulikan.
+
+Seorang bijak ditanya: "Mungkinkah manusia hidup dengan aman?" Ia menjawab: "Ya, bila ia menjaga diri dari kesalahan, merasa cukup dengan hartanya, dan tidak bersedih atas apa yang pasti menimpanya."
+
+Ketahuilah, keluh kesah atas apa yang telah luput tidak akan menyatukan yang terserak dan tidak akan menjalin kembali yang terurai, sebagaimana dikatakan: "Adakah keluh kesah berguna bagiku sehingga aku berkeluh kesah?"
+
+Adapun duka atas masa depan, ia tidak lepas dari tiga kemungkinan: tentang sesuatu yang mustahil terjadi, atau yang pasti terjadi, atau yang mungkin terjadi. Jika tentang sesuatu yang mustahil terjadi, itu bukan urusan orang berakal. Jika tentang sesuatu yang pasti terjadi, seperti kematian yang telah ditetapkan atas leher para hamba, maka begitulah adanya. Jika tentang sesuatu yang mungkin terjadi, maka bila ia termasuk kemungkinan yang tidak ada jalan untuk menolaknya, seperti kemungkinan menjadi tua renta, bersedih karenanya adalah kebodohan dan mengundang duka di atas duka. Bila ia termasuk kemungkinan yang dapat ditolak, jalan yang benar ialah berupaya menolaknya dengan perbuatan yang tidak dicampuri kesedihan; jika tertolak, itulah yang diharapkan; jika tidak, ia menyambutnya dengan sabar yang indah. Hendaklah ia meresapi makna firman Allah Ta'ala: *"Setiap bencana yang menimpa di bumi dan yang menimpa dirimu sendiri, semuanya telah tertulis dalam Kitab (Lauh Mahfuzh) sebelum Kami mewujudkannya. Sungguh, yang demikian itu mudah bagi Allah"* (al-Hadid: 22), kemudian firman-Nya: *"Agar kamu tidak bersedih hati terhadap apa yang luput dari kamu, dan jangan pula terlalu gembira terhadap apa yang diberikan-Nya kepadamu"* (al-Hadid: 23). Siapa yang tahu bahwa apa yang telah berlaku dari ketetapan-Nya dan telah didahului oleh ilmu-Nya tidak mungkin tidak terjadi, ringanlah baginya bencana-bencana dan ia tidak berkeluh kesah ketika musibah turun.
+
+Ketahuilah, yang memperdaya manusia adalah baik sangka mereka bahwa bencana-bencana akan menyingkir, dan tertipunya mereka keadaan demi keadaan oleh jernihnya waktu. Seandainya mereka merenungkannya dengan mata batin, niscaya mereka pastikan bahwa keadaannya seperti ucapan Amirul Mukminin Ali ibn Abi Talib, semoga Allah memuliakan wajahnya: "Tidaklah orang-orang berkata kepada suatu kaum 'Beruntunglah kalian!' kecuali masa telah menyembunyikan bagi mereka hari kesengsaraan."[^e76] Sebagaimana dikatakan:
+
+[^e76]: CE: Ucapan ini terdapat dalam *Nahj al-Balāgha* dengan lafaz yang sedikit berbeda.
+
+> Sungguh, malam-malam tak pernah berbuat baik kepada seseorang
+> kecuali setelah itu berbuat buruk kepadanya.
+
+Adapun sebab berduka karena kematian tidak lepas dari empat kemungkinan: karena luputnya syahwat perut dan kemaluannya, atau karena harta yang akan ia tinggalkan, atau karena ketidaktahuannya tentang tempat kembalinya, atau karena takut akan kemaksiatan yang telah ia lakukan.
+
+Jika karena syahwat perut dan kemaluannya, hendaklah ia tahu bahwa itu seperti orang yang menginginkan suatu penyakit agar dapat melawannya dengan penyakit yang serupa. Manusia tidak menikmati makanan sampai ia lapar; lapar adalah penyakit yang dihindari, dan kenyang adalah penyakit yang dikejar. Perumpamaan orang yang menyukai lapar agar setelahnya makan terasa nikmat seperti orang yang menikmati duduk di bawah terik matahari agar kepanasan, lalu menikmati duduk di tempat teduh. Menyukai hal semacam itu adalah kebodohan yang tak terbatas dan tak terhitung.
+
+Jika dukanya karena harta yang akan ia tinggalkan, itu karena ketidaktahuannya akan hinanya bagian-bagian dunia dan bahwa ia adalah tambang setiap bencana, serta sedikitnya pengetahuannya tentang berharganya kepemilikan-kepemilikan hakiki yang dijanjikan kepada orang-orang bertakwa.
+
+Jika dukanya karena ketidaktahuannya tentang keadaan dan tempat kembalinya di sisi Tuhannya, obatnya adalah ilmu dan pengenalan hakiki yang memperlihatkan kepadanya keadaan manusia setelah mati, sebagaimana Haritha berkata kepada Nabi, semoga Allah melimpahkan selawat dan salam kepadanya: *"Seakan-akan aku melihat 'Arsy Tuhanku tampak nyata, seakan-akan aku melihat penghuni surga saling berkunjung di dalamnya, dan penghuni neraka saling melolong di dalamnya."*
+
+Jika dukanya karena takut akan kemaksiatan yang telah ia lakukan, obatnya adalah bersegera bertobat. Cukuplah baginya, bila ia memiliki mata batin, jalan yang Allah bukakan baginya untuk memperbaiki kelalaiannya dan janji yang Allah berikan kepada orang-orang yang bertobat kepada-Nya.
