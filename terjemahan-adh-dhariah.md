@@ -14,9 +14,9 @@
 | Butir | Keterangan |
 |---|---|
 | Tahap | Penerjemahan berjalan |
-| Sudah diterjemahkan | Pasal Pertama; Pasal Kedua |
-| Posisi berikutnya | Pasal Ketiga, awal (Arab dh2 baris 1580) |
-| Nomor catatan terakhir | CE: e61 · CY: y55 · CP: p2 |
+| Sudah diterjemahkan | Pasal Pertama; Pasal Kedua; Pasal Ketiga (sebagian) |
+| Posisi berikutnya | Pasal Ketiga, bahasan menyimpan rahasia (Arab dh2 baris 1640) |
+| Nomor catatan terakhir | CE: e64 · CY: y55 · CP: p4 |
 | Catatan *Mufradāt* dan *Kashshāf* | lihat 3.13 |
 
 ---
@@ -2224,3 +2224,122 @@ Sepatutnya orang berakal, bila terpaksa bersumpah, menempuh jalan sindiran dan b
 > ada petunjuk bahwa engkau diragukan dalam menepati janji.
 
 Seorang bijak berkata: "Sumpah yang diobral oleh orang yang gemar bersumpah menunjukkan kedustaan mereka, sebab itu terjadi karena sedikitnya orang bersandar pada ucapan mereka." Sebagaimana Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, membolehkan dusta ketika terpaksa, beliau juga membolehkan melanggar sumpah. Beliau bersabda: *"Siapa yang bersumpah atas sesuatu lalu melihat yang lain lebih baik darinya, hendaklah ia melakukan yang lebih baik itu dan membayar kafarat sumpahnya."*
+
+# Pasal Ketiga {.kitab-ke}
+
+# Hal-Hal yang Berkaitan dengan Daya Syahwat {.judul-kitab}
+
+## Rasa Malu {.judul-bab}
+
+Rasa malu ialah mengerutnya jiwa dari hal-hal yang buruk.[^m-haya][^k-haya] Ia termasuk kekhasan manusia dan merupakan tanda pertama yang tampak dari daya pemahaman pada anak-anak. Allah Ta'ala menanamkannya dalam diri manusia agar dengannya ia tercegah dari keburukan-keburukan yang ditarik oleh syahwat, sehingga ia tidak menjadi seperti binatang.
+
+[^m-haya]: **Rasa malu** (*ḥayāʾ*). Dalam *al-Mufradāt*, al-Rāghib memberi definisi yang sama: mengerutnya jiwa dari hal-hal buruk dan meninggalkannya. Ia lalu menjelaskan bahwa bila rasa malu disandarkan kepada Allah, seperti dalam riwayat *"Sesungguhnya Allah malu menyiksa orang beruban yang muslim"*, yang dimaksud bukan mengerutnya jiwa, sebab Allah Maha Suci dari sifat itu, melainkan meninggalkan penyiksaannya. Demikian pula riwayat "Sesungguhnya Allah Maha Pemalu" berarti Dia meninggalkan keburukan dan melakukan kebaikan. Penjelasan ini persis sama dengan pembedaan dua makna rasa malu yang dibuat al-Rāghib dalam bahasan ini. (*al-Mufradāt*, s.v. *ḥ-y-y*.)
+
+[^k-haya]: **Rasa malu** (*ḥayāʾ*; Ing. *decency*). *Kashshāf*, mengutip al-Zamakhsharī: keadaan remuk dan berubah yang menimpa manusia karena khawatir akan sesuatu yang membuatnya dicela atau dinista. Secara syariat: perangai yang mendorong untuk meninggalkan keburukan. Menurut al-Jurjānī: mengerutnya jiwa dari sesuatu dan meninggalkannya karena menjaga diri dari celaan. Rasa malu ada dua macam: rasa malu nafsani, yang diciptakan Allah pada semua jiwa, seperti malu membuka aurat dan bersetubuh di depan orang banyak; dan rasa malu imani, yaitu orang mukmin menahan diri dari maksiat karena takut kepada Allah. (*Kashshāf*, s.v. *al-ḥayāʾ*.)
+
+Rasa malu tersusun dari kepengecutan dan kesucian diri.[^p3] Karena itu orang yang pemalu tidak akan menjadi fasik dan orang fasik tidak akan menjadi pemalu, sebab kesucian diri dan kefasikan tidak mungkin berkumpul. Jarang pula orang pemberani menjadi pemalu dan orang pemalu menjadi pemberani, sebab kepengecutan dan keberanian tidak mungkin berkumpul. Karena langkanya perpaduan itu, para penyair menghimpun pujian atas keberanian dan pujian atas rasa malu, seperti ucapan penyair:
+
+[^p3]: CP: Rumusan ini penting untuk memetakan disposisi rasa malu. Rasa malu bukan keutamaan tunggal dari satu daya, melainkan senyawa: unsur penahannya dari keburukan berasal dari kesucian diri (*ʿiffa*), keutamaan daya syahwat; unsur mengkerutnya jiwa berasal dari kepengecutan (*jubn*), yakni kekurangan pada daya amarah. Karena itu al-Rāghib meletakkannya di awal Pasal Ketiga (daya syahwat), sebab fungsinya adalah mengekang tarikan syahwat, sementara ia sekaligus menjelaskan mengapa rasa malu terpuji pada anak-anak tetapi kurang pantas pada orang tua dan orang utama: unsur kepengecutannya harus luruh seiring matangnya akal, sehingga yang tersisa hanya unsur "meninggalkan keburukan". Kombinasi yang langka antara rasa malu dan keberanian itulah yang dirayakan para penyair.
+
+> Rasa malu yang segar mengalir dari raut wajah mereka,
+> pada saat darah mengalir dari telapak tangan mereka.
+
+Penyair lain berkata:
+
+> Seorang mulia yang menundukkan pandangan karena limpahan rasa malunya,
+> namun ia maju mendekat ketika ujung-ujung tombak telah dekat.
+
+Bila yang dimaksud dengan rasa malu adalah mengerutnya jiwa, ia terpuji bagi anak-anak, bukan bagi orang-orang tua. Bila yang dimaksud adalah meninggalkan keburukan, ia terpuji bagi setiap orang. Dengan pengertian pertama dikatakan: "Rasa malu pada orang-orang utama adalah buruk." Dari sisi ini pula dikatakan: *khaziya yakhzā khizyan* untuk kehinaan, dan *khaziya khazāyatan* untuk rasa malu; keduanya dijadikan berasal dari satu sumber.[^m-khizy] Dengan pengertian kedua dikatakan: *"Sesungguhnya Allah malu terhadap orang yang beruban dalam Islam untuk menyiksanya"*, yakni Dia meninggalkan penyiksaannya.
+
+[^m-khizy]: **Kehinaan dan rasa malu yang berlebihan** (*khizy*, *khazāya*). Dalam *al-Mufradāt*: *khaziya al-rajul* berarti seseorang tertimpa keremukan, entah dari dirinya sendiri, entah dari orang lain. Yang datang dari dirinya sendiri ialah rasa malu yang berlebihan, masdarnya *khazāya*; orangnya disebut *khazyān*, dan dalam hadis: *"Ya Allah, bangkitkanlah kami tanpa rasa malu (khazāyā) dan tanpa penyesalan."* Yang datang dari orang lain adalah semacam penghinaan, masdarnya *khizy*, seperti dalam *"Yang demikian itu kehinaan bagi mereka di dunia"* (al-Ma'idah: 33). Inilah dasar pernyataan al-Rāghib bahwa kehinaan dan rasa malu "berasal dari satu sumber": keduanya adalah keremukan jiwa, hanya berbeda asalnya. (*al-Mufradāt*, s.v. *kh-z-y*.)
+
+Adapun *al-khajal* (rasa canggung) ialah kebingungan jiwa karena rasa malu yang berlebihan. Ia terpuji pada perempuan dan anak-anak, dan tercela pada laki-laki menurut kesepakatan.
+
+*Al-waqāḥa* (tidak tahu malu) tercela dalam setiap bahasa, sebab ia adalah terlepasnya diri dari kemanusiaan. Hakikatnya ialah keras kepalanya jiwa dalam melakukan keburukan. Kata ini berasal dari ungkapan *ḥāfir waqāḥ*, yakni kuku kaki kuda yang keras. Karena kesesuaian makna inilah penyair berkata:
+
+> Andai aku punya sepotong kulit wajahmu,
+> akan kupotong darinya sepatu kuku bagi kuda kelabuku.
+
+Betapa benar ucapan penyair:
+
+> Kerasnya muka tak pernah menguasai seseorang,
+> kecuali keburukan menjadi sempurna dan terhimpun padanya.
+
+Adapun cara mengobati dan meraih rasa malu, sepatutnya manusia, bila berniat melakukan keburukan, membayangkan orang yang paling agung dalam dirinya seakan-akan ia melihatnya. Manusia malu kepada orang yang besar dalam pandangannya. Karena itu ia tidak malu kepada binatang, tidak kepada anak kecil, dan tidak kepada orang-orang yang belum dapat membedakan. Ia lebih malu kepada orang alim daripada kepada orang bodoh, dan lebih malu kepada orang banyak daripada kepada satu orang.
+
+Mereka yang kepadanya manusia merasa malu ada tiga: manusia lain, dan merekalah yang paling banyak membuat orang malu; kemudian dirinya sendiri; kemudian Allah Azza wa Jalla. Siapa yang malu kepada manusia tetapi tidak malu kepada dirinya sendiri, maka dirinya lebih hina dalam pandangannya daripada orang lain. Siapa yang malu kepada keduanya tetapi tidak malu kepada Allah, itu karena ia tidak mengenal Allah Azza wa Jalla. Sebab manusia malu kepada orang yang ia agungkan dan yang ia tahu melihatnya atau mendengar bisikannya lalu akan menegurnya. Orang yang tidak mengenal Allah, bagaimana mungkin ia mengagungkan-Nya, dan bagaimana mungkin ia tahu bahwa Allah mengawasinya?
+
+Sabda Nabi, semoga Allah melimpahkan selawat dan salam kepadanya: *"Malulah kalian kepada Allah dengan sebenar-benar rasa malu"* mengandung dorongan untuk mengenal-Nya. Allah Ta'ala berfirman: *"Tidakkah dia mengetahui bahwa sesungguhnya Allah melihat (segala perbuatannya)?"* (al-'Alaq: 14), sebagai peringatan bahwa hamba, bila tahu Allah melihatnya, akan malu berbuat dosa. Al-Junayd, semoga Allah merahmatinya,[^e62] pernah ditanya dari mana lahirnya rasa malu kepada Allah Ta'ala. Ia menjawab: "Dari penglihatan hamba terhadap nikmat-nikmat Allah atas dirinya dan penglihatannya terhadap kelalaiannya dalam mensyukurinya."
+
+[^e62]: CE: Abū al-Qāsim al-Junayd ibn Muḥammad al-Baghdādī, salah seorang zahid abad ketiga Hijriah, dihormati pula oleh para fukaha sezamannya. Ia dijuluki imam kaum sufi karena mendasarkan jalannya pada Al-Qur'an dan sunah. Menurut pendapat yang dikuatkan, ia wafat tahun 298 H. Ibn al-Jawzī menulis biografinya dalam *Ṣifat al-Ṣafwa*.
+
+Jika ditanyakan: bagaimana Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, bersabda: *"Siapa yang tidak punya rasa malu, ia tidak punya iman"*? Dijawab: rasa malu adalah tanda akal yang pertama tampak pada manusia, sedang iman adalah tingkatan akal yang terakhir. Mustahil tingkatan terakhir akal tercapai oleh orang yang belum mencapai tingkatan pertama. Maka niscaya, siapa yang tidak punya rasa malu, ia tidak punya iman. Beliau juga bersabda: *"Rasa malu adalah salah satu cabang iman,"* dan bersabda: *"Iman itu telanjang; pakaiannya adalah takwa dan perhiasannya adalah rasa malu."*
+
+## Kebesaran Cita-Cita {.judul-bab}
+
+Kebesaran cita-cita (*kibar al-himma*) khusus dimiliki manusia.[^m-himma][^k-himma] Adapun binatang, setiap jenisnya mengupayakan perbuatan sesuai kadar yang ada dalam tabiatnya. Kebesaran cita-cita berada di tengah antara *tafannuj* (kecongkakan) dan kekerdilan cita-cita. *Tafannuj* ialah manusia memandang dirinya layak bagi apa yang tidak pantas ia dapatkan, dan itulah *badhakh* (keangkuhan). Kekerdilan cita-cita ialah ia meninggalkan apa yang pantas ia dapatkan, dan itulah *danāʾa* (kerendahan jiwa). Keduanya tercela; hanya saja orang yang congkak adalah bodoh lagi dungu, sedang orang yang kerdil cita-citanya bodoh tetapi tidak dungu.[^p4] Pada hakikatnya kebesaran cita-cita tidak memiliki sisi berlebihan yang tercela. Yang berlebihan hanyalah masuk ke dalam setiap perbuatan yang oleh sebagian orang dibayangkan sebagai wujud tingginya cita-cita, padahal bukan.
+
+[^m-himma]: **Cita-cita** (*himma*). *Al-Mufradāt* tidak memuat *himma* sebagai entri tersendiri, tetapi di bawah akar *h-m-m* ia menjelaskan: *al-hamm* adalah kesedihan yang meluluhkan manusia, dari ungkapan "aku melelehkan lemak lalu ia meleleh"; dan *al-hamm* juga berarti apa yang engkau niatkan dalam dirimu, dan inilah makna asalnya. Contohnya *"ketika suatu kaum bermaksud (hamma) menggerakkan tangannya"* (al-Ma'idah: 11) dan *"Dan sungguh, perempuan itu telah berkehendak kepadanya (Yusuf)"* (Yusuf: 24). Jadi *himma* adalah tekad jiwa yang terarah kepada sesuatu; besar kecilnya ditentukan oleh nilai sasaran yang dituju. (*al-Mufradāt*, s.v. *h-m-m*.)
+
+[^k-himma]: **Cita-cita** (*himma*; Ing. *intention, determination, energy*). *Kashshāf*: secara bahasa, niat kepada adanya atau tidak adanya sesuatu, entah yang mulia entah yang hina; dalam pemakaian umum dikhususkan untuk meraih kedudukan-kedudukan tinggi. Terkadang juga dipakai untuk keadaan jiwa yang menuntut niat atau perolehan itu. Dikutip dari penulis *al-Insān al-Kāmil*: *himma* adalah hal paling berharga yang Allah letakkan dalam diri manusia; lurusnya ditandai dua hal, yaitu keyakinan pasti akan tercapainya tujuan, dan seluruh gerak dan diamnya sebelum itu sesuai dengan tujuan tersebut; bila tidak demikian, ia bukan pemilik *himma* melainkan pemilik angan-angan palsu. Ditambahkan bahwa *himma* pada dasarnya tinggi dan tidak menyentuh hal-hal rendah, berbeda dari *hamm*, yakni arah kalbu kepada tempat mana saja, jauh maupun dekat. (*Kashshāf*, s.v. *al-himma*.)
+
+[^p4]: CP: Skema jalan tengah di sini: kebesaran cita-cita (*kibar al-himma*) adalah tengah; kelebihannya adalah *tafannuj* atau *badhakh* (merasa layak atas yang bukan haknya), kekurangannya adalah kekerdilan cita-cita (*ṣighar al-himma*) atau *danāʾa* (meninggalkan yang menjadi haknya). Beda "bodoh lagi dungu" dan "bodoh tetapi tidak dungu" mengikuti pembedaan *jahl* dan *ḥumq* dalam Pasal Kedua: orang dungu (*aḥmaq*) salah menilai sekaligus salah bertindak, sedang orang bodoh sekadar tidak tahu nilai dirinya. Al-Rāghib juga menegaskan bahwa kebesaran cita-cita, seperti hikmah, sejatinya tidak punya ekstrem kelebihan: apa yang tampak sebagai "berlebihan" hanyalah tiruan palsu dari cita-cita tinggi.
+
+Ketahuilah, terkadang dikatakan "si fulan besar cita-citanya dan si fulan kecil cita-citanya" bila yang satu mencari perolehan yang lebih banyak atau lebih mulia daripada yang dicari yang lain. Orang yang besar cita-citanya secara mutlak ialah orang yang, sebatas kemampuannya, tidak rela dengan cita-cita kebinatangan, sehingga ia tidak menjadi budak bagi perut dan kemaluannya yang hanya pinjaman. Sebaliknya, ia bersungguh-sungguh untuk mengkhususkan diri dengan kemuliaan-kemuliaan syariat, sehingga ia menjadi salah seorang khalifah dan wali Allah di dunia dan menjadi tetangga-Nya di akhirat.
+
+Orang yang kerdil cita-citanya adalah kebalikan dari itu. Seorang Badui berkata: "Si fulan menjadi agung karena dunia kecil di matanya. Ia keluar dari kekuasaan perutnya, sehingga tidak menginginkan apa yang tidak ia dapatkan dan tidak berlebih-lebihan bila mendapatkannya; dan ia keluar dari kekuasaan kemaluannya, sehingga ia tidak meremehkan akal dan tubuhnya demi kemaluan itu." Sepatutnya manusia menghaluskan diri dari hal itu. Sebab, meskipun dari segi unsurnya ia adalah hewan, dari segi akal dan pikirannya ia adalah malaikat. Bila ia menyia-nyiakan dirinya, ia menjadi lebih buruk daripada binatang, dan itulah kerugian yang nyata. Dikatakan: "Siapa yang besar cita-citanya tidak akan rela dengan perolehan yang akan diambil kembali dan kehidupan yang hanya pinjaman. Jika engkau mampu memperoleh perolehan yang abadi dan kehidupan yang kekal, lakukanlah, sebab tidak ada artinya sesuatu yang fana."
+
+Orang yang besar cita-citanya secara mutlak ialah orang yang mengupayakan keutamaan-keutamaan bukan demi kedudukan, kekayaan, kelezatan, atau untuk merasakan kebanggaan dan berlagak tinggi di atas sesama makhluk. Sebaliknya, ia mengupayakan kemaslahatan hamba-hamba Allah sebagai wujud syukur atas nikmat Allah dan demi mengharap rida-Nya, tanpa peduli sedikitnya teman seperjalanan. Sebab bila yang dicari agung, penolongnya sedikit, dan jalan menuju ketinggian sepi orang.
+
+## Menepati Janji dan Pengkhianatan {.judul-bab}
+
+Menepati janji (*wafāʾ*) adalah saudara kejujuran dan keadilan, sedang pengkhianatan (*ghadr*) adalah saudara dusta dan kesewenang-wenangan. Sebab menepati janji adalah kejujuran lisan dan perbuatan sekaligus, sedang pengkhianatan adalah dusta pada keduanya, karena di dalamnya, selain dusta, ada pembatalan janji.[^m-wafa][^k-wafa][^m-ghadr]
+
+[^m-wafa]: **Menepati janji** (*wafāʾ*). Dalam *al-Mufradāt*: *al-wāfī* ialah yang telah mencapai kesempurnaan, seperti dirham yang *wāfī* dan takaran yang *wāfī*. *Wafā bi-ʿahdihi* dan *awfā* berarti menyempurnakan janji dan tidak membatalkan pemeliharaannya. Kebalikannya, *ghadr*, secara derivatif menunjuk pada "meninggalkan". Al-Qur'an memakai bentuk *awfā* (al-Baqarah: 40; an-Nahl: 91; al-Baqarah: 177). Tentang Ibrahim *"yang menyempurnakan janji"* (an-Najm: 37), al-Rāghib menjelaskan bahwa ia mencurahkan segenap daya dalam semua yang dituntut darinya. Jadi *wafāʾ* adalah janji yang dibawa sampai sempurna. (*al-Mufradāt*, s.v. *w-f-y*.)
+
+[^k-wafa]: **Menepati janji** (*wafāʾ*; Ing. *faithfulness, loyalty, fulfilment*). *Kashshāf*: secara bahasa, memelihara kasih sayang dan janji. Menurut kaum sufi, ia adalah pelaksanaan janji yang telah diikrarkan pada hari *mīthāq* (janji "Bukankah Aku ini Tuhanmu?"); orang yang berjanji menepatinya dengan iman dan ketaatan agar sampai ke surga dan selamat dari neraka. (*Kashshāf*, s.v. *al-wafāʾ*.)
+
+[^m-ghadr]: **Pengkhianatan** (*ghadr*). Dalam *al-Mufradāt*: merusak sesuatu dan meninggalkannya; *ghadr* dipakai untuk meninggalkan janji, sehingga pelakunya disebut *ghādir*, dan yang banyak berkhianat disebut *ghaddār*. Dari akar yang sama, *ghadīr* ialah genangan air yang ditinggalkan banjir di suatu cekungan. Maknanya berpusat pada "meninggalkan": pengkhianat meninggalkan janji di belakangnya sebagaimana banjir meninggalkan genangan. Istilah ini tidak memiliki entri tersendiri dalam *Kashshāf*. (*al-Mufradāt*, s.v. *gh-d-r*.)
+
+Menepati janji khusus dimiliki manusia. Siapa yang kehilangannya, ia telah terlepas dari kemanusiaan, sebagaimana halnya kejujuran. Allah Ta'ala telah menjadikan janji bagian dari iman dan menjadikannya penopang urusan manusia. Manusia terpaksa saling bekerja sama, dan kerja sama mereka tidak akan sempurna kecuali dengan memelihara janji dan menepatinya. Seandainya bukan karena itu, kalbu-kalbu akan saling menjauh dan kehidupan bersama akan lenyap. Karena itu Allah Ta'ala membesarkan perkaranya. Dia berfirman: *"dan penuhilah janjimu kepada-Ku, niscaya Aku penuhi janji-Ku kepadamu, dan takutlah kepada-Ku saja"* (al-Baqarah: 40). Dia juga berfirman: *"Dan tepatilah janji dengan Allah apabila kamu berjanji"* (an-Nahl: 91). Tentang firman-Nya *"dan bersihkanlah pakaianmu"* (al-Muddaththir: 4) dikatakan: sucikanlah dirimu dari pengkhianatan. Allah Ta'ala berfirman: *"dan orang-orang yang menepati janji apabila berjanji"* (al-Baqarah: 177), dan berfirman: *"Dan (sungguh beruntung) orang yang memelihara amanat-amanat dan janjinya"* (al-Mu'minun: 8).
+
+Keadaan al-Samaw'al menjadi agung karena kesetiaannya menepati apa yang telah ia sanggupi terkait baju-baju besi Imru' al-Qays. Karena langkanya sifat ini pada manusia, Allah Ta'ala berfirman: *"Dan Kami tidak mendapati kebanyakan mereka memenuhi janji"* (al-A'raf: 102). Ia pun dijadikan perumpamaan tentang sesuatu yang langka, sehingga dikatakan: "Ia lebih langka daripada kesetiaan." Penyair berkata:
+
+> Manusia enggan kecuali berbuat tercela
+> bila diuji, dan berdusta dengan buruknya.
+
+## Musyawarah {.judul-bab}
+
+Kata *mushāwara* berasal dari ungkapan *shurtu al-dābba*, yakni aku menguji tunggangan untuk mengeluarkan kecepatan larinya. Musyawarah ialah seseorang menggali pendapat dari orang lain tentang perkara-perkara pelik yang dihadapinya.[^m-shura] Ia berlaku dalam perkara-perkara partikular yang membuat seseorang bimbang antara melakukan dan meninggalkannya. Sebaik-baik bekal adalah musyawarah. Amirul Mukminin Ali ibn Abi Talib, semoga Allah memuliakan wajahnya, berkata: "Musyawarah adalah benteng dari penyesalan dan rasa aman dari celaan."[^e63] Dikatakan: "Orang dungu ialah orang yang terputus dari meminta pertimbangan karena ujubnya dan terputus dari istikharah karena kesewenang-wenangannya." Satu pendapat bagaikan seutas benang tunggal, dua pendapat bagaikan dua utas benang terpilin, dan tiga pendapat adalah tali tambang yang tidak terurai. Cukuplah sebagai pujian terhadap musyawarah firman Allah kepada Nabi-Nya, semoga Allah melimpahkan selawat dan salam kepadanya: *"dan bermusyawarahlah dengan mereka dalam urusan itu"* (Ali 'Imran: 159). Para bijak memandang bagus ucapan Bashshar:[^e64]
+
+[^m-shura]: **Musyawarah** (*mushāwara*, *shūrā*). Dalam *al-Mufradāt*: *tashāwur*, *mushāwara*, dan *mashūra* ialah mengeluarkan pendapat dengan saling merujuk satu sama lain, dari ungkapan *shurtu al-ʿasal*, "aku mengambil madu dari tempatnya". Al-Rāghib juga menyebut ungkapan *shurtu al-dābba*, "aku mengeluarkan kecepatan lari tunggangan" dengan mengujinya. Dua derivasi ini (madu dan tunggangan) sama-sama bermakna mengeluarkan sesuatu yang tersembunyi: pendapat terbaik tersimpan dalam benak orang lain dan harus "dipanen" dengan bertanya. Istilah ini tidak memiliki entri tersendiri dalam *Kashshāf*. (*al-Mufradāt*, s.v. *sh-w-r*.)
+
+[^e63]: CE: Makna serupa, dengan sedikit perbedaan lafaz, terdapat dalam *Nahj al-Balāgha*, no. 389.
+
+[^e64]: CE: *Dīwān Bashshār*, 4/172.
+
+> Bila urusan telah sampai pada perlunya musyawarah, mintalah bantuan
+> pendapat seorang penasihat atau pertimbangan seorang yang teguh.
+> Jangan jadikan musyawarah sebagai aib bagimu,
+> sebab bulu-bulu sayap yang tersembunyi adalah kekuatan bagi bulu-bulu terdepan.
+
+Akan tetapi, menilai siapa yang boleh diandalkan untuk dimintai pertimbangan sangatlah sulit. Ia harus seorang sahabat yang tepercaya, berpengalaman, teguh, tulus menasihati, tenang hatinya, tidak ujub terhadap dirinya, tidak berubah-ubah pendapatnya, dan tidak berdusta dalam ucapannya, sebab siapa yang lisannya dusta, dusta pula pendapatnya. Ia juga harus lapang pikirannya pada saat dimintai pertimbangan. Bagus sekali ucapan Bashshar:
+
+> Tidak setiap orang berakal akan memberimu nasihatnya,
+> dan tidak setiap yang memberi nasihat adalah orang berakal.
+> Tetapi bila keduanya terhimpun pada satu orang,
+> maka ia berhak mendapat bagian ketaatan.
+
+## Ketulusan Menasihati {.judul-bab}
+
+Kata *nuṣḥ* berasal dari ungkapan *naṣaḥtu al-thawb*, yakni aku menjahit pakaian. Ketulusan menasihati ialah memurnikan cinta kepada orang lain dalam menampakkan apa yang menjadi kemaslahatannya.[^m-nush][^k-nush] Ia berada di bawah cinta yang khusus berdasarkan keutamaan, dan di bawah cinta karena manfaat dan kelezatan. Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, membesarkan perkaranya dengan bersabda: *"Agama adalah nasihat."* Beliau ditanya: "Untuk siapa, wahai Rasulullah?" Beliau menjawab: *"Untuk Allah, Rasul-Nya, para pemimpin kaum muslimin, dan kaum muslimin pada umumnya."* Dengan demikian beliau menjelaskan bahwa ketulusan menasihati wajib terhadap semua manusia, yaitu dengan engkau mengupayakan kemaslahatan mereka dalam segala urusan mereka sebatas kemampuanmu.
+
+[^m-nush]: **Ketulusan menasihati** (*nuṣḥ*). Dalam *al-Mufradāt*: mengupayakan perbuatan atau ucapan yang mengandung kemaslahatan bagi orang yang dinasihati, seperti ucapan para nabi *"dan aku telah menasihati kamu"* (al-A'raf: 79). Al-Rāghib menyebut dua kemungkinan asal kata: dari *naṣaḥtu lahu al-wudd*, "aku memurnikan kasih sayang untuknya" (*nāṣiḥ al-ʿasal* ialah madu murni), atau dari *naṣaḥtu al-jild*, "aku menjahit kulit" (*nāṣiḥ* ialah penjahit, *niṣāḥ* ialah benang). Karena itu *"tobat yang semurni-murninya (naṣūḥ)"* (at-Tahrim: 8) bisa berarti tobat yang tulus, bisa pula tobat yang kokoh jahitannya. Dalam *al-Dharīʿa* ia memilih asal "menjahit", tetapi definisinya ("memurnikan cinta") memadukan kedua asal itu. (*al-Mufradāt*, s.v. *n-ṣ-ḥ*.)
+
+[^k-nush]: **Ketulusan menasihati** (*naṣīḥa*, *nuṣḥ*; Ing. *advice, devotedness, sincerity*). *Kashshāf*: secara bahasa berarti memurnikan dan menjernihkan, dari *naṣaḥtu lahu al-qawl wa al-ʿamal* ("aku memurnikan ucapan dan perbuatan untuknya") dan *naṣaḥtu al-ʿasal* ("aku menjernihkan madu"). Secara syariat: memurnikan pendapat dari tipu daya demi orang yang dinasihati dan mengutamakan kemaslahatannya; ia juga disebut agama dan Islam, sesuai hadis *"Agama adalah nasihat."* (*Kashshāf*, s.v. *al-naṣīḥa*.)
+
+Awal ketulusan menasihati ialah manusia menasihati dirinya sendiri; siapa yang menipu dirinya sendiri, jarang ia tulus menasihati orang lain. Sepatutnya orang yang dimintai nasihat mencurahkan nasihat sepenuhnya, meskipun dalam hal yang merugikan dirinya, dan memperhatikan firman Allah Ta'ala: *"Wahai orang-orang yang beriman! Jadilah kamu penegak keadilan, menjadi saksi karena Allah, walaupun terhadap dirimu sendiri"* (an-Nisa': 135). Dia juga berfirman: *"Apabila kamu berbicara, bicaralah sejujurnya, sekalipun dia kerabat(mu)"* (al-An'am: 152). Ibn 'Abbas, semoga Allah meridainya, berkata: "Seseorang akan terus bertambah benar pendapatnya selama ia tulus menasihati orang yang meminta pertimbangannya. Bila ia menipunya, Allah mencabut ketulusan dan pendapatnya."
+
+Janganlah sekali-kali menoleh kepada orang yang berkata: "Bila engkau menasihati seseorang lalu ia tidak menerimanya darimu, mendekatlah kepada Allah dengan menipunya." Itu adalah ucapan yang dilontarkan setan melalui lisannya, kecuali bila yang ia maksud dengan "menipunya" adalah mendiamkannya, sebab dikatakan: "Banyaknya nasihat mewariskan kecurigaan."
+
+Membedakan penasihat yang tulus dari penipu yang berpura-pura menasihati sangatlah sulit. Manusia yang tidak suka kepadamu sulit diketahui isi hatinya, sebab ia terkadang menampakkan kebalikan dari apa yang ia sembunyikan. Ia tidak seperti binatang yang tabiatnya dapat diketahui.
