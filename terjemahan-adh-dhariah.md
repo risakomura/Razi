@@ -15,8 +15,8 @@
 |---|---|
 | Tahap | Penerjemahan berjalan |
 | Sudah diterjemahkan | Pasal Pertama; Pasal Kedua; Pasal Ketiga; Pasal Keempat; Pasal Kelima; Pasal Keenam (sebagian) |
-| Posisi berikutnya | Pasal Keenam, bahasan sesudah harta (Arab dh2 baris 2291) |
-| Nomor catatan terakhir | CE: e80 · CY: y55 · CP: p36 |
+| Posisi berikutnya | Pasal Keenam, lanjutan kisah putra raja (Arab dh2 baris 2391) |
+| Nomor catatan terakhir | CE: e81 · CY: y55 · CP: p40 |
 | Catatan *Mufradāt* dan *Kashshāf* | lihat 3.13 |
 
 ---
@@ -3444,3 +3444,150 @@ Ketahuilah, uang tunai, yaitu emas dan perak, adalah batu yang dijadikan Allah S
 Menurut pendapatku, Ibrahim, semoga Allah melimpahkan selawat dan salam kepadanya, ketika memohon kepada Allah Ta'ala dengan berkata *"dan jauhkanlah aku beserta anak cucuku agar tidak menyembah berhala"* (Ibrahim: 35), tidak bermaksud selain agar Allah menjauhkan dia dan keturunannya dari cinta kepada bagian-bagian dunia yang memalingkan dari Allah. Sebab orang seperti dia dan anak-anaknya terlalu suci untuk khawatir meyakini bahwa sebongkah batu yang dibuatnya sendiri berhak disembah.[^p36]
 
 [^p36]: CP: Tafsir "berhala" sebagai harta (emas dan perak) adalah contoh cara al-Rāghib membaca ayat secara etis-batin tanpa menolak makna lahirnya. Dasar argumennya ada dua: pertama, al-A'raf: 138 memakai kata *ʿakafa* (tekun) untuk penyembahan berhala, sama dengan ketekunan orang tamak atas hartanya; kedua, maqam kenabian Ibrahim mustahil dikhawatirkan menyembah patung dalam arti harfiah. Penafsiran ini sejalan dengan hadis *"celakalah hamba dinar"* yang dikutipnya, dan dengan tesis bahwa harta adalah "pelayan yang tidak dilayani"; menjadikannya tuan berarti membalik tatanan perolehan (*qunya*) jiwa, badan, dan luar.
+
+Di tempat lain Allah berfirman, sebagai isyarat kepada apa yang mencakup makna ini dan yang lainnya: *"Wahai ayahku! Mengapa engkau menyembah sesuatu yang tidak mendengar, tidak melihat, dan tidak dapat menolongmu sedikit pun?"* (Maryam: 42).
+
+Seorang bijak berkata: "Perumpamaan manusia dan kegandrungannya kepada batu ini, bahkan kepada seluruh bagian-bagian dunia, seperti suatu kaum yang berada di sebuah kapal menuju negeri yang paling utama dan paling indah. Kapal itu singgah di sebuah pulau; mereka ingin turun ke sana untuk bersuci dan melepas penat. Pulau itu dihuni singa-singa dan ular-ular besar, maka mereka diperintahkan untuk turun dengan waspada. Ketika mereka turun, mereka melihat batu-batu berhias dan bunga-bunga indah beraneka rupa. Mereka kagum dan gandrung kepadanya, lalu masuk jauh ke dalam pulau, menjauh dari kapal, melupakan diri dan tujuan mereka, dan terus terlena oleh apa yang mereka lihat, hingga kapal berlayar. Lalu singa-singa dan ular-ular itu menyerbu mereka, menerkam dan mematuk mereka, dan tidak berguna bagi mereka batu-batu dan bunga-bunga yang telah menipu dan melalaikan mereka." Maka mereka menjadi seperti yang diceritakan Allah Ta'ala tentang orang yang demikian keadaannya: *"Hartaku sama sekali tidak berguna bagiku. Kekuasaanku telah hilang dariku"* (al-Haqqah: 28-29).
+
+## Tentang Harta, Adab dalam Memperolehnya, dan Jalan-Jalan Perolehannya {.judul-bab}
+
+Telah dikemukakan bahwa harta termasuk kebaikan yang menengah, sebab sebagaimana ia bisa menjadi sebab kebaikan, ia pun bisa menjadi sebab keburukan. Akan tetapi, karena dalam kebanyakan keadaan ia mendatangkan kemuliaan bagi pemiliknya dan pengagungan bagi empunya, hingga benarlah ucapan penyair:
+
+> Manusia memusuhi setiap orang papa
+> yang kosong kedua tangannya, dan bersaudara dengan orang yang banyak hartanya,
+
+dikatakan: "Aku lihat pemilik harta disegani dan dimuliakan." Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, bersabda: *"Sebaik-baik harta yang baik adalah bagi orang yang saleh."* Dipandang tepat ucapan Talhah, semoga Allah meridainya, dalam doanya: "Ya Allah, berilah aku kemuliaan (*majd*) dan harta, karena kemuliaan tidak menjadi baik kecuali dengan harta, dan harta tidak menjadi baik kecuali dengan memelihara kemuliaan."[^m-majd] Al-Mutanabbi memandang dengan pandangan ini ketika berkata:
+
+[^m-majd]: **Kemuliaan** (*majd*). Dalam *al-Mufradāt*: *majd* ialah keluasan dalam kemurahan dan keagungan. Asalnya dari ungkapan *majadat al-ibil*, yakni unta-unta itu berada di padang rumput yang lebat dan luas, dan pepatah Arab "di setiap pohon ada api, dan *markh* serta *ʿafār* paling banyak apinya (*istamjada*)". Karena itu Allah disifati *al-Majīd*, yakni yang melimpahkan keluasan dalam kemurahan. Makna "keluasan" menjelaskan kaitan *majd* dengan harta dalam doa Talhah: kemuliaan menuntut kelapangan untuk memberi. Istilah ini tidak memiliki entri tersendiri dalam *Kashshāf*. (*al-Mufradāt*, s.v. *m-j-d*.)
+
+> Tidak ada kemuliaan di dunia bagi orang yang sedikit hartanya,
+> dan tidak ada harta di dunia bagi orang yang sedikit kemuliaannya.
+
+Seorang bijak berkata: "Carilah ilmu dan harta, niscaya engkau meraih kepemimpinan. Manusia ada yang khusus dan ada yang awam; kalangan khusus mengutamakanmu karena apa yang engkau kuasai dengan baik, dan kalangan awam karena apa yang engkau miliki."
+
+Memperoleh harta dari jalan-jalan yang semestinya sulit, sedang membaginya mudah, sebagaimana kata penyair:
+
+> Ia punya pendakian yang sulit dan turunan yang mudah.
+
+Siapa yang ingin memperolehnya dari jalannya, sulitlah baginya, sebab mata pencaharian yang mulia sedikit bagi orang merdeka yang adil; dan siapa yang rela memperolehnya dari mana saja yang kebetulan, mudahlah baginya.
+
+Orang utama enggan menimbun harta dan longgar dalam membelanjakannya. Ia tidak menginginkannya demi harta itu sendiri, melainkan untuk meraih pujian dengannya, dan harta tidak terkumpul padanya sebagai simpanan, tetapi sebagaimana kata penyair (al-Nadr ibn Ju'ayya):
+
+> Dirham yang dicetak tidak betah di kantong kami,
+> tetapi ia hanya lewat di sana sambil berlalu.
+> Sungguh, bila suatu hari dirham-dirham kami terkumpul,
+> ia berlomba-lomba menuju jalan-jalan kebaikan.
+
+Adapun orang yang tidak utama, ia longgar dalam menimbunnya dan kikir dalam membelanjakannya, dan mencarinya demi harta itu sendiri, bukan untuk menyimpan keutamaan dengannya.
+
+Harta diperoleh dari dua jalan.
+
+**Pertama**: karena sebab yang dinisbatkan kepada nasib semata dan keberuntungan murni, tanpa usaha dari pemiliknya, seperti orang yang mewarisi harta, menemukan harta terpendam, atau dianugerahi sesuatu oleh orang yang memberinya.[^k-bakht]
+
+**Kedua**: manusia mengusahakannya, seperti orang yang menekuni perdagangan atau keterampilan lalu menyimpan harta darinya. Jenis ini pun tidak lepas dari kebutuhan kepada nasib. Karena itu dikatakan:
+
+> Kewajibanku adalah berusaha, dan bukan
+> kewajibanku meraih keberhasilan.
+
+[^k-bakht]: **Nasib** (*jadd*, *bakht*). *Kashshāf*: *bakht* adalah *jadd* (nasib, keberuntungan); dan *tabkhīt* dalam istilah ahli kalam dan sebagian fukaha Syafi'i (misalnya salat menghadap arah yang dipilih tanpa ijtihad ketika kiblat samar) berarti keyakinan yang terjadi secara spontan tanpa penalaran. Al-Rāghib memakai *jadd* dan *bakht* untuk bagian harta yang datang tanpa kaitan langsung dengan usaha, dan membedakannya dari *kadd* (jerih payah). *Al-Mufradāt* tidak memuat entri untuk *bakht*. (*Kashshāf*, s.v. *al-bakht*.)
+
+Maka bagian nasib dalam harta lebih besar daripada bagian jerih payah, berbeda dengan akhlak dan amal-amal ukhrawi yang bagian jerih payahnya lebih besar.[^p37] Allah Ta'ala telah mengingatkan hal itu dengan firman-Nya: *"Barang siapa menghendaki kehidupan sekarang (duniawi), maka Kami segerakan baginya di (dunia) ini apa yang Kami kehendaki bagi orang yang Kami kehendaki"* (al-Isra': 18). Untuk dunia Dia mensyaratkan kehendak-Nya bagi pemberi dan kehendak-Nya bagi yang diberi, dan tidak mensyaratkan usaha; sedang untuk akhirat Dia mensyaratkan usaha untuknya disertai iman, dan tidak mensyaratkan kehendak dan iradah-Nya, meskipun akhirat pun tidak terlepas dari keduanya.
+
+[^p37]: CP: Pembedaan *jadd* (nasib) dan *kadd* (jerih payah) ini penting bagi etika al-Rāghib. Harta, sebagai perolehan "luar" (*khārija*), sebagian besar ditentukan oleh nasib; sedang keutamaan jiwa dan amal ukhrawi sebagian besar ditentukan oleh usaha. Konsekuensinya: orang berakal mencurahkan perhatian pada apa yang "bila dicari akan didapat, dan bila didapat tidak dikhawatirkan hilang" (keutamaan jiwa), dan tidak terlalu peduli pada apa yang akan datang bila ditakdirkan, dicari atau tidak (harta). Ini sejalan dengan pembagian nikmat dalam Pasal Pertama dan kritik terhadap *faraḥ* yang terikat pada perolehan duniawi dalam Pasal Keempat.
+
+Maka sepatutnya orang berakal memperhatikan apa yang bila ia cari akan ia dapatkan, dan bila ia dapatkan tidak ia khawatirkan lenyapnya; dan sedikit peduli terhadap apa yang bila ditakdirkan baginya akan datang kepadanya, entah ia mencarinya atau tidak.
+
+Seorang bijak berkata: "Keberuntungan itu seperti seorang perempuan tuli, buta, lagi gemuk, yang di pangkuannya ada permata-permata. Ia duduk di atas batu bulat, diikuti banyak orang yang mencari apa yang ada padanya, sedang ia tidak mendengar ucapan dan tidak melihat wajah. Sekelompok kecil orang menjauh darinya dan duduk di satu sisi. Setiap saat ia menggenggam segenggam dari apa yang ada di pangkuannya dan memberikannya kepada salah seorang dari kaum itu, tanpa mengkhususkan para pengikutnya; terkadang ia meleset dari mereka dan terkadang memberi mereka." Seakan-akan dialah yang dimaksud ucapan seorang penyair:
+
+> Jangan memuji Ibn 'Abbad meskipun kedua telapak tangannya
+> menghujankan kemurahan, dan jangan mencelanya bila ia layak dicela.
+> Ia tidak kikir karena ingin mempertahankan harta,
+> dan tidak pula murah dengan kelebihan harta karena bertekad.
+> Tetapi itu hanyalah lintasan-lintasan dari bisikan hatinya:
+> ia memberi dan menahan, bukan karena kikir dan bukan karena murah hati.
+
+"Terkadang ia berbalik kepada orang yang telah diberinya, lalu merampasnya dan menginjaknya dengan batunya."
+
+Adapun keutamaan-keutamaan ukhrawi, sebagaimana dikatakan: "Ilmu tidak memberimu sebagiannya sampai engkau memberinya seluruh dirimu; dan bila engkau telah memberinya seluruh dirimu, engkau pun masih dalam bahaya apakah ia akan memberimu sebagiannya." Karena itu Allah Ta'ala berfirman: *"dan bahwa manusia hanya memperoleh apa yang telah diusahakannya, dan sesungguhnya usahanya itu kelak akan diperlihatkan (kepadanya)"* (an-Najm: 39-40).
+
+## Sebab Gagalnya Orang Berakal dan Berhasilnya Orang Bodoh {.judul-bab}
+
+Hikmah menuntut agar orang berakal lagi bijak dalam kebanyakan keadaan sedikit hartanya. Sebab ia tidak mengambil harta kecuali sebagaimana yang semestinya, dari jalan yang semestinya, dan pada waktu yang semestinya; kemudian bila ia telah mengambilnya, ia tidak menyimpannya dari kemuliaan yang muncul di hadapannya.
+
+Adapun orang bodoh, lebih mudah baginya untuk menghimpun, karena ia tidak peduli dalam apa yang ia ambil, meskipun harus melakukan yang terlarang dan menghalalkan yang dicegah, memancing manusia dari apa yang ada di tangan mereka dengan tipu daya, dan membantu mereka melakukan keburukan karena mengharap manfaat mereka baginya. Sering engkau lihat orang-orang yang termasuk golongan yang disifati dalam firman Allah Ta'ala: *"Maka di antara manusia ada yang berdoa, 'Ya Tuhan kami, berilah kami (kebaikan) di dunia,' dan di akhirat dia tidak memperoleh bagian apa pun"* (al-Baqarah: 200), mengeluhkan nasib mereka. Sebagian mereka marah kepada falak, sebagian mencela takdir, dan sebagian lagi melampaui sebab-sebab lalu mencela Allah Ta'ala, sampai-sampai seorang yang suka bercanda kelewat batas berkata tentang firman Allah Ta'ala *"Kamilah yang menentukan penghidupan mereka"* (az-Zukhruf: 32): "Seandainya yang lain yang mengurus pembagian rezeki makhluk, niscaya terjadi perkara-perkara besar di antara kita; tetapi semua itu terjadi di tempat terbuka."[^p38] Itu karena keinginan keras mereka untuk melakukan keburukan-keburukan dan kebodohan mereka terhadap kemaslahatan yang disediakan Allah bagi hamba-hamba-Nya.
+
+[^p38]: CP: Lafaz ucapan ini dalam edisi yang kami gunakan tampak tidak utuh (diawali potongan kata yang tidak jelas), sehingga terjemahan di sini mengikuti makna yang tampak: seorang pelawak menyindir pembagian rezeki oleh Allah. Al-Rāghib mengutipnya hanya sebagai contoh kelancangan orang-orang yang kecewa terhadap nasib.
+
+Adapun ucapan penyair:
+
+> Inilah yang membuat akal-akal bingung
+> dan menjadikan orang alim yang cerdas seorang zindik,
+
+maka orang yang menjadi zindik karena hal itu lebih layak disebut orang bodoh yang jahat daripada disebut orang alim yang cerdas. Seorang bijak berkata: "Celakalah orang yang diberi ilmu lalu berkeluh kesah karena kehilangan emas dan perak, dan orang yang diberi keselamatan dan ketenangan lalu berkeluh kesah karena kehilangan kepayahan dan rasa sakit. Buah ilmu adalah keselamatan dan ketenangan, sedang buah harta adalah kepayahan dan rasa sakit."
+
+## Penegasan bahwa Harta di Tangan Manusia adalah Pinjaman {.judul-bab}
+
+Sesungguhnya Allah Ta'ala menciptakan bagian-bagian dunia sebagai bekal secukupnya, tetapi manusia menjadikannya simpanan; Dia menjadikan dunia sebagai persinggahan dan tempat lewat, tetapi mereka menjadikannya tanah air dan tempat menetap, kecuali sedikit dari mereka yang menempatkannya di tempat yang Allah Ta'ala tempatkan. Merekalah yang Dia sifati dengan firman-Nya: *"Dan sedikit sekali dari hamba-hamba-Ku yang bersyukur"* (Saba': 13). Mereka berdagang dengannya bersama Tuhan mereka, sebagaimana firman Allah Ta'ala: *"Wahai orang-orang yang beriman! Maukah kamu Aku tunjukkan suatu perdagangan yang dapat menyelamatkan kamu dari azab yang pedih? (Yaitu) kamu beriman kepada Allah dan Rasul-Nya dan berjihad di jalan Allah dengan harta dan jiwamu. Itulah yang lebih baik bagi kamu jika kamu mengetahui"* (as-Saff: 10-11).
+
+Maka bagian-bagian dunia adalah pinjaman (*ʿāriya*) di tangan manusia yang akan diambil kembali, sebagaimana dikatakan:[^m-ariya]
+
+[^m-ariya]: **Pinjaman** (*ʿāriya*). Dalam *al-Mufradāt*, di bawah akar *ʿ-w-r*: *ʿāriya* berbentuk *faʿliyya* dari makna saling bergantian (*taʿāwur*), sehingga dikatakan *taʿāwarathu al-ʿawārī* (pinjaman-pinjaman bergantian menimpanya). Sebagian ulama berkata ia berasal dari *ʿār* (aib), karena meminjamkannya mewariskan celaan, seperti dalam pepatah bahwa pinjaman ditanya "ke mana engkau pergi?" lalu menjawab "aku membawa celaan dan aib kepada keluargaku"; tetapi pendapat ini ditolak dari segi derivasi karena *ʿāriya* berasal dari *wāw* sedang *ʿār* dari *yāʾ*. Makna "bergantian" cocok dengan gambaran al-Rāghib tentang nampan emas yang berpindah dari tamu ke tamu. (*al-Mufradāt*, s.v. *ʿ-w-r*.)
+
+> Harta dan keluarga tidak lain hanyalah titipan,
+> dan pasti suatu hari titipan itu dikembalikan.
+
+Dari satu segi ia adalah pemberian pakai (*manīḥa*), yang diberikan kepada manusia agar ia memanfaatkannya sementara waktu, lalu meninggalkannya agar dimanfaatkan orang sesudahnya. Dari segi lain ia adalah titipan (*wadīʿa*) di tangannya, yang ia diberi keringanan untuk menggunakan dan memanfaatkannya asalkan tidak berlebihan di dalamnya.[^p39] Akan tetapi manusia, karena kebodohannya dan kelupaannya terhadap apa yang telah dipesankan kepadanya dalam firman-Nya, *"Dan sungguh telah Kami pesankan kepada Adam dahulu, tetapi dia lupa, dan Kami tidak dapati kemauan yang kuat padanya"* (Taha: 115), tertipu olehnya dan menyangka bahwa ia telah dijadikan hibah abadi baginya. Maka ia bersandar dan bertumpu kepadanya, dan tidak menunaikan amanat Allah Ta'ala di dalamnya. Kemudian, ketika dituntut untuk mengembalikannya, ia menolak dan merasa jemu, dan tidak melepaskannya kecuali dengan dicabut nyawanya atau dipatahkan tangannya.
+
+[^p39]: CP: Tiga model hukum dipakai al-Rāghib untuk menggambarkan status harta di tangan manusia: *ʿāriya* (pinjaman pakai yang akan diambil kembali), *manīḥa* (pemberian manfaat sementara, seperti unta perahan yang dipinjamkan untuk diambil susunya lalu dikembalikan), dan *wadīʿa* (titipan yang boleh dipakai dengan syarat tidak berlebihan). Ketiganya menolak anggapan bahwa harta adalah *hiba muʾabbada* (hibah abadi). Sikap jiwa yang lahir dari kesadaran ini ialah syukur saat menerima dan lapang dada saat dikembalikan; sedang yang lahir dari kelupaan adalah *rukūn* (bersandar), *ḍajar* (jemu), dan *jazaʿ* (keluh kesah).
+
+Sebagian dari mereka, dan mereka yang paling sedikit, memelihara apa yang dipesankan kepada mereka. Mereka mengambilnya sebagaimana mengambil pinjaman, pemberian pakai, dan titipan; mereka menunaikan amanat di dalamnya dan tahu bahwa ia akan diambil kembali. Maka ketika ia diambil kembali dari mereka, mereka tidak marah dan tidak berkeluh kesah, melainkan mengembalikannya sambil bersyukur atas apa yang telah mereka peroleh darinya, dan disyukuri karena menunaikan amanat di dalamnya.
+
+Seorang bijak membuat perumpamaan tentang hal itu. Ia berkata: "Perumpamaan manusia dalam bagian-bagian dunia yang diberikan kepada mereka seperti seorang laki-laki yang mengundang suatu kaum ke rumahnya. Ia mengambil nampan dari emas, meletakkan dupa dan wewangian di atasnya, dan setiap kali salah seorang dari mereka masuk, ia menyambutnya dengan nampan itu dan menyerahkannya kepadanya, bukan agar ia memilikinya, melainkan agar ia menciumnya, menikmatinya, lalu menyerahkannya kepada orang yang datang sesudahnya. Siapa yang tidak mengenal adat mereka menyangka bahwa nampan itu telah dihibahkan kepadanya, sehingga ia jemu ketika diambil kembali darinya. Siapa yang mengenal adat mereka mengambilnya dengan bersyukur dan mengembalikannya dengan lapang dada dan hati yang lega."
+
+## Perbedaan Keadaan Orang-Orang yang Mengambil Bagian-Bagian Dunia {.judul-bab}
+
+Mencari dan mengambil dunia ada tiga macam.[^k-dunya]
+
+[^k-dunya]: **Dunia** (*dunyā*; Ing. *the world, life here below*). *Kashshāf*: secara bahasa, alam ini. Mengutip *Fatḥ al-Mubīn* syarah *al-Arbaʿīn* al-Nawawī: para ulama menafsirkan dunia sebagai apa yang diliputi malam dan siang, dinaungi langit, dan ditopang bumi; mereka berbeda pendapat tentang apa yang dizuhudi darinya: dinar dan dirham, atau makanan, minuman, pakaian, dan tempat tinggal, dan sebagainya. Menurut ahli suluk, dunia ialah apa saja yang menyibukkan dari Allah. Definisi terakhir inilah yang menjadi kunci pembahasan al-Rāghib dalam bahasan ini dan berikutnya: dunia tercela bukan karena wujudnya, melainkan karena cara orang mengambil dan memperlakukannya. (*Kashshāf*, s.v. *al-dunyā*.)
+
+**Pertama**: orang yang mengambilnya dengan cara apa saja yang kebetulan, bersandar kepada harta tanpa memikirkan akibat. Dialah yang dimaksud Allah Tabaraka wa Ta'ala dalam firman-Nya ketika mencela orang yang Dia cela: *"dia (manusia) mengira bahwa hartanya itu dapat mengekalkannya"* (al-Humazah: 3).
+
+**Kedua**: orang yang mengambilnya dengan cara yang semestinya, yaitu membatasi diri pada kadar yang tidak mungkin ia bertahan dengan kurang darinya, dari jalan yang semestinya dan dengan cara yang semestinya. Karena wajibnya mengambil kadar ini, dikatakan: "Perkara mubah bagi kaum sufi adalah fardu, dan fardu mereka adalah mubah." Maksudnya, ia tidak maju mengambil sesuatu yang mubah sampai ia terpaksa kepadanya, sehingga wajib baginya mengambilnya, dan yang tadinya mubah untuk diambil menjadi fardu atasnya; dan ia melakukan kewajiban-kewajiban melebihi yang wajib atasnya, bersegera kepadanya, hingga hukumnya menjadi seperti ibadah sunah. Diriwayatkan: *"Siapa yang mencari rezekinya sesuai tuntunan yang ditetapkan baginya, ia berada dalam jihad."* Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, bersabda kepada Ibn Mas'ud: *"Sesungguhnya orang mukmin diberi pahala dalam segala sesuatu, bahkan dalam suapan yang ia letakkan di mulut istrinya."* Beliau tidak bermaksud bahwa setiap orang dalam setiap keadaan diberi pahala karenanya, melainkan mengkhususkan orang-orang mukmin yang memelihara hukum Allah dalam mata pencaharian dan infak mereka dan mengupayakan ibadah kepada Allah di dalamnya.
+
+**Ketiga**: orang yang meluaskan diri dalam mengambilnya dan memelihara apa yang semestinya di dalamnya, tetapi ia menjadi wakil Allah Ta'ala dalam hal itu. Untuk dirinya ia membatasi diri pada mengambil bekal secukupnya, dan menjadikan sisanya dibelanjakan untuk apa yang ia diseru kepadanya. Inilah yang lebih utama, sebagaimana telah disebutkan, sebab dengan itu ia menjadi salah seorang khalifah Allah Azza wa Jalla.
+
+Siapa yang mengambil dunia dengan salah satu dari dua cara terakhir ini, ia telah menjalankan perintah Allah Azza wa Jalla dalam firman-Nya: *"Dan carilah (pahala) negeri akhirat dengan apa yang telah dianugerahkan Allah kepadamu, tetapi janganlah kamu lupakan bagianmu di dunia"* (al-Qasas: 77). Dengan memperhitungkan orang-orang seperti mereka, Allah Ta'ala berfirman: *"Katakanlah (Muhammad), 'Siapakah yang mengharamkan perhiasan dari Allah yang telah disediakan untuk hamba-hamba-Nya dan rezeki yang baik-baik?'"* (al-A'raf: 32), dan berfirman: *"Dan sungguh, telah Kami tulis di dalam Zabur setelah (tertulis) di dalam Az-Zikr (Lauh Mahfuzh), bahwa bumi ini akan diwarisi oleh hamba-hamba-Ku yang saleh"* (al-Anbiya': 105). Dia menjadikannya warisan bagi mereka, kemudian berfirman: *"Sungguh, (apa yang disebutkan) di dalam (Al-Qur'an) ini, benar-benar menjadi petunjuk (yang lengkap) bagi orang-orang yang menyembah (Allah)"* (al-Anbiya': 106), yakni siapa yang dalam mengambil dunia mengupayakan ibadah kepada Allah, dengan itu ia akan sampai kepada tujuannya yang disebut dalam firman-Nya: *"dan sesungguhnya kepada Tuhanmulah kesudahannya (segala sesuatu)"* (an-Najm: 42).
+
+Dia juga berfirman: *"Bukanlah suatu dosa bagimu mencari karunia dari Tuhanmu"* (al-Baqarah: 198). Karunia (*faḍl*) itu adalah kebaikan (*iḥsān*); dengan itu Dia mengingatkan bahwa mengambil harta, bila diupayakan dengan cara yang semestinya dan sebagaimana semestinya, adalah karunia dan kebaikan yang karenanya seseorang berhak mendapat pahala. Berdasarkan itu pula firman-Nya: *"Mohonlah kepada Allah sebagian dari karunia-Nya"* (an-Nisa': 32). Dia berfirman ketika memuji suatu kaum yang mengambil dunia sebagaimana semestinya dari jalan yang semestinya: *"orang yang tidak dilalaikan oleh perdagangan dan jual beli dari mengingat Allah"* (an-Nur: 37).
+
+## Penjelasan tentang Ayat-Ayat yang Lahirnya Tampak Berbeda tentang Dunia {.judul-bab}
+
+Siapa yang memahami tiga cara mengambil dunia yang telah disebutkan, gugurlah syubhatnya tentang ayat-ayat dan hadis-hadis yang lahirnya tampak berbeda, yang terkadang mencela dunia dan bagian-bagiannya dan terkadang memujinya. Sebab celaan yang datang tentangnya adalah dengan memandang orang yang rela menjadikannya bagian bagi dirinya dan puncak keinginannya, sebagaimana firman Allah Ta'ala: *"dan merasa puas dengan kehidupan dunia serta merasa tenteram dengan (kehidupan) itu"* (Yunus: 7).
+
+Pujian yang datang tentangnya adalah dengan memandang cara mengambil dan membelanjakannya yang terpuji. Berdasarkan itu Amirul Mukminin Ali, semoga Allah memuliakan wajahnya, berkata: "Dunia adalah negeri keselamatan bagi orang yang memahaminya, dan negeri kekayaan bagi orang yang berbekal darinya. Manusia di dalamnya ada dua: orang yang menjual dirinya lalu membinasakannya, dan orang yang membeli dirinya lalu memerdekakannya."[^e81]
+
+[^e81]: CE: *Nahj al-Balāgha*, no. 384.
+
+Atas dasar dua segi ini, terkadang memakmurkan bumi dipuji. Allah Ta'ala berfirman: *"dan menjadikan kamu pemakmurnya"* (Hud: 61). Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, bersabda: *"Siapa yang menanam suatu tanaman, tidaklah seekor burung atau binatang memakan darinya kecuali hal itu menjadi sedekah baginya."* Terkadang pula memakmurkannya dicela. Allah Ta'ala berfirman: *"Dan tidakkah mereka bepergian di bumi lalu melihat bagaimana kesudahan orang-orang sebelum mereka (yang mendustakan rasul)? Orang-orang itu lebih kuat dari mereka (sendiri) dan mereka telah mengolah bumi (tanah) serta memakmurkannya melebihi apa yang telah mereka makmurkan"* (ar-Rum: 9). Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, bersabda: *"Dunia adalah jembatan, maka seberangilah ia dan jangan memakmurkannya."*
+
+## Keadaan Manusia dalam Memelihara Urusan Dunia dan Akhirat {.judul-bab}
+
+Dalam hal ini manusia terbagi tiga.
+
+**Pertama**: golongan yang tenggelam dalam dunia tanpa menoleh sedikit pun kepada akhirat. Merekalah yang dinamai penyembah *ṭāghūt*, seburuk-buruk makhluk melata, dan nama-nama serupa.
+
+**Kedua**: golongan yang menyelisihi mereka sejauh-jauhnya, yang memelihara akhirat tanpa menoleh sedikit pun kepada kemaslahatan dunia.
+
+**Ketiga**: golongan tengah di antara keduanya, yang telah menunaikan hak kedua negeri.
+
+Golongan terakhir inilah yang paling utama menurut para bijak, sebab dengan merekalah sebab-sebab dunia dan akhirat tegak. Di antara mereka adalah kebanyakan para nabi, semoga Allah melimpahkan selawat dan salam kepada mereka, karena Allah Ta'ala mengutus mereka untuk menegakkan kemaslahatan tempat kembali dan tempat hidup, dan karena urusan mereka dibangun di atas keseimbangan (*iʿtidāl*), yang merupakan keadaan paling mulia.[^p40] Sangat layak bahwa ketiga golongan itu tercakup dalam firman Allah Ta'ala: *"dan kamu menjadi tiga golongan, yaitu golongan kanan, alangkah mulianya golongan kanan itu, dan golongan kiri, alangkah sengsaranya golongan kiri itu, dan orang-orang yang paling dahulu (beriman), merekalah yang paling dahulu (masuk surga). Mereka itulah orang yang dekat (kepada Allah), berada dalam surga kenikmatan"* (al-Waqi'ah: 7-12).
+
+[^p40]: CP: Di sini prinsip jalan tengah (*iʿtidāl*) diterapkan pada orientasi hidup secara keseluruhan: tenggelam dalam dunia (kelebihan orientasi duniawi) dan meninggalkan dunia sama sekali (kelebihan orientasi ukhrawi yang mengabaikan badan dan masyarakat) sama-sama menyimpang, sedang yang menunaikan hak kedua negeri adalah *al-sābiqūn*. Argumennya antropologis: manusia tersusun dari dua bagian, jiwa dan badan (beserta dunianya); menelantarkan salah satunya berarti "menentang Allah" dalam membatalkan apa yang Dia ciptakan dan sempurnakan. Ini konsisten dengan pembelaan terhadap kerja (bahasan kewajiban mencari penghidupan) dan kritik terhadap zuhud yang keliru (Pasal Ketiga).
+
+Maka orang yang memelihara dunia dan akhirat sebagaimana baik dan dengan cara yang baik termasuk *al-sābiqūn*. Sebagian orang menjadikan *al-sābiqūn* adalah para ahli ibadah yang menolak dunia sepenuhnya, dengan berhujah pada firman Allah Ta'ala: *"Aku tidak menciptakan jin dan manusia melainkan agar mereka beribadah kepada-Ku"* (adz-Dzariyat: 56). Tersembunyi dari orang yang berkata demikian bahwa ibadah kepada Allah Ta'ala yang paling agung adalah yang kembali kepada kemaslahatan hamba-hamba-Nya. Ibn Mas'ud, semoga Allah meridainya, meriwayatkan dari Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, bahwa beliau bersabda: *"Makhluk semuanya adalah tanggungan Allah; maka manusia yang paling dicintai-Nya adalah yang paling bermanfaat bagi tanggungan-Nya."*
+
+Selain itu, sebagaimana buruk bagi manusia untuk hanya menyibukkan diri dengan urusan badan dan dunianya, karena dengan itu ia menentang Allah dalam membatalkan dan menyia-nyiakan salah satu dari dua bagian yang menyusun dirinya, demikian pula buruk baginya menyia-nyiakan bagian yang lain, yaitu badan dan dunianya, karena dengan itu ia menentang Allah Ta'ala dalam membatalkan apa yang telah Dia ciptakan dan sempurnakan.
+
+Jika dikatakan: telah dikatakan bahwa manusia ada tiga: "Orang yang disibukkan oleh tempat kembalinya dari penghidupannya, dan itulah derajat orang-orang yang beruntung; orang yang disibukkan oleh penghidupannya dari tempat kembalinya, dan itulah derajat orang-orang yang binasa; dan orang yang sibuk dengan keduanya, dan itulah derajat orang-orang yang mempertaruhkan diri." Ia berkata: "Telah diketahui bahwa orang yang beruntung lebih baik keadaannya daripada orang yang mempertaruhkan diri."
+
+Dijawab kepadanya: kedudukan-kedudukan yang tinggi tidak lepas dari pertaruhan. Orang yang berkata demikian tidak bermaksud mengutamakan orang yang beruntung itu; ia hanya khawatir bila orang yang tidak mampu mencalonkan diri untuk kekhalifahan Allah. Hal ini dikuatkan oleh riwayat bahwa salah seorang putra raja yang telah kuat dalam ilmu dan hikmah menjauhkan diri dari kerajaan dan zuhud terhadap dunia. Maka seorang raja menulis kepadanya: "Engkau telah menjauhkan diri dari apa yang kami jalani. Jika engkau tahu bahwa apa yang engkau pilih itu lebih utama, beri tahulah kami agar kami meninggalkan apa yang kami jalani; dan jangan sekali-kali engkau kira bahwa aku akan menerima ucapan darimu tanpa hujah."
