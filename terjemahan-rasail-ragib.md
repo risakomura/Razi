@@ -16,7 +16,7 @@
 | Tahap | Penerjemahan berjalan |
 | Sudah diterjemahkan | Risalah Pertama s.d. Ketiga (lengkap) |
 | Posisi berikutnya | Risalah Keempat |
-| Nomor catatan terakhir | CM s12 · CP p104 · CD d54 · CT t3 |
+| Nomor catatan terakhir | CM s12 · CP p104 · CD d54 · CT t4 |
 | Catatan istilah | lihat 3.3 |
 
 ---
@@ -1409,7 +1409,7 @@ Ilmu dan amal saling menyertai. Iman, meskipun mencakup keduanya dan menjadi nam
 Dikatakan: "Ilmu adalah permulaan dan amal adalah kesempurnaan." Permulaan tanpa kesempurnaan sia-sia, dan kesempurnaan tanpa permulaan mustahil. Orang yang mengetahui kebaikan tetapi tidak berbuat baik, karena ilmunya ia menjadi jahat dan karena amalnya ia menjadi fasik; dan hal itu tidak diridai akal mana pun. Penyair berkata:
 
 > Seandainya engkau dapat mengambil manfaat dari ilmumu sambil memeluk dosa-dosa besar,
-> maka jadikanlah perumpamaan orang yang meminum racun padahal ia tahu racun itu membahayakan.[^d52]
+> maka jadikanlah perumpamaan orang yang meminum racun padahal ia tahu racun itu membahayakan.[^d52][^t4]
 
 Manusia naik ke derajat kekhususan dan kedekatan melalui empat kedudukan takwa: takut, harap, kehendak, dan cinta. Bila ia takut akan kebesaran Tuhannya, ia menahan diri dari hawa nafsu; bila ia berharap, ia pun takut (kehilangan yang diharapkan); bila ia berkehendak, ia bersabar dalam mencapai yang dicari; dan bila ia mencinta, ia meninggalkan segala selain Yang Mahabenar.[^r-khawf][^p100] Beliau, semoga salam atasnya, bersabda: *"Cintamu kepada sesuatu membuat buta dan tuli."* Seorang bijak berkata: maknanya, cinta itu membutakan para wali dari melihat selain Sang Pencipta, Mahaperkasa dan Mahatinggi Dia, sebagaimana cinta (kepada dunia) membutakan orang-orang kafir dan fasik dari memperhatikan selain dunia.
 
@@ -1474,7 +1474,7 @@ Semoga Allah melindungi Ustaz, semoga Allah memanjangkan umurnya di tempat ini d
 
 [^p94]: CP: Kata *al-diyāna* (agama) di sini mencakup seluruh ilmu yang berkaitan dengan agama, termasuk ilmu niscaya dan ilmu akliah yang menjadi dasarnya; karena itu kami menerjemahkannya "ilmu-ilmu agama", bukan "ilmu-ilmu keagamaan" dalam arti sempit ilmu nukilan.
 
-[^r-fitra]: **Fitrah** (*fiṭra*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 172 (`m-fitra`) dan no. 173 (`k-fitra`), dan terjemahan *Tafṣīl*, catatan no. 172 (`r-fitra`). Penyamaan fitrah dengan akal bawaan dan ilmu niscaya di sini sejalan dengan *al-Dharīʿa*, yang menyebut pengetahuan bawaan sebagai syarat bagi setiap ilmu, akliah maupun yang didengar.
+[^r-fitra]: **Fitrah** (*fiṭra*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 172 (`m-fitra`) dan no. 173 (`k-fitra`), dan terjemahan *Tafṣīl*, catatan no. 172 (`r-fitra`). Di sini fitrah disamakan dengan akal bawaan (lihat Risalah Kedua, Pasal Keempat) dan dengan ilmu niscaya para ahli kalam.
 
 [^r-yaqin]: **Keyakinan** (*yaqīn*). Lihat glosarium terjemahan *al-Dharīʿa* dan *Tafṣīl* (entri *yaqīn*: "sifat ilmu di atas makrifat dan dirayah"), dan terjemahan *Tafṣīl*, catatan no. 159 (`m-yaqin`).
 
@@ -1490,7 +1490,9 @@ Semoga Allah melindungi Ustaz, semoga Allah memanjangkan umurnya di tempat ini d
 
 [^p99]: CP: Uraian tentang cinta Allah dan ucapan "sebagian kitab para bijak" ini sama dengan Risalah Pertama, Bab Keenam, tempat ucapan itu dinisbatkan kepada Aristoteles (lihat catatan p36 dan k-murid). Di sini ayat yang dikutip untuk Musa adalah Taha: 41, bukan al-A'raf: 144. Bait penyair (Abu Tammam) melukiskan sesuatu yang terlalu terang untuk diingkari.
 
-[^d52]: CD: Keterkaitan ilmu dan amal diuraikan pula dalam *al-Dharīʿa*, Pasal Kedua, "Anjuran Mengambil Bekal Secukupnya dari Setiap Ilmu": "Tidakkah engkau lihat bahwa dalam umumnya Al-Qur'an penyebutan iman tidak dilepaskan dari penyebutan amal saleh …? Dikatakan: ilmu adalah fondasi dan amal adalah bangunan." Penyunting juga mengutip *Tafṣīl*: "Ibadah ada dua macam, ilmu dan amal, dan keduanya semestinya saling menyertai, sebab ilmu seperti fondasi dan amal seperti bangunan."
+[^d52]: CD: Keterkaitan ilmu dan amal diuraikan pula dalam *al-Dharīʿa*, Pasal Kedua, "Anjuran Mengambil Bekal Secukupnya dari Setiap Ilmu": "Tidakkah engkau lihat bahwa dalam umumnya Al-Qur'an penyebutan iman tidak dilepaskan dari penyebutan amal saleh …? Dikatakan: ilmu adalah fondasi dan amal adalah bangunan."
+
+[^t4]: CT: *Tafṣīl*, Bab Kedua Puluh Tiga, "Macam-Macam Ibadah berupa Ilmu dan Amal": "Ibadah ada dua macam: ilmu dan amal. Semestinya keduanya saling menyertai, sebab ilmu seperti fondasi dan amal seperti bangunan; sebagaimana fondasi tidak berguna selama tidak ada bangunan, dan bangunan tidak akan kokoh selama tidak ada fondasi, demikian pula ilmu tidak berguna tanpa amal, dan amal tidak berguna tanpa ilmu." Perumpamaan fondasi dan bangunan di sini dipakai untuk hubungan antara meninggalkan keburukan dan melakukan kebaikan (tingkat pertama amal), sedang di *Tafṣīl* untuk hubungan antara ilmu dan amal; penyunting mengutip bagian *Tafṣīl* ini.
 
 [^r-khawf]: **Takut** (*khawf*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 311 (`m-khawf`) dan no. 312 (`k-khawf`); tentang *irāda*, no. 73-74; tentang takwa, no. 126 (`m-taqwa`) dan no. 127 (`k-taqwa`).
 
