@@ -14,9 +14,9 @@
 | Butir | Keterangan |
 |---|---|
 | Tahap | Penerjemahan berjalan |
-| Sudah diterjemahkan | Risalah Pertama: mukadimah, Bab Pertama s.d. Keenam |
-| Posisi berikutnya | Risalah Pertama, Bab Ketujuh |
-| Nomor catatan terakhir | CM s5 · CP p36 · CD d16 · CT t1 |
+| Sudah diterjemahkan | Risalah Pertama: mukadimah, Bab Pertama s.d. Kedelapan |
+| Posisi berikutnya | Risalah Pertama, Bab Kesembilan |
+| Nomor catatan terakhir | CM s5 · CP p41 · CD d20 · CT t1 |
 | Catatan istilah | lihat 3.3 |
 
 ---
@@ -563,4 +563,79 @@ Jika ditanyakan: Bolehkah memakai lafal sahabat (*ṣadīq*), kekasih (*wadīd*)
 
 [^r-faqr]: **Kefakiran** (*faqr*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 287 (`m-faqr`, *al-Mufradāt*) dan no. 288 (`k-ghina`, *Kashshāf*): dalam *al-Mufradāt*, *faqr* dipakai dalam empat makna, yang terakhir adalah kefakiran kepada Allah, seperti dalam doa "Ya Allah, kayakanlah aku dengan kefakiran kepada-Mu". Kefakiran Ibrahim yang dimaksud di sini adalah makna keempat ini, bukan makna pertama (kebutuhan yang meliputi semua maujud) dan bukan makna kedua (tidak memiliki harta).
 
-[^d16]: CD: Penjelasan tentang *khalīl* sebagai "yang fakir kepada Allah" sejalan dengan pembagian makna *faqr* dalam *al-Dharīʿa*, Pasal Ketiga, "Kanaah dan Zuhud" (lihat nota kaki *al-Dharīʿa* no. 287). Dalam *al-Mufradāt*, s.v. *kh-l-l*, al-Rāghib memberi dua penjelasan untuk *"Dan Allah telah memilih Ibrahim menjadi kesayangan(-Nya)"* (an-Nisa': 125): Ibrahim dinamai *khalīl* karena kefakirannya kepada Allah dalam setiap keadaan, atau karena *khulla* berarti kasih sayang yang menyusup ke dalam jiwa; dan bila kata itu dipakai untuk Allah, yang dimaksud semata-mata berbuat baik. Di sini hanya penjelasan pertama yang dipakai, sebab penjelasan kedua akan menuntut timbal balik yang ditolak pada akhir bab ini.
+[^d16]: CD: Penjelasan tentang *khalīl* sebagai "yang fakir kepada Allah" sejalan dengan pembagian makna *faqr* dalam *al-Dharīʿa*, Pasal Ketiga, "Kanaah dan Zuhud" (lihat nota kaki *al-Dharīʿa* no. 287). Dalam *al-Mufradāt*, s.v. *kh-l-l*, al-Rāghib memberi dua penjelasan untuk *"Dan Allah telah menjadikan Ibrahim sebagai kesayangan(-Nya)"* (an-Nisa': 125): Ibrahim dinamai *khalīl* karena kefakirannya kepada Allah dalam setiap keadaan, atau karena *khulla* berarti kasih sayang yang menyusup ke dalam jiwa; dan bila kata itu dipakai untuk Allah, yang dimaksud semata-mata berbuat baik. Di sini hanya penjelasan pertama yang dipakai, sebab penjelasan kedua akan menuntut timbal balik yang ditolak pada akhir bab ini.
+
+## Bab Ketujuh: Perselisihan Manusia dalam Mengambil Sahabat {.judul-bab}
+
+Manusia berselisih pendapat tentang mengambil sahabat dan menghindarinya.
+
+Orang yang menghindarinya berhujah bahwa di antara manusia banyak orang jahat dan sedikit orang baik, sampai-sampai dikatakan: "Sebaik-baik manusia ialah yang paling jauh darimu," dan "Sebaik-baik manusia ialah yang belum engkau uji."[^p37] Seorang bijak berkata: "Seandainya dunia dipenuhi binatang buas dan ular, aku tidak takut kepada keduanya; tetapi seandainya dari manusia hanya tersisa satu orang, aku takut kepadanya." Seakan disepakati kebenarannya ucapan al-Mutanabbi:
+
+> Aku pun mulai meragukan orang yang kupilih sebagai sahabat,
+> karena aku tahu ia hanyalah salah seorang dari manusia.
+
+Kemudian, karena segala sesuatu tampak gangguannya dan jelas wataknya dengan ujian yang paling ringan serta sebab dan pengamatan yang paling sedikit, kecuali manusia, sebab ia mengenakan pakaian kemunafikan dan riya, lalu berlagak berani dan berlagak dermawan tanpa keberanian dan kedermawanan, maka wajib berhati-hati terhadap mereka dan sedapat mungkin tidak membutuhkan mereka. Karena itu seorang bijak berkata: "Waspadalah terhadap orang yang engkau percayai, sebab titipan-titipan manusia tidak hilang kecuali di tangan orang-orang tepercaya."[^p38] Abu Tammam berkata dengan kata-kata yang paling fasih:
+
+> Berubah-ubahnya kawan, bila engkau selidiki,
+> akan membuatmu lupa akan panjangnya perubahan zaman.
+
+Seandainya sahabat itu ada pun, semestinya ia tetap tidak dibutuhkan; maka bagaimana lagi bila ia tidak ada? Seorang bijak ditanya tentang sahabat, lalu menjawab: "Ia adalah nama yang tidak memiliki makna, makhluk yang tidak ada." Yang lain berkata: "Manusia yang paling jauh perjalanannya ialah orang yang melakukan perjalanan untuk mencari sahabat." Seseorang berkata kepada al-Fudhail: "Tunjukkanlah aku kepada seorang saudara yang dapat kuandalkan." Ia menjawab: "Itu barang hilang yang tidak akan ditemukan." Penyair berkata:
+
+> Aku mencari kasih sayang manusia yang sehat; alangkah ajaibnya!
+> Yang kucari adalah sesuatu yang tak pernah luput dari penyakit.
+
+Betapa banyak bencana menimpa orang yang tertipu oleh seorang sahabat dan merasa tenteram dengan seorang kawan, sedang orang yang mengamalkan ucapan orang bijak selamat darinya: "Siapa yang mampu memisahkan diri dari manusia, hendaklah ia memisahkan diri dari mereka; dan siapa yang tidak mampu dengan tubuhnya, hendaklah ia memisahkan diri dari mereka dengan kalbunya."
+
+Orang yang menginginkannya berkata: Manusia, meskipun banyak orang jahat di antara mereka dan terdapat pamer dan riya pada mereka, tidak akan kehilangan orang yang dicari sama sekali, bila ia bersungguh-sungguh mencari saudara yang dapat ia jadikan kawan dan sahabat yang dapat ia jadikan orang kepercayaan. Kesetiaan (*wafāʾ*) tidak hilang dari manusia, meskipun jarang.[^r-wafa]
+
+Diriwayatkan bahwa Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, mempersaudarakan para sahabatnya dua kali. Seandainya ucapan mereka "sahabat" hanyalah lafal kosong atau khayalan belaka, tentu Ali, semoga Allah meridainya, tidak berkata: "Hendaklah kalian memiliki saudara-saudara, karena mereka adalah bekal zaman dalam agama dan dunia."[^p39] Tidakkah engkau lihat Allah Ta'ala menceritakan ucapan penghuni neraka Jahanam: *"Maka (sekarang) kita tidak mempunyai pemberi syafaat (penolong), dan tidak pula mempunyai teman yang akrab"* (asy-Syu'ara': 100-101)? Orang yang berkata "nama yang tidak memiliki makna" bermaksud menunjukkan sedikitnya keberadaan sahabat, dengan menempuh cara orang yang mengungkapkan sesuatu yang sedikit dengan penafian dan ketiadaan.[^d17]
+
+[^p37]: CP: Kedua ucapan ini rusak dalam edisi tahkik. Yang pertama tertulis *khayr al-nās abqāhum* ("yang paling kekal/paling lama hidup"); penerjemah Turki mengusulkan *atqāhum* ("yang paling bertakwa"), tetapi keduanya tidak menunjang hujah orang yang menghindari sahabat. Kami menduga bacaan aslinya *abʿaduhum* ("yang paling jauh"). Yang kedua tertulis *man lam tajid bihi*, yang tidak bermakna; penyunting memaknainya "yang engkau pegang erat karena langkanya". Kami membacanya *man lam tujarribhu* ("yang belum engkau uji"), sejalan dengan kalimat sesudahnya tentang manusia yang wataknya baru tampak dengan ujian. Keduanya bacaan dugaan.
+
+[^p38]: CP: Edisi tahkik membaca *fa-inna dharāʾiʿ al-nās* ("sarana-sarana manusia"), dan penyunting menjelaskannya secara dipaksakan ("harapan tidak kecewa kecuali pada orang-orang yang kita percayai"); terjemahan Turki memahaminya "kepercayaan manusia tidak dikhianati kecuali oleh orang-orang yang mereka percayai". Kami membaca *wadāʾiʿ al-nās* ("titipan-titipan manusia"): barang titipan hanya diserahkan kepada orang tepercaya, maka hanya di tangan merekalah titipan dapat hilang.
+
+[^r-wafa]: **Kesetiaan** (*wafāʾ*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 238 (`m-wafa`, *al-Mufradāt*) dan no. 239 (`k-wafa`, *Kashshāf*).
+
+[^p39]: CP: Edisi tahkik membaca *lafẓan ḥulwan* ("lafal yang manis"); kami membacanya *lafẓan khulwan* ("lafal kosong"), sejajar dengan "khayalan belaka" (*wahman mursalan*) dan dengan ucapan "nama yang tidak memiliki makna". Tentang dua kali persaudaraan: menurut para ahli sirah, yang pertama di antara kaum Muhajirin di Makkah sebelum hijrah, dan yang kedua antara Muhajirin dan Anshar di Madinah; demikian dicatat penerjemah Turki dengan merujuk Ibn Ḥajar, *Fatḥ al-Bārī*.
+
+[^d17]: CD: Penafsiran ini sama dengan *al-Dharīʿa*, Pasal Kelima, "Keutamaan Persahabatan", yang mengutip ucapan "nama yang tidak memiliki makna" dengan pengantar "karena langkanya sahabat". Di sana pula al-Rāghib merangkum kedua pihak dalam bab ini dalam satu kalimat: "Siapa yang menyangka dirinya mampu tidak membutuhkan sahabat, ia tertipu; dan siapa yang menyangka mudah menemukannya, ia dungu."
+
+## Bab Kedelapan: Keutamaan Mengambil Sahabat {.judul-bab}
+
+Mengambil saudara adalah tabiat manusia. Hal itu disaksikan oleh condongnya setiap orang kepada yang sesuai dengannya. Maka sahabat lebih baik bagi seseorang daripada dirinya sendiri. Seorang bijak berkata: "Saudara yang saleh lebih baik bagimu daripada dirimu sendiri, sebab jiwa itu selalu menyuruh kepada keburukan, sedang saudara yang saleh tidak menyuruhmu kecuali kepada kebaikan." Dikatakan: *"Orang mukmin adalah cermin saudaranya."*
+
+Seorang bijak berkata: "Sungguh aku sangat heran terhadap orang yang mengajarkan kepada anak-anaknya kisah-kisah para raja dan peristiwa-peristiwa mereka, tetapi tidak terlintas dalam benak mereka perkara kasih sayang dan kebaikan-kebaikan umum yang dihasilkan oleh cinta dan keakraban." Tidak ada jalan bagi seseorang untuk hidup tanpa sahabat, meskipun dunia condong kepadanya dengan segala yang diingini. Maka beruntunglah orang yang diberi sahabat sedang ia tidak memegang kekuasaan, dan lebih besar lagi keberuntungan orang yang diberi sahabat ketika memegang kekuasaan. Sebab orang yang mengurus urusan rakyat perlu mengetahui keadaan mereka, dan tidak cukup baginya dua telinga, dua mata, dan satu kalbu. Bila ia menemukan saudara-saudara yang tepercaya, dengan mereka ia menemukan mata, telinga, dan kalbu, sehingga ia mengetahui yang gaib dalam rupa yang hadir; dan hal itu tidak ia dapati kecuali pada sahabat, kawan, dan orang yang menyayanginya.[^d18]
+
+Aristoteles menulis kepada Iskandar: "Ketahuilah bahwa engkau menguasai tubuh-tubuh dengan kekuasaan; maka lampauilah itu menuju kalbu-kalbu dengan berbuat baik."
+
+Ali bin Abdullah bin Abbas berkata kepada salah seorang khalifah: "Carilah cinta rakyat, sebab ketaatan karena cinta lebih utama daripada ketaatan karena segan."[^d19]
+
+Seorang bijak ditanya: "Perbendaharaan manakah yang paling baik?" Ia menjawab: "Sahabat yang baik." Yang lain berkata: "Sungguh aku heran terhadap orang yang bersedih padahal ia memiliki sahabat yang utama." Dikatakan: "Tidak ada kebanggaan kecuali dengan sahabat yang utama. Sahabat lebih utama daripada saudara kandung, sebab saudara kandung adalah kerabat tubuh, sedang sahabat adalah kerabat roh."
+
+Dikatakan kepada Ibnu al-Muqaffa': "Manakah yang lebih engkau cintai, sahabatmu atau kerabatmu?" Ia menjawab: "Aku mencintai kerabat hanya bila ia menjadi sahabat." Abu Nuwas berkata:
+
+> Mustahil! Kekerabatan dan nasab takkan mendekatkan
+> pada hari ketika akhlak dan perangai menjauhkan.
+> Kasih sayang Salman menjadi pertalian darah baginya,
+> sedang antara Nuh dan anaknya tiada pertalian darah.[^p40]
+
+Seorang bijak berkata: "Manfaat sahabat yang saleh (bagi seseorang) lebih besar daripada manfaat dirinya bagi dirinya sendiri. Sebab jiwanya selalu menyuruh kepada keburukan dan hawa nafsunya menentang akalnya dalam hal-hal yang menyangkut dirinya; sedang saudara yang saleh menyuruhnya (kepada kebaikan), dan hawa nafsu tidak mencampuri akal saudara itu dalam pandangannya."[^p41]
+
+Sebagian orang berkata: "Di antara keutamaan persahabatan ialah bahwa ia tidak membutuhkan keadilan, yang merupakan keutamaan yang paling kuat. Sebab keadilan dibutuhkan untuk menghindari kezaliman, sedang dua orang sahabat tidak saling menzalimi, bahkan masing-masing memberi yang lain lebih dari yang semestinya."[^r-adl][^d20] Maka benarlah ucapan Amr bin al-Ahtam, atau Ibnu al-Rumi:
+
+> Sesungguhnya kegembiraan, bila engkau lukiskan
+> sampai ke puncak hakikatnya,
+> adalah kawan karib penuh kasih yang engkau akrabi,
+> dan kembali kepada kecukupan.
+
+[^d18]: CD: Kalimat terakhir sama dengan *al-Dharīʿa*, Pasal Kelima, "Keutamaan Persahabatan": "Siapa yang menemukan saudara-saudara yang tepercaya, dengan mereka ia menemukan mata, telinga, dan kalbu yang semuanya untuknya, sehingga ia melihat yang gaib dalam rupa yang hadir." Terjemahan di atas mengikuti redaksi itu. Di *al-Dharīʿa* kalimat ini berlaku umum bagi setiap orang; di sini ia dikhususkan bagi orang yang memegang kekuasaan.
+
+[^d19]: CD: Bandingkan *al-Dharīʿa*, Pasal Kelima, "Keutamaan Cinta": "Ketaatan karena cinta lebih utama daripada ketaatan karena takut, sebab ketaatan karena cinta datang dari dalam, sedang ketaatan karena takut datang dari luar dan lenyap bila sebabnya lenyap"; dan "rasa segan membuat orang menjauh, sedang cinta merekatkan". Tentang *hayba* (rasa segan), lihat nota kaki *al-Dharīʿa* no. 316 (`k-hayba`).
+
+[^p40]: CP: Dalam edisi tahkik keempat larik ini tercetak dengan urutan yang tertukar, dan kata *afḍat* ("sampai kepada") dibaca *aqṣat* ("menjauhkan"), sesuai tuntutan makna. "Baginya" menunjuk Nabi: Salman al-Farisi, orang asing, menjadi seperti keluarga Nabi karena kasih sayangnya, sedang putra Nuh terputus dari ayahnya karena kekafirannya (Hud: 45-46).
+
+[^p41]: CP: Kalimat ini rusak dalam edisi tahkik: *nafʿ al-ṣadīq al-ṣāliḥ akthar min nafʿihi li-dhātihi* dan *wa-hawāhu lā yashrabu ʿaqlahu*. Catatan pinggir naskah yang dikutip penyunting ("manfaat sahabat lebih besar daripada manfaatnya bagi dirinya sendiri, renungkanlah") membantu memahami kalimat pertama; kata *yashrabu* dibaca *yashūbu* ("mencampuri, mengeruhkan"). Maksudnya: seseorang tidak dapat menilai dirinya dengan jernih karena hawa nafsunya ikut campur, sedang sahabat menilainya tanpa campur tangan hawa nafsu itu. Gagasan ini diulang dari awal bab.
+
+[^r-adl]: **Keadilan** (*ʿadl*, *ʿadāla*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 61 (`m-adl`, *al-Mufradāt*), dan terjemahan *Tafṣīl*, catatan no. 156 (`r-adl`).
+
+[^d20]: CD: Gagasan yang sama menjadi pembuka *al-Dharīʿa*, Pasal Kelima, "Keutamaan Cinta": "Seandainya manusia saling mencintai dan bermuamalah dengan cinta, niscaya mereka tidak membutuhkan keadilan. Dikatakan: Keadilan adalah pengganti cinta, yang dipakai di tempat cinta tidak ada." Di sana yang dikatakan tidak membutuhkan keadilan adalah cinta; di sini persahabatan. Gagasan ini berasal dari tradisi filsafat etika tentang persahabatan, yang menyatakan bahwa bila orang-orang bersahabat mereka tidak membutuhkan keadilan, sedang orang-orang yang adil masih membutuhkan persahabatan.
