@@ -14,9 +14,9 @@
 | Butir | Keterangan |
 |---|---|
 | Tahap | Penerjemahan berjalan |
-| Sudah diterjemahkan | Risalah Pertama: mukadimah, Bab Pertama s.d. Kesebelas |
-| Posisi berikutnya | Risalah Pertama, Bab Kedua Belas |
-| Nomor catatan terakhir | CM s5 · CP p60 · CD d27 · CT t1 |
+| Sudah diterjemahkan | Risalah Pertama (lengkap) |
+| Posisi berikutnya | Risalah Kedua |
+| Nomor catatan terakhir | CM s6 · CP p65 · CD d28 · CT t1 |
 | Catatan istilah | lihat 3.3 |
 
 ---
@@ -894,7 +894,7 @@ Dalam meninggalkannya, amalkanlah ucapan al-Aqra' bin Habis:
 
 [^p50]: CP: Edisi tahkik membaca *an tushrikahu fī bishrika* ("dalam keceriaanmu"); kami membacanya *fī yusrika* ("dalam kelapanganmu"), sebagai pasangan *fī ʿusrika* ("dalam kesempitanmu"). Dalam bait sesudahnya, *ʿanāhu* dibaca *ghināhu* ("kekayaannya"), pasangan *faqrahu* ("kefakirannya"). Penyunting menyebut bait ini milik al-Mutanakhkhil al-Hudhalī.
 
-[^d24]: CD: Dalam *al-Dharīʿa*, Pasal Keenam, "Macam-Macam Kemurahan dan Apa yang Dimurahkan", salah satu syarat kemurahan ialah memberi "tanpa mengungkit dan tanpa menyakiti", dengan mengacu kepada al-Baqarah: 262-264.
+[^d24]: CD: Dalam *al-Dharīʿa*, Pasal Keenam, "Macam-Macam Kemurahan dan Apa yang Dimurahkan", salah satu syarat kemurahan ialah memberi "tanpa mengungkit dan tanpa menyakiti".
 
 [^p51]: CP: Edisi tahkik membaca *al-ziyāra fī al-rijāl* ("berkunjung di antara laki-laki"), dan penyunting menjelaskannya "bukan di antara laki-laki dan perempuan". Kami membacanya *fī al-riḥāl* ("ke tempat-tempat tinggal"), yang sesuai dengan ungkapan Arab.
 
@@ -904,7 +904,7 @@ Dalam meninggalkannya, amalkanlah ucapan al-Aqra' bin Habis:
 
 [^p54]: CP: Edisi tahkik membaca *fī al-ḥalā* dan menjelaskannya sebagai *al-khalāʾ* ("tempat sepi"); kami mengikuti penjelasan itu. Ungkapan *an tuqifahu ʿalayhi waqfan laṭīfan* ("memberitahukannya kepadanya dengan lembut") dibaca dari *an tafqahu ʿalayhi* dalam teks. Kata *al-ʿanāʾ* ("susah payah") mengikuti pembetulan penyunting (teks: *al-baqāʾ*).
 
-[^d25]: CD: Bandingkan *al-Dharīʿa*, Pasal Kedua, "Ketulusan Menasihati": ketulusan menasihati ialah "memurnikan cinta kepada orang lain dalam menampakkan apa yang menjadi kemaslahatannya", dan ia wajib terhadap semua manusia. Di sana pula al-Rāghib mengingatkan bahwa banyaknya nasihat mewariskan kecurigaan, sejalan dengan anjuran di sini untuk menasihati dengan lembut dan di tempat sepi.
+[^d25]: CD: Bandingkan *al-Dharīʿa*, Pasal Ketiga, "Ketulusan Menasihati": ketulusan menasihati ialah "memurnikan cinta kepada orang lain dalam menampakkan apa yang menjadi kemaslahatannya", dan ia wajib terhadap semua manusia. Di sana pula al-Rāghib mengingatkan bahwa banyaknya nasihat mewariskan kecurigaan, sejalan dengan anjuran di sini untuk menasihati dengan lembut dan di tempat sepi.
 
 [^d26]: CD: *Al-Dharīʿa*, Pasal Kedua, "Sebutan Baik berupa Pujian dan Sanjungan", membahas sisi yang lain: orang yang dipuji. Di sana dikutip sabda Nabi kepada orang yang memuji orang lain di hadapannya ("Engkau telah mematahkan punggungnya") dan anjuran bagi orang yang dipuji untuk berdoa, "Ya Allah, jadikanlah aku lebih baik dari apa yang mereka sangka"; dan dikatakan bahwa orang utama tidak suka disanjung di hadapannya, terutama oleh pemuji yang berlebihan. Anjuran di sini untuk memuji sahabat di belakangnya sejalan dengan itu.
 
@@ -921,3 +921,38 @@ Dalam meninggalkannya, amalkanlah ucapan al-Aqra' bin Habis:
 [^p59]: CP: Keempat larik ini tercetak dengan urutan yang tertukar dalam edisi tahkik. Larik kedua dibaca *la-ghayru labībi* ("sungguh bukan orang yang berakal"), dan kata *ṣadm* ("hantaman") di akhir dibaca *ṣarm* ("putusnya hubungan"), yang sesuai dengan tema bab ini.
 
 [^p60]: CP: Kalimat dalam kurung sangat rusak dalam edisi tahkik (*fa-qad qīla qadīman li-man aʿṭā al-raghba man aʿṭāhu al-zahāda, wa-mā adrī ayyuhumā al-umm*); terjemahan di atas mengikuti pemahaman yang paling dekat dengan konteks, yaitu kecaman terhadap orang yang terus mendekati orang yang menolaknya. Terjemahan Turki memahaminya secara berbeda.
+
+## Bab Kedua Belas: Hidup Bersama dan Bergaul dengan Seluruh Lapisan Manusia {.judul-bab}
+
+Tidaklah pantas bagi orang berakal membatasi pemakaian akhlak-akhlak yang telah disebutkan itu hanya kepada sahabat-sahabatnya, sebagaimana tidak baik baginya membatasi jamuan dan kebaikannya hanya kepada kerabat dan penduduk negerinya.[^p61] Sebab bila ia membatasi hal itu kepada kerabat tanpa orang asing, jarak antara dia dan anjing sudah dekat, sebab anjing pun mencurahkan (kesetiaannya) kepada orang-orang yang dikenalnya. Yang semestinya bagi orang berakal ialah meneladani apa yang diriwayatkan dari Nabi, semoga Allah melimpahkan selawat dan salam kepadanya: *"Sesungguhnya kalian tidak akan dapat melapangkan manusia dengan harta kalian, maka lapangkanlah mereka dengan akhlak kalian,"* dan sabdanya: *"Maukah aku tunjukkan kepada kalian sesuatu yang terpuji tanpa kerugian? Akhlak yang lapang dan menahan diri dari yang buruk."*[^p62]
+
+Hendaklah engkau menemui mereka dengan wajah yang cerah, sebab dikatakan: "Keceriaan adalah inti kasih sayang dan sarana memperoleh pujian";[^p63] dengan sikap lunak (*mudārāt*), sebab dikatakan: "Sepertiga dari hidup bersama adalah bersikap lunak kepada manusia," dan rendah hati adalah salah satu jerat kemuliaan; dan dengan pura-pura lalai terhadap apa yang masih dapat dibiarkan, sebab dikatakan: "Hidup bersama terhimpun dalam satu takaran penuh: dua pertiganya kecerdikan dan sepertiganya pura-pura lalai."
+
+Hendaklah ia mengamalkan apa yang dikatakan Amirul Mukminin, semoga selawat Allah atasnya: "Bila engkau ingin manusia mencintaimu, cintailah bagi mereka apa yang engkau cintai bagi dirimu sendiri." Seorang bijak ditanya: "Adakah kedermawanan yang dengannya aku dapat meliputi semua manusia?" Ia menjawab: "Ya, engkau mencintai kebaikan bagi mereka." Hendaklah pula ia memperlakukan orang yang duduk bersamanya sebagaimana diperintahkan Ibnu Abbas, semoga Allah meridainya, ketika ia berkata: "Teman duduk memiliki tiga hak atasku: aku memandangnya bila ia datang, aku melapangkan tempat baginya bila ia duduk, dan aku mendengarkannya bila ia berbicara." Hendaklah ia memperhatikan bahwa Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, tidak pernah terlihat menjulurkan kedua kakinya di hadapan orang yang duduk bersamanya, dan tidak pernah memegang tangan seseorang lalu menarik tangannya dari tangan orang itu sebelum orang itu sendiri yang melepaskannya.
+
+Hendaklah ia bersungguh-sungguh menjauhi orang yang jahat dan lari darinya seperti lari dari singa. Bila ia terpaksa bergaul dengannya, hendaklah ia bersungguh-sungguh bersikap lunak kepadanya; sebab dikatakan: "Bukanlah orang bijak orang yang tidak bergaul secara baik dengan orang yang tidak dapat tidak ia gauli, sampai Allah memberinya kelapangan dan jalan keluar."
+
+Hendaklah ia berusaha, sedapat mungkin, tidak menjadikan seorang pun musuh baginya. Kalilah berkata: "Orang berakal tidak semestinya terbawa oleh kepercayaannya pada kekuatannya untuk menarik permusuhan, sebagaimana pemilik penawar racun tidak semestinya meminum racun karena mengandalkan obat-obatnya."[^s6] Jalannya agar ia tidak memiliki musuh ialah menjauhi apa yang mewariskan permusuhan dengan segenap usaha dan kemampuannya. Bila ia kebetulan memiliki musuh tanpa ia sengaja, hendaklah ia bersungguh-sungguh mematikan permusuhannya. Aristoteles berkata: "Segerakanlah (menghadapi) permusuhan dengan persaudaraan sebelum apinya berkobar, sebab memadamkannya sebelum menyebar itu mudah."[^p64]
+
+Wajib pula menampakkan kasih sayang kepadanya, sebab menampakkan kasih sayang kepada musuh termasuk siasat orang-orang berakal. Sebagian orang berkata: "Alangkah baiknya seseorang yang pandai bersikap lunak kepada musuhnya hingga ia memadamkan kobaran apinya." Dipandang baik pula ucapan al-Tanukhi:[^d28]
+
+> Temuilah musuh dengan wajah yang tak bermuka masam,
+> yang hampir meneteskan air keceriaan;
+> sebab manusia yang paling teguh ialah yang menemui musuh-musuhnya
+> dengan tubuh berisi dendam berbalut pakaian kasih sayang.
+
+Abu al-Qasim al-Husain bin Muhammad bin al-Fadl al-Raghib, semoga Allah merahmatinya, berkata:[^p65] Ini cukup untuk apa yang dimaksud. Kami menutup kitab ini dengan memuji Allah dan menyanjung-Nya. Bagi-Nya segala puji selamanya dan syukur yang tulus, sebagaimana Dia layak menerimanya, atas limpahan nikmat-Nya kepada seluruh makhluk-Nya. Selawat-Nya atas Nabi Muhammad, semoga Allah melimpahkan selawat dan salam kepadanya, beserta keluarga dan seluruh sahabatnya. Amin.
+
+[^p61]: CP: Edisi tahkik membaca *wa-ahl waladihi* ("keluarga anaknya"); kami mengikuti usul penerjemah Turki, *ahl baladihi* ("penduduk negerinya"), yang dalam tulisan hanya berbeda titik.
+
+[^p62]: CP: Edisi tahkik membaca *al-khuluq al-shaḥīḥ* ("akhlak yang kikir"), yang bertentangan dengan maksudnya; kami mengikuti pembetulan penerjemah Turki, *al-khuluq al-fasīḥ* ("akhlak yang lapang"), yang juga terdapat dalam riwayat al-Bayhaqī dan Ibn ʿAsākir. Penyunting dan penerjemah Turki mencatat bahwa kedua ucapan ini tidak ditemukan sebagai hadis dalam kitab-kitab hadis; yang kedua dinukil Ibn al-Jawzī sebagai ucapan al-Shaʿbī.
+
+[^p63]: CP: Edisi tahkik membaca *al-bashāsha munn al-mawadda*, yang tidak bermakna. Terjemahan Turki memahaminya *mukhkh* ("inti, sumsum"); bacaan lain yang mungkin ialah *fakhkh* ("jerat"), sejajar dengan "rendah hati adalah salah satu jerat kemuliaan" dan dengan ucapan Ali yang terkenal, "Keceriaan adalah tali jerat kasih sayang". Kami mengikuti terjemahan Turki.
+
+[^s6]: CM: Ucapan ini terdapat dalam *Kalīla wa Dimna*, bab "Burung Hantu dan Burung Gagak", tetapi di sana diucapkan oleh burung gagak, bukan oleh Kalilah seperti disebut al-Rāghib: "Orang berakal, meskipun yakin akan kekuatan dan keutamaannya, tidak semestinya hal itu membawanya menarik permusuhan atas dirinya karena mengandalkan pendapat dan kekuatan yang ada padanya, sebagaimana orang yang memiliki penawar racun tidak semestinya meminum racun karena mengandalkan apa yang ada padanya."
+
+[^p64]: CP: Edisi tahkik membaca *lā tuʿāwid al-ʿadāwa bi-l-ikhāʾ* ("janganlah mengulangi permusuhan dengan persaudaraan"; menurut penyunting, naskah menulis *lā ʿād*); terjemahan Turki memahaminya "janganlah memperbarui permusuhan dengan saudara-saudaramu sebelum apinya berkobar". Kami membacanya *bādir al-ʿadāwa bi-l-ikhāʾ* ("segerakanlah menghadapi permusuhan dengan persaudaraan"), yang sesuai dengan alasannya: memadamkan api sebelum menyebar itu mudah.
+
+[^d28]: CD: Nasihat untuk bersikap ramah kepada musuh terdapat pula dalam *al-Dharīʿa*, Pasal Kelima, "Anjuran Bergaul dengan Orang-Orang Baik dan Menjauhi Orang-Orang Jahat": hendaklah ia bersikap ramah "kepada para penentang, dan kepada orang-orang yang hanya punya kepentingan syahwat di antara mereka, sebagaimana kepada saudara; bersabar terhadap mereka dan tersenyum kepada mereka, dengan harapan mereka kembali menjadi saudara dan untuk menjaga diri dari keburukan mereka". Di *al-Dharīʿa* tujuannya disebut dua: mengembalikan musuh menjadi saudara dan menjaga diri; bait al-Tanukhi di sini hanya menonjolkan yang kedua, bahkan dengan menyembunyikan dendam di balik keramahan. Tentang macam-macam musuh, lihat *al-Dharīʿa*, Pasal Kelima, "Permusuhan", dan nota kaki *al-Dharīʿa* no. 374 (`m-adawa`).
+
+[^p65]: CP: Dalam teks tertulis *ibn al-Faḍl*; dalam sumber-sumber biografi nama kakek al-Rāghib biasanya ditulis *al-Mufaḍḍal*. Kalimat penutup ini, menurut penyunting, menjadi bukti tegas bahwa risalah ini karya al-Rāghib.
