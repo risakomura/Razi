@@ -14,9 +14,9 @@
 | Butir | Keterangan |
 |---|---|
 | Tahap | Penerjemahan berjalan |
-| Sudah diterjemahkan | Risalah Pertama (lengkap); Risalah Kedua: mukadimah, Pasal Pertama dan Kedua |
-| Posisi berikutnya | Risalah Kedua, Pasal Ketiga |
-| Nomor catatan terakhir | CM s7 · CP p72 · CD d33 · CT t3 |
+| Sudah diterjemahkan | Risalah Pertama (lengkap); Risalah Kedua: mukadimah, Pasal Pertama s.d. Kelima |
+| Posisi berikutnya | Risalah Kedua, Pasal Keenam |
+| Nomor catatan terakhir | CM s7 · CP p76 · CD d38 · CT t3 |
 | Catatan istilah | lihat 3.3 |
 
 ---
@@ -1092,3 +1092,75 @@ Maka tetaplah bahwa tidak ada yang lebih buruk bagi manusia daripada kosong dari
 [^t3]: CT: Pembagian dua daya ini sejalan dengan *Tafṣīl*, Bab Kelima, "Terbentuknya Manusia Sedikit demi Sedikit hingga Menjadi Manusia yang Sempurna": "Jiwa manusia berada di antara dua daya: daya syahwat dan daya akal"; jiwa manusia berada di antara daya syahwat, yang dengannya ia berhasrat kepada kelezatan badan dan kebinatangan, dan daya akal, yang dengannya ia berhasrat kepada ilmu dan perbuatan yang indah; penyunting mengutip bagian ini. Di sini daya akal disebut "daya kemalaikatan", dan penyucian jiwa diserahkan kepada pilihan manusia.
 
 [^p72]: CP: Ungkapan ini berasal dari jawaban Ṣaʿṣaʿa bin Ṣūḥān kepada Muawiyah ketika diminta menggambarkan manusia: "Penunggang kuda yang membela negeri, petani yang berusaha memakmurkan, orang alim yang sibuk dengan agama, dan rakyat jelata di antara mereka yang mengeruhkan air dan menaikkan harga" (dicatat penyunting dan penerjemah Turki dari *al-Amālī* karya Abū ʿAlī al-Qālī). Al-Rāghib juga memakai ungkapan ini dalam *al-Dharīʿa*, Pasal Keenam, "Kewajiban Mencari Penghidupan", tentang para penganggur: "Tidak ada faedah pada orang-orang seperti mereka kecuali mengeruhkan sumber-sumber air dan menaikkan harga-harga." Kata *ghāfilan* dalam teks dibaca *ghuflan* ("kosong"), sesuai usul penyunting.
+
+## Pasal Ketiga: Keutamaan Akal {.judul-bab}
+
+Ketahuilah bahwa akal adalah alat bagi setiap ilmu dan setiap kebaikan; dengannya dikenal setiap yang baik dan yang buruk.[^r-aql] Karena itu dikatakan: "Akal adalah raja, dan perangai-perangai adalah rakyatnya; bila ia lemah dalam mengurus mereka, kerusakan sampai kepada mereka." Buzurjmihr berkata: "Akal adalah penasihat yang lurus dan penolong yang membahagiakan; siapa yang menaatinya akan diselamatkannya, dan siapa yang mendurhakainya akan dibinasakannya." Dikatakan: "Orang berakal ialah yang memiliki pengawas dari akalnya atas seluruh syahwatnya."
+
+Maka setiap keutamaan yang tidak diawasi akal lebih layak disebut kekurangan dan lebih layak dijauhi, sebab ia adalah keburukan yang dinamai dengan nama keutamaan dan sifat tercela yang disifati terpuji, karena ia berpotensi membinasakan pemiliknya.[^p73] Karena itu dikatakan: "Siapa yang akalnya bukan sifat baik yang paling menguasainya, kebinasaannya ada pada sifat baik yang paling menguasainya."[^d34]
+
+Dikatakan: "Akal tanpa adab adalah kefakiran, dan adab tanpa akal adalah kebinasaan"; maka lihatlah betapa jauh jarak antara kefakiran dan kebinasaan! Dikatakan pula: "Janganlah meneladani perbuatan orang yang tidak memiliki ikatan akal."
+
+Karena tidak ada keutamaan pada manusia yang terlepas dari akal, dan akal yang sempurna tidak terlepas dari keutamaan-keutamaan, seorang bijak berkata: "Keajaiban yang paling ajaib ialah akal tanpa kemuliaan budi dan kemuliaan budi tanpa akal," sebagai peringatan bahwa yang satu tidak terlepas dari yang lain. Dikatakan: "Akal memegang tali kekang keutamaan." Hal ini diungkapkan oleh riwayat bahwa ketika Adam turun (ke bumi), Jibril datang kepadanya dan berkata: "Allah menghadirkan kepadamu akal, agama, dan rasa malu agar engkau memilih salah satunya." Adam berkata: "Aku memilih akal." Jibril, semoga salam atasnya, berkata kepada agama dan rasa malu: "Pergilah kalian." Keduanya menjawab: "Kami diperintahkan untuk tidak berpisah dari akal di mana pun ia berada."
+
+[^r-aql]: **Akal** (*ʿaql*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 93 (`m-aql`, *al-Mufradāt*) dan no. 94 (`k-aql`, *Kashshāf*), dan terjemahan *Tafṣīl*, catatan no. 24 (`r-aql`).
+
+[^p73]: CP: Edisi tahkik membaca *lam yūf al-ʿaql ʿalayhā*; kami mengikuti pembetulan penyunting, *lam yushrif* ("tidak mengawasi"). Frasa *maẓinna an turdiyahu* berarti "tempat yang disangka akan membinasakannya", yakni berpotensi membinasakan.
+
+[^d34]: CD: Ucapan ini terdapat dalam *al-Dharīʿa*, Pasal Kedua, "Keutamaan Akal", sebagai ucapan para ahli hikmah, dengan bunyi yang berbeda pada ujungnya: "siapa yang akalnya bukan sifat baik yang paling menguasainya, kebinasaannya ada pada sifat *buruk* yang paling menguasainya." Di sini, dalam naskah dan juga dalam terjemahan Turki, ujungnya berbunyi "sifat *baik* yang paling menguasainya", dan bunyi ini justru sesuai dengan konteks risalah: keutamaan yang tidak diawasi akal, seperti keberanian tanpa akal atau kemurahan tanpa akal, dapat membinasakan pemiliknya. Maka perbedaan ini agaknya disengaja: di *al-Dharīʿa* ucapan itu menegaskan bahwa akal harus mengalahkan keburukan, di sini bahwa akal harus memimpin kebaikan.
+
+## Pasal Keempat: Macam-Macam Akal {.judul-bab}
+
+Akal ada dua. Pertama, akal bawaan (*gharīzī*), yang dengannya manusia menjadi manusia dan terbedakan dari seluruh hewan; bila anak kecil telah mencapai usia tertentu, akal itu menjadi kuat padanya, dan dengannya taklif berlaku ketika ia balig; para filsuf terdahulu menamainya akal hayulani (*al-ʿaql al-hayūlānī*). Kedua, akal luar yang diperoleh (*mustafād*) dengan berbagai jalan kecerdasan, yang berlaku sebagai kelanjutan dari akal yang pertama.[^r-ghariza2][^d35]
+
+Diriwayatkan dari Amirul Mukminin: "Akal ada dua: akal yang baru (diperoleh) dan akal pembawaan. Bila keduanya terhimpun pada seseorang, dialah yang tak tertandingi; dan bila hanya ada salah satunya, akal pembawaan yang lebih utama." Ia lebih utama karena akal perolehan tidak tercapai sebagaimana mestinya kecuali bagi orang yang memiliki akal bawaan.[^p74]
+
+Yang menunjukkan hal itu ialah riwayat dari Nabi, semoga salam atasnya, bahwa beliau bersabda: *"Ketika Allah Ta'ala menciptakan akal, Dia berfirman kepadanya: Menghadaplah! Maka ia menghadap. Kemudian Dia berfirman kepadanya: Berbaliklah! Maka ia berbalik. Kemudian Dia berfirman: Demi kemuliaan dan keagungan-Ku, tidaklah Aku menciptakan makhluk yang lebih mulia bagi-Ku daripadamu; denganmu Aku mengambil dan denganmu Aku memberi."* Inilah akal bawaan; karena itu penciptaannya dinisbatkan kepada Allah Ta'ala.[^d36]
+
+Diriwayatkan bahwa beliau, semoga salam atasnya, bersabda: *"Tidak ada seorang pun yang memperoleh sesuatu yang lebih utama daripada akal yang menunjukkannya kepada petunjuk dan mengembalikannya dari kebinasaan."* Yang beliau maksud adalah akal perolehan; karena itu beliau menjadikannya perolehan manusia. Yang menjelaskan hal itu ialah sabda beliau, semoga salam atasnya: *"Wahai Ali, bila manusia mendekatkan diri kepada Pencipta mereka dengan berbagai macam kebajikan, maka dekatkanlah dirimu kepada-Nya dengan berbagai macam akal, niscaya engkau mendahului mereka dalam derajat dan kedekatan, di sisi manusia di dunia dan di sisi Allah di akhirat."*
+
+Kepada akal inilah Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, mengisyaratkan. Dikatakan (kepada seseorang): "Alangkah berakalnya orang Nasrani ini!" Ia menjawab: "Orang berakal ialah orang yang mengesakan Allah Ta'ala dan beramal dengan menaati-Nya." Sejalan dengan itu apa yang dikisahkan Allah tentang penghuni neraka: *"Sekiranya (dahulu) kami mendengarkan atau memikirkan (peringatan itu) tentulah kami tidak termasuk penghuni neraka yang menyala-nyala"* (al-Mulk: 10).[^d37]
+
+[^r-ghariza2]: **Akal bawaan dan akal perolehan** (*al-ʿaql al-gharīzī*, *al-ʿaql al-mustafād*). Lihat glosarium terjemahan *al-Dharīʿa* (entri *al-ʿaql al-gharīzī / al-muktasab*: "akal bawaan / akal perolehan") dan nota kaki *al-Dharīʿa* no. 78 (`k-gharizah`). Istilah *al-ʿaql al-hayūlānī* ("akal hayulani", akal material) berasal dari para filsuf, yang menamai tingkat pertama akal dengan nama materi pertama (*hayūlā*) karena ia semata-mata kesiapan untuk menerima bentuk-bentuk inteligibel, sebagaimana materi siap menerima segala bentuk.
+
+[^d35]: CD: Pembagian yang sama terdapat dalam *al-Dharīʿa*, Pasal Kedua, "Keutamaan Akal", subbahasan "Macam-Macam Akal": "akal bawaan (*gharīzī*), yaitu daya yang siap menerima ilmu-ilmu, yang keberadaannya pada anak kecil seperti keberadaan pohon kurma di dalam biji dan bulir di dalam benih; dan akal perolehan (*mustafād*), yaitu yang dengannya daya itu menjadi kuat". Di *al-Dharīʿa* akal perolehan dibagi lagi menjadi yang diperoleh tanpa pilihan dan yang diperoleh dengan pilihan; di sini ditambahkan nama filosofis akal bawaan (*hayūlānī*) dan kaitannya dengan taklif.
+
+[^p74]: CP: Edisi tahkik membaca *kānat al-naḥīza awwalahumā* ("akal pembawaan yang pertama dari keduanya"); kami membacanya *awlāhumā* ("yang lebih utama dari keduanya"), sesuai dengan kalimat penjelasnya ("Ia lebih utama karena …"). Dalam *al-Dharīʿa* ucapan Ali tentang dua akal dikutip dalam bentuk syair ("Akal ada dua: yang tertabiat dan yang terdengar …"), dan penyunting mengutipnya pada tempat ini.
+
+[^d36]: CD: Hadis ini dikutip dalam *al-Dharīʿa*, Pasal Kedua, "Keutamaan Akal", dan dalam *Tafṣīl*, Bab Kedua, "Genus-Genus Segala yang Ada dan Kedudukan Manusia di Antaranya", dengan awal "Yang pertama kali diciptakan Allah Ta'ala adalah akal" dan dengan tambahan pada akhirnya ("denganmu Aku memberi pahala, dan denganmu Aku menghukum"). Terjemahan di atas mengikuti redaksi terjemahan *al-Dharīʿa*. Penerapannya berbeda: di *al-Dharīʿa* hadis ini menjadi dalil bahwa akal adalah substansi dan makhluk pertama, dan di *Tafṣīl* bahwa yang inteligibel diadakan sebelum yang terindra; di sini hadis itu menunjuk akal bawaan, yang penciptaannya dinisbatkan kepada Allah, sebagai lawan akal perolehan yang dinisbatkan kepada usaha manusia. Kedua hadis sesudahnya juga dikutip dalam *al-Dharīʿa* pada tempat yang sama, untuk akal perolehan.
+
+[^d37]: CD: Kisah orang Nasrani ini dan ayat al-Mulk: 10 dikutip dalam *al-Dharīʿa*, Pasal Kedua, "Akal Perolehan yang Duniawi dan yang Ukhrawi", sebagai contoh "sedikitnya penghargaan terhadap pengetahuan duniawi"; di sana penjawabnya adalah seseorang yang berkata kepada orang yang menyifati orang Nasrani sebagai berakal: "Diam! Orang berakal hanyalah orang yang mengesakan Allah Ta'ala dan beramal dengan menaati-Nya." Terjemahan jawaban dan ayat di atas mengikuti redaksi itu. Dengan demikian, yang dimaksud dengan "akal" dalam kisah ini adalah akal perolehan yang ukhrawi.
+
+## Pasal Kelima: Macam-Macam Pengetahuan yang Diusahakan {.judul-bab}
+
+Pengetahuan ada dua macam: yang diperoleh tanpa perantara dan yang diperoleh dengan perantara.
+
+Yang diperoleh tanpa perantara ada dua. Pertama, yang diperoleh dari indra, seperti pengetahuan tentang warna, suara, yang dicecap, dan yang diraba. Kedua, yang diperoleh dari akal secara spontan (*badīhatan*) tanpa berpikir, seperti pengetahuan bahwa dua dan dua adalah empat; bahwa setiap dua jisim, bila yang satu dibandingkan dengan yang lain, adakalanya sama, lebih besar, atau lebih kecil; bahwa sesuatu yang sama dengan dua hal yang sama, maka ketiganya sama; bahwa tidak ada perantara antara penetapan dan penafian; bahwa keseluruhan lebih besar daripada bagian; dan bahwa satu jisim tidak berada di dua tempat dalam satu keadaan. Semua ini tidak membutuhkan premis, tetapi orang-orang berakal mengidraknya dengan sekadar memperhatikan, sebagaimana yang mengindra mengidrak yang terindra dengan bersentuhan langsung dengannya.[^p75]
+
+Adapun yang diperoleh dengan perantara ialah yang membutuhkan pemikiran dan penggalian, baik dengan perantaraan indra maupun dengan perantaraan akal. Keduanya adakalanya akliah, adakalanya keagamaan (*millī*), dan adakalanya dituntut oleh keduanya sekaligus.[^r-milla]
+
+Yang akliah ialah mengenal Allah Ta'ala dan mengenal kenabian Nabi-Nya.
+
+Yang keagamaan ialah mengenal Kitab Allah, qiraahnya, takwilnya, dan tafsirnya, dan sunah Nabi-Nya, serta apa yang digali dari keduanya berupa fikih, kalam, nasihat-nasihat, dan zuhud; kitab-kitab ilmu bahasa dan nahwu adalah alat dan tiangnya.
+
+Yang hikmah (*ḥikamī*) ialah mengenal ilmu hitung, ilmu bintang, geometri, ilmu alam, firasat, dan kedokteran; dan dikatakan: logika adalah alat baginya.[^r-hikma2]
+
+Jalan sampai kepada ilmu-ilmu ada tiga.
+
+**Pertama**: dari bahan-bahan langit, yaitu keadaan permulaan (penciptaan) dan pengembalian, cara pahala dan siksa, dan pokok-pokok ibadah.
+
+**Kedua**: dari dalil-dalil yang digali, seperti mengenal barunya alam, mengenal Allah, mengenal kenabian, dan mengenal wajibnya pembalasan.[^p76]
+
+**Ketiga**: dari jalan pengalaman, seperti firasat, tafsir mimpi, ilmu jejak (*qiyāfa*), ramalan burung (*zajr*), ilmu hitung, ilmu bintang, mengenal waktu-waktu bercocok tanam, pengalaman-pengalaman, dan umumnya cara-cara mencari penghasilan.
+
+Ketiganya diperoleh manusia dengan taufik Allah Ta'ala, dan taufik adalah tiang setiap yang dicari.[^d38]
+
+[^p75]: CP: Edisi tahkik membaca *kull jinsayn* ("setiap dua jenis"); penyunting mencatat bahwa kata itu tidak jelas. Kami mengikuti penerjemah Turki, *kull jismayn* ("setiap dua jisim"), yang sesuai dengan contoh berikutnya. Kalimat "sesuatu yang sama dengan dua hal yang sama, maka ketiganya sama" dilengkapi menurut maksudnya, sebab penyunting mencatat ada kata yang hilang. Kata yang tidak jelas sesudah "mengidraknya" dibaca *bi-l-mulāḥaẓa* ("dengan memperhatikan"), sesuai bacaan penyunting.
+
+[^r-milla]: **Keagamaan** (*millī*). *Millī* dinisbatkan kepada *milla* (agama, syariat), dan dalam klasifikasi ilmu berarti ilmu yang bersumber dari nukilan agama, sebagai lawan ilmu akliah. Al-Rāghib menambahkan kelompok ketiga, yang dituntut oleh akal dan agama sekaligus, dan menyebutnya ilmu hikmah (*ḥikamī*).
+
+[^r-hikma2]: **Hikmah** (*ḥikma*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 38 (`m-hikma`) dan no. 39 (`k-hikma`), dan terjemahan *Tafṣīl*, catatan no. 46 (`r-hikma`). Penyunting mengutip ucapan al-Rāghib (dalam *al-Dharīʿa*, Pasal Pertama) bahwa nisbah ilmu-ilmu kepada hikmah dari satu segi seperti nisbah anggota-anggota kepada badan, karena ilmu-ilmu itu bagian-bagiannya.
+
+[^p76]: CP: Edisi tahkik membaca *maʿrifat ḥudūth al-ʿilm* ("barunya ilmu"); kami mengikuti pembetulan penerjemah Turki, *ḥudūth al-ʿālam* ("barunya alam"), yang merupakan pokok pertama ilmu kalam dan yang sesuai dengan deretan sesudahnya.
+
+[^d38]: CD: *Al-Dharīʿa*, Pasal Kedua, "Jalan-Jalan Memperoleh Ilmu", membagi jalan ilmu menjadi empat: (1) spontanitas akal dan benturan indra; (2) perenungan dengan premis-premis akliah atau indrawi; (3) kabar dari manusia, didengar atau dibaca; (4) wahyu. Pembagian di sini berbeda susunannya: pengetahuan tanpa perantara (indra dan spontanitas akal) sejajar dengan jalan pertama; "dalil-dalil yang digali" sejajar dengan jalan kedua; "bahan-bahan langit" sejajar dengan jalan keempat; sedang jalan ketiga *al-Dharīʿa* (kabar) diganti dengan "pengalaman". Pembagian ilmu menjadi akliah, keagamaan, dan hikmah juga tidak sama dengan "Pembatasan Macam-Macam Ilmu" dalam *al-Dharīʿa*, yang membagi ilmu menurut hubungannya dengan lafaz dan makna.
