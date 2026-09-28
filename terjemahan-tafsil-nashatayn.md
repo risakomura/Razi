@@ -15,9 +15,9 @@
 | Butir | Keterangan |
 |---|---|
 | Tahap | Penerjemahan berjalan |
-| Sudah diterjemahkan | Mukadimah; Bab Pertama sampai Bab Kesembilan |
-| Posisi berikutnya | Bab Kesepuluh (Arab bab 10) |
-| Nomor catatan terakhir | CP: p22 · CD: d30 |
+| Sudah diterjemahkan | Mukadimah; Bab Pertama sampai Bab Kesepuluh |
+| Posisi berikutnya | Bab Kesebelas (Arab bab 11) |
+| Nomor catatan terakhir | CP: p24 · CD: d32 |
 | Catatan istilah | lihat 3.3 |
 
 ---
@@ -507,3 +507,38 @@ Pembohong penjilat itu dijadikannya kiasan bagi daya duga (*wahm*), si keras yan
 [^k-wahm]: **Daya duga** (*wahm*, *al-quwwa al-wahmiyya*; Ing. *estimation*). *Kashshāf*: salah satu indra batin, bertempat di seluruh otak tetapi paling khusus di ujung rongga tengahnya; ia menangkap makna-makna parsial yang ada pada hal-hal terindra, seperti daya yang memutuskan pada domba bahwa serigala harus dijauhi dan anak harus dikasihi. *Kashshāf* juga mencatat bahwa daya pengolah gambaran disebut *mutakhayyila* (daya khayal) bila jiwa memakainya untuk hal-hal terindra dengan perantaraan daya duga, dan *mufakkira* (daya pikir) bila jiwa memakainya untuk hal-hal inteligibel dengan perantaraan akal; dan bahwa daya duga adalah "penguasa daya-daya itu", yang berebut dengan akal dan memutuskan berlawanan dengan putusan akal, "maka siapa yang menundukkannya kepada daya akliah hingga ia patuh kepadanya, sungguh ia beruntung dengan keberuntungan yang besar". (*Kashshāf*, s.v. *al-wahm*, *al-ḥāfiẓa*, *al-quwwa*.) Keterangan ini menjelaskan dua hal dalam perumpamaan al-Rāghib: mengapa yang di awal disebut "daya khayal" di akhir disebut "daya duga", dan mengapa ia digambarkan sebagai pengawas yang berjalan di depan tetapi pembohong yang harus disumpah dahulu sebelum dipercaya.
 
 [^d30]: CD: Gagasan menolak satu daya yang buruk dengan daya yang lain sejalan dengan *al-Dharīʿa*, Pasal Pertama, bahasan "Sulitnya Memperbaiki Daya Syahwat", yang memandang syahwat dan amarah sebagai daya yang harus didisiplinkan, bukan dihapuskan, karena manusia tidak dapat hidup tanpanya. Perumpamaan musafir di sini memberi bentuk kisah bagi pokok yang sama.
+
+# Bab Kesepuluh {.kitab-ke}
+
+# Manusia sebagai Tujuan Alam dan Diadakannya Selain Manusia demi Dia {.judul-kitab}
+
+Tujuan alam dan pengadaannya sedikit demi sedikit ialah agar manusia diadakan. Tujuan dari rukun-rukun ialah agar darinya terjadi tumbuhan; dari tumbuhan, agar terjadi hewan; dari hewan, agar terjadi jasad-jasad manusia; dari jasad-jasad manusia, agar darinya terjadi roh-roh yang bertutur (*al-arwāḥ al-nāṭiqa*); dan dari roh-roh yang bertutur, agar darinya terwujud kekhalifahan Allah Ta'ala di bumi-Nya, sehingga dengan menunaikan haknya manusia sampai kepada kenikmatan yang abadi, sebagaimana ditunjukkan Allah Ta'ala dengan firman-Nya: *"Aku hendak menjadikan khalifah di bumi"* (al-Baqarah: 30).
+
+Allah Ta'ala menjadikan manusia saripati alam dan intinya, dan dialah yang dikhususkan dengan kemuliaan, sebagaimana firman Allah Ta'ala: *"Dan sungguh, Kami telah memuliakan anak cucu Adam, dan Kami angkut mereka di darat dan di laut, dan Kami beri mereka rezeki dari yang baik-baik dan Kami lebihkan mereka di atas banyak makhluk yang Kami ciptakan dengan kelebihan yang sempurna"* (al-Isra': 70). Dia menjadikan selainnya sebagai penolong baginya, sebagaimana firman-Nya dalam konteks menyebut karunia: *"Dialah (Allah) yang menciptakan segala apa yang ada di bumi untukmu"* (al-Baqarah: 29).[^r-karam][^d31]
+
+[^r-karam]: **Kemuliaan** (*karam*, *takrīm*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 3 (`m-karam`).
+
+[^d31]: CD: *Al-Dharīʿa*, Pasal Pertama, bahasan "Penjelasan Keutamaan Manusia atas Seluruh Hewan", memakai al-Isra': 70 untuk keutamaan manusia, dan menegaskan hal yang sama: "segala yang diadakan di alam ini diadakan hanya demi manusia", baik untuk dimanfaatkan, untuk menjadi makanannya, maupun untuk kepentingan sesuatu yang ia manfaatkan. Terjemahan ayat mengikuti terjemahan *al-Dharīʿa*. Rantai tujuan di sini (rukun, tumbuhan, hewan, jasad manusia, roh yang bertutur, kekhalifahan) adalah kebalikan dari urutan penciptaan dalam Bab Kedua.
+
+Maka keutamaannya bukanlah karena kekuatan jasad, sebab gajah dan unta lebih kuat jasadnya; bukan karena panjang umur, sebab burung nasar dan ular lebih panjang umurnya; bukan karena kerasnya serangan, sebab singa dan macan lebih keras serangannya; bukan karena indahnya pakaian, sebab burung durraj lebih indah pakaiannya;[^p23] bukan karena kuatnya bersetubuh, sebab keledai dan burung pipit lebih kuat bersetubuh; dan bukan karena banyaknya emas dan perak, sebab tambang-tambang dan gunung-gunung lebih banyak emas dan peraknya. Alangkah indahnya ucapan penyair:
+
+> Seandainya bukan karena akal, singa yang paling rendah
+> lebih dekat kepada kemuliaan daripada manusia;
+> dan jiwa-jiwa tak akan saling mengungguli, dan tangan para ksatria
+> tak akan mengendalikan ujung-ujung tombak.[^p24]
+
+[^p23]: CP: *Durrāj* ialah sejenis ayam hutan (francolin) yang bulunya berbintik indah. Edisi pertama menambahkan burung merak, yang tidak ada dalam teks.
+
+[^p24]: CP: Kedua bait ini dari al-Mutanabbi (303-354 H/915-965 M), dari kasidahnya yang dibuka dengan "Pendapat didahulukan sebelum keberanian para pemberani" (*al-raʾyu qabla shajāʿati al-shujʿān*). Maksudnya, singa mengungguli manusia dalam kekuatan, sehingga seandainya ukuran kemuliaan adalah kekuatan, singa lebih mulia; dan yang membuat para ksatria unggul atas binatang buas adalah akal yang mengatur senjata. Terjemahan *al-Dharīʿa* memuat syair al-Mutanabbi yang lain (Pasal Pertama, bahasan "Sulitnya Memperbaiki Daya Syahwat"); lihat catatan `d29` pada Bab Kesembilan.
+
+Bukan pula karena unsur yang darinya ia diadakan, sebagaimana disangka Iblis ketika berkata: *"Engkau ciptakan aku dari api, sedangkan dia Engkau ciptakan dari tanah"* (al-A'raf: 12). Keutamaannya hanyalah karena apa yang dikhususkan Allah Ta'ala baginya, yaitu makna yang Dia simpan di dalamnya dan perkara yang untuknya Dia mempersiapkannya. Allah Ta'ala mengisyaratkan hal itu dengan firman-Nya: *"Kemudian apabila telah Aku sempurnakan (kejadian)nya dan Aku tiupkan roh (ciptaan)-Ku kepadanya; maka tunduklah kamu dengan bersujud kepadanya"* (Shad: 72), dan firman-Nya: *"yang telah Aku ciptakan dengan kedua tangan-Ku"* (Shad: 75).
+
+Ketika Allah Ta'ala mengingatkan para malaikat akan keutamaan Adam, mereka pun sadar, lalu tunduk dan bersujud kepadanya sebagaimana diperintahkan. Adapun Iblis, ketika ia memandang lahir Adam dan asal kejadiannya, lalu membutakan diri dari apa yang disebutkan Allah Ta'ala, dan tidak merenungkan makna yang Allah simpan dalam diri Adam serta kesudahan yang Dia tetapkan baginya, ia pun enggan dan menyombongkan diri.[^r-kibr] Orang-orang kafir meneladaninya dalam menolak para nabi, ketika mereka berkata: *"Orang ini tidak lain hanyalah manusia seperti kamu, yang ingin menjadi orang yang lebih mulia daripada kamu"* (al-Mu'minun: 24), dan berkata: *"Mengapa Rasul (Muhammad) ini memakan makanan dan berjalan di pasar-pasar?"* (al-Furqan: 7). Allah Ta'ala telah mengingatkan bahwa keutamaan mereka tidak dipandang dari lahir badan mereka, melainkan dari makna-makna di dalam jiwa mereka yang tidak terlihat oleh orang-orang kafir. Dia, Mahaperkasa Sang Pembicara, berfirman: *"Dan engkau lihat mereka memperhatikanmu padahal mereka tidak melihat"* (al-A'raf: 198), yakni mereka tidak mengenal apa yang dengannya engkau diunggulkan atas mereka.[^d32]
+
+[^r-kibr]: **Kesombongan** (*kibr*, *istikbār*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 251 (`m-kibr`) dan no. 252 (`k-kibr`).
+
+[^d32]: CD: Ayat al-A'raf: 198 dikutip dalam *al-Dharīʿa*, Pasal Kedua, bahasan "Keutamaan Akal", untuk menunjukkan bahwa akal memiliki penglihatan dan kebutaannya sendiri; terjemahannya mengikuti terjemahan *al-Dharīʿa*. Di sini ayat yang sama menjelaskan kesalahan Iblis dan orang-orang kafir: mereka melihat dengan mata tetapi buta mata batinnya, sehingga hanya menangkap rupa lahir. Ini sejalan dengan pembedaan rupa terindra dan rupa inteligibel dalam Mukadimah dan Bab Ketujuh.
+
+Maka siapa yang diberi taufik untuk menyadari keutamaan apa yang diberikan kepadanya dan apa yang untuknya ia dipersiapkan dan disediakan, lalu berusaha mewujudkannya, *"sesungguhnya dia telah diberi kebaikan yang banyak. Dan tidak ada yang dapat mengambil pelajaran kecuali orang-orang yang mempunyai akal sehat"* (al-Baqarah: 269).[^r-lubb]
+
+[^r-lubb]: **Akal yang murni** (*lubb*, jamak *albāb*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 154 (`m-lubb`). Catatan edisi pertama di sini meringkas entri *al-Mufradāt* dengan tepat: *lubb* ialah akal yang murni dari kotoran; setiap *lubb* adalah akal, tetapi tidak setiap akal adalah *lubb*; karena itu Allah menggantungkan hal-hal yang hanya dapat dipahami oleh akal yang bersih kepada *ulū al-albāb*.
