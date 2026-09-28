@@ -15,9 +15,9 @@
 | Butir | Keterangan |
 |---|---|
 | Tahap | Penerjemahan berjalan |
-| Sudah diterjemahkan | Mukadimah; Bab Pertama sampai Bab Kelima |
-| Posisi berikutnya | Bab Keenam (Arab bab 6) |
-| Nomor catatan terakhir | CP: p18 · CD: d19 |
+| Sudah diterjemahkan | Mukadimah; Bab Pertama sampai Bab Keenam |
+| Posisi berikutnya | Bab Ketujuh (Arab bab 7) |
+| Nomor catatan terakhir | CP: p20 · CD: d21 |
 | Catatan istilah | lihat 3.3 |
 
 ---
@@ -380,3 +380,29 @@ Karena termasuk watak bawaan manusia untuk mencari apa yang mengandung kenikmata
 Jiwa memiliki dua arah pandang. Pandangan ke atas, ke arah akal; darinya ia menimba pengetahuan-pengetahuan dan membedakan antara yang baik dan yang buruk, sehingga ia tahu bagaimana mencari yang baik dan menjauhi yang buruk. Dan pandangan ke bawah, ke arah hawa nafsu; dengannya ia melupakan hakikat-hakikat dan terbiasa dengan hal-hal yang hina, bahkan dengan kotoran-kotoran. Bila jiwa itu mulia, ia terus-menerus memandang ke atas, sebagaimana telah kami sebutkan; ia tidak memandang ke bawahnya kecuali saat terpaksa, dan tidak meraih kenikmatan-kenikmatan badani kecuali menurut kadar yang digariskan oleh akal yang menimba dari syariat. Bila jiwa itu rendah, ia banyak cenderung kepada syahwat-syahwat badani, sehingga hal itu menimbulkan padanya ketundukan dan kepatuhan kepada syahwat-syahwat, lalu hawa nafsu memperbudaknya, sebagaimana firman Allah Ta'ala: *"Maka pernahkah kamu melihat orang yang menjadikan hawa nafsunya sebagai tuhannya dan Allah membiarkannya sesat dengan sepengetahuan-Nya"* (al-Jasiyah: 23). Allah membiarkannya sesat hanyalah sesudah ia menjadikan hawa nafsunya sebagai tuhannya dan menjadikannya hamba bagi tujuan-tujuan duniawi, sebagaimana sabda Nabi, semoga Allah melimpahkan selawat dan salam kepadanya: *"Celakalah hamba dirham,"* hingga akhir hadis. Dari perbudakan inilah Ibrahim al-Khalil, semoga salam tercurah kepadanya, memohon perlindungan ketika berkata: *"dan jauhkanlah aku beserta anak cucuku agar tidak menyembah berhala"* (Ibrahim: 35).[^d19]
 
 [^d19]: CD: Penafsiran yang sama terdapat dalam *al-Dharīʿa*, Pasal Keenam, bahasan "Pujian dan Celaan terhadap Harta": dengan doa *"dan jauhkanlah aku beserta anak cucuku agar tidak menyembah berhala"* Ibrahim tidak bermaksud selain dijauhkan dari cinta kepada bagian-bagian dunia yang memalingkan dari Allah, sebab ia dan anak-anaknya terlalu suci untuk khawatir menyembah batu buatan sendiri. Hadis "Celakalah hamba dirham, celakalah hamba dinar" dikutip pula di sana dan dalam Pasal Pertama, bahasan "Keutamaan yang Lahir dari Keutamaan Jiwa", untuk perbudakan yang menjadi lawan kemerdekaan jiwa. Terjemahan ayat, hadis, dan al-Jasiyah: 23 di sini mengikuti terjemahan *al-Dharīʿa*.
+
+# Bab Keenam {.kitab-ke}
+
+# Tampaknya Manusia dalam Ciri-Ciri Segala yang Ada dan Dikhususkannya Ia dengan Daya dari Masing-Masing {.judul-kitab}
+
+Zat manusia, karena di dalamnya berhimpun daya-daya segala yang ada, menjadi wadah makna-makna alam, bahan rupa-rupanya, tambang jejak-jejaknya, dan tempat berhimpun hakikat-hakikatnya. Seakan-akan ia tersusun dari benda mati, tumbuhan, binatang ternak, binatang buas, setan, dan malaikat. Karena itu ia terkadang tampak dalam ciri (*shiʿār*) masing-masing dari semua itu.[^p19]
+
+[^p19]: CP: *Shiʿār* pada asalnya ialah pakaian yang langsung menempel pada kulit, lalu dipakai untuk tanda atau ciri yang menjadi pengenal suatu kaum. Maksudnya: manusia dapat "mengenakan" ciri benda mati, tumbuhan, hewan, setan, atau malaikat, sehingga ia dikenali dengannya.
+
+Terkadang ia berlaku seperti benda mati dalam kemalasan, sedikitnya gerak, dan lemahnya dorongan. Kepada hal ini Allah Ta'ala mengingatkan dengan firman-Nya: *"Kemudian setelah itu hatimu menjadi keras, sehingga (hatimu) seperti batu, bahkan lebih keras"* (al-Baqarah: 74).[^r-kasal]
+
+[^r-kasal]: **Kemalasan** (*kasal*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 145 (`m-kasal`).
+
+Terkadang ia tampak dalam ciri tumbuhan yang terpuji atau yang tercela. Ia menjadi seperti utrujah, yang harum buah, bunga, batang, dan daunnya; atau seperti pohon kurma dan anggur dalam manfaat yang diberikannya; atau seperti tali putri (*kushūth*) dalam ketiadaan kebaikannya; atau seperti labu pahit (*ḥanẓal*) dalam buruk rasanya. Kepada hal ini Allah Ta'ala mengingatkan dengan firman-Nya: *"Allah telah membuat perumpamaan kalimat yang baik seperti pohon yang baik, akarnya kuat dan cabangnya (menjulang) ke langit, (pohon) itu menghasilkan buahnya pada setiap waktu dengan seizin Tuhannya. Dan Allah membuat perumpamaan itu untuk manusia agar mereka selalu ingat. Dan perumpamaan kalimat yang buruk seperti pohon yang buruk, yang telah dicabut akar-akarnya dari permukaan bumi; tidak dapat tetap (tegak) sedikit pun"* (Ibrahim: 24-26).[^d20]
+
+[^d20]: CD: Perumpamaan tumbuhan dan hewan ini sejajar dengan *al-Dharīʿa*, Pasal Pertama, bahasan "Golongan-Golongan Manusia": orang mukmin di antara hewan seperti lebah dan di antara pepohonan seperti utrujah, yang harum buah, bunga, batang, dan daunnya; orang munafik seperti tali putri (*kushūth*), tumbuhan yang tidak berakar dan tidak berdaun, yang merusak buah-buahan dan mengeringkan pepohonan; dan orang yang baik rupanya tetapi buruk batinnya seperti labu pahit. Padanan "utrujah", "tali putri", dan "labu pahit" mengikuti terjemahan *al-Dharīʿa*. Lihat pula terjemahan *al-Dharīʿa*, nota kaki no. 9 (`y3`) dan no. 149 (`y55`), yang keduanya merujuk ke bab ini. Bedanya, *al-Dharīʿa* memakai perumpamaan ini untuk memilah golongan-golongan manusia, sedang *Tafṣīl* memakainya untuk menunjukkan bahwa satu orang yang sama dapat tampil dalam ciri mana pun di antaranya.
+
+Terkadang ia tampak dalam ciri hewan yang terpuji dan yang tercela. Ia menjadi seperti lebah dalam banyak manfaatnya, sedikit mudaratnya, dan baik pengaturannya; Allah Ta'ala berfirman: *"Dan Tuhanmu mengilhamkan kepada lebah, 'Buatlah sarang di gunung-gunung, di pohon-pohon kayu, dan di tempat-tempat yang dibikin manusia'"* (an-Nahl: 68). Atau seperti burung yang dinamai Abu al-Wafa';[^p20] atau seperti babi dalam kerakusan, serigala dalam berbuat kerusakan, anjing dalam ketamakan, semut dalam mengumpulkan, tikus dalam mencuri, rubah dalam tipu daya, kera dalam meniru-niru, keledai dalam kedunguan, dan lembu jantan dalam kekasaran. Kepada keserupaan semacam inilah Allah menunjukkan dengan firman-Nya: *"Dan tidak ada seekor binatang pun yang ada di bumi dan burung-burung yang terbang dengan kedua sayapnya, melainkan semuanya merupakan umat-umat (juga) seperti kamu. Tidak ada sesuatu pun yang Kami luputkan di dalam Kitab, kemudian kepada Tuhan mereka dikumpulkan"* (al-An'am: 38).
+
+[^p20]: CP: Abu al-Wafa' ("Bapak Kesetiaan") disebut di sini sebagai contoh sifat terpuji; dari namanya, sifat yang dimaksud tampaknya kesetiaan (*wafāʾ*). Bandingkan *al-Dharīʿa*, bahasan "Golongan-Golongan Manusia": "setia seperti burung merpati". Edisi pertama mengidentifikasinya sebagai bangau sapi; identifikasi itu tidak kami temukan dasarnya dalam kamus-kamus yang kami periksa, sehingga tidak dipakai.
+
+Terkadang ia tampak dalam ciri setan: ia memperdaya, menyesatkan, dan menghias-hiasi kebatilan dalam rupa kebenaran, sebagaimana ditunjukkan Allah Ta'ala dengan firman-Nya: *"setan-setan manusia dan jin, sebagian mereka membisikkan kepada sebagian yang lain perkataan yang indah sebagai tipuan"* (al-An'am: 112).
+
+Ia menjadi manusia hanyalah bila ia meletakkan masing-masing dari hal-hal itu pada tempatnya, sesuai tuntutan akal yang diridai, yang melihat dengan cahaya syariat.[^d21]
+
+[^d21]: CD: Kesimpulan ini adalah rumus keadilan dalam *al-Dharīʿa*: keutamaan ialah meletakkan setiap daya pada tempatnya di bawah pimpinan akal, dan akal sendiri tidak memadai tanpa syariat (Pasal Pertama, bahasan "Kesucian Jiwa sebagai Syarat Sahnya Kekhalifahan Allah Ta'ala dan Sempurnanya Ibadah kepada-Nya"; Pasal Kedua, bahasan "Rasul dan Akal sebagai Dua Penunjuk Makhluk kepada Kebenaran"). Saling membutuhnya akal dan syariat menjadi pokok Bab Kedelapan Belas kitab ini.
