@@ -4052,3 +4052,725 @@ sebab hartanya habis banyak."
 
 [1294] Dari segala penjuru pintu terbuka,\
 para tukang bual mengumbar omongan.
+
+[1295] Satu dua tukang oceh menemukan ujung benang,\
+mengulang-ulang pelajaran salah ucap.
+
+[1296] "Maaf, kawan-kawan, kalau bikin pusing;\
+air mawar ini ampuh buat pilek.
+
+[1297] Suatu waktu aku pergi ke pemandian,\
+entah apa yang kulakukan, apa yang kuperbuat.
+
+[1298] Kalian bilang pemandian, jadi teringat\
+satu kejadian yang lebih penting dari semua.
+
+[1299] Biar kuceritakan itu dulu:\
+dulu aku berbaiat pada seorang syaikh..."
+
+[1300] Kalau semua omongan itu dicatat,\
+risalah kita tak akan sampai tamat.
+
+[1301] Walhasil, orang-orang kecil yang juling pikirnya itu\
+memulai seribu campur aduk kata.
+
+[1302] Diuraikan hadis yang bercabang-cabang,\
+dituturkan sebab-sebab kegilaan.
+
+[1303] Asmara dan Ghirah terjepit di tengah,\
+seluruh Bani Mahabbah bersenang-senang.
+
+[1304] Tercengang, lelaki gesit itu\
+menghadapkan dada yang koyak kepada Jelita.
+
+[1305] Jelita mengirim pesan begini:\
+"Dengarlah kata kabilah.
+
+[1306] Apa pun pendapat yang dinyatakan kabilah,\
+itulah pendapatku; jangan jemu."
+
+## Asmara Merendah kepada Kabilah {.judul-bagian}
+
+[1307] Tanpa daya, lelaki yang bingung itu\
+menjadi budak titah para musuh.
+
+[1308] Bertanya, "Apa sebab aniaya ini,\
+yang diada-adakan kabilah?
+
+[1309] Kenapa keadaanku dijadikan ejekan,\
+kataku dianggap aib?
+
+[1310] Apa yang menghalangi kalian menasihati?\
+Bukankah aku masuk akal dan mau menerima?
+
+[1311] Kalau peminang Jelita disebut gila,\
+langit ini jadi rumah sakit jiwa.
+
+[1312] Terangkan sebab hardikan ini;\
+kalau aku bersalah, jelaskanlah."
+
+## Kabilah Sepakat: Maskawin Adalah Menanggung Bala, Begitulah Adat Kami {.judul-bagian}
+
+[1313] Seluruh pemuka kabilah\
+menerangkan maksud kepada Asmara:
+
+[1314] "Wahai orang bijak peminang Jelita,\
+bila permata nasihat masih bertahan di telingamu,
+
+[1315] pikirkanlah, kami semua saling kenal,\
+semua ditimpa gelora dan hasrat.
+
+[1316] Siapa yang sampai kepada kekasih dengan sepatah kata,\
+sampai ke musim semi dengan sekuntum bunga?
+
+[1317] Mungkinkah harta tanpa jerih?\
+Banyak orang yang dapat jerih tanpa harta.
+
+[1318] Bukankah lebih pantas kami bersenang-senang\
+melihat klaim bertemu Jelita sekonyong-konyong?
+
+[1319] Mana bisa bertemu kekasih dengan kata?\
+Kasihanilah, jangan ulang kata itu.
+
+[1320] Jangan kira gugatan kami ini tipu daya;\
+tanya saja Qais dari kabilah kami.
+
+[1321] Tanpa derita dan duka bertemu kekasih,\
+kepada siapa itu pernah pantas?
+
+[1322] Tak seorang pun menempuh jalan itu,\
+tak seorang pun pernah mendengarnya.
+
+[1323] Di gelanggang, mahkota itu untuk kepala;\
+serahkan kepala, supaya jadi kepala di jalan ini."
+
+## Asmara Menyanggupi Segala Bala {.judul-bagian}
+
+[1324] Asmara paham apa ujung perkara,\
+huru-hara omongan pun didiamkan.
+
+[1325] Katanya, "Silakan, khidmat apa?\
+Mulai kini aku dan bala dan derita."
+
+[1326] Para pemuka kabilah mengatur siasat:\
+"Siapkan uang tunai untuk mahar.
+
+[1327] Akad Jelita butuh harga mahal,\
+pertama-tama kau butuh Kimia.
+
+[1328] Jangan diam, berangkatlah ke negeri Kalbu,\
+taruh nyawa dan kepala di jalan menuju Kalbu.
+
+[1329] Di kota itu konon ada Kimia,\
+di jalannya konon banyak bala.
+
+[1330] Naga berbelang berkepala seribu,\
+kapal lilin, di bawahnya laut api.
+
+[1331] Seribu tahun perjalanan: Reruntuhan Duka,\
+di seberangnya Istana Ratapan.
+
+[1332] Di awal jalan itu ada penyihir termasyhur,\
+tiap helai rambutnya ular, ini bukan bohong.
+
+[1333] Di sebuah padang ada raksasa dan peri,\
+singa, harimau, binatang buas darat,
+
+[1334] jin berupa-rupa, seribu muka buruk,\
+naga-naga berkedok penyihir.
+
+[1335] Di malam-malam gelap, genderuwo liar,\
+suaranya menggelegar melebihi guruh.
+
+[1336] Dengan sihir api dihujankan ke padang itu,\
+kadang ular berbelang.
+
+[1337] Kalau Allah menolong dan kau lolos,\
+kalau air kota Kalbu kau minum,
+
+[1338] dapatkan Kimia yang ada di sana,\
+lalu datanglah ke sini, sampailah kepada Jelita."
+
+## Asmara Berangkat ke Negeri Kalbu, dan Apa yang Menimpanya {.judul-bagian}
+
+[1339] Asmara girang oleh kabar ini,\
+dengan seribu rindu dikoyaknya baju.
+
+[1340] Seketika bertanya di mana negeri Kalbu,\
+lalu menempuh jalan menuju Kalbu.
+
+[1341] Ghirah pun menjadi kawan seiring,\
+dua sahabat menuju kekasih.
+
+[1342] Begitu lelaki jalan itu masuk ke jalan,\
+pada langkah pertama jatuh ke sumur.
+
+[1343] Tapi sumur macam apa! Sumur pusaran,\
+seperti keabadian, tak terlihat dasarnya.
+
+[1344] Kata Ghirah, "Wahai yang rela berkorban,\
+sekarang tanyalah Kimia kepada Karun."
+
+[1345] Sumur ini kota raya,\
+perbendaharaan harta karun putus asa dan ratapan.
+
+[1346] Bukan jalan ketiadaan, bukan negeri kegelapan;\
+sumur yang isinya rintih dan jerit.
+
+[1347] Pertanda gulita perpisahan,\
+laut kegelapan tak bertepi.
+
+[1348] Andai Khidir tersesat dan jatuh ke sini,\
+umurnya putus di tengah jalan.
+
+[1349] Andai surya melemparkan laso bulan dan tahun,\
+mustahil menemukan dasarnya.
+
+[1350] Karena bulan Nakhsyab jatuh ke sumur itu,\
+pantas dinamai Sumur Nakhsyab.
+
+[1351] Jangan sesali kejatuhannya;\
+Yusuf pun menemukan mikraj di sumur.
+
+[1352] Seakan lesung dagu menjadi tempat rambut,\
+bulan Kanaan bertemu Harut.
+
+[1353] Walhasil, mentari penghias alam itu\
+terbalik, sumur dijadikan kediaman.
+
+[1354] Hendak menuju kubah Simak,\
+tapi perjalanan lain tampak bagi bumi.
+
+[1355] Berlalu bertahun, berbulan, berhari,\
+akhirnya dasar ditemukan, lalu berhenti.
+
+[1356] Rupanya sumur derita itu\
+tempat tidur dan istirahat seorang raksasa.
+
+[1357] Raksasa yang punya banyak bala tentara,\
+masing-masing tambang kehitaman.
+
+[1358] Bermuka buruk seperti malam perpisahan,\
+haus darah, bau busuk bagai bangkai gajah.
+
+[1359] Kedua insan malang itu ditangkap,\
+kaki keduanya dijerat laso.
+
+[1360] Dihadapkan kepada raksasa yang mabuk:\
+"Inilah buruan, remuk dan terikat."
+
+[1361] Raksasa mengerikan itu memanggil ke hadapan,\
+seakan mentari berhadapan dengan Zuhal.
+
+[1362] Katanya, "Hendak ke mana kau\
+sampai jatuh ke dasar sumur begini tanpa hati-hati?
+
+[1363] Kudengar kau menaburkan nyawa demi duka Jelita;\
+kau pencari emas, tawanan tambang.
+
+[1364] Tapi pikiran bengkok macam apa ini?\
+Ini bukan nalar, ini bala di kepala.
+
+[1365] Kau di mana, mentari itu di mana?\
+Laut di mana, fatamorgana di mana?
+
+[1366] Rupanya tubuhmu rezeki nomplok bagi kami;\
+mata hati dan penglihatanmu tertutup.
+
+[1367] Siapa yang pernah sampai ke negeri Kimia?\
+Siapa yang pernah menggapai Anqa atau huma?
+
+[1368] Tanpa pikir dan tanya kau berangkat,\
+pada langkah pertama jatuh ke sumur.
+
+[1369] Allah, Allah, alangkah dungunya!\
+Kalau lalai, ya lalai sampai begini.
+
+[1370] Sayang, kasihan aku, kau masih muda;\
+tapi betapa ganjil buruk sangkamu."
+
+## Asmara Mengamuk {.judul-bagian}
+
+[1371] Asmara panas oleh api dendam,\
+berkata, "Untuk apa kata-kata lembut ini?
+
+[1372] Bukankah maumu membunuh?\
+Kini aniaya dan keadilan ada di tanganmu.
+
+[1373] Seakan dengan kata-kata ini khayal kekasih\
+bisa tersembunyi sezarah pun dari hatiku!
+
+[1374] Jangan coba menakut-nakuti, tak pada tempatnya;\
+yang kusebut pertemuan tak lain ajalku.
+
+[1375] Khayal kekasih ini bukan milikku saja;\
+sekalipun aku mati, rumput pun meratap.
+
+[1376] Di sumur ini seruling tumbuh di mana-mana,\
+menuturkan duka perpisahan kepada para pencinta.
+
+[1377] Hasrat ini tak pergi dari kepala kami,\
+asap ini tetap mengepul dari tungku kami.
+
+[1378] Ini obor duka, tak bisa padam;\
+menyerahkan nyawa bisa, berbalik tidak."
+
+## Raksasa Memenjarakan Keduanya {.judul-bagian}
+
+[1379] Raksasa terkutuk berakhlak busuk itu\
+memerintahkan agar keduanya dipenjara,
+
+[1380] agar lemak dan daging bertambah,\
+lalu si terkutuk menjadikannya santapan.
+
+[1381] Sekian lama Asmara dan Ghirah\
+tinggal di sana, tawanan derita.
+
+[1382] Saling menghibur,\
+saling menguatkan untuk bertahan.
+
+## Kedatangan Sabda {.judul-bagian}
+
+[1383] Suatu pagi Sabda, sang Pir, datang menyusul,\
+sampai di bibir sumur dan bertutur:
+
+[1384] "Wahai anak-anak muda yang terikat di sumur,\
+yang tetap penyayang di masa bala,
+
+[1385] berusahalah lepas, jangan diam;\
+jalan penuh bahaya; singkatnya, jangan diam.
+
+[1386] Dari sumur ini tak ada jalan lepas,\
+tak ada tempat berlindung bagi yang terjatuh,
+
+[1387] kecuali di dasar sumur ada seutas tali,\
+para jin tak tahu-menahu.
+
+[1388] Seorang pir menuliskan rajah padanya,\
+menuliskan banyak nama untuk penjagaan.
+
+[1389] Siapa yang berpegang erat pada tali itu\
+dijaga oleh Ismul A'zam.
+
+[1390] Jin tak mampu mencelakai,\
+makin memanjat, makin selamat dan tenteram.
+
+[1391] Ini kukatakan dengan mantra;\
+jangan kau bocorkan kepada para jin."
+
+## Asmara dan Ghirah Terbebas {.judul-bagian}
+
+[1392] Dua penyabung nyawa itu menuruti perintah,\
+seperti Mansur di tali gantungan, kepala terangkat tinggi.
+
+[1393] Asmara, si penakluk langit, membuka mata,\
+melihat bahwa pir itu Sabda.
+
+[1394] Tahulah Sabda datang dari negeri kekasih,\
+pagi itu dari musim semi itu.
+
+[1395] Dengan rindu dan derita Asmara mendesah:\
+"Demi Allah, ceritakan Jelita kepadaku.
+
+[1396] Menyebut-nyebutkah? Apa yang dikhayalkan?\
+Sesekali ingatkah pada si tak berdaya ini?
+
+[1397] Tahukah akan kepedihan kami?\
+Pernahkah menanyakan keadaan kami?
+
+[1398] Teringatkah pada sahabat?\
+Diterimakah bala-bala ini?
+
+[1399] Aku jatuh ke dasar sumur dengan hasrat itu:\
+supaya berdekatan dengan bulan di sumur.
+
+[1400] Kemudian kudengar itu cuma sangka;\
+tempat bulan di puncak langit.
+
+[1401] Kini aku masih malu atas pinta itu,\
+aku sudah masuk ke tanah, tapi tak tenang.
+
+[1402] Pantas aku tetap di bala itu,\
+kau datang menyusul seperti Khidir di tengahnya.
+
+[1403] Kini beri aku kabar dari kekasih;\
+yang lalu sudah lalu, kabarkan yang ini."
+
+[1404] Sabda tak menghiraukan desah dan rintih itu,\
+menjadi burung, terbang ke kebun kekasih.
+
+[1405] Kata Ghirah kepada Asmara, "Saudaraku,\
+mari, lelaki jalan mesti di jalan."
+
+[1406] Dua huma ketinggian itu mengepakkan sayap,\
+turun ke jalan seperti burung hantu perantauan.
+
+[1407] Panjang tatapan dijadikan tongkat,\
+dua insan penanggung bala itu berjalan.
+
+[1408] Duka menyusul kejatuhan,\
+di jalan muncul Reruntuhan Duka,
+
+[1409] jalan yang dulu telah disebut,\
+setiap langkahnya lubang putus asa.
+
+## Lukisan Malam dan Dahsyatnya Musim Dingin {.judul-bagian}
+
+[1410] Di padang hitam keduanya tersesat:\
+malam terpanjang musim dingin, bala mendadak.
+
+[1411] Padang macam apa ini, naudzubillah,\
+jin-jin bermain lembing di sana setiap saat.
+
+[1412] Putus asa dan takut susul-menyusul,\
+kadang salju turun, kadang gelap.
+
+[1413] Ketika gulita dan salju berkarib,\
+cahaya dan gelap masuk satu cetakan.
+
+[1414] Oleh dingin cahaya bulan membeku,\
+ganti embun, air raksa yang tercurah.
+
+[1415] Gulita berubah jadi kijang putih,\
+padang penuh kapur barus di dalam kesturi.
+
+[1416] Dari satu sisi, gulita di tengah salju\
+terkepung seperti hitam biji mata.
+
+[1417] Langit kaca retak oleh es,\
+seakan jatuh ke tanah berkeping-keping.
+
+[1418] Lihat, lihat falak si pembuat onar:\
+membawakan cermin kepada Zanzibar!
+
+[1419] Ketika dingin dan salju tercurah,\
+si hitam malam menyeringai memperlihatkan gigi.
+
+[1420] Ladam bulan berpaku seribu, yaitu bintang-bintang,\
+hilang di gulita musim dingin.
+
+[1421] Jalan dan lapangan menjadi gugus Singa,\
+di tiap pojok seekor singa dari kapas.
+
+[1422] Seakan lidah nyala api kelu,\
+ratap nyala bergetar.
+
+[1423] Bunga api yang congkak membeku,\
+api tertinggal di tengah permata.
+
+[1424] Kaca pemandian pecah,\
+kubah dan atapnya jadi intan.
+
+[1425] Air jernih pegunungan jadi terbang,\
+turun lagi dengan nama salju.
+
+[1426] Kali Perak hendak lari dari padang,\
+tertahan di Sütlüce.
+
+[1427] Saudara saling menumpahkan darah,\
+jari dan tangan jadi dahan merjan.
+
+[1428] Dunia jadi bayang hitam oleh ngeri,\
+pegunungan seiring langkah dengan badai.
+
+[1429] Tak tersisa burung congkak di udara,\
+sesekali hanya warna api yang terbang.
+
+[1430] Gelembung anggur seperti yakut\
+tak lagi gentar pada nyala.
+
+[1431] Di dalam api terbentuk air bening,\
+asap berlindung pada badai.
+
+[1432] Untuk memancing ikan,\
+di semua kail diikatkan bara.
+
+[1433] Kubah hijau akan turun ke bumi kelabu\
+andai dingin tak menopang dengan tiang es.
+
+[1434] Sultan musim dingin menghias kota,\
+seruling perak berjatuhan di bibir atap.
+
+[1435] Lidah yang bertutur jadi bongkah es,\
+huruf keluhan sampai ke bibir atap.
+
+[1436] Tungku api mentari akan hancur\
+andai pagi tak memancangkan pasak es.
+
+[1437] Bila laut kadang jadi padang,\
+ikan jadi santapan kijang.
+
+[1438] Andai mulut anjing pemburu hangat,\
+kelinci menyangkanya pelukan ayah.
+
+[1439] Karena takut tergelincir,\
+peri pun tak datang ke tepi kolam.
+
+[1440] Kalau bara cemre tak tergelincir,\
+takkan jatuh ke bumi sampai bulan Juni.
+
+[1441] Watak orang semua tampak nyata,\
+bibir orang tak kalah dari bibir atap.
+
+[1442] Bincang orang dengan napas gemetar:\
+rantai kegilaan, tapi dari intan.
+
+[1443] Lilin berkilau di dalam lentera\
+serupa dahan merjan tersembunyi di laut.
+
+[1444] Melihat rajawali falak di kandang ayam,\
+burung tekukur di sangkar pun terdiam.
+
+[1445] Agar tak memunguti biji kehampaan,\
+anak-anak menaburkan bunga api bagi burung pipit.
+
+[1446] Tangan Mirrikh membeku oleh dingin,\
+belati jatuh dari langit ke tanah.
+
+[1447] Singa falak jadi singa salju,\
+gigi diganti bintang Kartika.
+
+[1448] Seperti bintang penerang malam,\
+sesekali tampak hari yang cerah.
+
+[1449] Bila mata yang menangis membeku,\
+orang mencari maut dengan kacamata.
+
+[1450] Demi mencari sebab bara hati,\
+lawan dan kawan hangat berkarib.
+
+[1451] Kijang bergegas menuju mesiu,\
+ayam hutan datang ke sumbu senapan.
+
+[1452] Mabuk anggur setara dengan zuhud,\
+api basah jadi air kering.
+
+[1453] Paling ajaib: jalan pikiran membeku,\
+syair datang ke tabiat dengan tersendat.
+
+[1454] Semua penutur bungkam,\
+gudang anggur makna tak bergolak.
+
+[1455] Galib, para penyair tak bisa menyamaiku;\
+aku bermanja-manja pada nyala pikiran.
+
+## Pelengkap Tutur {.judul-bagian}
+
+[1456] Karena takut dan bahaya itu, Asmara yang sadar\
+tersesat dalam ngeri dan duka.
+
+[1457] Tahu bahwa ini bukan kota, melainkan padang,\
+entah sihir, entah kimia.
+
+[1458] Sebab-sebab binasa berulang-ulang:\
+gelegar guruh, kilat, dan badai.
+
+[1459] Laut kegelapan berombak demi ombak,\
+genderuwo khayal bergerombol demi gerombol.
+
+[1460] Di satu sisi bala waham dan liar,\
+di sisi lain udara salju dan gelap.
+
+[1461] Belum pernah melihat negeri duka,\
+anak manja zaman itu.
+
+[1462] Melihat gelap melampaui daratan,\
+pemuda itu tenggelam dalam ngeri.
+
+[1463] Lama berlari tak tentu arah,\
+seperti puting beliung ke segala penjuru.
+
+[1464] Di padang itu tak tampak satu jejak pun,\
+tak terlihat satu jalan selamat pun.
+
+[1465] Tiba-tiba si elok bagai peri itu melihat\
+api menyeramkan laksana tumpukan panen.
+
+[1466] Pertanda ter jahanam,\
+di atasnya lidah api demi lidah api.
+
+[1467] Asap nyala menjangkau falak,\
+sihir belaka, tapi berwujud nyala.
+
+## Lukisan si Penyihir {.judul-bagian}
+
+[1468] Seorang nenek bersarang di sana,\
+penyihir mengerikan bermuka raksasa.
+
+[1469] Seakan setan bermukim di neraka,\
+empat penjurunya air mendidih, ter, dan aspal.
+
+[1470] Kepala: contoh Gunung Hitam;\
+mulut dan gigi: kubur kafir yang tua.
+
+[1471] Hidung: padang Tanjung Moda,\
+sarang dubuk, liang kadal.
+
+[1472] Bibir bawah menjuntai sampai lutut,\
+seperti bangkai gajah yang busuk.
+
+[1473] Dua mata berwarna buruk: kura-kura;\
+bulu mata seperti kaki kepiting.
+
+[1474] Dua kelabang hitam dijadikan alis,\
+dua gulung ular dijadikan rambut.
+
+[1475] Dua buah dada seperti dua babi\
+yang dibalik kepala ke bawah untuk suatu kerja.
+
+[1476] Dua telinga: lubang ladang,\
+sarang landak, tempat tidur tikus.
+
+[1477] Dari mulut mengalir air busuk,\
+bau busuk seperti selokan.
+
+[1478] Di hidung kelabang, tikus, kalajengking,\
+di mulut ular berbisa dan biawak.
+
+[1479] Lidah bercakap dengan api,\
+seakan zabaniyah neraka.
+
+[1480] Perkakas sihir siap di sisi:\
+seribu belanga tua dan minyak berlimpah.
+
+[1481] Minyak yang dituang ke belanga\
+menimbulkan beribu-ribu khayal.
+
+[1482] Kadang menunggang awan seperti angin,\
+kadang membuat api menjerit.
+
+[1483] Anak-anak lahir dari satu sisi tubuh,\
+dari darah bocah-bocah yang ditelan,
+
+[1484] lalu dimakan lagi\
+oleh si busuk jahat itu anak-anak yang dilahirkan.
+
+## Si Penyihir Menginginkan Asmara {.judul-bagian}
+
+[1485] Dengan sihir dipanggilnya Asmara,\
+dipamerkan segala hiasan dan perhiasan:
+
+[1486] seribu macam kain, barang, dan kemegahan,\
+intan dan delima, permata dan emas.
+
+[1487] Semua itu dikenakan seketika,\
+berkata kepada Asmara, "Mari, Nak, kawinilah aku.
+
+[1488] Nikahilah, aduh, si malang ini;\
+hatiku terpikat padamu, tak ada daya.
+
+[1489] Menjadikanmu sultan langit ini\
+tampak gampang bagi si fakir ini, gampang.
+
+[1490] Kalau kau enggan pada perkara ini,\
+dengan satu sihir keadaanmu kubuat merana."
+
+[1491] Asmara mendengar dan memahami kata itu,\
+kadang menangis, kadang heran.
+
+[1492] Kepala diangkat ke langit,\
+kepada Yang Mengetahui rahasia manusia dan jin.
+
+[1493] Langit dijadikan perisai bagi desah,\
+dikenangnya Jelita yang berwajah mentari:
+
+[1494] "Wahai Jelita, wahai mentari cemerlang,\
+wahai yang menjadikan Asmara tawanan bara,
+
+[1495] inikah harapanku darimu, wahai bulan:\
+penyihir yang mendamba pertemuan denganku?
+
+[1496] Aku lunglai dalam derita perantauan,\
+kau riang dalam nikmat dan suka.
+
+[1497] Aku tersesat di salju dan gulita,\
+semoga falak ini menurut maumu.
+
+[1498] Tapi beginikah gaya cinta?\
+Insaflah, wahai bulan kemurahan.
+
+[1499] Yang kekasihnya tawanan bara,\
+air Kautsar pun tak lewat di tenggorokannya."
+
+[1500] Kadang nasib, kadang langit, kadang kekasih\
+membuat pasar air mata ramai.
+
+## Si Penyihir Menyalib Asmara {.judul-bagian}
+
+[1501] Melihat Asmara dalam bala ini,\
+si penyihir makin murka.
+
+[1502] Dengan sihir disalibnya,\
+dijadikan sasaran pedang dan tusuk sate.
+
+[1503] Di hadapan api itu Asmara dan Ghirah\
+disalib, agar dunia mengambil pelajaran.
+
+[1504] Berlagak Namrud sejadi-jadinya,\
+si tukang sihir menyalib sang raja.
+
+[1505] Karena sumur yang dalam sudah dilihat,\
+di jalan ini katapel pun ditonton.
+
+[1506] Laksana pelita, kuntum segar itu\
+menaikkan kilau tiang gantungan.
+
+[1507] Karena si penyihir mencintai Asmara,\
+maksudnya cuma menakut-nakuti.
+
+[1508] Waham mencekik leher,\
+tapi jiwa yang suci tak terluka sedikit pun.
+
+[1509] Di tiang itu, seperti khatib di mimbar,\
+si bertubuh melati tinggal berminggu-minggu.
+
+[1510] Meratap seribu macam ratap,\
+yang melihat mengira bulbul merintih.
+
+[1511] Kadang mengadukan aniaya kepada langit,\
+kadang mendesah dan menjerit kepada Jelita.
+
+[1512] Kadang menyapa nasib,\
+menajamkan anak panah celaan:
+
+[1513] "Wahai nasib, apa pula ketidaksetiaan ini?\
+Tak adakah persahabatan denganmu?
+
+[1514] Anggaplah sang kekasih tak setia,\
+itu memang adat, dan pantas pula.
+
+[1515] Pencinta memang harus berduka dan ditimpa bala,\
+kekasih memang harus tak setia.
+
+[1516] Tapi kau, janganlah ikut-ikutan si genit itu,\
+jangan ikut-ikutan lenggok zaman."
+
+[1517] Tak di sana, tak di sini ada pengaruhnya,\
+paham bahwa semua kerja takdir.
+
+[1518] Kesadaran kembali ke kepala,\
+teringat rahmat Yang Maha Pengampun:
+
+[1519] "Wahai Pencipta manusia dan jin, rahmat!\
+Aku tak berdaya, ampun, kasihanilah.
+
+[1520] Kalau tak ditakdirkan bertemu kekasih,\
+ambil nyawaku, berikan kepada si genit itu."
+
+[1521] Dengan seribu pikiran, bergumam kusut,\
+merintih dan mendesah kepada Sesembahan.
+
+[1522] Saat itu Sabda datang menghadap,\
+muncul laksana perintah "Kun".
+
+[1523] Seketika terbuka malam gulita,\
+takut dan cemas berganti rindu.
+
+[1524] Al-Haqq tampak, waham bubar,\
+sihir musnah seperti mimpi.
+
+[1525] Melihat sang Pir, Asmara yang gesit\
+menangis, mengoyak dada.
+
+[1526] Menyebut Jelita, mendesah dan menjerit,\
+lalu melantunkan syair suci ini:
