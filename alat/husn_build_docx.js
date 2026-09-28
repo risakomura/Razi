@@ -1,6 +1,6 @@
 // Membangun DOCX terjemahan Hüsn ü Aşk dari JSON keluaran husn_md2json.py.
 // Satu bait = dua paragraf (Larik Awal, Larik Akhir); nomor bait dicetak rata kanan
-// pada tabulasi kanan larik awal, hanya untuk bait yang ditandai `show`.
+// pada tabulasi kanan larik yang membawa nomor, hanya untuk nomor yang ditandai `show`.
 const fs = require('fs');
 const {
   Document, Packer, Paragraph, TextRun, AlignmentType, Footer, PageNumber, TabStopType,
@@ -58,8 +58,14 @@ const title = [
 const body = book.blocks.map((b) => {
   if (b.p === 'PemisahBait') return new Paragraph({ style: b.p, children: [new TextRun('*')] });
   const children = runs(b.r);
-  if (b.p === 'LarikAwal' && b.show) children.push(new TextRun({ text: '\t' + b.n, style: 'NomorBait' }));
-  return new Paragraph({ style: b.p, children });
+  const o = { style: b.p, children };
+  if (b.show) {
+    // nomor bait rata kanan pada tabulasi kanan tepi teks
+    children.push(new TextRun({ text: '\t' + b.n, style: 'NomorBait' }));
+    o.tabStops = [{ type: TabStopType.RIGHT, position: TW }];
+  }
+  if (b.stanza) o.spacing = { before: 240, after: 0, line: 264 };
+  return new Paragraph(o);
 });
 
 const page = { size: { width: A5W, height: A5H }, margin: { top: 1134, bottom: 1134, left: MARG, right: MARG, footer: 567 } };
