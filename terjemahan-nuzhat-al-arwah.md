@@ -1122,3 +1122,732 @@ Kriton berkata kepadanya: "Apa yang engkau perintahkan kepada kami untuk kami la
 
 Ia menjawab: "Aku tidak memerintahkan sesuatu kepada kalian, kecuali apa yang sejak dahulu senantiasa kuperintahkan kepada kalian, yaitu bersungguh-sungguh memperbaiki diri kalian. Jika kalian melakukannya, kalian telah menggembirakanku." Kemudian ia diam cukup lama, dan orang-orang itu pun diam. Lalu pelayan kesebelas hakim datang dan berkata kepadanya: "Wahai Sokrates, engkau adalah orang pemberani sejauh yang kulihat darimu. Engkau tahu bahwa bukan aku penyebab kematianmu; penyebab kematianmu adalah kesebelas hakim itu, dan aku hanya diperintah melakukannya. Engkau adalah orang yang paling utama di antara semua yang pernah datang ke tempat ini. Maka minumlah obat ini dengan rela hati, dan bersabarlah atas kegelisahan yang pasti menyertainya." Kemudian air matanya bercucuran dan ia pun pergi. Sokrates berkata: "Kita akan melakukannya." Kemudian ia diam sejenak, lalu berkata: "Wahai Kriton, suruhlah orang itu membawakan kepadaku minuman kematian." Orang itu masuk membawa minuman itu, lalu Sokrates mengambilnya dan meminumnya. Ketika mereka melihat ia telah meminumnya, tangis dan duka menguasai mereka sehingga mereka tidak dapat menguasai diri, dan suara tangis mereka meninggi. Ia menghadap kepada mereka, mencela dan menasihati mereka, seraya berkata: "Kami telah menyuruh kaum perempuan pergi justru agar mereka tidak berbuat seperti ini." Maka mereka menahan diri karena malu kepadanya dan demi menaatinya, meskipun mereka sangat pedih kehilangannya. Sokrates mulai berjalan mondar-mandir sebentar, lalu berkata kepada pelayan itu: "Kedua kakiku terasa berat." Pelayan itu berkata kepadanya: "Berbaringlah." Maka ia berbaring, lalu pelayan itu mulai menekan-nekan kedua telapak kakinya sambil berkata: "Apakah engkau merasakan tekananku pada keduanya?"
 
+Ia menjawab: "Tidak." Kemudian pelayan itu menekan kedua betisnya dan terus bertanya kepadanya dari waktu ke waktu, sedangkan ia menjawab: "Tidak." Tubuhnya mulai membeku sedikit demi sedikit, dan dinginnya semakin keras hingga sampai ke pinggangnya.[^p11] Pelayan itu berkata: "Apabila dingin ini sampai ke jantungnya, ia akan pergi."
+
+[^p11]: CP: Terjemahan Turki membaca kata kerja di sini sebagai *yaḥmadu* ("ia terus memuji [Allah]"). Konteksnya, yakni dingin yang terus naik dari kaki ke pinggang, lebih cocok dengan bacaan *yajmudu* ("membeku"), sebagaimana juga dalam kisah kematian Sokrates yang dikenal dari *Phaidon*.
+
+Kriton berkata kepadanya: "Wahai imam hikmah! Kami melihat akal-akal kami jauh dari akalmu, maka berilah kami wasiat." Ia menjawab: "Berpeganglah pada apa yang sejak awal telah kuperintahkan kepada kalian." Kemudian ia mengulurkan tangannya ke tangan Kriton dan meletakkannya di pipinya. Kriton berkata kepadanya: "Perintahkanlah kepadaku apa yang engkau sukai." Namun ia tidak menjawab apa-apa. Kemudian pandangannya menatap tajam kepada pandangan Kriton, dan ia berkata: "Aku serahkan jiwaku kepada Pencabut jiwa para bijak!" Lalu ia wafat. Kriton memejamkan kedua matanya dan mengikat rahangnya. Plato tidak hadir bersama mereka karena ia sedang sakit. Disebutkan bahwa Sokrates wafat meninggalkan dua belas ribu murid dan murid dari murid.
+
+Ia adalah seorang lelaki berkulit putih, berambut pirang, bermata biru, kokoh tulangnya, buruk wajahnya, sempit jarak antara kedua bahunya, lambat geraknya, cepat jawabannya, kusut janggutnya, dan tidak tinggi. Apabila ditanya, ia menunduk sejenak lalu menjawab dengan kata-kata yang meyakinkan. Ia banyak menyendiri, sedikit makan dan minum, tekun beribadah, banyak mengingat kematian, jarang bepergian, baik dalam melatih tubuhnya, sederhana pakaiannya, berwibawa, dan baik tutur katanya tanpa cacat. Ia wafat karena racun dalam usia seratus tahun lebih beberapa tahun.
+
+### Adab Sokrates, Sang Bijak, Zahid, dan Bijak Ketuhanan {.judul-pasal}
+
+Sokrates yang disebutkan di sini adalah bapak para filsuf dan bijaknya para bijak. Dari dialah filsafat datang dan darinya hikmah terbit. Ia memiliki perumpamaan-perumpamaan yang tersebar luas dan faedah-faedah yang melimpah. Perkataannya di dalam hati seperti embusan angin sepoi-sepoi ketika bertiup, dan seperti kelegaan bagi orang yang dirundung kesusahan.
+
+Ia berkata: Hendaklah hal pertama yang engkau jadikan tujuan cita-cita dan pemeliharaanmu adalah mengenal hak Allah Taʿālā atasmu dalam ibadah dan takwa, dan bersungguh-sungguh dalam apa yang diridai-Nya, bukan dengan kurban-kurban saja, tetapi juga dengan menjaga diri agar tidak melampaui batas dengan bersumpah atas nama-Nya secara batil. Sebab cara seperti ini, jika engkau mengokohkannya, menjadi tanda kekayaan jiwa dan bekas yang baik dari perangai orang-orang saleh. Maka buatlah Allah Subḥānahu wa Taʿālā rida sepanjang hidupmu, dan bersungguh-sungguhlah untuk bersesuaian dengan jamaah, karena keterpeliharaan diri ada pada hal itu bersama dengan mengamalkan syariat.
+
+Dikatakan kepadanya: "Engkau harus kami nikahkan." Ia menjawab: "Jika memang harus, hendaklah dengan perempuan yang buruk wajahnya dan buruk akhlaknya." Mereka bertanya: "Mengapa demikian?" Ia menjawab: "Yang pertama agar jiwaku tidak merindukan persetubuhan dengannya, dan yang kedua agar aku melatih jiwaku untuk menanggung." Dikatakan kepadanya: "Mengapa engkau tidak menyukai persetubuhan, padahal ia lezat?" Ia menjawab: "Karena empat perkara. Pertama, ia menyingkap tabir-tabir, sedangkan orang berakal enggan tabirnya disingkap. Kedua, ia memasuki kotoran-kotoran, sedangkan orang berakal membersihkan dirinya dari hal itu. Ketiga, ia melemahkan daya-daya, sedangkan orang berakal kikir terhadap dayanya. Keempat, ia meninggalkan pengganti sesudah mati, yang jika hidup menjadi fitnah dan jika mati menimbulkan kesedihan, sedangkan orang berakal tidak menjadikan dirinya tergadai pada sesuatu."
+
+Ia berkata kepada murid-muridnya: "Hikmah adalah tangga menuju ketinggian. Barang siapa kehilangannya, ia kehilangan kedekatan dengan Penciptanya ʿAzza wa Jalla."
+
+Ia berkata: Keselamatan orang-orang yang zalim ada pada Allah Taʿālā, pada keikhlasan, dan demikian pula pada syariat-syariat.
+
+Ia berkata: Keadilan adalah rasa aman bagi jiwa.
+
+Apabila duduk mengajar, ia berkata: "Hendaklah diketahui bahwa aku hanyalah seorang penanam, dan pelajaran adalah air pendidikan. Barang siapa ladangnya tidak bersih dan airnya tidak memancar deras, tanaman tidak akan berhasil di sana."
+
+Ia berkata: Sungguh mengherankan orang yang mengetahui kefanaan dunia, bagaimana dunia melalaikannya dari apa yang tidak mengandung kefanaan!
+
+Diceritakan darinya bahwa ketika ia dibawa masuk menghadap raja yang membunuhnya, raja berkata kepadanya: "Wahai Sokrates! Engkaukah yang mencela kami dan mengatakan bahwa mengambil berhala itu tidak baik?" Sokrates menjawab: "Aku mengatakan bahwa mengambil berhala itu tidak baik bagi sebagian orang." Raja bertanya: "Bagi siapa ia baik dan bagi siapa tidak baik?" Ia menjawab: "Tidak baik bagi Sokrates, tetapi baik bagi raja." Raja bertanya: "Bagaimana itu?" Ia menjawab: "Karena ia tidak baik bagi orang bijak dan baik bagi orang yang tidak bijak." Raja bertanya: "Bagaimana itu?" Ia menjawab: "Karena orang yang mengenal Allah dengan sebenar-benar pengenalan dan mengetahui apa yang diridai-Nya tidak membutuhkan sesuatu yang mengikatnya dari keburukan-keburukan dan menakutinya dari keburukan itu, karena ia berpegang pada kewajiban yang merupakan hak Pencipta dan Penjadinya Subḥānahu. Adapun orang yang sebaliknya, ia membutuhkan sesuatu yang mengikat dan mencegahnya dari keburukan-keburukan, berupa rasa takut kepada berhala-berhala yang ia jadikan tuhan-tuhan baginya. Berhala-berhala itu mencegahnya karena ia meyakininya sebagai tuhan, padahal berhala-berhala itu tidak memberinya manfaat, karena ia hanyalah benda-benda mati."
+
+Ia berkata: Jiwa yang suci mencintai kebaikan dan memerintahkannya, sedangkan jiwa yang hina mencintai keburukan dan memerintahkannya.
+
+Ia berkata: Tanaman jiwa yang utama adalah keinsafan, dan buah tanamannya adalah keselamatan. Tanaman jiwa yang hina adalah keburukan, dan buah tanamannya adalah penyesalan.
+
+Ia berkata: Jiwa yang utama dikenal dari baiknya penerimaannya terhadap kebenaran, dan jiwa yang kurang dikenal dari bergegasnya kepada kebatilan.
+
+Ia berkata: Apabila jiwa berhenti terhadap apa yang samar baginya dan menerima apa yang jelas baginya, itu adalah bukti kecerdasannya.
+
+Ia berkata: Jiwa-jiwa orang baik menjauh dari perbuatan orang-orang durhaka, dan jiwa-jiwa orang jahat merasa jemu terhadap amal-amal orang-orang saleh.
+
+Ia berkata: Orang yang mengikuti syahwat menyesal pada akhirnya dan tercela di dunia; orang yang menyalahi syahwat selamat dan beruntung di dunia; dan orang yang zuhud terpuji lagi dicemburui di akhirat.
+
+Dikatakan kepada Sokrates: "Apakah sedikitnya harta dapat mengubah hati orang yang berakal?" Ia menjawab: "Orang yang demikian bukanlah orang berakal." Dikatakan: "Apakah orang berakal melakukan sesuatu yang tidak benar?" Ia menjawab: "Apa yang dilakukannya dengan pendapat akal itu benar."
+
+Ia berkata: Orang tanpa ilmu seperti jasad tanpa ruh.
+
+Istri Sokrates ditanya: "Apakah yang engkau lihat baik darinya?" Ia menjawab: "Ia masuk dan keluar dengan satu wajah."
+
+Ia ditanya: "Apakah yang paling lezat?" Ia menjawab: "Mempelajari hikmah yang belum kita ketahui."
+
+Seseorang bertanya kepadanya: "Kapankah hikmahku menjadi sempurna?" Ia menjawab: "Apabila engkau tidak gembira karena pujian dan tidak sedih karena celaan." Orang itu bertanya: "Kapankah hal itu mungkin bagiku?" Ia menjawab: "Apabila engkau memiliki empat telinga: dua telinga yang mendengar hikmah, dan dua telinga yang tuli terhadap omong kosong orang-orang bodoh."
+
+Ia berkata: Tidak sepatutnya orang yang beradab berbicara dengan orang yang tidak beradab, sebagaimana orang yang sadar tidak berbantah dengan orang yang mabuk.
+
+Ia berkata: Jiwa yang suci selamat dan orang lain pun selamat darinya; jiwa yang hina binasa dan orang lain pun binasa bersamanya.
+
+Ia berkata: Jiwa-jiwa itu beraneka corak. Yang coraknya serupa di antara mereka akan bersesuaian, dan yang berlawanan akan berselisih.
+
+Ia berkata: Bersesuaiannya jiwa-jiwa adalah karena bersesuaiannya cita-cita mereka, dan perselisihannya karena berbedanya tujuan-tujuan mereka.
+
+Ia berkata: Jiwa menghimpun segala sesuatu. Barang siapa mengenal jiwanya, ia mengenal segala sesuatu; dan barang siapa tidak mengenal jiwanya, ia tidak mengenal segala sesuatu.
+
+Ia berkata: Jiwa adalah permata yang tak ternilai harganya. Barang siapa mengenalnya, ia memeliharanya kecuali dari apa yang sejenis dengannya; dan barang siapa tidak mengenalnya, ia memboroskannya pada tempat yang bukan tempatnya.
+
+Ia berkata: Barang siapa kikir terhadap dirinya sendiri, ia lebih kikir lagi terhadap orang lain; dan barang siapa murah hati terhadap dirinya sendiri, dialah yang diharapkan kemurahannya.
+
+Ia berkata: Tidaklah binasa orang yang mengenal dirinya, dan alangkah binasanya orang yang tidak mengenal dirinya!
+
+Ia berkata: Barang siapa tidak memperhatikan dirinya dengan baik, hampir pasti ia tidak memperhatikan orang lain dengan baik.
+
+Ia berkata: Barang siapa bersungguh-sungguh memelihara dirinya, hal itu dikenal dari kehati-hatiannya terhadap jalan-jalan masuk yang buruk.
+
+Ia berkata: Jiwa adalah pengganti segala sesuatu, dan tidak ada sesuatu pun yang menjadi pengganti jiwa. Barang siapa menyia-nyiakan jiwanya, ia menyia-nyiakan segala sesuatu; dan orang yang memelihara jiwanya memelihara segala sesuatu.
+
+Ia berkata: Jiwa yang baik merasa cukup dengan sedikit adab, sedangkan pada jiwa yang jahat adab yang banyak pun tidak berhasil karena buruknya pengetahuannya.
+
+Ia berkata: Seandainya orang yang tidak tahu diam, gugurlah perselisihan.
+
+Ia berkata: Enam orang yang tidak pernah ditinggalkan kemurungan: pendengki, pendendam, orang yang baru saja kaya, orang kaya yang takut miskin, pencari kedudukan yang tidak terjangkau oleh kemampuannya, dan orang yang bergaul dengan ahli adab padahal ia bukan termasuk mereka.
+
+Ia berkata: Pendidik jiwa yang hina seperti pelatih kuda yang liar: jika ia lalai sesaat dari tali kekangnya, kuda itu akan berlari liar membawanya.
+
+Ia berkata: Barang siapa menguasai rahasianya, urusannya tersembunyi dari manusia.
+
+Ia berkata: Janganlah engkau takut akan kemarahan orang yang rida terhadap kebatilan.
+
+Ia berkata: Terlalu mendekat kepada manusia mendatangkan teman yang buruk, dan terlalu menjauh mendatangkan permusuhan. Maka jadilah engkau di antara manusia di tengah-tengah antara yang menutup diri dan yang terlalu lepas.
+
+Ia berkata: Yang lebih baik daripada kebaikan adalah orang yang mengerjakannya, dan yang lebih buruk daripada keburukan adalah orang yang mengerjakannya.
+
+Ia berkata: Akal adalah anugerah, sedangkan ilmu adalah hasil usaha.
+
+Ia berkata: Barang siapa menyangka dirinya sesuatu padahal ia tidak pandai dalam suatu hal pun, ia tidak layak menerima apa pun selain celaan.
+
+Ia berkata: Orang alim adalah tabib agama, dan harta adalah penyakit agama. Apabila engkau melihat tabib menarik penyakit kepada dirinya sendiri, bagaimana ia akan mengobati orang lain!
+
+Ia berkata: Engkau tidak akan menjadi sempurna sampai musuhmu merasa aman darimu. Maka bagaimana keadaanmu jika sahabatmu pun tidak merasa aman darimu!
+
+Ia berkata: Waspadalah terhadap orang yang dibenci oleh hati kalian.
+
+Ia berkata: Tidak ada kebaikan dalam hidup kecuali bagi salah satu dari dua orang: orang yang berbicara dengan ilmu, atau orang yang diam dengan sadar.
+
+Ia berkata: Dunia adalah penjara bagi orang yang zuhud terhadapnya dan surga bagi orang yang mencintainya.
+
+Ia berkata: Dunia seperti jalan yang di dalamnya terdapat duri yang tertutup tanah. Orang yang tidak mengenal jalannya menginjaknya, lalu duri itu menusuk dan menyakitinya; sedangkan orang yang curiga terhadapnya berhenti darinya dan selamat.
+
+Ia berkata: Barang siapa condong kepada dunia, ia menyegerakan kepayahan di dalamnya, padahal ia yakin akan binasa meninggalkannya. Barang siapa zuhud terhadapnya, ia terbebas dari kesusahannya, dicintai para pencinta dunia, dan aman dari takut akan akibat sesudah meninggalkannya.
+
+Ia berkata: Alangkah lalainya orang yang yakin akan berangkat meninggalkan dunia, sementara ia terus-menerus bersungguh-sungguh memakmurkannya!
+
+Ia berkata: Sepatutnya orang berakal tidak bersungguh-sungguh memakmurkan sesuatu yang akan ia tinggalkan untuk orang lain.
+
+Seorang lelaki mencelanya bahwa ia berasal dari keluarga yang tidak terhormat, maka ia berkata kepadanya: "Keluargaku adalah aib bagiku, sedangkan engkau adalah aib bagi keluargamu."
+
+Ia berkata: Sepatutnya orang berakal tidak menenteramkan dirinya pada sesuatu yang ia lihat sedikit kelanggengannya pada orang lain.
+
+Ia berkata: Segala sesuatu mempunyai buah, dan buah sedikitnya harta milik adalah menyegerakan ketenangan dan kebaikan jiwa yang suci.
+
+Ia berkata: Dunia seperti api yang dinyalakan di tengah jalan raya. Barang siapa mengambil darinya sekadar untuk menerangi jalannya, ia selamat dari keburukannya; dan barang siapa duduk untuk memonopolinya, api itu membakarnya dengan panasnya.
+
+Ia berkata: Barang siapa sibuk dengan dunia, ia menyia-nyiakan dirinya; dan barang siapa sibuk dengan dirinya, ia zuhud terhadap dunia.
+
+Ia berkata: Barang siapa mencari dunia, ia tidak dapat terlepas dari dua perangai: mendengki orang yang di atasnya dan meremehkan orang yang di bawahnya.
+
+Ia berkata: Barang siapa mencari sesuatu yang membuatnya didengki, ia dimusuhi oleh orang yang mencari seperti yang ia cari; dan barang siapa dimusuhi orang-orang, ia layak mengalami kejatuhan yang keras.
+
+Ia berkata: Barang siapa zuhud terhadap dunia, ia dicintai para pencintanya; dan barang siapa menginginkan akhirat, ia memperoleh kebaikannya dan memuji baiknya kesudahan.
+
+Ia berkata: Pencari dunia, jika memperoleh apa yang diangankannya, ia meninggalkannya untuk orang lain; dan jika tidak memperoleh apa yang diangankannya dari dunia, ia mati dengan menanggung kepedihannya.
+
+Ia berkata: Dunia adalah tempat penyeberangan menuju akhirat. Barang siapa bersiap dengan bekal perjalanan, ia aman di padang-padang tandus yang ditakuti orang lain.
+
+Ia berkata: Barang siapa mengambil dari dunia melebihi kadar kecukupan, ia telah mengambil sesuatu yang tidak ada manfaatnya baginya; dan barang siapa mengambil darinya sesuai kecukupan, hal itu menjadi jalan baginya menuju keselamatan.
+
+Ia berkata: Janganlah kalian menyibukkan jiwa-jiwa kalian yang suci dengan menghadap untuk memakmurkan dunia yang hina ini. Jadilah seperti burung-burung di udara: mereka pergi pagi-pagi dari sarang-sarangnya tanpa keprihatinan selain mendapatkan makanan pokoknya, dan apabila telah mendapatkannya, mereka kembali ke sarang-sarangnya tanpa mencari lebih dari kenyangnya. Jadilah seperti binatang-binatang liar yang turun dari tempat-tempat tinggalnya dan puncak-puncak gunungnya; apabila perut mereka telah penuh, mereka kembali ke gua-guanya. Mereka tidak menanam dan tidak menuai, tetapi mereka tahu bahwa Pencipta mereka adalah Pencipta rezeki mereka.
+
+Ia berkata: Kesalahan hanyalah dikenal dari buruknya akibatnya. Engkau tidak dapat menghindarinya sebelum engkau mengenalnya, dan engkau tidak dapat mengenalnya sebelum engkau berbuat salah. Karena itu, antara manusia dan kebenaran terdapat banyak kesalahan.
+
+Plato hendak bepergian, lalu ia berkata kepada Sokrates: "Berilah aku wasiat, wahai orang bijak!" Ia berkata: "Berprasangka buruklah terhadap orang yang engkau kenal, dan waspadalah terhadap apa yang tidak engkau kenal. Jauhilah menyendiri, dan jadilah seperti salah seorang pengikutmu. Jauhilah rasa jemu dan buruknya akhlak. Apabila engkau singgah di suatu tempat, janganlah berjalan tanpa alas kaki pada malam hari, dan janganlah mencicipi tumbuhan yang tidak engkau kenal. Janganlah engkau memilih jalan pintas, tetapi tempuhlah jalan raya walaupun jauh."
+
+Ia berkata: Janganlah sekali-kali engkau membalikkan kesalahan orang yang bersalah ke mukanya, karena ia akan mengambil ilmu darimu tetapi menjadikanmu musuh.
+
+Dikatakan kepada Sokrates: "Kami tidak pernah melihatmu murung." Ia menjawab: "Karena aku tidak memiliki sesuatu yang apabila hilang dariku dan lenyap aku akan murung karenanya."
+
+Ia berkata kepada salah seorang muridnya: "Wahai anakku! Jika engkau memang tidak dapat lepas dari perempuan, jadikanlah pertemuanmu dengan mereka seperti memakan bangkai: engkau tidak memakannya kecuali dalam keadaan darurat, lalu engkau mengambil darinya sekadar untuk menyambung hidup dan meninggalkan sisanya. Jika seseorang mengambil darinya melebihi kebutuhan, ia akan membuatnya sakit dan membunuhnya."
+
+Ia berkata: Tradisi hukum (*sunna*) itu baik dan hikmah pun baik. Tradisi hukum memaksa kita meninggalkan dosa-dosa, sedangkan dengan hikmah faedah diperoleh dan setiap keutamaan dicapai.
+
+Ia berkata: Barang siapa ingin agar keinginannya tidak luput darinya, hendaklah ia menginginkan apa yang mungkin baginya.
+
+Dikatakan kepadanya: "Dengan apa engkau mengungguli orang-orang sezamanmu dan kesehatanmu tetap terjaga?" Ia menjawab: "Tujuanku makan adalah untuk hidup, sedangkan tujuan kalian hidup adalah untuk makan."
+
+Ia berkata: Setiap ketenangan engkau dapatkan di rumah, tetapi tidak di setiap rumah engkau dapatkan ketenangan.
+
+Ia ditanya: "Dengan apa manusia mendapat manfaat dari raja?" Ia menjawab: "Karena raja mendidik mereka tanpa kehendak mereka dan menahan kejahatan sebagian mereka dari sebagian yang lain."
+
+Ia berkata: Waspadalah terhadap orang berakal dari segi adabnya, dan terhadap orang bodoh dari segi diamnya.
+
+Ia menemani seorang lelaki kaya dalam suatu perjalanan, lalu para perampok menghadang mereka. Orang kaya itu berkata: "Celakalah aku jika mereka mengenaliku!" Sokrates berkata: "Celakalah aku jika mereka tidak mengenaliku."
+
+Ia berkata: Memakmurkan akhirat memberi ketenangan di dunia dan kenikmatan di akhirat, sedangkan memakmurkan dunia mendatangkan kepayahan di dalamnya dan kesengsaraan sesudah meninggalkannya.
+
+Ia berkata: Barang siapa jujur kepada dirinya tentang kekalnya akhirat, ia akan menginginkannya.
+
+Ia berkata: Wajib atas orang berakal memanfaatkan waktu-waktunya di dunia dengan salah satu dari dua hal: dengan sebab yang membuahkan kenikmatan di akhirat, atau dengan sebab yang membuahkan pujian di dunia.
+
+Ia berkata: Dunia adalah kelezatan sesaat yang diikuti kesedihan berkepanjangan, sedangkan akhirat adalah kesabaran sebentar dan kegembiraan yang panjang.
+
+Ia berkata: Jika engkau mencintai adab, engkau akan menemukan baginya sebab-sebab yang luas. Apa yang telah engkau peroleh dari adab, jadikanlah simpanan bagimu; dan apa yang belum engkau capai, janganlah bermalas-malas dan janganlah jemu mencarinya.
+
+Ia berkata: Hikmah adalah kekayaan yang tidak hilang dan tidak lenyap. Maka janganlah sekali-kali berat bagimu menempuh perjalanan untuk mencarinya dan menanggung kesulitan karenanya. Alangkah buruknya bila para pedagang mempertaruhkan diri di lautan demi mengembangkan harta mereka yang fana, sementara para pemuda merasa berat menempuh perjalanan di atas punggung tunggangan kepada orang yang diharapkan dapat menambah adab dan hikmah yang tidak akan habis!
+
+Ia berkata: Lawanlah syahwat-syahwat yang membinasakan yang menguasai jiwa, seperti mabuk, rakus, dusta, dan amarah, hingga engkau mengalahkannya. Dan bersikaplah kepada manusia sebagaimana engkau suka mereka bersikap kepadamu.
+
+Ia berkata: Barang siapa menitipkan kepadamu sepatah kata hikmah, sungguh ia telah berbuat baik kepadamu dan menitipkan kepadamu sesuatu yang lebih baik daripada harta.
+
+Ia berkata: Apa yang menyeretmu kepada sumpah yang batil, jauhilah sekuat tenagamu. Janganlah sekali-kali engkau bersumpah dengan nama Allah dalam urusan harta, karena sekalipun engkau jujur, sebagian orang akan menuduhmu berdusta dan sebagian lain menuduhmu cinta harta.
+
+Ia berkata: Jika amarah saudara-saudaramu memuncak terhadapmu, janganlah engkau bersedih; merendahlah kepada mereka pada saat mereka marah, dan apabila mereka telah diam, tegurlah mereka.
+
+Ia berkata: Janganlah kalian memberikan kebaikan bukan pada tempatnya, dan janganlah kalian menjadikan pemberian kalian kepada orang yang tidak berhak, karena banyak orang bodoh memberi bukan pada saat pemberian dan menahan ketika dibutuhkan.
+
+Ia berkata: Pujilah orang yang memiliki kasih sayang dengan kebaikan di hadapan siapa pun yang engkau jumpai, karena pangkal kasih sayang adalah pujian yang baik, sebagaimana pangkal permusuhan adalah celaan yang buruk.
+
+Ia berkata: Waspadalah dari menyalahi tradisi hukum yang bermanfaat bagi orang banyak apabila raja-raja telah menetapkannya!
+
+Ia berkata: Apabila engkau memegang kekuasaan, jauhkanlah orang-orang jahat darimu, karena seluruh aib mereka akan dinisbahkan kepadamu.
+
+Ia berkata: Waspadalah terhadap aib seperti orang yang mengetahui bahayanya. Jika kalian terjatuh ke dalamnya, janganlah kalian berhenti berusaha sekuat tenaga untuk keluar darinya.
+
+Ia berkata: Umur tanpa penyelidikan bukanlah umur manusia.
+
+Ia berkata: Pengaturan yang terbesar adalah mengatur pendapat-pendapat, hawa nafsu, dan akhlak yang buruk.
+
+Ia berkata: Barang siapa mengatur dirinya dengan kesabaran terhadap kebodohan manusia, ia mampu menjadi pengatur dan mampu melayani orang-orang khusus dan orang-orang awam.
+
+Ia berkata: Orang yang keliru sebelum mengetahui kebenaran layak diampuni kesalahannya, sedangkan orang yang keliru sesudah mengetahuinya tidak layak mendapatkan hal itu.
+
+Dikatakan kepadanya: "Mengapa engkau bergaul dengan anak-anak muda, padahal engkau sudah sangat tua?" Ia menjawab: "Para pelatih kuda hanya melatih anak-anak kuda, bukan kuda-kuda yang sudah tua."
+
+Seorang raja berhenti di dekatnya dan berkata kepadanya: "Tidakkah engkau takut kepadaku?" Ia bertanya: "Engkau orang baik atau orang jahat?" Raja menjawab: "Tentu orang baik." Ia berkata: "Aku tidak takut kepada orang-orang baik."
+
+Ia naik sebuah kapal. Ketika kapal berada di tengah gelombang laut, ia bertanya kepada nakhoda: "Berapa tebal papan-papan kapal ini?" Nakhoda menjawab: "Dua jari." Ia berkata: "Antara kita dan maut hanya ada dua jari! Kembalikan aku ke pantai."
+
+Seorang lelaki kaya datang kepadanya dari tempat yang jauh untuk belajar hikmah darinya. Ketika ia masuk menemuinya, ia melihatnya berselimut kain usang. Ia menoleh kepada orang yang menunjukkan jalan kepadanya dan berkata: "Inikah Sokrates?" Sokrates berkata: "Ya, inilah Sokrates, meskipun ia berada di dalam kain yang tidak baru. Tetapi pergilah engkau, karena engkau bukan termasuk orang-orang hikmah."
+
+Seorang lelaki lain masuk menemuinya dan melihatnya sedang mandi dengan air. Ia bertanya: "Di mana tempat Sokrates?" Ia menjawab: "Di tempat anu." Maka orang itu pergi ke sana dan menunggunya. Ketika Sokrates kembali, orang itu berkata: "Engkaulah Sokrates, mengapa engkau tidak memberitahuku?" Ia menjawab: "Karena engkau bertanya kepadaku tentang tempat Sokrates, bukan tentang Sokrates, dan jawaban sesuai dengan pertanyaan."
+
+Ia melihat seorang lelaki tua yang suka menekuni filsafat tetapi merasa malu, lalu ia berkata: "Hai engkau, apakah engkau malu menjadi lebih utama daripada keadaanmu sekarang?"
+
+Ia dicela karena terus-menerus menyendiri, maka ia berkata: "Seandainya kalian mengetahui manfaat dan manisnya, kalian akan merasa asing terhadap diri kalian sendiri, apalagi terhadap manusia."
+
+Ia berkata: Remehkanlah maut agar berpisah dengan kehidupan menjadi berharga bagi kalian.
+
+Ia berkata: Apa yang telah berlalu dari dunia tidak lain seperti sesuatu yang tidak pernah ada.
+
+Ia berkata: Antara dunia dan akhirat tidak ada apa-apa kecuali datangnya maut.
+
+Musa, semoga salam tercurah kepadanya, disebut di hadapannya, lalu ia berkata: "Kami bangsa Yunani tidak membutuhkan pendidikan dari orang lain, karena kami adalah orang-orang yang terdidik."
+
+Ia berkata: Berbicara tentang apa yang tidak dapat ditangkap adalah kebodohan, dan berdebat tentang apa yang tidak dapat dicapai oleh pikiran adalah kesalahan.
+
+Seorang lelaki yang hina perangainya tetapi mulia keturunannya berkata kepadanya: "Tidakkah engkau merasa malu, wahai Sokrates, karena rendahnya keturunanmu?" Ia menjawab: "Keturunanmu berakhir padamu, sedangkan keturunanku bermula dariku."
+
+Ia berkata: Sebagaimana yang benar menjadi dalil atas yang salah, demikian pula tempat singgah yang baik tidak dikenal sebelum orang singgah di tempat yang buruk; yang lembut tidak dikenal oleh orang yang tidak mengenal yang kasar; dan yang membuat gembira adalah juga yang membuat sedih.
+
+Ia berkata: Dunia seperti gambar-gambar di sebuah lembaran: setiap kali sebagian dibuka, sebagian lain dilipat. Sebaik-baik perkara adalah yang pertengahan, dan kesabaran menolong setiap pekerjaan.
+
+Ia berkata: Barang siapa tergesa-gesa, hampir pasti banyak tersandungnya.
+
+Ia berkata: Orang yang diuji lalu bersabar seperti orang yang diberi kesehatan lalu bersyukur.
+
+Ia berkata: Apabila akal seseorang tidak menjadi yang paling berkuasa atas dirinya, kebinasaannya terletak pada apa yang paling berkuasa atas dirinya.
+
+Ia berkata: Barang siapa tidak dapat membedakan kebaikan dari keburukan, golongkanlah ia bersama binatang ternak.
+
+Ia berkata: Sebaik-baik saudara adalah yang memalingkan saudara-saudaranya dari keburukan kepada kebaikan; orang yang paling kuat adalah orang yang dengannya bahaya ditolak dari manusia; dan perilaku yang paling utama adalah penghasilan yang baik dan penguatan persatuan.
+
+Ia menulis surat kepada raja pada zamannya yang anaknya telah meninggal: "Adapun sesudah itu, sesungguhnya Allah Yang Mahaagung nama-Nya menjadikan dunia sebagai negeri ujian dan akhirat sebagai negeri balasan. Dia menjadikan ujian dunia sebagai sebab bagi pahala akhirat, dan pahala akhirat sebagai pengganti ujian dunia. Maka Dia mengambil apa yang Dia ambil sebagai imbalan atas apa yang Dia berikan, dan apabila Dia menguji, Dia menguji untuk memberi balasan. Wassalam."
+
+Ia berkata: Orang bijak tidak menjadi bijak sebelum ia mengalahkan syahwat-syahwat jasmani.
+
+Ia berkata kepada murid-muridnya: "Waspadalah terhadap seluruh syahwat, karena hati yang terpaut pada syahwat-syahwat dunia, akalnya terhalang dari Allah ʿAzza wa Jalla."
+
+Ia berkata: Dunia menasihati orang yang masih tinggal dengan orang yang telah berlalu.
+
+Ia berkata: Peristiwa-peristiwa dunia adalah kebinasaan bagi suatu kaum dan nasihat bagi kaum yang lain.
+
+Ia berkata: Merasa tenteram dengan dunia sesudah mengetahuinya adalah puncak kelemahan, memercayainya adalah puncak keterpedayaan, dan berprasangka buruk kepadanya adalah keteguhan itu sendiri.
+
+Ia ditanya: "Apakah kenikmatan itu?" Ia menjawab: "Kebaikan jiwa."
+
+Ia ditanya: "Apakah kekayaan itu?" Ia menjawab: "Kesehatan tubuh."
+
+Ia berkata: Lancarnya urusan-urusan bagi seseorang hampir-hampir merampas akalnya.
+
+Ia berkata: Hati yang kosong mencari segala keburukan, dan tangan yang menganggur tertarik kepada dosa-dosa.
+
+Ia berkata: Perut bumi itu mati, dan permukaannya sakit.
+
+Salah seorang muridnya memberinya gandum, lalu ia menerimanya, kemudian menangis. Ia ditanya: "Mengapa engkau menangis?" Ia menjawab: "Karena aku telah membinasakan persahabatan dengan menerima upah."
+
+Ia berkata: Bersikaplah kepada kedua orang tuamu sebagaimana engkau suka anak-anakmu bersikap kepadamu.
+
+Ia berkata: Janganlah banyak tertawa, dan janganlah meremehkan kata-kata amarah, karena keduanya termasuk perbuatan orang-orang bodoh.
+
+Ia berkata: Apa yang kita malu melakukannya, sepatutnya kita malu pula membicarakannya.
+
+Ia berkata: Lawanlah syahwat-syahwat masa muda dengan menundukkannya, karena itulah pakaian terindah yang engkau kenakan, dan dengan itu engkau selamat dari berubah-ubahnya masa kanak-kanak. Jika engkau melakukan perbuatan keji secara diam-diam dan menyangka bahwa hal itu tertutup, yakinlah bahwa hal itu tidak tersembunyi dari manusia, di samping celaan jiwamu sendiri terhadapmu karenanya. Maka bertakwalah kepada Allah ʿAzza wa Jalla, malulah kepada manusia, peliharalah wasiat, dengarlah dari para bijak dan belajarlah, dan berjalanlah menuju puncak sebutan yang baik. Alangkah indahnya keinginan yang baik, dan alangkah buruknya keinginan yang jelek!
+
+Ia berkata: Waspadalah terhadap adu domba, sekalipun benar, karena kebanyakan manusia tidak mengetahui kebenaran.
+
+Plato menulis surat kepadanya: "Aku akan bertanya kepadamu tentang tiga hal; jika engkau dapat menjawabnya, aku akan menjadi muridmu." Ia membalas: "Bertanyalah, dan kepada Allah-lah taufik." Maka Plato menulis kepadanya: "Manusia manakah yang paling layak dikasihani? Kapankah urusan-urusan manusia menjadi sia-sia? Dan dengan apakah nikmat dari Allah ʿAzza wa Jalla diterima?" Ia menjawab: "Manusia yang paling layak dikasihani ada tiga: orang saleh yang berada di bawah kekuasaan orang durhaka, maka sepanjang masa ia bersedih karena apa yang ia lihat dan dengar; orang berakal yang berada di bawah pengaturan orang bodoh, maka sepanjang masa ia lelah dan murung; dan orang mulia yang membutuhkan orang tercela, maka sepanjang masa ia tunduk dan hina kepadanya. Urusan-urusan manusia menjadi sia-sia apabila pendapat berada pada orang yang tidak diterima pendapatnya, senjata berada pada orang yang tidak menggunakannya, dan harta berada pada orang yang tidak membelanjakannya. Nikmat Allah Taʿālā diterima dengan banyak bersyukur kepada-Nya, tetap menaati-Nya, dan menjauhi maksiat kepada-Nya." Maka Plato datang kepadanya dan berguru kepadanya hingga ia wafat.
+
+Ia ditanya: "Adakah sesuatu yang lebih sulit daripada maut?" Ia menjawab: "Kehidupan lebih sulit, karena bersama kehidupan ada duka, kecemasan, penyakit, kemiskinan, dan kepayahan, sedangkan bersama maut ada kelegaan dari semua itu."
+
+Dikatakan kepada Sokrates: "Engkau meremehkan raja kotamu." Ia menjawab: "Aku menguasai syahwat dan amarah, sedangkan keduanya menguasai dia. Maka ia berkedudukan sebagai budak dari budakku."
+
+Seorang raja berkata kepada Sokrates: "Susunlah untukku sebuah kitab yang memuat sejumlah hikmahmu, agar aku dapat merujuknya." Ia menjawab: "Jauh sekali! Hikmah terlalu mulia untuk dilayani kecuali dengan dirimu sendiri."
+
+Diceritakan bahwa ia berkata: "Janganlah kalian rakus mengumpulkan harta, niscaya kefakiran kalian akan semakin berat. Remehkanlah maut agar kalian tidak mati. Matikanlah diri kalian, niscaya kalian kekal. Tetaplah pada keadilan, niscaya keselamatan akan menetap pada kalian; dan keadilan adalah rasa aman bagi jiwa."
+
+Ia berkata: Bersedih untuk orang-orang yang tertimpa bencana hingga mereka terlepas dari bencana itu lebih utama daripada bergembira bersama orang-orang yang selamat.
+
+Ia pernah berkata: Sedikitnya harta bagi orang berakal adalah benteng dari perbuatan-perbuatan hina, dan bagi orang bodoh adalah jalan menuju perbuatan-perbuatan itu.
+
+Ia pernah berkata: Ketenangan para bijak ada pada adanya kebenaran, dan ketenangan orang-orang dungu ada pada adanya kebatilan.
+
+Ia pernah berkata: Lawanlah syahwat-syahwat dengan amarah, karena orang yang marah kepada dirinya sendiri karena ingin melakukan keburukan akan tersibukkan dari keburukan itu. Dan jinakkanlah amarah dengan diam.
+
+Ia pernah berkata: Barang hilang orang bodoh tidak akan ditemukan, sedangkan barang hilang orang berakal ada bersamanya ke mana pun ia pergi.
+
+Ia berkata: Orang yang kagum pada dirinya melihat pada dirinya sesuatu yang lebih agung daripada dirinya, meskipun kekuatannya lemah, lalu ia menampakkan kegembiraannya.
+
+Ia berkata: Barang siapa menggunakan akalnya, sedikitlah kesedihannya dan segala sesuatu merindukannya.
+
+Ia berkata: Sepatutnya orang berakal berbicara kepada orang bodoh sebagaimana tabib berbicara kepada orang sakit.
+
+Ia berkata: Kelezatan adalah jerat yang terulur.
+
+Ia berkata: Pencari dunia tidak lepas dari kesedihan dalam dua keadaan: sedih atas apa yang luput darinya, mengapa ia tidak memperolehnya; dan sedih atas apa yang telah diperolehnya, karena ia takut hal itu dirampas. Jika pun ia merasa aman dari perampasannya, ia yakin akan meninggalkannya untuk orang lain sesudah matinya. Maka ia tercekik dalam seluruh keadaannya.
+
+Ia berkata kepada salah seorang muridnya: "Wahai anakku! Cukupkanlah dirimu dari dunia dengan makanan yang sampai kepadamu sekadar makanan pokokmu, merasa cukuplah dengan minuman yang memecahkan dahagamu, relalah dengan pakaian yang menutupimu, dan merasa cukuplah dengan rumah yang dapat menaungimu. Jadilah pelayan bagi dirimu sendiri, niscaya hatimu tenang dan engkau tidak perlu bermanis-manis kepada orang lain. Jadikanlah kedua sandalmu tungganganmu, bumi hamparanmu, dan bulan serta bintang-bintang pelitamu. Jadikanlah ilmu pencarianmu, amal kebiasaanmu, dan mempelajari hikmah urusanmu, niscaya engkau termasuk orang-orang yang paling utama pada zamanmu dan menyusul saudara-saudaramu yang terpuji yang telah mendahului. Waspadalah terhadap perangkap yang dipasang di muka bumi bagi kaum laki-laki, yaitu perempuan, karena ia merusak hikmah, menjatuhkan kedudukan, mewariskan bencana, dan membawa kepada merosotnya cita-cita."
+
+Ia berkata: Pencari dunia pendek umurnya dan banyak pikirannya.
+
+Ia berkata: Pencari dunia seperti pengarung lautan: jika selamat, dikatakan "ia berani mengambil risiko"; jika celaka, dikatakan "ia tertipu".
+
+Ia berkata: Pencari dunia seperti orang yang melihat fatamorgana, disangkanya air yang akan memuaskan dahaganya, lalu ia memayahkan dirinya untuk mencarinya. Ketika ia sampai kepadanya, persangkaannya mengkhianatinya, harapannya luput, ia tetap dalam dahaganya, penyesalannya berkepanjangan, dan ia merugi atas panjangnya kepayahan yang ditanggungnya.
+
+Ia berkata: Umur manusia di dunia seperti bayang-bayang yang tidak memiliki hakikat, yang berpindah dari tempatnya ke tempat lain; apabila ia mencarinya di tempatnya, ia tidak menemukan apa-apa.
+
+Ia berkata: Manusia di dunia tersiksa dalam seluruh keadaannya: kenikmatan yang diperolehnya tidak kekal baginya, sedikit ia menikmati kelezatan-kelezatan yang didapatkannya, dan selalu tercekik oleh perpisahan dengan orang-orang yang dicintainya di dunia.
+
+Ia berkata: Cinta dunia menulikan telinga dari hikmah dan membutakan mata dari cahaya mata hati.
+
+Ia berkata: Cinta dunia mewariskan kedengkian, menanam dendam, menyembunyikan keburukan, dan menghalangi kebajikan.
+
+Ia berkata: Dunia menasihati orang yang meninggalkannya dan menipu orang yang mencarinya. Nasihatnya kepada orang yang meninggalkannya adalah apa yang ia perlihatkan kepadanya berupa perubahannya terhadap para penghuninya; dan tipuannya kepada pencarinya adalah apa yang ia cicipkan kepadanya berupa kelezatan sesaat, kemudian ia susuli dengan pahit rasanya dan buruk kesudahannya.
+
+Ia berkata: Barang siapa ingin menerapkan kebenaran melebihi kadar yang diterapkan raja, hendaklah ia menjauhi pengabdian kepada raja-raja! Jika ia ingin mengabdi kepada raja-raja, hendaklah ia menerapkan kebenaran sebatas kadar yang diterapkan raja dan tidak melampauinya; sebab apabila ia melampauinya, hendaklah ia tahu bahwa ia telah menantang raja.
+
+Ia berkata: Harta milik itu dilayani, dan barang siapa melayani selain dirinya sendiri, ia bukan orang merdeka.
+
+Ia pernah berkata: Tidak ada iman kecuali dengan apa yang benar, tidak ada amal kecuali dengan apa yang halal, dan tidak ada memulai kecuali dengan apa yang diyakini baik kesudahannya.
+
+Seorang lelaki berkata kepadanya: "Alangkah miskinnya engkau, wahai Sokrates!" Ia menjawab: "Seandainya engkau mengenal kemiskinan, rasa sakit atas dirimu sendiri akan menyibukkanmu dari rasa sakit atas Sokrates!"
+
+Ia ditanya: "Apakah yang paling dekat?" Ia menjawab: "Ajal." "Apakah yang paling jauh?" Ia menjawab: "Angan-angan." "Apakah yang paling menyenangkan?" Ia menjawab: "Sahabat yang serasi." "Apakah yang paling menakutkan?" Ia menjawab: "Maut."
+
+Ia berkata: Di antara keheranan yang paling mengherankan adalah orang berakal yang menyesali sesuatu.
+
+Ia berkata: Barang siapa mematikan jiwanya dengan kematian alami, jasadnya menjadi kubur; dan barang siapa mematikan jiwanya dengan kematian yang disengaja, kematian alaminya menjadi kehidupan abadi bagi jiwanya.
+
+Ia berkata: Yang paling utama untuk dimintai pertimbangan di setiap waktu adalah zaman.
+
+Ia berkata: Manusia yang paling indah rupanya adalah yang paling mengetahui apa yang diwajibkan oleh kebenaran.
+
+Ia berkata: Maut adalah kebenaran yang pasti, dan tidak ada yang membencinya kecuali orang yang banyak kezalimannya dan sedikit keadilannya.
+
+Ia berkata: Alangkah jelasnya keutamaan maut, karena ia menjadi sebab perpindahan dari alam kehinaan ke alam kemuliaan, dari alam kefanaan ke alam kekekalan, dari alam kebodohan ke alam akal, dan dari alam kepayahan ke alam ketenangan!
+
+Ia berkata: Seandainya maut tidak memiliki keutamaan selain terbebas dari lawan-lawanmu yang tidak berlaku adil dan berjumpa dengan ahli keadilan yang serupa denganmu, [itu sudah cukup].
+
+Ia berkata: Alangkah mudahnya maut bagi orang yang yakin akan apa yang sesudahnya! Dan alangkah sulitnya maut bagi orang yang ragu akan apa yang sesudahnya!
+
+Ia berkata: Barang siapa baik hidupnya, baik pula matinya!
+
+Ia berkata: Maut adalah rasa aman dari maut, dan penghubung kepada kenikmatan dan kemenangan.
+
+Ia berkata: Maut lebih baik daripada tinggal di negeri kehinaan.
+
+Ia berkata: Maut adalah kelegaan bagi orang yang menjadi hamba syahwatnya dan budak hawa nafsunya, karena setiap kali hidupnya bertambah panjang, keburukannya bertambah banyak dan kejahatannya tersebar di alam.
+
+Ia berkata: Barang siapa jahat, maut adalah sebab kelegaan alam dari kejahatannya.
+
+Ia berkata: Maut terpuji dalam segala keadaan, bagi orang saleh maupun orang durhaka. Orang saleh sampai kepada perbuatan-perbuatan indah yang telah didahulukannya dan berjumpa dengan saudara-saudaranya yang terpuji; sedangkan orang durhaka, alam terbebas dari kedurhakaannya, dan bertambahnya dosa serta bebannya menjadi berkurang.
+
+Ia berkata: Maut adalah kabar gembira bagi orang berakal dan nasihat bagi orang bodoh.
+
+Ia berkata: Kehidupan berlaku tidak adil dalam memutuskan di antara orang-orang yang hidup, sedangkan maut menyamakan dalam memutuskan di antara orang-orang yang mati.
+
+Ia berkata: Barang siapa dibunuh dalam keadaan terzalimi, hal itu menjadi rasa aman baginya dalam kesudahannya; dan barang siapa dibunuh dalam keadaan zalim, layaklah ia merasa takut akan kesudahannya.
+
+Ia berkata: Alangkah buruknya menangisi orang yang dibunuh dalam keadaan terzalimi, dan alangkah pantasnya menangisi orang yang dibunuh dalam keadaan zalim! Sebab orang yang terzalimi pantas disyukuri karena baiknya apa yang akan ia jumpai, sedangkan orang zalim pantas disedihkan karena buruknya apa yang akan ia jumpai.
+
+Ia berkata: Barang siapa takut kepada sesuatu, ia melakukan apa yang membuatnya aman darinya. Maka barang siapa takut kepada maut, hendaklah ia melakukan apa yang dengannya ia berharap selamat dari keburukannya.
+
+Ia berkata: Wahai anakku! Janganlah engkau melawan perkara yang sedang datang menghadap, karena kecil kemungkinan ia melemah. Bersandarlah kepada kaum yang nasib mereka sedang menghadap, dan jauhilah, selagi engkau sedang dalam keadaan beruntung, berkumpul dengan kaum yang nasibnya sedang berpaling.
+
+Ia berkata: Apabila engkau hendak melakukan suatu perkara, perhatikanlah sebab-sebab yang darinya perkara itu terjadi. Jika engkau dapat mencapai sebab-sebab itu, carilah perkara itu dengannya; jika tidak, mustahil engkau mencapainya. Bagaimana engkau akan mencapai suatu perkara padahal sebab-sebab yang dengannya perkara itu dicapai tidak ada padamu?
+
+Ia berkata: Kehilangan kelapangan hidup disertai kesucian jiwa lebih kaya daripada menghinakan kehormatan di hadapan orang yang menganggap banyak pemberiannya yang sedikit kepadamu dan menganggap sedikit apa yang telah engkau korbankan dari dirimu untuknya.
+
+Ia berkata: Janganlah sekali-kali engkau menganggap berharga suatu kebaikan atau keberuntungan yang engkau peroleh jika disertai dengan merendahkan dirimu, mengusangkan wajahmu, dan menghinakan kedudukanmu. Sebab apa yang hilang darimu berupa kemuliaan menjaga diri lebih besar daripada kadar faedah itu, dan nilai apa yang engkau korbankan dari kedudukanmu lebih besar daripada yang engkau peroleh berupa terpenuhinya hajat dirimu.
+
+Diceritakan bahwa ia belajar musik pada usia tua. Dikatakan kepadanya: "Tidakkah engkau malu, wahai orang tua, belajar di usia tua?" Ia menjawab: "Yang lebih buruk daripada itu adalah menjadi bodoh di usia tua."
+
+Ia melihat seorang pemuda yang telah menghabiskan hartanya, lalu mulai memakan buah zaitun yang ia kumpulkan dari pohon. Ia berkata kepadanya: "Seandainya dahulu engkau mencukupkan diri dengan menjadikan ini makananmu, tentu ini tidak menjadi makananmu sekarang."
+
+Ia berkata: Manusia hanya diberi satu lisan dan dua telinga agar apa yang didengarnya lebih banyak daripada apa yang diucapkannya.
+
+Ia berkata: Raja yang paling agung adalah orang yang mengalahkan syahwatnya.
+
+Ia ditanya: "Apakah yang paling lezat?" Ia menjawab: "Memperoleh adab dan mendengarkan berita-berita yang belum pernah engkau dengar."
+
+Ia berkata: Yang paling berharga yang harus dimiliki anak-anak muda adalah adab, dan manfaat adab yang paling kecil bagi mereka adalah memutuskan mereka dari hal-hal yang hina.
+
+Ia berkata: Perolehan manusia yang paling bermanfaat adalah sahabat yang tulus.
+
+Ia mendengar seseorang berkata: "Diam lebih selamat, karena dalam perkataan yang banyak sering terjadi kesalahan." Ia berkata: "Hal itu hanya menimpa orang yang tahu apa yang ia ucapkan. Adapun orang bodoh, jika ia berbicara, banyak ataupun sedikit, semuanya kesalahan."
+
+Ia berkata: Manfaat diam lebih banyak daripada manfaat berbicara, dan bahaya berbicara lebih banyak daripada bahaya diam.
+
+Ia berkata: Orang berakal dikenal dari banyaknya diamnya, dan orang bodoh dikenal dari banyaknya bicaranya.
+
+Ia berkata: Orang yang diam dinisbahkan kepada ketidakmampuan berbicara, tetapi ia selamat; dan orang yang berbicara dinisbahkan kepada kelancangan, lalu ia menyesal.
+
+Ia berkata: Seandainya orang yang diam tidak memperoleh keuntungan selain terbebas dari sakitnya berbantah dan sakitnya bersilat lidah, itu sudah merupakan keuntungan. Maka bagaimana lagi, sedangkan bersama itu ia memperoleh kesudahan yang baik dan ketenangan para kekasihnya karenanya!
+
+Ia berkata: Barang siapa tidak menerapkan diam atas dirinya, orang lain akan membungkamnya dengan paksa, dan hal itu menjadi aib baginya.
+
+Ia berkata: Barang siapa diam hingga diminta berbicara lebih beruntung daripada orang yang berbicara hingga diperiksa.
+
+Di pintu tempat pertapaannya tertulis: "Salamku kepada orang yang tidak kukenal dan tidak mengenalku."
+
+Ia berkata: Hikmah adalah pengobatan jiwa-jiwa, dan orang bijak yang berilmu adalah tabib jiwa-jiwa.
+
+Ia berkata: Perkataan dimiliki oleh pemiliknya selama ia belum mengucapkannya; apabila ia telah mengucapkannya, perkataan itu keluar dari miliknya.
+
+Ia berkata: Barang siapa mampu menahan diri dari berbicara kecuali pada tempatnya, ia lebih mampu lagi dalam berbuat.
+
+Ia berkata: Perkataan adalah kunci keburukan, dan diam adalah gemboknya.
+
+Ia berkata: Diam terpuji di sebagian besar tempat, dan berbicara tercela di sebagian besar tempat.
+
+Ia berkata: Apabila seseorang berbicara, diketahuilah sempurna atau kurangnya dia; dan apabila ia diam, orang ragu tentang dirinya sehingga ia tidak dapat dinilai kurang atau sempurna.
+
+Ia berkata: Barang siapa mengetahui bahwa perkataannya akan diperiksa, hendaklah ia memeriksanya sendiri sebelum orang lain memeriksanya.
+
+Ia berkata kepada salah seorang muridnya: "Perkataan dihitung atasmu, maka bersungguh-sungguhlah agar ia benar; jika tidak, menahan diri lebih utama bagimu."
+
+Ia berkata: Barang siapa merasakan perkataan sebagai sesuatu yang menyakitkan, ia selamat dari pukulan.
+
+Ia berkata: Orang yang diam memeriksa orang lain, sedangkan orang yang berbicara diperiksa oleh orang lain.
+
+Seorang lelaki meminta pertimbangannya tentang menikah, lalu ia berkata kepadanya: "Waspadalah jangan sampai engkau seperti ikan: yang berada di dalam jaring ingin keluar, dan yang di luar ingin masuk."
+
+Ia berkata: Remehkanlah maut, karena kepahitannya ada dalam rasa takut kepadanya.
+
+Ia ditanya: "Apakah harta milik yang terpuji?" Ia menjawab: "Yang bertambah dengan dibelanjakan."
+
+Ia berkata: Janganlah perhatianmu tertuju pada memperoleh sesuatu tanpa perhatian terhadap cara menggunakannya dengan baik.
+
+Seorang lelaki berkata kepadanya: "Apa gunanya hikmah bagimu, sedangkan engkau tidak pernah bermalam kecuali dalam keadaan miskin?" Ia menjawab: "Hikmah telah membebaskanku dari rasa sakit karena hal yang membuatmu sakit melihat keadaanku."
+
+Seorang perempuan yang dikenal tidak tahu malu dan melampaui batas terhadap dirinya berkata kepadanya: "Wahai orang tua, alangkah buruknya wajahmu!" Ia menjawab: "Seandainya engkau bukan salah satu cermin yang berkarat, niscaya keindahan rupaku akan tampak padamu."
+
+Ia berkata: Mabuk tidak lain adalah ketiadaan jiwa di alam akal. Mabuk membiarkan jiwa seperti hayula yang tidak memiliki bentuk, sehingga jiwa tetap tanpa daya. Maka apakah yang lebih buruk daripada meminum sesuatu yang menanggalkan perhiasan dari jiwa?
+
+Ia berkata: Orang-orang yang berubah-ubah mengikuti perubahan zaman tidak dimintai pertimbangan, karena mereka tidak memberi pertimbangan dengan pendapat, sebab mereka tidak memiliki pendapat; mereka hanya memberi pertimbangan dengan hawa nafsu semata. Yang dimintai pertimbangan hanyalah orang yang menghadapi zaman dengan pendapatnya dan tidak berubah-ubah mengikutinya. Orang yang tidak berubah-ubah mengikuti zaman memiliki cinta akali yang murni, sedangkan orang yang berubah-ubah mengikuti zaman, cintanya adalah cinta hawa nafsu.
+
+Ia berkata: Pendapat memperlihatkan kepadamu ujung suatu perkara pada permulaannya.
+
+Ia berkata: Menyimpan rahasia wajib menurut akal; maka orang yang menyebarkannya tidak berakal.
+
+Ia berkata: Menyimpan rahasiamu adalah sebab keselamatanmu, dan menyimpan rahasia orang lain wajib atasmu.
+
+Ia berkata: Yang patut disyukuri adalah orang yang menyimpan rahasia yang tidak diminta untuk disimpan. Adapun orang yang diminta menyimpan rahasia, hal itu memang wajib atasnya.
+
+Ia berkata: Simpanlah rahasia orang lain sebagaimana engkau suka orang lain menyimpan rahasiamu.
+
+Ia berkata: Menyimpan rahasia adalah kemuliaan jiwa dan ketinggian cita-cita.
+
+Ia berkata: Apabila dadamu sempit oleh rahasiamu sendiri, dada orang lain lebih sempit lagi karenanya.
+
+Ia ditanya: "Mengapa orang berakal meminta pertimbangan?" Ia menjawab: "Sebabnya adalah untuk melepaskan pendapat dari hawa nafsu. Ia meminta pertimbangan karena takut akan campuran hawa nafsu."
+
+Ia berkata: Seandainya orang yang makan makanan manis dan terus-menerus menyukainya mengetahui bahwa obatnya adalah yang pahit, ia tidak akan terus-menerus memakannya.
+
+Ia berkata: Perbedaan antara orang merdeka dan budak ialah bahwa orang merdeka selalu menjaga kebenaran dengan penjagaan yang bersumber dari substansinya, sedangkan budak selalu menjaga kebenaran dengan penjagaan karena takut.
+
+Ia berkata: Barang siapa baik akhlaknya, baik hidupnya, kekal keselamatannya, dan kokoh cintanya di dalam jiwa-jiwa; dan barang siapa buruk akhlaknya, susah hidupnya, kekal kebenciannya, dan jiwa-jiwa lari darinya.
+
+Ia berkata: Akhlak yang baik menutupi keburukan-keburukan lain, dan akhlak yang buruk menutupi kebaikan-kebaikan lain.
+
+Ia berkata: Pangkal hikmah adalah akhlak yang baik.
+
+Ia berkata: Akhlak yang baik membawa kepada keselamatan, mengamankan dari penyesalan, menumbuhkan kerukunan, mengamankan dari kemiskinan, dan mendorong kepada keindahan.
+
+Suatu hari ia berkata kepada salah seorang muridnya: "Wahai anakku! Waspadalah jangan sampai tertipu oleh zaman, karena ia tidak menepati janji kepada siapa pun sebelummu, dan demikian pula ia tidak akan menepati janji kepadamu. Hendaklah engkau berakhlak baik, niscaya engkau dicintai dan disukai. Ketahuilah, wahai anakku, bahwa jika engkau baik rupa lalu engkau himpun kepada baiknya rupamu baiknya akhlakmu, engkau menjadi sempurna. Jika engkau buruk rupa, janganlah engkau himpun kepada buruknya rupamu buruknya akhlakmu, tetapi hendaklah baiknya akhlakmu menutupi buruknya rupamu."
+
+Sokrates berwasiat kepada murid-muridnya: "Biasakanlah diri kalian merasa cukup, dan kenalilah kelebihan pada saat berlebih, niscaya hidup kalian menjadi baik. Janganlah kalian menitipkan rahasia kalian kepada orang lain, karena kalian tidak akan pernah aman dari pergantian zaman. Janganlah kalian meremehkan perkara kecil yang datang kepada kalian bila ia dapat tumbuh. Didiklah sahabat-sahabat kalian dengan cinta dan kebaikan, dan janganlah kalian menampakkan kepada mereka seluruh kasih sayang kalian sekaligus."
+
+Ia berkata: Tidur adalah kematian yang ringan, dan kematian adalah tidur yang panjang.
+
+Ia berkata: Barang siapa mencari lebih dari kebutuhannya, ia tersibukkan dari manfaatnya.
+
+Ia berkata: Merasa cukup adalah pemimpin kecukupan, dan barang siapa senantiasa menghisab dirinya, ia aman dari sikap bermanis-manis.
+
+Ia berkata: Angan-angan adalah cabang-cabang jiwa yang hina.
+
+Ia berkata: Karena cinta dunia, telinga menjadi tuli dari hikmah, dan hati menjadi buta dari cahaya mata hati.
+
+Ia berkata: Terimalah permintaan maaf manusia, niscaya engkau dapat menikmati percakapan mereka; dan matikanlah dendam-dendam mereka dengan wajah berseri kepada mereka.
+
+Ia berkata: Hikmah adalah cahaya yang tabiatnya bersifat substansial; kebenaran adalah cabang pertimbangan dan pikiran; dan berbuat menurut hawa nafsu adalah lawan dari keteguhan.
+
+Ia berkata: Langgengkanlah cinta sahabatmu dengan baiknya pergaulanmu dengannya, niscaya lama ia tinggal bersamamu.
+
+Ia berkata kepada salah seorang muridnya: "Janganlah sekali-kali engkau bersandar kepada zaman, karena ia cepat berkhianat kepada orang yang bersandar kepadanya."
+
+Ia berkata: Bencana-bencana hari itu banyak, dan tidak seorang pun dapat menghitung bilangannya.
+
+Ia berkata: Zaman memperingatkan agar orang waspada terhadapnya dan mengabarkan buruknya bencananya.
+
+Ia berkata kepada salah seorang muridnya: "Wahai anakku! Janganlah sekali-kali engkau tertipu oleh indahnya masa mudamu dan sehatnya tubuhmu, karena kesudahan kesehatan adalah sakit, dan kesudahan sakit adalah maut. Wahai anakku! Berusahalah untuk terlepas dari bencana-bencana dunia dan malapetaka zaman, karena bersama setiap kegembiraan ada kesedihan, bersama setiap kejernihan ada kekeruhan, bersama setiap nikmat ada bencana, bersama setiap perkumpulan ada perpisahan, dan bersama setiap pertemuan ada keterputusan."
+
+Ia berkata: Barang siapa digembirakan oleh zaman dalam suatu keadaan, akan disusahkannya dalam keadaan lain. Hampir pasti orang yang digembirakan zaman atas musuhnya akan menyaksikan zaman menggembirakan musuhnya atas dirinya!
+
+Ia berkata: Barang siapa hari-harinya terus berlalu membawanya, tidak diragukan lagi tulang-tulangnya sedang lapuk dan jiwanya sedang berangkat meninggalkan dunia.
+
+Seorang lelaki berkata kepada Sokrates: "Aku menyebutmu kepada si Fulan, tetapi ia tidak mengenalmu." Ia menjawab: "Merugikan dia jika ia tidak mengenalku, dan tidak merugikanku jika aku tidak mengenalnya. Aku tidak berhajat mengenal orang yang hina, dan tidak ada yang tidak mengenal orang sepertiku kecuali orang yang hina."
+
+Ia berkata: Orang yang mengikuti syahwat menyesal pada akhirnya dan tercela di dunia; orang yang menyalahi syahwat selamat pada akhirnya dan terpuji di dunia.
+
+Ia berkata: Barang siapa menempatkan dirinya pada kedudukannya, ia aman dari putaran nasib yang buruk.
+
+Ia berkata: Jiwa adalah permata yang tak ternilai harganya. Barang siapa mengenalnya, ia memeliharanya kecuali dari apa yang sejenis dengannya; dan barang siapa tidak mengenalnya, ia memboroskannya pada tempat yang bukan tempatnya.
+
+Ia berkata: Bersesuaiannya jiwa-jiwa adalah karena bersesuaiannya cita-cita mereka, dan perselisihannya karena berbedanya tujuan-tujuan mereka.
+
+Ia berkata: Barang siapa tidak berlaku adil terhadap dirinya sendiri, hampir pasti ia tidak berlaku adil terhadap orang lain; dan barang siapa tidak memperhatikan dirinya dengan baik, ia tidak memperhatikan orang lain dengan baik.
+
+Ia berkata: Orang berakal adalah orang yang menuntut dari dirinya apa yang menjadi hak orang lain, dan tidak menuntut dari orang lain apa yang menjadi haknya.
+
+Ia berkata: Barang siapa mengilhamkan cinta dunia kepada dirinya, hatinya penuh dengan tiga perangai: kefakiran yang tidak pernah sampai pada kekayaannya, angan-angan yang tidak pernah sampai pada ujungnya, dan kesibukan yang tidak pernah sampai pada habisnya.
+
+Ia berkata: Orang yang engkau perlu memintanya menyimpan rahasiamu, janganlah engkau menceritakan rahasiamu kepadanya.
+
+Ia berkata: Karena di dunia engkau tidak mendapati kecuali orang yang berduka, orang berduka yang paling bermanfaat adalah yang dukanya tertuju pada masa yang kekal.
+
+Ia berkata: Aku lebih berharap pada orang berakal yang nasibnya sedang berpaling daripada orang bodoh yang nasibnya sedang menghadap.
+
+Ia berkata: Apabila kemungkinan menjadi banyak, syahwat pada manusia menjadi sedikit.
+
+Sokrates ditanya: "Mengapa air laut menjadi asin?" Ia berkata kepada penanya: "Jika engkau memberitahuku manfaat yang akan engkau peroleh dari hal itu, aku akan memberitahumu sebabnya."
+
+Ia ditanya: "Apakah yang engkau peroleh dari hikmah?" Ia menjawab: "Aku menjadi seperti orang yang berdiri di tepi laut, memandangi orang-orang bodoh binasa di antara gelombangnya."
+
+Ia berkata: Dunia adalah warisan negara-negara, sisa kurun-kurun, dan wadah malapetaka.
+
+Ia berkata: Kemerdekaan ialah bahwa manusia melayani kebaikan dan tekun di dalamnya. Sesuai kadar pelayanannya terhadap kebaikan, sebesar itulah kemerdekaannya; dan barang siapa tidak berpegang pada kebaikan, ia bukan orang merdeka.
+
+Ia berkata: Janganlah berlebihan dalam syahwat-syahwatmu, karena peristiwa-peristiwa zaman memiliki kejadian-kejadian yang akan menimpamu; maka waspadailah apa yang dibawanya. Engkau berasal dari substansi orang-orang yang telah berlalu, tinggal di tempat orang-orang yang telah pergi, dan akan kembali kepada unsur yang darinya engkau bermula.
+
+Ia berkata: Barang siapa ingin berhubungan dengan saudara-saudara, hendaklah ia menguji dirinya dengan menyalahi syahwatnya, dan mengenali kesabarannya dalam menghadapi apa yang tidak sesuai dengannya. Jika hal itu mudah baginya, baiklah pergaulannya dengan sahabat-sahabatnya; jika tidak, menyendiri lebih cocok baginya.
+
+Ia berkata: Perempuan adalah perangkap yang dipasang bagi laki-laki, dan tidak ada yang terjatuh ke dalamnya kecuali orang yang tertipu olehnya.
+
+Ia berkata: Tidak ada bahaya yang lebih berbahaya daripada kebodohan, dan tidak ada keburukan yang lebih buruk daripada perempuan.
+
+Ia melihat seorang perempuan membawa api, lalu ia berkata: "Yang membawa lebih buruk daripada yang dibawa!"
+
+Ia melihat seorang perempuan sakit terbaring di atas ranjang tanpa dapat bergerak, lalu ia berkata: "Keburukan dicegah dengan keburukan."
+
+Ia melihat jenazah seorang perempuan yang diikuti para perempuan yang menangis, lalu ia berkata: "Keburukan merintih karena kehilangan keburukan."
+
+Ia melihat seorang gadis kecil belajar menulis, lalu ia berkata: "Janganlah kalian menambah keburukan dengan keburukan."
+
+Ia berkata: Barang siapa ingin selamat dari tipu daya setan, janganlah sekali-kali ia menaati seorang perempuan, karena perempuan adalah tangga yang dipasang, dan setan tidak memiliki tipu daya kecuali dengan menaikinya.
+
+Ia berkata: Kelemahan seorang lelaki dikenal dari tiga perangai: sedikitnya perhatiannya terhadap kemaslahatan dirinya, sedikitnya ia menyalahi apa yang diinginkannya, dan penerimaannya terhadap perkataan istrinya dalam apa yang ia ketahui maupun yang tidak ia ketahui.
+
+Suatu hari ia berkata kepada murid-muridnya: "Maukah aku tunjukkan kepada kalian keselamatan dari seluruh keburukan?" Mereka menjawab: "Ya, wahai orang bijak; sejak lama engkau telah berjasa kepada kami." Ia berkata: "Janganlah sekali-kali seorang di antara kalian menaati perempuan dalam keadaan apa pun, baik dalam apa yang ia ketahui maupun yang ia ingkari; maka ia akan selamat." Salah seorang dari mereka berkata: "Lalu bagaimana dengan seorang lelaki di antara kami yang mempunyai ibu yang penyayang dan saudara perempuan kandung?" Ia menjawab: "Dalam apa yang telah kukatakan kepada kalian sudah ada kecukupan; keburukan serupa dengan keburukan."
+
+Ia berkata: Barang siapa ingin kuat dalam mencari hikmah, hendaklah ia mencegah perempuan menguasai dirinya.
+
+Ia melihat seorang perempuan memakai wewangian, lalu ia berkata: "Api yang ditambah kayu bakarnya agar nyalanya semakin dahsyat dan bahayanya semakin besar."
+
+Ia ditanya: "Apa pendapatmu tentang perempuan?" Ia menjawab: "Mereka seperti pohon oleander yang memiliki keelokan dan keindahan; apabila kambing memakannya, pohon itu membunuhnya."
+
+Dikatakan kepadanya: "Bagaimana boleh engkau mencela perempuan, padahal seandainya bukan karena mereka, engkau dan orang-orang bijak sepertimu tidak akan ada?" Ia menjawab: "Perempuan itu seperti pohon kurma yang berduri: jika durinya masuk ke pakaian seseorang, ia melukainya, sedangkan buahnya adalah kurma segar yang baru dipetik."
+
+Dikatakan kepadanya: "Mengapa engkau menjauhi perempuan?" Ia menjawab: "Karena aku melihat mereka menjauhi kebaikan dan menempuh jalan keburukan."
+
+Ia berkata: Tawanan perempuan tidak dapat dibebaskan. Ia berkata: Barang siapa dikuasai perempuan, ia adalah orang yang terbunuh di antara orang-orang yang hidup.
+
+Ia melihat seorang lelaki berteriak: "Api! Api!" Ia bertanya kepadanya: "Ada apa denganmu?" Lelaki itu menjawab: "Aku mempunyai seorang istri, lalu ia lebih memilih orang lain daripada aku." Ia berkata kepadanya: "Hai engkau! Cukuplah menjadi aib bagimu bahwa engkau menginginkan orang yang tidak menginginkanmu." Lelaki itu berkata: "Engkau telah melapangkan hatiku, demi Tuhan langit!"
+
+Ia melihat seorang gadis kecil belajar menulis, lalu ia berkata: "Kalajengking yang menambah racun pada racunnya."
+
+Ia ditanya: "Ilmu-ilmu apakah yang sepatutnya diambil oleh anak-anak muda?" Ia menjawab: "Segala perkara yang membuat orang tua malu jika tidak mengetahuinya."
+
+Ia ditanya: "Sejak kapan engkau mulai memperoleh keutamaan-keutamaan?" Ia menjawab: "Sejak aku mulai mencela diriku sendiri."
+
+Ia berkata: Apabila seseorang merasakan dalam dirinya bahwa celaan tidak mengotorinya selama ia tetap menempuh jalan hikmah dan ketentuannya, ia telah menjadi orang bijak.
+
+Archigenes berkata kepadanya: "Perkataan yang engkau sampaikan kepada penduduk kota tidak diterima." Ia menjawab: "Aku tidak susah jika perkataan itu tidak diterima; yang menyusahkanku hanyalah jika perkataan itu tidak benar."
+
+Ia berkata: Orang utama pada tingkatan tertinggi adalah orang yang mencari keutamaan-keutamaan atas kehendaknya sendiri; orang utama pada tingkatan kedua adalah orang yang tergerak kepadanya apabila mendengarnya dari orang lain; dan orang yang luput dari kedua hal itu adalah orang yang jatuh lagi hina.
+
+Ia berkata: Kekayaan yang terpuji adalah kekayaan yang apabila engkau berikan kepada orang lain, ia tetap ada padamu secara utuh.
+
+Ia berkata: Barang siapa tidak memiliki rasa malu, janganlah engkau memikirkannya.
+
+Ia berkata: Engkau tidak dapat menarik kembali perkataan atau perbuatan yang telah keluar darimu, maka dahulukanlah kehati-hatian sebelum itu.
+
+Ia berkata: Janganlah engkau terhalang dari berbuat kebaikan karena melihat orang yang meremehkannya.
+
+Ia berkata kepada salah seorang muridnya: "Wahai anakku! Jauhilah dengki terhadap apa yang fana, yaitu perhiasan dunia; hendaklah engkau berlomba-lomba dalam apa yang langgeng dan kekal. Wahai anakku! Jauhilah keburukan dan para pelakunya, niscaya kebaikan dan para pelakunya akan akrab denganmu. Wahai anakku! Bersahabatlah dengan para ulama, niscaya engkau menjadi utama karena persahabatan dengan mereka; muliakanlah kedudukan mereka, niscaya mereka menjadikanmu tempat rahasia-rahasia mereka. Wahai anakku! Terus-menerus dalam kelalaian bersama panjangnya kesehatan adalah tertipu. Jika engkau ingin tidak sampai kepadamu keburukan dari seorang pun, janganlah engkau meyakini keburukan dengan hatimu dan janganlah engkau menyembunyikannya dalam rahasiamu. Wahai anakku! Kurangilah mencari-cari aib manusia, niscaya berkurang pula manusia mencari-cari aibmu. Dahulukanlah akal di hadapanmu dalam seluruh urusanmu, niscaya engkau mendapat petunjuk dengan mengikutinya. Janganlah sekali-kali pengingkaran orang yang mengingkari nikmat menghalangimu dari berbuat baik."
+
+Ia berkata: Orang bodoh adalah orang yang tersandung batu yang sama dua kali.
+
+Seorang lelaki berkata kepadanya: "Alangkah buruknya wajahmu!" Ia menjawab: "Aku tidak menguasai penciptaan sehingga aku dicela karenanya. Adapun apa yang ada dalam kekuasaanku, telah kusempurnakan; sedangkan engkau, apa yang ada dalam kekuasaanmu telah engkau rusak dan buruk-kan." Orang itu bertanya: "Apakah yang ada dalam kekuasaanku?" Sokrates menjawab: "Dalam kekuasaanmu ada memperindah dan memperburuk." Ia bertanya lagi: "Apakah memperindah dan memperburuk yang ada dalam kekuasaanku?" Sokrates menjawab: "Di antara memperindah adalah memakmurkan pikiran dengan hikmah, mengilapkan akal dengan adab, menumpas amarah dengan kesantunan, mencegah kerakusan dengan merasa cukup, mematikan dengki dengan zuhud, mengganti kekacauan dengan ketenangan, dan melatih jiwa hingga menjadi tunggangan yang patuh. Di antara memperburuk dan merusak adalah mengosongkan pikiran dari hikmah, mengotori akal dengan menyia-nyiakan adab, menyalakan amarah dengan pembalasan, menambah kerakusan dengan tuntutan, dan merendahkan jiwa kepada syahwat-syahwat kebinatangan hingga menjadi pengikutnya."
+
+Ia berkata kepada salah seorang muridnya: "Siapkanlah dirimu menghadapi musibah-musibah, karena engkau berada di negeri yang penghuninya tidak luput dari musibah-musibahnya. Dalam keadaan apa pun, bersiaplah menghadapi bencana sebelum ia turun, sehingga apabila ia turun engkau telah siap menghadapinya dengan kesabaran; dan jika ia berpaling darimu, hal itu terjadi setelah engkau bersiap. Wahai anakku! Jadilah penasihat bagi orang yang meminta nasihat dan orang tepercaya bagi orang yang memercayaimu, niscaya engkau selamat dari buruknya kesudahan dalam urusanmu."
+
+Ia berkata: Lakukanlah apa yang engkau suka dilakukan kepadamu, dan tahanlah diri dari apa yang engkau suka orang lain menahan diri darinya terhadapmu.
+
+Ia berkata: Tuduhan yang dibuat-buat adalah utusan pemutusan hubungan, dan kikir berasal dari sempitnya jiwa.
+
+Ia berkata: Jiwa rasional (*al-nafs al-nāṭiqa*) adalah substansi sederhana yang memiliki pendengaran yang kuat. Dengannya ia bergerak dengan satu gerakan apabila bergerak menuju zatnya dan menuju akal, dan dengan gerakan-gerakan yang berbeda apabila bergerak menuju kelima indra.
+
+Ia berkata: Kemurahan adalah mengutamakan lezatnya manisnya pujian atas lezatnya harta.
+
+Ia berkata: Sabar adalah benteng yang kokoh bangunannya; ketergesaan merusak muruah dan menggiring kepada penyesalan; kejujuran adalah buah kemuliaan; kerakusan adalah kelebihan syahwat; angan-angan adalah jerat-jerat kebodohan; dan pergaulan yang baik adalah pelindung dari keburukan.
+
+Ia berkata: Peliharalah nikmat dengan berbuat kebaikan, niscaya engkau aman dari lenyapnya nikmat itu darimu. Syukur adalah utang dan perjanjian yang diambil dari setiap pemilik nikmat; maka barang siapa melingkupi nikmat dengan syukur, ia dilingkupi dengan tambahan.
+
+Ia berkata: Dengan ketenangan, tuntutan-tuntutan menjadi mudah; dengan lembutnya sikap dalam pergaulan, kasih sayang menjadi langgeng; dengan merendahkan diri, jiwa-jiwa merasa aman; dengan lapangnya akhlak, hidup menjadi baik; dengan banyaknya diam, kewibawaan terwujud; dengan keadilan, keagungan menjadi wajib; dengan keinsafan, hubungan terjalin; dengan kemurahan, kedudukan menjadi besar; dengan kerendahan hati, nikmat-nikmat menjadi sempurna; dengan akhlak yang saleh, amal-amal menjadi bersih; dengan menanggung beban-beban, kepemimpinan menjadi wajib; dengan perilaku yang adil, penentang ditundukkan; dengan kesantunan terhadap orang dungu, penolongmu atasnya menjadi banyak; dengan kelembutan dan kasih sayang, nama kemuliaan menjadi layak; dengan kelembutan, kejujuran, dan kewibawaan, orang-orang yang setara memandangmu dengan keagungan; dengan menafikan ujub, engkau aman dari dengki; dan dengan meninggalkan apa yang bukan urusanmu, keutamaanmu menjadi sempurna.
+
+Ia berkata: Bagi orang yang mau mengambil pelajaran, pergantian zaman sudah cukup; dan setiap hari datang kepadamu darinya ilmu yang baru.
+
+Ia berkata: Orang yang berdamai dengan manusia mulia kedudukannya; orang yang suka mencelakakan tidak terjaga; kewaspadaan tidak berguna bagi orang zalim, karena yang aman dari permusuhan hanyalah orang yang berlaku adil; pengaturan yang baik menyampaikan pemiliknya kepada kedudukan-kedudukan yang tinggi; dan tempat merumput perbuatan yang indah adalah taman yang menyenangkan.
+
+Ia berkata: Wajah berseri memakaikan kepada pemiliknya pakaian cinta, dan kekasaran menanggalkan dari pemiliknya pakaian penerimaan.
+
+Ia berkata: Barang siapa menghisab dirinya, ia beruntung; barang siapa lalai darinya, ia merugi; barang siapa bersabar, ia mendapat rampasan; barang siapa tidak santun, ia menyesal; barang siapa diam, ia selamat; barang siapa mengambil pelajaran, ia melihat; barang siapa melihat, ia memahami; dan barang siapa memahami, ia mengetahui.
+
+Ia berkata: Barang siapa menanam keburukan, ia menuai keburukan. Harta sedikit disertai merasa cukup adalah kemuliaan, dan kerakusan disertai harta banyak adalah kehinaan. Memikirkan akibat adalah keberhasilan. Sekutu kejujuran mendapat taufik, dan teman kedustaan tertinggalkan. Sahabat orang berakal berbahagia, dan sahabat orang bodoh kelelahan. Apabila engkau tergelincir, kembalilah; apabila engkau berbuat buruk, menyesallah; apabila engkau menyesal, berhentilah. Apabila engkau berbuat kebaikan kepada seseorang, sembunyikanlah; dan apabila engkau menolak memberi, tolaklah dengan cara yang baik.
+
+Ia berkata: Barang siapa merasa lezat berbuat kebaikan, keuntungannya adalah pujian. Barang siapa membalas dengan syukur, ia telah menunaikan hak. Barang siapa meminjamimu pujian, penuhilah dengan kebaikan. Dan barang siapa mendahuluimu dengan kebajikannya, ia telah menyibukkanmu dengan mensyukurinya.
+
+Ia berkata: Jagalah kehormatan kedudukanmu, niscaya keagungan tetap ada padamu dalam keadaan apa pun. Biasakanlah dirimu berhati-hati pada saat akrab dalam pergaulan, agar engkau tidak keluar dari batas-batas yang dapat ditanggung dan tidak melampaui kadar dalam merendahkan diri, sehingga di kemudian hari engkau dibebani lebih dari apa yang tampak darimu, lalu engkau tercampakkan.
+
+Ia berkata: Dengan datangnya bencana-bencana, nikmat-nikmat menjadi keruh bagi orang-orang yang menikmatinya.
+
+Ia berkata: Orang berakal adalah orang yang mencurigai pendapatnya sendiri dan tidak memercayai segala yang dihiasi oleh jiwanya; sedangkan orang bodoh tidak mengetahui kekurangannya dan tidak menerima nasihat dari para penasihatnya.
+
+Ia berkata: Janganlah engkau bergaul kecuali dengan orang yang mengetahui kadar dirinya, karena bergaul dengan orang yang mengetahui kadar dirinya adalah hidup yang baik; dan orang yang tidak mengetahuinya, tidak ada kebaikan dalam bergaul dengannya.
+
+Ia berkata: Barang siapa sedikit kesedihannya atas apa yang luput darinya, jiwanya tenang dan pikirannya jernih.
+
+Ia berkata: Barang siapa terlalu teliti terhadap kawan pergaulannya, putuslah sebab-sebab kasih sayangnya; dan barang siapa teliti terhadap dirinya sendiri, ia terbebas dari ketelitian orang lain terhadapnya.
+
+Ia berkata: Orang berakal adalah orang yang hemat dalam penghidupannya, beradab dalam tutur katanya, dididik bersama orang-orang saleh dari tingkatannya, dan tidak menginginkan sesuatu yang hina jika hal itu dihadapkan kepadanya.
+
+Ia berkata: Janganlah engkau malu menerima kebenaran dari siapa pun yang membawanya, sekalipun ia buruk rupa, karena kebenaran itu agung pada dirinya, dan pemiliknya menjadi agung karena keagungannya.
+
+Ia berkata: Barang siapa mencintaimu karena dirimu sendiri, janganlah engkau luputkan ia dari kebaikanmu.
+
+Ia berkata: Kekayaan berupa apa yang melindungi pemiliknya dari kehinaan lebih banyak daripada harta yang diperoleh pemiliknya dengan kehinaan.
+
+Ia berkata: Hampir pasti orang yang sibuk dengan dirinya sendiri akan melihat petunjuk pada kesudahan urusannya.
+
+Salah seorang muridnya bertanya kepadanya: "Mengapa kami tidak melihat bekas kesedihan padamu?" Ia menjawab: "Karena aku tidak memiliki sesuatu yang apabila hilang akan membuatku sedih. Jika tempayan itu pecah, tempatnya tidak ikut pecah."
+
+Ia berkata kepada seorang lelaki yang lari dari medan perang: "Lari dari peperangan adalah aib." Lelaki itu menjawab: "Yang lebih buruk daripada aib adalah maut." Sokrates berkata: "Hidup lebih utama daripada mati apabila keselamatan dari maut membawa kepada kehidupan yang baik; tetapi apabila keselamatan itu membawa kepada kehidupan yang hina, maut lebih baik dan lebih utama daripadanya."
+
+Ketika ia dikeluarkan dari penjara, ia berkata kepada istrinya yang sedang menangis: "Apa yang membuatmu menangis?" Istrinya menjawab: "Bagaimana aku tidak menangis, sedangkan engkau dibunuh secara zalim!" Ia berkata kepadanya: "Apakah engkau ingin aku dibunuh dengan benar?"
+
+Ia berkata kepada murid-muridnya: "Barang siapa tidak melatih dirinya di gelanggang latihan-latihan, ia tidak akan sampai terdahulu pada puncak kebaikan-kebaikan, karena ia tidak mencapai jangkauan hikmah."
+
+Ia pernah berkata: Wahai tawanan-tawanan maut! Lepaskanlah belenggu kalian dengan hikmah.
+
+Ia pernah berkata: Di tempat yang ada minuman keras dan permainan, penjagaan diri dan hikmah tidak akan tinggal; bahkan keduanya tiada di sana.
+
+Seorang dungu mencaci Sokrates, lalu salah seorang sahabatnya berkata kepadanya: "Izinkanlah aku menghadapinya, wahai orang bijak, agar aku menahannya darimu." Ia menjawab: "Bukanlah orang bijak orang yang memberi izin untuk berbuat buruk."
+
+Dikatakan kepadanya: "Penduduk kota menertawakanmu." Ia menjawab: "Aku harus membiarkan mereka menertawakanku sampai aku mati."
+
+Dikatakan kepadanya: "Musuhmu si Fulan telah mati." Ia menjawab: "Aku lebih suka jika kalian mengatakan bahwa ia telah menikah, karena pernikahannya lebih buruk baginya daripada kematiannya."
+
+Salah seorang panglima raja melihatnya memakan rumput di padang pasir, lalu berkata: "Seandainya engkau mengabdi kepada raja kami, engkau tidak akan membutuhkan ini." Ia menjawab: "Dan engkau, seandainya engkau mampu memakan rumput, engkau tidak akan menghamba kepada orang yang sama sepertimu, karena engkau selamanya berada di antara kesedihan, duka, dan kepayahan karena pengabdian." Panglima itu bertanya: "Bagaimana demikian?" Ia menjawab: "Karena aku tidak memiliki sesuatu yang perlu kuperhatikan; makanan para bijak tanpa kerakusan, ibadah mereka tanpa riya, dan hidup mereka tanpa kematian."
+
+Ia berkata: Apabila engkau hendak meminta pertimbangan seseorang dalam salah satu urusan dirimu, perhatikanlah bagaimana orang yang dimintai pertimbangan itu mengatur urusan dirinya sendiri. Jika ia tidak memperbaiki dirinya dan tidak memperoleh kebaikan baginya, engkau lebih patut tidak mendapat manfaat darinya, karena engkau tidak lebih diutamakan di sisinya daripada dirinya sendiri.
+
+Ia berkata: Barang siapa mencoba, bertambah ilmunya; barang siapa beriman, bertambah keyakinannya; barang siapa yakin, bertambah kesungguhannya; barang siapa bersemangat dalam beramal, bertambah kekuatannya; barang siapa bermalas-malas, bertambah kelesuannya; dan barang siapa ragu-ragu, bertambah keraguannya.
+
+Sokrates memiliki sebait syair yang disusun dalam wazan Arab:
+
+> Dunia, sekalipun dicintai,
+> hanyalah sekilas lirikan orang yang menoleh.
+
+Ia berkata: Sang Pencipta Taʿālā tidak memiliki ujung dan tidak memiliki batas akhir. Sesuatu yang tidak memiliki batas akhir tidak memiliki sosok dan tidak memiliki bentuk. Ketidakberhinggaan pada segala maujud lainnya, seandainya terwujud, tentu ia memiliki bentuk yang nyata, letak, dan susunan; dan sesuatu yang bentuk, letak, dan susunannya terwujud menjadi berhingga. Maka segala maujud tidaklah tidak berhingga. Pencipta Pertama tidak memiliki batas akhir, bukan dalam arti bahwa Dia membentang ke segala arah tanpa batas sebagaimana dikhayalkan oleh khayal dan angan-angan; bahkan khayal tidak dapat naik kepada-Nya sehingga dapat menyifati-Nya dengan batas akhir atau tanpa batas akhir. Maka Dia tidak memiliki batas akhir dari segi akal, karena akal tidak dapat membatasi-Nya, dan tidak pula dari segi indra, karena indra tidak dapat membatasi-Nya. Dia tidak memiliki batas akhir, maka Dia tidak memiliki sosok dan bentuk; Dia tidak memiliki bentuk inderawi, bentuk khayali, maupun bentuk akali.
+
+Sokrates berpendapat bahwa jiwa-jiwa manusia telah ada sebelum badan-badan dengan salah satu cara keberadaan, entah bersambung dengan jiwa-jiwa universalnya atau terpisah dengan zat-zat dan ciri-cirinya. Jiwa-jiwa itu bersambung dengan badan-badan untuk menyempurnakan diri, dan badan-badan adalah cetakan dan alat-alatnya. Apabila badan-badan itu binasa, jiwa-jiwa kembali kepada jiwa-jiwa universalnya. Karena itulah, ketika mereka menakut-nakutinya dengan raja yang akan membunuhnya, ia berkata: "Sokrates berada di dalam sebuah tempayan, dan raja tidak mampu berbuat apa-apa kecuali memecahkan tempayan itu. Apabila tempayan itu pecah, airnya kembali ke laut."
+
+Ia berkata: Sepatutnya kita berduka karena kehidupan dan bergembira karena kematian, karena kita hidup untuk mati dan mati untuk hidup.
+
+Ia berkata: Hati orang-orang yang tenggelam dalam pengenalan hakikat-hakikat adalah mimbar-mimbar para malaikat, sedangkan perut orang-orang yang menikmati syahwat adalah kubur hewan-hewan yang binasa.
+
+Ia berkata: Sebagaimana seluruh gejala luar yang tampak pada badan niscaya mengikuti penyakit-penyakit dalam badan dan hal-hal yang keluar dari tabiat, demikian pula perkataan yang kasar dan perbuatan-perbuatan yang sulit yang tampak dari jiwa niscaya mengikuti penyakit-penyakit jiwa atau hal-hal yang keluar dari tabiat yang tertanam dalam jiwa.
+
+Ia berkata: Sebagaimana orang-orang yang hanya menggunakan indra-indra badan tercegah dari marah oleh raja yang terindra apabila mereka berdiri di hadapannya, demikian pula orang yang menggunakan indra-indra jiwa wajib tercegah dari marah oleh rasa takut kepada Raja yang inteligibel, yang di hadapan-Nya ia senantiasa berdiri.
+
+Ia berkata: Waspadalah terhadap kesantunan orang bijak, dan janganlah engkau terpedaya oleh kesabarannya yang berkepanjangan. Sebab pohon cendana, meskipun dingin, terus-menerus diterpa angin hingga dahan-dahannya bertemu, lalu sebagiannya bergesekan dengan sebagian yang lain hingga memercikkan api yang membakarnya.
+
+Disebutkan kepadanya seorang lelaki yang banyak hartanya, lalu ia berkata: "Aku tidak akan iri kepadanya sebelum aku tahu bahwa ia telah menggunakan hartanya dengan baik."
+
+Seorang lelaki diberi sejumlah harta agar mencaci Sokrates. Ia pun mendatanginya dan mencacinya. Sokrates berkata kepadanya: "Jika di sini ada wajah lain yang engkau kira akan memberimu manfaat, janganlah engkau menahan diri darinya."
+
+Seorang lelaki ditempatkan lebih tinggi daripadanya dalam majelis salah seorang pemimpin, tetapi ia tidak tersinggung. Hal itu ditanyakan kepadanya, lalu ia menjawab: "Dinding di hadapan kita ini lebih tinggi daripada kita semua, namun aku tidak melihat seorang pun di antara kita yang marah karenanya. Aku hanya akan marah jika cita-citanya lebih tinggi daripada cita-citaku. Adapun jika cita-citaku lebih tinggi, tempat dudukku yang lebih tinggi dan tempat duduknya yang lebih rendah."
+
+Ia berkata: Waspadalah terhadap celaan seperti orang yang mengetahui bahayanya; jika engkau terjatuh ke dalamnya, janganlah engkau bermalas-malas untuk keluar darinya dengan sekuat tenagamu.
+
+Ia berkata: Seandainya dalam ucapanku "aku tidak tahu" tidak terkandung pemberitahuan bahwa aku tahu, tentu aku akan berkata "aku tidak tahu".
+
+Seseorang melihatnya dalam kain usang yang tidak menutupi tubuhnya, lalu berkata: "Inikah Sokrates, peletak hukum-hukum Athena?" dan ia pun terheran-heran kepadanya. Sokrates berkata kepadanya: "Sebab hukum yang benar bukanlah kain yang baru."
+
+Ia pernah berkata kepada murid-muridnya: "Remehkanlah maut, niscaya orang-orang yang takut kepada maut menjadi remeh bagi kalian."
+
+Menjelang wafatnya Sokrates berwasiat dengan sembilan hal. Ia berkata: "Didiklah tabiat kalian dengan merasa cukup sejak awal kalian mengenalnya, niscaya kalian mengenal syukur ketika bertambah dan hidup kalian menjadi baik. Janganlah meminta kabar dari utusan selain hatimu, karena zaman tidak dapat dipercaya: ia dapat berlaku terhadapmu dengan para pengikutnya yang zalim sebagaimana ia berlaku terhadapmu dengan para pengikutnya yang adil. Janganlah meremehkan perkara selagi ia kecil apabila ia datang kepadamu dan dapat bertambah. Didiklah sahabatmu dengan cinta sebagaimana engkau mendidik anak kecil. Janganlah menampakkan kepadanya seluruh cintamu sekaligus, karena apabila ia melihat perubahan padamu, ia akan menyusulimu dengan permusuhan. Jauhilah amarah, karena ia menyia-nyiakan muruah dan mengoyak tabir, kemuliaan, dan keutamaan. Pakailah cinta dan tolaklah pergaulan dengan takaran pembalasan setimpal (*qiṣāṣ*),[^p12] niscaya diri kalian selamat dari orang-orang jahat, dan dekatilah orang-orang baik. Janganlah engkau mencela seseorang karena sesuatu yang engkau sendiri melakukan yang serupa; jika tidak, jauhilah perbuatan yang engkau celakan kepada orang lain."
+
+[^p12]: CP: Terjemahan Turki memahami kalimat ini sebagai "relalah dengan pergaulan menurut takaran kisas". Teks Arab memakai kata kerja *irfuḍū* ("tolaklah"), sehingga maknanya justru menolak pergaulan yang didasarkan pada pembalasan setimpal. Terjemahan ini mengikuti teks Arab.
+
+Ia berkata: Termasuk hikmah bahwa seseorang mengetahui untuk apa dirinya layak.
+
+## Riwayat Plato, Sang Bijak Ketuhanan, dan Adabnya {.judul-bab}
+
+Ia adalah Plato putra Ariston putra Aristokles, dari Athena. Ia adalah yang terakhir dari para bijak terdahulu yang menjadi tiang-tiang hikmah, dan ia dikenal dengan tauhid dan hikmah. Ia berguru kepada Sokrates, Timaios, Orang Asing dari Athena, dan Orang Asing dari Elea. Ketika Sokrates wafat, ia menggantikan kedudukannya dan duduk di kursinya, dan ia menambahkan ilmu-ilmu fisika dan matematika kepadanya.
+
+Murid-muridnya, Aristoteles, Timaios, dan Theophrastos, meriwayatkan darinya bahwa alam memiliki Pencipta yang azali, wajib ada karena Zat-Nya sendiri, mengetahui segala yang diketahui menurut sifat sebab-sebab universal. Dia ada pada azali, dan dalam wujud belum ada jejak maupun puing, kecuali contoh (*mithāl*) di sisi Sang Pencipta Taʿālā. Kadang-kadang ia menyebutnya hayula atau unsur, dan barangkali ia mengisyaratkan bentuk-bentuk hal yang diketahui dalam ilmu-Nya. Maka Dia menciptakan Akal Pertama; dengan perantaraannya Jiwa Universal, yang terpancar dari Akal sebagaimana bayangan terpancar dari cermin; dan dengan perantaraan keduanya unsur. Adapun hayula yang menjadi landasan bagi bentuk-bentuk inderawi bukanlah unsur itu. Ia memasukkan zaman, yakni masa (*dahr*), ke dalam prinsip-prinsip. Ia menetapkan bagi setiap maujud di alam inderawi suatu contoh yang ada di alam akali, yang tidak bersifat individual. Maka prinsip-prinsip pertama adalah hal-hal sederhana; contoh-contoh itu sederhana, sedangkan individu-individu tersusun. Manusia yang terindra adalah partikular dari manusia yang sederhana lagi inteligibel. Demikian pula setiap spesies hewan, tumbuhan, barang tambang, dan maujud-maujud di alam ini adalah jejak dari maujud-maujud di alam itu, dan setiap jejak pasti memiliki pemberi jejak yang menyerupainya dengan salah satu jenis keserupaan.
+
+Karena akal manusia berasal dari alam itu, dari yang terindra ia menangkap suatu contoh inteligibel yang terlepas dari materi, yang dengan keuniversalannya bersesuaian dengan contoh yang ada di alam akal, dan dengan kepartikularannya bersesuaian dengan maujud yang ada di alam indra. Seandainya tidak demikian, apa yang ditangkap akal tidak akan bersesuaian dengan [yang di luar], padahal tangkapan sesuatu bersesuaian dengan hakikat yang ditangkap. Bentuk-bentuk inderawi hanya tetap ada apabila ia memiliki bentuk-bentuk akali yang ia harapkan untuk bergabung dengannya dan ia takut tertinggal darinya. Apabila dengan indra kita menyaksikan seluruh yang terindra dalam keadaan terbatas dan terkungkung oleh waktu dan tempat, [kita wajib menyaksikan dengan akal seluruh yang inteligibel dalam keadaan tidak terbatas dan tidak terkungkung oleh waktu dan tempat],[^t28] dan itulah contoh-contoh akali.
+
+[^t28]: CT: Bagian dalam kurung siku ditambahkan dari al-Shahrastānī, *al-Milal wa-l-Niḥal*, ed. Amīr ʿAlī Muhannā dan ʿAlī Ḥasan Fāʿūr (Beirut: Dār al-Maʿrifa, 1993), II, 410, untuk menjaga keutuhan makna.
+
+Aristoteles tidak menyalahi Plato tentang makna akali universal ini, hanya saja ia berkata bahwa makna itu ada di dalam akal, ada di dalam pikiran, dan tidak ada di luar, karena satu individu tidak berlaku sekaligus atas Zaid dan ʿAmr, padahal makna itu pada dirinya satu. Plato menjawab: Makna yang ada di dalam akal itu pasti memiliki sesuatu di luar yang bersesuaian dengannya sehingga ia berlaku atasnya; itulah contoh akali. Ia adalah substansi, karena keberadaannya dibayangkan tidak berada pada suatu subjek. Ia lebih dahulu daripada individu-individu partikular sebagaimana akal lebih dahulu daripada indra; keterdahuluannya adalah keterdahuluan akali sekaligus keterdahuluan kemuliaan. Contoh-contoh itulah prinsip-prinsip maujud-maujud inderawi: darinya ia bermula dan kepadanya ia kembali. Bercabang dari hal ini pendapat bahwa jiwa-jiwa manusia telah ada sebelum badan-badan dengan salah satu cara keberadaan akali; dengan keduanya, yakni akal dan jiwa, ia memandang bentuk-bentuk abstrak. Dalam hal ini Aristoteles menyalahinya.
+
+Dikatakan bahwa ia bersekutu dengan Sokrates dalam mengambil hikmah dari Pythagoras, hanya saja ia tidak tampil dan tidak masyhur dengan hikmah kecuali sesudah wafatnya Sokrates. Ia menguasai seluruh cabang filsafat dan menyusun banyak kitab yang masyhur dalam berbagai bidang hikmah, dan dalam kitab-kitab itu ia menempuh cara simbol dan ketertutupan. Ia mendidik sejumlah murid. Ia mengajar sambil berjalan, sehingga mereka dinamai kaum Peripatetik (*al-mashshāʾiyyūn*). Pada akhir umurnya ia menyerahkan pengajaran kepada sahabat-sahabatnya yang cakap, lalu menjauhi manusia dan menyibukkan diri dengan beribadah kepada Tuhannya ʿAzza wa Jalla. Di antara kitab-kitabnya adalah kitab *Phaidon* tentang jiwa, *Timaios Rohani* tentang alam jiwa, akal, dan ketuhanan, dan *Timaios Alami* tentang susunan alam tabiat.
+
+Makna nama Plato dan tafsirnya dalam bahasa mereka adalah "yang luas dan lapang". Nama ayahnya Ariston. Kedua orang tuanya termasuk bangsawan Yunani dari keturunan Asklepios, dan ibunya secara khusus berasal dari keturunan Solon, peletak syariat. Pada awal perkaranya ia belajar syair dan bahasa hingga mencapai taraf yang tinggi, sampai suatu hari ia menghadiri Sokrates yang sedang mencela seni syair. Ia kagum pada apa yang didengarnya darinya, menjadi tidak berminat pada apa yang dahulu dimilikinya, lalu mengikuti Sokrates dan mendengar darinya selama lima tahun.
+
+Kemudian Sokrates wafat, dan sampai kepadanya kabar bahwa di Mesir ada sekelompok sahabat Pythagoras, maka ia pergi kepada mereka hingga ia belajar dari mereka. Sebelum menyertai Sokrates, dalam hikmah ia condong kepada pendapat Herakleitos. Ketika ia menyertai Sokrates, ia menjadi tidak berminat pada mazhab Herakleitos, meskipun ia tetap mengikutinya dalam hal-hal terindra; ia mengikuti Pythagoras dalam hal-hal inteligibel, dan mengikuti Sokrates dalam perkara-perkara pengaturan.
+
+Kemudian Plato kembali dari Mesir ke Athena dan mendirikan di sana dua rumah hikmah, dan mengajar orang-orang di keduanya. Kemudian ia pergi ke Sisilia, lalu terjadilah suatu kisah antara dia dan Dionysios, penguasa lalim di sana, dan ia ditimpa hal-hal yang berat olehnya. Kemudian ia terlepas darinya dan kembali ke Athena, lalu berperilaku di tengah mereka dengan perilaku yang terbaik, berbuat kebaikan, dan bersikap lembut kepada orang-orang lemah. Mereka mendesaknya untuk memegang pengaturan urusan mereka, tetapi ia menolak, karena ia mendapati mereka berada dalam pengaturan yang bukan pengaturan yang dipandangnya benar, dan mereka telah terbiasa dengannya dan hal itu telah tertanam dalam jiwa mereka. Ia tahu bahwa ia tidak mungkin memindahkan mereka darinya, dan seandainya ia berusaha memindahkan mereka dari keadaan mereka, ia akan binasa sebagaimana gurunya, Sokrates, binasa; padahal Sokrates tidak pernah berusaha menuntaskan pengaturan yang benar.
+
+Ia mencapai usia delapan puluh satu tahun. Ia baik akhlaknya, mulia perbuatannya, banyak berbuat baik kepada setiap kerabatnya dan kepada orang-orang asing, tekun beribadah, santun, dan sabar. Ia memiliki banyak murid. Sesudahnya pengajaran dipegang oleh dua orang: yang satu di Athena, di tempat yang dikenal sebagai Akademia, yaitu Xenokrates; dan yang lain di Lykeion, yang juga termasuk wilayah Athena, yaitu Aristoteles.
+
