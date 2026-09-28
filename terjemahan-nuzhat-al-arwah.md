@@ -2383,3 +2383,171 @@ Iskandar bertanya kepada orang-orang di majelisnya: "Dengan apa pahala diperoleh
 Ia melewati seorang pemungut pajak sepersepuluh, lalu pemungut itu bertanya kepadanya: "Apakah engkau membawa sesuatu?" Ia menjawab: "Ya." Ia meletakkan kantong bekalnya, lalu pemungut itu memeriksanya, tetapi tidak menemukan apa pun di dalamnya. Ia bertanya kepadanya: "Mana yang engkau katakan tadi?" Ia membuka dadanya dan berkata kepadanya: "Ia ada di sini, di tempat yang tidak dapat engkau jangkau dan tidak dapat engkau lihat."
 
 Ia melihat seorang pemuda tampan yang sedang belajar hikmah, lalu berkata: "Bagus sekali engkau, karena engkau telah menyertakan cinta kepada keindahan wajahmu dengan cinta kepada keindahan jiwamu."
+
+## Riwayat Hippokrates, Sang Bijak {.judul-bab}
+
+Hippokrates sang tabib, putra Herakleides, adalah murid Asklepios kedua, seorang tabib. Ia berasal dari keturunan Asklepios pertama. Asklepios pertama telah berpesan kepada anak-anaknya agar tidak mengajarkan keahlian kedokteran kepada orang-orang asing. Para raja memilih [tabib-tabib] untuk kerajaan dari keturunan Asklepios. Permulaan keahlian kedokteran berasal darinya; ia mengajarkannya kepada anak-anaknya dan melarang mereka mengajarkan sedikit pun darinya kepada orang-orang asing.
+
+Ia memerintahkan dua perkara kepada mereka. Pertama, agar mereka tinggal di negeri orang-orang Yunani, di bagian tengah wilayahnya yang berpenghuni, di tiga pulau: yang pertama bernama Rhodos, yang kedua Knidos, dan yang ketiga Kos. Hippokrates berasal dari Pulau Kos. Kedua, agar keahlian kedokteran tidak keluar dari mereka kepada selain mereka, melainkan anak-anak mempelajarinya dari bapak-bapak mereka, supaya kemuliaannya tetap terjaga.
+
+Tempat-tempat kedokteran dipelajari adalah ketiga pulau yang disebutkan itu. Pengajaran di kota Rhodos cepat lenyap karena tidak tersisa pewaris bagi para pendahulunya. Pengajaran di kota Knidos terputus karena para pewarisnya hanya sedikit orang. Adapun pengajaran di kota Kos tetap bertahan dan kokoh karena para pewarisnya tetap ada.
+
+Hippokrates dan Demokritos hidup pada zaman Bahman putra Isfandiyar putra Kustasb. Ketika itu orang-orang Yunani terbagi menjadi raja-raja kecil yang tidak dipersatukan oleh seorang raja. Pakaiannya berwarna hitam; itulah syiarnya, dan ia menjadikannya tanda bagi kedokteran. Ia hidup kira-kira seratus tahun sebelum Iskandar, di kota Kos. Menurut sebagian pendapat, kota itu adalah Hims di negeri Syam; tetapi yang lebih benar, Kos adalah sebuah kota dan salah satu pulau di Laut Romawi. Ia seorang ahli ketuhanan dan ahli ibadah, yang mengobati secara diam-diam semata-mata demi mengharap rida Allah Taʿālā.
+
+Pandangan Asklepios pertama dalam kedokteran adalah pengalaman. Kedokteran dan pembicaraan tentangnya terus berjalan dengan pengalaman selama seribu empat ratus enam belas tahun, hingga muncul Minos[^t29] sang tabib. Ia merenungkan hal itu dan berpendapat bahwa pengalaman semata adalah keliru, maka ia menggabungkan analogi kepadanya dan berkata: "Pengalaman tanpa analogi berbahaya." Keadaan terus demikian selama tujuh ratus lima belas tahun, hingga muncul Parmenides sang tabib. Ia meremehkan pengalaman dan berkata bahwa pengalaman itu keliru, lalu ia mengambil analogi saja. Ia meninggalkan tiga orang murid, yaitu Thessalos, Akron, dan Diyūqīs. Di antara mereka terjadi perselisihan sehingga mereka menjadi tiga golongan. Akron berpendapat dengan pengalaman saja, Diyūqīs dengan analogi saja, sedangkan Thessalos mengajukan metode (*al-ḥiyal*) dan menyebutkan bahwa kedokteran hanyalah sebuah metode. Keadaan itu terus berlangsung demikian selama tujuh ratus tiga puluh lima tahun.
+
+Kemudian muncul Plato sang tabib. Ia merenungkan perkataan mereka dan memeriksa pendapat-pendapat mereka, lalu menjadi jelas baginya bahwa pengalaman semata berbahaya, demikian pula analogi semata. Maka ia menganut kedua pendapat itu sekaligus. Ia membakar kitab-kitab Thessalos dan para pengikutnya tentang metode, juga kitab-kitab yang ditulis oleh orang yang hanya menganut salah satu pendapat, entah pengalaman atau analogi; dan ia membiarkan kitab-kitab lama yang memuat kedua pendapat itu sekaligus. Ia wafat, dan sesudahnya urusan itu tetap berada pada murid-muridnya sesuai dengan apa yang telah ia tetapkan bersama mereka. Mereka berjumlah enam orang: Mirawus, yang ia khususkan untuk pengaturan badan; Quras, yang ia khususkan untuk bekam dan kai; Nafirun, yang ia khususkan untuk menangani luka-luka; Asrijis, yang ia khususkan untuk pengobatan mata; dan Famiqurus, yang ia khususkan untuk menyambung tulang yang patah dan memperbaiki yang terlepas dari sendinya.
+
+Kemudian muncul Asklepios kedua, seribu empat ratus dua puluh tahun sesudahnya. Ia memeriksa pendapat-pendapat itu dan membenarkan pendapat Plato serta bersandar kepadanya. Ia meninggalkan tiga orang murid: Hippokrates, Falaqras, dan Arakhas.[^t30] Falaqras wafat beberapa bulan kemudian dan disusul oleh Arakhas. Maka tinggallah Hippokrates satu-satunya di zamannya dan sempurna dalam keutamaan-keutamaan, dan keahlian pengalaman dan analogi menjadi kuat berkat kekuatannya.
+
+[^t29]: CT: Dalam terjemahan Spanyol *Mukhtār al-Ḥikam* karya Ibn Fātik dan terjemahan Inggrisnya, nama ini tertulis Ancyas. Tentang dugaan M. Plessner bahwa Minos mungkin adalah (Anaxi)menes, lihat Franz Rosenthal, *The Classical Heritage in Islam*, terj. Inggris Emile dan Jenny Marmorstein (Berkeley dan Los Angeles: University of California Press, 1975), 269.
+
+[^t30]: CT: Kami tidak dapat menemukan keterangan tentang pelafalan nama-nama tokoh kecil yang disebut dalam tiga paragraf terakhir dan tentang siapa mereka. Dalam terjemahan Spanyol *Mukhtār al-Ḥikam*, sumber utama al-Shahrazūrī, dan dengan demikian juga dalam terjemahan Inggrisnya, nama-nama ini dihilangkan.
+
+Ketika Hippokrates melihat bahwa keahlian kedokteran telah hampir lenyap karena sedikitnya ketiga golongan yang telah kami sebutkan, yakni keturunan Asklepios pertama di Rhodos, Knidos, dan Kos, hingga tidak tersisa dari mereka kecuali sisa-sisa di Kos yang dihidupkan kembali oleh Hippokrates; dan ketika ia memeriksa perkataan kerabat-kerabatnya dari penduduk ketiga pulau itu, lalu mendapati banyak dari mereka telah mengada-adakan pendapat-pendapat dusta dalam kedokteran yang bertambah pada setiap zaman, ia khawatir kerusakan itu akan terus tumbuh sehingga apa yang ditinggalkan oleh kakek mereka, Asklepios, menjadi sia-sia dan keahlian kedokteran pun lenyap. Maka ia memandang perlu untuk menuliskannya di dalam kitab-kitab dengan ungkapan-ungkapan yang samar. Ia berpesan kepada kedua putranya, Thessalos dan Drakon, agar mengajarkannya kepada orang yang layak menerimanya, baik dari kalangan kerabat maupun orang asing. Sebab ia merenung dan berpendapat bahwa orang asing, apabila layak, lebih utama daripada kerabat yang tidak layak. Ia memandang perlu untuk menyebarkannya ke seluruh penjuru bumi agar tidak punah. Keduanya melakukan hal itu, terutama Thessalos. Dengan demikian, kemuliaan kedokteran tetap kokoh sepanjang masa yang panjang itu hingga hari ini.
+
+Ia menjadikan orang-orang asing yang belajar kedokteran seperti anak-anaknya sendiri berdasarkan sumpah yang ia ikatkan pada leher mereka. Ketika itu belum ada kitab-kitab dalam kedokteran. Setiap orang dari keluarga Asklepios hanya mengajarkannya secara lisan kepada orang yang ia ajari, disertai catatan-catatan pengingat dalam bahasa yang hanya ia sendiri yang mengetahuinya, agar keahlian yang mulia ini tidak keluar kepada manusia yang lain sehingga keindahan-keindahannya hilang dan kesalahan di dalamnya bertambah banyak.
+
+Ketika Hippokrates wafat, ia meninggalkan kedua putranya, Thessalos dan Drakon, putrinya, Malan Aras, dan dari kalangan cucu-cucunya Hippokrates putra Thessalos dan Hippokrates putra Drakon. Dari kalangan murid-murid asing, ia meninggalkan banyak orang.
+
+Ardasyir Bahman, raja Persia, mengirim utusan kepada Filatis,[^t31] raja Pulau Kos, meminta agar Hippokrates dikirim kepadanya. Ia menjanjikan bagi Hippokrates seratus kintal emas, dan satu kintal adalah seratus dua puluh ritl, sedangkan satu ritl adalah sembilan puluh mitsqal. Maka jumlah seluruhnya adalah satu juta delapan puluh ribu mitsqal emas. Ketika itu orang-orang Yunani terbagi menjadi raja-raja kecil dan tidak dipersatukan oleh seorang raja; sebagian dari mereka membayar upeti kepada raja Persia. Filatis, raja Pulau Kos, pun meminta Hippokrates untuk berangkat menemui raja Persia. Ia memberitahunya bahwa ia tidak merasa aman kalau-kalau keterlambatannya menjadi sebab kebinasaan dirinya dan penduduk negerinya, karena ia tidak mempunyai kekuatan untuk melawan raja Persia. Ia memerintahkannya berangkat kepada raja itu untuk mengobatinya dan mengobati orang-orang Persia dari wabah yang menimpa mereka. Hippokrates tidak memenuhi permintaan untuk mengobati musuh-musuh bangsa Yunani dan menahan diri dari hal itu. Raja mengulang-ulang permintaan dan tuntutannya, lalu Hippokrates menyerahkan urusannya dalam hal itu kepada penduduk negerinya. Hal itu terasa berat bagi mereka; mereka tidak rela ia keluar dari negeri mereka dan menolak memberinya jalan untuk keluar. Mereka berkata: "Biarlah kami terbunuh sampai orang terakhir di antara kami, tetapi kami tidak akan membiarkan Hippokrates keluar dari negeri kami." Maka raja itu menyampaikan uzur kepada raja Persia dengan penolakan mereka, dan utusannya menulis surat kepadanya tentang sikap penduduk negeri itu. Raja Persia pun berhenti dari permintaannya. Ada pula yang mengatakan bahwa Hippokrates sendirilah yang menolak dan berkata: "Aku tidak menjual keutamaan dengan harta."
+
+[^t31]: CT: Dalam terjemahan Spanyol *Mukhtār al-Ḥikam* karya Ibn Fātik dan terjemahan Inggrisnya, nama ini tertulis Pillate.
+
+Dikatakan pula bahwa ia berkeliling ke seluruh negeri Yunani hingga menulis bagi mereka sebuah kitab tentang air, udara, dan negeri-negeri. Hippokrates muncul pada tahun seratus empat puluh enam menurut tarikh Bukhtunashshar.[^p15] Ia menulis banyak kitab dalam kedokteran; yang sampai kepada kami kira-kira tiga puluh kitab, dan sebagian besar dari tiga puluh kitab itu masih ada hingga hari ini. Kitab-kitabnya yang dipelajari pada zaman ini oleh orang yang membaca keahlian kedokteran, apabila pelajarannya benar di atas dasar yang benar dan urutan yang baik, adalah dua belas kitab yang disusun oleh Galen.
+
+[^p15]: CP: Terjemahan Turki menjabarkan tanggal ini sebagai "seratus empat puluh enam tahun sesudah Bukhtunashshar (Nebukadnezar) membakar dan menghancurkan Yerusalem". Teks Arab hanya menyebut "pada tahun seratus empat puluh enam bagi Bukhtunashshar", yakni menurut tarikh Bukhtunashshar yang dipakai para ahli astronomi, tanpa menyebut Yerusalem.
+
+Hippokrates bertubuh sedang, berkulit putih, berparas elok, bermata kebiru-biruan, dan bertulang besar. Ia keras amarahnya. Janggutnya sedang dan putih, punggungnya bungkuk, dan kepalanya besar. Gerakannya lamban; apabila menoleh, ia menoleh dengan seluruh badannya. Ia sering menundukkan kepala, tepat dalam perkataan, dan tenang dalam berbicara; ia mengulang-ulang perkataannya bagi pendengar di hadapannya. Apabila diajak bicara, ia menjawab; apabila orang diam terhadapnya, ia bertanya; dan apabila duduk, pandangannya tertuju ke tanah. Ia suka bergurau, banyak berpuasa, dan sedikit makan. Di tangannya selalu ada alat celak atau pisau bedah.
+
+Ia wafat dalam usia sembilan puluh lima tahun. Enam belas tahun darinya ia jalani sebagai anak-anak dan pelajar, dan tujuh puluh sembilan tahun sebagai orang alim dan pengajar. Dikatakan bahwa sebelum menyibukkan diri dengan kedokteran, ia adalah seorang raja, lalu ia meninggalkan kerajaan dan berzuhud terhadapnya. Ia tidak mengambil upah kecuali dari orang-orang kaya, bukan dari orang-orang fakir. Yang ia ambil adalah kalung, mahkota, atau gelang emas.
+
+Ia berkata: Adapun orang-orang berakal memberi minum khamar, sedangkan orang-orang bodoh memberi minum *kharbaq* (helleborus).
+
+Ia berkata: Setiap badan yang tidak dimasuki minuman akan cepat rusak.
+
+Ia berkata: Tiga hal mewariskan kekurusan: minum air ketika perut kosong, tidur tanpa alas, dan berbicara dengan suara keras.
+
+### Adab Hippokrates, Sang Bijak {.judul-pasal}
+
+Ia berkata: Rasa aman bersama kefakiran lebih baik daripada kekayaan bersama rasa takut.
+
+Ia berkata kepada murid-muridnya: "Hendaklah cita-cita kalian yang terbesar adalah mencintai manusia, memeriksa keadaan mereka untuk mengetahuinya, dan berbuat kebajikan kepada mereka."
+
+Dikatakan kepadanya: "Mengapa badan paling panas pada hari minum obat?" Ia menjawab: "Karena rumah paling berdebu pada hari disapu."
+
+Ia berkata: Hendaklah kalian lebih takut kepada orang jahat yang menyembunyikan khianatnya daripada kepada orang yang berterus terang, karena penyakit-penyakit yang tampak lebih mudah diobati daripada penyakit-penyakit yang tersembunyi.
+
+Ia berkata: Tubuh diobati dengan lima cara: yang ada di kepala dengan berkumur, yang ada di lambung dengan muntah, yang ada di badan dengan pencahar, yang ada di antara kulit dengan keringat, dan yang ada di bagian dalam, di dalam pembuluh darah, dengan mengalirkan darah.
+
+Ia berkata: Badan, apabila tidak bersih, setiap kali engkau memberinya makan, keburukannya bertambah. Demikian pula jiwa yang sakit lagi buruk dalam hubungannya dengan makanannya, yakni hikmah.
+
+Ia berkata: Empat hal meruntuhkan badan: masuk ke pemandian dalam keadaan kenyang, bersetubuh ketika lambung kosong, memakan dendeng kering, dan minum air ketika perut kosong.
+
+Ia berkata: Cinta dapat terjadi di antara dua orang berakal karena keduanya serupa dalam akal, tetapi tidak terjadi di antara dua orang dungu karena keduanya serupa dalam kedunguan. Sebab akal berjalan menurut suatu tatanan, sehingga mungkin dua orang bersepakat di atas satu jalan; sedangkan kedunguan tidak berjalan menurut tatanan, sehingga tidak mungkin terjadi kesepakatan di antara dua orang karenanya.
+
+Ia berkata: Tidak ada padaku keutamaan ilmu kecuali pengetahuanku bahwa aku bukan orang alim.
+
+Ia berkata: Merasa cukuplah dengan bekal secukupnya dan jauhkanlah kebutuhan dari diri kalian, agar kalian memperoleh kedekatan kepada Allah Taʿālā. Sebab Allah Taʿālā tidak membutuhkan sesuatu apa pun; maka semakin banyak kalian membutuhkan, semakin jauh kalian dari-Nya. Larilah dari keburukan-keburukan, tinggalkanlah dosa-dosa, dan tuntutlah kebaikan-kebaikan yang paling puncak.
+
+Ia berkata: Seyogianya seseorang di dunianya seperti orang yang diundang ke sebuah jamuan. Apabila piala sampai kepadanya, ia mengambilnya; dan apabila piala itu melewatinya, ia tidak menunggunya dan tidak bermaksud memintanya. Demikian pula ia berbuat terhadap harta, keluarga, dan anak.
+
+Ia ditanya tentang hal-hal yang buruk, lalu ia diam. Dikatakan kepadanya: "Mengapa engkau tidak menjawabnya?" Ia menjawab: "Jawabannya adalah diam terhadapnya."
+
+Ia berkata: Dunia tidak kekal. Maka apabila kebaikan memungkinkan, lakukanlah; dan apabila kalian tidak mendapatkannya, berusahalah menjadi terpuji dan simpanlah sebutan yang paling baik.
+
+Ia berkata: Ilmu adalah ruh dan amal adalah badan; ilmu adalah pokok dan amal adalah cabang; ilmu adalah ayah dan amal adalah anak. Amal ada karena ilmu, dan ilmu tidak ada karena amal.
+
+Ia berkata: Amal adalah pelayan ilmu, dan ilmu adalah tujuan.
+
+Ia berkata: Memberi orang sakit sebagian dari apa yang ia inginkan lebih bermanfaat daripada memaksanya mengambil semua yang tidak ia inginkan.
+
+Ia berkata: Ilmu itu banyak dan umur itu pendek. Maka ambillah dari ilmu apa yang sedikitnya dapat menyampaikanmu kepada yang banyak.
+
+Menjelang wafatnya ia berkata: "Ambillah dariku ilmu yang menghimpun segalanya. Barang siapa banyak tidurnya, lunak perutnya, dan lembap kulitnya, panjanglah umurnya.[^p16] Menyedikitkan yang merugikan lebih baik daripada memperbanyak yang bermanfaat."
+
+[^p16]: CP: Terjemahan Turki memahami ungkapan-ungkapan ini sebagai "lembut tabiatnya dan baik pergaulannya". Teks Arab memakai *lānat ṭabīʿatuhu*, yang dalam istilah kedokteran berarti lunak dan lancar buang airnya, dan *nadiyat jildatuhu*, "lembap kulitnya". Keduanya merupakan tanda-tanda kesehatan badan, sesuai dengan konteks nasihat kedokteran ini.
+
+Ia berkata: Seandainya manusia diciptakan dari satu tabiat saja, ia tidak akan sakit karena tidak adanya lawan.
+
+Ia berkata kepada seorang yang sakit: "Aku, engkau, dan penyakit itu bertiga. Jika engkau membantuku dengan menerima [nasihatku], kita akan mengalahkan penyakit itu, karena dua mengalahkan satu."
+
+Kisahnya bersama putra raja yang jatuh cinta kepada istri ayahnya, dan bagaimana ia merasakan denyut nadinya, sudah masyhur.
+
+Ia berkata: Asmara adalah keinginan yang lahir di dalam hati, dan di dalamnya terhimpun unsur-unsur ketamakan. Semakin kuat ia, semakin bertambah kekeraskepalaan, kegelisahan yang hebat, dan banyaknya berjaga di malam hari. Pada saat itu darah terbakar dan berubah menjadi empedu hitam, empedu kuning menyala dan berubah menjadi empedu hitam; dan dari meluapnya empedu hitam itu timbul rusaknya pikiran, berkurangnya akal, mengharapkan apa yang tidak akan terjadi, dan mengangan-angankan apa yang tidak akan sempurna, hingga berujung pada kegilaan. Terkadang orang yang dilanda asmara itu membunuh dirinya sendiri atau mati karena duka; dan terkadang ia sampai kepada kekasihnya, lalu mati karena gembira.
+
+## Riwayat Homeros, Sang Penyair {.judul-bab}
+
+Homeros adalah penyair Yunani yang paling awal dan yang paling tinggi kedudukannya di sisi mereka. Kedudukannya di kalangan mereka sama dengan kedudukan Imruʾ al-Qays di kalangan penyair Arab. Zamannya kira-kira lima ratus enam puluh tahun sesudah zaman Musa ʿalayhi al-salām. Ia memiliki banyak kata hikmah dan kasidah-kasidah yang indah lagi agung. Seluruh penyair mereka yang datang sesudahnya meniru teladannya, mengambil darinya, dan belajar darinya; dialah panutan di sisi mereka.
+
+Ia pernah ditawan dan dibawa ke tempat pembagian rampasan untuk dijual. Salah seorang yang hendak membelinya bertanya kepadanya: "Dari mana asalmu?" Ia menjawab: "Dari ayahku dan ibuku." Orang itu bertanya kepadanya: "Bagaimana pendapatmu jika aku membelimu?" Ia menjawab: "Engkau belum membeliku, tetapi apakah engkau telah menjadikanku penasihat dalam urusan hartamu?" Seseorang kemudian membelinya dan bertanya kepadanya: "Untuk apa engkau cakap?" Ia menjawab: "Untuk kemerdekaan." Ia tinggal dalam perbudakan selama beberapa waktu, lalu dimerdekakan sesudah itu, dan ia hidup dalam usia yang panjang.
+
+Ia bertubuh sedang, berparas elok, berkulit sawo matang, berkepala besar, sempit jarak antara kedua bahunya, cepat jalannya, dan sering menoleh ke kanan dan ke kiri. Di wajahnya terdapat bekas cacar. Ia banyak bicara, gemar mencaci orang-orang yang mendahuluinya, suka bergurau, dan akrab dengan para pemimpin. Ia wafat dalam usia seratus delapan tahun.
+
+Ia termasuk orang-orang terdahulu yang besar, yang dihormati oleh Plato dan Aristoteles, dua tokoh agung yang menduduki derajat tertinggi. Aristoteles tidak pernah memisahkan diwan syairnya dari tempat duduknya. Aristoteles serta orang-orang yang datang sebelum dan sesudahnya berdalil dengan syairnya, karena di dalamnya terhimpun kemahiran dalam bersyair bersama ketelitian pengetahuan, kekokohan hikmah, dan kebaikan pendapat. Di antara perkataannya yang indah: "Tidak ada kebaikan dalam banyaknya pemimpin."
+
+Dikatakan kepadanya: "Kapan engkau berhenti memuji si Fulan?" Ia menjawab: "Apabila ia berhenti berbuat baik." Dikatakan pula kepadanya: "Engkau berdusta dalam syairmu." Ia menjawab: "Dengan syair yang dikehendaki adalah perkataan yang indah; adapun kejujuran, tempatnya ketika menyampaikan berita." Dialah orang pertama yang menciptakan syair di Yunani, sembilan ratus lima puluh satu tahun sesudah Musa ʿalayhi al-salām. Thales dari Miletos muncul kira-kira empat ratus tahun sesudahnya.
+
+### Adab Homeros, Sang Penyair {.judul-pasal}
+
+Ia berkata: Orang berakal adalah orang yang menahan lisannya dari mencela. Musyawarah adalah kelapangan bagimu dan kepayahan bagi orang lain. Teguran adalah kehidupan kasih sayang. Maafkanlah apa yang engkau ingkari demi apa yang engkau kenal. Bergaullah dengan orang-orang baik, niscaya engkau termasuk golongan mereka; dan jauhilah orang-orang jahat, niscaya engkau terpisah dari mereka. Barang siapa banyak melakukan sesuatu, ia dikenal dengannya.
+
+Ia berkata: Orang mulia adalah orang yang pikirannya senantiasa tertuju kepada kewajiban. Apabila ia melihat suatu kewajiban, ia melakukannya sebelum datang permintaan yang merendahkannya.
+
+Ia berkata: Kecerdikan yang paling utama adalah sikap yang baik ketika bertemu.
+
+Ia berkata: Lamanya kecukupan mematikan akal budi, padahal akal budi adalah buah-buah pikiran. Wajah memberitakan isi hati.
+
+Ia berkata: Kebiasaan diam mewariskan kegagapan dalam berbicara.
+
+Ia berkata: Keras kepala merampas pendapat, dan kesembronoan merampas kewibawaan.
+
+Ia berkata: Lirikan lebih menunjukkan isi hati daripada ucapan.
+
+Ia berkata: Mengherankan orang yang mampu meneladani Allah Subḥānahu, tetapi berpaling kepada meneladani binatang ternak. Yang dimaksud dengan berpaling di sini adalah condong.
+
+Ia berkata: Tidak seyogianya engkau melakukan sesuatu yang apabila orang lain mencelamu karenanya, engkau marah. Sebab apabila engkau melakukannya, engkaulah yang mencaci dirimu sendiri.
+
+Ia berkata: Seorang bijak pernah karam kapalnya di laut, lalu ia terdampar di pantai sebuah pulau. Ia menggambar sebuah bangun geometri di atas tanah. Sekelompok orang melihatnya, lalu mereka membawanya kepada raja di pulau itu, dan raja itu memberinya karunia. Maka ia menulis kepada seluruh negeri: "Wahai manusia, milikilah sesuatu yang, apabila kapal kalian karam di laut, ia berjalan bersama kalian, dan apabila kalian selamat, ia tetap bersama kalian. Itulah ilmu-ilmu yang benar dan amal-amal saleh."
+
+Ia berkata kepada putranya: "Tundukkanlah syahwat-syahwatmu, karena orang fakir adalah orang yang merendahkan diri kepadanya."
+
+Ia berkata: Bersikaplah santun, niscaya engkau menjadi mulia; dan janganlah membanggakan diri, niscaya engkau direndahkan.
+
+Ia berkata: Manusia yang baik lebih utama daripada seluruh hewan yang ada di muka bumi, dan manusia yang jahat lebih hina dan lebih rendah daripada seluruh hewan yang ada di muka bumi.
+
+Ia berkata: Hikmah adalah engkau menangkap bentuk ilmu melalui amal.
+
+Ia ditanya tentang manusia. Ia menjawab: "Mereka ada tiga macam: orang yang ditandai dengan kebaikan, orang yang ditandai dengan keburukan, dan orang lalai yang tidak dikenal dengan kebaikan maupun keburukan."
+
+Ia berkata: Dunia adalah negeri perdagangan. Celakalah orang yang berbekal kerugian darinya!
+
+Ia berkata: Banyaknya tawar-menawar menghapus wibawa.
+
+Ia berkata: Menjaga diri sesudah merendahkannya adalah muruah.
+
+Ia berkata: Bersegera memulai keberanian adalah kekuatan jiwa. Barang siapa berhasil dengan kesungguhan, ia merasakan kelezatan. Alat kepemimpinan adalah kelapangan dada.
+
+Ia berkata: Dunia adalah negeri yang orang yang meraih kedudukan-kedudukannya tidak bergembira, sedangkan orang yang kehilangan kepemimpinan di dalamnya menjadi hina.
+
+Ia berkata: Barang siapa mengetahui bahwa kehidupan memperbudak kita dan kematian memerdekakan, ia akan mengutamakan kematian atas kehidupan.
+
+Ini adalah perkataan yang berharga; ia adalah intisari filsafat dan buah hikmah. Sebab apabila engkau mengetahui hukum kehidupan ini, keadaannya, dan segala sesuatu yang menjadi tanda baginya, engkau akan mengetahui bahwa ia adalah belenggu dan pemiliknya adalah orang yang terpenjara; dan bahwa lepas dari belenggu-belenggu ini dan beristirahat dari penjara ini hanyalah dengan kematian, yakni perpindahan dari satu keadaan ke keadaan lain dan dari satu tempat ke tempat lain. Nama ini hanya dianggap mengerikan oleh orang yang tidak terlatih dalam filsafat dan tidak berpengalaman dalam hikmah, yang hanya mengetahui apa yang ia lihat dan dengar, bukan apa yang dijelaskan dan dipahami dengan akal. Tidak heran apabila kematian disebutkan kepadanya, ia berubah, berkeluh kesah, gemetar, dan ketakutan. Seandainya keledai memiliki akal seperti akalnya, niscaya gejala ini lebih kuat padanya dan lebih pantas baginya. Kalau bukan karena kekurangan dalam hal lisan, orang itu telah menurunkan dirinya ke derajat keledai; seandainya keledai diberi lisan, ia akan menjadi seperti orang itu. Kapan pun kekurangan ini terangkat, ia mengangkat dirinya kepada benda langit yang tinggi, mulia, bercahaya, kekal, dan abadi; ia menjangkaunya, menyerupainya, mengikuti petunjuknya, dan menunggangi apa yang dapat menyampaikannya ke tempat benda itu dan tangga naiknya sesuai dengan keadaannya.
+
+Kekurangan ini tidak akan hilang kecuali dari seorang demi seorang, pada satu masa demi satu masa. Maka janganlah sekali-kali engkau heran terhadap penolakan orang yang menolak perkataan kami tentang meremehkan kematian, karena ia mempunyai banyak sekutu dan kawan sejawat. Perkataanku hanyalah ditujukan kepada orang-orang yang berakal, sadar, baik, bersungguh-sungguh, dan teguh tekadnya. Adapun orang yang dilalaikan oleh kemuliaan, harta, kenikmatan, kedudukan, emas, perak, tanah, kebun, istri merdeka, gundik, kemanjaan, kerinduan asmara, keangkuhan, kekikiran, senda gurau, dan permainan, ia buta dan tuli terhadap apa yang kami katakan dan kami tuliskan. Ia adalah orang mati yang disebut hidup, orang yang tidak ada yang disebut hadir, dan orang terkutuk yang disangka beruntung.
+
+Ia berkata: Akal ada dua macam: akal tabiat dan akal pengalaman. Dalam hal saling menopang, keduanya seperti air dan tanah bagi tumbuhan dan buah-buahan. Barang siapa tidak baik dalam mengatur kedua macam akal ini, yakni akal tabiat dan akal pengalaman, serta tidak menggunakan keduanya dan tidak meminta bantuan keduanya dalam urusan-urusannya, ia tidak akan sempurna dalam ilmu, adab, hikmah, dan amal saleh. Sebagaimana api melebur logam mulia, memurnikannya, dan memungkinkannya untuk dikerjakan, demikian pula akal memurnikan urusan-urusan dan memilah-milahnya. Barang siapa tidak memiliki tempat bagi kedua macam akal ini dalam dirinya, maka urusannya yang terbaik adalah pendeknya umur.
+
+Ia berkata: Bahram (Mars) menggauli Zuhrah (Venus), lalu dari keduanya lahirlah tabiat alam ini.
+
+Ia berkata: Zuhrah adalah sebab penyatuan dan perhimpunan, sedangkan Bahram adalah sebab perpecahan. Penyatuan adalah lawan perpecahan. Karena itulah tabiat menjadi berlawanan: ia tersusun dan berkurang, menyatu dan berpecah.
+
+Berikut ini potongan-potongan syairnya:
+
+Singkirkanlah dari umurmu apa yang membuatmu sedih. Urusan-urusan alam mengajarimu ilmu. Setiap keuntungan yang berasal dari kezaliman mendatangkan mudarat. Segala sesuatu yang muncul pada waktunya membuat orang bergembira. Jika engkau bersabar dengan baik atas kejadian-kejadian yang menimpa, engkau berbahagia. Barang siapa diberi kebaikan lalu tidak menyebutnya, ia bukan orang yang bersyukur. Zaman menjelaskan kebenaran dan menyebarkannya. Barang siapa tidak memperhatikan penghidupannya, akhlaknya tidak akan baik. Akal selamanya adalah perbendaharaan kebaikan yang agung.
+
+Barang siapa menanggung musibah-musibah dengan ketabahan yang kuat, dialah laki-laki sejati. Allah Taʿālā membalas orang-orang jahat. Sering kali mudarat menimpa manusia karena mereka meninggalkan musyawarah. Janganlah mencela seseorang sebelum engkau memeriksa urusannya. Janganlah meninggalkan hal-hal yang tampak lalu mencari apa yang tidak tampak. Adab membuat segala sesuatu menjadi akrab. Larilah dari bermusyawarah dengan orang jahat. Apabila suatu mudarat menimpamu, engkau memang pantas mendapatkannya. Mazhab seseorang dapat diketahui dari perkataannya. Orang adil bukanlah orang yang tidak berbuat zalim, melainkan orang yang mampu berbuat zalim tetapi tidak melakukannya. Pengetahuan tentang perkara-perkara indrawi adalah sesuatu yang utama. Manusia tidak tertimpa sesuatu yang dibenci tanpa sebab. Orang yang lari dari pertempuran lalu kembali dan berperang, sungguh ia laki-laki sejati. Orang baik tidak pernah membenci kebaikan. Para pencinta harta tidak memiliki kemerdekaan. Orang celaka hidup dengan angan-angan. Perkataan yang kasar adalah undangan bagi amarah. Setiap orang yang baik keadaannya dicintai oleh sahabat-sahabatnya, dan sebaliknya sahabat-sahabatnya lari darinya. Harapan menguasai orang-orang yang menganggur. Umur yang sesungguhnya adalah umur yang menghidupkan pemiliknya dengan kegembiraan. Seluruh manusia direndahkan oleh pengetahuan mereka tentang diri mereka sendiri sebagaimana Allah merendahkan mereka. Barang siapa menjalankan keadilan dalam umurnya, akhiratnya menjadi akhirat yang baik. Jadilah orang yang tenang dan berwibawa, dan ambillah sahabat-sahabat dengan ketenangan. Umur yang membutuhkan umur orang lain bukanlah umur. Perempuan memendekkan umur laki-laki. Jika engkau tidak mempunyai istri, engkau hidup dengan umur yang baik. Perhiasan setiap perempuan adalah diamnya. Dengan perempuan yang salihah, rumah menjadi selamat. Tertawa bukan pada waktunya adalah saudara sepupu tangis. Bumi melahirkan segala sesuatu, lalu mengambilnya kembali. Orang tua yang fasik berada di puncak nasib buruk. Barang siapa menikah, ia akan menyesal. Perempuan yang adil adalah keselamatan umur. Adanya perempuan yang baik tidaklah mudah. Menguburkan perempuan lebih baik daripada menikahinya. Perempuan diciptakan dengan tabiat berlebihan dalam membelanjakan harta. Nikahilah perempuan, bukan harta bawaannya. Orang-orang menikahi harta bawaan, bukan perempuan. Tabiat tidak memberikan kepemimpinan kepada perempuan. Apabila engkau hendak menikah, perhatikanlah tetangga dan sahabat-sahabatnya. Perempuan sama sekali tidak memberi saran yang mengandung kemaslahatan. Orang dungu tertawa meskipun tidak ada sesuatu yang patut ditertawakan. Perempuan merayu, lalu mengambil sesuatu darimu. Orang yang keliru dalam satu hal dua kali bukanlah orang bijak. Apabila sebatang pohon tumbang, setiap orang yang mau akan mengumpulkan kayu bakar darinya. Orang-orang jahat gelisah terhadap orang bijak. Seyogianya cinta adalah persahabatan, bukan sekadar perkataan.
+
+Jika engkau memberi sedikit kepada orang yang beruntung, engkau akan mengambil banyak darinya. Apabila engkau berlaku adil, Allah Taʿālā menolongmu. Pendapat orang penakut adalah penakut. Perempuan adalah tuan bagi laki-laki yang menikahinya. Carilah kemuliaan dan keutamaan, dan larilah dari celaan dan kehinaan. Manusia adalah hewan yang paling mampu bersiasat. Apabila mazhabmu adalah keadilan, engkau menjalankan hukum. Nasib baik adalah sesuatu yang sukar didapat. Larilah dari orang fasik sepanjang umurmu. Diam mengharuskan pengakuan. Tidak ada sesuatu yang lebih diharapkan daripada raja-raja, sekalipun kebaikan mereka. Nikmat adalah mata yang memperlihatkan segala sesuatu. Kebaikan pada manusia lahir dari menanggung kepayahan. Orang-orang bijak memikirkan berbagai perkara pada malam hari. Bersabarlah atas kesedihan dan mudarat dengan kesabaran yang kuat. Balaslah musuh-musuh dengan balasan yang tidak merugikanmu. Jadilah orang yang baik keberaniannya, dan janganlah menjadi orang yang nekat. Senantiasa siapkanlah apa yang dibutuhkan untuk masa tuamu. Lapar dan kefakiran memutus asmara; asmara hanya ada bersama kenyang, bukan bersama lapar. Orang yang baik dicintai. Jarang sekali engkau mendapati amanah pada perempuan. Harapan menguasai banyak manusia. Di antara manusia ada yang berpendapat buruk tetapi melakukan perbuatan yang baik. Apabila engkau tidak bersahabat dengan musuh-musuh, mudarat tidak akan menimpamu. Allah Taʿālā mendengar doa yang benar. Apabila kita mempunyai harta, kita pun mempunyai sahabat-sahabat. Orang yang pendiam diremehkan. Budak rumah adalah tuan rumah itu sendiri. Di antara manusia ada yang membenci orang yang berbuat baik kepadanya. Apabila engkau akan mati, janganlah menempuh jalan orang yang tidak mati; apabila engkau akan mati, beramallah seperti amal orang yang akan mati. Orang saleh di antara manusia adalah yang baik prasangkanya ketika kesulitan. Hikmah tidak ada kecuali dengan akal. Manusia tidak akan memperoleh kebaikan kecuali dengan kepayahan. Hidupmu menjadi baik jika engkau menundukkan amarahmu. Orang-orang yang berakal memilih kematian daripada kehidupan yang buruk. Kecemburuan laki-laki merusak rumah tangga. Apabila engkau menikah, carilah perempuan yang membantumu dalam berbagai urusan. Kehidupan yang lezat tidak tersedia bagi orang durhaka yang rakus. Barang siapa berusaha merusak perempuan bersuami, ia telah keluar dari kemerdekaan. Perut dapat kenyang dengan sedikit dan dengan banyak. Larilah dari akhlak yang buruk dan dari keuntungan yang keji. Pilihlah: tidak menikah, atau menikah lalu menjaga istrimu.
+
+Zaman memberitakan akhlak manusia. Pilihlah: tidak bermain dadu, atau menanggung apa yang dibawa oleh nasib. Diam lebih utama daripada mengucapkan apa yang tidak patut. Kedunguan mendatangkan keburukan kepada manusia. Tabiat menjadikan segala sesuatu dengan kehendak Tuhan Subḥānahu. Materi adalah perbendaharaan duka. Barang siapa tidak melakukan keburukan sedikit pun, ia adalah insan ilahi; yang dimaksud dengan ilahi adalah yang mulia seperti para malaikat. Kedua orang tua adalah tuhan-tuhan besar di sisi orang yang berakal. Dengki menguasai tabiat kebanyakan perempuan. Berbuat baiklah kepada orang yang tidak mampu memberimu manfaat. Membantu orang-orang jahat dalam perbuatan mereka adalah kekafiran kepada Allah ʿAzza wa Jalla.
