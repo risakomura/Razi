@@ -15,9 +15,9 @@
 | Butir | Keterangan |
 |---|---|
 | Tahap | Penerjemahan berjalan |
-| Sudah diterjemahkan | Mukadimah; Bab Pertama sampai Bab Kedua Puluh Enam |
-| Posisi berikutnya | Bab Kedua Puluh Tujuh (Arab bab 27) |
-| Nomor catatan terakhir | CP: p40 · CD: d74 |
+| Sudah diterjemahkan | Mukadimah; Bab Pertama sampai Bab Kedua Puluh Tujuh |
+| Posisi berikutnya | Bab Kedua Puluh Delapan (Arab bab 28) |
+| Nomor catatan terakhir | CP: p40 · CD: d76 |
 | Catatan istilah | lihat 3.3 |
 
 ---
@@ -1034,3 +1034,28 @@ Dengan memperbaiki daya syahwat tercapai kesucian diri (*ʿiffa*), sehingga deng
 Jiwa manusia memusuhinya, sebagaimana firman Allah Ta'ala: *"karena sesungguhnya nafsu itu selalu mendorong kepada kejahatan, kecuali (nafsu) yang diberi rahmat oleh Tuhanku"* (Yusuf: 53), dan sabda Nabi, semoga Allah melimpahkan selawat dan salam kepadanya: *"Musuhmu yang paling memusuhi adalah nafsumu yang berada di antara kedua lambungmu."* Maka ada orang yang mendidiknya atau menundukkannya, dan ada orang yang dizalimi olehnya. Kepada hal ini Allah Ta'ala mengisyaratkan dengan firman-Nya: *"Dan barangsiapa mengerjakan kebajikan sedang dia (dalam keadaan) beriman, maka dia tidak khawatir akan perlakuan zalim (terhadapnya) dan tidak (pula khawatir) akan pengurangan haknya"* (Taha: 112), yakni ia tidak khawatir dizalimi oleh jiwanya yang bersyahwat. Maka amal-amal saleh adalah benteng darinya, karena firman Allah Ta'ala: *"Sesungguhnya salat itu mencegah dari (perbuatan) keji dan mungkar"* (al-'Ankabut: 45).[^d74]
 
 [^d74]: CD: Hadis ini dikutip pula dalam Bab Pertama (faedah kelima mengenal diri), dan terjemahannya mengikuti terjemahan *al-Dharīʿa*, Pasal Kelima, bahasan "Permusuhan". Penafsiran Taha: 112 sebagai rasa aman dari kezaliman jiwa sendiri adalah penafsiran khas al-Rāghib; para mufasir umumnya memahami "kezaliman" di situ sebagai ditambahnya dosa atau dikuranginya pahala pada hari kiamat.
+
+# Bab Kedua Puluh Tujuh {.kitab-ke}
+
+# Manusia Difitrahkan untuk Memperbaiki Jiwanya {.judul-kitab}
+
+Pada asal penciptaannya manusia difitrahkan untuk memperbaiki perbuatan, akhlak, dan daya pembedanya, dan juga untuk merusaknya; ia dimudahkan untuk menempuh jalan kebaikan dan jalan keburukan, meskipun di antara mereka ada yang secara umum lebih condong kepada salah satunya. Kemampuannya menempuh kedua jalan itu ditunjukkan Allah dengan firman-Nya: *"Sungguh, Kami telah menunjukkan kepadanya jalan yang lurus; ada yang bersyukur dan ada pula yang kufur"* (al-Insan: 3), dan firman-Nya: *"Dan Kami telah menunjukkan kepadanya dua jalan (kebajikan dan kejahatan)"* (al-Balad: 10), yakni Kami kenalkan kepadanya kedua jalan itu.[^r-fitra]
+
+[^r-fitra]: **Fitrah** (*fiṭra*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 172 (`m-fitra`) dan no. 173 (`k-fitra`). Tentang al-Balad: 10, lihat catatan `d17` pada Bab Kelima.
+
+Sebagaimana pada awalnya ia difitrahkan untuk dapat mengusahakan kedua perkara itu, ia juga difitrahkan sedemikian rupa sehingga bila ia mengerjakan salah satunya, baik kebaikan maupun keburukan, ia menjadi akrab dengannya; bila telah akrab, ia membiasakannya; bila telah membiasakannya, ia bertabiat dengannya; dan bila telah bertabiat dengannya, hal itu menjadi tabiat dan kemampuan yang tertanam (*malaka*) padanya, sehingga seandainya ia hendak meninggalkannya, ia tidak mampu, sebagaimana dikatakan: "Tabiat-tabiat enggan dipindahkan oleh orang yang hendak memindahkannya."[^d75]
+
+[^d75]: CD: Rantai "akrab, biasa, bertabiat, tabiat, *malaka*" sejalan dengan *al-Dharīʿa*, Pasal Pertama, bahasan "Bertambahnya Manusia dalam Keutamaan dan Keburukan karena Mengerjakannya": setiap orang yang mengerjakan suatu perbuatan jiwa menguat karenanya, "jika baik maka baik, dan jika buruk maka buruk", dan puncak orang utama dalam keutamaan ialah bila keutamaan keluar darinya "tanpa pikiran dan pertimbangan, karena daya-dayanya telah menguasainya", sehingga akhlak didefinisikan sebagai "keadaan manusia yang mendorong kepada perbuatan tanpa pikiran dan pertimbangan". Tentang *malaka*, lihat terjemahan *al-Dharīʿa*, nota kaki no. 80 (`k-khuluq`).
+
+Perumpamaannya seperti pohon yang tumbuh lalu bengkok. Pada awalnya mudah meluruskan dan merapikannya dengan tali yang diikatkan atau kayu yang dipasang di sisinya, sehingga ia menjadi lurus karenanya. Kemudian bila ia telah tebal dan kokoh dalam keadaan lurus, ia aman dari menjadi bengkok, bahkan tidak mungkin dibengkokkan. Tetapi bila dibiarkan hingga bengkok, lalu mengeras dalam kebengkokannya, tidak mungkin lagi meluruskannya, sebagaimana kata penyair:
+
+> Dahan diluruskan dengan alat pelurus selagi masih lentur,
+> tetapi dahan yang telah keras tak dapat diluruskan.
+
+Atas makna inilah Allah Ta'ala berfirman: *"Perbuatan-perbuatan baik itu menghapus kesalahan-kesalahan"* (Hud: 114), dan firman-Nya: *"dan menolak kejahatan dengan kebaikan"* (ar-Ra'd: 22).
+
+Suatu kaum menyangka bahwa pendidikan dan penempaan tidak berpengaruh, sebab manusia dibentuk di atas tabiat-tabiat yang tidak ada jalan untuk mengubahnya: di antara mereka ada yang baik karena tabiat dan ada yang jahat karena tabiat. Mereka berdalil dengan firman Allah Ta'ala: *"Katakanlah (Muhammad), 'Setiap orang berbuat sesuai dengan pembawaannya masing-masing'"* (al-Isra': 84), dan firman-Nya: *"(sesuai) fitrah Allah disebabkan Dia telah menciptakan manusia menurut (fitrah) itu. Tidak ada perubahan pada ciptaan Allah"* (ar-Rum: 30); dengan makna ini, kata mereka, Allah mengingatkan bahwa setiap manusia berada pada keadaan yang tidak ada jalan untuk mengubahnya. Mereka juga berdalil dengan sabda Nabi, semoga Allah melimpahkan selawat dan salam kepadanya: *"Setiap orang dimudahkan kepada apa yang ia diciptakan untuknya,"* dan sabdanya, semoga salam tercurah kepadanya: *"Tuhan kalian telah selesai menetapkan penciptaan (khalq), akhlak (khuluq), rezeki, dan ajal";* serta dengan firman-Nya: *"Dan sungguh, Kami telah memilihnya (Ibrahim) di dunia ini. Dan sesungguhnya di akhirat dia termasuk orang-orang saleh"* (al-Baqarah: 130), firman-Nya: *"Sungguh, Kami telah menyucikan mereka dengan (menganugerahkan) akhlak yang tinggi kepadanya yaitu selalu mengingatkan (manusia) kepada negeri akhirat. Dan sungguh, di sisi Kami mereka termasuk orang-orang pilihan yang paling baik"* (Shad: 46-47), dan firman-Nya: *"Dan sungguh, Kami pilih mereka (Bani Israil) dengan ilmu (Kami) di atas semua bangsa (pada masa itu)"* (ad-Dukhan: 32).
+
+Manusia, meskipun berbeda-beda dalam asal penciptaan, tidak seorang pun kecuali ia memiliki daya untuk mengusahakan suatu kadar keutamaan. Seandainya tidak demikian, batallah faedah nasihat, peringatan, dan pendidikan.[^d76]
+
+[^d76]: CD: Perdebatan ini dan jawabannya terdapat dalam *al-Dharīʿa*, Pasal Pertama, bahasan "Kemungkinan Mengubah Akhlak", dengan dalil yang sebagian sama: pihak yang menolak berpegang pada hadis "Allah telah selesai menetapkan penciptaan dan akhlak", sedang pihak yang membolehkan berkata "seandainya tidak demikian, batallah faedah nasihat dan wasiat, janji dan ancaman, perintah dan larangan". Terjemahan hadis, ar-Rum: 30, dan al-Isra': 84 mengikuti terjemahan *al-Dharīʿa*. Ada perbedaan cara menyelesaikan. *Al-Dharīʿa* menyatakan bahwa kedua pihak benar menurut sudut pandang masing-masing: daya bawaan tidak dapat diubah zatnya, tetapi dapat dilenturkan, seperti biji kurma yang dapat dirawat hingga menjadi pohon kurma atau dibiarkan membusuk, tetapi tidak dapat menumbuhkan apel. *Tafṣīl* lebih ringkas dan lebih tegas: meskipun manusia berbeda dalam asal penciptaan, setiap orang memiliki daya untuk suatu kadar keutamaan. Lihat pula Bab Ketiga Belas (tujuh sebab perbedaan) dan Bab Kedua Puluh Empat (arang yang menjadi abu), yang menunjukkan batas dari kemungkinan itu.
