@@ -14,9 +14,9 @@
 | Butir | Keterangan |
 |---|---|
 | Tahap | Penerjemahan berjalan |
-| Sudah diterjemahkan | Risalah Pertama s.d. Ketiga (lengkap) |
-| Posisi berikutnya | Risalah Keempat |
-| Nomor catatan terakhir | CM s12 · CP p104 · CD d54 · CT t4 |
+| Sudah diterjemahkan | Risalah Pertama s.d. Keempat (lengkap) |
+| Posisi berikutnya | Glosarium |
+| Nomor catatan terakhir | CM s13 · CP p113 · CD d55 · CT t4 |
 | Catatan istilah | lihat 3.3 |
 
 ---
@@ -1515,3 +1515,129 @@ Semoga Allah melindungi Ustaz, semoga Allah memanjangkan umurnya di tempat ini d
 [^d54]: CD: Perbandingan pendusta, orang riya, dan orang ujub ini sama dengan *al-Dharīʿa*, Pasal Ketiga, "Ujub", termasuk perumpamaan nakhoda dan riya seorang pemimpin; terjemahan bagian itu mengikuti redaksi terjemahan *al-Dharīʿa*. Alasannya sedikit berbeda: di *al-Dharīʿa* orang ujub lebih buruk karena "buta terhadap keburukan-keburukan dirinya, memandangnya sebagai kebaikan"; di sini karena ia berdusta dalam tiga hal sekaligus, ucapan, perbuatan, dan keyakinan. Hadis "dua pakaian palsu" tidak dikutip di sana. Dalam konteks risalah ini, uraian tentang ujub agaknya ditujukan kepada syekh yang menganggap ilmu kalam puncak segala ilmu.
 
 [^p104]: CP: Sesudah doa penutup ini naskah memuat kolofon penyalin (tanggal penyalinan dan nama penyalin), yang tidak diterjemahkan karena bukan bagian dari risalah.
+
+# Risalah Keempat {.kitab-ke}
+
+# Uraian tentang Lafal *al-Wāḥid* dan *al-Aḥad* {.judul-kitab}
+
+[Dengan nama Allah Yang Maha Pengasih, Maha Penyayang]{.basmalah}
+
+Ya Tuhanku, mudahkanlah dan jangan Engkau persulit; dan hanya kepada-Nya kami memohon pertolongan.
+
+Kami telah membicarakan bersama Syekh yang utama, semoga Allah memanjangkan umurnya dan melanggengkan pertolongan-Nya kepadanya, tentang lafal *al-wāḥid* dan *al-aḥad* serta pemastian makna keduanya. Beliau meminta agar aku menuliskan hal itu, dan aku melakukannya untuk memenuhi permintaannya.[^s13] Hendaklah beliau menyerahkan kepadaku (kembali tulisan ini melalui) orang yang membacakannya kepadanya, dan berkenan mengingatkanku akan kelupaan atau kekeliruan yang ia temukan di dalamnya; dan pendapatnya dalam hal itu, insya Allah, mendapat taufik.
+
+### Lafal *al-Wāḥid* {.judul-pasal}
+
+Ringkasnya, apa yang dikatakan para peneliti tentang lafal *wāḥid* ialah bahwa ia pada asalnya diletakkan untuk sesuatu yang darinya bilangan tersusun. Tentang definisinya atau deskripsinya mereka berkata: "Ia adalah sesuatu yang sama sekali tidak memiliki bagian." Inilah asal peletakannya.
+
+Kemudian ia dipakai untuk setiap maujud, baik yang kadim maupun yang baru, yang sederhana maupun yang tersusun. Karena itu tidak ada sesuatu pun yang disifati dengan wujud kecuali ia juga disifati dengan kesatuan (*waḥda*). Karena itu seorang bijak berkata: "Kesatuan adalah wujud khusus yang dengannya setiap maujud terbedakan." Karena tidak ada maujud kecuali sah disifati dengan *wāḥid*, sah pula setiap bilangan disifati dengannya; maka dikatakan: sepuluh yang satu, dan seribu yang satu.[^m-wahid]
+
+*Wāḥid* adalah lafal musytarak yang dipakai dalam enam cara.[^p105]
+
+**Pertama**: yang satu dalam genus atau dalam spesies, seperti ucapan kita: manusia dan kuda satu dalam genus, dan Zaid dan Amr satu dalam spesies.
+
+**Kedua**: yang satu karena bersambung, baik dari segi ciptaan, seperti ucapanmu: satu pribadi; maupun dari segi buatan, seperti ucapanmu: satu ikat.
+
+**Ketiga**: yang satu karena tidak ada bandingannya, baik dalam ciptaan, seperti ucapanmu: matahari itu satu; maupun dalam klaim keutamaan, seperti ucapanmu: si fulan satu-satunya di zamannya, yakni ia tenunan tersendiri (tiada tandingnya).
+
+**Keempat**: yang satu karena tidak mungkin dibagi, baik karena kecilnya, seperti debu yang beterbangan, maupun karena kerasnya, seperti intan.
+
+**Kelima**: untuk permulaan, baik permulaan bilangan, seperti ucapan kita: satu, dua; maupun permulaan garis, seperti ucapan kita: satu titik.
+
+Inilah lima cara; kesatuan dalam semuanya bersifat aksidental, dan tidak sah sesuatu pun darinya dipakai untuk Allah, karena Dia suci dari adanya kebanyakan pada-Nya, sedang kebanyakan terdapat pada masing-masing darinya. Genus, meskipun satu dari satu segi, banyak dengan spesies-spesiesnya; spesies banyak dengan individu-individunya; yang bersambung, segi-segi kebanyakannya jelas; matahari, meskipun satu secara individu dan zat, tubuhnya memiliki bagian-bagian; demikian pula orang yang disifati satu-satunya di zamannya; demikian pula yang tidak dapat dibagi karena kecil atau karena kerasnya; dan demikian pula titik dan satu dalam bilangan: meskipun keduanya tidak dapat dibagi, keduanya dapat dikenai kebanyakan. Tidakkah engkau lihat bahwa seluruh bilangan adalah bilangan yang berlipat-lipat, dan garis adalah titik-titik yang berturut-turut?
+
+Yang dimaksud dengan *wāḥid* bila Sang Pencipta, Mahasuci dan Mahatinggi Dia, disifati dengannya ialah bahwa Dialah yang tidak dapat dikenai pembagian dan tidak pula kebanyakan; yakni Dia bukan satu yang darinya sesuatu dapat tersusun, dan bukan pula tersusun dari sesuatu.
+
+Seorang bijak berkata: kesatuan yang paling dekat kepada Allah Ta'ala, bila diteliti dan direnungkan, ialah satu yang merupakan asal bilangan. Sebab segala sesuatu selain Dia yang disebut dengan lafal *wāḥid* dapat dikenai pembagian dan pelipatan, kecuali satu yang dipakai dalam bilangan: ia, meskipun dapat dilipatkan, tidak dapat dibagi; sedang Sang Pencipta Ta'ala tidak dapat dikenai pembagian dan tidak pula pelipatan.
+
+Lagi pula, satu adalah asal bilangan, tetapi tidak termasuk dalam bilangan; ia ada sesudah setiap bilangan (sebagai unsurnya), tetapi tidak ada bilangan sesudahnya (yang menjadi unsurnya); darinya bilangan tumbuh dan kepadanya bilangan terurai; dan ia menguasai segala yang terbilang. Sebagaimana satu bukanlah bilangan, padahal darinya bilangan tumbuh dan kepadanya ia kembali, demikian pula Sang Pencipta Ta'ala bukanlah sesuatu dari segala sesuatu ini, padahal dari-Nya permulaan segala maujud dan kepada-Nya kembalinya, sebagaimana firman-Nya: *"Dialah Yang Awal, Yang Akhir"* (al-Hadid: 3). Mahatinggi Allah dari penyerupaan.[^p106]
+
+Inilah cara-cara pemakaian lafal *wāḥid*.
+
+### Lafal *al-Aḥad* {.judul-pasal}
+
+Adapun *aḥad*, ia dipakai dalam dua macam.[^m-ahad]
+
+Pertama, dalam penafian saja. Ia diletakkan untuk mencakup seluruh jenis makhluk yang bertutur (*al-nāṭiqūn*), dan meliputi yang sedikit dan yang banyak, baik berkumpul maupun terpisah. Seperti ucapan mereka: "Tidak ada seorang pun (*aḥad*) di rumah," yakni tidak ada satu, tidak dua, tidak pula tiga atau lebih, baik berkumpul maupun terpisah.
+
+Keadaannya yang diletakkan dengan cara ini menuntut bahwa ia tidak dipakai kecuali dalam penafian. Sebab menafikan dua hal yang berlawanan itu sah, tetapi menetapkan keduanya tidak sah. Bila kita berkata, "Tidak ada seorang pun di rumah," kita menafikan satu dan banyak, berkumpul maupun terpisah. Seandainya kita berkata, "Ada *aḥad* di rumah," tentu di dalamnya terkandung penetapan satu yang tersendiri sekaligus penetapan yang lebih dari satu, berkumpul maupun terpisah; dan kemustahilan hal itu jelas. Karena ia mencakup satu dan yang lebih dari itu, sah dikatakan: "Tidak ada seorang pun yang utama" (*mā min aḥadin fāḍil*), dan "Tidak ada seorang pun yang utama-utama" (*mā min aḥadin fāḍilīn*), seperti firman-Nya: *"Maka tidak seorang pun dari kamu yang dapat menghalangi (Kami untuk menghukumnya)"* (al-Haqqah: 47).[^p107]
+
+Adapun yang dipakai dalam penetapan, ada tiga cara.
+
+**Pertama**: pada satu yang digabungkan dengan puluhan, seperti *aḥad ʿashar* (sebelas) dan *aḥad wa-ʿishrūn* (dua puluh satu).
+
+**Kedua**: dipakai sebagai yang disandarkan atau yang disandari, dalam arti "yang pertama", seperti firman-Nya: *"Salah seorang di antara kamu, akan bertugas menyediakan minuman khamar bagi tuannya"* (Yusuf: 41), dan ucapan mereka *yawm al-aḥad* (hari Ahad), yang maknanya hari pertama, dengan bukti ucapan mereka *yawm al-ithnayn* (hari Senin, hari kedua).
+
+**Ketiga**: dipakai dalam penetapan secara mutlak sebagai sifat, dan itu hanya dalam menyifati Allah Ta'ala, seperti firman-Nya: *"Dialah Allah, Yang Maha Esa (aḥad)"* (al-Ikhlas: 1).
+
+### Perbedaan antara *al-Wāḥid* dan *al-Aḥad* {.judul-pasal}
+
+Perbedaan antara *wāḥid* dan *aḥad* dalam menyifati Allah Ta'ala ialah bahwa keduanya, meskipun dimaksudkan dengan satu makna dalam menyifati Allah Ta'ala, berbeda peletakannya pada asal bahasa.
+
+*Wāḥid* berbentuk *fāʿil* (pelaku), sehingga dari segi peletakannya ia menunjuk dua hal: zat dan kesatuan; sebagaimana *aswad* (yang hitam) menunjuk dua hal: zat dan kehitaman. *Wāḥid* satu karena kesatuan, sebagaimana *aswad* hitam karena kehitaman. Maka bila dikatakan *wāḥid*, tampak darinya dua hal, sebagaimana tampak pada ucapan mereka *aswad*, *abyaḍ*, dan yang semisalnya.
+
+Adapun *aḥad* menunjuk kesatuan yang murni, sebab ia masdar. Asalnya *waḥad*; huruf *wāw* diganti dengan hamzah, dan sesudah penggantian itu ia dikhususkan pemakaiannya untuk menyifati Allah Ta'ala.[^k-ahad] Adapun *waḥad* kadang dipakai untuk menyifati selain-Nya, dan maknanya "yang sendiri", seperti kata penyair:[^p108]
+
+> (Seekor banteng liar) dari satwa liar Wajrah, berbintik-bintik kakinya,
+> ramping perutnya, berkilau seperti pedang tunggal buatan pandai besi.
+
+*Aḥad* tidak dipakai untuk selain Allah kecuali dengan dibatasi oleh apa yang disandarkan kepadanya atau apa yang digabungkan dengannya, sebagaimana telah dikemukakan.
+
+Jika seseorang berkata: penyair telah berkata:
+
+> Engkau telah bersinar terang, maka tak tersembunyi dari seorang pun,
+> kecuali dari seseorang yang tidak mengenal bulan.
+
+Ucapannya "kecuali dari seseorang" adalah penetapan, dan ia memakainya bukan untuk menyifati Allah Ta'ala. Dijawab: pemakaiannya sah di tempat ini karena didahului penafian dan datang sesudahnya; seandainya tidak demikian, pemakaiannya tidak sah. Suatu lafal kadang dipakai dengan cara tertentu karena didahului oleh lafal lain; seandainya tidak didahului, pemakaian itu tidak sah. Seperti firman-Nya: *"sebagian berjalan dengan empat kaki"* (an-Nur: 45): Dia memakai *man* (siapa, kata untuk yang berakal) untuk binatang ternak, karena datang sesudah (kata) yang sah memakainya.[^p109]
+
+Jika dikatakan: seandainya tidak sah memakai *aḥad* untuk manusia, tentu penyair tidak berkata:
+
+> Sesungguhnya Bani al-Adram tidak termasuk seorang pun,
+
+dan tidak akan dikatakan: "Si fulan bukan seorang pun" (*laysa bi-aḥad*). Dijawab: *aḥad* di sini adalah yang dipakai dalam penafian, dan itu khusus untuk manusia, sebagaimana telah dikemukakan; maknanya: ia bukan manusia. Ia termasuk dalam keumuman ucapan mereka: "Tidak ada seorang pun yang melakukan anu," dan "Tidak seorang pun berkata anu," seperti ucapan penyair:
+
+> engkau keliru bila menanyakan mereka dengan "siapa".[^p110]
+
+Dan seperti ucapan mereka: "Si fulan bukan manusia," dan "Ia *al-fulān*, bukan *fulān*," sebagai peringatan bahwa ia binatang, bukan manusia; sebab *fulān* dan *fulāna* dipakai untuk manusia, sedang *al-fulān* dan *al-fulāna* untuk hewan.
+
+Adapun firman Allah Ta'ala: *"Apakah dia mengira bahwa tidak ada sesuatu pun (aḥad) yang melihatnya?"* (al-Balad: 7), dan firman-Nya: *"Apakah dia (manusia) itu mengira bahwa tidak ada sesuatu pun (aḥad) yang berkuasa atasnya?"* (al-Balad: 5), dalam tafsirnya disebutkan dua pendapat.
+
+Pertama, *aḥad* di sini adalah yang disebut dalam firman-Nya: *"Dialah Allah, Yang Maha Esa (aḥad)"*, dan maknanya: apakah ia mengira bahwa Allah Ta'ala tidak melihatnya? Isyarat maknanya kepada firman-Nya seperti: *"Tidak ada pembicaraan rahasia antara tiga orang, melainkan Dialah yang keempatnya"* (al-Mujadilah: 7).
+
+Kedua, *aḥad* di sini adalah yang dipakai dalam penafian, dan maknanya: manusia tidak mampu (membuat) apa yang ia sembunyikan tidak diketahui oleh seorang pun, sebab Allah Ta'ala dan para malaikat pencatat yang mulia mengetahuinya; isyarat kepada firman-Nya seperti: *"Tidak ada suatu kata yang diucapkannya melainkan ada di sisinya malaikat pengawas yang selalu siap (mencatat)"* (Qaf: 18).
+
+### Penutup {.judul-pasal}
+
+Kadar ini cukup untuk apa yang dimaksud, yaitu menjelaskan lafal *wāḥid* dan *aḥad*; meskipun dalam pemastian makna kesatuan dan keadaannya sebagai salah satu limpahan pertama Sang Pencipta atas segala maujud terdapat hikmah yang mendalam dan keajaiban-keajaiban yang banyak. Sebab Allah Ta'ala menjadikan kesatuan sebab kesepakatan dan keakraban, dan kebanyakan sebab perpecahan dan perselisihan. Karena itu seorang bijak berkata: "Kebaikan adalah wujud dalam kesatuan, dan keburukan adalah ketiadaan dalam kebanyakan." Dikatakan pula: "Tidak ada kebaikan dalam banyaknya pemimpin." Maka setiap kerukunan adalah bayangan kesatuan, dan setiap perselisihan adalah perbuatan kebanyakan.[^p111]
+
+Seandainya Syekh yang utama itu bukan orang yang sangat menguasai pengetahuan dan hikmah, tentu aku menahan diri dari menyinggung perkara seperti ini. Meski demikian, aku telah menahan tali kekang pembicaraan ketika sampai kepadanya, karena khawatir tulisan ini jatuh ke tangan orang yang mata hatinya kabur dari mengidraknya lalu ia tersesat karenanya. Tidak semestinya dilupakan riwayat dari Nabi, semoga salam atasnya: *"Tidaklah seseorang menyampaikan kepada suatu kaum pembicaraan yang tidak dijangkau pemahaman mereka kecuali hal itu menjadi fitnah bagi sebagian mereka."*[^p112][^d55]
+
+Aku memohon kepada Allah Ta'ala agar menyelamatkan kami. Siapa yang mengenal kadar dirinya, dan mengenal kekurangan dan kelemahannya, tidak akan meninggalkan firman Allah Ta'ala: *"sedangkan kamu tidak diberi pengetahuan melainkan sedikit"* (al-Isra': 85), demi memuji dan membenarkan dirinya sendiri.[^p113]
+
+[^s13]: CM: Syekh yang dimaksud mungkin sama dengan tokoh yang dituju risalah-risalah sebelumnya, yaitu wazir Aḥmad bin Ibrāhīm al-Ḍabbī (w. 399 H); lihat catatan s1.
+
+[^m-wahid]: **Satu, esa** (*wāḥid*, *waḥda*). Dalam *al-Mufradāt*: *waḥda* ialah kesendirian (*infirād*); *wāḥid* pada hakikatnya ialah sesuatu yang sama sekali tidak memiliki bagian, kemudian dipakai untuk setiap maujud, sehingga tidak ada bilangan kecuali sah disifati dengannya, seperti "sepuluh yang satu, seratus yang satu, seribu yang satu". Kemudian disebutkan cara-cara pemakaiannya, persis seperti dalam risalah ini, dengan penutup: "Kesatuan dalam semuanya bersifat aksidental; bila Allah Ta'ala disifati dengan *wāḥid*, maknanya ialah Dia yang tidak dapat dikenai pembagian dan tidak pula kebanyakan." Di sana ditambahkan: "Karena sulitnya kesatuan ini, Allah Ta'ala berfirman: *'Dan apabila yang disebut hanya nama Allah, kesal sekali hati orang-orang yang tidak beriman kepada akhirat'* (az-Zumar: 45)." (*al-Mufradāt*, s.v. *w-ḥ-d*.) *Kashshāf*: *waḥda* adalah lawan *kathra* (kebanyakan), dan keduanya termasuk makna yang jelas dengan sendirinya; para teolog mendefinisikannya sebagai keadaan sesuatu yang tidak terbagi kepada hal-hal yang sama dalam esensinya, dan membedakan kesatuan hakiki (seperti Yang Wajib Ada dan titik) dari kesatuan relatif (seperti Zaid yang terbagi kepada anggota-anggotanya). (*Kashshāf*, s.v. *al-waḥda*.) Seluruh bagian pertama risalah ini adalah uraian yang lebih luas dari entri *al-Mufradāt* tersebut.
+
+[^p105]: CP: Seperti dalam *al-Mufradāt*, s.v. *w-ḥ-d*, disebut "enam cara" tetapi yang diuraikan hanya lima, dan sesudahnya dikatakan "Inilah lima cara". Para penyunting *al-Mufradāt* mencatat hal yang sama. Penyunting risalah ini menduga cara keenam adalah pemakaian *wāḥid* untuk Allah, yang dijelaskan sesudah kelima cara itu; dugaan itu masuk akal, sebab paragraf-paragraf sesudahnya memang menguraikan makna *wāḥid* bagi Allah sebagai kebalikan dari kelima cara tersebut. Kata *nasīj waḥdihi* (dalam teks tahkik: *shaykh*) dibetulkan oleh penyunting.
+
+[^p106]: CP: Perbandingan antara satu dalam bilangan dan keesaan Allah adalah gagasan yang lazim dalam filsafat Neo-Platonis dan dalam tradisi Pythagoras, yang dikenal dalam dunia Islam antara lain melalui *Rasāʾil Ikhwān al-Ṣafāʾ*: satu adalah asal bilangan tetapi bukan bilangan, sebagaimana Allah adalah asal segala yang ada tetapi bukan salah satu dari yang ada. Al-Rāghib menukilnya dari "seorang bijak" dan menutupnya dengan penyucian: "Mahatinggi Allah dari penyerupaan", sebab perbandingan ini hanya berlaku pada segi kesatuan, bukan pada zat. Kalimat "ia ada sesudah setiap bilangan, tetapi tidak ada bilangan sesudahnya" agaknya berarti bahwa satu terkandung dalam setiap bilangan, sedang ia sendiri tidak mengandung bilangan apa pun. Kata *al-amdād* dibetulkan penyunting menjadi *al-aʿdād*.
+
+[^m-ahad]: **Esa** (*aḥad*). Dalam *al-Mufradāt*: *aḥad* dipakai dalam dua macam: dalam penafian saja, dan dalam penetapan. Yang khusus dalam penafian ialah untuk mencakup jenis makhluk yang bertutur, meliputi yang sedikit dan yang banyak, berkumpul maupun terpisah, seperti "Tidak ada seorang pun di rumah"; karena itu ia tidak sah dipakai dalam penetapan, "sebab menafikan dua hal yang berlawanan itu sah, sedang menetapkan keduanya tidak sah". Yang dipakai dalam penetapan ada tiga cara: satu yang digabungkan dengan puluhan, yang disandarkan dalam arti "yang pertama", dan yang dipakai secara mutlak sebagai sifat, yang hanya untuk Allah Ta'ala, seperti al-Ikhlas: 1; "asalnya *waḥad*". (*al-Mufradāt*, s.v. *a-ḥ-d*.) Bagian kedua risalah ini sama persis dengan entri tersebut, dengan tambahan pembahasan tentang perbedaan *wāḥid* dan *aḥad* dan jawaban atas keberatan-keberatan.
+
+[^p107]: CP: Edisi tahkik mencetak ayat ini dengan tambahan kata *aḥad* (*fa-mā aḥad minkum min aḥad*), dan penyunting mencatatnya sebagai bunyi naskah. Ayat dikutip menurut bunyinya dalam mushaf. Kalimat "karena ia mencakup satu dan yang lebih dari itu" juga terdapat dalam *al-Mufradāt*.
+
+[^k-ahad]: **Esa** (*aḥad*). *Kashshāf*: asalnya *waḥad*; dalam *al-Itqān* disebutkan bahwa *aḥad* adalah nama yang lebih sempurna daripada *wāḥid*: bila dikatakan "tidak ada *wāḥid* yang sanggup menghadapinya", maknanya bisa saja dua orang atau lebih sanggup, berbeda dengan "tidak ada *aḥad*"; *aḥad* juga khusus untuk manusia, sama untuk laki-laki dan perempuan, dan tidak masuk ke dalam perkalian, pembagian, bilangan, dan hitungan; sedang Abū ʿUbayd berpendapat bahwa keduanya bermakna sama. (*Kashshāf*, s.v. *al-aḥad*.) Pembedaan al-Rāghib di sini lain: *wāḥid* sebagai bentuk pelaku menunjuk zat dan sifat, sedang *aḥad* sebagai masdar menunjuk kesatuan yang murni.
+
+[^p108]: CP: Terjemahan Turki mengusulkan bahwa kata yang dimaksud adalah *fard* ("tunggal"), karena kata itulah yang terdapat dalam bait yang dikutip. Tetapi *al-Mufradāt*, s.v. *w-ḥ-d*, menunjukkan bahwa kata yang dibahas memang *waḥad*: "*Waḥad* ialah yang sendiri, dan ia dipakai untuk menyifati selain Allah Ta'ala, seperti kata penyair: *ʿalā mustaʾnisin waḥadi*." Kata itu terdapat pada bait al-Nābigha al-Dhubyānī sebelumnya ("seakan pelanaku, ketika siang telah condong, di Dhū al-Jalīl, berada di atas (seekor banteng) yang waspada dan sendirian"); risalah ini, atau penyalinnya, mengutip bait sesudahnya, yang berakhir dengan *al-fard*. Penyunting juga mencatat bahwa kutipan dalam *al-Mufradāt* lebih tepat. Wajrah adalah padang di antara Makkah dan Bashrah yang terkenal dengan satwa liarnya.
+
+[^p109]: CP: Maksudnya ayat an-Nur: 45 lengkapnya: "di antaranya ada yang berjalan di atas perutnya, sebagian berjalan dengan dua kaki, sedang sebagian (yang lain) berjalan dengan empat kaki". Kata *man*, yang biasanya dipakai untuk makhluk berakal, dipakai untuk hewan yang berjalan dengan empat kaki karena didahului oleh kata *man* untuk yang berjalan dengan dua kaki, yang mencakup manusia. Penyair bait tentang bulan tidak diketahui; penyunting tidak menemukannya.
+
+[^p110]: CP: Larik ini milik al-Mutanabbi; larik pertamanya: "Di sekelilingku di setiap tempat ada makhluk-makhluk dari mereka". Maksudnya: mereka seperti binatang, sehingga keliru menanyakan mereka dengan "siapa", kata tanya untuk makhluk berakal. Penyunting mengutip pula bait-bait tentang Bani al-Adram, yang menafikan mereka dari kabilah-kabilah Arab.
+
+[^p111]: CP: Ungkapan "limpahan pertama Sang Pencipta atas segala maujud" (*awāʾil fayḍ al-bārī ʿalā al-mawjūdāt*) memakai istilah para filsuf tentang limpahan (*fayḍ*). Di sini al-Rāghib berhenti pada isyarat, dan menjelaskan dalam paragraf berikutnya mengapa ia tidak melanjutkannya. Kata *al-waḥda* dan *al-mawjūdāt* mengikuti pembetulan penyunting (teks: *al-wāḥida*, *al-wujūdāt*).
+
+[^p112]: CP: Edisi tahkik membaca *mutaʾadhdhiyan* ("merasa terganggu"), yang oleh penyunting dibetulkan dari *mutaʾaddiban* ("karena sopan santun"); kami memahaminya "karena khawatir". Kata *fa-aṣlahu* yang tidak jelas kami baca *fa-yuḍilluhu* ("lalu menyesatkannya"), sesuai pemahaman terjemahan Turki. Penerjemah Turki mencatat bahwa ucapan ini diriwayatkan sebagai ucapan Abdullah bin Mas'ud dalam mukadimah *Ṣaḥīḥ Muslim*, bukan sebagai hadis marfu'.
+
+[^d55]: CD: Hadis yang sama dan sikap yang sama terdapat dalam *al-Dharīʿa*, Pasal Kedua, "Wajibnya Mencegah Orang-Orang Bodoh dari Hakikat Ilmu dan Membatasi Mereka Sesuai Kadar Pemahaman Mereka": "Tidaklah seseorang menyampaikan kepada suatu kaum pembicaraan yang tidak dijangkau akal mereka kecuali hal itu menjadi fitnah bagi sebagian mereka." Terjemahan di atas mengikuti redaksi itu. Di sana pula dikutip ucapan Ali kepada Kumail bin Ziyad tentang ilmu yang tidak ia dapati orang yang sanggup memikulnya.
+
+[^p113]: CP: Kalimat penutup ini ringkas dan kurang jelas dalam edisi tahkik (*fa-mā taraka qawl Allāh … tamadduḥan wa-muṣaḥḥiḥan*). Terjemahan Turki memahaminya: orang yang mengenal kadar dirinya menanamkan ayat ini dalam kalbunya, bukan terpesona oleh pujian dan pembenaran orang lain. Terjemahan di atas mengikuti makna itu.
