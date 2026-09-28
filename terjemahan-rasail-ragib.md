@@ -14,9 +14,9 @@
 | Butir | Keterangan |
 |---|---|
 | Tahap | Penerjemahan berjalan |
-| Sudah diterjemahkan | Risalah Pertama (lengkap) |
-| Posisi berikutnya | Risalah Kedua |
-| Nomor catatan terakhir | CM s6 · CP p65 · CD d28 · CT t1 |
+| Sudah diterjemahkan | Risalah Pertama (lengkap); Risalah Kedua: mukadimah, Pasal Pertama dan Kedua |
+| Posisi berikutnya | Risalah Kedua, Pasal Ketiga |
+| Nomor catatan terakhir | CM s7 · CP p72 · CD d33 · CT t3 |
 | Catatan istilah | lihat 3.3 |
 
 ---
@@ -956,3 +956,139 @@ Abu al-Qasim al-Husain bin Muhammad bin al-Fadl al-Raghib, semoga Allah merahmat
 [^d28]: CD: Nasihat untuk bersikap ramah kepada musuh terdapat pula dalam *al-Dharīʿa*, Pasal Kelima, "Anjuran Bergaul dengan Orang-Orang Baik dan Menjauhi Orang-Orang Jahat": hendaklah ia bersikap ramah "kepada para penentang, dan kepada orang-orang yang hanya punya kepentingan syahwat di antara mereka, sebagaimana kepada saudara; bersabar terhadap mereka dan tersenyum kepada mereka, dengan harapan mereka kembali menjadi saudara dan untuk menjaga diri dari keburukan mereka". Di *al-Dharīʿa* tujuannya disebut dua: mengembalikan musuh menjadi saudara dan menjaga diri; bait al-Tanukhi di sini hanya menonjolkan yang kedua, bahkan dengan menyembunyikan dendam di balik keramahan. Tentang macam-macam musuh, lihat *al-Dharīʿa*, Pasal Kelima, "Permusuhan", dan nota kaki *al-Dharīʿa* no. 374 (`m-adawa`).
 
 [^p65]: CP: Dalam teks tertulis *ibn al-Faḍl*; dalam sumber-sumber biografi nama kakek al-Rāghib biasanya ditulis *al-Mufaḍḍal*. Kalimat penutup ini, menurut penyunting, menjadi bukti tegas bahwa risalah ini karya al-Rāghib.
+
+# Risalah Kedua {.kitab-ke}
+
+# Keutamaan Manusia dengan Ilmu-Ilmu {.judul-kitab}
+
+Dan hanya kepada-Nya kami memohon pertolongan.[^p66] Aku memohon kepada Allah Ta'ala agar menjadikan kami termasuk orang yang memandang dengan mata hati, berpikir, dan mengambil pelajaran, lalu dengan itu memperoleh sandaran; agar menjadikan kami mendapat petunjuk untuk memeriksa aib-aib kami; agar memberi kami taufik kepada apa yang baik bagi orang berakal untuk dipilih dan bagi orang beragama untuk diutamakan; agar menjadikan keinginan kami tertuju pada apa yang merupakan pemberian yang kekal, bukan pinjaman yang dititipkan; dan agar melimpahkan selawat atas Nabi-Nya yang terpilih dan Rasul-Nya yang diridai.
+
+Ketika aku melihat Ustaz, semoga Allah menjaganya, menempuh jalan para pendahulunya dalam memelihara kemuliaan keturunan, mencintai dengan tabiatnya untuk menimba adab, dan bergairah memilih keutamaan-keutamaan dan menjauhi keburukan-keburukan,[^s7] aku ingin memperkenalkan kepadanya kaidah-kaidah yang benar: bahwa keutamaan yang sempurna dan kebahagiaan yang puncak terletak pada menghiasi jiwa dengan ilmu-ilmu yang bermanfaat, di dunia maupun di akhirat, dan itulah yang diutamakan oleh orang-orang berakal.
+
+Kebahagiaan itu, meskipun ada tiga, yaitu kebahagiaan luar, berupa harta, kedudukan, dan keadaan yang terpandang; kebahagiaan badan, yaitu sehatnya campuran anggota-anggota, sempurnanya tubuh, dan keindahan; dan kebahagiaan jiwa, yaitu adab-adab yang terpuji dan ilmu-ilmu yang mulia, maka yang paling mulia adalah yang terakhir, sebab ialah yang tetap di tengah berubah-ubahnya keadaan dan yang bermanfaat di dua negeri.[^r-saada][^d29]
+
+Seorang bijak menumpang sebuah kapal bersama para pemilik harta. Kapal itu pecah, harta mereka tenggelam, dan mereka semua menjadi fakir kecuali dia, sebab ilmunya adalah kekayaannya. Seseorang berkata kepadanya: "Aku akan kembali ke negeriku; adakah keperluanmu kepada kaummu?" Ia menjawab: "Katakan kepada mereka: bila kalian mengambil harta, ambillah harta yang tidak ikut tenggelam bila kapal pecah. Adapun harta (biasa), ia tidak terpuji bagi setiap orang, melainkan bagi sebagian orang saja, yaitu bila di dalam kalbunya ada kecukupan."
+
+Diriwayatkan bahwa Plato ditawari harta yang banyak, lalu ia berkata: "Apa yang akan kuperbuat dengan sesuatu yang diberikan oleh nasib, dijaga oleh kekikiran, dan dibinasakan oleh kemurahan?"
+
+Adapun keelokan rupa, tepat sekali orang yang berkata:
+
+> Keelokan pada wajah seorang pemuda bukanlah kemuliaan baginya,
+> bila tidak ada pada perbuatan dan akhlaknya.
+
+Seorang bijak ditanya tentang orang tampan yang kosong dari keutamaan. Ia menjawab: "Rumahnya memang bagus, tetapi penghuninya buruk." Orang bodoh yang memiliki keelokan dan harta adalah keledai yang diberi tali kekang dari emas dan pakaian kain bergaris.
+
+> Tiada berguna bagi kuda beban hiasan talinya,
+> ketika kuda-kuda murni pilihan dilepas untuk berpacu.
+
+Orang yang berbangga dengan sesuatu dari itu seperti budak perempuan yang berbangga dengan tandu tuannya. Seorang bodoh pernah berbangga dengan rumah, tanah, tunggangan, dan perabot. Seorang bijak berkata kepadanya: "Wahai pemuda, seandainya benda-benda ini dapat berbicara lalu berkata, 'Keindahan-keindahan ini milik kami, bukan milikmu,' maka apa yang menjadi milikmu? Apa yang akan engkau katakan kepadanya?" Dengan itu ia mengingatkan bahwa tidak ada keutamaan baginya karena hartanya.
+
+Seorang kaya yang kosong dari keutamaan mengundang seorang bijak ke rumahnya. Orang bijak itu melihat seorang yang rendah dan rumah yang mewah, lalu ia meludah ke wajah orang itu. Orang itu berkata: "Wahai orang bijak, kebodohan macam apa yang tampak darimu ini?" Ia menjawab: "Ini tidak lain adalah hikmah. Aku memperhatikan, dan tidak kulihat di rumah ini sesuatu pun kecuali telah memenuhi kesempurnaan yang layak baginya, selain engkau; dan ludah itu semestinya dibuang ke tempat yang paling hina. Engkaulah yang paling hina di rumahmu."[^d30]
+
+Wajib atas orang yang diarahkan kepada keutamaan yang sempurna untuk menghadirkan dalam benaknya beberapa hal.
+
+**Pertama**: kebahagiaan ini tidak diperoleh kecuali di atas jembatan kepayahan, dan bagian kesungguhan (*jidd*) di dalamnya lebih besar daripada bagian nasib (*jadd*); bahkan engkau melihatnya tidak tercapai kecuali dengan kesungguhan semata. Berbeda dengan dua kebahagiaan yang lain, sebab keduanya adalah nasib yang terkadang terlewat oleh pencarinya dan diperoleh oleh orang yang tidak mengusahakannya. Dikatakan: "Ilmu tidak akan memberimu sebagiannya sampai engkau memberinya seluruh dirimu, dan tidak akan memeliharamu sampai engkau meminjamkan kepadanya kesungguhan dan jerih payahmu."[^d31]
+
+> Katakan kepada orang yang mengharap perkara-perkara yang tinggi
+> tanpa bersungguh-sungguh: engkau mengharap yang mustahil.
+
+Sungguh telah melampaui batas orang yang berangan-angan menjadi seperti orang yang bersusah payah.
+
+**Kedua**: siapa yang mencari yang agung mempertaruhkan yang agung, dan "siapa yang meminang perempuan cantik tidak merasa mahal maharnya". Siapa yang cita-citanya menjulang kepada perkara-perkara yang tinggi, semestinya jalan yang rendah tidak menghalangi cita-citanya. Tepat sekali orang yang berkata:
+
+> Seandainya bukan karena kesulitan, semua orang akan menjadi pemimpin:
+> kedermawanan memiskinkan dan keberanian membunuh.
+
+**Ketiga**: kebahagiaan ini, meskipun awalnya tidak lepas dari semacam kesedihan dan rasa sakit, bila jiwa dipaksa menjalaninya dan dibuat merasakannya, jiwa akan menganggapnya enak dan menikmatinya, tidak seperti kelezatan-kelezatan badan dan syahwat-syahwat jasmani. Kelezatan badan berganti dan berubah, sedang kelezatan jiwa dengan ilmu abadi dan kekal. Siapa yang telah merasakan ilmu dan mengenal kelezatannya, ia tahu bahwa seseorang:
+
+> kadang merasa lezat dengan muruah, padahal ia menyakitkan;
+> dan siapa yang dimabuk cinta merasa lezat dengan derita cintanya.
+
+Adapun keengganan kebanyakan orang terhadap keutamaan ini disebabkan ketidaktahuan mereka akan manisnya. Bagaimana mengetahui manisnya rasa yang lezat orang yang belum mencicipinya? Bagaimana mencicipinya orang yang tidak menyaksikannya? Bagaimana menyaksikannya orang yang tidak mencarinya? Bagaimana mencarinya orang yang jiwanya tidak merindukannya? Dan bagaimana jiwa merindukannya bila ia tidak pernah ditawarkan kepadanya? Semoga Allah menjadikan kami termasuk orang yang dicukupkan oleh limpahan karunia-Nya dan bahan nikmat-Nya dari ketergelinciran.
+
+Isi pasal-pasal risalah ini secara ringkas:
+
+**Pertama**: penjelasan tentang keutamaan manusia atas seluruh hewan.
+
+**Kedua**: hal yang tanpanya manusia tidak berhak atas keutamaan.
+
+**Ketiga**: keutamaan akal.
+
+**Keempat**: macam-macam akal.
+
+**Kelima**: macam-macam pengetahuan yang diusahakan.
+
+**Keenam**: ilmu yang paling utama dan paling bermanfaat.
+
+**Ketujuh**: apa yang dibutuhkan oleh pencarian ilmu, serta cara belajar dan mengajarkannya.
+
+[^p66]: CP: Dalam edisi tahkik risalah ini tidak memiliki judul dan langsung diawali "Dan hanya kepada-Nya kami memohon pertolongan", sehingga agaknya bagian pembukanya (basmalah dan judul) hilang. Judul di atas mengikuti judul yang dipakai terjemahan Turki (*Risāla fī Faḍīlat al-Insān bi-l-ʿUlūm*), yang sesuai dengan isinya. Dalam doa pembuka, *li-faqd ʿuyūbinā* dibaca *li-tafaqqud ʿuyūbinā* ("memeriksa aib-aib kami").
+
+[^s7]: CM: Ustaz yang dimaksud mungkin sama dengan Syekh dalam Risalah Pertama, yaitu wazir Aḥmad bin Ibrāhīm al-Ḍabbī (w. 399 H); lihat catatan s1. Kata *muhawwaman* dalam teks tidak jelas; kami memahaminya menurut konteks ("bergairah"), sejalan dengan terjemahan Turki.
+
+[^r-saada]: **Kebahagiaan** (*saʿāda*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 91 (`m-saada`, *al-Mufradāt*) dan no. 92 (`k-saada`, *Kashshāf*).
+
+[^d29]: CD: Dalam *al-Dharīʿa*, Pasal Pertama, "Macam-Macam Nikmat Allah Ta'ala yang Dianugerahkan dan yang Diusahakan", tiga kebahagiaan ini ditempatkan di bawah kebahagiaan akhirat, yang paling tinggi: sesudahnya keutamaan jiwa, keutamaan badan, dan keutamaan luar. Di sini kebahagiaan jiwa disamakan dengan ilmu dan adab, dan dijadikan pokok seluruh risalah.
+
+[^d30]: CD: Kedua kisah terakhir, orang tampan yang kosong dari keutamaan ("Rumahnya memang bagus, tetapi penghuninya buruk") dan orang bijak yang meludah ke wajah orang kaya, terdapat pula dalam *al-Dharīʿa*, Mukadimah Pengarang, dengan redaksi yang sedikit berbeda: di sana orang bijak itu melihat "rumah yang baru diperbarui dan permadani yang terbentang", dan jawabannya lebih ringkas. Terjemahan ucapan pertama mengikuti redaksi terjemahan *al-Dharīʿa*. Di sana pula disebut perumpamaan keledai yang pelananya kain sutra bergaris.
+
+[^d31]: CD: Ucapan ini terdapat pula dalam *al-Dharīʿa*, Pasal Kedua, "Apa yang Wajib Diupayakan Murid", dengan kelanjutan yang berbeda: "dan bila engkau telah memberinya seluruh dirimu, pemberiannya kepadamu atas sebagiannya pun masih belum pasti". Di sana ucapan itu dipakai untuk melarang murid menyombongkan diri terhadap gurunya dan terhadap ilmu; di sini untuk menegaskan bahwa kebahagiaan jiwa hanya dicapai dengan kesungguhan.
+
+## Pasal Pertama: Keutamaan Manusia atas Seluruh Hewan {.judul-bab}
+
+Jisim-jisim yang tumbuh ada tiga: tumbuhan, hewan, dan manusia.
+
+Tumbuhan hanya memiliki (daya) makan dan tumbuh. Hewan, selain itu, memiliki syahwat, amarah, dan indra: ia mengidrak hal-hal yang hadir dengan indra dan hal-hal yang jauh dengan sangkaan (*wahm*), dan ia bergerak untuk mengganti apa yang terurai dari badannya dan untuk mengalahkan apa yang membahayakannya.[^r-wahm] Manusia, selain semua itu, memiliki daya pikir dan pertimbangan (*rawiyya*).[^r-fikr]
+
+Maka manusia memiliki apa yang dimiliki keduanya dan dikhususkan dengan apa yang tidak dimiliki keduanya. Allah memberi setiap hewan suatu perbuatan yang khusus baginya dan yang dikerjakannya menurut tabiatnya: sebagian menurut tabiatnya membangun bangunan bundar, sebagian membangun bangunan persegi, sebagian menenun, sebagian menggali, dan sebagian mengumpulkan dan menyimpan; sampai-sampai kera dengan tabiatnya mengejek dan burung beo meniru-niru.[^p67]
+
+Dia menjadikan bagi masing-masing pakaian sesuai dengan yang Dia pandang mencukupinya, dan senjata sesuai dengan yang Dia pandang maslahat baginya untuk dibawa: sebagian Dia beri alat untuk lari, yaitu kecepatan berlari; sebagian Dia beri tombak, seperti tanduk pada sapi; sebagian Dia beri gada, seperti kuku pada keledai dan kuda; dan sebagian Dia beri anak panah, seperti duri pada landak. Bagi manusia Dia menjadikan daya pikir dan pertimbangan, yang dengannya ia dapat sampai kepada perbuatan-perbuatan yang Dia khususkan baginya, serta kepada senjata-senjata dan pakaian-pakaian yang Dia jadikan baginya.[^p68][^t2]
+
+Karena keutamaan ini, yaitu daya akal yang dengannya hikmah diidrak dan perbuatan yang kokoh dikerjakan, Allah menjelaskan keagungan manusia dengan firman-Nya: *"Dan sungguh, Kami telah memuliakan anak cucu Adam, dan Kami angkut mereka di darat dan di laut, dan Kami beri mereka rezeki dari yang baik-baik dan Kami lebihkan mereka di atas banyak makhluk yang Kami ciptakan dengan kelebihan yang sempurna"* (al-Isra': 70). Dikatakan: "yang baik-baik" yang Dia rezekikan kepada mereka ialah daya akal dan pembelajarannya.
+
+Karena Allah Ta'ala mengkhususkan manusia dengan itu, Dia menjadikannya khalifah di bumi. Allah Ta'ala berfirman: *"Dialah yang menjadikan kamu sebagai khalifah-khalifah di bumi"* (Fatir: 39), dan berfirman: *"dan menjadikan kamu khalifah di bumi; maka Dia akan melihat bagaimana perbuatanmu"* (al-A'raf: 129).[^r-khilafa] Maka tetaplah bahwa manusia adalah makhluk paling utama yang diciptakan Allah di alam ini.
+
+[^r-wahm]: **Sangkaan** (*wahm*). Lihat terjemahan *Tafṣīl*, catatan no. 86 (`k-wahm`, *Kashshāf*): daya batin yang mengidrak makna-makna parsial yang tidak terindra dari hal-hal yang terindra, seperti domba yang menangkap permusuhan serigala. Penyunting dan penerjemah Turki memahami *wahm* di sini sebagai "naluri"; tetapi yang dimaksud al-Rāghib adalah daya sangkaan dalam arti teknis itu: daya yang membuat hewan menangkap apa yang tidak hadir di hadapan indranya.
+
+[^r-fikr]: **Pikiran dan pertimbangan** (*fikr*, *rawiyya*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 30 (`m-fikr`, *al-Mufradāt*). Dalam glosarium terjemahan *al-Dharīʿa* dan *Tafṣīl*, *rawiyya* dipadankan dengan "pertimbangan". Penyunting mencatat bahwa naskah menulis kata ini dengan hamzah (*ruʾya*, "penglihatan"), dan menilai yang dimaksud adalah *rawiyya*; penilaian itu tepat.
+
+[^p67]: CP: Edisi tahkik membaca *ḥattā inna al-qadr bi-ṭabʿihi yaskharu* ("sampai-sampai periuk dengan tabiatnya mengejek"), dan penyunting menjelaskannya sebagai bunyi periuk yang mendidih; terjemahan Turki membacanya *qadar* ("takdir"). Keduanya keliru: yang benar *al-qird* ("kera"), hewan yang terkenal meniru-niru dan mengejek, berpasangan dengan burung beo yang meniru suara. Kata *yashqā* dibaca *yashuqqu* ("menggali, membelah"), sejalan dengan deretan keterampilan hewan.
+
+[^p68]: CP: Edisi tahkik membaca *fa-li-baʿḍin ālat al-ḥarb, wa-hādhā al-ʿurf* ("alat perang, yaitu jengger/surai"). Kami mengikuti pembetulan penerjemah Turki: *ālat al-harab, wa-huwa al-ʿadw* ("alat untuk lari, yaitu kecepatan berlari"), yang didukung oleh redaksi yang sama dalam *Tafṣīl* (lihat catatan t2). Bagian akhir kalimat (*ilā ittijāh al-afʿāl*) dipahami sebagai "sampai kepada perbuatan-perbuatan".
+
+[^t2]: CT: Uraian tentang senjata hewan dan akal manusia sama dengan *Tafṣīl*, Bab Kelima Belas, "Petunjuk Segala Sesuatu kepada Kemaslahatannya": "Sebagian Dia beri alat untuk lari, seperti kecepatan berlari; sebagian Dia beri tombak untuk menangkis, seperti tanduk pada sapi dan kambing; sebagian Dia beri gada, seperti kuku pada kuda dan keledai; dan sebagian Dia beri anak panah, seperti duri pada landak." Terjemahan di atas mengikuti redaksi itu. Di *Tafṣīl* uraian ini dipakai untuk membantah anggapan bahwa manusia diciptakan kurang karena tidak diberi senjata dan pakaian; di sini untuk menunjukkan keunggulan manusia atas hewan. Ayat al-Isra': 70 juga dikutip dalam *Tafṣīl*, Bab Ketiga Belas, "Manusia sebagai Tujuan Alam".
+
+[^r-khilafa]: **Kekhalifahan** (*khilāfa*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 6 (`m-khilafa`, *al-Mufradāt*), dan terjemahan *Tafṣīl*, catatan no. 27 (`r-khilafa`).
+
+## Pasal Kedua: Hal yang Tanpanya Manusia Tidak Berhak atas Keutamaan {.judul-bab}
+
+Setiap maujud di alam ini memiliki perbuatan yang khusus baginya, yang tidak disertai oleh selainnya dan tidak dapat digantikan dengan sempurna oleh selainnya. Itu hukum yang berlaku pada maujud-maujud atas, seperti matahari, bulan, dan bintang-bintang, dan pada maujud-maujud bawah, seperti kuda dan unta. Kuda untuk berlari kencang, dan unta untuk menempuh jalan jauh yang menghauskan. Demikian pula alat-alat tajam, seperti pedang, pisau, dan gergaji: tidak satu pun dari jenis-jenis ini dapat menggantikan yang lain dengan sempurna; gergaji tidak cocok untuk apa yang cocok bagi pedang, dan pedang tidak cocok untuk apa yang cocok bagi gergaji. Anggota-anggota badan pun serupa, seperti tangan, kaki, mata, mulut, dan lidah.[^p69]
+
+Maka manusia pun memiliki perbuatan yang khusus baginya, yang karenanya ia diciptakan, yaitu pikiran dan pertimbangan, yang dengannya ia sampai kepada ilmu dan amal yang kokoh. Karena itulah ia dijadikan khalifah di bumi, dan itulah yang dimaksud Allah dengan firman-Nya: *"Aku tidak menciptakan jin dan manusia melainkan agar mereka beribadah kepada-Ku"* (adz-Dzariyat: 56). Ibadah ialah memperoleh ilmu yang hakiki dan melakukan amal yang kokoh sesuai dengan tuntutan ilmu.[^d32]
+
+Bila telah tetap bagimu bahwa kemuliaan setiap maujud sesuai dengan baiknya perbuatan yang khusus baginya keluar darinya dan dengan kehendaknya akan perbuatan itu, (ketahuilah bahwa) perbuatan dan kebaikan perbuatan, meskipun keduanya berkaitan dengan satu zat, adalah dua hal yang berlainan; sebab terkadang sesuatu berbuat tetapi tidak membaguskan perbuatannya.[^p70] Setiap yang darinya keluar perbuatan, bila perbuatan itu tidak sempurna, berkuranglah nilainya sesuai kekurangannya, sampai-sampai terkadang ia dipakai seperti yang lebih rendah darinya. Kuda, bila tidak cakap sebagai tunggangan, dipakai seperti keledai dengan pelana beban atau seperti kambing untuk disembelih; dan pedang, bila kurang dari apa yang dituntut substansinya, dipakai seperti kapak dan gergaji. Demikian pula manusia: bila ia tidak terdidik dalam apa yang semestinya ia kuasai dengan baik, dan kurang dalam daya ilmiah dan daya amaliahnya, berkuranglah nilainya, dan terkadang ia diperlakukan seperti binatang.[^d33]
+
+Uraian ini menunjukkan benarnya ucapan Ali, semoga salam atasnya: "Nilai setiap orang adalah apa yang ia kuasai dengan baik," dan "Manusia adalah anak-anak dari apa yang mereka kuasai dengan baik."
+
+Telah tetap bahwa manusia, selama ia tidak berilmu, lebih buruk daripada binatang. Sebab setiap binatang telah diberi kadar (pengetahuan) yang menjadi kemaslahatannya, pakaian sesuai kebutuhannya, dan senjata sesuai kemampuannya untuk membawanya; sedang manusia diberi, sebagai ganti semua yang diberikan kepada hewan, pertimbangan, yang bila ia asah dan pergunakan, dengannya ia memperoleh semua itu dan lebih banyak lagi; dan bila ia tidak mempergunakannya, tanpa ragu ia lebih rendah daripada hewan. Karena itu Allah Ta'ala berfirman tentang orang-orang bodoh: *"Mereka itu hanyalah seperti hewan ternak, bahkan lebih sesat jalannya"* (al-Furqan: 44). Mereka menjadi "lebih sesat jalannya" karena hewan ternak tidak memiliki jalan untuk memperoleh keutamaan, sedang mereka memiliki jalan untuk itu; bila mereka tidak melakukannya, tanpa ragu mereka lebih sesat jalannya.[^p71] Benarlah orang yang berkata:
+
+> Tak pernah kulihat pada aib-aib manusia sesuatu
+> seperti kurangnya orang-orang yang mampu mencapai kesempurnaan.
+
+Keutamaan manusia pun menjadi jelas bila ia memperhatikan penyucian jiwanya. Manusia memiliki dua daya: daya kebinatangan, yaitu syahwat dan amarah yang ada padanya; dan daya kemalaikatan, yaitu pikiran dan pertimbangan yang ada padanya. Ia diseru untuk menyucikan daya kemalaikatannya dan menyelisihi daya syahwatnya, dan penyucian substansinya diserahkan kepadanya: jika ia melakukannya, ia telah menyucikannya; jika tidak, ia telah mengotorinya. Kepada uraian ini Allah mengisyaratkan dengan firman-Nya: *"Demi jiwa serta penyempurnaan (ciptaan)nya, maka Dia mengilhamkan kepadanya (jalan) kejahatan dan ketakwaannya, sungguh beruntung orang yang menyucikannya (jiwa itu), dan sungguh rugi orang yang mengotorinya"* (asy-Syams: 7-10). Dia menggandengkan keberuntungan dengan penyuciannya dan kerugian dengan pengotorannya.[^t3]
+
+Maka tetaplah bahwa tidak ada yang lebih buruk bagi manusia daripada kosong dari keutamaan-keutamaan duniawi dan keagamaan. Sebab bila ia demikian, ia termasuk rakyat jelata "yang mengeruhkan air dan menaikkan harga": bila ia hidup, ia tidak terpuji; dan bila ia mati, ia tidak dirasa hilang.[^p72]
+
+[^p69]: CP: Judul pasal ini dalam edisi tahkik dan dalam daftar pasal berbunyi *mā lā yastaḥiqqu bihi al-insān al-faḍīla* ("apa yang dengannya manusia tidak berhak atas keutamaan"), padahal isinya menjelaskan perbuatan khas yang menjadi dasar keutamaan manusia. Kami memahaminya *mā lā yastaḥiqqu al-insān al-faḍīla illā bihi* ("hal yang tanpanya manusia tidak berhak atas keutamaan"); terjemahan Turki memahaminya secara harfiah ("hal-hal yang tidak memberi manusia keutamaan").
+
+[^d32]: CD: Bandingkan *al-Dharīʿa*, Pasal Pertama, "Tujuan Manusia Diciptakan", yang menjabarkan tujuan penciptaan manusia dalam tiga hal: memakmurkan bumi, beribadah, dan menjadi khalifah. Di sini ketiganya dipadatkan: ibadah didefinisikan sebagai "memperoleh ilmu yang hakiki dan melakukan amal yang kokoh", dan kekhalifahan diturunkan dari daya pikir. Adz-Dzariyat: 56 juga dibahas dalam *al-Dharīʿa*, Pasal Keenam, "Keadaan Manusia dalam Memelihara Urusan Dunia dan Akhirat", ketika al-Rāghib membantah orang yang menjadikan ayat itu dalil bahwa yang paling utama adalah para ahli ibadah yang menolak dunia sama sekali.
+
+[^p70]: CP: Kalimat ini rusak dalam edisi tahkik (*wa-irādatihi yaḥsibuhu … fa-humā qawiyyān*), dan penyunting mencatat bahwa sebagian katanya tidak jelas. Kami membaca *fa-humā ghayrān* ("keduanya dua hal yang berlainan"), yang sesuai dengan alasannya ("sebab terkadang sesuatu berbuat tetapi tidak membaguskan perbuatannya"). Terjemahan Turki membacanya "dua faktor yang kuat". Kata yang tidak jelas sesudah "kuda, bila tidak …" dipahami menurut padanannya dalam *al-Dharīʿa* (lihat catatan d33). Frasa *quwwatihi al-ʿāʾima wa-l-ʿāmila* dibaca *al-ʿālima wa-l-ʿāmila* ("daya ilmiah dan daya amaliah").
+
+[^d33]: CD: Perumpamaan yang sama terdapat dalam *al-Dharīʿa*, Pasal Pertama, "Tujuan Manusia Diciptakan": "Setiap sesuatu yang diadakan untuk suatu perbuatan, kemuliaannya terletak pada sempurnanya perbuatan itu terwujud darinya, dan kerendahannya terletak pada hilangnya perbuatan itu darinya … Kuda, bila tidak lagi layak untuk berlari maju dan mundur dalam pertempuran, dijadikan hewan pengangkut beban atau disiapkan untuk disembelih; dan pedang, bila tidak lagi layak untuk memotong, dijadikan gergaji." Di sana pula dikutip al-Furqan: 44. Terjemahan Turki mencatat bahwa ucapan Ali "Nilai setiap orang adalah apa yang ia kuasai dengan baik" juga dikutip al-Rāghib dalam *al-Dharīʿa* dan *al-Mufradāt*.
+
+[^p71]: CP: Edisi tahkik membaca *li-anna al-anʿām lā sabīl lahā illā ilā istifādat al-faḍīla* ("tidak ada jalan baginya kecuali untuk memperoleh keutamaan"), yang membalik maksudnya. Kata *illā* ("kecuali") dibuang, sesuai dengan kelanjutan kalimat ("sedang mereka memiliki jalan untuk itu") dan dengan pemahaman terjemahan Turki.
+
+[^t3]: CT: Pembagian dua daya ini sejalan dengan *Tafṣīl*, Bab Kelima, "Terbentuknya Manusia Sedikit demi Sedikit hingga Menjadi Manusia yang Sempurna": "Jiwa manusia berada di antara dua daya: daya syahwat dan daya akal"; jiwa manusia berada di antara daya syahwat, yang dengannya ia berhasrat kepada kelezatan badan dan kebinatangan, dan daya akal, yang dengannya ia berhasrat kepada ilmu dan perbuatan yang indah; penyunting mengutip bagian ini. Di sini daya akal disebut "daya kemalaikatan", dan penyucian jiwa diserahkan kepada pilihan manusia.
+
+[^p72]: CP: Ungkapan ini berasal dari jawaban Ṣaʿṣaʿa bin Ṣūḥān kepada Muawiyah ketika diminta menggambarkan manusia: "Penunggang kuda yang membela negeri, petani yang berusaha memakmurkan, orang alim yang sibuk dengan agama, dan rakyat jelata di antara mereka yang mengeruhkan air dan menaikkan harga" (dicatat penyunting dan penerjemah Turki dari *al-Amālī* karya Abū ʿAlī al-Qālī). Al-Rāghib juga memakai ungkapan ini dalam *al-Dharīʿa*, Pasal Keenam, "Kewajiban Mencari Penghidupan", tentang para penganggur: "Tidak ada faedah pada orang-orang seperti mereka kecuali mengeruhkan sumber-sumber air dan menaikkan harga-harga." Kata *ghāfilan* dalam teks dibaca *ghuflan* ("kosong"), sesuai usul penyunting.
