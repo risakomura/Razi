@@ -1,9 +1,10 @@
 // Membangun DOCX terjemahan Hüsn ü Aşk dari JSON keluaran husn_md2json.py.
 // Satu bait = dua paragraf (Larik Awal, Larik Akhir); nomor bait dicetak rata kanan
+// Tanpa header, footer, dan nomor halaman, agar bersih saat ditempatkan ke InDesign.
 // pada tabulasi kanan larik yang membawa nomor, hanya untuk nomor yang ditandai `show`.
 const fs = require('fs');
 const {
-  Document, Packer, Paragraph, TextRun, AlignmentType, Footer, PageNumber, TabStopType,
+  Document, Packer, Paragraph, TextRun, AlignmentType, TabStopType,
 } = require('docx');
 
 const [, , IN, OUT] = process.argv;
@@ -68,15 +69,14 @@ const body = book.blocks.map((b) => {
   return new Paragraph(o);
 });
 
-const page = { size: { width: A5W, height: A5H }, margin: { top: 1134, bottom: 1134, left: MARG, right: MARG, footer: 567 } };
-const footer = () => new Footer({ children: [new Paragraph({ alignment: C_, children: [new TextRun({ children: [PageNumber.CURRENT], size: pt(9) })] })] });
+const page = { size: { width: A5W, height: A5H }, margin: { top: 1134, bottom: 1134, left: MARG, right: MARG } };
 
 const doc = new Document({
   creator: 'Penerjemah', title: M.doc_title,
   styles: { default: { document: { run: { font: FONT, size: pt(11) } } }, paragraphStyles, characterStyles },
   sections: [
     { properties: { page }, children: title },
-    { properties: { page }, footers: { default: footer() }, children: body },
+    { properties: { page }, children: body },
   ],
 });
 Packer.toBuffer(doc).then((buf) => { fs.writeFileSync(OUT, buf); console.log('ok', OUT, buf.length); });
