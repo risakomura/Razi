@@ -15,9 +15,9 @@
 | Butir | Keterangan |
 |---|---|
 | Tahap | Penerjemahan berjalan |
-| Sudah diterjemahkan | Mukadimah; Bab Pertama sampai Bab Ketiga Puluh Dua |
-| Posisi berikutnya | Bab Ketiga Puluh Tiga (Arab bab 33) |
-| Nomor catatan terakhir | CP: p48 · CD: d89 |
+| Sudah diterjemahkan | Mukadimah; Bab Pertama sampai Bab Ketiga Puluh Tiga (seluruh teks) |
+| Posisi berikutnya | Glosarium 3 dan daftar 3.3 |
+| Nomor catatan terakhir | CP: p50 · CD: d91 |
 | Catatan istilah | lihat 3.3 |
 
 ---
@@ -1245,3 +1245,25 @@ Allah Ta'ala berfirman: *"Dan sungguh, jika kamu meninggal atau gugur, pastilah 
 [^d89]: CD: Perumpamaan biji kurma di sini dipakai untuk kematian dan kebangkitan, sedang dalam *al-Dharīʿa* (Pasal Pertama, bahasan "Kemungkinan Mengubah Akhlak") dan dalam Bab Kelima kitab ini ia dipakai untuk daya yang tersimpan secara potensial. Kedua pemakaian bertemu pada satu gagasan: apa yang tampak sebagai kerusakan dapat merupakan jalan menuju kesempurnaan yang tersimpan. Bandingkan pula "tanaman akhirat" (asy-Syura: 20) dalam *al-Dharīʿa*, Pasal Kedua, bahasan "Keutamaan Akal", yang dicapai dengan akal.
 
 Maka jiwa mencintai kekal di negeri ini bila ia kotor dan rela dengan kesenangan-kesenangan duniawi, seperti relanya kumbang kotoran dengan tempat buang hajat, atau bila ia tidak mengetahui kesudahannya kelak.
+
+# Bab Ketiga Puluh Tiga {.kitab-ke}
+
+# Keutamaan Manusia bila Ia Lebih Mulia daripada Malaikat {.judul-kitab}
+
+Telah dikemukakan bahwa manusia ada dua macam. Macam yang tidak memperoleh bagian dari kemanusiaan kecuali rupa lahir (*al-ṣūra al-takhṭīṭiyya*), berupa tegaknya tubuh, lebarnya kuku, kemampuan tertawa, dan tutur yang sia-sia, yang berlaku seperti siulan dan tepuk tangan; ia lebih rendah daripada binatang ternak. Dan macam yang dialah manusia, yaitu yang memperhatikan apa yang untuknya ia diciptakan.[^d90]
+
+[^d90]: CD: Kesimpulan ini mengulang Mukadimah (rupa terindra dan rupa inteligibel; ciri-ciri tegak tubuh, lebar kuku, dan tertawa, lihat catatan `p2`), Bab Ketujuh (manusia umum dan khusus), dan Bab Kedua Puluh ("siulan dan tepuk tangan", al-Anfal: 35). Istilah *al-ṣūra al-takhṭīṭiyya* ("rupa lahir") sama dengan yang dipakai *al-Dharīʿa*, Pasal Pertama, bahasan "Penjelasan Keutamaan Manusia atas Seluruh Hewan".
+
+Orang yang demikian memiliki dua keadaan. Pertama, keadaannya ketika masih di dunia dan belum menempuh jalan yang mendaki dan belum melepaskan belenggu; bahkan ia masih tersungkur oleh laparnya dan tertawan oleh kenyangnya, dibuat berbau oleh keringat, disakiti oleh seekor nyamuk, dan dibunuh oleh tersedak, sedang ia belum melaksanakan apa yang diperintahkan kepadanya.[^p49] Selama ia berada di dunianya, ia tidak dapat diputuskan lebih utama daripada malaikat secara mutlak.
+
+[^p49]: CP: Rangkaian ini menggemakan ucapan yang masyhur dinisbatkan kepada Ali bin Abi Thalib tentang kelemahan anak Adam: "ajalnya tersembunyi, penyakitnya tersembunyi, amalnya tercatat; seekor nyamuk menyakitinya, tersedak membunuhnya, dan keringat membuatnya berbau" (*Nahj al-Balāgha*, hikmah no. 419 dalam susunan Subḥī al-Ṣāliḥ). "Tersungkur oleh lapar" juga dikutip *al-Dharīʿa*, Pasal Ketiga, bahasan "Macam-Macam Kelezatan dan Rinciannya", dari al-Hasan: "Tersungkur oleh lapar dan terbunuh oleh kenyang". "Menempuh jalan yang mendaki dan melepaskan belenggu" adalah isyarat kepada al-Balad: 11-13, dan "belum melaksanakan apa yang diperintahkan kepadanya" kepada Abasa: 23 (lihat Bab Ketiga Puluh Satu).
+
+Keadaan kedua: ia telah menempuh jalan yang mendaki dan melepaskan belenggu sesudah melaksanakan apa yang diperintahkan kepadanya, sehingga ia menjadi termasuk orang-orang yang *"tidak ada rasa takut pada mereka dan mereka tidak bersedih hati"*, bahkan ia telah ditempatkan *"di tempat yang disenangi di sisi Tuhan Yang Mahakuasa"* (al-Qamar: 55), memiliki kehidupan tanpa kematian, kekayaan tanpa kefakiran, kemuliaan tanpa kehinaan, dan ilmu tanpa kebodohan, dan para malaikat telah berdiri melayaninya, sebagaimana firman Allah Ta'ala: *"sedang para malaikat masuk ke tempat-tempat mereka dari semua pintu; (sambil mengucapkan), Salamun 'alaikum (keselamatan bagimu) karena kesabaranmu. Maka alangkah nikmatnya tempat kesudahan itu"* (ar-Ra'd: 23-24). Maka ketika itu, orang yang diberi kedudukan ini lebih utama daripada banyak malaikat.[^d91][^p50]
+
+[^d91]: CD: Buah-buah akhirat ini hampir sama dengan *al-Dharīʿa*, Pasal Kedua, bahasan "Keutamaan Akal": buah tanaman akhirat, bila dirinci, ada tujuh, "kekal tanpa fana, kuasa tanpa lemah, ilmu tanpa kebodohan, kaya tanpa kefakiran, aman tanpa takut, istirahat tanpa kesibukan, dan mulia tanpa hina". Ayat ar-Ra'd: 23-24 dikutip dalam *al-Dharīʿa*, Pasal Pertama, bahasan "Naik ke Derajat-Derajat Keutamaan dan Turun darinya ke Keburukan yang Paling Rendah", untuk salam para malaikat kepada orang yang telah mencapai kedudukan rida; terjemahannya mengikuti terjemahan *al-Dharīʿa*.
+
+[^p50]: CP: Persoalan apakah manusia lebih utama daripada malaikat diperdebatkan para ahli kalam: kebanyakan Ahlusunah mengutamakan para nabi dan orang-orang saleh atas malaikat, sedang Muktazilah dan sebagian filsuf mengutamakan malaikat. Sikap al-Rāghib di sini berhati-hati dan bertingkat: selama di dunia, manusia tidak dapat diputuskan lebih utama secara mutlak; sesudah menunaikan tugasnya dan sampai di negeri tempat menetap, ia lebih utama daripada "banyak malaikat", bukan seluruhnya. Sikap ini sejalan dengan tangga "hewan, manusia, malaikat, raja di sisi Allah" dalam Mukadimah (catatan `d5`) dan dengan Bab Kedelapan: justru karena menghimpun kebutuhan badan dan daya malaikat, manusia dapat mengungguli keduanya bila ia berhasil.
+
+Semoga Allah menolong kita untuk mencapai kedudukan ini dan menjadikan kita termasuk orang-orang yang dipersiapkan untuknya, dengan rahmat-Nya. Sesungguhnya Dia Mahakuasa atas apa yang Dia kehendaki.
+
+Inilah akhir dari apa yang kumaksudkan dalam menjelaskan perincian dua kejadian dan perolehan dua kebahagiaan. Semoga Allah memberikan manfaat dengannya kepadaku dan kepada orang yang membacanya, dengan rahmat-Nya. Sesungguhnya Dia Mahakuasa atas apa yang Dia kehendaki. Segala puji bagi Allah, dan selawat-Nya semoga tercurah kepada makhluk-Nya yang terbaik, Muhammad, dan keluarganya yang baik dan suci.
