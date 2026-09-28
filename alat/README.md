@@ -14,7 +14,7 @@ Gaya paragraf: Judul Buku, Subjudul Buku, Pengarang Buku, Keterangan Buku, Bagia
 
 Gaya karakter: Kutipan Ayat, Rujukan Ayat, Kutipan Riwayat, Transliterasi, Aksara Arab, Aksara Arab Tabel, Label Argumen, Tebal.
 
-## Karya al-Rāghib: *al-Dharīʿa*, *Tafṣīl*, *Rasāʾil*
+## Karya al-Rāghib (*al-Dharīʿa*, *Tafṣīl*, *Rasāʾil*) dan *Miftāḥ al-Ghayb* al-Qūnawī
 
 Membuat ulang ketiga DOCX dari berkas MD-nya:
 
@@ -27,9 +27,12 @@ node alat/ragib_build_docx.js /tmp/tafsil.json tafsil-nashatayn.docx
 
 python3 alat/ragib_md2json.py rasail /tmp/rasail.json
 node alat/ragib_build_docx.js /tmp/rasail.json rasail-ragib.docx
+
+python3 alat/ragib_md2json.py miftah /tmp/miftah.json
+node alat/ragib_build_docx.js /tmp/miftah.json miftah-al-ghayb.docx
 ```
 
-Data halaman judul tiap kitab ada di `BOOKS` dalam `ragib_md2json.py`.
+Data halaman judul tiap kitab ada di `BOOKS` dalam `ragib_md2json.py` (termasuk `author` dan `author_dates`; bila kosong, dipakai nama al-Rāghib).
 
 Yang dimasukkan: halaman judul, Keterangan Penerjemah (bagian 2 MD, Keputusan Kerja), seluruh terjemahan (dari `# TERJEMAHAN`), dan glosarium (bagian 3 MD) sebagai lampiran pada halaman melintang. Status proyek dan tabel konvensi markup tidak ikut.
 

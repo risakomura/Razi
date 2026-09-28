@@ -1,6 +1,6 @@
 """Mengubah terjemahan karya al-Rāghib (MD) menjadi JSON untuk ragib_build_docx.js.
 
-    python3 alat/ragib_md2json.py dhariah|tafsil|rasail OUT.json
+    python3 alat/ragib_md2json.py dhariah|tafsil|rasail|miftah OUT.json
 
 Yang dimasukkan: halaman judul, keputusan kerja (sebagai Keterangan
 Penerjemah), seluruh terjemahan (dari `# TERJEMAHAN`), dan glosarium
@@ -26,6 +26,15 @@ BOOKS = {
         'subtitle': ['Tafṣīl al-Nashʾatayn wa Taḥṣīl al-Saʿādatayn', 'Edisi Kedua'],
         'desc': 'Diterjemahkan dari teks Arab edisi Dār Maktabat al-Ḥayāh (Beirut, 1983), dengan perbandingan terjemahan Turki Lütfi Doğan',
         'doc_title': 'Tafṣīl al-Nashʾatayn wa Taḥṣīl al-Saʿādatayn: Terjemahan Indonesia',
+    },
+    'miftah': {
+        'src': 'terjemahan-miftah-al-ghayb.md',
+        'title': 'Kunci Gaib Penghimpunan dan Wujud',
+        'subtitle': ['Miftāḥ Ghayb al-Jamʿ wa-l-Wujūd', 'Metafisika Keesaan Wujud dan Manusia Sempurna'],
+        'author': 'Ṣadr al-Dīn al-Qūnawī',
+        'author_dates': '(w. 673/1274)',
+        'desc': 'Diterjemahkan dari terjemahan Turki Ekrem Demirli, dengan pencocokan pada teks Arab edisi ʿĀṣim al-Kayyālī dan terjemahan Inggris Özgür Koca, disertai kutipan syarah Miṣbāḥ al-Uns karya Shams al-Dīn al-Fanārī',
+        'doc_title': 'Miftāḥ Ghayb al-Jamʿ wa-l-Wujūd: Terjemahan Indonesia',
     },
     'rasail': {
         'src': 'terjemahan-rasail-ragib.md',
@@ -197,7 +206,7 @@ for l in t[ke:ge].split('\n')[2:]:
         gloss.append({'k': 'group', 'r': inline(l)}); continue
     gloss.append({'k': 'para', 'r': inline(nokey(l))})
 
-meta = {k: cfg[k] for k in ('title', 'subtitle', 'desc', 'doc_title')}
+meta = {k: cfg[k] for k in ('title', 'subtitle', 'desc', 'doc_title', 'author', 'author_dates') if k in cfg}
 meta['gloss_title'] = 'Lampiran: ' + gtitle
 json.dump({'meta': meta, 'front': front, 'blocks': blocks, 'foot': foot, 'gloss': gloss},
           open(OUT, 'w'), ensure_ascii=False)

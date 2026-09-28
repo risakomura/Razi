@@ -101,8 +101,8 @@ const M = book.meta;
 const title = [
   new Paragraph({ style: 'JudulBuku', children: [new TextRun(M.title)] }),
   ...M.subtitle.map((x) => new Paragraph({ style: 'SubjudulBuku', children: [new TextRun(x)] })),
-  new Paragraph({ style: 'PengarangBuku', children: [new TextRun('al-Rāghib al-Iṣfahānī')] }),
-  new Paragraph({ style: 'KeteranganBuku', children: [new TextRun('(w. 502/1108)')] }),
+  new Paragraph({ style: 'PengarangBuku', children: [new TextRun(M.author || 'al-Rāghib al-Iṣfahānī')] }),
+  new Paragraph({ style: 'KeteranganBuku', children: [new TextRun(M.author_dates || '(w. 502/1108)')] }),
   new Paragraph({ style: 'KeteranganBuku', children: [new TextRun(M.desc)] }),
 ];
 
