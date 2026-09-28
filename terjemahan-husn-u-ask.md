@@ -2,7 +2,7 @@
 
 **Judul Indonesia:** *Jelita dan Asmara*
 **Karya:** Şeyh Galib, Mehmed Esad (w. 1213/1799), *Hüsn ü Aşk* (rampung 1197/1783)
-**Naskah dasar (Turki):** Şeyh Galib, *Hüsn ü Aşk*, teks dan terjemahan prosa bahasa Turki masa kini oleh Abdülbâki Gölpınarlı, Istanbul: Türkiye İş Bankası Kültür Yayınları, 2006 (cetakan pertama 1968; berkas `a09ecf14-Husn___A_k…epub`). Teks Gölpınarlı berpijak pada naskah tulisan tangan Galib sendiri (Süleymaniye, Halet Efendi Ek, no. 171), dengan penomoran bait 1–2101.
+**Naskah dasar (Turki):** Şeyh Galib, *Hüsn ü Aşk*, teks dan terjemahan prosa bahasa Turki masa kini oleh Abdülbâki Gölpınarlı, Istanbul: Türkiye İş Bankası Kültür Yayınları, 2006 (cetakan pertama 1968; berkas `a09ecf14-Husn___A_k…epub`). Teks Gölpınarlı berpijak pada naskah tulisan tangan Galib sendiri (Süleymaniye, Halet Efendi Ek, no. 171), dengan penomoran bait 1 sampai 2101.
 **Naskah rujukan (Inggris):** Şeyh Galip, *Beauty and Love*, terj. Victoria Rowe Holbrook, New York: The Modern Language Association of America, 2005 (berkas `f23d6453-Beauty_and_Love.docx`, hasil OCR)
 
 ---
@@ -11,9 +11,9 @@
 
 | Butir | Keterangan |
 |---|---|
-| Tahap | Penerjemahan berjalan |
-| Sudah diterjemahkan | Bait 1–399 |
-| Posisi berikutnya | Bait 400 (Keadaan Cinta Keduanya) |
+| Tahap | Terjemahan lengkap; penyelarasan dan penyuntingan |
+| Sudah diterjemahkan | Seluruh bait, 1 sampai 2101 |
+| Posisi berikutnya | Penyuntingan ulang (kata ganti, rima, keseragaman istilah) |
 
 ---
 
@@ -28,16 +28,17 @@ Setiap baris hanya memuat satu unsur. Bait dipisah satu baris kosong.
 | `## Teks {.judul-bagian}` | Judul bagian mesnawi (bab kisah, sanjungan, pembahasan) | Judul Bagian |
 | `[N] larik pertama\` lalu `larik kedua` pada baris berikutnya | Satu bait (beyit) bernomor N, dua larik | Larik Awal + Larik Akhir; nomor dengan gaya karakter Nomor Bait |
 | Lima baris berturut-turut, empat pertama diakhiri `\`, baris kelima `*teks*` | Bait bertingkat (*tardiyye*): empat larik dan satu larik ulang (nakarat) | Larik Awal, Larik Akhir, Larik Awal, Larik Akhir, Larik Ulang |
+| `***` (satu baris) | Pemisah antarbagian tanpa judul, mengikuti tanda bintang pada edisi Gölpınarlı | Pemisah Bait |
 | `*kata*` di dalam larik | Kutipan Arab atau Persia dalam larik, judul karya, dan penekanan | Kutipan Larik |
 
 Ketentuan penomoran:
 
-1. Nomor bait mengikuti edisi Gölpınarlı (1–2101) dan ditulis di setiap bait dalam MD, di awal larik tempat bait itu bermula.
+1. Nomor bait mengikuti edisi Gölpınarlı (1 sampai 2101) dan ditulis di setiap bait dalam MD, di awal larik tempat bait itu bermula.
 2. Pada bait bertingkat, Gölpınarlı menghitung tiap dua larik sebagai satu bait secara bersambung melintasi bait bertingkat, sehingga nomor dapat jatuh pada larik ketiga, kelima (larik ulang), atau larik lain. Penempatan ini dipertahankan.
 3. Dalam DOCX, nomor bait dicetak pada nomor kelipatan lima dan pada nomor pertama tiap bagian, rata kanan di tepi teks (gaya karakter **Nomor Bait**, tabulasi kanan). Nomor lain tetap ada sebagai data tetapi tidak dicetak.
 4. Judul bagian tidak dinomori; urutannya dijaga oleh nomor bait. Parser memeriksa bahwa nomor bait berurutan tanpa lompatan.
 
-Konversi: `python3 alat/husn_md2json.py terjemahan-husn-u-ask.md /tmp/husn.json` lalu `node alat/husn_build_docx.js /tmp/husn.json husn-u-ask.docx` (lihat `alat/README.md`). Yang masuk DOCX hanya halaman judul dan terjemahan (dari `# TERJEMAHAN`); bagian 0–2 tidak ikut.
+Konversi: `python3 alat/husn_md2json.py terjemahan-husn-u-ask.md /tmp/husn.json` lalu `node alat/husn_build_docx.js /tmp/husn.json husn-u-ask.docx` (lihat `alat/README.md`). Yang masuk DOCX hanya halaman judul dan terjemahan (dari `# TERJEMAHAN`); bagian 0 sampai 2 tidak ikut.
 
 ---
 
@@ -165,7 +166,7 @@ Yusuf pun hanya budak yang dibeli sahaja.
 [34] Demi mewartakan kedatangan sang Nabi, Isa\
 naik hingga ke mimbar langit, fasih bersuara.
 
-[35] Kejadiannya menjadi sebab maujudnya alam,\
+[35] Kejadian sang Nabi menjadi sebab maujud alam,\
 umatnya pewaris rahasia ilmu yang terpendam.
 
 [36] Cermin keesaan Ilahi\
@@ -210,7 +211,7 @@ sebab undangan menuju ketinggian telah tiba.
 mengorbankan beribu-ribu fajar.
 
 [49] Malam bercahaya itu laksana air hayat:\
-hitam warnanya, hijau gelombangnya.
+hitam warna, hijau gelombang.
 
 [50] Musim semi Nasut mendatangkan awan,\
 padang hijau Lahut bergolak girang.
@@ -1288,7 +1289,7 @@ keduanya tekun berkasih-kasihan.
 ## Keadaan Cinta Keduanya {.judul-bagian}
 
 [400] Ayo, bayangkan taman mawar itu:\
-laronnya mawar, pelitanya bulbul.
+mawar menjadi laron, bulbul menjadi pelita.
 
 [401] Bibir delima yang manis menghangatkan darah Asmara,\
 Syirin memberi nyawa kepada Farhad.
@@ -1344,7 +1345,7 @@ yang itu, pada lahirnya, sebongkah batu.
 [418] Dambaan Jelita di balik batas mungkin,\
 maksud hati Asmara tersembunyi.
 
-[419] Seperti kijang: elok jalannya, liar perangainya,\
+[419] Seperti kijang: elok berjalan, liar berperangai,\
 tak sudi mengejar-ngejar siapa pun.
 
 [420] Di hadapan si penyihir hati itu,\
@@ -2086,7 +2087,7 @@ keduanya berniat bertamasya.
 singgah di Taman Makna.
 
 [662] Taman Makna, tempat yang\
-airnya ungu violet, tanahnya ambar.
+berair ungu violet, bertanah ambar.
 
 [663] Kebun surga itu, tanah yang riang itu,\
 tanah memang, tapi tanah Adam.
@@ -2251,7 +2252,7 @@ serupa tabiat penyair yang suci.
 [715] Seorang tua berjiwa muda dan cerdik\
 menjadi penjamu di tempat itu.
 
-[716] Namanya Sabda, mulia pribadinya,\
+[716] Bernama Sabda, berpribadi mulia,\
 umurnya lebih tua dari falak.
 
 [717] Paham hakikat Jelita dan Asmara,\
@@ -3862,7 +3863,7 @@ Asmara ditugasi mendesah, ditugasi."
 ## Jawaban Ghirah {.judul-bagian}
 
 [1235] Kata Ghirah, "Desah memang indah,\
-tapi apa gunanya bila tak pada tempatnya?
+tapi apa faedah bila salah tempat?
 
 [1236] Ketahuilah, padang-padang ini tak berseberang,\
 dan Jelita pun tak rela pada ini."
@@ -5133,7 +5134,7 @@ padang berubah jadi kulit harimau.
 menjadikan gulita jahim taman surga.
 
 [1645] Sebentar saja reruntuhan duka dilintasi,\
-sihirnya dilihat, fatamorgananya pula.
+sihir dan fatamorgana di sana dilihat.
 
 [1646] Jalan itu dilalui sebelum ajal,\
 Istana Ratapan tertinggal di belakang.
@@ -5513,7 +5514,7 @@ tiap tegukan membangkitkan seribu ketulusan.
 dalam mabuknya seribu warna terasa.
 
 [1772] Irama lagu dan gamelan dimulai,\
-biduannya mabuk, suaranya nyala.
+biduan mabuk, bersuara nyala.
 
 [1773] Di tangan saki piala cahaya,\
 dahan kristal menumbuhkan mawar.
@@ -5962,3 +5963,564 @@ ketiadaan dan kemungkinan berhimpun di sana.
 
 [1918] Siapa pun yang melihat akan mengakui\
 bahwa baka nyata di dalam fana.
+
+## Puncak Kekusutan Asmara {.judul-bagian}
+
+[1919] Tinggal di mulut jalan tanpa bekal,\
+tak kuat berjalan, tak kuat berdiam.
+
+[1920] Hati berdarah oleh tingkah zaman,\
+cawan keselamatan berubah rupa.
+
+[1921] Belum sampai ke persinggahan hajat,\
+putus asa selamanya, ditimpa bala.
+
+[1922] Kaca hati pecah di seratus tempat,\
+tanah berbatu itu dijadikan persinggahan.
+
+[1923] Dengan lemah itu, sakit dan terpana,\
+tubuh berpelukan dengan Izrail.
+
+[1924] Muak pada hidup abadi,\
+riang hati pada maut yang tak kenal ampun.
+
+[1925] Di hati tak ada surga, tak ada neraka,\
+tak ada girang pada nikmat, tak ada "aduh" pada sedih.
+
+[1926] Takut, putus asa, dan takjub berombak,\
+tak ada lagi tenaga untuk menyesal.
+
+[1927] Tak punya tempat berlindung di dunia,\
+tak punya harapan selain maut.
+
+[1928] Maut pun penghalang harapan bertemu,\
+bukan anggur penawar derita.
+
+[1929] Tak tahu obat apa yang bisa dibayangkan;\
+tanpa kaki, jalan mana yang bisa ditempuh?
+
+[1930] Mabuk sayu oleh syarbat takdir,\
+tersinggung pada orang asing dan kenalan.
+
+[1931] Di mata Asmara, Ghirah pun musuh nyawa,\
+harapan akan kekasih tak sampai ke lidah.
+
+[1932] Putus asa bertemu si pencuri hati,\
+tak berharap selamat dari bala itu.
+
+[1933] Untuk memperbanyak duka tersembunyi itu,\
+bait ini ditembangkan:
+
+[1934] *"Oleh perpisahanmu hatiku jadi kebab, wahai kawan;*\
+*datanglah, datanglah, hati sudah runtuh, wahai kawan."*
+
+## Kedatangan Sabda {.judul-bagian}
+
+[1935] Seorang tua laksana pagi limpahan\
+datang ke mulut jalan, meneranginya.
+
+[1936] Tapi orang tua macam apa! Fajar sadik,\
+tiap bincangnya sesuai hikmah.
+
+[1937] Tongkat di tangan: panjang tatapan;\
+wajah penuh cahaya seperti malaikat.
+
+[1938] Air mukanya kali kehidupan,\
+rambutnya putih seperti cahaya bulan.
+
+[1939] Alis: bulan sabit hari raya harapan,\
+tiap geraknya sebuah kabar harapan.
+
+[1940] Bincangnya dari hikmah takdir,\
+membawa pesan dari Bapak Manusia.
+
+[1941] Janggut putihnya seakan otak Mansur,\
+tiap katanya haqq seperti tiupan sangkakala.
+
+[1942] Di hadapan cermin kesempurnaannya Aristoteles\
+takjub, selalu bertopang dagu di lutut.
+
+[1943] Pendapatnya obor jalan Iskandar,\
+pengikutnya mentari dan bulan.
+
+[1944] Seperti langit, berjubah hijau,\
+ujung jubahnya dipegang Khidir makna.
+
+[1945] Kepercayaan rahasia Ruhul Qudus,\
+penata perbendaharaan wahyu.
+
+[1946] Wajah berkilau, rambut putih,\
+seperti bundar mentari di cahaya bulan.
+
+[1947] Wirid bibirnya *As-Sab'ul Matsani*,\
+murid kesempurnaannya Akal Kedua.
+
+[1948] Bendahara makna-makna tunggal nama-nama,\
+penghimpun satuan-satuan makna.
+
+[1949] Sambil bertasbih, cahaya jiwa itu\
+turun ke tempat itu seperti cahaya Al-Qur'an.
+
+[1950] Asmara dihibur sepenuhnya,\
+hatinya direbut, dimuliakan.
+
+[1951] Katanya, "Akulah tabib zaman,\
+termasyhur di negeri ini karena ilmu itu.
+
+[1952] Aku datang mengobatimu,\
+asal kau mau berjalan bersamaku.
+
+[1953] Sebab kau butuh Kimia,\
+deritamu butuh obat itu.
+
+[1954] Jangan diam, mari ke Benteng Kalbu,\
+adukan ini kepada Raja Kalbu.
+
+[1955] Namanya Jelita Tanpa Jejak,\
+dengan nama itu termasyhur di dunia.
+
+[1956] Pemilik Benteng Kalbu,\
+maharaja negeri Kalbu.
+
+[1957] Kelemahanmu sudah dikabarkan,\
+raja yang terjaga itu mengutusku."
+
+## Asmara Sadar Kembali {.judul-bagian}
+
+[1958] Mendengar kabar gembira ini,\
+Asmara mati, lalu hidup lagi.
+
+[1959] Kabar gembira yang merangkum segala cita,\
+keadaan yang di balik segala keadaan.
+
+[1960] Menghadiahkan hidup abadi,\
+mengabarkan segala dambaan.
+
+[1961] Lemah pergi semua, tenaga datang,\
+pesakit duka melihat sehat.
+
+[1962] Dengan sepatah kata kuntum hati mekar,\
+dengan satu lilin majelis terang.
+
+[1963] Di satu sisi kabar bertemu Kimia,\
+di sisi lain harapan akan Jelita yang tiada dua.
+
+[1964] Asmara terpana pada keadaan ini,\
+Ghirah lenyap dari pandangan.
+
+***
+
+[1965] Wahai saki berperangai Jibril,\
+penuhi piala wahyuku sampai ke bibir.
+
+[1966] Gelorakan dengan satu embusan nyawa,\
+jangan bungkam Isa batinku.
+
+[1967] Jadilah Israfil bagi kami, wahai saki,\
+ubah maut kami jadi hidup.
+
+[1968] Jadikan kendi sangkakala bagi majelis ini,\
+bangkitkan tutur di padang mahsyar.
+
+[1969] Saki, saki, tak patut begitu;\
+para lelaki Tuhan tak berpisah dari-Nya.
+
+[1970] Saki, kau disebut Ruhul Qudus,\
+tuturmu disebut anggur keakraban.
+
+[1971] Bila kau bertutur tentang cinta,\
+siapa lagi yang kau cari-cari?
+
+[1972] Ahli tutur memang banyak,\
+tapi dalam kemabukan ini tak ada selain aku.
+
+[1973] Aku berdiri dan alam terdiam,\
+Tur melupakan Kalim-nya.
+
+[1974] Jadikan Daud hatiku pelantun Zabur,\
+buat bisu burung-burung malaikat.
+
+[1975] Tapi bermurahlah, beri kabar yang baik,\
+kali ini beri kemabukan yang lain.
+
+[1976] Di setiap kemabukan, si mabuk itu satu;\
+walau *bala* banyak, *Alastu* satu.
+
+[1977] Namun karena lilin cinta tak padam,\
+tanpa aku poros putaran ini tak berputar.
+
+[1978] Sadarkan aku dengan satu cawan riang,\
+supaya aku mabuk untuk kedua kali.
+
+[1979] Ini tamasya di lembah riang;\
+insya Allah, pertanda baik.
+
+[1980] Orang tua itu menjadikan pemuda itu teman seperjalanan,\
+dengan seribu rindu menuju ambang.
+
+[1981] Rindu yang tak termuat dalam uraian,\
+satu tawanya tak muat di langit.
+
+[1982] Ketika Benteng Kalbu tampak,\
+tontonlah apa yang dilihat Asmara di sana.
+
+[1983] Benteng yang batunya yakut merah,\
+istana Lahut di dalam Nasut.
+
+[1984] Tiap batanya bertatah permata,\
+berkilau berhadapan dengan mentari.
+
+[1985] Penuh aneka lukisan gaib,\
+menara dan temboknya rahasia-rahasia lambang.
+
+[1986] Di tiap menara cahaya warna-warni,\
+tembok-temboknya perbendaharaan rahasia semua.
+
+[1987] Mata silau oleh pamerannya,\
+kata habis dalam memujinya.
+
+[1988] Satu sisinya laut bercahaya,\
+satu sisinya padang berombak hijau.
+
+[1989] Lima pintunya menghadap laut suci itu,\
+lima lagi menghadap tanah ini.
+
+[1990] Lima pintu, tapi menyentuh Arasy,\
+tiap menaranya setinggi Gunung Qaf.
+
+[1991] Di tiap pintu seorang malaikat mulia,\
+agung dan dimuliakan seperti ruh.
+
+[1992] Bulu dan sayapnya hijau cahaya,\
+seakan Anqa di Gunung Qaf itu.
+
+[1993] Di sisinya banyak pelayan dan dayang,\
+tiap raja dengan seribu peri dan berhala.
+
+[1994] Lima pintu yang menghadap laut\
+sifatnya di luar batas pikiran.
+
+[1995] Melihat kota ini Asmara terpana,\
+lebur, tak berkata, tak pula diam.
+
+[1996] Kata orang tua itu, "Tak tahukah kau?\
+Belum juga lepas dari takjub ini?
+
+[1997] Sampai kapan bala takjub ini?\
+Sudah dekat nikmat takjub."
+
+[1998] Si berparas bulan itu mulai terang,\
+kabut gerhana berlalu semuanya.
+
+[1999] Walhasil, orang tua suci yang sempurna itu\
+bersama bulan itu sampai ke kota.
+
+[2000] Kota yang berada di balik batas mungkin,\
+batu jalannya permata yang paham tutur.
+
+[2001] Jalan raya mengalir deras seperti kali,\
+di sana tak perlu melangkah.
+
+[2002] Asmara mabuk meluap-luap oleh keadaan ini,\
+bala tentara cahaya mengepung sekeliling.
+
+[2003] Mula-mula serombongan berjubah putih,\
+membuat iri limpahan pagi pertemuan,
+
+[2004] seperti kawanan kijang putih,\
+semua mentari dalam jubah pagi.
+
+[2005] Seribu prajurit berjubah emas,\
+berbaju emas, bermahkota emas, emas berlapis,
+
+[2006] bersayap utuh, berparas bidadari,\
+dari ujung ke ujung masing-masing Kimia.
+
+[2007] Di satu sisi yang berbaju biru lazuardi\
+bergemuruh seperti laut.
+
+[2008] Yang berbaju emas lenyap di sana\
+seperti bintang pudar di langit.
+
+[2009] Lalu banyak yang berbaju merah, bergelora,\
+masing-masing berpelukan dengan surga,
+
+[2010] masing-masing setara mentari dan bulan,\
+surga, tapi serupa taman nyala.
+
+[2011] Di satu sisi serombongan yang terpuji,\
+zamrud utuh yang bernyawa,
+
+[2012] bala tentara mulia, laut hijau,\
+ombaknya hidup yang menghadiahkan nyawa.
+
+[2013] Di satu sisi yang berbaju hitam semua,\
+seperti bintang berkilau di malam hari.
+
+[2014] Tak satu pun butuh dipuji:\
+malam, tapi malam mikraj.
+
+[2015] Walhasil, bala tentara itu berombak demi ombak,\
+datang dengan seratus warna, gerombol demi gerombol.
+
+[2016] Setiap rombongan yang tiada dua dengan warnanya\
+seakan cahaya yang menjasad.
+
+[2017] Sinarnya menjadikan warna demi warna,\
+cahaya khayal berlaga demi laga.
+
+[2018] Tapi tanah benteng yang suci itu\
+cermin, seperti akal yang tajam.
+
+[2019] Dari setiap pantulan, tanah bercahaya itu\
+memperlihatkan seribu ruh yang dibangkitkan.
+
+[2020] Di sana ada banyak istana tinggi,\
+semua serupa Benteng Rupa-Rupa,
+
+[2021] tapi lukisannya bernyawa,\
+tak mati seperti akar mandragora.
+
+[2022] Di setiap jendela rumahnya siap menatap\
+seribu putri Raja Cina.
+
+[2023] Ketika rombongan cahaya itu datang,\
+dengan hormat menjadi kawan Asmara.
+
+[2024] Semua berkhidmat kepada sang raja,\
+beradab mencium tangan, berbaiat.
+
+[2025] Sebuah singgasana bercahaya muncul,\
+orang tua itu dan Asmara duduk berdampingan.
+
+[2026] Sang raja dibawa,\
+diajak bertamasya keliling kota.
+
+[2027] Di setiap pojok banyak kebun dan taman,\
+masing-masing membuat iri taman Ridwan.
+
+[2028] Perbendaharaan di sana terbuka,\
+bintang bercampur dengan permata.
+
+[2029] Banyak perkara di luar nalar\
+tampak bagi Asmara di tiap tatapan.
+
+[2030] Mengenang hasrat kepada Jelita,\
+yang diintai hanya istana Jelita.
+
+[2031] Tiba-tiba tampak balairungnya,\
+sebuah istana raja yang ganjil,
+
+[2032] zamrud dan peridot seluruhnya,\
+tiap jendelanya surga yang abadi,
+
+[2033] tertutup seribu tirai gaib,\
+duduk tenteram di balik ragu dan tak ragu.
+
+[2034] Turun dari singgasana, dari sisi Asmara,\
+orang tua itu sampai ke istana dengan tata.
+
+[2035] Asmara diam menunggu satu dua saat,\
+sampai orang tua itu datang membawa pesan.
+
+[2036] Di dalam istana pecah riuh\
+yang belum pernah terlihat di zaman mana pun.
+
+[2037] Suara riang seruling dan tanbur,\
+gemuruh seperti tiupan sangkakala,
+
+[2038] gema genderang sukacita,\
+tanda-tanda riang abadi.
+
+[2039] Tanpa diduga sebuah tirai tersingkap,\
+Asmara pening oleh takjub.
+
+[2040] Terjadilah keadaan ganjil\
+yang tak pernah dikhayalkan Asmara:
+
+[2041] Ghirah dan Takjub bersama Suci\
+datang berkhidmat kepadanya,
+
+[2042] dan Sabda, orang tua bercahaya itu,\
+bersama-sama dengan Mulla Gila.
+
+[2043] Sabda lebih dulu membawa kabar gembira,\
+berkata, "Wahai Tuan yang paling mulia,
+
+[2044] tahukah kau keadaan ini?\
+Kau di mana, dan aku siapa?
+
+[2045] Kota ini, kota pencuri hati apa?\
+Kebun ini, kebun dan taman apa?
+
+[2046] Tamasya dan perjalananmu dari jalan mana?\
+Kekuatan dan kepandaianmu dari raja mana?
+
+[2047] Ingatkah kau Bani Mahabbah,\
+Taman Makna, tempat pertemuan?
+
+[2048] Inilah kebun yang tiada ganti itu,\
+rumah ini masih tempat itu juga.
+
+[2049] Di sini tak ada genderuwo, tak ada waham,\
+tak ada raksasa hitam pembawa kabar buruk.
+
+[2050] Tak ada api sihir, tak ada musim dingin,\
+tak ada takut binasa, tak ada bala.
+
+[2051] Semuanya riang abadi,\
+aneka suka dan girang.
+
+[2052] Pahamilah, ini rahasia ganjil,\
+tersembunyi dari para ahli akal.
+
+[2053] Akulah Sabda yang bergegas\
+memberitahumu jalan keluar dari sumur.
+
+[2054] Akulah yang membinasakan si penyihir,\
+akulah yang membersihkan jalan-jalan ini.
+
+[2055] Bulbul itu, nuri yang pandai bertutur itu,\
+kuau pemikat hati itu, aku juga.
+
+[2056] Orang tua, tabib bertabiat suci itu,\
+akulah yang menunjukimu jalan.
+
+[2057] Kini aku datang lagi mengundang pertemuan,\
+pahamilah makna keadaan ini.
+
+[2058] Yang menyebabkan semua bahasan ini muncul\
+ialah satu tatapan yang juling:
+
+[2059] Asmara itulah Jelita, Jelita itulah Asmara;\
+kau berlatih di jalan yang keliru.
+
+[2060] Dalam kesatuan tak ada kata dan bual;\
+dalam andaian itu tak ada yang mustahil.
+
+[2061] Pergilah kini, lihatlah si berparas malaikat,\
+tontonlah Jelita yang tak ternilai,
+
+[2062] agar yang tersembunyi jadi nyata semua,\
+yang dulu nyata jadi tersembunyi semua.
+
+[2063] Teman-teman seperjalananmu sampai di jalan ini saja,\
+hanya Asmara yang sampai kepada raja itu.
+
+[2064] Mulla Gila, Ghirah, Suci,\
+juga Bani Mahabbah tinggal di belakang.
+
+[2065] Keakraban Sabda pun sampai di sini ujungnya,\
+selebihnya urusan Takjub."
+
+[2066] Benarlah, Takjub membawa sang raja,\
+tirai-tirai pertemuan tersingkap.
+
+[2067] Di tempat ini kisah sampai ke ujung,\
+selebihnya tak tampak.
+
+[2068] Seratus syukur kepada Yang Mahahidup tak pernah mati,\
+tutur telah sampai ke alam hening.
+
+[2069] Aku mendahului gaya para pendahulu,\
+berbicara dengan bahasa lain.
+
+[2070] Aku tidak mengekor rombongan itu,\
+yang seperti Khusraw mengikuti Ganjawi.
+
+[2071] Demi Allah, ini kisah yang lain;\
+jangan pandang sebagai buku bala.
+
+[2072] Jangan kira ini tutur sembarangan;\
+mari, kau pun gubahlah tutur semacam ini.
+
+[2073] Para ahli tutur sudah dikenal semua:\
+ini pena, ini negeri Rum.
+
+[2074] Kau lihat lembah penyergapan ini?\
+Jangan kira tanah ini jalan Divanyolu.
+
+[2075] Jangan ulurkan jari salah begitu;\
+gubahlah tandingan bagi lima baitnya.
+
+[2076] Kalau kugubah dalam waktu singkat,\
+itu bukan tanda belum matang.
+
+[2077] Banyak raja dan pengemis kita lihat\
+dibuat para bapak dalam sekejap.
+
+[2078] Dalam perbendaharaan aku menjaga cara baru;\
+aku yang membuka harta itu, aku yang menghabiskannya.
+
+[2079] Rahasianya kuambil dari *Matsnawi*;\
+kucuri, tapi yang kucuri harta negara.
+
+[2080] Kau pun berusahalah memahami,\
+temukan permata itu, lalu curilah.
+
+[2081] Jangan iri pada hikmah uraianku,\
+serahkan nyawamu pada taufik.
+
+[2082] *Kini, ketika tak tersisa jejak kepenyairan,*\
+*sultan tutur adalah aku, tiada yang lain.*
+
+***
+
+[2083] Wahai pena, karya ini bukan milikmu;\
+wahai malam, fajar ini bukan milikmu.
+
+[2084] Cahaya limpahan Mursyid negeri Rum\
+menyebarkan sinarku ke segenap ufuk.
+
+[2085] Laksana larik yang masih bocah, aku dibuatnya\
+berdiri tegak dengan tutur sejak lahir.
+
+[2086] Aku masih bocah, belum bergaul,\
+tapi tuturku sudah termasyhur.
+
+[2087] Tanpa berutang budi pada guru pengajar,\
+kepala naskah bakatku sudah tertata.
+
+[2088] Allah, Allah, alangkah besar pertolongan:\
+hikmah kefasihan bagi yang belum baligh.
+
+[2089] Limpahan datang dari Hazrat Maulawi,\
+banyak pelajaran kuambil dari *Matsnawi*.
+
+[2090] Seakan samudra tak bertepi itu\
+menjadi pertanda dari tempayan celup.
+
+[2091] Hati jatuh ke samudra itu seperti serigala,\
+sesamaku mengerubungiku.
+
+[2092] Aku bermanja di hadapan merak surga,\
+tapi tak kuasa terbang.
+
+[2093] Seperti seruling aku meratap sia-sia;\
+aku yang berkata, lilin yang menangis.
+
+[2094] Dada ini jadi periuk hikmah,\
+tapi nikmatnya jadi bagian bibir orang lain.
+
+[2095] Seperti bulan aku terbuka dan penuh,\
+ketika waktu habis, aku didapati kosong.
+
+[2096] Di dadaku tak ada cinta, tak ada kilau,\
+cuma pameran bagi anak-anak zaman.
+
+[2097] Kawan-kawan mengambil bagian dari kabar gembiraku,\
+lalu pergi semua sambil berdoa.
+
+[2098] Aku tinggal, kata itu tinggal di bibirku,\
+kapal dambaan mengangkat sauh.
+
+[2099] Di jiwaku tak ada bara pencarian,\
+di hatiku tak ada riang pesta.
+
+[2100] Aduh, kalau aku pergi dalam keadaan begini!\
+Semoga Allah menjadikan aku penerima taufik-Nya.
+
+***
+
+[2101] Galib, tarikh buku derita ini\
+adalah: *Khitamuhu misk*.

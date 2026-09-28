@@ -81,7 +81,7 @@ meta = {
     'title': 'Jelita dan Asmara',
     'subtitle': ['Hüsn ü Aşk'],
     'author': 'Şeyh Galib',
-    'author_note': '(1171–1213/1757–1799)',
+    'author_note': '(w. 1213/1799)',
     'desc': 'Diterjemahkan dari teks Turki Utsmani suntingan Abdülbâki Gölpınarlı, dengan rujukan terjemahan Inggris Victoria Rowe Holbrook',
     'doc_title': 'Hüsn ü Aşk: Terjemahan Indonesia',
 }

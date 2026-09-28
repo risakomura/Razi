@@ -38,3 +38,20 @@ Catatan kaki Markdown berkunci (`[^e1]`, `[^p13]`, `[^m-khalt]`, dst.) menjadi c
 Gaya paragraf: Judul Buku, Subjudul Buku, Pengarang Buku, Keterangan Buku, Judul Pengantar, Teks Pengantar, Kitab Ke, Judul Kitab, Basmalah, Judul Bab, Judul Pasal, Subpasal, Butir, Teks Isi, Teks Isi Pertama, Syair, Catatan Kaki, Lampiran Judul, Lampiran Subjudul, Lampiran Kelompok, Teks Lampiran, Sel Tabel, Sel Tabel Kepala.
 
 Gaya karakter: Kutipan Ayat, Rujukan Ayat, Kutipan Riwayat, Transliterasi, Label Argumen, Tebal, Tebal Miring, Aksara Arab, Aksara Arab Tabel.
+
+## Şeyh Galib: *Hüsn ü Aşk* (*Jelita dan Asmara*)
+
+Membuat ulang `husn-u-ask.docx` dari `terjemahan-husn-u-ask.md`:
+
+```bash
+python3 alat/husn_md2json.py terjemahan-husn-u-ask.md /tmp/husn.json
+node alat/husn_build_docx.js /tmp/husn.json husn-u-ask.docx
+```
+
+Yang dimasukkan: halaman judul dan seluruh terjemahan (dari `# TERJEMAHAN`). Status proyek, konvensi markup, dan keputusan kerja tidak ikut. Tidak ada catatan kaki.
+
+Parser memeriksa bahwa nomor bait berurutan 1 sampai 2101 tanpa lompatan, bahwa setiap larik kecuali yang terakhir dalam satu bait diakhiri `\`, dan bahwa setiap blok berisi 2 larik (bait) atau 5 larik (bait bertingkat dengan larik ulang). Nomor bait dicetak pada kelipatan lima dan pada bait pertama tiap bagian, rata kanan di tepi teks.
+
+Gaya paragraf: Judul Buku, Subjudul Buku, Pengarang Buku, Keterangan Buku, Judul Kitab, Basmalah, Judul Bagian, Larik Awal, Larik Akhir, Larik Ulang, Pemisah Bait.
+
+Gaya karakter: Nomor Bait, Kutipan Larik.
