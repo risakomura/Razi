@@ -15,9 +15,9 @@
 | Butir | Keterangan |
 |---|---|
 | Tahap | Penerjemahan berjalan |
-| Sudah diterjemahkan | Mukadimah; Bab Pertama sampai Bab Ketujuh |
-| Posisi berikutnya | Bab Kedelapan (Arab bab 8) |
-| Nomor catatan terakhir | CP: p20 · CD: d23 |
+| Sudah diterjemahkan | Mukadimah; Bab Pertama sampai Bab Kedelapan |
+| Posisi berikutnya | Bab Kesembilan (Arab bab 9) |
+| Nomor catatan terakhir | CP: p20 · CD: d25 |
 | Catatan istilah | lihat 3.3 |
 
 ---
@@ -432,3 +432,17 @@ Demikian pula ia disebut "hamba Allah" dalam dua arti. Yang umum ialah hewan yan
 Demikian pula ia disebut hidup, mendengar, melihat, berbicara, dan berakal, semuanya dalam dua arti. Dalam arti umum, sebutan itu untuk yang memiliki kehidupan hewani, yang dengannya ada indra, khayal, dorongan, dan syahwat; untuk yang mendengar suara-suara; untuk yang menangkap warna-warna; untuk yang dapat memahamkan semua orang apa yang ia kehendaki; dan untuk yang memiliki daya yang diikuti oleh pembebanan (*taklīf*). Dalam arti khusus, sebutan itu untuk yang memiliki kehidupan yang berupa ilmu, yang dimaksud dalam firman Allah Ta'ala: *"agar dia (Muhammad) memberi peringatan kepada orang yang hidup (hatinya)"* (Yasin: 70); yang memiliki pendengaran untuk mendengar hakikat hal-hal inteligibel, mata batin (*baṣīra*) untuk menangkap pelajaran-pelajaran, dan lisan untuk mengemukakan kajian-kajian yang cermat. Itulah yang dinafikan Allah dari orang-orang kafir yang jahil dalam firman-Nya: *"(Mereka) tuli, bisu, dan buta, maka mereka tidak mengerti"* (al-Baqarah: 171).[^d23]
 
 [^d23]: CD: Dalam *al-Dharīʿa*, Pasal Pertama, bahasan "Penjelasan tentang Apa yang Membuat Manusia Unggul" dan "Daya-Daya Manusia", ayat al-Baqarah: 171 dikutip dengan penjelasan serupa: "Maknanya bukan bahwa mereka tidak mendengar suara atau tidak melihat benda; Dia menjadikan mereka bisu karena mereka tidak mengemukakan makna yang digali dengan pikiran dan ditangkap dengan akal." Di sana pula manusia yang tidak memakai daya-dayanya disebut "makhluk bergerak yang paling buruk" (al-Anfal: 22). Terjemahan ayat mengikuti terjemahan *al-Dharīʿa*.
+
+# Bab Kedelapan {.kitab-ke}
+
+# Kelayakan Manusia bagi Dua Negeri {.judul-kitab}
+
+Di antara segala yang ada, manusia diciptakan dengan penciptaan yang layak bagi dua negeri. Sebab Allah Ta'ala telah mengadakan tiga macam makhluk hidup: satu macam untuk negeri dunia, yaitu hewan; satu macam untuk negeri akhirat, yaitu penghuni alam tertinggi (*al-malaʾ al-aʿlā*); dan satu macam untuk kedua negeri, yaitu manusia. Maka manusia adalah perantara antara dua substansi: yang rendah, yaitu hewan, dan yang tinggi, yaitu malaikat. Dia menghimpun dalam dirinya daya-daya kedua alam. Dia menjadikannya seperti hewan dalam syahwat badani, makan, berketurunan, saling menyerang, saling berebut, dan sifat-sifat hewan lainnya; dan seperti malaikat dalam akal, ilmu, beribadah kepada Tuhan, kejujuran, menepati janji, dan akhlak-akhlak mulia semacamnya.[^d24]
+
+[^d24]: CD: Rumusan "perantara antara dua substansi: yang rendah dan yang tinggi" sama dengan *al-Dharīʿa*, Pasal Pertama, bahasan "Kedudukan Manusia di antara Binatang dan Malaikat", dan terjemahannya mengikuti terjemahan *al-Dharīʿa*. Di sana pula manusia menyerupai binatang dengan syahwat badan (makan, minum, kawin) dan menyerupai malaikat dengan daya-daya rohani (hikmah, keadilan, kemurahan). Yasien Mohamed dalam catatannya atas bahasan itu merujuk ke bab ini (terjemahan *al-Dharīʿa*, nota kaki no. 45, `y18`). *Tafṣīl* menambahkan pembagian tiga macam makhluk hidup menurut negerinya.
+
+Segi hikmah dalam hal itu ialah: ketika Allah Ta'ala mempersiapkan manusia untuk beribadah kepada-Nya, menjadi khalifah-Nya, dan memakmurkan bumi-Nya, dan bersamaan dengan itu menyiapkannya untuk berdampingan dengan-Nya di surga-Nya, hikmah menuntut agar Dia menghimpun bagi manusia kedua daya itu. Seandainya ia diciptakan seperti binatang ternak, kosong dari akal, ia tidak akan layak untuk beribadah kepada Allah Ta'ala dan menjadi khalifah-Nya, sebagaimana binatang ternak tidak layak untuk itu, dan tidak pula layak untuk berdampingan dengan-Nya dan masuk surga-Nya. Seandainya ia diciptakan seperti malaikat, kosong dari kebutuhan badani, ia tidak akan layak untuk memakmurkan bumi-Nya, sebagaimana malaikat tidak layak untuk itu, ketika Allah Ta'ala berfirman menjawab mereka: *"Sungguh, Aku mengetahui apa yang tidak kamu ketahui"* (al-Baqarah: 30). Maka hikmah ilahi menuntut agar kedua daya itu dihimpun baginya.[^d25]
+
+[^d25]: CD: Tiga tugas manusia di sini (ibadah, kekhalifahan, dan memakmurkan bumi) adalah tiga "perbuatan yang khusus bagi manusia" dalam *al-Dharīʿa*, Pasal Pertama, bahasan "Tujuan Manusia Diciptakan", dengan urutan berbeda. Lihat terjemahan *al-Dharīʿa*, nota kaki no. 6 (`m-khilafa`) dan no. 46 (`m-ibada`). Argumen bahwa malaikat tidak layak memakmurkan bumi karena tidak memiliki kebutuhan badani sejalan dengan *al-Dharīʿa*, bahasan "Penjelasan Keutamaan Manusia atas Seluruh Hewan": manusia disebut lemah (an-Nisa': 28) dibandingkan dengan malaikat, "karena pada manusia ada kebutuhan-kebutuhan badan yang telah dicukupkan bagi mereka". Di sini kebutuhan yang sama justru menjadi syarat kelayakan untuk memakmurkan bumi.
+
+Dengan merenungkan keseluruhan ini terdapat peringatan bahwa manusia adalah makhluk dunia dan makhluk akhirat, dan bahwa ia tidak diciptakan dengan sia-sia, sebagaimana Allah mengingatkan dengan firman-Nya: *"Maka apakah kamu mengira, bahwa Kami menciptakan kamu main-main (tanpa ada maksud) dan bahwa kamu tidak akan dikembalikan kepada Kami?"* (al-Mu'minun: 115).
