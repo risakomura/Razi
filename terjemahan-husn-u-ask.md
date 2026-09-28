@@ -3102,3 +3102,953 @@ kini perkara ini yang jadi hasil.
 
 [989] Titah milikmu, tercapainya pun darimu;\
 menyerahkan nyawa bagianku, menerimanya bagianmu.
+
+[990] Lihatlah jadinya ratap dan rintih ini,\
+keputusan apa yang lahir dari gugatan.
+
+[991] Aku tak mengira diriku ingkar janji;\
+walau kiamat datang, aku tak menarik kata.
+
+[992] Siasat, akulah yang mengatur;\
+wahai bermata sayu, senangkanlah hatimu.
+
+[993] Para pemuka kabilah, siapa pun,\
+biar lepas tangan, ini perkara kepala dan nyawa.
+
+[994] Di jalan ini siapa bisa menghadang?\
+Nyawa bekal perjalananku, Tuhan saksiku.
+
+[995] Bersabarlah sebentar, jangan meratap;\
+mari kita lihat apa yang diperbuat Tuhan Yang Agung.
+
+[996] Simpan suratku ini, jadikan jimat nyawa;\
+janji yang telah kau buat, peganglah, awas!
+
+## Tentang Suci, Inang Pengasuh Jelita {.judul-bagian}
+
+[997] Setelah jauh dari rupa Asmara,\
+Jelita sakit oleh pikiran itu.
+
+[998] Lilin itu telah dijadikan perhiasan pangkuan\
+oleh seorang berperangai api bernama Suci.
+
+[999] Dulu disusui,\
+mawar itu diberi embun dari keringat.
+
+[1000] Di musim kanak-kanak,\
+diairi dari anak sungai rasa malu.
+
+[1001] Mendengar ratapan di kala sendiri,\
+tahulah Suci duka Jelita, hilang akal.
+
+[1002] Ketika gamelan perpisahan melampaui tirai,\
+Suci mendengar lengkap dengan iramanya.
+
+[1003] Terasa bahwa si penggalan bulan\
+ingin menjadi bintang bagi sebuah mentari.
+
+[1004] Tak tahu apa dan bagaimana deritanya,\
+untuk mawar yang mana desah dinginnya.
+
+[1005] Setiap malam, memandangi si pembelai hati,\
+luka selar baru menyala di hati.
+
+[1006] Bila yang satu menyelar dengan rindu,\
+yang ini menjadikan rambut sendiri sumbu.
+
+[1007] Bila si cemara semampai itu mendesah,\
+di kepala inang ini kiamat pecah.
+
+[1008] Bila air mata itu jadi banjir samudra,\
+si malang berlari tak tentu arah ke padang.
+
+[1009] Jelita mendesah setiap saat;\
+yang tahu hanya Asmara, dan Allah.
+
+[1010] Suci bertanya tentang bara derita,\
+jawabnya sehela desah dingin.
+
+[1011] Jelita menuturkan duduk perkara,\
+mimpinya ditakwilkan begini:
+
+[1012] "Tak ada obatnya, aku tertimpa bala,\
+seorang diri aku jatuh ke Karbala.
+
+[1013] Nyawa jadi penjual permata rindu,\
+mata jadi peminum piala rindu.
+
+[1014] Cermin hati remuk,\
+cahaya bulan hilang, tinggal gelisah.
+
+[1015] Aku di laut yang tak bertepi,\
+di perang yang tak berbenteng.
+
+[1016] Nasib sial jadi musuh hati;\
+lihatlah, reruntuhan memusuhi burung hantu.
+
+[1017] Malam menyembunyikan wajah kekasih,\
+cermin pun berkabung.
+
+[1018] Langit merusak tata hidupku,\
+cawan hidup berubah jadi luka selar di hati.
+
+[1019] Kilat datang meluluhlantakkan,\
+pondok sukacitaku roboh.
+
+[1020] Aku tinggal tertawan derita pisah,\
+kekasih bersama orang lain jadi nyawa dan tambatan.
+
+[1021] Mulut kuntum bisu oleh takjub,\
+embun jatuh di atas mawar nyala.
+
+[1022] Aku sebatang kara, perkaranya sulit;\
+Allah Maha Kaya, Maha Penyayang, Maha Penutup aib.
+
+[1023] Lekuk rambut membuatku gila,\
+rupanya suratan di dahiku yang tiba.
+
+[1024] Aku sakit perpisahan, kekasih tak kenal derita;\
+sulitnya, penghibur duka tak kenal derita.
+
+[1025] Meratap pun tak diizinkan,\
+walau duka menanti begitu banyak.
+
+[1026] Kalau mendesah, desahku jadi buaya api,\
+akhirnya si congkak itu mengincarku.
+
+[1027] Mataku jadi lembap air mata kuntum,\
+piala penantian penuh.
+
+[1028] Aku tak berdaya di perahu derita,\
+di tepi pantai, penolong dan kekasih meratap.
+
+[1029] Aku tak butuh siapa pun sezarah;\
+obatku bukan dalam takdir penyembuhan.
+
+[1030] Di jalan rayaku muncul genderuwo rindu,\
+akal dan hikmah berbalik pulang.
+
+[1031] Aku tinggal sendiri, di kepala sarat cinta buta;\
+ah, kepada siapa mengadukan siapa?
+
+[1032] Aku jatuh ke padang sesat duka, aduh, tolong!\
+Tak ada seorang pun yang bisa kutuduh zalim.
+
+[1033] Yang paling dekat pun di arah hidayah;\
+andai aku yang lenyap dari tengah-tengah.
+
+[1034] Andai hati ini menemukan cara menghilang,\
+jalan raya keselamatan tentu didapat.
+
+[1035] Kalau Khidir taufik tahu jalan, pasti datang;\
+kalau ada, tentu sudah hilang.
+
+[1036] Aku jatuh sakit di tangan musuh,\
+aku piala, kini pecah.
+
+[1037] Taman mawar keelokanku dijarah,\
+aku butuh musim semi lagi.
+
+[1038] Rambut dan kuncirku menyengatku,\
+kalajengking datang menyiksaku di kubur.
+
+[1039] Seakan desahku panjang tak berhenti,\
+naga tatapanku sendiri menelanku.
+
+[1040] Perawakanku yang disebut pohon yakut\
+kini jadi pohon keranda.
+
+[1041] Seperti mataku, bibir delimaku pun sakit,\
+manis tutur jadi racun ajal.
+
+[1042] Api pipiku membakarku,\
+musim semiku jadi darah di mata.
+
+[1043] Kutancapkan mata di jalan penantian,\
+bulu mata jadi peri di mata air itu.
+
+[1044] Kuntum permohonanku tak mekar,\
+tidur manjaku terbang seperti bulbul.
+
+[1045] Aku jatuh ke dalam takjub hingga\
+alam seolah penuh darah, racun, dan huru-hara.
+
+[1046] Aku di dalam kilat yang membuat terpana,\
+neraka di mataku bayi dalam gendongan.
+
+[1047] Jiwaku memusuhi riang;\
+kalau kau bilang bergembiralah, aku makin sesak.
+
+[1048] Api di mataku mentari yang berkilau,\
+surga di mataku duri akasia."
+
+[1049] Mentari yang penuh kilau itu\
+telah tenggelam di samudra gelisah.
+
+[1050] Membuat laut resah bergolak,\
+air mata dicurahkan berlaut-laut.
+
+[1051] Kadang masuk ke tanah seperti air mata,\
+kadang naik ke langit seperti desah.
+
+[1052] "Jangan tanya derita si sakit cinta,\
+jangan usik perang si sebatang kara.
+
+[1053] Ini takdir yang menimpaku,\
+Allah yang tahu kisah apa ini.
+
+[1054] Bisakah derita dituturkan kepada yang tak berderita,\
+apalagi yang berada di luar siasat?
+
+[1055] Jangan tanya laron tentang dambaannya,\
+pahami cintanya dari bara yang membakar.
+
+[1056] Andai tahu apa bara dan huru-hara ini,\
+takkan kujarah pondasi sabar.
+
+[1057] Kasihanilah, api duka yang jatuh ke jiwa\
+jangan sampai jatuh ke lidah.
+
+[1058] Langit menjadikanku tawanan perpisahan,\
+si haus ini dikenyangkan dengan hijran.
+
+[1059] Selagi aku mendesah dan meratap seorang diri,\
+setelah mendengar, jangan kau pun berbuat aniaya.
+
+[1060] Sayang, kau bisa binasa,\
+kena panah desah.
+
+[1061] Dengan mendengarkan panjangnya desah,\
+jalan kehinaan sudah tampak.
+
+[1062] Mulai kini aku tersohor di negeri,\
+hari demi hari gelisah oleh duka.
+
+[1063] Tungku api dadaku hancur,\
+terbakar aku oleh hasrat ini, tolong!
+
+[1064] Beginilah hawa Kakbah duka,\
+ratapan adalah doa di kuil itu.
+
+[1065] Harapan dari tabib: penyakit;\
+dambaan: bertambahnya duka.
+
+[1066] Siapa pun yang meminati jalan ini,\
+keselamatan adalah penyamun bagi pejalan itu.
+
+[1067] Temani aku di perjalanan, jangan jijik;\
+kau tahu jalan menuju kehinaan?
+
+[1068] Bila kekasih ditinggal kekasih,\
+mau tak mau hina, jangan harap tertutup.
+
+[1069] Bila sang kekasih merelakan nyawa ini,\
+tak cukupkah bala kehidupan?"
+
+## Suci Mengetahui Kekusutan Jelita {.judul-bagian}
+
+[1070] Mendengar jawaban itu,\
+gelisah Suci melampaui pikiran.
+
+[1071] Menyesal telah membuat Jelita bicara,\
+tinju kerugian dipukulkan ke telinga dan bibir.
+
+[1072] Katanya, "Aduh, derita apa yang menimpaku!\
+Aku sendiri yang mencari, lalu tahu.
+
+[1073] Dengan bara ini kubakar rumah tangga;\
+andai tak kudengar kata itu!
+
+[1074] Andai mata dan telingaku buta dan tuli,\
+hidup dan makan minumku tak jadi racun.
+
+[1075] Kini bala ini sulit obatnya,\
+si sakit lemah, deritanya maut.
+
+[1076] Jelas ini derita cinta,\
+si bocah pengembara di jalan cinta.
+
+[1077] Begitu menyebut kekasih, langsung diam,\
+nama Asmara pun dilupakan.
+
+[1078] Adakah sesuatu yang bisa tetap samar?\
+Tanpa cinta, mungkinkah duka ini?
+
+[1079] Namun perlu ada penghiburan,\
+kuntum ini perlu diasuh."
+
+[1080] Menurut akalnya, sambil merangkai dongeng,\
+dimulailah kepala naskah nasihat.
+
+## Perdebatan Suci dengan Jelita {.judul-bagian}
+
+[1081] Katanya, "Wahai mawar dambaanku,\
+tunas baru di taman hatiku,
+
+[1082] setiap derita ada obatnya,\
+setiap yang sakit ada sembuhnya.
+
+[1083] Jangan biasakan dongeng putus asa;\
+walau jatuh cinta, jangan meratap.
+
+[1084] Hati-hati sekali, wahai bertubuh mawar,\
+jangan sampai bibir dan langit-langit mulut mendengar tuturmu ini.
+
+[1085] Jangan perbanyak ratapan,\
+jangan buang kehormatan dan malu ke angin.
+
+[1086] Satu huruf yang terbang dari bibir\
+tak mau bersarang, walau di seribu telinga.
+
+[1087] Rahasia yang tak kau jaga baik-baik\
+tak akan menetap di dada mana pun.
+
+[1088] Rahasia itu raja, perhatikanlah;\
+jangan usir dari rumah, hormatilah.
+
+[1089] Sebab kelak, bila bala tentara tahu,\
+kau dan rumahmu jungkir balik.
+
+[1090] Dengar kata, bermurahlah, bermurahlah;\
+jangan ucapkan rahasia, lindungilah.
+
+[1091] Bercelup warna apa saja, tapi jangan kasih warna;\
+jangan biarkan cermin kejernihan berkarat.
+
+[1092] Kata itu kilat bagi lumbung hati dan jiwa,\
+jangan sampai lepas dari sarungnya.
+
+[1093] Sekali lepas, diri sendiri jadi sasaran angin,\
+dan tempat jatuhnya pun musnah.
+
+[1094] Karena melepas huruf ke seantero dunia,\
+busur tak pernah selamat dari meregang.
+
+[1095] Kalau rahasiamu kau beberkan kepada orang,\
+aku takut kau kelak kelabakan."
+
+## Jawaban Jelita kepada Suci {.judul-bagian}
+
+[1096] Mendengar kata itu, Jelita sedih,\
+menangis racun, tertawa getir.
+
+[1097] Katanya, "Aneh benar jalanmu,\
+banjir kau suruh diam.
+
+[1098] Mungkinkah aku mengingkari Asmara?\
+Rahasia ini bukan yang kau pahami.
+
+[1099] Kau tak tahu obatnya, sudah, jangan tanya,\
+jangan capekkan si sakit dengan celoteh.
+
+[1100] Kukira mau bicara soal Asmara,\
+membawa kabar Asmara kepada si perintih ini.
+
+[1101] Kau malah meninggalkan bahasan itu,\
+kadang menyebut cermin, kadang rahasia.
+
+[1102] Kubilang langit terasa sempit di kepalaku;\
+sekarang buat apa tempayan Plato?
+
+[1103] Kehormatan itu apa? Malu itu kata apa?\
+Buat apa balsam penyambung tulang bagi laron?
+
+[1104] Aku merayu-rayu api,\
+kau bilang di jalan ada bahaya.
+
+[1105] Kadang kau bicara soal raja dan tentara,\
+kadang kau bilang jangan biarkan kejernihan berkarat.
+
+[1106] Anggur apa yang membuatku mabuk ini?\
+Apa pula yang kau larang itu?
+
+[1107] Kalau kau butuh dongeng,\
+dengarlah, biar aku bernyanyi."
+
+[1108] Seperti laut, tiba-tiba bergolak,\
+berseru, "Wahai Asmara!", lalu diam.
+
+## Suci Mencari Dalih Lain {.judul-bagian}
+
+[1109] Melihat keadaan itu, Suci yang tiada dua\
+menemukan lagi dalih lain.
+
+[1110] Katanya, "Asmara yang mulia, tiada tara,\
+lelaki yang tak kenal sungkan.
+
+[1111] Di pesantren seperguruan denganmu,\
+dalam hal ini kabilah sepakat.
+
+[1112] Tentu kau tunangannya,\
+kau yang akan meraih pertemuan abadi.
+
+[1113] Tak elok pula baginya perkara ini:\
+kau yang mendamba, lalu dia yang didamba.
+
+[1114] Sekali kabar ini tersebar,\
+masih dimaafkankah kehinaannya?
+
+[1115] Sekalipun mendamba, bisulah;\
+kau perempuan, bermurahlah, jual mahal sedikit.
+
+[1116] Aku takut, kalau Asmara mendengar,\
+kau dijadikan latihan pedang rindu."
+
+## Jelita Memikirkan Hal Lain {.judul-bagian}
+
+[1117] Jelita tercekat pada ucapan itu,\
+sebab Asmara disebut, huruf demi huruf.
+
+[1118] Katanya, "Maut itu apa, wahai jiwa,\
+asal rida sang kekasih tak luput?
+
+[1119] Aku takut kekasih bermuram hati,\
+kau takut dia menyakiti."
+
+[1120] Si sakit ini sudah terpana,\
+rasa malu itu terlupakan.
+
+[1121] "Tanpa sadar kau menyadarkanku:\
+kau berkata 'ah', kudengar 'bulan'.
+
+[1122] Biar sesak hatiku, bibir kusegel,\
+asal si berperangai kuntum itu tak merajuk.
+
+[1123] Biar kutelan darah, tak kubeberkan,\
+asal orang tak menaburkan garam di lukaku.
+
+[1124] Biar jiwa nekat ini terbakar oleh duka,\
+asal kerlingnya tak jadi beracun.
+
+[1125] Mulai kini aku biasakan diam;\
+mati pun, namanya tak kusebut.
+
+[1126] Hei, siksaan apa ini, Allah, Allah!\
+Terbakar di api, tapi tak boleh bilang aduh!"
+
+## Suci Menutup Jalan Ratapan {.judul-bagian}
+
+[1127] Kata Suci, "Perkara ini tak ada obatnya,\
+semoga Tuhan memberi insaf kepada kekasih itu.
+
+[1128] Bulan itu murka mendengar ratapan,\
+matanya gelap bila kau mendesah.
+
+[1129] Katanya, 'Ratapan itu hakku;\
+bagi sang kekasih cukup setia saja.'"
+
+## Jelita Menjadi Tenang {.judul-bagian}
+
+[1130] Mendengar kata itu, mau tak mau,\
+bulan itu berniat jual mahal.
+
+[1131] Seperti tungku, tempatnya di pojok,\
+pada lahirnya kembali bersuka dan minum.
+
+## Sabda Mengabari Asmara {.judul-bagian}
+
+[1132] Untuk memahami perkara ini,\
+Sabda pun bersembunyi di sana.
+
+[1133] Didengarnya seluruh kisah,\
+rupanya menyimak gugatan itu.
+
+[1134] Setelah Sabda tahu rahasia ini,\
+didatanginya Asmara dan dikabari:
+
+[1135] "Jelita hangus hatinya karenamu;\
+insaflah kini, wahai penerang hati.
+
+[1136] Pantaskah Jelita meratap,\
+sedang kau tak merelakan nyawa ini?
+
+[1137] Demi Allah, beginikah adat main cinta:\
+sang kekasih yang harus merayu-rayu?
+
+[1138] Mulai kini tambahkan dambaanmu,\
+biasakan diri pada pedihnya perpisahan."
+
+## Perkara Berbalik: Asmara Tergila-gila karena Jelita {.judul-bagian}
+
+[1139] Sampailah kita di sisi ini: Asmara yang tak sampai hajat,\
+berjiwa singa, bertubuh sakit,
+
+[1140] seorang diri menyalakan desah pembakar dada,\
+beberapa malam melewatkan hari dengan senang.
+
+[1141] Kapur barus dijaga dari percik bara,\
+beroleh cahaya dari sumbu dini hari.
+
+[1142] Yakni khayal wajah kekasih\
+menjamu malam hingga pagi.
+
+[1143] Bila pikiran duka bersambung-sambung,\
+yang terbayang selalu gerai rambut kekasih.
+
+[1144] Makin mabuk oleh anggur rindu,\
+makin bungkam bibir delima yang asin.
+
+[1145] Bila hilang nama di samudra duka,\
+menyebut nama Jelita, lalu tenang.
+
+[1146] Tipu daya janji kosong si jintan\
+menjadikan kebun harapan kebun jeruk nipis.
+
+[1147] Walhasil, Asmara yang gesit\
+bergembira dengan harapan bertemu.
+
+[1148] Tapi begitu kabar perpisahan terdengar,\
+duri perpisahan patah di dalam hati.
+
+[1149] Tubuh halus berparas cahaya itu\
+kurus kering seperti biji mata.
+
+[1150] Tak tahu bahwa langit si perusak kerja\
+dalam perpisahan menetap pada nada sumbang.
+
+[1151] Di hari pertemuan hidup dinikmati,\
+senja hari itu tak dipikirkan.
+
+[1152] Melihat sang kekasih jadi kawan,\
+dikira langit bakal kekal begitu.
+
+[1153] Tidakkah pantas, tidakkah layak\
+manja si pencinta seharga nikmat dua alam?
+
+[1154] Bila yang dicintai terbiasa merayu,\
+pencinta pun berbahagia walau di neraka.
+
+[1155] Mungkinkah mencerna kejayaan itu?\
+Sesaatnya seharga kerajaan dunia.
+
+[1156] Di atas semua itu, perpisahan adalah bala;\
+jarang pencinta sanggup menanggung manja itu.
+
+[1157] Bukan sembarang pemain cinta\
+yang mampu membalikkan manja jadi rayuan.
+
+[1158] Siapa yang ditimpa duka pedih ini?\
+Dari Firdaus dilempar ke neraka jahim.
+
+[1159] Kekasih sudah berhasrat kepada Asmara,\
+bagi si malang, penawar jadi naga.
+
+[1160] Si pemburu yang merapal seribu mantra,\
+seribu *Tabbat* terbalik,
+
+[1161] begitu kijang tertangkap,\
+tanpa ragu menghunus pedang siksa.
+
+[1162] Uraian duka tak bisa ringkas,\
+diperinci pun tak berkesimpulan.
+
+[1163] Sanggupkah desah-desah itu dituturkan?\
+Satu tombaknya pun tak muat di langit.
+
+[1164] Hati yang berbara itu alam derita,\
+tabel falak tak mampu memuat bintang-bintangnya.
+
+[1165] Mana ada kata bagi samudra bala ini?\
+Falak pun terbakar oleh kisah ini.
+
+[1166] Ketika Asmara putus asa akan Jelita,\
+tangan penyesalan membangkitkan jeritan.
+
+[1167] Berkabung dengan seribu permata air mata,\
+menanam intan di luka hati.
+
+[1168] Tak bisa bicara karena takjub,\
+tak bisa diam karena ngeri.
+
+[1169] Bala kekasih merampas lidah,\
+di matanya tak ada neraka, tak ada topan.
+
+[1170] Pecahan hati ditumpahkan dari mata,\
+api tercurah dari setiap kata.
+
+[1171] Bila menghela napas di laut bala,\
+seperti gelembung, langit pun tak muat.
+
+[1172] Bila mendesah dingin di dalam neraka,\
+musim beku pun jadi cemburu.
+
+[1173] Bila menangis dan mendesah karena rindu,\
+Juli yang panas dijadikan bulan Desember.
+
+[1174] Kadang menggerutu kepada mentari,\
+menaruh api di hadapan gelembung.
+
+[1175] Kadang menatap bintang-bintang,\
+kilat desah membakar ladang itu.
+
+[1176] Seperti Majnun, tapi tak menetap di padang,\
+tiap kota yang dipandang jadi gurun.
+
+[1177] Air mata berkilau dicurahkan sedemikian\
+hingga dunia jadi fatamorgana dan pusaran.
+
+[1178] Lemah seperti benang bunga api,\
+membuka jalan ketiadaan ke setiap negeri.
+
+[1179] Seperti nyamuk, lemah tak sampai hajat,\
+Namrud langit pun dibuat pening.
+
+[1180] Bulan itu begitu kurus\
+hingga kadang ikut terbang bersama desah.
+
+[1181] Namun oleh sempurna wibawanya,\
+Arasy pun gemetar karena segan.
+
+[1182] Asal Asmara mendesah demi Jelita,\
+dunia runtuh? Biar saja runtuh.
+
+[1183] Dada yang porak-poranda oleh duka,\
+pedulikah pada reruntuhan alam?
+
+[1184] Biar saja langit pengacau itu runtuh,\
+asal sang kekasih yang mulia senang.
+
+[1185] Asmara yang gesit sudah keluar dari tengah;\
+kalau bumi dan falak terbakar, apa urusannya?
+
+[1186] Karena tak seorang pun tenang di sana,\
+bahtera falak memang layak celaka.
+
+[1187] Sesekali, bila hancur oleh duka,\
+tembang bertingkat ini dilantunkan:
+
+[1188] Hati tertawan oleh seorang raja\
+yang tiap hambanya pahlawan pembunuh;\
+[1189] kerling dan bibir delima dalam tutur sehati,\
+tatapan yang asing condong pada darah:\
+[1190] *panah dukanya karib dengan nyawa.*
+
+Diwan takdirnya dibangun di atas aniaya,\
+[1191] algojo pun gemetar takut nyawa;\
+di setiap pojok jerit "tolong, aniaya!",\
+[1192] huru-hara kiamat, desah dan ratap:\
+*mahsyarkah ini, atau Karbala?*
+
+[1193] Bibir delima: umur Nuh makna;\
+di mata tersembunyi ruh makna;\
+[1194] darah yang ditumpahkan: anggur pagi makna;\
+limpahan tutur: pembukaan makna:\
+[1195] *tiap tutur hidup, tiap tutur abadi.*
+
+Bila rambut diurai dan dijarah,\
+[1196] bala tentara iman berlindung pada kufur;\
+karena takut itu kuncir kusut masai,\
+[1197] pedang pembunuh jadi bukti gugatan:\
+*aduh, gugatan ganjil macam apa ini!*
+
+[1198] Biar hati si malang terbakar oleh duka,\
+asal berhala berapi itu percaya;\
+[1199] biar nyawa bercelup darah hijran,\
+asal mata sayu itu puas minum anggur:\
+[1200] *seribu kemurahan tebusan bagi setiap murkanya.*
+
+Seperti Galib, seratus ribu yang tergila-gila\
+[1201] menjadi Majnun di padang cintanya;\
+tak seorang pun merintih dan berdarah hati,\
+[1202] ahli derita rela pada tiap kekejamannya:\
+*tapi apa daya, tak setia.*
+
+## Tentang Ghirah {.judul-bagian}
+
+[1203] Di sisi Asmara ada seorang penanggung bala,\
+bernama Ghirah, setiap pesannya api.
+
+[1204] Pengasuh si tak berdaya itu,\
+awan bagi permata khayal itu.
+
+[1205] Lilin pembakar dada itu dijadikannya\
+penerang keputren majelis pedih.
+
+[1206] Si hati luka itu dipelihara seperti bocah bara,\
+agar membakar setiap negeri.
+
+[1207] Seperti biji mata para pencinta,\
+setiap saat dipakaikan hitam.
+
+[1208] Tahun demi tahun, seperti benih tulip,\
+disimpan agar luka selar muncul.
+
+[1209] Lama disembunyikan dalam kapas,\
+agar seperti luka selar penuh darah.
+
+[1210] Si pembelai hati itu, seperti bocah air mata,\
+dibuat bermain tanah di debu duka,
+
+[1211] agar kelak, bila dewasa, bulan itu\
+menghadapkan wajah ke jalan seperti batu nisan.
+
+## Ghirah Berbantah dengan Asmara {.judul-bagian}
+
+[1212] Melihat derita rindu pada Asmara,\
+Ghirah mendapat kesempatan dan bertanya:
+
+[1213] "Wahai kuntum di taman nyala neraka,\
+kenapa kau mengaduh begitu?
+
+[1214] Apa sebab desah sedingin ini?\
+Kurangkah derita yang sampai?
+
+[1215] Apa deritamu? Jangan-jangan kau dapat obat?\
+Rintih apa ini, kau dapat kesembuhan?
+
+[1216] Kalau kau meratap karena derita,\
+sayang, seribu kali aniaya atasku!
+
+[1217] Lelaki yang menyepelekan derita bukan lelaki;\
+derita mesti jadi panji lelaki."
+
+## Jawaban Asmara {.judul-bagian}
+
+[1218] Asmara menatap lelaki itu dengan getir,\
+tatapannya menanam racun di luka selar derita.
+
+[1219] Katanya, "Kau tahu soal ini?\
+Pernah kau dengar nama Jelita?
+
+[1220] Pergi sana, kataku bukan untukmu;\
+diam, diam, ini bukan kisah itu.
+
+[1221] Berusahalah menyusul kawan-kawan;\
+pulanglah, sabar dan tenang sudah tertinggal.
+
+[1222] Biar zaman ini penuh oleh desahku;\
+kau pergi saja, terjadilah apa yang mesti terjadi.
+
+[1223] Di zaman hatiku riang, ke mana saja kau?\
+Sekarang kau dapat waktu untuk bicara?
+
+[1224] Aku sudah tak di sini; jangan berhenti,\
+siapa lagi yang mau berdebat dan membantahmu?"
+
+## Jawaban Ghirah {.judul-bagian}
+
+[1225] Kata Ghirah, "Ini tanda setia kawan,\
+maksudku berbagi duka denganmu.
+
+[1226] Jauh dari itu, kata-kata ini bukan celaan;\
+jangan sakiti kawan lama.
+
+[1227] Tapi duka dan desah tak memberi obat,\
+samudra darah ini tak memberi tepi.
+
+[1228] Tinggalkan hiruk pikuk sebanyak ini,\
+suara bergaung sia-sia seperti gunung.
+
+[1229] Jangan hilangkan diri karena satu luka,\
+tinggalkan ratapan, malu, malu!
+
+[1230] Atau kau kira perkara ini gampang?\
+Kau kira bala tentara duka cuma pawai?"
+
+## Jawaban Asmara {.judul-bagian}
+
+[1231] Asmara menatap dan berkata, "Apa pendapatmu?\
+Ya Rabb, bala apa yang menimpa kami, aduh!
+
+[1232] Ghirah sudah tak paham kata-kata,\
+atau lidahku yang kelu?
+
+[1233] Haruskah setiap desah itu desah rindu,\
+setiap tangis langsung pengaduan?
+
+[1234] Maafkan, kawan, maafkan:\
+Asmara ditugasi mendesah, ditugasi."
+
+## Jawaban Ghirah {.judul-bagian}
+
+[1235] Kata Ghirah, "Desah memang indah,\
+tapi apa gunanya bila tak pada tempatnya?
+
+[1236] Ketahuilah, padang-padang ini tak berseberang,\
+dan Jelita pun tak rela pada ini."
+
+## Jawaban Asmara {.judul-bagian}
+
+[1237] Kata Asmara, "Kau tak berakal,\
+tak mampu memahami baik dan buruk.
+
+[1238] Andai Jelita tak berkenan pada desah ini,\
+seketika langit lenyap.
+
+[1239] Kau kira desah itu uap kepala?\
+Kau kira ratapku tak berbekas?
+
+[1240] Semuanya dongeng pengantar tidur kekasih,\
+semuanya tembang di majelisnya.
+
+[1241] Walhasil, bagi Laila jadi bahan tertawa:\
+putus asa Qais dan jerih Naufal."
+
+## Ghirah Mencari Dalih Lain {.judul-bagian}
+
+[1242] Ghirah menghela desah pembakar dada,\
+siang pun jadi malam.
+
+[1243] Katanya, "Seribu kali barakallah,\
+rupanya Asmara tahu; kini aku tahu.
+
+[1244] Tapi kau perlu satu tekad,\
+kekasih harus kau tuntut.
+
+[1245] Pergilah, pinang kekasihmu di tengah kabilah;\
+kau elang raja, sambar buruanmu.
+
+[1246] Tinggalkan ratap, tuju sang kekasih;\
+seribu pendapat, hasilnya satu kerja.
+
+[1247] Aku pun menunggang kuda bersamamu,\
+di pegunungan bala aku teman gua.
+
+[1248] Dengan syarat kau bertekad\
+agar Suci mati oleh murkamu,
+
+[1249] atau beri aku izin dalam hal itu,\
+biar murkaku menumpas Suci.
+
+[1250] Pegang kataku ini, baik ini, baik;\
+Ghirah tak mau ada orang lain di tengah.
+
+[1251] Suci jadi sebab, Takjub pun jadi\
+penunjuk jalan perpisahan bagi yang sehati.
+
+[1252] Peristiwa ini kau pun tahu;\
+entah khayal apa yang merasukimu.
+
+[1253] Kalau kerang tak dibelah, mana mungkin\
+didapat permata dambaan?"
+
+## Asmara Tersinggung {.judul-bagian}
+
+[1254] Asmara berkata sambil menangis, "Diam!\
+Sekali ini dengarlah kata Sabda.
+
+[1255] Masa panah dilepas lurus ke arah kekasih?\
+Jangan kau melurus ke negeri itu.
+
+[1256] Kalau kau punya sedikit budi,\
+temani aku, berkhidmatlah padaku.
+
+[1257] Jangan takut kepala, jangan pikirkan nyawa,\
+ikuti pasarku, tanggunglah satu kerugian.
+
+[1258] Masa orang gila diberi petunjuk jalan?\
+Usul mentah ini justru yang paling matang.
+
+[1259] Masa wajah dihadapkan pada pedang?\
+Apakah setiap yang berkilau itu cermin?
+
+[1260] Kalau sanggup begini, mari ke sisiku;\
+kalau tidak, katakan apa yang kau anggap baik.
+
+[1261] Datang-datang bicara soal syarat dan janji,\
+seperti perempuan menembangkan lagu buaian:
+
+[1262] 'Kalau begini, biar begitu;\
+kalau begitu, biar begini.'
+
+[1263] Membuka bahasan ala madrasah,\
+hendak menghabiskan semua padaku."
+
+## Ghirah Menyanggupi Berkhidmat kepada Asmara {.judul-bagian}
+
+[1264] Kata Ghirah, "Aku berjanji, kawan:\
+tanpa pikir kepala, aku sehaluan denganmu.
+
+[1265] Sekali lagi pun takkan kubuka mulut,\
+biar nuri rahasia tinggal dalam sangkar ini.
+
+[1266] Kalau langit sepakat,\
+sehelai rambutmu hilang, kuserahkan kepalaku.
+
+[1267] Jangan sangka aku mencari jalan senang,\
+aku cuma menguji rindumu.
+
+[1268] Jangan sangka si sarat duka ini mengelak,\
+jangan tersinggung oleh omonganku."
+
+[1269] Ketika Ghirah melompati pedang begitu,\
+Asmara memberi isyarat dengan alis:
+
+[1270] "Mari ke sisiku, kita berangkat;\
+yang lalu biarlah berlalu, jangan cari dalih."
+
+[1271] Membaca Fatihah untuk niat ini,\
+Asmara memulai latihan pertama menuju pertemuan.
+
+## Asmara Meminang Jelita kepada Kabilah {.judul-bagian}
+
+[1272] Ghirah dan Asmara yang gesit\
+berhasrat mencapai tujuan.
+
+[1273] Mulla Gila memberi fatwa:\
+demi Jelita, berperang jadi fardu.
+
+[1274] Asmara, si penelan duka, bermaksud\
+mengetahui keadaan kabilah.
+
+[1275] Setiap orang mencari jalan bertemu,\
+mengaku jadi pencinta si jelita.
+
+[1276] Begini memang semestinya bala yang sulit:\
+Asmara seorang diri, seisi alam saingan.
+
+[1277] Seluruh kabilah dikumpulkan,\
+di sana Asmara mengajukan hajat:
+
+[1278] "Akulah peminang permata Jelita,\
+dalam perang pinangan aku yang unggul.
+
+[1279] Kalau Jelita mutiara, hatiku kerangnya;\
+kekasih dan jiwa saling menggantikan.
+
+[1280] Kalau Jelita mentari yang terang,\
+akulah langit bagi cahaya itu.
+
+[1281] Kalau gugatan ini sampai perlu siasat,\
+ini pena, ini pedang dan belati.
+
+[1282] Setiap lawan yang dibinasakan pedangku,\
+ratapan kematiannya aku yang menggubah."
+
+## Kabilah Mengejek: Alangkah Enaknya Harta Tanpa Jerih {.judul-bagian}
+
+[1283] Para pemuka kabilah Mahabbah\
+saling memberi isyarat:
+
+[1284] "Si tak berhati ini mulai ngelantur;\
+apa obat akal bagi orang majnun?"
+
+[1285] Masing-masing menggoda sebisa-bisanya,\
+si malang dijadikan bahan olok-olok.
+
+[1286] Ada yang bilang, "Jangan asah pedangmu,\
+pantanglah candu sepantang-pantangnya."
+
+[1287] Ada yang bilang, "Khayal itu bala;\
+aduh, derita ini tak ada obatnya."
+
+[1288] Ada yang bilang, "Jangan gemar syair,\
+sebab syair menguatkan khayal."
+
+[1289] Ada yang bilang, "Selamat atas takhta Tuan;\
+rajaku, semoga mujur nasib Tuan."
+
+[1290] Ada yang bilang, "Majzub yang ajaib benar;\
+cari hiburan, bukan, maunya?"
+
+[1291] Ada yang bilang, "Ini demam panas;\
+kalau tak dibekam, ya begini jadinya."
+
+[1292] Ada yang bilang, "Di tangannya ada pedang;\
+obat orang gila: rantai."
+
+[1293] Ada yang bilang, "Wajar kalau dibilang begitu,\
+sebab hartanya habis banyak."
+
+[1294] Dari segala penjuru pintu terbuka,\
+para tukang bual mengumbar omongan.
