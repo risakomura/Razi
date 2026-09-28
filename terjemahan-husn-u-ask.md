@@ -5482,3 +5482,483 @@ seribu macam sukacita hidup kembali.
 
 [1762] Asmara dihormati berulang-ulang,\
 diberi tempat di sisinya.
+
+## Perjamuan Bersuka {.judul-bagian}
+
+[1763] Seketika dibawakan anggur pagi,\
+bulan itu mencampur ruh dengan anggur.
+
+[1764] Nampan emas: mentari berkilau;\
+piala: bintang-bintang berkilat.
+
+[1765] Di pelukan singgasana, sang raja\
+memeluk Asmara seperti bulan.
+
+[1766] Anggur dan piala bergolak demi gelora,\
+bulan dan lingkaran cahayanya meneguk demi teguk.
+
+[1767] Anggur berapi itu berombak,\
+sampan-sampan berlayar seperti di laut.
+
+[1768] Anggur sewarna merah fajar,\
+cawan semerah mawar mengejek bulan.
+
+[1769] Cair, tapi bertabiat delima,\
+tinta delima bagi bab-bab *Fusus al-Hikam*.
+
+[1770] Tabiat yang lahir dari nyala penuh nikmat,\
+tiap tegukan membangkitkan seribu ketulusan.
+
+[1771] Anggur, tapi darah merak yang murni,\
+dalam mabuknya seribu warna terasa.
+
+[1772] Irama lagu dan gamelan dimulai,\
+biduannya mabuk, suaranya nyala.
+
+[1773] Di tangan saki piala cahaya,\
+dahan kristal menumbuhkan mawar.
+
+[1774] Saki itu si bagai peri sendiri,\
+bidadari yang anggurnya api.
+
+[1775] Nampan anggur murni sebuah kolam,\
+narsis di bibir kolam cawan berkilau emas.
+
+[1776] Kendi dan piala bibir bertemu bibir,\
+bagi si rind tanah dan permata sama.
+
+[1777] Pasar itu ramai kilau,\
+sampan pergi kosong, pulang penuh.
+
+[1778] Melihat itu kendi bersyukur,\
+tak henti-henti bersujud.
+
+[1779] Bulan dalam cahaya bulan, cahaya bulan dalam bulan,\
+anggur tenggelam di botol, botol di anggur.
+
+[1780] Setelah samudra api jadi tamasya,\
+topan anggur tampak bergolak.
+
+[1781] Anggur buah anggur seperti yakut,\
+piala cahaya seperti intan.
+
+[1782] Bila saki mulai menyindir,\
+anggur menjadi sewarna arak putih.
+
+[1783] Warna anggur terbang pudar,\
+seolah menjadi bulbul bagi piala.
+
+[1784] Bila si bertubuh melati itu tersipu,\
+arak menjadi anggur merah.
+
+[1785] Sekejap peri itu menjadikan\
+cawan susu darah Farhad.
+
+[1786] Cawan berkilau di tangan tatapan:\
+permata nyawa di tangan Izrail.
+
+[1787] Setiap tatapan meminumkan seribu cawan,\
+pedang desah ditimang-timang mata.
+
+[1788] Dalam mabuk itu Asmara melepas pedang,\
+berkata, "Pedang itu ada di depan mata."
+
+## Nasib Asmara {.judul-bagian}
+
+[1789] Pagi semerah mawar itu mengambil pedang,\
+pergi meninggalkan Asmara merintih, berdarah hati.
+
+[1790] Asmara yang bergelora memandang kebun itu:\
+tak tampak tentara peri, tak tampak bidadari.
+
+[1791] Tak ada bulan, tak ada rombongan bintang,\
+tak ada raja, tak ada kursi bertatah permata.
+
+[1792] Hati baru mulai menggeliat,\
+ditimpa seribu gelisah.
+
+[1793] "Rupanya pertemuan itu perpisahan, sayang;\
+bagi pencinta, bersuka itu mustahil, sayang."
+
+[1794] Permulaan diberi akhir,\
+pagi malam itu jadi senja.
+
+[1795] Karena Asmara menyangka si genit itu Jelita,\
+tertipu rupa, lalu percaya.
+
+[1796] Jalan menakutkan, pedang desah hilang,\
+si kekasih yang dikenal itu telah meninggalkan.
+
+[1797] Tak kuat berjalan, tak kuat bertahan,\
+Asmara dan Ghirah tertinggal dalam bala.
+
+[1798] Setiap memandang kebun penuh keburukan itu,\
+bala jarak menyelar hati.
+
+[1799] Terpana dan tercengang pada rupa itu,\
+disangkanya Jelita, lalu meratap.
+
+## Sabda Memberi Kabar dalam Rupa Burung Kuau {.judul-bagian}
+
+[1800] Terdengar seekor kuau yang congkak\
+menyampaikan pesan berapi begini:
+
+[1801] "Itu putri Raja Cina;\
+jangan kira Jelita, itu lukisan dendam.
+
+[1802] Nama gadis itu Pencuri Akal,\
+pembunuh manusia berparas peri.
+
+[1803] Kalau besok bulan itu datang ke kebun ini,\
+aduh, kau dibawa ke Benteng Rupa-Rupa."
+
+[1804] Asmara mengumpulkan akal ke kepala,\
+tapi percuma, sudah terbakar seperti lilin.
+
+[1805] Mawar haribaan pertemuan itu tinggal\
+di kebun itu seperti burung hantu perantauan.
+
+[1806] Benarlah, gadis bertubuh melati itu\
+kembali menjadikan kebun itu kediaman.
+
+[1807] Kembali menatap sekeliling,\
+memandang Asmara seperti semula.
+
+[1808] Meneguk anggur yang jernih itu,\
+samudra kasih bergolak.
+
+[1809] Dengan satu isyarat kepada Asmara,\
+dibawanya berjalan beriringan.
+
+[1810] Menuju Benteng Rupa-Rupa,\
+raja yang tiada dua itu turun ke jalan.
+
+[1811] Ketika si petaka itu menunggang kuda merah\
+dan hendak berangkat, Ghirah pun tahu.
+
+[1812] Katanya kepada Asmara, "Aduh,\
+jangan ikut, kau akan tersesat.
+
+[1813] Kau dengar apa kata kuau si nuri;\
+aku tak bisa diam sebegini."
+
+[1814] Kata Asmara, "Saudaraku,\
+kau lihat raja itu? Mirip Jelita.
+
+[1815] Karena dari satu sisi berkerabat dengan kekasih,\
+andai membunuhku pun, pantas.
+
+[1816] Bukankah rida yang pertama dituju?\
+Tak senangkah kau pada perkara ini?"
+
+[1817] Ghirah, setia pada janji,\
+mau tak mau mengikuti si sesat itu.
+
+[1818] Asmara dan Ghirah bersama si bertubuh melati\
+tiba di benteng itu bersama-sama.
+
+[1819] Apa yang terlihat? Benteng yang ganjil,\
+di setiap sisinya rupa-rupa, benteng yang ajaib.
+
+[1820] Begitu masuk dari sebuah pintu,\
+seketika pintu tertutup dan lenyap.
+
+[1821] Si petaka itu pun menghilang,\
+Asmara dan Ghirah terkurung di sana.
+
+## Lukisan Benteng Rupa-Rupa {.judul-bagian}
+
+[1822] Benteng yang serupa Somnath,\
+tiap batu hitamnya serupa Lata.
+
+[1823] Pasarnya sewarna gereja,\
+kota raya tanpa pintu.
+
+[1824] Setiap lorong dan jalannya pasar Yusuf,\
+di dinding-dindingnya lukisan orang elok.
+
+[1825] Lukisannya menyamai langit gugus bintang,\
+serupa kamar Zulaikha.
+
+[1826] Seakan pahatan Bisutun,\
+Syirin-Syirinnya bulan semerah tulip.
+
+[1827] Tiap kubahnya buatan tangan Farhad,\
+tapi tiap batunya kubur Farhad.
+
+[1828] Tak lain jimat khayal,\
+tiap rupa upeti negeri rupa.
+
+[1829] Marmernya tatahan halus tanpa warna,\
+dindingnya memamerkan rupa-rupa Arzhang.
+
+[1830] Setiap menara lentera khayal,\
+hadiah baru bagi zaman.
+
+[1831] Rupa-rupa halus di sana semua\
+setipis khayal Syaukat.
+
+[1832] Hayula terpisah dari rupa,\
+masa depan tunggal bersama setengah nyawa.
+
+[1833] Rupanya yang melukis semua itu\
+putri Raja Cina si penipu.
+
+[1834] Seperti bayangan si pencinta,\
+tipu dayanya tak cocok dengan kenyataan.
+
+[1835] Si penuntut kezaliman melukis rupa-rupa ini\
+dengan kuas bulu mata peri.
+
+[1836] Bila membuat Mani malu,\
+gincu sendawanya jadi otak Bihzad.
+
+[1837] Walhasil, mentari timur Cina itu\
+telah menghias benteng ini.
+
+[1838] Setiap rupa diperhatikan Asmara,\
+menyebut Jelita, mendesah perpisahan.
+
+[1839] Kata Ghirah, "Naiklah ke kuda merah,\
+jangan tinggal di benteng ini, jadilah penempuh."
+
+[1840] Begitu Asmara yang tiada dua menunggang kuda,\
+debu jalan dibuatnya menjulang ke langit.
+
+[1841] Mulai melipat jalan itu,\
+seketika menempuh jalan seribu bulan.
+
+[1842] Ketika mentari sampai ke barat,\
+ternyata dua langkah pun belum ditempuh.
+
+[1843] Masih terkurung di Benteng Rupa-Rupa,\
+melihat keadaan diri, putus asa.
+
+[1844] Segala yang dulu pernah terjadi\
+di benteng ini terjadi lagi secara rinci:
+
+[1845] jatuh lagi ke sumur seperti dulu,\
+ditangkap bala tentara genderuwo;
+
+[1846] menempuh padang salju yang ngeri,\
+melihat musibah yang membinasakan;
+
+[1847] bergulat dengan si penyihir,\
+di jalan muncul laut api;
+
+[1848] masih banyak lagi rupa ngeri pengiris nyawa,\
+bertahun-tahun rintih, tangis, dan desah.
+
+[1849] Dengan seribu takut Asmara menempuh jalan itu,\
+sebab pedang desah tak lagi di tangan.
+
+[1850] Tiba-tiba jalan makna terbuka,\
+Asmara yang tiada dua menoleh dan melihat:
+
+[1851] persinggahan itu masih persinggahan yang dulu,\
+rupa-rupa itu, benteng berjimat itu.
+
+[1852] Mengadu kepada Sesembahan,\
+menuturkan keadaan hati:
+
+[1853] "Ya Rabb, berilah si genit itu belas kasih;\
+aku sakit, berilah si genit itu sehat.
+
+[1854] Dengan setetes embun ini senangkanlah bulan itu,\
+sebab tercapainya maksud dari-Mu.
+
+[1855] Tak lagi ditanyakannya keadaanku,\
+sebab kami telah menyembah rupa.
+
+[1856] Aku tak berdaya; Engkau Maha Tahu;\
+saat itu aku tiada; Engkau Qadim.
+
+[1857] Mengakui dosa itu perkara sulit,\
+tapi mana mungkin menuduh kekasih zalim?
+
+[1858] Mari, jangan hukum cinta kiasanku,\
+bila tuturku mengandung isti'arah.
+
+[1859] Mustahil ada yang menyamai-Mu;\
+mustahil Engkau lain dan bulan itu lain.
+
+[1860] Karena aku tawanan langit yang berganti-ganti warna,\
+mungkinkah tuturku mantap?
+
+[1861] Pasanglah rantai pada si penyembah berhala ini,\
+tarik ke kehambaan dalam keadaan remuk.
+
+[1862] Penuhi segala maksudku,\
+sampaikan aku ke maksud yang azali.
+
+[1863] Biar si jelita itu menarikku ke dada,\
+nikmat dan dukanya menyatu denganku seperti susu dan gula.
+
+[1864] Luruskan; tapi mustahil ini,\
+aduhai, ini khayal belaka.
+
+[1865] Meminta yang mustahil dari-Mu itu benar,\
+setiap dambaan mungkin terjadi, itu benar.
+
+[1866] Mustahil kukatakan, biar rindu pergi;\
+biar kesenangan bertambah, perpisahan pergi.
+
+[1867] Bagi yang riang hatinya, rindu itu bala,\
+bagi ahli bala, sebuah kesenangan.
+
+[1868] Biar cawan abadi itu memabukkanku,\
+biar pertemuan menambah rindu.
+
+[1869] Aku pesakit duka, penagih derita,\
+sudah lama akrab dengan derita.
+
+[1870] Samakan warna obatku dengan deritaku,\
+selaraskan tembangku dengan ratapku."
+
+## Sabda Memberi Kabar dalam Rupa Bulbul {.judul-bagian}
+
+[1871] Selagi bulan itu berkeliling sambil meratap,\
+tiba-tiba tampak seekor bulbul mabuk.
+
+[1872] Bulbul itu, menyapa Asmara,\
+menyambung-nyambung rantai duka:
+
+[1873] "Di benteng ini ada perbendaharaan,\
+jangan kira kosong, ada harta karun.
+
+[1874] Bakarlah, biar naik ke langit,\
+jadilah pemilik harta cuma-cuma itu.
+
+[1875] Kalau istana indah ini tak kau bakar,\
+takkan kau temukan selamanya si pencuri hati.
+
+[1876] Dan putri Raja Cina yang congkak itu\
+akan menjadikan hatimu kebab api.
+
+[1877] Selama kubah tinggi ini belum terbakar,\
+tak ada kemungkinan kau keluar.
+
+[1878] Jangan bersusah payah sia-sia,\
+pintu ini terkunci dengan mantra.
+
+[1879] Ibu gadis itu peri,\
+si gadis membelimu dengan nyawa.
+
+[1880] Di antara keduanya banyak tarik-menarik,\
+sebab api tak akrab dengan tanah.
+
+[1881] Akhirnya para peri mengincarmu,\
+darah hatimu dijadikan anggur.
+
+[1882] Anggur yang diminum di kebun itu\
+seluruhnya darah raja-raja.
+
+[1883] Kalau tak mendapat kesempatan mengambil pedangmu,\
+tak akan berani memenjarakanmu."
+
+[1884] Begitu Asmara paham perkara ini,\
+bangunan itu dibakar.
+
+[1885] Ketika gereja itu tersulut,\
+banyak salib berkumpul dengan Isa.
+
+[1886] Rupa-rupanya naik ke langit,\
+tujuh sarang ini pun terhias.
+
+[1887] Desah dingin diterbangkan lagi,\
+si penyabung nyawa itu aman dari api.
+
+[1888] Benteng terbakar, tanah itu terbakar,\
+putri Raja Cina pun terbakar.
+
+[1889] Terbukalah sebuah perbendaharaan berjimat,\
+di sana seluruh alam terlukis.
+
+[1890] Tapi di dalamnya tak ada Jelita yang tiada dua;\
+Asmara tak menontonnya.
+
+[1891] Di tanah itu ditemukan pedang desah,\
+juga anak panah doa dini hari.
+
+[1892] Si bagai peri itu kembali ke jalan,\
+membakar diri laksana api.
+
+[1893] Tapi jalan macam apa! Tiap langkah sumur,\
+tiap helai rumputnya ular pencabut nyawa.
+
+[1894] Bila teringat pada kekasih,\
+diulang-ulangnya kata ini:
+
+[1895] "Wahai bulan, cukup, cukup aniaya ini;\
+tolonglah jeritku, sebab jerit pun sudah habis."
+
+## Lukisan Lemahnya Asmara {.judul-bagian}
+
+[1896] Kelemahan kian bertambah\
+hingga tak sanggup lagi mendesah dan menjerit.
+
+[1897] Seperti bayang, jatuh dari kuda merah,\
+bunga api terpisah dari bara.
+
+[1898] Bulan dunia itu menjadi bulan sabit,\
+mentari kemuliaan tergelincir.
+
+[1899] Anggur keelokan berkurang,\
+tinggal seteguk di dasar piala kosong.
+
+[1900] Kelemahan yang ujung dari kelemahan,\
+bahkan di balik ketiadaan.
+
+[1901] Menjadi gelembung di laut duka,\
+tiap menghela napas, hancur.
+
+[1902] Rupa tanpa hayula,\
+makna lain tanpa beban huruf.
+
+[1903] Tak kuat lagi tubuh memikul pakaian,\
+sutra cahaya bulan pun jadi beban.
+
+[1904] Andai warna pipi mengembangkan sayap,\
+terbang ke negeri ketiadaan.
+
+[1905] Nyala seperti kunang-kunang,\
+kadang tampak, kadang lenyap.
+
+[1906] Tatapan jadi laut bagi mata,\
+cahaya tatapan menutup jalan.
+
+[1907] Tenggelam dalam lemah, si malang itu\
+menyangka warnanya sendiri samudra darah.
+
+[1908] Benang pikiran jadi rantai,\
+tak sanggup menjelajah negeri pikir.
+
+[1909] Seakan urat sinar tatapannya\
+menangkapnya seperti jala ikan.
+
+[1910] Kelemahan membuatnya begitu layu:\
+nyala, tapi nyala yang mati.
+
+[1911] Kalau bergerak, berubah jadi udara;\
+kalau bergumam, berubah jadi suara.
+
+[1912] Tersakiti oleh gelembung anggur,\
+layu oleh harum mawar.
+
+[1913] Tak sanggup menempuh bulan dan tahun,\
+tak tersisa kemungkinan hidup.
+
+[1914] Setiap saat umur berlalu,\
+bagian-bagian tubuh tercerai-berai.
+
+[1915] Bagian? Jangan sebut bagian: atom yang tak terbagi,\
+membaginya pun tak termuat khayal.
+
+[1916] Tiap helai rambut di tubuh seolah rantai,\
+tapi rantai itu terlukis pada bayangannya.
+
+[1917] Kalau wajahnya tampak dan kau pandang cermat,\
+ketiadaan dan kemungkinan berhimpun di sana.
+
+[1918] Siapa pun yang melihat akan mengakui\
+bahwa baka nyata di dalam fana.
