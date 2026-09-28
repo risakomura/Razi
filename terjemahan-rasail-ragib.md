@@ -14,9 +14,9 @@
 | Butir | Keterangan |
 |---|---|
 | Tahap | Penerjemahan berjalan |
-| Sudah diterjemahkan | Risalah Pertama: mukadimah, Bab Pertama s.d. Ketiga |
-| Posisi berikutnya | Risalah Pertama, Bab Keempat |
-| Nomor catatan terakhir | CM s5 · CP p17 · CD d11 |
+| Sudah diterjemahkan | Risalah Pertama: mukadimah, Bab Pertama s.d. Kelima |
+| Posisi berikutnya | Risalah Pertama, Bab Keenam |
+| Nomor catatan terakhir | CM s5 · CP p30 · CD d14 · CT t1 |
 | Catatan istilah | lihat 3.3 |
 
 ---
@@ -360,3 +360,155 @@ Siapa yang memperhatikan macam-macam cinta dan sebab-sebabnya sebagaimana dirinc
 [^d11]: CD: Hadis yang sama dan gagasan yang sama dikemukakan dalam *al-Dharīʿa*, Pasal Kelima, "Orang yang Dicintai Manusia". Terjemahannya di atas mengikuti redaksi terjemahan *al-Dharīʿa*. Di sana al-Rāghib menjelaskan sebabnya: orang yang dipelihara Allah, lalu Dia menjernihkan substansinya dan membaikkan rohnya, memperoleh cahaya yang mengalir ke dalam perasaan orang yang melihatnya sehingga orang itu mencintainya. Di sini sebab yang sama disebut "keutamaan yang khusus ada pada jiwanya".
 
 [^p17]: CP: Keempat sebab itu tidak disebut satu per satu. Dari urutan uraian dapat disimpulkan bahwa yang dimaksud ialah keutamaan, manfaat, dan kelezatan (Bab Kedua), ditambah keserupaan naluriah (Bab Ketiga), yang membuat seseorang dicintai atau dibenci tanpa sebab dari luar. Penyunting juga menyimpulkan demikian.
+
+## Bab Keempat: Pengutamaan Macam-Macam Cinta dan Penjelasan Mana yang Termasuk Jenis yang Mana {.judul-bab}
+
+Telah dikemukakan bahwa cinta karena keutamaan membawa serta manfaat dan kelezatan, dan cinta karena manfaat membawa serta kelezatan, tetapi tidak sebaliknya; sebab manfaat tidak mengandung keutamaan, dan kelezatan sama sekali tidak mengandung keutamaan, dan tidak pula mengandung manfaat kecuali sedikit.
+
+Bila hal itu telah tetap, wajib diketahui bahwa cinta Allah kepada hamba-hamba-Nya, cinta orang-orang utama kepada Allah, cinta Rasul kepada mereka dan cinta mereka kepada Rasul, cinta para ulama satu sama lain, cinta mereka kepada murid-murid mereka dan cinta murid-murid itu kepada mereka, cinta para pemimpin kepada yang dipimpin, dan cinta orang yang diutamakan kepada orang yang ia diutamakan atasnya, semuanya adalah cinta karena keutamaan.
+
+Adapun cinta orang yang diungguli kepada orang yang mengunggulinya, cinta yang dipimpin kepada pemimpinnya, cinta suami istri satu sama lain bila keduanya bertujuan menata kehidupan bersama,[^p18] serta cinta tuan kepada budaknya dan budak kepada tuannya, semuanya termasuk cinta karena manfaat.
+
+Adapun cinta saudara-saudara dan kerabat satu sama lain, ia bersifat naluriah, dan kadang-kadang karena manfaat. Cinta anak kepada kedua orang tuanya demikian pula, dan cinta kedua orang tua kepada anaknya bersifat naluriah. Kemudian, ketika anak masih kecil, cinta itu disertai kelezatan dan harapan akan manfaat; ketika ia sudah dapat melayani keduanya, cinta itu disertai manfaat; dan bila keduanya memperhatikannya lalu menghiasinya dengan adab yang baik, cinta keduanya kepadanya menjadi tergolong cinta karena keutamaan.[^p19]
+
+Adapun cinta kepada harta dan kedudukan, cinta suami istri satu sama lain dan cinta pencinta kepada yang dicintainya bila tujuan keduanya tidak lain hanyalah persetubuhan, dan cinta teman bersenda gurau kepada teman bersenda guraunya, semuanya karena kelezatan. Kadang-kadang dalam sebagiannya terdapat manfaat, yaitu bila hal itu dilakukan menurut kadar yang semestinya, di tempat yang semestinya, dan dengan cara yang semestinya.[^p20]
+
+Jika ditanyakan: Apa sebab berlebihnya cinta seorang ayah kepada anaknya, sampai-sampai ia menginginkan untuk anaknya apa yang ia inginkan untuk dirinya sendiri, gembira melihatnya lebih utama daripada dirinya, tidak merasa tidak senang bila dikatakan kepadanya, "Anakmu lebih utama daripada engkau," cintanya kepadanya bertambah dari hari ke hari, dan ia begitu tergila-gila kepadanya hingga menjadi pandir, lalu karenanya ia menjadi bahan tertawaan yang dijadikan perumpamaan, sehingga dikatakan: "Ia kagum kepada anu seperti kagumnya seseorang kepada anaknya," dan "Seorang anak tampak elok di mata ayahnya"?
+
+Dijawab: Sebabnya ialah bahwa pada anak itu terhimpun hampir seluruh sebab cinta. Selain adanya cinta naluriah kepadanya, sang ayah melihat anaknya sebagai dirinya sendiri, sebagai salinan rupanya dalam pribadi yang lain. Maka ia mencintainya seperti cintanya kepada dirinya sendiri, bahkan lebih dari itu, sebab ia melihat anaknya sebagai bagian dirinya yang tetap tinggal sesudahnya; dan perhatian manusia terhadap dirinya tertuju kepada yang akan datang, bukan kepada yang telah lalu.
+
+Karena manusia, bila keadaannya bertambah sedikit demi sedikit dan ia naik dalam keutamaan setingkat demi setingkat, tidak merasa berat bila dikatakan kepadanya, "Engkau hari ini lebih utama daripada engkau kemarin," demikian pula keadaannya terhadap anaknya bila dikatakan kepadanya, "Ia lebih utama daripada engkau dahulu," sebab anak itu, secara perkiraan, adalah dirinya sendiri.[^p21]
+
+Adapun bertambahnya cintanya dengan berlalunya hari, itu karena makin kokohnya pengenalannya terhadap anaknya, makin bertambahnya kegembiraannya, dan makin pastinya ia akan kekalnya rupanya. Adapun keterpesonaannya kepada anaknya seperti keterpesonaannya kepada dirinya sendiri, itu karena anak itu adalah dirinya; sebagaimana aib-aib manusia pada dirinya sendiri tersembunyi darinya, demikian pula aib-aib itu tersembunyi darinya pada anaknya.
+
+Jika ditanyakan: Mengapa anak tidak mencintai ayahnya sebagaimana ayah mencintainya, padahal ia sama dengan ayahnya dalam makna-makna yang telah disebutkan; bahkan ia membenci dan tidak menyukainya, sampai-sampai Allah Ta'ala, karena mengetahui hal itu pada keduanya, mewasiatkan anak untuk berbuat baik kepada ayahnya dengan firman-Nya: *"maka sekali-kali janganlah engkau mengatakan kepada keduanya perkataan 'ah' dan janganlah engkau membentak keduanya, dan ucapkanlah kepada keduanya perkataan yang baik"* (al-Isra': 23), dan memperingatkan ayah terhadap anaknya dengan firman-Nya, Mahaperkasa Yang Berfirman: *"Sesungguhnya hartamu dan anak-anakmu hanyalah cobaan (bagimu)"* (at-Taghabun: 15)?
+
+Dijawab: Anak pasti mencintai ayahnya karena kesamaan substansi (*jawhariyya*) di antara keduanya,[^r-jawhar] tetapi cintanya kepada ayahnya lebih kecil daripada cinta ayah kepadanya, karena beberapa hal.[^p22]
+
+**Pertama**: meskipun anak adalah ayah itu sendiri, ayah adalah bagian yang pergi sedang anak adalah bagian yang tinggal; dan telah ditetapkan bahwa perhatian manusia tertuju kepada bagian dirinya yang tinggal, bukan kepada yang telah lalu.
+
+**Kedua**: manusia lebih mencintai apa yang ia usahakan daripada cinta yang diusahakan kepada yang mengusahakannya. Karena itu tuan lebih mencintai budaknya daripada budak mencintai tuannya.
+
+**Ketiga**: anak tidak mengenal ayahnya kecuali sesudah masa yang panjang, dan tidak menyadari manfaat keberadaan ayahnya kecuali sesudah beberapa waktu; sedang ayah telah terpaut kepadanya sejak air maninya menetap di sulbinya.
+
+**Keempat**: selain itu, kadang-kadang timbul hal-hal yang mengalahkan cinta naluriah itu lalu melenyapkannya, yaitu keinginan si anak terhadap harta ayahnya, kesibukannya menanggung biaya hidup ayahnya, dan kemalasannya menunaikan kewajiban hak-hak ayahnya.[^p23]
+
+Jika ditanyakan: Maka cinta seseorang kepada dirinya sendiri termasuk jenis yang mana? Dijawab: Hal itu berbeda-beda.
+
+Allah Ta'ala menciptakan manusia dari campuran-campuran yang berbeda-beda (*amshāj*), dan menyusun di dalamnya daya-daya yang saling berlainan, yaitu akal, amarah, dan syahwat, yang masing-masing menariknya; lalu ia diperintahkan untuk meletakkan setiap daya pada tempat yang diperintahkan baginya.[^p24][^t1] Hendaklah ia mengobati jiwanya dengan meminta pertolongan kepada anugerah akal dan memohon taufik Tuhan, Yang Mahaperkasa lagi Mahaagung, agar ia sampai kepada tujuan yang terjauh. Bila ia berbuat demikian terhadap jiwanya, cintanya kepada jiwanya adalah cinta karena keutamaan. Bila ia menguasakan daya amarah dan syahwatnya atas akalnya, mengikuti hawa nafsunya, dan menjadi budak syahwatnya serta alat bagi perut dan kemaluannya, maka cintanya kepada dirinya adalah cinta syahwat, jika memang ia masih mempunyai cinta kepadanya; sebab bagaimana ia dapat dikatakan mencintainya, padahal ia berbuat buruk kepadanya?[^p25]
+
+Seorang bijak berkata kepada seorang sultan yang meminta, "Berilah aku wasiat": "Jika engkau mampu untuk tidak berbuat buruk kepada orang yang engkau cintai, lakukanlah." Sultan itu bertanya: "Apakah seseorang berbuat buruk kepada orang yang ia cintai?" Ia menjawab: "Ya, kepada dirimu sendiri: jika engkau mendurhakai Allah, sungguh engkau telah berbuat buruk kepadanya."
+
+Jika ditanyakan: Ucapanmu ini menuntut bahwa cinta manusia kepada dirinya itu terpuji, padahal riwayat-riwayat datang dengan kebalikannya. Tidakkah engkau lihat diriwayatkan: *"Siapa yang mencintai dirinya, Allah membencinya dan manusia membencinya"*?
+
+Dijawab: Yang dimaksud dengan itu hanyalah cinta karena syahwat, dan telah dikemukakan bahwa cinta semacam itu tercela.
+
+Cinta kadang-kadang dicela dan kadang-kadang dipuji, sesuai dengan kepada apa ia dinisbatkan dan dengan apa ia diukur. Bila yang dimaksud dengannya adalah hawa nafsu dan apa yang diserukan syahwat, maka itu tercela; atas dasar itu dikatakan: *"Cintamu kepada sesuatu membuat buta dan tuli."*[^r-hawa][^d12] Bila yang dimaksud adalah apa yang dituntut akal dalam cinta kepada keutamaan, seperti yang terdapat dalam cinta kepada Allah Ta'ala, kepada Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, dan kepada orang-orang saleh, maka itu terpuji; dan hal itu jelas.
+
+[^p18]: CP: Dalam edisi tahkik tertulis *idhā taḥarrayā iṣlāḥ al-rūḥāniyya* ("bila keduanya bertujuan memperbaiki kerohanian"). Penyunting mencatat bahwa kata itu tidak jelas dalam naskah, dan penerjemah Turki menilai ungkapan itu tidak sesuai dengan konteks. Dalam deretan cinta karena manfaat, ungkapan "memperbaiki kerohanian" memang janggal; yang dituntut konteks adalah tujuan duniawi bersama, seperti menata rumah tangga dan kehidupan. Terjemahan di atas mengikuti tuntutan konteks itu; bacaan asli kata tersebut belum dapat dipastikan. Bandingkan cinta suami istri karena kelezatan dalam paragraf berikutnya.
+
+[^p19]: CP: Edisi tahkik mengulang kalimat "cinta anak kepada kedua orang tuanya demikian pula, dan cinta kedua orang tua kepada anaknya bersifat naluriah" dua kali, dan penyunting sendiri mencatat pengulangan itu; kalimat kedua diabaikan. Kata *ṭarāʾat al-walad* dipahami penyunting sebagai "dorongan anak", tetapi yang dimaksud adalah *ṭarāʾa*/*ṭarāwa*, yakni masa muda dan lembutnya anak (masa kecil), lawan dari masa ia sudah dapat melayani orang tuanya. Kata yang tidak jelas dalam naskah dibaca *fa-ḥallayāhu* ("lalu keduanya menghiasinya").
+
+[^p20]: CP: Edisi tahkik membaca *bi-qadri mā yuḥibbu, ḥaythu mā yajibu ʿalā mā yajibu*. Kata pertama dibaca *yajibu*, sehingga terbentuk rumus tiga syarat yang lazim dalam etika al-Rāghib: menurut kadar yang semestinya, di tempat yang semestinya, dan dengan cara yang semestinya. Terjemahan Turki mengikuti bacaan tahkik dan memahaminya "bila kadar cinta kedua pihak sama". Kata *al-malhā li-l-malhā* dibaca *al-mulhī li-l-mulhā*, yakni orang yang menghibur dan yang dihibur, kawan bersenda gurau.
+
+[^p21]: CP: Edisi tahkik membaca *idhā yurīdu li-nafsihi ḥālan fa-ḥālan* ("bila ia menghendaki untuk dirinya keadaan demi keadaan"); kami membacanya *yazīdu* ("bertambah"), sejajar dengan "naik dalam keutamaan setingkat demi setingkat". Ungkapan "anak adalah dirinya secara perkiraan" (*huwa huwa taqdīran*) berarti bahwa anak bukan ayah itu sendiri secara hakiki, tetapi dianggap demikian karena ia kelanjutan dari wujud dan rupanya.
+
+[^r-jawhar]: **Substansi** (*jawhar*, *jawhariyya*). Lihat catatan istilah *jawhar* dalam terjemahan *Tafṣīl*, catatan no. 36 (`k-jawhar`). Di sini *jawhariyya* berarti kesamaan asal dan pembawaan antara ayah dan anak, yakni bahwa anak berasal dari substansi ayahnya.
+
+[^p22]: CP: Pembagian empat sebab ini menggemakan pembahasan filsafat etika tentang mengapa orang tua lebih mencintai anaknya daripada anak mencintai orang tuanya, dan mengapa pemberi kebaikan lebih mencintai penerima kebaikan daripada sebaliknya: orang tua mengenal anaknya sebagai bagian dari dirinya sejak awal, sedang anak baru mengenal orang tuanya sesudah waktu yang lama; dan seseorang mencintai hasil karyanya seperti seniman mencintai karyanya. Sebab kedua ("manusia lebih mencintai apa yang ia usahakan") dipahami keliru oleh penyunting ("anak lebih mencintai apa yang ia ambil dari ayahnya daripada ayahnya sendiri"); yang dimaksud adalah ayah yang "mengusahakan" anak, seperti tuan yang memperoleh budaknya.
+
+[^p23]: CP: Terjemahan Turki menisbatkan ketiga penghalang ini kepada ayah (ayah menginginkan harta anaknya, ayah malas menunaikan kewajibannya). Konteksnya adalah berkurangnya cinta anak kepada ayahnya, maka ketiganya adalah keadaan si anak. Kata *tūfī ʿalā* berarti "melebihi, mengalahkan".
+
+[^p24]: CP: Edisi tahkik membaca *min ashbāḥ mukhtalifa* ("dari sosok-sosok yang berbeda-beda"), dan penyunting menafsirkannya sebagai sistem-sistem organ tubuh. Kami membacanya *min amshāj mukhtalifa* ("dari campuran-campuran yang berbeda-beda"), dengan mengacu kepada firman Allah: *"Sungguh, Kami telah menciptakan manusia dari setetes mani yang bercampur (amshāj)"* (al-Insan: 2). Kalimat sesudahnya ("menyusun di dalamnya daya-daya yang saling berlainan") sesuai dengan penafsiran ayat itu dalam *Tafṣīl* (lihat catatan t1).
+
+[^t1]: CT: Dalam *Tafṣīl*, Bab Keempat, "Daya-Daya Segala Sesuatu yang Terhimpun dalam Diri Manusia", al-Rāghib menafsirkan *amshāj* dalam al-Insan: 2 sebagai "bercampur dari daya-daya berbagai hal yang berbeda". Di sana manusia menghimpun daya-daya seluruh alam sehingga disebut alam kecil; di sini yang disebut hanya tiga daya jiwa (akal, amarah, syahwat) yang masing-masing menarik manusia ke arahnya, dan tugas manusia adalah meletakkan setiap daya pada tempatnya.
+
+[^p25]: CP: Edisi tahkik membaca *raʾy yuḥibbuhā wa-huwa musīʾ ilayhā*, yang tidak bermakna; kami membacanya *annā yuḥibbuhā* ("bagaimana ia mencintainya"). Terjemahan Turki juga memahaminya sebagai pertanyaan ("Kişi kötülük ettiği birini seviyor olabilir mi?"). Ungkapan *āla li-ʿāriyat baṭnihi wa-farjihi* tidak jelas; kami menerjemahkannya secara umum "alat bagi perut dan kemaluannya".
+
+[^r-hawa]: **Hawa nafsu** (*hawā*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 66 (`m-hawa`, *al-Mufradāt*).
+
+[^d12]: CD: Hadis yang sama dipakai dalam *al-Dharīʿa*, Pasal Ketiga, "Ujub", dengan kesimpulan yang sejalan: "Asal ujub adalah cinta manusia kepada dirinya. … Siapa yang buta dan tuli sulit melihat aib-aibnya." Di sini al-Rāghib lebih membedakan: cinta kepada diri tercela bila ia cinta syahwat, dan terpuji bila ia berarti menuntun diri kepada keutamaan. Kalimat sebelumnya tentang ayah yang tidak melihat aib anaknya "sebagaimana aib-aib manusia pada dirinya sendiri tersembunyi darinya" menerapkan gagasan yang sama.
+
+## Bab Kelima: Hakikat Kasih Sayang, Cinta, Persahabatan, dan Saudara-Saudaranya, serta Asal-Usul Katanya {.judul-bab}
+
+Cinta ialah mengutamakan apa yang engkau lihat atau sangka baik.[^p26] Telah dikemukakan bahwa hal itu hanya ada pada manusia; adapun yang ada pada hewan adalah keakraban.
+
+Asal kata ini adalah *ḥabb* (biji-bijian). Darinya dipinjam *ḥabbat al-qalb* (biji kalbu), karena diserupakan dengannya, sebab bentuknya tergambar seperti bentuk biji. Maka dikatakan *ḥabba fulān* (si fulan menjadi tercinta), yang asalnya *ḥabuba*, seperti *ẓarufa* dan *karuma*; kemudian dikatakan *aḥbabtuhu* (aku mencintainya), seperti *akramtuhu*. Adapun *ḥabibtuhu*, asalnya berarti "aku mengenai biji kalbunya", seperti *shaghaftuhu*, "aku mengenai selaput (*shaghāf*) kalbunya"; tetapi dalam pemakaian lazim ia berlaku seperti *aḥbabtuhu*, sampai-sampai *maḥbūb* dipakai sebagai ganti *muḥabb* (yang dicintai). *Al-ḥibb* berarti yang dicintai, seperti *niqḍ* dalam arti yang dirombak. *Ḥubābuka an yakūna kadhā*, dikatakan maknanya: puncak cintamu, yakni hakikat cintamu terbatas padanya; seperti *murāduka kadhā* (yang engkau kehendaki adalah anu), *munāka kadhā* (angan-anganmu adalah anu), dan *quṣārāka*, yakni hal yang padanya engkau membatasi diri.[^m-hubb]
+
+Ungkapan mereka *aḥabba al-baʿīr* (unta itu "mencintai"), bila unta mogok tidak mau berjalan, dipinjam dari *aḥabba*. Itu berasal dari pembayangan mereka seperti yang tampak dalam ucapan: *"Cintamu kepada sesuatu membuat buta dan tuli,"* dan ucapan penyair:
+
+> Cinta itu buta, tak punya mata.
+
+Seakan-akan unta yang mogok itu dibayangkan dalam rupa pencinta yang dirundung duka. Tidakkah engkau lihat dikatakan: "Ia menjadi mogok dalam cintanya"? Atas dasar itu pula ucapan penyair:
+
+> Hawa cinta menahanku di tempat engkau berada; maka tiada bagiku
+> jalan untuk mundur darinya dan tiada pula untuk maju.
+
+Dikatakan: "Ia termangu-mangu dalam cintanya," maka dipakailah ungkapan "tertahannya cinta". Ketumpulan (*balāda*) orang yang mencinta itulah yang menunjukkan alasan dipinjamnya kata *iḥbāb* untuk mogoknya unta.[^p27]
+
+Adapun persahabatan karib (*khulla*) ialah kasih sayang yang disertai kebutuhan. Asalnya dari *khalal*, yaitu celah di antara dua hal. Lalu kata itu dipinjam untuk kelemahan (*wahn*) suatu urusan, dan untuk kefakiran, seperti ucapan "aku menutup *khalla*-nya" (aku menutupi kebutuhannya); orang fakir disebut *khalīl* karena celah yang menimpanya. Kemudian kata itu dipinjam untuk kasih sayang. Pemakaian itu dapat dibenarkan dengan menyerupakan (sahabat karib) dengan orang fakir, seakan-akan ia membayangkan kefakirannya kepada sahabatnya. Dapat pula ia dipakai dalam makna timbal balik, seperti *mukhāll*, sehingga dua sahabat karib adalah dua penutup: masing-masing menutup celah yang lain. Dikatakan pula: (disebut demikian) karena cinta masing-masing menyusup ke dalam kalbu yang lain. Atas dasar itu penyair berkata:[^m-khulla][^p28]
+
+> Engkau telah menyusup ke jalan rohku,
+> dan karena itulah sahabat karib dinamai *khalīl*.
+
+Adapun kasih sayang (*mawadda*) ialah mencintai sesuatu disertai mengangankannya. Bila dikatakan *wadidtu kadhā*, hakikatnya: aku mencintainya dan mengangankan tercapainya; meskipun kadang-kadang kata ini dipakai untuk salah satu dari kedua makna itu tanpa yang lain.[^r-wudd]
+
+Adapun persaudaraan (*ukhuwwa*) ialah kokohnya ikatan karena kelahiran atau karena cinta. Dikatakan "di antara keduanya ada *ākhiya*", yakni ikatan yang berlaku seperti persaudaraan; asalnya *ākhiya* ialah tali tambatan yang tertancap di tanah untuk mengikat hewan tunggangan.[^m-akh]
+
+Adapun cinta berahi (*ʿishq*) ialah cinta yang berlebihan. Seorang bijak ditanya tentangnya, lalu menjawab: "Kegilaan hawa nafsu, tidak terpuji dan tidak pula tercela." Ia juga berkata: "Ia adalah gerak jiwa yang kosong." Dikatakan pula: "Ia adalah ketamakan yang lahir dalam kalbu, kemudian tumbuh, lalu terhimpun kepadanya bahan-bahan kerakusan dan kekeraskepalaan, hingga mewariskan duka yang besar."[^r-ishq][^d13] Al-Mutanabbi berkata:
+
+> Tiadalah cinta berahi itu selain keteperdayaan dan ketamakan,
+> kalbu menyodorkan dirinya lalu ia pun terluka.
+
+Kata ini kadang-kadang dipakai untuk keutamaan, sebagaimana dipakai untuk yang bermanfaat dan yang lezat. Seseorang berkata: "Sungguh aku berahi kepada kedermawanan sebagaimana perempuan yang cantik diberahikan." Abu al-Syis berkata:
+
+> Ia berahi kepada kemuliaan-kemuliaan dan menanggung bebannya,
+> padahal kemuliaan-kemuliaan itu sedikit yang berahi kepadanya.
+
+Adapun *hayamān* ialah semacam kegilaan yang lahir dari cinta berahi. Asalnya dahaga yang sangat: dikatakan *rajul hayamān*, seperti *ʿaṭshān* (orang yang dahaga). Dahaga pun dipakai untuk cinta: dikatakan "aku dahaga kepadanya" dan "aku haus akan pertemuan dengannya".[^p29]
+
+Adapun hawa nafsu (*hawā*) ialah cinta kepada kelezatan secara berlebihan; karena itu ia selalu tercela. Ibnu Abbas berkata: "Hawa nafsu adalah tuhan yang disembah," lalu membaca: *"Maka pernahkah kamu melihat orang yang menjadikan hawa nafsunya sebagai tuhannya"* (al-Jasiyah: 23). Asal katanya *hawiya*, dengan pola *ʿalima*. Allah, Yang Mahaperkasa lagi Mahaagung, berfirman: *"dan janganlah engkau mengikuti hawa nafsu, karena akan menyesatkan engkau dari jalan Allah"* (Shad: 26), dan berfirman: *"dan janganlah engkau mengikuti orang yang hatinya telah Kami lalaikan dari mengingat Kami, serta menuruti keinginannya"* (al-Kahf: 28). Beliau, semoga salam atasnya, bersabda: *"Durhakailah hawa nafsumu dan kaum perempuan, lalu taatilah siapa yang engkau kehendaki."* Dikatakan: ia dinamai *hawā* karena ia menjerumuskan (*yahwī*) pemiliknya ke dalam neraka, atau karena ia menjadikan kalbu seperti di udara (*hawāʾ*), tidak menetap.[^r-hawa2] *Ṣabwa* ialah melakukan perbuatan anak kecil (*ṣabī*).
+
+*Wajd* ialah kesedihan yang didapati manusia dalam kalbunya, yang diwariskan oleh cinta. Yang menunjukkan bahwa ia berasal dari *wujūd* (mendapati) ialah dipakainya kata "merasa" untuknya, seperti ucapan penyair:[^m-wajd]
+
+> Demi hak cinta, sungguh aku merasakan karena cinta
+> bara di hatiku dan remuk di tulang-tulangku.
+
+Adapun persahabatan (*ṣadāqa*) ialah saling mencintai secara setara demi kebaikan yang murni. Dikatakan "saling mencintai", bukan "cinta", karena persahabatan tidak terjadi sebelum ada dari kedua pihak; sedang cinta kadang dikatakan untuk yang ada dari satu pihak saja tanpa yang lain, dan untuk apa yang dirasakan manusia terhadap benda-benda mati dan hewan-hewan lain. Dikatakan "demi kebaikan yang murni" untuk mengecualikan cinta karena manfaat dan karena kelezatan; sebab yang demikian itu pada hakikatnya bukan persahabatan, meskipun lafal itu kadang dipakai untuknya karena diserupakan dengan cinta yang utama dan digambarkan dalam rupanya.
+
+Karena definisi yang kami sebutkan itulah dikatakan: "Sahabat adalah orang lain yang tidak lain adalah engkau, hanya saja ia berbeda darimu dalam pribadi." Dikatakan pula: "Persahabatan adalah bersatunya jiwa-jiwa yang secara aktual terpisah dalam banyak pribadi."[^d14][^p30] Makna ini diisyaratkan al-Mutanabbi dengan ucapannya:
+
+> Sahabatmu adalah dirimu, bukan orang yang kau sebut kawan karibmu,
+> meskipun banyak basa-basi dan kata-katanya.
+
+Kata ini berasal dari *ṣidq* (kejujuran), yaitu kesesuaian kabar dengan apa yang dikabarkan. Asalnya pada ucapan, tetapi dipakai pula pada keyakinan dan perbuatan; dikatakan: "Ia jujur dalam keyakinannya dan dalam keberaniannya maju." Allah Ta'ala mendustakan orang-orang munafik dengan firman-Nya: *"dan Allah menyaksikan bahwa orang-orang munafik itu benar-benar orang pendusta"* (al-Munafiqun: 1), yakni dalam keyakinan mereka, bukan dalam ucapan mereka.[^r-sidq]
+
+[^p26]: CP: Di sini cinta didefinisikan dengan *īthār* ("mengutamakan"), sedang di awal Bab Kedua dengan *irāda* ("menghendaki"). Keduanya dekat: dalam *al-Mufradāt*, s.v. *ḥ-b-b*, al-Rāghib menjelaskan bahwa *istiḥbāb* yang dihubungkan dengan kata *ʿalā* bermakna *īthār*, seperti *"jika mereka lebih mencintai (istaḥabbū) kekafiran daripada iman"* (at-Taubah: 23). Terjemahan Turki juga membaca *īthār* ("seçmendir").
+
+[^m-hubb]: **Cinta: asal kata** (*ḥubb*, *ḥabba*). Dalam *al-Mufradāt*: *ḥabb* dan *ḥabba* dipakai untuk gandum, jelai, dan makanan sejenis, serta untuk biji tanaman wangi; *ḥibb* ialah yang sangat dicintai; *ḥabbat al-qalb* (biji kalbu) karena diserupakan dengan biji dalam bentuknya. *Ḥababtu fulānan* pada asalnya berarti "aku mengenai biji kalbunya", seperti *shaghaftuhu*, *kabadtuhu*, dan *faʾadtuhu* (aku mengenai selaput kalbunya, hatinya, jantungnya); *aḥbabtu fulānan* berarti "aku menjadikan kalbuku sasaran bagi cintanya"; tetapi dalam pemakaian lazim *maḥbūb* diletakkan di tempat *muḥabb*, dan *ḥababtu* dipakai di tempat *aḥbabtu*. *Aḥabba al-baʿīr* ialah bila unta mogok dan menetap di tempatnya, seakan ia mencintai tempat ia berhenti; dan *ḥubābuka an tafʿala kadhā* berarti puncak cintamu adalah itu. Seluruh uraian kebahasaan bab ini adalah perluasan dari entri tersebut. (*al-Mufradāt*, s.v. *ḥ-b-b*.)
+
+[^p27]: CP: Kalimat ini rusak dalam edisi tahkik. Kami membaca *wa-qīla: taladdada fī hawāhu* ("ia termangu-mangu dalam cintanya"; teks: *taladhdhadha*, "ia menikmati", yang oleh penyunting dibetulkan dari *taladha*) *fa-stuʿmila wuqūf al-hawā*. Kata *al-balāda* ("ketumpulan") oleh penerjemah Turki dianggap salah tulis dan diterjemahkan "retorika" (*belâğat*); kami mempertahankannya, sebab justru ketumpulan orang yang mencinta, yang dibutakan dan ditulikan oleh cintanya dan tertahan di tempatnya, yang menjelaskan mengapa unta yang mogok dikatakan "mencintai". Kata *li-l-ḥirān* ("untuk mogok") mengikuti pembetulan penyunting (teks: *li-l-jirān*).
+
+[^m-khulla]: **Persahabatan karib** (*khulla*, *khalīl*). Dalam *al-Mufradāt*: *khalal* ialah celah di antara dua hal; *khalal* dalam suatu urusan seperti kelemahan di dalamnya, diserupakan dengan celah di antara dua hal; *khalla* ialah kerusakan yang menimpa jiwa, entah karena syahwatnya kepada sesuatu entah karena kebutuhannya kepadanya, sehingga *khalla* ditafsirkan sebagai kebutuhan. *Khulla* ialah kasih sayang, entah karena ia menyusup (*takhallul*) ke dalam jiwa, entah karena ia menembus jiwa seperti anak panah menembus sasaran, entah karena sangatnya kebutuhan kepadanya. Di sana pula al-Rāghib mengutip bait "Engkau telah menyusup ke jalan rohku…", dan menolak pendapat Abū al-Qāsim al-Balkhī bahwa Allah boleh dikatakan mencintai hamba tetapi tidak boleh dikatakan menjadikannya sahabat karib: bila kedua kata dipakai untuk Allah, yang dimaksud dengan keduanya adalah semata-mata berbuat baik. (*al-Mufradāt*, s.v. *kh-l-l*.) *Kashshāf* tidak memuat entri khusus *al-khulla*. Persoalan ini dibahas dalam Bab Keenam.
+
+[^p28]: CP: Beberapa kata dalam kalimat ini tidak jelas dalam naskah, dan penyunting mencatatnya. Kami membaca *wa-l-khalīlān al-sāddān, kullu wāḥidin minhumā yasuddu khalala al-ākhar* ("dua sahabat karib adalah dua penutup, masing-masing menutup celah yang lain") dan *li-takhallul maḥabbat kullin minhumā qalba al-ākhar* ("karena cinta masing-masing menyusup ke dalam kalbu yang lain"). Kalimat terakhir tercetak dua kali dalam edisi tahkik.
+
+[^r-wudd]: **Kasih sayang** (*wudd*, *mawadda*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 367 (`m-wudd`, *al-Mufradāt*): mencintai sesuatu dan mengangankan keberadaannya. Definisi dalam risalah ini hampir sama persis.
+
+[^m-akh]: **Saudara** (*akh*, *ukhuwwa*). Dalam *al-Mufradāt*: asalnya *akhw*, yaitu orang yang bersekutu dengan orang lain dalam kelahiran, dari kedua pihak atau dari salah satunya, atau dari penyusuan; lalu dipinjam untuk setiap orang yang bersekutu dengan orang lain dalam kabilah, agama, keterampilan, muamalah, kasih sayang, dan hubungan-hubungan lain, seperti *"Sesungguhnya orang-orang mukmin itu bersaudara"* (al-Hujurat: 10). (*al-Mufradāt*, s.v. *a-kh-w*.) Risalah ini menambahkan asal kata yang lain, *ākhiya* (tali tambatan), yang menekankan unsur ikatan yang kokoh. *Kashshāf* tidak memuat entri khusus *al-ukhuwwa*.
+
+[^r-ishq]: **Cinta berahi** (*ʿishq*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 277 (`k-ishq`, *Kashshāf*): *ʿishq* ialah tingkatan terakhir dari cinta, cinta yang berlebihan dan sangat.
+
+[^d13]: CD: Dalam *al-Dharīʿa*, Pasal Ketiga, "Pernikahan yang Baik dan yang Buruk", dikutip ucapan-ucapan yang sejenis: "Kegilaan yang pemiliknya tidak diberi pahala karenanya", "Penyakit jiwa yang kosong, yang tidak memiliki cita-cita", dan "pilihan yang buruk yang bertemu dengan jiwa yang kosong". Di sana *ʿishq* yang dibahas hanya yang bersifat syahwat, dan dinilai sebagai kedunguan. Dalam Pasal Kelima, "Hakikat Cinta dan Macam-Macamnya", *ʿishq* dibagi: karena kelezatan tercela, karena keutamaan terpuji, dan "ia tidak terjadi karena manfaat". Pernyataan di bawah ini, bahwa kata *ʿishq* "dipakai untuk keutamaan sebagaimana dipakai untuk yang bermanfaat dan yang lezat", bertentangan dengan pengecualian manfaat itu. Mungkin al-Rāghib di sini hanya melaporkan pemakaian bahasa, sedang di *al-Dharīʿa* ia menetapkan hakikatnya (lihat nota kaki *al-Dharīʿa* no. 366).
+
+[^p29]: CP: Edisi tahkik membaca *wa-aṣluhu farṭ al-ʿishq* ("asalnya berlebihnya cinta berahi"), yang hanya mengulang kalimat sebelumnya. Kami membaca *farṭ al-ʿaṭash* ("dahaga yang sangat"), sebab kalimat berikutnya menjelaskan kata ini dengan *ʿaṭshān* dan dengan pemakaian "dahaga" untuk cinta; *al-Mufradāt*, s.v. *h-y-m*, juga menjelaskan *hayamān* sebagai "sangat dahaga", dan *huyām* sebagai penyakit unta karena dahaga "yang dijadikan perumpamaan bagi orang yang sangat berahinya".
+
+[^r-hawa2]: **Hawa nafsu** (*hawā*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 66 (`m-hawa`, *al-Mufradāt*) dan no. 67 (`k-hawa`, *Kashshāf*). Asal kata "menjerumuskan pemiliknya" diambil dari *al-Mufradāt*: hawa nafsu dinamai demikian karena ia menjerumuskan pemiliknya di dunia ke dalam setiap malapetaka dan di akhirat ke dalam *hāwiya* (neraka). Kedua ayat di atas mengikuti redaksi terjemahan *al-Dharīʿa*, Pasal Pertama, "Penjelasan Perebutan Hawa Nafsu dengan Akal".
+
+[^m-wajd]: ***Wajd*** (*wajd*, *wujūd*). Dalam *al-Mufradāt*: "mendapati" (*wujūd*) ada beberapa macam: dengan salah satu dari lima indra, seperti "aku mendapati rasanya"; dengan daya syahwat, seperti "aku mendapati kenyang"; dengan daya amarah, seperti mendapati kesedihan dan kemarahan; dan dengan akal atau melalui akal, seperti mengenal Allah. (*al-Mufradāt*, s.v. *w-j-d*.) Maka *wajd* dalam arti kesedihan cinta adalah "mendapati" dengan daya jiwa, dan karena itu dapat dipakaikan kata "merasa". Dalam pemakaian kaum sufi yang dicatat *Kashshāf*, *wajd* kemudian menjadi istilah untuk keadaan rohani yang datang kepada kalbu tanpa diusahakan; makna itu belum dimaksud di sini.
+
+[^d14]: CD: Ucapan pertama sejalan dengan *al-Dharīʿa*, Pasal Kelima, "Keutamaan Persahabatan": "Seorang bijak ditanya tentang sahabat, lalu menjawab: 'Ia adalah engkau dalam jiwa, hanya saja ia orang lain dalam wujud.'" Redaksinya di sini sedikit berbeda ("orang lain yang tidak lain adalah engkau, hanya saja ia berbeda darimu dalam pribadi"). Di *al-Dharīʿa* ucapan itu diletakkan sebagai tanda besarnya manfaat sahabat; di sini ia diturunkan dari definisi persahabatan sebagai saling mencintai secara setara.
+
+[^p30]: CP: *Bi-l-fiʿl* ("secara aktual") mengikuti bacaan edisi tahkik; penyunting menyebut bahwa naskah membaca *bi-l-ʿaql* ("dengan akal") dan menganggapnya salah tulis. Maksudnya: jiwa-jiwa itu terpisah dalam kenyataan karena berada dalam banyak pribadi, tetapi bersatu dalam persahabatan.
+
+[^r-sidq]: **Kejujuran** (*ṣidq*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 206 (`m-sidq`, *al-Mufradāt*) dan no. 207 (`k-sidq`, *Kashshāf*): kejujuran ialah kesesuaian ucapan dengan apa yang ada dalam hati dan dengan apa yang dikabarkan. Penjelasan tentang orang munafik yang berdusta dalam keyakinan, bukan dalam ucapan, juga terdapat dalam *al-Dharīʿa*, Pasal Kedua, "Kejujuran dan Pujiannya, Dusta dan Celaannya".
