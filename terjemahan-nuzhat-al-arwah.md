@@ -2131,3 +2131,255 @@ Ia berkata: Jadikanlah duniamu pelindung bagi akhiratmu, dan janganlah jadikan a
 
 Ia berkata: Carilah dunia untuk memperbaiki akhirat dengannya, dan janganlah mencarinya untuk memperbaiki dunia itu sendiri. Alangkah singkatnya tinggal di dalamnya dan alangkah cepatnya berpindah darinya! Aku telah berada di dalamnya tanpa menginginkannya dan senantiasa waspada terhadapnya. Aku memohon kepada Allah, Sang Pencipta, agar Dia menyelamatkanku dari dunia dan menyelamatkan para penghuninya dariku.
 
+
+Ia berkata: Barang siapa menjadikan ajal di hadapannya, ia memperbaiki dirinya. Tidak akan menjadi pemimpin orang yang mengikuti aib-aib tersembunyi saudara-saudaranya. Barang siapa berlaku sewenang-wenang terhadap manusia, manusia menyukai kehinaannya. Barang siapa melampaui batas dalam kekikiran, manusia menyukai kematiannya. Raja mana pun yang bertikai dengan rakyat jelata, terkoyaklah tabir kehormatannya. Barang siapa berlebihan dalam mencintai dunia, ia mati dalam keadaan fakir; dan barang siapa merasa cukup, ia mati dalam keadaan kaya. Barang siapa berlebihan dalam minuman, ia termasuk orang-orang rendah. Menyerahkan muka kepada manusia adalah kematian yang kecil.
+
+Ia berkata: Meringkas perkataan adalah melipat makna-makna.
+
+Ia berkata: Barang siapa tidak mampu melakukan suatu keutamaan, hendaklah cita-citanya adalah meninggalkan suatu kehinaan.
+
+Dikatakan kepadanya: "Apakah hal paling ringan yang dipikul manusia?" Ia menjawab: "Diam."
+
+Ia berkata: Wahai para hadirin, dengan akal manusia saling mengungguli, bukan dengan asal-usul. Aku telah menghafal dari Plato sang bijak: Hikmah adalah kepala segala ilmu, sedangkan adab adalah penyerbukan bagi pemahaman dan buah bagi pikiran. Dengan pikiran yang tajam, pendapat yang jauh dapat dicapai. Dengan ketenangan, segala yang dicari menjadi mudah. Dengan kelembutan kata, cinta dapat diraih dan kasih sayang menjadi langgeng. Dengan kelapangan akhlak, kehidupan menjadi baik dan kegembiraan menjadi sempurna. Dengan diam yang baik, lahirlah keagungan wibawa. Dengan ketepatan tutur kata, kedudukan menjadi agung dan kemuliaan meninggi. Dengan keadilan sikap, hubungan wajib terjalin. Dengan kerendahan hati, cinta bertambah banyak. Dengan menjaga kehormatan diri, amal-amal menjadi suci. Dengan memberi karunia, kepemimpinan terwujud. Dengan keadilan, musuh ditundukkan. Dengan kesantunan, penolong bertambah banyak. Dengan kelembutan, hati-hati dapat dijadikan pelayan. Dengan mendahulukan orang lain, seseorang berhak menyandang nama kedermawanan. Dengan memberi nikmat, seseorang berhak menyandang nama kemurahan. Dengan kesetiaan, persaudaraan menjadi langgeng. Dengan kejujuran, keutamaan menjadi sempurna. Dengan baiknya mengambil pelajaran, perumpamaan-perumpamaan dibuat. "Aku tidak tahu" adalah separuh ilmu. Tergesa-gesa dalam menjawab menyebabkan ketergelinciran. Latihan mengasah bakat. Menanggung orang dungu adalah azab bagi ruh. Barang siapa mengenal dirinya, ia tidak akan tersia-sia di tengah manusia. Barang siapa ilmunya melebihi akalnya, amalnya menjadi beban yang mencelakakannya. Barang siapa telah menemukan sejuknya keyakinan, keyakinan itu mencukupkannya dari berbantah-bantahan dalam bertanya; dan barang siapa tidak mendapatkannya, ia tenggelam dalam kebodohan.
+
+Ia berkata: Apabila hikmah adalah kebaikan dunia dan pahalanya adalah kebaikan akhirat, maka hal yang paling layak menjadi arah cita-citamu adalah hikmah.
+
+Aristoteles memiliki sebidang tanah pertanian yang berharga, lalu ia menyerahkannya kepada orang yang mengurusnya. Sebagian orang bertanya kepadanya: "Mengapa engkau berbuat demikian dan tidak mengurus tanahmu sendiri?" Ia menjawab: "Aku tidak memperoleh tanahku dengan mengurus tanah-tanah pertanian; aku memperolehnya hanya dengan mengurus adab jiwaku. Dengan cara itulah aku berharap dapat memiliki banyak tanah."
+
+Ia berkata kepada Iskandar: "Keindahan rupa adalah mudarat bagi pemiliknya dan manfaat bagi orang yang memandangnya."
+
+Ia berkata: Tidak dapat mengambil manfaat dari hikmah hati yang terikat pada upaya mencari penghidupan.
+
+Ia berkata kepada salah seorang muridnya: "Wahai anakku, janganlah bergaul dengan manusia kecuali dengan orang yang mengenal kadar dirinya. Sebab orang yang mengenal kadar dirinya, bergaul dengannya termasuk kebaikan hidup; sedangkan orang yang tidak mengenal kadar dirinya, tidak ada kebaikan dalam bergaul dengannya."
+
+Seorang laki-laki berkata kepadanya: "Telah sampai kepadaku bahwa engkau menggunjingku." Ia menjawab: "Kedudukanmu di sisiku tidak sampai sedemikian rupa sehingga aku meninggalkan demi dirimu salah satu dari tiga perkara." Orang itu bertanya: "Apa ketiganya?" Ia menjawab: "Adakalanya ilmu yang aku pergunakan pikiranku padanya, adakalanya kelezatan yang dengannya aku menghibur diriku, dan adakalanya menghadapkan diri kepada amal saleh."
+
+Ia melihat seorang yang baru sembuh dari sakit banyak makan, lalu berkata: "Wahai kawan, bertambahnya kekuatan bukanlah dengan banyaknya makan, melainkan dengan banyaknya apa yang dapat diterima oleh badan."
+
+Seorang laki-laki bertanya kepadanya: "Apakah balagah itu?" Ia menjawab: "Menyedikitkan kata dengan ringkas, dan tepat dalam jawaban yang cepat."
+
+Ia berkata: Keridaan manusia adalah tujuan yang tidak akan tercapai. Maka janganlah engkau risau oleh kemurkaan orang yang hanya rida dengan kezaliman.
+
+Ia mengulang-ulang suatu masalah kepada seorang muridnya, lalu bertanya: "Apakah engkau telah paham?" Murid itu menjawab: "Ya." Ia berkata: "Aku tidak melihat bekas pemahaman padamu, padahal tanda pemahaman adalah kegembiraan."
+
+Ia berkata: Dahulu aku minum tetapi tidak juga puas. Ketika aku mengenal Allah, aku menjadi puas tanpa minum.
+
+Hipparchos berkata kepada Aristoteles: "Wahai imam hikmah, apakah yang seyogianya dipelajari pertama kali oleh penuntut hikmah?" Ia menjawab: "Karena jiwa adalah tambang hikmah, maka hal pertama yang seyogianya dituntut oleh penuntutnya adalah ilmu tentang jiwa." Ia bertanya: "Dengan apa ilmu tentang jiwa dituntut?" Ia menjawab: "Dengan daya jiwanya sendiri." Ia bertanya: "Apakah daya jiwanya itu?" Ia menjawab: "Daya yang ada padamu, yang bertanya kepadaku tentang dirinya sendiri." Ia bertanya: "Bagaimana sesuatu bertanya kepada yang lain tentang dirinya sendiri?" Ia menjawab: "Seperti orang sakit bertanya kepada tabib tentang dirinya, dan orang buta bertanya kepada orang-orang di sekitarnya tentang warnanya." Ia bertanya: "Bagaimana jiwa dapat buta terhadap dirinya sendiri, padahal ia adalah ibu hikmah?" Ia menjawab: "Apabila hikmah tidak ada pada jiwa, jiwa menjadi buta terhadap dirinya dan terhadap selainnya, sebagaimana seseorang menjadi buta terhadap dirinya dan terhadap selainnya apabila pelita tidak ada padanya."
+
+Ia berkata: Aku heran kepada orang yang dikatakan baik oleh seseorang padahal tidak ada kebaikan padanya, bagaimana ia bisa bergembira! Aku heran kepada orang yang dikatakan buruk padahal tidak ada keburukan padanya, bagaimana ia bisa marah! Yang lebih mengherankan dari itu adalah orang yang mencintai dirinya padahal [keburukannya] telah pasti, dan membenci orang lain atas dasar keraguan.
+
+Ia berkata: Menolak keburukan dengan keburukan adalah ketegaran, sedangkan menolaknya dengan kebaikan adalah keutamaan.
+
+Ia berkata: Merasa cukup tanpa sesuatu lebih baik daripada merasa cukup dengan memilikinya.
+
+Ia berkata: Kebahagiaan ilahi di dunia ini membutuhkan kebaikan-kebaikan yang berada di luar manusia.[^p14] Sebab sulit bagi manusia melakukan perbuatan-perbuatan indah tanpa bekal, seperti baiknya penghidupan dan banyaknya saudara. Karena makna inilah hikmah membutuhkan kekuasaan untuk menampakkan kemuliaan dan keutamaannya.
+
+[^p14]: CP: Terjemahan Turki memahami frasa ini sebagai "kebaikan-kebaikan yang keluar dari manusia". Teks Arab memakai *al-khayrāt al-khārija*, yakni "kebaikan-kebaikan lahiriah" di luar diri manusia, sesuai dengan ajaran Aristoteles dalam *Etika Nikomakhea* bahwa kebahagiaan juga memerlukan kebaikan-kebaikan lahiriah. Contoh yang disebut sesudahnya, yaitu baiknya penghidupan dan banyaknya saudara, menguatkan makna ini.
+
+Ia berkata: Barang siapa berkhidmat kepada keadilan, menyembah Allah ʿAzza wa Jalla, melakukan perbuatannya dengan keutamaan, dan keadaannya baik lagi elok, yakni sangat mencintai Allah Taʿālā; dan barang siapa mencintai Allah dengan cinta ilahi serta mencintai akal dan keutamaan-keutamaan yang dimuliakan, Allah Taʿālā akan memuliakannya, memeliharanya, dan berbuat baik kepadanya.
+
+Ia berkata: Ketahuilah bahwa orang-orang tercela lebih tahan badannya, sedangkan orang-orang mulia lebih tahan jiwanya. Ketahanan yang terpuji bukanlah kulit seseorang yang tebal terhadap pukulan, kakinya yang kuat untuk berjalan, atau tangannya yang kuat untuk bekerja, karena semua itu termasuk sifat binatang. Ketahanan yang terpuji adalah menguasai jiwa, menanggung berbagai urusan, bersabar dengan indah, mengutamakan keteguhan, meninggalkan hawa nafsu, meringankan kesulitan yang ia harapkan akibat baiknya, dan tekun berjuang melawan berbagai perkara dan syahwat yang digerakkan hawa nafsu.
+
+Ia berkata: Orang bodoh seperti orang yang tenggelam. Nasihatilah ia dari kejauhan dan janganlah mendekatinya. Jika ia selamat, engkau beruntung; jika ia binasa, ia tidak menyeretmu ke dalam kebinasaannya. Berilah peringatan kepadanya agar ia mendengar perkataanmu.
+
+Ia berkata: Sedikitnya ilmu dan daya pembeda adalah sebab keburukan. Setiap orang yang buruk tidak mengetahui apa yang seyogianya ia lakukan dan apa yang seyogianya ia hindari. Karena kekeliruan semacam inilah orang-orang zalim, orang-orang jahat, dan para penentang kebenaran menjadi banyak.
+
+Ia berkata: Tidak seyogianya engkau membebani jiwamu dengan ilmu-ilmu sebelum engkau menghilangkan aib-aib darinya dan membiasakannya dengan keutamaan-keutamaan. Jika engkau tidak melakukan hal itu, engkau tidak akan mengambil manfaat sedikit pun dari ilmu.
+
+Ia berkata: Kedunguan adalah berlebih-lebihan dalam memuji dan mencela.
+
+## Riwayat Diogenes, Sang Petapa Kinik, Ahli Ketuhanan {.judul-bab}
+
+Diogenes adalah bijak bagi orang-orang di zamannya. Ia seorang zahid yang menyendiri, tidak mempunyai tempat tinggal dan tempat bernaung kecuali di mana malam menyelimutinya. Ia membiasakan dirinya dengan hidup serba kasar dan sama sekali tidak memiliki apa pun. Ia tidak bernaung di sebuah rumah dan tidak memiliki apa-apa selain sesuatu yang menutupi auratnya. Ia makan bekal sehari di mana saja ia mendapatkannya, pada malam maupun siang hari, di sisi seorang raja maupun seorang pengangkut sampah. Suatu kali ia melewati seorang tukang roti yang sedang memanggang roti, lalu ia mengambil sebagian rotinya dan memakannya selama beberapa hari. Tukang roti itu berkata kepadanya: "Kemarin engkau sudah makan." Ia menjawab: "Hari ini pun aku makan, karena engkau memanggang roti setiap hari dan aku lapar setiap hari."
+
+Semua orang mencintainya dengan sungguh-sungguh, dan ia mendahulukan mereka atas dirinya sendiri. Ia mengangkat dirinya di atas segala hal yang membuat raja dan rakyat jelata merendahkan diri. Ia merasa cukup dengan dua helai pakaian dari bulu domba, dan keadaannya terus demikian hingga ia meninggalkan dunia.
+
+Ia adalah sahabat dan guru al-Syaikh al-Yunani (Plotinos), yang darinya hikmah tampak di dalam kitab-kitab yang dikenal atas namanya. Barang siapa ingin membacanya, hendaklah ia merujuk kitab-kitab itu, karena kitab-kitab tersebut masih ada. Para pengikutnya adalah kaum Kinik, karena mereka berpandangan untuk membuang adat kebiasaan seperti menikah, membangun rumah, berdagang, dan mengumpulkan harta. Mereka hanya mencintai saudara-saudara dan kawan-kawan sejawat mereka, serta orang yang menempuh jalan mereka atau berbuat baik kepada mereka, dan membenci seluruh manusia selebihnya. Itulah watak anjing.
+
+Dikatakan kepadanya: "Mengapa engkau tidak membangun rumah?" Ia menjawab kepada mereka: "Seandainya kalian mengetahui rumahku dan besarnya, niscaya kalian yakin bahwa rumah-rumah kalian dan rumah-rumah seluruh alam tidak dapat menampungnya." Maksudnya, seluruh bumi adalah rumahnya dan langit adalah atapnya.
+
+Penduduk Athena mengutusnya kepada Iskandar dengan membawa sepucuk surat, lalu ia menyampaikan isinya kepada Iskandar. Iskandar bertanya kepadanya: "Apa yang dapat membuat mereka rida kepadaku?" Ia menjawab: "Aku kira tidak ada yang membuat mereka rida kepadamu kecuali kematianmu."
+
+Suatu ketika raja melewatinya dan mendapatinya sedang duduk di tempat berjemur. Raja berdiri di dekatnya dan berkata: "Mintalah hajatmu." Ia menjawab: "Hajatku kepadamu adalah engkau menyingkir agar matahari mengenaiku."
+
+Ia berasal dari penduduk Apollonia dan termasuk orang-orang yang berbicara tentang tabiat-tabiat. Ia dinisbahkan kepada Anaximandros. Ia dinamai si Kinik (*al-kalbī*) karena ia menghadapi manusia dengan kebenaran secara terang-terangan dan tidak segan kepada siapa pun. Dikatakan kepadanya: "Mengapa engkau dinamai si Kinik?" Ia menjawab: "Karena aku mengibaskan ekor kepada orang-orang baik dan menggeram kepada orang-orang jahat."
+
+Suatu hari Iskandar berdiri di dekatnya, tetapi ia tidak menoleh kepadanya. Iskandar berkata: "Wahai Diogenes, sikap meremehkan macam apa ini? Apakah engkau memandang dirimu tidak membutuhkanku?" Ia menjawab: "Kebutuhan apa yang aku miliki kepada budak dari budakku?" Iskandar bertanya: "Siapakah budak dari budakmu itu?" Ia menjawab: "Engkau." Iskandar bertanya: "Bagaimana bisa demikian?" Ia menjawab: "Karena aku menguasai syahwat, lalu aku menundukkannya dan memperbudaknya; sedangkan syahwat menguasaimu, lalu menundukkanmu dan memperbudakmu. Maka engkau adalah budak bagi sesuatu yang telah aku perbudak." Iskandar berkata kepadanya: "Seandainya engkau meminta pemberian dari kami, tentu kami akan membantumu dalam urusan duniamu." Ia menjawab: "Bagaimana aku meminta pemberian, padahal aku lebih kaya daripada engkau?" Iskandar bertanya: "Bagaimana engkau menjadi demikian?" Ia menjawab: "Karena dengan yang sedikit di sisiku, aku lebih merasa cukup daripada engkau dengan yang banyak di sisimu." Iskandar bertanya: "[Jika engkau menolak kehidupan bermasyarakat,] siapa yang akan menguburkanmu apabila engkau mati?" Ia menjawab: "Orang yang tidak mendapati jalan lain selain menyingkirkan bangkai dari dekatnya."
+
+Iskandar ini adalah seorang raja yang hidup pada zaman Diogenes, bukan Dzulqarnain murid Aristoteles. Meskipun memiliki keutamaan dan hikmah, ia diejek dan ditertawakan.
+
+Diogenes, di samping sebagai bijak yang utama dan orang yang hidup bersahaja, yang tidak memiliki apa pun dan tidak bernaung di sebuah rumah, termasuk golongan Qadariyah di antara para filsuf, karena di dalam perkataannya terdapat kecenderungan kepada paham *qadar*. Ia berkata: "Allah Taʿālā bukanlah sebab bagi keburukan-keburukan, melainkan sebab bagi kebaikan-kebaikan, keutamaan-keutamaan, dan kemurahan. Akal dan kemurahan telah Dia letakkan di tengah makhluk-Nya. Barang siapa memperoleh keduanya dan berpegang teguh pada keduanya, ia meraih kebaikan-kebaikan, karena kebaikan-kebaikan tidak dapat dicapai kecuali dengan keduanya."
+
+Ia melihat seorang anak laki-laki membawa pelita, lalu bertanya kepadanya: "Dari mana datangnya api ini?" Anak itu menjawab: "Jika engkau memberitahuku ke mana ia pergi, aku akan memberitahumu dari mana ia datang." Anak itu membungkamnya, padahal sebelumnya tidak ada seorang pun yang mampu mengalahkannya.
+
+Seorang laki-laki menyuguhkan makanan kepadanya seraya berkata: "Makanlah yang banyak." Ia menjawab: "Kewajibanmu menyuguhkan makanan, dan kewajiban kami menggunakan keseimbangan."
+
+Seorang perempuan mencelanya karena buruk wajah dan jelek rupanya. Ia berkata: "Rupa laki-laki dinilai sesudah isi batinnya, sedangkan isi batin perempuan dinilai sesudah rupanya." Perempuan itu pun malu. Renungkanlah.
+
+### Adab Diogenes, Sang Petapa Kinik {.judul-pasal}
+
+Makna nama ini dalam bahasa Yunani adalah "wahai orang gila". Dalam bahasa Romawi dikatakan *Di Janus*, yakni "wahai orang gila", lalu diarabkan menjadi Diyūjānis.
+
+Ia berkata: Bukanlah orang baik orang yang sekadar menahan diri dari keburukan, melainkan orang yang melakukan kebaikan.
+
+Ia melihat seorang pemuda yang buruk wajahnya tetapi baik adabnya, lalu berkata kepadanya: "Keutamaan-keutamaan jiwamu telah menghimpun keindahan-keindahan wajah."
+
+Ia ditanya tentang waktu makan. Ia menjawab: "Bagi orang yang mampu, apabila ia lapar; bagi orang yang tidak mampu, apabila ia mendapatkan makanan."
+
+Ia ditanya: "Siapakah sahabat-sahabat sejati itu?" Ia menjawab: "Satu jiwa di dalam badan-badan yang terpisah."
+
+Ia melihat seorang laki-laki meminang seorang perempuan, lalu berkata: "Kesenangan yang sedikit yang mendatangkan kepayahan yang banyak."
+
+Ia ditanya: "Mengapa engkau membenci semua manusia?" Ia menjawab: "Benar. Aku membenci orang-orang jahat di antara mereka karena perilaku mereka yang buruk, dan aku membenci orang-orang baik di antara mereka karena mereka tidak menasihati orang-orang jahat."
+
+Dikatakan kepadanya: "Si Fulan menyebutmu dengan segala keburukan." Ia menjawab: "Karena ia tidak mendapat petunjuk menuju kebaikan."
+
+Dikatakan kepadanya: "Raja tidak menyukaimu." Ia menjawab: "Karena raja tidak menyukai orang yang lebih besar daripada dirinya."
+
+Ia melihat seorang polisi mencambuk seorang pencuri, lalu berkata: "Alangkah anehnya! Pencuri terang-terangan mendidik pencuri sembunyi-sembunyi."
+
+Dikatakan kepadanya: "Bagaimana perbedaan antara engkau dan Raitis?" Ia menjawab: "Sangat berbeda. Aku menjadi dungu karena hikmahku, sedangkan ia menjadi bijak karena kedunguannya." Raitis berkata: "Ia benar. Dengan kedunguanku aku melakukan apa yang ia lakukan dengan hikmahnya."
+
+Ia melihat seorang perempuan cantik, lalu berkata: "Kebaikan yang sedikit dan keburukan yang banyak."
+
+Ia berkata kepada Iskandar, raja pada zamannya: "Wahai raja, janganlah engkau berbangga dengan ketampananmu, keindahan pakaianmu, dan kegagahan kendaraanmu. Akan tetapi, berusahalah agar kebanggaanmu adalah menampakkan kebaikan dan kemurahan yang ada dalam tabiatmu."
+
+Ia berkata: Apabila engkau mencela sesuatu pada orang lain, waspadalah agar hal yang serupa tidak ada padamu. Sebab tidak ada yang lebih buruk daripada aib yang kembali kepada orang yang mencelakannya.
+
+Dikatakan kepadanya: "Mengapa engkau makan di pasar?" Ia menjawab: "Aku makan di mana aku lapar, dan di pasar aku lapar."
+
+Ia melihat seorang laki-laki berdoa dan memohon kepada Allah agar menganugerahinya hikmah, lalu berkata: "Seandainya engkau bersungguh-sungguh dalam belajar, niscaya engkau dianugerahi hikmah."
+
+Dikatakan kepadanya: "Apakah engkau mempunyai rumah tempat engkau beristirahat?" Ia menjawab: "Ya. Rumah itu dibutuhkan hanya untuk beristirahat di dalamnya, maka di mana pun aku beristirahat, itulah rumahku."
+
+Ia berkata: Kelebihan dari segala sesuatu disukai, kecuali kelebihan perkataan. Maka jagalah diri kalian darinya, karena ia tidak disukai.
+
+Ia berkata kepada Zenon sang penyair: "Ringkaskanlah pujianmu, karena memuji seseorang dengan apa yang tidak ada padanya adalah celaan baginya."
+
+Iskandar masuk menemuinya ketika ia sedang tidur, lalu menendangnya dengan kakinya dan berkata: "Bangunlah, aku telah menaklukkan kotamu." Ia menjawab: "Menaklukkan kota-kota tidaklah diingkari bagi raja-raja, tetapi menendang adalah perbuatan keledai."
+
+Pada zamannya ada seorang pelukis yang meninggalkan pekerjaan melukis dan menjadi tabib. Diogenes berkata kepadanya: "Bagus sekali! Ketika engkau melihat kesalahan lukisan tampak jelas bagi mata, sedangkan kesalahan tabib ditutupi oleh tanah, engkau meninggalkan lukisan dan masuk ke dalam kedokteran."
+
+Ia melihat seorang laki-laki jahat yang tampan wajahnya, lalu berkata: "Sebaik-baik rumah dan seburuk-buruk penghuni."
+
+Ia melihat seorang pemuda yang tidak beradab sedang duduk di atas batu, lalu berkata: "Batu di atas batu."
+
+Ia melihat dua orang laki-laki yang telah lama bersahabat, lalu bertanya tentang keduanya. Dikatakan kepadanya: "Keduanya adalah dua sahabat." Ia berkata: "Lalu mengapa yang satu kaya dan yang lain fakir?"
+
+Ia sering mencela manusia karena mereka tidak berminat pada hikmah, adab, dan pengajaran. Suatu hari ia naik ke tempat yang tinggi dan berseru: "Wahai manusia, berkumpullah!" Orang-orang pun bergegas mendatanginya dan berkumpul. Ia berkata kepada mereka: "Aku tidak memanggil kalian. Aku hanya memanggil manusia."
+
+Suatu hari ia berkata: "Aku lebih berpengharapan, lebih lapang, dan lebih kaya daripada raja Persia. Sebab yang sedikit sudah mencukupiku, sedangkan yang banyak tidak mencukupinya. Aku tidak merisaukan siapa pun, sedangkan ia merisaukan seisi alam."
+
+Diriwayatkan bahwa suatu hari Maqadrus melihatnya di tepi sungai sedang mencuci sayur-sayuran dan memakannya. Ia bertanya kepadanya: "Inikah makananmu?" Diogenes menjawab: "Seandainya engkau pun dapat menjadikan ini makananmu, engkau tidak akan mendatangi pintu Dionysios sang tiran."
+
+Seorang sahabatnya dipenjara, lalu ia masuk menemui Iskandar dan berkata: "Wahai raja, jika si Fulan bersalah, maka ampunilah dosanya demi aku; dan jika ia tidak bersalah, maka jadilah engkau orang yang membebaskannya."
+
+Dikatakan kepadanya: "Mengapa engkau memakai cincinmu di tangan kanan?" Ia menjawab: "Untuk mengenali orang-orang yang suka turut campur, yakni orang yang mengurusi hal yang bukan urusannya."
+
+Dikatakan kepadanya: "Apakah kekayaan itu?" Ia menjawab: "Menahan diri dari syahwat-syahwat."
+
+Ia ditanya tentang asmara (*ʿishq*). Ia menjawab: "Penyakit jiwa yang kosong, yang tidak mempunyai cita-cita."
+
+Ia sakit, lalu saudara-saudaranya menjenguknya dan berkata: "Janganlah berkeluh kesah, karena ini adalah ketetapan Allah Subḥānahu." Ia menjawab: "Justru karena itu, hal ini lebih berat baginya."
+
+Ia ditanya: "Apakah kemuliaan budi itu?" Ia menjawab: "Bersih dari keburukan-keburukan."
+
+Ia melihat seorang tua yang telah menyemir rambutnya, lalu berkata kepadanya: "Jika engkau dapat menyembunyikan ubanmu, apakah engkau juga dapat menyembunyikan kerentaanmu?"
+
+Ia ditanya: "Bagaimana seharusnya seseorang agar tidak marah?" Ia menjawab: "Hendaklah ia senantiasa ingat bahwa bukan dirinya yang wajib dilayani, ditaati, ditanggung, dan disabari, melainkan dirinyalah yang wajib menaati, melayani, dan bersabar. Apabila ia melakukan hal itu, marahnya akan berkurang."
+
+Iskandar mengutus orang untuk memanggilnya, lalu ia mengirim pesan kepadanya: "Penghalang yang menghalangimu datang kepada kami adalah penghalang yang juga menghalangi kami."
+
+Ia sakit di sebuah penginapan, lalu para sahabatnya menjenguknya dan berkata kepadanya: "Siapa yang akan menguburkanmu?" Ia menjawab: "Aku tidak melihat orang yang lebih berhak daripada pemilik penginapan."
+
+Ia berkata kepada murid-muridnya: "Jagalah diri kalian dari kelebihan perkataan, karena kelebihan dari segala sesuatu lebih baik daripada kelebihan perkataan."
+
+Ia berkata: Barang siapa ingin mazhabnya baik, hendaklah jalannya berlawanan dengan jalan kebanyakan makhluk.
+
+Seorang laki-laki berkata kepadanya: "Tidakkah engkau mau berbincang dengan kami?" Ia menjawab: "Tidak." Orang itu bertanya: "Mengapa?" Ia menjawab: "Karena kalian membesar-besarkan hal-hal kecil dariku, sedangkan aku mengecilkan hal-hal besar dari kalian."
+
+Ia melihat seorang laki-laki gemuk yang berseri-seri kulitnya, lalu berkata: "Wahai kawan, engkau mengenakan pakaian hasil tenunan gigi gerahammu."
+
+Dikatakan kepadanya: "Hati-hatilah jangan masuk ke kota, karena orang-orang telah berkumpul untuk memukulmu." Ia menjawab: "Pada saat itulah akan diketahui kadar kesantunanku."
+
+Dikatakan kepadanya: "Apa keunggulan antara engkau dan raja?" Ia menjawab: "Ia budak syahwat-syahwat, sedangkan aku tuannya."
+
+Ia memandang seorang anak muda yang sedang menghias dirinya, lalu berkata: "Jika engkau menghias dirimu untuk laki-laki, engkau keliru; dan jika engkau menghiasnya untuk perempuan, engkau binasa."
+
+Ia pernah melatih diri di gunung dalam kesendirian. Lalu ia merindukan persetubuhan, maka ia mengirim pesan kepada seorang perempuan agar menggaulinya karena darurat. Namun, ia kemudian memuaskan dirinya dengan tangannya hingga keluar maninya. Ketika perempuan itu datang, ia tidak menoleh kepadanya dan berkata: "Telah kami dapatkan cara yang membuat kami tidak membutuhkanmu." Allah lebih mengetahui kebenaran berita yang aneh ini.
+
+Ia ditanya: "Makanan apa yang engkau sukai?" Ia menjawab: "Hikmah yang kalian benci dan kalian tolak, aku menjadikannya kekayaanku; dan kebodohan yang aku buang, kalian meraupnya."
+
+Ia melewati sekelompok orang, lalu salah seorang dari mereka melompat ke arahnya dan menendangnya. Murid-muridnya berkata kepadanya: "Kami juga akan menendangnya." Ia berkata kepada mereka: "Ia telah menyerupai keledai, maka janganlah kalian menyerupainya."
+
+Dikatakan kepadanya: "Mengapa engkau tidak membuat rumah?" Ia menjawab: "Seandainya kalian mengenal rumahku, niscaya kalian mengetahui bahwa rumah-rumah seluruh alam berada di dalamnya."
+
+Dikatakan kepadanya: "Si Fulan menceritakan tentang dirimu segala keburukan." Ia menjawab: "Karena ia tidak mendapat petunjuk menuju kebaikan."
+
+Ia melihat seorang perempuan tua yang sedang berhias, lalu berkata: "Jika engkau bersiap untuk orang-orang yang hidup, engkau penipu; dan jika engkau bersiap untuk orang-orang yang mati, bergegaslah."
+
+Sebagian orang bijak melihatnya makan di pasar, lalu berkata: "Apakah engkau makan di pasar, wahai sang bijak?" Ia menjawab: "Aku makan di mana aku lapar."
+
+Seorang pengejek berkata kepadanya: "Makanan apa yang engkau makan?" Ia menjawab: "Segala yang kalian buang." Orang itu bertanya: "Mengapa demikian?" Ia menjawab: "Karena kalian memakan apa yang aku buang."
+
+Ia masuk menemui Iskandar ketika di sisinya ada seorang penyair yang sedang memuji. Ia mengeluarkan roti yang dibawanya dan mulai memakannya. Dikatakan kepadanya: "Apa yang sedang engkau lakukan?" Ia menjawab: "Sesuatu yang lebih bermanfaat daripada mendengarkan kebohongan."
+
+Raja memerintahkan agar sekelompok orang diberi bejana-bejana perak, dan agar ia pun diberi yang serupa, tetapi ia menolak mengambilnya. Hal itu disampaikan kepada Iskandar, lalu ia berkata: "Anjing, apabila dipukul oleh pemiliknya, tetap mengikutinya." Diogenes berkata: "Wahai raja, apabila engkau membuatnya lapar lalu orang lain melambaikan sepotong roti kepadanya, ia akan mengikuti orang itu."
+
+Ia berkata: Jika engkau berbuat baik agar dipuji, engkau tidak lebih utama daripada orang yang berbuat jahat dengan maksud agar dipuji karenanya. Sebab banyak orang melakukan kejahatan agar dipuji karenanya.
+
+Ia berkata: Janganlah berbicara di hadapan seseorang sebelum engkau mendengar perkataannya dan membandingkan ilmu yang ada pada dirimu dengan ilmu yang ada pada dirinya. Jika engkau mendapati keunggulan ada padanya, diamlah dan ambillah faedah darinya; jika tidak, berbicaralah sesukamu.
+
+Ia berkata kepada murid-muridnya: "Barang siapa menghimpun bagi kalian pendapat yang disertai cinta, maka himpunlah baginya ketaatan yang disertai cinta."
+
+Dikatakan kepadanya: "Mengapa engkau tidak terjun sendiri ke medan perang?" Ia menjawab: "Aku hanya memiliki diriku. Jika aku menyia-nyiakannya, apa lagi yang tersisa bagiku?"
+
+Dikatakan kepadanya: "Siapakah orang yang paling menguasai dirinya?" Ia menjawab: "Orang yang tidak dikalahkan oleh syahwatnya."
+
+Dikatakan kepadanya: "Si Fulan benar-benar sibuk dengan urusannya sendiri." Ia menjawab: "Kalau begitu, ia memusuhi orang-orang di zamannya."
+
+Dikatakan kepadanya: "Si Fulan telah berpaling darimu." Ia menjawab: "Alangkah miripnya ia datang dengan ia pergi!"
+
+Ia dicela karena meninggalkan perempuan. Ia menjawab: "Aku dapati menanggung gejolak birahi lebih mudah bagiku daripada bersusah payah demi kemaslahatan keluarga."
+
+Sekelompok orang yang hidup bermewah-mewah mencela kehidupan Diogenes. Ia berkata: "Seandainya aku ingin hidup seperti kehidupan kalian, niscaya aku mampu; tetapi seandainya kalian ingin hidup seperti kehidupanku, kalian tidak akan mampu."
+
+Ia berkata kepada seorang laki-laki yang mencacinya: "Aku tidak akan berusaha mengalahkanmu dalam perkara yang pemenangnya adalah yang paling hina di antara dua pihak. Engkau hanya berbicara dengan apa yang ada di dalam bejanamu, dan setiap bejana merembeskan apa yang ada di dalamnya."
+
+Dikatakan kepadanya: "Si Fulan mencacimu ketika engkau tidak ada." Ia menjawab: "Seandainya ia memukulku ketika aku tidak ada, aku pun tidak peduli."
+
+Ia berkata: Tidak ada harta yang lebih melimpah daripada akal, tidak ada kefakiran yang lebih parah daripada kebodohan, tidak ada teman yang lebih baik daripada akhlak yang baik, tidak ada penopang yang lebih serasi daripada musyawarah, tidak ada pemimpin yang lebih baik daripada taufik, dan tidak ada warisan yang lebih baik daripada adab.
+
+Ia berkata: Sakit adalah penjara badan, dan duka adalah penjara ruh.
+
+Seorang laki-laki yang mulia nasabnya mencelanya karena rendahnya kedudukan ibunya. Ia berkata kepadanya: "Kemuliaanku bermula dariku, sedangkan kemuliaanmu berakhir padamu."
+
+Ia hadir bersama sekelompok orang dan lama berdiam diri. Dikatakan kepadanya: "Mengapa engkau tidak ikut berbincang bersama kami?" Ia menjawab: "Bagian seseorang ada pada kedua telinganya, sedangkan bagian orang lain ada pada lisannya."
+
+Diogenes mendengar seorang laki-laki menyebutnya dengan keburukan, lalu ia berkata: "Apa yang diketahui Allah Subḥānahu tentang kami lebih banyak daripada apa yang engkau katakan."
+
+Dikatakan kepadanya: "Si Fulan ingin membinasakanmu." Ia menjawab: "Jika ia melakukan apa yang engkau katakan, hal itu lebih merugikan dirinya."
+
+Seorang laki-laki mencacinya, tetapi ia menahan diri darinya. Hal itu dibicarakan kepadanya, lalu ia menjawab: "Cukuplah sebagai cacian baginya bahwa ia mencaci orang yang tidak mencacinya."
+
+Seorang laki-laki bertanya kepadanya: "Dengan apa aku dapat membuat musuhku berduka?" Ia menjawab: "Dengan engkau berada pada puncak keutamaan."
+
+Ia berkata: Apabila engkau ingin kebaikan-kebaikanmu tampak agung di mata manusia, janganlah sekali-kali engkau mengagungkannya dalam dirimu.
+
+Ia berkata: Perempuan adalah gangguan yang tidak dapat dihindari.
+
+Ia berkata: Orang yang berbuat baik karena kebaikan itu sendiri wajib melakukannya kepada setiap orang, di hadapan setiap manusia, dan di hadapan orang yang memujinya maupun yang mencelanya.
+
+Ia berkata: Adapun kebanyakan manusia, mereka hidup untuk makan, sedangkan aku makan untuk hidup, dan aku hidup untuk menjalani kehidupan yang berakal.
+
+Ia ditanya: "Kapan seseorang mengenal sahabat-sahabatnya?" Ia menjawab: "Ketika berbagai kesulitan, karena setiap orang adalah sahabat ketika senang dan lapang."
+
+Seorang laki-laki mencacinya, tetapi ia tidak marah. Hal itu dibicarakan kepadanya, lalu ia menjawab: "Jika orang itu benar, tidak seyogianya aku marah; dan jika ia dusta, lebih pantas lagi aku tidak marah, karena aku tidak seperti yang ia katakan."
+
+Ia mendengar seorang laki-laki banyak bicara, lalu berkata kepadanya: "Berlaku adillah kepada kedua telingamu. Sesungguhnya engkau diberi dua telinga dan satu lisan hanyalah agar engkau lebih banyak mendengar daripada berbicara."
+
+Iskandar bertanya kepada orang-orang di majelisnya: "Dengan apa pahala diperoleh?" Diogenes menjawab kepadanya: "Dengan perbuatan-perbuatan baik. Sesungguhnya engkau, wahai raja, mampu memperoleh dalam satu hari apa yang tidak mampu diperoleh rakyat sepanjang masanya."
+
+Ia melewati seorang pemungut pajak sepersepuluh, lalu pemungut itu bertanya kepadanya: "Apakah engkau membawa sesuatu?" Ia menjawab: "Ya." Ia meletakkan kantong bekalnya, lalu pemungut itu memeriksanya, tetapi tidak menemukan apa pun di dalamnya. Ia bertanya kepadanya: "Mana yang engkau katakan tadi?" Ia membuka dadanya dan berkata kepadanya: "Ia ada di sini, di tempat yang tidak dapat engkau jangkau dan tidak dapat engkau lihat."
+
+Ia melihat seorang pemuda tampan yang sedang belajar hikmah, lalu berkata: "Bagus sekali engkau, karena engkau telah menyertakan cinta kepada keindahan wajahmu dengan cinta kepada keindahan jiwamu."
