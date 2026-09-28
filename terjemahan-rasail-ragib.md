@@ -14,9 +14,9 @@
 | Butir | Keterangan |
 |---|---|
 | Tahap | Penerjemahan berjalan |
-| Sudah diterjemahkan | Risalah Pertama (lengkap); Risalah Kedua: mukadimah, Pasal Pertama s.d. Kelima |
-| Posisi berikutnya | Risalah Kedua, Pasal Keenam |
-| Nomor catatan terakhir | CM s7 · CP p76 · CD d38 · CT t3 |
+| Sudah diterjemahkan | Risalah Pertama dan Kedua (lengkap) |
+| Posisi berikutnya | Risalah Ketiga |
+| Nomor catatan terakhir | CM s7 · CP p86 · CD d47 · CT t3 |
 | Catatan istilah | lihat 3.3 |
 
 ---
@@ -265,7 +265,7 @@ Dalam cinta yang dituntut oleh manfaat dan kelezatan terjadi saling mendahului d
 
 Boleh jadi dua orang yang bersahabat berbeda tujuannya: tujuan salah satunya kelezatan dan tujuan yang lain manfaat, atau tujuan salah satunya suatu manfaat dan tujuan yang lain manfaat yang lain. Karena itulah dikenal sebutan "kasih sayang pelacuran" (*al-mawadda al-qiḥābiyya*) dan "kasih sayang yang penuh celaan" (*al-mawadda al-lawwāma*): bila tujuan si pencinta (*ʿāshiq*) adalah bersenang-senang sedang tujuan yang dicintai adalah harta, keduanya tidak henti-hentinya saling mengeluh.[^p11][^d9]
 
-Adapun cinta karena keutamaan, yaitu cinta karena Dzat Allah Ta'ala, ia bersih dari semua cela ini.[^p12] Dialah yang dikecualikan dalam firman Allah Ta'ala: *"Teman-teman karib pada hari itu saling bermusuhan satu sama lain, kecuali mereka yang bertakwa"* (az-Zukhruf: 67). Itu pula yang dimaksud Abu al-Atahiyah dengan ucapannya:
+Adapun cinta karena keutamaan, yaitu cinta karena Dzat Allah Ta'ala, ia bersih dari semua cela ini.[^p12] Dialah yang dikecualikan dalam firman Allah Ta'ala: *"Teman-teman karib pada hari itu saling bermusuhan satu sama lain, kecuali mereka yang bertakwa"* (az-Zukhruf: 67). Itu pula yang dimaksud Abu al-'Atahiyah dengan ucapannya:
 
 > Tiada suatu kaum saling berbagi ketulusan bukan karena Dzat Allah,
 > kecuali mereka berpisah dengan saling membenci.
@@ -1159,8 +1159,161 @@ Ketiganya diperoleh manusia dengan taufik Allah Ta'ala, dan taufik adalah tiang 
 
 [^r-milla]: **Keagamaan** (*millī*). *Millī* dinisbatkan kepada *milla* (agama, syariat), dan dalam klasifikasi ilmu berarti ilmu yang bersumber dari nukilan agama, sebagai lawan ilmu akliah. Al-Rāghib menambahkan kelompok ketiga, yang dituntut oleh akal dan agama sekaligus, dan menyebutnya ilmu hikmah (*ḥikamī*).
 
-[^r-hikma2]: **Hikmah** (*ḥikma*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 38 (`m-hikma`) dan no. 39 (`k-hikma`), dan terjemahan *Tafṣīl*, catatan no. 46 (`r-hikma`). Penyunting mengutip ucapan al-Rāghib (dalam *al-Dharīʿa*, Pasal Pertama) bahwa nisbah ilmu-ilmu kepada hikmah dari satu segi seperti nisbah anggota-anggota kepada badan, karena ilmu-ilmu itu bagian-bagiannya.
+[^r-hikma2]: **Hikmah** (*ḥikma*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 38 (`m-hikma`) dan no. 39 (`k-hikma`), dan terjemahan *Tafṣīl*, catatan no. 46 (`r-hikma`). Penyunting mengutip ucapan al-Rāghib, yang terdapat dalam *al-Dharīʿa*, Pasal Kedua, "Perbedaan antara Ilmu dan Akal, serta antara Ilmu, Makrifat, Dirayah, dan Hikmah": "Hubungan ilmu-ilmu dengan hikmah, dari satu segi, seperti hubungan anggota-anggota dengan badan, karena ilmu-ilmu itu adalah bagian-bagiannya." Di sana pula dinyatakan bahwa dalam pengetahuan syariat hikmah adalah nama bagi ilmu-ilmu akliah; di sini ilmu hikmah dibedakan dari ilmu akliah dalam arti mengenal Allah dan kenabian.
 
 [^p76]: CP: Edisi tahkik membaca *maʿrifat ḥudūth al-ʿilm* ("barunya ilmu"); kami mengikuti pembetulan penerjemah Turki, *ḥudūth al-ʿālam* ("barunya alam"), yang merupakan pokok pertama ilmu kalam dan yang sesuai dengan deretan sesudahnya.
 
 [^d38]: CD: *Al-Dharīʿa*, Pasal Kedua, "Jalan-Jalan Memperoleh Ilmu", membagi jalan ilmu menjadi empat: (1) spontanitas akal dan benturan indra; (2) perenungan dengan premis-premis akliah atau indrawi; (3) kabar dari manusia, didengar atau dibaca; (4) wahyu. Pembagian di sini berbeda susunannya: pengetahuan tanpa perantara (indra dan spontanitas akal) sejajar dengan jalan pertama; "dalil-dalil yang digali" sejajar dengan jalan kedua; "bahan-bahan langit" sejajar dengan jalan keempat; sedang jalan ketiga *al-Dharīʿa* (kabar) diganti dengan "pengalaman". Pembagian ilmu menjadi akliah, keagamaan, dan hikmah juga tidak sama dengan "Pembatasan Macam-Macam Ilmu" dalam *al-Dharīʿa*, yang membagi ilmu menurut hubungannya dengan lafaz dan makna.
+
+## Pasal Keenam: Ilmu yang Paling Utama dan Paling Bermanfaat {.judul-bab}
+
+Manusia, dalam hal-hal yang mereka upayakan, adalah pencari kebaikan; dan definisi kebaikan ialah apa yang dicari oleh semua. Yang menunjukkan bahwa itulah definisinya ialah bahwa akal melarang usaha dan gerak yang tidak berujung, dan hal itu diketahui dengan prinsip-prinsip pertama akal. Setiap perbuatan yang dilakukan orang berakal dimaksudkan untuk suatu kebaikan; maka kebaikan adalah apa yang dicari oleh semua, tetapi terkadang pencarinya keliru dan peminangnya salah. Benarlah Abu al-'Atahiyah dalam ucapannya:[^r-khayr2]
+
+> Setiap orang mencari daya upaya yang ia harapkan
+> untuk menolak mudarat dan meraih manfaat.
+> Namun orang keliru dalam mengatur keadaannya,
+> hingga kadang ia memilih susah payah daripada ketenangan.[^d39]
+
+Bila hal itu telah tetap, maka seseorang berusaha untuk salah satu dari tiga hal: untuk menyelamatkan jiwa dari penderitaan dan mendekatkannya kepada kekekalan abadi dan kenikmatan yang kekal; untuk menyelamatkan badan dari penderitaan di negeri dunia; atau untuk mencari apa yang membuat badan senang, berupa apa yang menjadi kemaslahatannya, seperti harta, kedudukan, dan para penolong.[^p77] Setiap satu dari itu memiliki ilmu yang dengannya ia dicapai.
+
+Ilmu yang paling utama ialah yang berkaitan dengan yang dicari yang paling utama; dan yang dicari yang paling utama ialah yang bila tercapai tidak hilang dan bila diperoleh tidak dirampas, yaitu kekekalan abadi. Adapun badan, harta, kedudukan, dan para penolong adalah pinjaman-pinjaman yang akan diambil kembali: mereka meninggalkanmu dan engkau meninggalkan mereka. Perumpamaannya ialah firman Allah Ta'ala: *"Sesungguhnya perumpamaan kehidupan dunia itu, hanya seperti air (hujan) yang Kami turunkan dari langit"* (Yunus: 24).
+
+Maka tetaplah bahwa ilmu itu tiga: yang paling utama ialah ilmu agama, yang dengannya diperoleh kekekalan abadi; kemudian ilmu badan; kemudian ilmu mencari penghidupan.[^d40]
+
+[^r-khayr2]: **Kebaikan** (*khayr*). Lihat catatan r-khayr di atas. Definisi "apa yang dicari oleh semua" sama dengan rumusan *al-Mufradāt*, s.v. *kh-y-r*: kebaikan ialah apa yang diinginkan oleh semua, seperti akal, keadilan, keutamaan, dan sesuatu yang bermanfaat. Dalil bahwa akal melarang gerak yang tidak berujung adalah dalil para filsuf: setiap perbuatan dimaksudkan untuk sesuatu yang lain, dan rangkaian itu harus berakhir pada sesuatu yang dicari demi dirinya sendiri, yaitu kebaikan tertinggi.
+
+[^d39]: CD: Bait-bait Abu al-'Atahiyah ini dikutip pula dalam *al-Dharīʿa*, Pasal Pertama, "Macam-Macam Nikmat Allah Ta'ala yang Dianugerahkan dan yang Diusahakan", sesudah kalimat "Dalam mengupayakan hal itu manusia ada dua golongan: pencari kebaikan dan pelari dari keburukan". Terjemahan di atas mengikuti redaksi terjemahan *al-Dharīʿa*.
+
+[^p77]: CP: Edisi tahkik membaca *wa-l-taʿlīm al-abadī* ("pengajaran yang abadi"); kami membacanya *wa-l-tanʿīm al-abadī* ("kenikmatan yang abadi"), pasangan *al-baqāʾ al-sarmadī* ("kekekalan abadi"). Frasa *li-ṭalab man yaṭību bi-l-badan* dibaca *li-ṭalab mā yaṭību bihi al-badan* ("mencari apa yang membuat badan senang"). Penyunting menduga *al-ālām* ("penderitaan") adalah *al-āthām* ("dosa-dosa"); dugaan itu tidak perlu, sebab penderitaan jiwa di akhirat adalah lawan dari kenikmatan abadi.
+
+[^d40]: CD: Bandingkan *al-Dharīʿa*, Pasal Kedua, "Apa yang dengannya Keutamaan Ilmu Diketahui": keutamaan suatu ilmu diketahui dengan dua hal, mulianya buahnya dan kokohnya dalilnya; "buah ilmu agama ialah sampainya manusia kepada kehidupan abadi, sedang buah ilmu kedokteran ialah sampainya kepada kehidupan dunia yang terputus". Di sini hanya ukuran pertama (buah) yang dipakai, dan urutannya dilengkapi dengan ilmu mencari penghidupan pada tingkat ketiga.
+
+## Pasal Ketujuh: Apa yang Dibutuhkan Pencari Ilmu, serta Cara Belajar dan Mengajarkannya {.judul-bab}
+
+Pencari ilmu membutuhkan lima hal: tiga dari langit, yaitu baiknya tabiat, kecukupan, dan panjangnya umur; satu dari pihaknya sendiri, yaitu perhatian yang sungguh-sungguh; dan satu dari pihak gurunya, yaitu nasihat yang tulus.
+
+### Baiknya Tabiat {.judul-pasal}
+
+Baiknya tabiat ialah bahwa ia banyak menerima; kuat menghafal apa yang ia terima; paham terhadap apa yang ia hafal; merenungkan apa yang ia pahami; dan kuat mengingat apa yang ia renungkan; dan bersama itu ia memiliki daya tangkap (*dhihn*), ketajaman akal (*dhakāʾ*), dan kecerdasan (*fiṭna*). Semua itu adalah daya-daya akal, seperti alat-alat baginya, dan perlu didefinisikan agar hakikat-hakikatnya tergambar.
+
+Tabiat (*ṭabʿ*) ialah daya menggambarkan makna-makna; kata ini berasal dari *ṭabʿ al-khātam* (cetakan cincin stempel).[^r-tab] Hafalan (*ḥifẓ*) ialah tetapnya rupa apa yang telah tercetak dalam jiwa. Pemahaman (*fahm*) ialah mengidrak apa yang telah dihafal. Pikiran (*fikr*) ialah menyaring apa yang telah dipahami. Ingatan (*dhikr*) ialah menyingkap tirai dari apa yang telah dipikirkan. Daya tangkap (*dhihn*) ialah perenungan jiwa terhadap apa yang menjadi konsekuensi dari apa yang telah ia pahami dan pikirkan. Ketajaman akal (*dhakāʾ*) ialah cepatnya perenungan itu; kata ini berasal dari *dhakat al-nār* (api menyala).[^d41]
+
+### Kecukupan dan Panjangnya Umur {.judul-pasal}
+
+Adapun kecukupan ialah bahwa ia memperoleh sekadar bekal hidup yang membuatnya tidak perlu bekerja mencari nafkah, dan yang karena banyaknya tidak menjadi kesibukan yang menghalanginya dari menekuni belajar. Dalam kekayaan jiwa ada yang mencukupimu, yaitu sekadar menutup kebutuhan; bila lebih dari itu, orang yang kaya dengannya justru menjadi fakir.[^p78] Buzurjmihr berkata: "Janganlah mewariskan harta kepada anak kecuali sekadar yang menjadi penolong baginya dalam mencari ilmu."
+
+Adapun panjangnya umur, Hippokrates berkata: "Keahlian itu panjang, umur itu pendek, percobaan itu berbahaya, dan keputusan itu sulit." Ini dalam ilmu badan; maka apa sangkaanmu tentang ilmu agama?[^p79] Panjangnya umur dibutuhkan karena akal tidak menjadi kokoh kecuali dengan pengalaman, dan pengalaman tidak tercapai kecuali dengan masa umur yang panjang yang di dalamnya keadaan-keadaan berganti.
+
+### Perhatian yang Sungguh-Sungguh {.judul-pasal}
+
+Adapun perhatian, ia dijalankan dengan memelihara beberapa hal: sebagian diperhitungkan pada dirinya sendiri, sebagian dalam kaitannya dengan ilmu, dan sebagian dalam kaitannya dengan guru.
+
+Yang diperhitungkan pada dirinya sendiri ialah apa yang dikatakan seorang bijak: "Tidak mungkin seseorang menampung ilmu-ilmu yang mulia sebelum ia menghapus dari benaknya perkara-perkara yang rendah, sehingga seluruh akhlaknya menjadi baik." Karena itu Hippokrates berkata: "Badan-badan yang tidak bersih, setiap kali engkau tambah makanannya, bertambah pula penyakitnya." Dikatakan: "Ilmu-ilmu yang suci hanya untuk kalbu-kalbu yang suci."[^p80][^d42]
+
+Yang diperhitungkan dalam kaitannya dengan ilmu, haknya ialah sebagai berikut.
+
+Ia mengetahui tujuan yang karenanya ia menempuh jalan ilmu itu, dan mengetahui jalan terpendek kepadanya.
+
+Ia mendahulukan yang paling penting, yaitu yang tidak boleh tidak diketahui, sebab yang diperhitungkan dalam setiap bidang adalah pokok-pokok sebelum cabang-cabang. Dikatakan: "Suatu kaum kehilangan kesampaian karena meninggalkan pokok-pokok." Yaitu dengan mencari genus ilmu sebelum cabangnya, dan spesiesnya sebelum partikular-partikularnya, sebab partikular-partikular tidak mampu ia kuasai.
+
+Ia tidak berambisi mencapai ujungnya yang terjauh. Aristoteles berkata: "Aku tidak menuntut ilmu untuk mencapai ujungnya yang terjauh dan menguasai puncaknya, tetapi (untuk mengetahui) apa yang tidak boleh tidak diketahui oleh orang berakal."
+
+Ia tidak mengarahkan cita-citanya dari ilmu kepada apa yang di luar kemampuan manusia untuk diidrak, sebab itu kebodohan yang berlebihan. Ia melewati apa yang sulit ia capai, dengan menyengaja ucapan penyair:[^p81]
+
+> Bila engkau tak mampu mengerjakan sesuatu, tinggalkanlah,
+> dan beralihlah kepada apa yang engkau mampu.
+
+Ia mengambil, bila mungkin, sebagian dari umumnya ilmu. Diriwayatkan dari Amirul Mukminin: "Ilmu itu terlalu banyak untuk dihitung, maka ambillah dari setiap ilmu yang terbaiknya." Ia tidak melampaui satu bab ke bab lain dan tidak naik kepada suatu ilmu sebelum mengokohkan yang pertama, sebab berjejalnya ilmu dalam kalbu merugikan pemahaman.
+
+Perhatiannya terhadap mutu apa yang ia hasilkan lebih besar daripada memperbanyak apa yang ia ketahui. Dikatakan: "Pohon tidak tercela karena sedikit buahnya bila buahnya bermanfaat."[^p82][^d43]
+
+Ia mengunci atas dirinya apa yang telah ia kuasai agar tidak lepas, sebab penyakit ilmu adalah lupa. Al-Hasan berkata: "Kekanglah jiwa-jiwa ini, karena ia selalu ingin menjulang; dan asahlah ia, karena ia cepat usang."
+
+Ia tidak memusuhi ilmu yang tidak ia ketahui. Dikatakan: "Manusia adalah musuh apa yang tidak mereka ketahui." Allah Ta'ala berfirman: *"Bahkan yang sebenarnya, mereka mendustakan apa yang mereka belum mengetahuinya dengan sempurna"* (Yunus: 39).
+
+Ia tidak peduli dengan kepayahan yang menimpanya. Permata-permata yang mulia tidak dicapai kecuali dengan mempertaruhkan diri; dan ilmu tidak akan memberimu sebagiannya sampai engkau memberinya seluruh dirimu, dan bila engkau telah memberinya seluruh dirimu, pemberiannya kepadamu atas sebagiannya pun masih belum pasti.
+
+Ia tidak membebani dirinya melebihi kemampuannya, dengan memperhatikan sabda Nabi, semoga Allah melimpahkan selawat dan salam kepadanya: *"Sesungguhnya orang yang memaksa tunggangannya hingga terputus di jalan, tidak ada jarak yang ia tempuh dan tidak ada punggung tunggangan yang ia sisakan,"* dan ucapan Umar: "Dirimu adalah tungganganmu; bila engkau berlemah lembut kepadanya, ia sanggup memikul; dan bila engkau memaksanya, ia terputus di jalan."[^d44]
+
+Ia melindungi dan mengistirahatkan jiwanya bila ia khawatir akan kejemuannya. Muawiyah berkata: "Setiap jiwa memiliki kejemuan, maka lindungilah ia." Dikatakan: "Istirahatkanlah kalbu, niscaya ia menampung zikir; kalbu bila dipaksa menjadi buta."
+
+Ia tidak merasa enggan bertanya tentang apa yang tidak ia ketahui. Daghfal ditanya: "Dengan apa engkau memperoleh ilmu ini?" Ia menjawab: "Dengan lisan yang banyak bertanya dan kalbu yang banyak berpikir." Amirul Mukminin berkata: "Ilmu adalah perbendaharaan, dan kuncinya adalah bertanya."
+
+Ia tidak merasa enggan belajar di masa tua sebagaimana di masa muda. Seorang bijak ditanya: "Apakah pantas bagi orang tua untuk belajar?" Ia menjawab: "Jika kebodohan buruk baginya, ilmu baik baginya." Yang lain ditanya: "Kapan belajar pantas bagi manusia?" Ia menjawab: "Selama hidup pantas baginya."
+
+Ia wajib menulis apa yang ia dengar dari hal-hal yang belum ia ketahui. Dikatakan: "Ikatlah ilmu dengan tulisan." Dikatakan pula: "Ilmu adalah bijih emas; jadikanlah kitab-kitab pelindungnya dan pena-pena penampungnya." Tetapi ia tidak mencukupkan diri dengan tulisan sampai dadanya menyimpan apa yang baik darinya. Tidak ada kebaikan dalam ilmu yang tidak menyeberang bersamamu ke lembah, tidak hadir bersamamu, tidak masuk bersamamu ke pemandian, dan tidak melintas bersamamu ke majelis. Siapa yang ilmunya di dalam keranjangnya, sedikit hujahnya terhadap lawan dan banyak kebutuhannya kepada kitab.
+
+Ia wajib tidak mencari suatu macam ilmu dari yang bukan genusnya, seperti mencari hukum-hukum fikih dari nahwu atau hukum-hukum kedokteran dari fikih; siapa yang mencari sesuatu bukan dari tempatnya tidak akan mendapatkan yang dicarinya.
+
+Kekeliruan seorang pelaku suatu ilmu tidak boleh membawanya untuk menghukumi rusaknya ilmu itu dan meninggalkan manfaatnya, seperti yang dilakukan orang awam: bila mereka mendapati seorang dokter atau ahli nujum keliru dalam hukumnya, mereka merendahkan kedokteran dan ilmu nujum. Ia wajib menilai sehat dan sakitnya setiap keahlian dengan apa yang menunjukkannya pada zatnya. Pelakunya tidak menunjukkan kelemahan keahlian itu, sebab tidak ada hubungan di antara keduanya selain bahwa ia menampilkan keahlian itu dengan mengerjakannya, adakalanya dengan jujur dan adakalanya dengan dusta.[^d45]
+
+Hak orang yang unggul dalam suatu ilmu ialah tidak menganggap banyak ilmunya bila dibandingkan dengan ilmu itu sendiri, tetapi hanya bila dibandingkan dengan pengetahuannya sendiri tentang bidang yang ia tekuni.[^p83] Al-Hasan menyebut firman Allah Ta'ala: *"sedangkan kamu tidak diberi pengetahuan melainkan sedikit"* (al-Isra': 85), lalu berkata: "Setiap orang alim menyangka ilmunya banyak." Ia menganggap dangkal akal Adi bin al-Riqa' dalam ucapannya:
+
+> Aku telah berilmu hingga aku tak lagi bertanya kepada seorang pun
+> tentang satu ilmu pun untuk menambahnya,
+
+sampai-sampai seorang ulama berkata: "Aku ingin melihatnya, menamparnya, menjewer telinganya, dan membawanya melewati satu ilmu demi satu ilmu, lalu memperlihatkan kepadanya bahwa ia tidak mengetahui sesuatu pun darinya selain syair, yang dalam hal itu pun ada orang alim yang menyamainya, bahkan mengunggulinya."
+
+Haknya ialah berjalan dalam mencari ilmu dengan meneladani kebenaran, bukan dengan bertaklid kepada tokoh-tokoh dan para pendahulu, dan bukan untuk mencari kepemimpinan. Amirul Mukminin Ali, semoga Allah memuliakan wajahnya, berkata: *"Wahai Harits, kebenaran telah dikaburkan bagimu. Kebenaran tidak dikenali dengan orang-orang; kenalilah kebenaran, niscaya engkau mengenal ahlinya."* Allah Ta'ala berfirman mencela taklid: *"Dan demikian juga ketika Kami mengutus seorang pemberi peringatan sebelum engkau (Muhammad) dalam suatu negeri, orang-orang yang hidup mewah (di negeri itu) selalu berkata, Sesungguhnya kami mendapati nenek moyang kami menganut suatu (agama) dan sesungguhnya kami sekadar pengikut jejak-jejak mereka. (Rasul itu) berkata, Apakah (kamu akan mengikutinya juga) sekalipun aku membawa untukmu (agama) yang lebih baik daripada apa yang kamu peroleh dari (agama) yang dianut nenek moyangmu. Mereka menjawab, Sesungguhnya kami mengingkari (agama) yang kamu diperintahkan untuk menyampaikannya"* (az-Zukhruf: 23-24). Beliau, semoga salam atasnya, bersabda mencela orang yang mencari ilmu demi kepemimpinan: *"Siapa yang mempelajari ilmu untuk berbangga di hadapan para ulama, berbantah dengan orang-orang bodoh, mengambil (harta) dari para penguasa, atau memalingkan wajah manusia kepadanya, ia masuk neraka."*[^p84]
+
+Hendaklah tujuannya adalah amal. Nabi, semoga salam atasnya, berdoa: *"Ya Allah, aku berlindung kepada-Mu dari ilmu yang tidak bermanfaat, kalbu yang tidak khusyuk, dan jiwa yang tidak kenyang."*
+
+Adapun yang diperhitungkan dalam kaitannya dengan guru ialah sebagai berikut.
+
+Hendaklah ia mengagungkan dan mencintai gurunya. Iskandar ditanya: "Manakah yang lebih engkau cintai, gurumu atau ayahmu?" Ia menjawab: "Guruku, sebab ia sebab kehidupanku yang kekal, sedang ayahku sebab kehidupanku yang fana." Umar, semoga Allah meridainya, berkata: "Hormatilah orang yang kalian belajar darinya."
+
+Hendaklah ia tidak merasa enggan terhadap orang yang ia belajar darinya. Beliau, semoga salam atasnya, bersabda: *"Hikmah adalah barang hilang orang mukmin; di mana pun mereka menemukannya, hendaklah mereka mengikatnya."* Seorang bijak terlihat menulis sesuatu dari seorang banci, lalu ia dicela karenanya. Ia berkata: "Permata yang berharga tidak tercemar oleh dangkalnya orang yang menawarkannya dan rendahnya penjualnya." Seorang bijak berkata: "Aku belajar dari segala sesuatu yang terbaiknya, bahkan dari babi kebiasaannya bangun pagi untuk keperluannya, dari kucing kelembutannya dalam meminta, dan dari anjing kesetiaannya kepada pemiliknya."
+
+Hendaklah ia tidak merasa enggan terhadap sikap keras yang menimpanya dari gurunya dan pelayanan yang ia berikan kepadanya. Dikatakan: "Bila engkau diatur untuk kebaikan, bersikaplah seperti orang sakit terhadap dokter; sebab orang yang memberimu minum yang pahit agar engkau sehat lebih baik daripada orang yang menuangkan ke mulutmu yang manis agar engkau sakit." Hendaklah ia tidak bertanya kepadanya untuk menyulitkan. Dikatakan: "Bila engkau duduk bersama orang alim, bertanyalah kepadanya untuk memahami, bukan untuk menyulitkan."[^d46]
+
+### Nasihat Guru yang Tulus {.judul-pasal}
+
+Adapun guru yang tulus, haknya ialah sebagai berikut.
+
+Ia memandang menyebarkan ilmu sebagai kewajiban. Beliau, semoga salam atasnya, bersabda: *"Siapa yang mengetahui suatu ilmu lalu menyembunyikannya, Allah Ta'ala akan mengekangnya pada hari Kiamat dengan kekang dari api,"* dan bersabda: *"Janganlah kalian menahan ilmu, sebab dalam hal itu ada kerusakan agama kalian,"* lalu membaca firman Allah: *"Sungguh, orang-orang yang menyembunyikan apa yang telah Kami turunkan berupa keterangan-keterangan dan petunjuk"* (al-Baqarah: 159).
+
+Ia memperlakukan setiap murid sesuai dengan ilmunya, tidak mengutamakan yang kaya atas yang fakir. Abu al-'Aliyah berkata tentang firman Allah: *"Dan janganlah kamu memalingkan wajah dari manusia (karena sombong)"* (Luqman: 18): maknanya hendaklah yang fakir dan yang kaya sama di sisimu dalam ilmu. Tetapi ia wajib tidak menzalimi ilmu dengan meletakkannya bukan pada tempatnya. Dikatakan: "Janganlah kalian meletakkan hikmah pada yang bukan ahlinya, sehingga kalian menzaliminya; dan janganlah menahannya dari ahlinya, sehingga kalian menzalimi mereka."
+
+Ia memilih untuk setiap murid apa yang sesuai dengan tabiatnya. Salah seorang murid Aristoteles ditanya tentang suatu ilmu yang tidak layak bagi penanyanya, lalu ia berkata: "Setiap tanah ada tanamannya dan setiap bangunan ada fondasinya; ilmu ini tidak dapat dicapai dengan tangga-tangga tabiatmu."[^p85]
+
+Ia menyusun apa yang ia ajarkan dengan susunan yang memudahkan murid mengidraknya. Ia tidak bersikap kasar kepada murid sehingga menjadi keras, dan tidak terlalu lunak sehingga diremehkan. Ia memperhatikan ucapan seorang bijak: "Bila engkau dikunjungi seseorang yang ingin bertambah ilmunya, janganlah bersikap seperti musuhnya, tetapi bersikaplah seperti dokter terhadap orang sakit."
+
+Pendapat-pendapatnya benar; ia tidak menjajakan kebatilan kepada muridnya, melainkan tujuannya membela kebenaran dan melimpahkan kebaikan, bukan mengalahkan lawan dan memperoleh harta.[^d47]
+
+Ia tidak merasa enggan, bila ditanya tentang apa yang tidak ia ketahui, untuk berkata: "Aku tidak tahu", dengan meneladani Malik bin Anas, imam negeri hijrah, semoga Allah meridainya. Ia ditanya tentang beberapa masalah lalu berkata: "Aku tidak tahu." Ia dicela karena itu, lalu berkata: "Para malaikat tidak malu untuk berkata: *'Mahasuci Engkau, tidak ada yang kami ketahui selain apa yang telah Engkau ajarkan kepada kami'* (al-Baqarah: 32)." Dikatakan kepada Abu Amr: "Buruk bagi orang sepertimu untuk berkata aku tidak tahu." Ia menjawab: "Lebih buruk dari itu bila aku berkata lalu keliru."
+
+Inilah himpunan apa yang dimaksud untuk dijelaskan dalam risalah ini. Maka hendaklah Ustaz merenungkannya, semoga Allah melimpahkan akal kepadanya, menjaganya dengan kedudukan keutamaan, dan menjadikannya termasuk orang yang lebih banyak memandang dengan mata adabnya daripada dengan mata nasabnya.[^p86]
+
+[^r-tab]: **Tabiat** (*ṭabʿ*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 76 (`m-tab`, *al-Mufradāt*) dan no. 77 (`k-tab`, *Kashshāf*), dan terjemahan *Tafṣīl*, catatan no. 56 (`r-tab`): dalam *al-Mufradāt*, *ṭabʿ* ialah mencetak sesuatu dengan rupa tertentu, seperti mencetak mata uang dan stempel. Di sini *ṭabʿ* dipakai dalam arti khusus: daya menerima rupa makna-makna, seperti lilin menerima cetakan stempel.
+
+[^d41]: CD: *Al-Dharīʿa*, Pasal Kedua, "Hal-Hal yang Mengikuti Akal", memberi definisi-definisi yang lebih panjang dan sebagian berbeda: *dhakāʾ* ialah "ketangkasan dalam urusan dan cepatnya memutus kebenaran", juga dari *dhakat al-nār*; *dhihn* ialah daya jiwa yang siap memperoleh pendapat; pemahaman ialah "pengantar akal"; ingatan ialah "adanya sesuatu di dalam kalbu atau di lisan"; dan "tetapnya rupa sesuatu di dalam kalbu disebut *ḥifẓ*". Di sini daya-daya itu disusun sebagai tahap-tahap berurutan: menerima, menghafal, memahami, memikirkan, mengingat. Tentang istilah-istilah ini, lihat pula nota kaki *al-Dharīʿa* no. 114 (`m-fahm`), no. 115 (`m-hifz`), no. 160 (`k-dhaka`), dan no. 168 (`m-dhikr`).
+
+[^p78]: CP: Penyunting mencatat bahwa naskah berlubang di tempat ini dan melengkapi dua kata. Kalimat ini agaknya menyatakan bahwa kekayaan yang sejati adalah kekayaan jiwa, dan harta yang melebihi kebutuhan membuat pemiliknya fakir karena menyibukkannya.
+
+[^p79]: CP: Ucapan pertama adalah aforisme pembuka dalam *Aforisme* (*al-Fuṣūl*) Hippokrates: "Hidup itu singkat, keahlian itu panjang, kesempatan itu sempit, percobaan itu berbahaya, dan keputusan itu sulit", yang terkenal dalam terjemahan Arab dengan bunyi "umur itu pendek dan keahlian itu panjang".
+
+[^p80]: CP: Edisi tahkik membaca *al-ʿulūm al-ẓāhira* ("ilmu-ilmu yang tampak"), dan penyunting menjelaskannya dengan susah payah. Kami membacanya *al-ṭāhira* ("yang suci"), pasangan *al-qulūb al-ṭāhira* ("kalbu-kalbu yang suci").
+
+[^d42]: CD: Syarat ini sama dengan syarat pertama dalam *al-Dharīʿa*, Pasal Kedua, "Apa yang Wajib Diupayakan Murid": "menyucikan jiwanya dari akhlak yang buruk, sebagaimana tanah dibersihkan dari tumbuhan yang buruk untuk ditaburi benih. Telah dijelaskan bahwa yang suci hanya berdiam di rumah yang suci." Seluruh bagian tentang murid dan guru dalam pasal ini sejajar dengan dua bahasan berurutan dalam *al-Dharīʿa*, "Apa yang Wajib Diupayakan Murid" dan "Apa yang Wajib Diupayakan Guru terhadap Murid-Muridnya", serta bahasan "Anjuran Mengambil Bekal Secukupnya dari Setiap Ilmu"; di sini uraiannya lebih rinci dan disusun sebagai daftar.
+
+[^p81]: CP: Edisi tahkik membaca *an yatakhaṭṭā mā tayassara min bulūghihi* ("melewati apa yang mudah dicapai"), yang membalik maksud bait sesudahnya. Kami membacanya *mā taʿassara* ("apa yang sulit dicapai"). Bait ini milik ʿAmr bin Maʿdīkarib.
+
+[^p82]: CP: Edisi tahkik membaca *al-shajara lā yuthnīhā al-ḥaml* ("pohon tidak dibengkokkan oleh muatannya"); kami mengikuti bunyi ucapan yang sama dalam *al-Dharīʿa* (lihat catatan d43): *lā yashīnuhā qillat al-ḥaml* ("tidak tercela karena sedikit buahnya").
+
+[^d43]: CD: Tiga anjuran terakhir sejalan dengan *al-Dharīʿa*, Pasal Kedua, "Anjuran Mengambil Bekal Secukupnya dari Setiap Ilmu dan Mencukupkan Diri dengannya": ucapan Ali ("Ilmu itu banyak, maka ambillah dari setiap sesuatu yang terbaiknya"), larangan melampaui satu cabang ilmu sebelum mengokohkannya ("sebab berjejalnya ilmu di pendengaran menyesatkan pemahaman"), dan ucapan "pohon tidak tercela karena sedikit buahnya bila buahnya bermanfaat". Di sana pula: "banyak orang kehilangan kesampaian karena meninggalkan pokok-pokok".
+
+[^d44]: CD: Hadis ini dikutip dalam *al-Dharīʿa*, Pasal Ketiga, "Macam-Macam Kelezatan dan Rinciannya", untuk menjelaskan "kelahapan terhadap ilmu" (*naham fī al-ʿilm*): "seseorang membebani dirinya dengan apa yang tidak sanggup dipikul daya-dayanya sehingga ia terputus di tengah jalan". Terjemahan hadis di atas mengikuti redaksi itu. Dalam ucapan Umar, *tabiʿtahā* dibaca *ʿannaftahā* ("memaksanya"), sesuai maksudnya.
+
+[^d45]: CD: Anjuran ini sama dengan *al-Dharīʿa*, Pasal Kedua, "Apa yang dengannya Keutamaan Ilmu Diketahui": "Tidak semestinya suatu ilmu dihukumi rusak karena kekeliruan yang terjadi dari para ahlinya, seperti perbuatan orang awam … Itulah kebiasaan mereka dalam kedokteran dan ilmu nujum; mereka menilai keahlian dengan pelakunya." Di sana pula dikutip ucapan Ali kepada al-Harits, yang di sini diletakkan dalam anjuran tentang taklid; terjemahannya mengikuti redaksi terjemahan *al-Dharīʿa*.
+
+[^p83]: CP: Kalimat ini kurang jelas dalam edisi tahkik (*an lā yastakthira ʿilma nafsihi bi-l-iḍāfa ilā al-ʿilm fī nafsihi bal bi-l-iḍāfa ilā ʿilmihi alladhī yataʿāṭāhu*). Maksudnya agaknya: bila ia mengukur pengetahuannya dengan luasnya ilmu itu sendiri, ia akan melihatnya sedikit; ia hanya tampak banyak bila diukur dengan dirinya sendiri. Contoh Adi bin al-Riqa' sesudahnya menunjukkan kesalahan mengukur ilmu dengan diri sendiri.
+
+[^p84]: CP: Dalam edisi tahkik tercetak "untuk berhias, ia masuk neraka" di tengah hadis; penyunting menilai kata-kata itu sisipan penyalin, dan kami mengikutinya dengan meletakkan "ia masuk neraka" di akhir.
+
+[^d46]: CD: Jawaban Iskandar dikutip pula dalam *al-Dharīʿa*, Pasal Kedua, "Apa yang Wajib Diupayakan Guru terhadap Murid-Muridnya"; terjemahannya mengikuti redaksi itu. Perumpamaan murid sebagai orang sakit terhadap dokter juga terdapat dalam *al-Dharīʿa*, "Apa yang Wajib Diupayakan Murid": "Sebagaimana hak orang sakit ialah menyerahkan dirinya kepada dokter yang tulus … demikian pula hak murid, bila ia mendapati guru yang tulus, ialah menaati perintahnya." Di sini perumpamaan itu dipakai dua kali: untuk sikap murid terhadap guru, dan untuk sikap guru terhadap murid.
+
+[^p85]: CP: Edisi tahkik membaca *li-kull tarkība gharsun*; penyunting mencatat kata itu tidak jelas dan menduganya "pohon". Kami membacanya *li-kull turba gharsun* ("setiap tanah ada tanamannya"), yang sejajar dengan "setiap bangunan ada fondasinya".
+
+[^d47]: CD: *Al-Dharīʿa*, Pasal Kedua, "Apa yang Wajib Diupayakan Guru terhadap Murid-Muridnya", menekankan bahwa guru tidak boleh mengharapkan imbalan: "siapa yang menjual ilmu dengan harta benda dunia telah menentang Allah Ta'ala dalam hukum-Nya", sebab ilmu dilayani dan tidak melayani. Anjuran tentang menempatkan hikmah pada ahlinya dan berbicara sesuai kadar pemahaman juga terdapat dalam bahasan sesudahnya, "Wajibnya Mencegah Orang-Orang Bodoh dari Hakikat Ilmu", dengan ucapan Isa putra Maryam: "Janganlah kalian meletakkan hikmah pada yang bukan ahlinya, sehingga kalian menzaliminya"; terjemahan ucapan itu di atas mengikuti redaksi tersebut. Dalam kalimat "ia tidak menjajakan kebatilan", kata *yurabbiʿ* dalam teks dibaca *yurawwij*.
+
+[^p86]: CP: Kata kerja *yarmuqu* ("memandang") dalam doa penutup ini menguatkan bacaan *yarmuquhā* yang kami usulkan dalam Risalah Pertama, Bab Pertama (catatan p7).
