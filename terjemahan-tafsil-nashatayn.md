@@ -14,10 +14,10 @@
 
 | Butir | Keterangan |
 |---|---|
-| Tahap | Penerjemahan berjalan |
-| Sudah diterjemahkan | Mukadimah; Bab Pertama sampai Bab Ketiga Puluh Tiga (seluruh teks) |
-| Posisi berikutnya | Glosarium 3 dan daftar 3.3 |
-| Nomor catatan terakhir | CP: p50 · CD: d91 |
+| Tahap | Selesai: teks, catatan, dan glosarium |
+| Sudah diterjemahkan | Mukadimah; Bab Pertama sampai Bab Ketiga Puluh Tiga; glosarium 3.1-3.3 |
+| Posisi berikutnya | Selesai |
+| Nomor catatan terakhir | CP: p50 · CD: d91 · istilah: 60 |
 | Catatan istilah | lihat 3.3 |
 
 ---
@@ -55,20 +55,233 @@ Definisi catatan kaki diletakkan tepat sesudah paragraf yang merujuknya. Penanda
 4. **Catatan kaki edisi pertama:** catatan penjelasan yang tepat dipertahankan (disunting); catatan yang keliru direvisi dan disebut revisinya; rujukan ayat dipindahkan ke badan teks.
 5. **Catatan istilah:** istilah yang sudah diberi catatan *al-Mufradāt*/*Kashshāf* dalam terjemahan *al-Dharīʿa* cukup dirujuk dengan nomor nota kakinya (penomoran berurutan sesuai kemunculan dalam berkas *al-Dharīʿa*, yang juga menjadi urutan penomoran DOCX-nya), disertai kunci catatannya. Istilah baru diberi catatan baru.
 6. **Catatan Turki:** catatan kaki Lütfi Doğan hampir seluruhnya rujukan ayat dan takhrij hadis, sehingga tidak diambil. Edisi Arab Shamela tidak memuat catatan penyunting.
-7. **Istilah epistemologis:** *idrāk* = menangkap, menginsafi, mengidrak (pengidrakan); *taʿaqqul* = menginteleksi (inteleksi); *maʿqūl* = inteligibel; *maḥsūs* = terindra; *ʿaqlī* = akliah. Kata "mencerap" dan "mengakali" tidak dipakai.
+7. **Istilah epistemologis:** *idrāk* = menangkap, menginsafi, mengidrak (pengidrakan); *taʿaqqul* = menginteleksi (inteleksi); *maʿqūl* = inteligibel; *maḥsūs* = terindra; *ʿaqlī* = akliah; *wahm* = sangkaan (daya sangkaan), sesuai glosarium *al-Dharīʿa*. Kata "mencerap" dan "mengakali" tidak dipakai.
 8. Prinsip lain sama dengan terjemahan *al-Dharīʿa*: kutipan Al-Qur'an mengikuti Terjemahan Kemenag RI dengan rujukan (Surah: ayat) di badan teks; transliterasi IJMES untuk istilah konseptual; tanpa aksara Arab di badan terjemahan; tanpa tanda pisah panjang dan menengah; nama tokoh dalam bentuk lazim Indonesia.
 
 ---
 
 ## 3. Glosarium
 
-Glosarium ini memetakan glosarium *al-Dharīʿa* yang terpakai dalam kitab ini, ditambah istilah khas *Tafṣīl al-Nashʾatayn*. Kolomnya sama dengan glosarium *al-Dharīʿa*.
+Glosarium ini terdiri atas dua bagian. Bagian 3.1 memetakan baris-baris glosarium *al-Dharīʿa* yang istilahnya benar-benar terpakai dalam terjemahan ini, dengan kolom yang sama (Arab, transliterasi, padanan Indonesia, Inggris, daya dan disposisi, definisi *al-Mufradāt* = M, definisi *Kashshāf* = K, rumusan *al-Dharīʿa* = D), ditambah kolom letak kemunculan pertama dalam *Tafṣīl*. Padanan dalam terjemahan ini mengikuti kolom padanan Indonesia tersebut. Bagian 3.2 memuat istilah yang khas atau baru dalam *Tafṣīl*, yang tidak ada dalam glosarium *al-Dharīʿa*. Tanda † menandai istilah yang dalam terjemahan *al-Dharīʿa* diberi catatan *al-Mufradāt* atau *Kashshāf*.
 
-(Disusun pada akhir penerjemahan.)
+### 3.1 Istilah yang Dipetakan dari Glosarium *al-Dharīʿa*
+
+
+**Jiwa, Daya-Dayanya, dan Watak** (glosarium *al-Dharīʿa* 3.2)
+
+| Arab | Transliterasi | Padanan Indonesia | Inggris | Daya · Disposisi | M | K | D | Letak pertama dalam *Tafṣīl* |
+|---|---|---|---|---|---|---|---|---|
+| النفس | nafs | **jiwa** † | soul, self | substansi · - | Jiwa ialah roh; bila disandarkan kepada Allah berarti Zat-Nya. | Dalam kalangan filsuf: substansi yang terpisah dari materi pada zatnya tetapi tidak pada perbuatannya; ada jiwa langit dan jiwa manusia. | Manusia terdiri atas badan yang terindra dan jiwa yang inteligibel. | Bab Pertama |
+| الروح | rūḥ | **roh** † | spirit | substansi · - | Pada asalnya sama dengan *nafs*; lalu dipakai untuk bagian yang dengannya terjadi kehidupan, gerak, serta upaya meraih manfaat dan menolak mudarat. | Banyak ulama berkata hakikatnya tidak diketahui; yang lain menyebutnya jisim halus yang menjalar dalam badan. | Sering dipakai bergantian dengan *nafs*. | Bab Pertama |
+| العقل | ʿaql | **akal** † | intellect, reason | daya pikir · daya dan keutamaan induk | Dipakai untuk daya yang siap menerima ilmu, dan untuk ilmu yang diperoleh dengan daya itu; karena itu Ali berkata: akal ada dua, yang tertabiat dan yang terdengar. | Dalam skema akhlak, keutamaan daya rasional disebut hikmah, tengah antara kelicikan dan kebebalan. | Induk keutamaan pertama; disempurnakan oleh ilmu; memiliki banyak tingkatan (Pasal II). | Bab Pertama |
+| الشهوة | shahwa | **syahwat** † | desire, passion / appetite | daya syahwat · daya | Keterdorongan jiwa kepada apa yang diinginkannya; ada yang benar (tanpanya badan rusak, seperti lapar) dan yang palsu (tanpanya badan tidak rusak). | Kerinduan jiwa kepada hal-hal yang lezat; *shahwa kalbiyya* ialah syahwat berlebih seperti tabiat anjing. | - | Bab Kelima |
+| الغضب | ghaḍab | **amarah** † | anger / wrath | daya amarah · keadaan | Mendidihnya darah kalbu karena hendak membalas; bila disifatkan kepada Allah, maksudnya pembalasan. | Gerak jiwa yang bermula dari kehendak membalas; menurut yang lebih cermat, kualitas jiwa yang menggerakkan roh ke luar badan. | - | Bab Keempat |
+| الفكر / الفكرة | fikr / fikra | **pikiran; daya pikir** † | thought, reflection | daya pikir · daya | Daya yang menjadi jalan bagi ilmu menuju yang diketahui; *tafakkur* ialah beredarnya daya itu menurut pandangan akal, khas manusia. | Menurut ahli logika terdahulu: gerak jiwa di antara hal-hal inteligibel melalui daya pengolah. | Berpusat di tengah otak, laksana raja di tengah kerajaan. | Bab Keempat |
+| النطق / القوة الناطقة | nuṭq / al-quwwa al-nāṭiqa | **tutur; daya nalar-tutur** † | articulation, speech; rational faculty | daya pikir · daya | Bunyi-bunyi terpenggal yang dilahirkan lisan dan ditangkap telinga; ahli logika menamai daya yang menjadi sumbernya *nuṭq*. | Dipakai untuk tutur lahir (lafaz) dan tutur batin (pengidrakan hal-hal universal), serta untuk jiwa rasional. | Khas manusia; menjadi salah satu pembeda manusia dari hewan. | Bab Keempat |
+| الخيال / التخيل | khayāl / takhayyul | **imajinasi; daya khayal** † | imagination | daya pengidrak · daya | Asalnya rupa yang terlepas (seperti dalam mimpi dan cermin); *takhyīl*: menggambarkan rupa sesuatu dalam jiwa. | Salah satu indra batin: daya yang menyimpan rupa yang tertera dalam indra bersama. | Berpusat di bagian depan otak; laksana kepala pos raja. | Bab Keempat |
+| الذكر | dhikr | **daya ingat; ingatan** | remembrance | daya pikir · daya | Keadaan jiwa yang memungkinkan manusia menjaga pengetahuan yang dimilikinya; seperti *ḥifẓ*, tetapi *ḥifẓ* ditinjau dari penyimpanannya, *dhikr* dari penghadirannya. | Lawan lupa; juga ucapan. | - | Bab Kedua Puluh |
+| النزوع | nuzūʿ | **dorongan jiwa** | longing, impulse | daya penggerak · daya | Kerinduan yang sangat. | - | Salah satu daya hewani yang juga dimiliki manusia. | Bab Kelima |
+| الهوى | hawā | **hawa nafsu** † | passion | daya syahwat · keadaan tercela bila menguasai | Kecenderungan jiwa kepada syahwat; dinamai demikian karena menjatuhkan pemiliknya ke segala bencana di dunia dan ke *hāwiya* di akhirat. | Mencintai dan menginginkan; lalu dominan untuk yang tidak terpuji; "ahli hawa" ialah ahli bidah. | Berebut kuasa dengan akal (Pasal I). | Bab Pertama |
+| الطبع / الطبيعة | ṭabʿ / ṭabīʿa | **tabiat** † | nature, disposition | - · watak bawaan | Mencetak sesuatu dengan rupa tertentu seperti mencetak mata uang; darinya *ṭabʿ* dan *ṭabīʿa* yang berarti perangai. | Kadang sinonim *ṭibāʿ*, kadang sinonim *ṭabīʿa*: sifat yang tertanam dalam jisim. | Nama bagi daya yang tidak dapat diubah. | Bab Kelima |
+| الغريزة | gharīza | **naluri** | instinct | - · watak bawaan | Apa yang tertanam (*ghuriza*) pada manusia, seperti *naḥīta* (watak yang dipahat). | Tabiat; atau kemampuan yang menjadi sumber sifat-sifat zati. | Nama bagi daya yang tak dapat diubah. | Bab Kelima |
+| الفطرة | fiṭra | **fitrah** | primordial nature | - · watak bawaan | Apa yang ditanamkan Allah pada manusia berupa kesanggupan mengenal iman. | Diperselisihkan maknanya dalam hadis fitrah: penciptaan dalam keadaan selamat, atau kesiapan menerima Islam. | - | Bab Kedua Puluh Tujuh |
+| الوهم | wahm | **sangkaan** | estimation | daya pengidrak · - | - | - | Ketundukan jiwa menerima sesuatu tanpa dasar yang pasti (Pasal I). | Mukadimah Pengarang |
+| الهمة | himma | **cita-cita (himmah)** † | aspiration | daya penggerak · - | Tidak ada entri khusus. | Maksud untuk mewujudkan sesuatu; dalam kebiasaan, khusus untuk meraih kedudukan tinggi. | Kebesaran cita (*kibar al-himma*) adalah keutamaan (Pasal III). | Mukadimah Pengarang |
+
+**Istilah Umum Akhlak dan Tujuan Manusia** (glosarium *al-Dharīʿa* 3.3)
+
+| Arab | Transliterasi | Padanan Indonesia | Inggris | Daya · Disposisi | M | K | D | Letak pertama dalam *Tafṣīl* |
+|---|---|---|---|---|---|---|---|---|
+| السعادة | saʿāda | **kebahagiaan** † | happiness | - · tujuan | Pertolongan urusan-urusan ilahi kepada manusia untuk meraih kebaikan; yang teragung adalah surga. | Dalam kalangan sufi: seruan azali. | Kebahagiaan mutlak ialah kebaikan hidup di akhirat: kekal, kuasa, ilmu, dan kaya tanpa lawannya. | Mukadimah Pengarang |
+| العبادة | ʿibāda | **ibadah** † | worship | - · perbuatan | Puncak perendahan diri, yang tidak berhak menerimanya kecuali yang memiliki puncak karunia, yaitu Allah; ada ibadah karena ditundukkan dan ibadah dengan pilihan. | Puncak pengagungan. | Salah satu dari tiga tujuan penciptaan manusia (Pasal I). | Bab Ketujuh |
+| العبودية | ʿubūdiyya | **kehambaan** | servitude | - · kedudukan | Menampakkan perendahan diri; ibadah lebih tinggi daripadanya. | Lawan kemerdekaan. | Kedudukan orang bertakwa; dari sana manusia naik ke kedudukan kekhalifahan. | Bab Ketujuh |
+| الخلافة | khilāfa | **kekhalifahan** † | vicegerency | - · kedudukan | Menggantikan yang lain, karena ketiadaannya, kematiannya, ketidakmampuannya, atau untuk memuliakan yang digantikan; dengan makna terakhir Allah menjadikan wali-wali-Nya khalifah di bumi. | Dalam syariat: imamah. | Hanya sah dengan kesucian jiwa. | Bab Pertama |
+| عمارة الأرض | ʿimārat al-arḍ | **memakmurkan bumi** | prospering the earth | - · perbuatan | - | - | Salah satu dari tiga tujuan penciptaan manusia. | Bab Ketiga Puluh Dua |
+| السياسة | siyāsa | **pengaturan (siasat)** † | ruling, governance | - · perbuatan | Tidak ada entri khusus. | Memperbaiki makhluk dengan membimbing mereka ke jalan yang menyelamatkan di dunia dan akhirat. | Ada siasat diri dan siasat orang lain; siasat diri didahulukan. | Bab Pertama |
+| الإنسانية | insāniyya | **kemanusiaan** | humanity | gabungan · himpunan keutamaan | *Uns*: lawan keliaran; manusia dinamai demikian karena tidak dapat hidup tanpa saling bersahabat. | Tidak ada entri. | Lihat 3.1c. | Mukadimah Pengarang |
+| الكرم | karam | **kemuliaan hati** † | noble-mindedness | gabungan · himpunan keutamaan | Bila disifatkan kepada Allah, nama bagi kebaikan dan nikmat-Nya yang nyata; bila kepada manusia, nama bagi akhlak dan perbuatan terpuji yang tampak darinya. Sebagian ulama: seperti *ḥurriyya*, tetapi hanya untuk kebajikan besar. | Tidak ada entri dengan makna ini. | Sama dengan M; lawannya *luʾm*. | Bab Kesepuluh |
+
+**Keutamaan Taufik, Keutamaan Badan, dan Keutamaan Luar** (glosarium *al-Dharīʿa* 3.4)
+
+| Arab | Transliterasi | Padanan Indonesia | Inggris | Daya · Disposisi | M | K | D | Letak pertama dalam *Tafṣīl* |
+|---|---|---|---|---|---|---|---|---|
+| الهداية | hidāya | **hidayah** † | guidance | - · anugerah | Penunjukan jalan dengan lembut; hidayah Allah kepada manusia ada empat tingkat. | Menurut Asyʿariyah: penunjukan jalan yang mengantar kepada tujuan. | Di dunia ada tiga tingkat: pengenalan jalan baik dan buruk; tambahan sesuai tambahan ilmu dan amal; cahaya kewalian. | Bab Kelima Belas |
+| العصمة | ʿiṣma | **penjagaan ilahi (ismah)** † | divine protection | - · anugerah | *ʿIṣma* para nabi: penjagaan Allah dengan kebersihan asal, keutamaan jasmani dan rohani, pertolongan, dan peneguhan langkah. | Menurut Asyʿariyah: Allah tidak menciptakan dosa pada hamba; menurut para filsuf: kemampuan jiwa yang mencegah dari maksiat. | Karunia ilahi yang menguatkan manusia untuk mengejar kebaikan dan menjauhi keburukan, hingga menjadi seperti penghalang dari batinnya. | Bab Ketiga Puluh |
+
+**Akal, Ilmu, dan Iman** (glosarium *al-Dharīʿa* 3.5)
+
+| Arab | Transliterasi | Padanan Indonesia | Inggris | Daya · Disposisi | M | K | D | Letak pertama dalam *Tafṣīl* |
+|---|---|---|---|---|---|---|---|---|
+| العلم | ʿilm | **ilmu** † | knowledge | daya pikir · penyempurna akal | Mengidrak sesuatu menurut hakikatnya; ada dua: mengidrak zat sesuatu, dan menghukumi sesuatu dengan adanya atau tiadanya sesuatu padanya. Ada ilmu teoretis dan ilmu praktis, ilmu akliah dan ilmu yang didengar. | Tidak ada entri dengan makna ini (entri *al-ʿilm* dalam *Kashshāf* ada di mukadimahnya). | Penyempurna akal; lebih umum daripada makrifat. | Bab Kedua Puluh Tiga |
+| المعرفة | maʿrifa | **makrifat (pengenalan)** † | gnosis, cognition | daya pikir · - | Menangkap sesuatu dengan memikirkan dan merenungkan jejaknya; lebih khusus daripada ilmu; lawannya pengingkaran. Dikatakan "mengenal Allah", tidak "mengetahui Allah". | Dipakai untuk ilmu dalam arti pengidrakan mutlak, untuk konsepsi, dan untuk pengidrakan yang bersahaja. | Dipakai untuk apa yang ditangkap jejaknya meski zatnya tidak. | Bab Pertama |
+| الحكمة | ḥikma | **hikmah** † | wisdom | daya pikir · keutamaan | Mengenai kebenaran dengan ilmu dan akal; dari Allah: mengenal dan mewujudkan segala sesuatu secara paling kokoh; dari manusia: mengenal yang ada dan melakukan kebaikan. | Mengokohkan perbuatan dan ucapan; dalam skema akhlak: keadaan daya rasional praktis yang tengah antara kelicikan dan kebebalan. | Dalam *al-Dharīʿa* disebut sebagai kebaikan mutlak: bermanfaat, indah, dan lezat. | Bab Ketiga |
+| البصيرة | baṣīra | **mata batin** † | inner sight | daya pikir · daya | Penglihatan kalbu; hampir tidak dipakai untuk mata jasmani. | Daya kalbu yang diterangi cahaya kesucian, yang dengannya kalbu melihat hakikat dan batin segala sesuatu. | - | Bab Ketujuh |
+| الجهل | jahl | **kebodohan** † | ignorance | daya pikir · keburukan | Ada tiga: kosongnya jiwa dari ilmu; meyakini sesuatu tidak sesuai kenyataannya; melakukan sesuatu tidak sebagaimana mestinya. | Jahil sederhana (tiadanya ilmu) dan jahil tersusun (keyakinan yang tidak sesuai kenyataan). | Manusia dalam kebodohan ada empat tingkat (Pasal II). | Bab Kedua Puluh Lima |
+| البر | birr | **kebajikan** † | righteousness | gabungan · keutamaan | Keluasan dalam berbuat baik; dari Allah berupa pahala, dari hamba berupa ketaatan; mencakup keyakinan dan amal. | Tidak ada entri. | - | Bab Kedua Puluh Tiga |
+| الإحسان | iḥsān | **ihsan (berbuat baik)** | beneficence | gabungan · keutamaan | Ada dua: memberi nikmat kepada orang lain, dan berbuat baik dalam perbuatannya sendiri; lebih tinggi daripada keadilan. | Tidak ada entri. | Keadilan dan ihsan himpunan kemuliaan. | Bab Kedua Puluh Tiga |
+| اليقين | yaqīn | **keyakinan** † | certitude | daya pikir · keadaan | Sifat ilmu di atas makrifat dan dirayah; tenangnya pemahaman disertai kukuhnya putusan. | Keyakinan pasti yang sesuai kenyataan dan tidak goyah oleh keraguan. | - | Bab Kedua Puluh Tiga |
+| الظن | ẓann | **dugaan** | conjecture | daya pikir · keadaan | Nama bagi apa yang dihasilkan dari tanda; bila kuat mengantar kepada ilmu, bila sangat lemah tidak melampaui sangkaan. | Membolehkan dua hal, salah satunya lebih kuat. | - | Bab Kedua Puluh Tiga |
+| الوحي | waḥy | **wahyu** | revelation | - · - | Asalnya isyarat yang cepat; dengan kata-kata secara simbolis, suara, isyarat, atau tulisan. | Pemberitahuan secara tersembunyi atau cepat. | Asal-usul keahlian diambil dari wahyu (Pasal VI). | Bab Kesebelas |
+| الإدراك | idrāk | **pengidrakan; menangkap, menginsafi, mengidrak** | apprehension, perception | daya pengidrak (indra, khayal, pikir, akal) · - | Akar *d-r-k*: *dark* adalah tingkatan ke bawah (lawan *daraj*); *adraka* dan *tadāruk* bermakna menyusul dan mencapai. | Secara bahasa: bertemu dan sampai. Menurut filsuf: sinonim ilmu, yaitu rupa sesuatu yang tercapai pada akal; empat bagian: *iḥsās*, *takhyīl*, *tawahhum*, *taʿaqqul*. | Padanan tetap: kata kerja "menangkap" (umum), "mengidrak" (definisi teknis ilmu), "menginsafi" (kesadaran batin); kata benda "pengidrakan". Tidak memakai "mencerap". | Mukadimah Pengarang |
+| المعقول / المحسوس | maʿqūl / maḥsūs | **(yang) inteligibel / (yang) terindra** | intelligible / sensible | akal / indra · - | Dipakai berpasangan; nama hal-hal terindra dipinjam untuk hal-hal inteligibel. | *Maʿqūl*: apa yang diidrak (*intelligible*), primer atau sekunder. | *Maʿqūlāt*: hal-hal inteligibel; *maḥsūsāt*: hal-hal terindra. Kata "rasional" tidak dipakai untuk *maʿqūl*; untuk *ʿaqlī* dipakai "akliah". | Mukadimah Pengarang |
+
+**Daya Syahwat dan Turunannya (Pasal III)** (glosarium *al-Dharīʿa* 3.7)
+
+| Arab | Transliterasi | Padanan Indonesia | Inggris | Daya · Disposisi | M | K | D | Letak pertama dalam *Tafṣīl* |
+|---|---|---|---|---|---|---|---|---|
+| الوفاء | wafāʾ | **menepati janji (kesetiaan)** † | loyalty, fulfilment | gabungan · keutamaan | Menyempurnakan janji dan menepatinya. | Memelihara kasih dan janji. | Saudara kejujuran dan keadilan: jujur dengan lisan dan perbuatan sekaligus; khas manusia. | Bab Keenam |
+| الكبر / التكبر | kibr / takabbur | **kesombongan** † | pride, arrogance | gabungan · keburukan (lebih) | Keadaan yang dimiliki manusia karena kagum pada dirinya, yakni memandang dirinya lebih besar dari orang lain; yang paling besar ialah sombong terhadap Allah dengan menolak kebenaran. | Menganggap diri lebih baik daripada orang lain. | Lawan kerendahan hati (Pasal III). | Bab Kesepuluh |
+| العجب | ʿujb | **ujub (kagum diri)** † | self-conceit | gabungan · keburukan | *ʿAjab* dan *taʿajjub*: keadaan yang menimpa manusia karena tidak mengetahui sebab sesuatu (tidak mengenai *ʿujb* dalam arti akhlak). | Memandang diri dan amal diri, yakni membesarkan diri. | Sangkaan manusia bahwa dirinya layak mendapat kedudukan yang tidak layak baginya. | Bab Pertama |
+| اللذة | ladhdha | **kelezatan (kenikmatan)** † | pleasure | syahwat · keadaan | Tidak ada entri khusus. | Lawan rasa sakit; pengidrakan dan perolehan atas apa yang bagi yang mengidrak adalah kesempurnaan dan kebaikan. | Ada kelezatan akliah, badani, dan yang bercampur (Pasal III). | Bab Kelima |
+| العفة | ʿiffa | **kesucian diri** † | temperance, chastity | syahwat · keutamaan induk (tengah) | Hadirnya keadaan pada jiwa yang dengannya ia tercegah dari dikuasai syahwat; *mutaʿaffif*: yang mengupayakannya dengan latihan dan paksaan diri. | Keadaan daya syahwat yang tengah antara kedurjanaan dan padamnya syahwat. | Induk keutamaan; disempurnakan oleh warak; melahirkan kanaah. | Bab Kedua Puluh Enam |
+| الشره | sharah | **kerakusan** | gluttony, greed | syahwat · keburukan (lebih) | Tidak ada entri khusus; disebut dalam definisi *ḥirṣ* dan *ḥurriyya*. | Tidak ada entri. | - | Bab Kedua Puluh Enam |
+
+**Daya Amarah dan Turunannya (Pasal IV)** (glosarium *al-Dharīʿa* 3.8)
+
+| Arab | Transliterasi | Padanan Indonesia | Inggris | Daya · Disposisi | M | K | D | Letak pertama dalam *Tafṣīl* |
+|---|---|---|---|---|---|---|---|---|
+| الشجاعة | shajāʿa | **keberanian** † | courage | amarah · keutamaan induk (tengah) | Tidak ada entri khusus (hanya di bawah *basāla*: keberanian disebut juga *basāla*). | Keadaan daya amarah yang tengah antara kenekatan (berlebih) dan kepengecutan (kurang). | Bila ditinjau dalam jiwa: teguhnya kalbu menghadapi kengerian; bila ditinjau dalam perbuatan: maju pada saat yang tepat; tengah antara kenekatan dan kepengecutan; lahir dari kekagetan dan amarah yang seimbang. | Bab Kedua Puluh Enam |
+| الجبن | jubn | **kepengecutan** † | cowardice | amarah · keburukan (kurang) | Lemahnya kalbu dari apa yang semestinya ia kuat menghadapinya. | Dalam skema *khuluq*: kurangnya daya amarah. | Lahir dari kekagetan yang berlebih. | Bab Kedua Puluh Enam |
+| التهور | tahawwur | **kenekatan** | recklessness | amarah · keburukan (lebih) | Tidak ada entri dengan makna ini. | Dalam skema *khuluq*: berlebihnya daya amarah, maju kepada yang tidak semestinya. | - | Bab Kedua Puluh Enam |
+| التوبة | tawba | **tobat** † | repentance | gabungan · perbuatan | Dalam syariat: meninggalkan dosa karena buruknya, menyesali yang telah lalu, bertekad tidak mengulangi, dan menyusul apa yang dapat disusul dari amal; bila empat syarat ini terkumpul, sempurnalah tobat. | Menyesali maksiat karena ia maksiat, disertai tekad tidak kembali kepadanya. | - | Bab Ketiga Puluh |
+| الحمية | ḥamiyya | **daya amarah yang bergolak** † | zeal, ardour | amarah · daya | Daya amarah bila bergolak dan banyak (al-Fath: 26). | Tidak ada entri. | Nama daya amarah; bila bergerak melahirkan *ghamm*, *ghaḍab*, atau *watr*/*ḥiqd* menurut kedudukan lawan. | Bab Kedua Puluh Enam |
+
+**Keadilan, Kezaliman, Cinta, dan Kebencian (Pasal V)** (glosarium *al-Dharīʿa* 3.9)
+
+| Arab | Transliterasi | Padanan Indonesia | Inggris | Daya · Disposisi | M | K | D | Letak pertama dalam *Tafṣīl* |
+|---|---|---|---|---|---|---|---|---|
+| العدل / العدالة | ʿadl / ʿadāla | **keadilan** † | justice | seluruh daya · keutamaan induk | Kata yang menuntut makna kesetaraan, dipakai dengan memperhatikan hubungan; *ʿadl* untuk yang ditangkap mata batin (hukum), *ʿidl* untuk yang ditangkap indra; adil ialah membagi secara setara. | Dalam syariat: tercegah dari larangan-larangan agama, yaitu unggulnya sisi agama dan akal atas hawa nafsu dan syahwat; dalam skema akhlak: keadaan yang lahir dari terhimpunnya tiga keutamaan. | Titik tengah yang semua sisinya adalah *jawr*; laksana titik pusat lingkaran. | Bab Kedua Puluh Tiga |
+| الإنصاف | inṣāf | **sikap adil (insaf)** | fairness | seluruh daya · penyempurna keadilan | Dalam muamalah: keadilan, yakni tidak mengambil manfaat dari rekannya kecuali seperti yang ia berikan, dan tidak menimpakan mudarat kecuali seperti yang ia terima. | Tidak ada entri. | Penyempurna keadilan; disebut juga agama. | Bab Kedua Puluh Tiga |
+| الظلم | ẓulm | **kezaliman** † | injustice | seluruh daya · keburukan | Menurut ahli bahasa dan banyak ulama: meletakkan sesuatu tidak pada tempatnya yang khusus, dengan mengurangi, menambah, atau menyimpang dari waktu dan tempatnya. | Dalam bahasa: meletakkan sesuatu tidak pada tempatnya; dalam syariat: melampaui dari kebenaran kepada kebatilan, yakni *jawr*. | Menyimpang dari keadilan; melampaui dari sisi berlebih disebut *ʿudwān* dan *ṭughyān*; menyimpang ke salah satu sisi disebut *jawr*; *ẓulm* lebih umum. | Bab Kedua Puluh Lima |
+
+**Keahlian, Penghidupan, Harta, dan Pemberian (Pasal VI)** (glosarium *al-Dharīʿa* 3.10)
+
+| Arab | Transliterasi | Padanan Indonesia | Inggris | Daya · Disposisi | M | K | D | Letak pertama dalam *Tafṣīl* |
+|---|---|---|---|---|---|---|---|---|
+| الكسل | kasal | **kemalasan** | sloth | - · keburukan | Merasa berat terhadap apa yang semestinya tidak diberatkan; karena itu tercela. | Tidak ada entri. | - | Bab Keenam |
+| الصناعة | ṣināʿa | **keterampilan (keahlian)** † | craft | daya pikir · perbuatan | Lihat *ṣunʿ*. | Keahlian, seni, teknik. | Macam dan tingkat keahlian; asalnya dari wahyu (Pasal VI, VII). | Bab Kedua Belas |
+| الشح | shuḥḥ | **kebakhilan (kikir disertai tamak)** † | avarice | syahwat · keburukan (watak) | Kikir disertai rakus, dalam hal yang sudah menjadi kebiasaan. | Tidak ada entri. | Lawan *sakhāʾ*; merupakan watak (bentuk *shaḥīḥ* adalah bentuk sifat bawaan). | Bab Kedua Puluh Lima |
+| التعاون / التظاهر | taʿāwun / taẓāhur | **saling menolong** † | mutual help | - · keutamaan sosial | *ʿAwn*: saling membantu dan menopang (al-Ma'idah: 2). | Tidak ada entri. | Dasar tesis "manusia makhluk kota menurut tabiatnya". | Bab Kedua Belas |
+| التسخير | taskhīr | **penundukan** † | subjection | - · - | Menggiring kepada tujuan khusus dengan paksa; *sukhriyy*: tunduk tetapi bekerja dengan kehendaknya. | Tidak ada entri. | Manusia "terpaksa dalam rupa orang yang memilih" kepada keterampilannya. | Bab Kedua Belas |
+
+**Perbuatan (Pasal VII)** (glosarium *al-Dharīʿa* 3.11)
+
+| Arab | Transliterasi | Padanan Indonesia | Inggris | Daya · Disposisi | M | K | D | Letak pertama dalam *Tafṣīl* |
+|---|---|---|---|---|---|---|---|---|
+| الإبداع | ibdāʿ | **penciptaan dari ketiadaan** † | origination | - · perbuatan ilahi | Membuat tanpa meniru; bagi Allah: tanpa alat, materi, waktu, tempat. | Mengadakan tanpa contoh; menurut filsuf: tanpa perantara materi, alat, waktu. | Mengadakan sekaligus, bukan dari yang ada, tanpa urutan; hanya bagi Allah. | Mukadimah Pengarang |
+| التكوين | takwīn | **pembentukan** † | generation | - · perbuatan ilahi | *Kawn* dipakai sebagian ahli kalam untuk *ibdāʿ*. | Mengeluarkan yang tiada menuju ada (ahli kalam). | Mengadakan dari ketiadaan dengan urutan, dari kurang menuju sempurna. | Bab Kedua |
+| التربية / الرب | tarbiya / rabb | **pemeliharaan** † | nurture, lordship | - · perbuatan ilahi | Menumbuhkan keadaan demi keadaan hingga sempurna. | Tidak ada entri. | Mengganti yang terurai dari tubuh agar bertahan selama masanya. | Mukadimah Pengarang |
+| الإحالة | iḥāla | **pengubahan (kualitas)** | alteration | - · perbuatan ilahi | Tidak ada entri. | Tidak ada entri. | Perubahan rasa, warna, dan bau pada segala yang ada. | Bab Kedua |
+| الخلق | khalq | **penciptaan** † | creation | - · perbuatan ilahi | Penentuan ukuran yang lurus; *ibdāʿ* hanya milik Allah, *istiḥāla* terkadang diberikan kepada selain-Nya. | Lihat *khuluq*. | Nama umum bagi empat perbuatan ilahi. | Mukadimah Pengarang |
+| الروية | rawiyya | **pertimbangan** | deliberation | pikiran · - | Tidak ada entri. | Tidak ada entri. | Pembeda perbuatan berkehendak: dari pertimbangan (pilihan) atau tanpa pertimbangan. | Bab Ketujuh |
+| القسر / الإلجاء / الإكراه | qasr / iljāʾ / ikrāh | **paksaan fisik / keterdesakan / pemaksaan** † | compulsion / duress / coercion | - · perbuatan tak berkehendak | Pasangan *ṭawʿan wa karhan*. | *Ikrāh*: membuat hilang kerelaan atau rusak pilihan dengan tetapnya kecakapan. | Celaan ditimbang dari beratnya perbuatan yang dipaksakan dibanding beratnya ancaman. | Bab Kedua Puluh Satu |
+
+**Istilah Agama, Ketaatan, dan Dosa** (glosarium *al-Dharīʿa* 3.12)
+
+| Arab | Transliterasi | Padanan Indonesia | Inggris | Daya · Disposisi | M | K | D | Letak pertama dalam *Tafṣīl* |
+|---|---|---|---|---|---|---|---|---|
+| الرياء | riyāʾ | **riya (pamer)** † | ostentation | gabungan · keburukan | Menyertakan selain Allah dalam sebagian urusan; salah satu bentuk syirik. | Meninggalkan ikhlas dalam amal karena memperhatikan selain Allah. | - | Bab Pertama |
+| الملك | malak | **malaikat** | angel | - · - | - | - | Manusia yang naik sampai ke ufuk malaikat. | Bab Kedua |
+
+### 3.2 Istilah Khas *Tafṣīl al-Nashʾatayn*
+
+Istilah-istilah berikut tidak terdapat dalam glosarium *al-Dharīʿa*, atau terdapat di sana tetapi dipakai dalam arti yang khas dalam kitab ini. Definisinya diambil dari catatan istilah di badan terjemahan.
+
+| Arab | Transliterasi | Padanan Indonesia | Inggris | Definisi ringkas | Sumber | Catatan | Letak pertama |
+|---|---|---|---|---|---|---|---|
+| النشأة | nashʾa | **kejadian** | genesis, coming-to-be | Mengadakan sesuatu dan menumbuhkannya sedikit demi sedikit; kejadian pertama (dunia) dan kejadian akhir (akhirat). | M | `m-nasha` | Mukadimah |
+| المعاد | maʿād | **hari kembali** | return, resurrection | Kembalinya manusia kepada Allah sesudah kematian; diingkari kaum naturalis (*ṭabīʿiyyūn*). | D | `p47` | Bab Ketiga Puluh Dua |
+| الواجب الوجود | wājib al-wujūd | **Yang Wajib Ada** | Necessary Existent | Yang tetap ada, yang bila diandaikan terangkat menimbulkan kemustahilan; lawan *mumkin* (yang mungkin) dan *mustaḥīl* (yang mustahil). | M | `m-wajib`, `p14` | Bab Kedua |
+| الجوهر | jawhar | **substansi** | substance / essence | Yang ada yang berdiri sendiri, lawan aksiden (*ʿaraḍ*); juga hakikat dan zat. Di sini arti pertama. Padanan "esensi" pada edisi pertama direvisi. | K | `k-jawhar` | Bab Kedua |
+| المعقولات العلوية / المحسوسات السفلية | al-maʿqūlāt al-ʿulwiyya / al-maḥsūsāt al-sufliyya | **yang inteligibel di alam atas / yang terindra di alam bawah** | higher intelligibles / lower sensibles | Dua macam segala yang ada; yang pertama diadakan sebelum yang kedua. | D | `p15` | Bab Kedua |
+| الأركان / العناصر | arkān / ʿanāṣir | **rukun / unsur** | elements | Empat unsur: api, udara, air, tanah; benda sederhana yang memiliki prinsip gerak lurus. | K | `k-unsur` | Bab Kedua |
+| الكون والفساد | kawn wa fasād | **kejadian dan kerusakan** | generation and corruption | Munculnya suatu bentuk spesifik dan lenyapnya bentuk yang lain; tidak berlaku bagi benda langit yang diciptakan dengan *ibdāʿ*. | K | `k-fasad` | Bab Kedua |
+| المدبرات / المقسمات | al-mudabbirāt / al-muqassimāt | **para malaikat pengatur urusan / pembagi urusan** | angels who govern / who apportion | Malaikat yang ditugasi mengatur urusan dengan izin Allah (an-Nazi'at: 5; adz-Dzariyat: 4). | M | `m-mudabbirat` | Bab Kedua |
+| الابن | ibn | **anak** | son | Asalnya *banw*; anak adalah "bangunan" (*bināʾ*) bagi ayahnya. | M | `m-ibn` | Bab Kedua |
+| التراب / الطين / الحمأ المسنون / الطين اللازب / الصلصال / الفخار | turāb / ṭīn / ḥamaʾ masnūn / ṭīn lāzib / ṣalṣāl / fakhkhār | **tanah / tanah liat / lumpur hitam yang berubah / tanah liat yang melekat / tanah kering yang berdenting / tembikar** | dust / clay / altered black mud / sticky clay / dry ringing clay / pottery | Enam tahapan tanah penciptaan Adam; ketujuh ialah peniupan roh. *Masnūn* dipahami "yang berubah". | M | `m-tin` | Bab Ketiga |
+| السلالة | sulāla | **saripati** | extract, essence | Sari yang tersaring dari tanah; ada yang menjadikannya kiasan bagi nutfah. | M | `m-sulala` | Bab Ketiga |
+| المبدعات / المكونات | mubdaʿāt / mukawwanāt | **yang diciptakan dengan *ibdāʿ* / yang dibentuk dengan *takwīn*** | originated / generated beings | Alam atas dan makhluk rohani, lawan segala yang terjadi bertahap dari bahan. Catatan edisi pertama dibetulkan premisnya. | D | `r-takwin` | Bab Keempat |
+| الماهية | māhiyya | **kuiditas** | quiddity, essence | Apa yang dengannya sesuatu menjadi dirinya; terwujud dengan rupanya (*ṣūra*). | K | `k-mahiyya` | Bab Ketujuh |
+| الصورة التخطيطية | al-ṣūra al-takhṭīṭiyya | **rupa lahir** | outward form | Rupa terindra manusia: tegak tubuh, lebar kuku, kulit tak berbulu, tertawa; lawan rupa inteligibel (*al-ṣūra al-maʿqūla*). | D | `p2`, `d90` | Mukadimah |
+| الحيوان الناطق | al-ḥayawān al-nāṭiq | **hewan yang bertutur** | rational animal | Definisi manusia; "tutur" mencakup makna-makna akliah, bukan lafaz semata. | K | `r-nutq`, `p38` | Bab Ketujuh |
+| القوى النباتية | al-quwā al-nabātiyya | **daya-daya tumbuhan** | vegetative faculties | Penarik, penahan, pencerna, pendorong keluar, penumbuh, pemberi gizi, pembentuk. Tiga padanan edisi pertama dibetulkan. | K | `k-quwa` | Bab Kesembilan |
+| الوهم / القوة الوهمية | wahm / al-quwwa al-wahmiyya | **sangkaan, daya sangkaan** | estimation | Indra batin yang menangkap makna-makna parsial pada hal terindra; "penguasa" daya-daya batin yang berebut dengan akal. | K | `k-wahm` | Mukadimah |
+| الشرع / الشريعة | sharʿ / sharīʿa | **syariat** | revealed law | Jalan ilahi yang terang; mencakup akidah dan hukum. "Akal dari luar", sedang akal "syariat dari dalam". | M, K | `m-shar` | Bab Kedelapan Belas |
+| الضياء / النور | ḍiyāʾ / nūr | **sinar / cahaya** | radiance / light | *Ḍiyāʾ* lebih tinggi daripada *nūr*; cahaya bulan dipetik dari sinar matahari, seperti ilmu umat dari ilmu nabi. | M | `m-diya` | Bab Keempat Belas |
+| البداهة / العلوم الضرورية | badāha / al-ʿulūm al-ḍarūriyya | **kesertamertaan akal / ilmu-ilmu niscaya** | self-evidence / necessary knowledge | Pembenaran langsung proposisi primer; ilmu yang tidak diperoleh dengan penalaran. | D | `p33` | Bab Kelima Belas |
+| الترك | tark | **meninggalkan** | abandonment | Hanya meninggalkan yang dipilih terhitung perbuatan. | K | `k-tark` | Bab Kedua Puluh Dua |
+| التصور / التصديق | taṣawwur / taṣdīq | **konsepsi / pembenaran** | conception / assent | Dua macam ilmu; pembenaran bertingkat: dugaan kuat, ilmu yakin, mata yakin. | K | `k-tasawwur` | Bab Kedua Puluh Tiga |
+| علم اليقين / عين اليقين | ʿilm al-yaqīn / ʿayn al-yaqīn | **ilmu yakin / mata yakin** | knowledge / vision of certainty | Mengetahui dan mengetahui bahwa ia mengetahui / menyaksikan dengan mata batin. | M | `m-yaqin` | Bab Kedua Puluh Tiga |
+| المزاج | mizāj | **temperamen** | humour, temperament | Kualitas pertengahan yang timbul dari percampuran unsur-unsur. | K | `k-mizaj` | Bab Ketiga Belas |
+| الشعار | shiʿār | **ciri** | emblem, garb | Pakaian yang menempel pada kulit; lalu tanda pengenal. | D | `p19` | Bab Keenam |
+| الأبدال | abdāl | **abdal (para pengganti)** | substitutes | Orang-orang yang mengganti akhlak tercela dengan akhlak terpuji (al-Furqan: 70). | D | `p43` | Bab Ketiga Puluh Satu |
 
 ### 3.3 Daftar Catatan Istilah di Badan Terjemahan
 
-(Disusun pada akhir penerjemahan.)
+Catatan istilah ada dua jenis. Catatan baru dari *al-Mufradāt* (`m-…`) dan *Kashshāf* (`k-…`) diberikan untuk istilah yang belum diberi catatan dalam terjemahan *al-Dharīʿa*. Catatan rujukan (`r-…`) menunjuk nomor nota kaki terjemahan *al-Dharīʿa* (menurut urutan nota kaki dalam berkas dan DOCX-nya) untuk istilah yang sudah diberi catatan di sana, kadang disertai penyuntingan catatan edisi pertama. Daftar ini disusun menurut urutan kemunculan.
+
+| Kunci | Istilah | Jenis | Letak |
+|---|---|---|---|
+| `m-nasha` | Kejadian (*nashʾa*) | *al-Mufradāt* | Mukadimah Pengarang |
+| `r-saada` | Kebahagiaan (*saʿāda*) | rujukan *al-Dharīʿa* (no. 91, 92) | Mukadimah Pengarang |
+| `r-ins` | Manusia dan kemanusiaan (*insān*, *insāniyya*) | rujukan *al-Dharīʿa* (no. 370) | Mukadimah Pengarang |
+| `r-mahsus` | Terindra dan inteligibel (*maḥsūs*, *maʿqūl*) | rujukan *al-Dharīʿa* (glosarium/bahasan) | Mukadimah Pengarang |
+| `r-khuluq` | Akhlak dan rupa ciptaan (*khuluq*, *khalq*) | rujukan *al-Dharīʿa* (no. 79, 80) | Mukadimah Pengarang |
+| `r-himma` | Cita-cita (*himma*) | rujukan *al-Dharīʿa* (no. 235, 236) | Mukadimah Pengarang |
+| `r-ruh` | Roh (*rūḥ*) | rujukan *al-Dharīʿa* (no. 19, 20, 21) | Bab Pertama |
+| `r-aql` | Akal (*ʿaql*) | rujukan *al-Dharīʿa* (no. 93, 94, 66, 67) | Bab Pertama |
+| `r-khilafa` | Kekhalifahan (*khilāfa*) | rujukan *al-Dharīʿa* (no. 6, 50) | Bab Pertama |
+| `r-ujb` | Ujub (*ʿujb*) | rujukan *al-Dharīʿa* (no. 261, 262, 263) | Bab Pertama |
+| `r-marifa` | Makrifat (*maʿrifa*) | rujukan *al-Dharīʿa* (no. 156, 157) | Bab Pertama |
+| `m-wajib` | Wajib (*wājib*) | *al-Mufradāt* | Bab Kedua |
+| `k-jawhar` | Substansi (*jawhar*) | *Kashshāf* | Bab Kedua |
+| `r-ibda` | Penciptaan dari ketiadaan (*ibdāʿ*) | rujukan *al-Dharīʿa* (no. 421, 422) | Bab Kedua |
+| `k-unsur` | Rukun, unsur (*rukn*, *ʿunṣur*) | *Kashshāf* | Bab Kedua |
+| `r-khalq` | Penciptaan (*khalq*) | rujukan *al-Dharīʿa* (no. 420) | Bab Kedua |
+| `k-fasad` | Kerusakan (*fasād*) | *Kashshāf* | Bab Kedua |
+| `m-mudabbirat` | Para malaikat pengatur dan pembagi urusan (*al-mudabbirāt*, *al-muqassimāt*) | *al-Mufradāt* | Bab Kedua |
+| `m-ibn` | Anak (*ibn*) | *al-Mufradāt* | Bab Kedua |
+| `r-hikma` | Hikmah (*ḥikma*) | rujukan *al-Dharīʿa* (no. 38, 39) | Bab Ketiga |
+| `m-tin` | Tahapan tanah (*turāb*, *ṭīn*, *ḥamaʾ masnūn*, *ṭīn lāzib*, *ṣalṣāl*, *fakhkhār*) | *al-Mufradāt* | Bab Ketiga |
+| `m-sulala` | Saripati (*sulāla*) | *al-Mufradāt* | Bab Ketiga |
+| `r-takwin` | Pembentukan (*takwīn*) | rujukan *al-Dharīʿa* (no. 423, 421, 422) | Bab Keempat |
+| `r-daya` | Khayal, pikiran, amarah, tutur (*khayāl*, *fikr*, *ghaḍab*, *nuṭq*) | rujukan *al-Dharīʿa* (no. 29, 30, 295, 296, 203, 204) | Bab Keempat |
+| `r-tab` | Tabiat (*ṭabʿ*, *ṭabīʿa*) | rujukan *al-Dharīʿa* (no. 76, 77, 78) | Bab Kelima |
+| `r-nuzu` | Daya dorongan, khayal, pikiran (*nuzūʿ*, *khayāl*, *fikr*) | rujukan *al-Dharīʿa* (no. 26, 29, 30) | Bab Kelima |
+| `r-shahwa` | Syahwat (*shahwa*) | rujukan *al-Dharīʿa* (no. 71, 72) | Bab Kelima |
+| `r-ladhdha` | Kenikmatan (*ladhdha*) | rujukan *al-Dharīʿa* (no. 265) | Bab Kelima |
+| `r-kasal` | Kemalasan (*kasal*) | rujukan *al-Dharīʿa* (no. 145) | Bab Keenam |
+| `k-mahiyya` | Kuiditas (*māhiyya*) | *Kashshāf* | Bab Ketujuh |
+| `r-nutq` | Tutur (*nuṭq*) | rujukan *al-Dharīʿa* (no. 203, 204) | Bab Ketujuh |
+| `r-ibada` | Ibadah dan penghambaan (*ʿibāda*, *ʿubūdiyya*) | rujukan *al-Dharīʿa* (no. 46, 47) | Bab Ketujuh |
+| `k-quwa` | Daya-daya tumbuhan (*al-quwā al-nabātiyya*) | *Kashshāf* | Bab Kesembilan |
+| `r-siyasa` | Siasat (*siyāsa*) | rujukan *al-Dharīʿa* (no. 50) | Bab Kesembilan |
+| `k-wahm` | Sangkaan, daya sangkaan (*wahm*, *al-quwwa al-wahmiyya*) | *Kashshāf* | Bab Kesembilan |
+| `r-karam` | Kemuliaan (*karam*, *takrīm*) | rujukan *al-Dharīʿa* (no. 3) | Bab Kesepuluh |
+| `r-kibr` | Kesombongan (*kibr*, *istikbār*) | rujukan *al-Dharīʿa* (no. 251, 252) | Bab Kesepuluh |
+| `r-lubb` | Akal yang murni (*lubb*, jamak *albāb*) | rujukan *al-Dharīʿa* (no. 154) | Bab Kesepuluh |
+| `r-awn` | Saling membantu, keterampilan, penundukan (*taʿāwun*, *ṣināʿa*, *taskhīr*) | rujukan *al-Dharīʿa* (no. 377, 378, 379) | Bab Kedua Belas |
+| `r-himma2` | Cita-cita (*himma*, jamak *himam*) | rujukan *al-Dharīʿa* (no. 380) | Bab Kedua Belas |
+| `k-mizaj` | Temperamen (*mizāj*, jamak *amzija*) | *Kashshāf* | Bab Ketiga Belas |
+| `r-ruh2` | Rohulkudus, ar-Ruh al-Amin (*rūḥ al-qudus*, *al-rūḥ al-amīn*) | rujukan *al-Dharīʿa* (no. 21) | Bab Keempat Belas |
+| `m-diya` | Sinar dan cahaya (*ḍiyāʾ*, *nūr*) | *al-Mufradāt* | Bab Keempat Belas |
+| `r-hidaya` | Hidayah (*hidāya*) | rujukan *al-Dharīʿa* (no. 133, 134) | Bab Kelima Belas |
+| `r-nima` | Nikmat dan kebahagiaan (*niʿma*, *saʿāda*) | rujukan *al-Dharīʿa* (glosarium/bahasan) | Bab Keenam Belas |
+| `m-shar` | Syariat (*sharʿ*, *sharīʿa*) | *al-Mufradāt* | Bab Kedelapan Belas |
+| `r-khata` | Kekeliruan dan paksaan (*khaṭaʾ*, *ikrāh*) | rujukan *al-Dharīʿa* (no. 432, 433, 431) | Bab Kedua Puluh Satu |
+| `r-ibada2` | Ibadah (*ʿibāda*) | rujukan *al-Dharīʿa* (no. 46) | Bab Kedua Puluh Dua |
+| `k-tark` | Meninggalkan (*tark*) | *Kashshāf* | Bab Kedua Puluh Dua |
+| `r-riya2` | Riya (*riyāʾ*) | rujukan *al-Dharīʿa* (no. 263) | Bab Kedua Puluh Dua |
+| `r-ilm` | Ilmu (*ʿilm*) | rujukan *al-Dharīʿa* (no. 155) | Bab Kedua Puluh Tiga |
+| `r-adl` | Keadilan, ihsan, sikap adil, kebajikan (*ʿadl*, *iḥsān*, *inṣāf*, *birr*) | rujukan *al-Dharīʿa* (no. 61, 181, 96, 182, 350) | Bab Kedua Puluh Tiga |
+| `k-tasawwur` | Konsepsi dan pembenaran (*taṣawwur*, *taṣdīq*) | *Kashshāf* | Bab Kedua Puluh Tiga |
+| `m-yaqin` | Keyakinan (*yaqīn*) | *al-Mufradāt* | Bab Kedua Puluh Tiga |
+| `r-dhikr` | Pikiran dan ingatan (*fikr*, *dhikr*) | rujukan *al-Dharīʿa* (no. 30, 168, 169) | Bab Kedua Puluh Tiga |
+| `r-jahl` | Kebodohan, kezaliman, kekikiran (*jahl*, *ẓulm*, *shuḥḥ*) | rujukan *al-Dharīʿa* (no. 186, 187, 351, 352, 413, 408) | Bab Kedua Puluh Lima |
+| `r-iffa` | Kesucian diri, keberanian, keadilan, kepengecutan, daya amarah (*ʿiffa*, *shajāʿa*, *ʿadāla*, *jubn*, *ḥamiyya*) | rujukan *al-Dharīʿa* (no. 56, 57, 58, 61, 62, 305, 293) | Bab Kedua Puluh Enam |
+| `r-fitra` | Fitrah (*fiṭra*) | rujukan *al-Dharīʿa* (no. 172, 173) | Bab Kedua Puluh Tujuh |
+| `r-tawba` | Tobat (*tawba*) | rujukan *al-Dharīʿa* (no. 328, 329) | Bab Ketiga Puluh |
+| `r-isma` | Penjagaan ilahi (*ʿiṣma*) | rujukan *al-Dharīʿa* (no. 137, 138) | Bab Ketiga Puluh |
 
 ---
 
@@ -123,7 +336,7 @@ Tidaklah aku menganggap al-Buhturi[^p6] berlebihan dalam kebenarannya ketika ia 
 > Tak tersisa dari kebanyakan manusia ini sesuatu
 > yang dapat dijangkau angan, selain rupa-rupa ini.[^p7]
 
-[^p7]: CP: Maksudnya, bila orang-orang itu direnungkan, tidak ada pada mereka sesuatu yang layak ditangkap oleh daya angan (*wahm*) atau pemahaman selain rupa lahir mereka; isi batin yang menjadikan mereka manusia tidak ada. Catatan edisi pertama ("maksudnya dalam ranah *maʿqūl*, bukan *maḥsūs*") dibetulkan: yang ditegaskan penyair justru sebaliknya, yakni yang tersisa hanyalah yang terindra (rupa), sedang yang inteligibel telah hilang.
+[^p7]: CP: Maksudnya, bila orang-orang itu direnungkan, tidak ada pada mereka sesuatu yang layak ditangkap oleh daya sangkaan (*wahm*) atau pemahaman selain rupa lahir mereka; isi batin yang menjadikan mereka manusia tidak ada. Catatan edisi pertama ("maksudnya dalam ranah *maʿqūl*, bukan *maḥsūs*") dibetulkan: yang ditegaskan penyair justru sebaliknya, yakni yang tersisa hanyalah yang terindra (rupa), sedang yang inteligibel telah hilang.
 
 Tidak pula aku menganggap berlebihan penyair lain yang berkata:
 
@@ -329,7 +542,7 @@ Dalam diri manusia terhimpun daya-daya alam, dan ia diadakan sesudah adanya sega
 
 Manusia, dari segi bahwa ia terjadi dengan perantaraan alam dan diadakan dari rukun-rukun dan daya-daya alam, adalah alam itu sendiri. Dari segi bahwa bentuknya kecil sedang daya-daya alam terhimpun di dalamnya, ia seperti ringkasan alam; sebab ringkasan sebuah kitab ialah yang lafaznya disedikitkan dan maknanya dipenuhi, dan demikianlah manusia bila dibandingkan dengan alam. Dari segi bahwa ia dijadikan dari sari alam, intinya, pilihannya, dan buahnya, ia seperti mentega dari susu yang dikocok dan minyak dari wijen.
 
-Maka tidak ada sesuatu pun kecuali manusia menyerupainya dari satu segi. Ia seperti rukun-rukun dari segi adanya panas, dingin, basah, dan kering padanya; seperti benda tambang dari segi ia berupa jisim; seperti tumbuhan dari segi ia makan dan tumbuh; seperti binatang ternak dari segi ia mengindra, menduga (*tawahhum*), berkhayal, merasakan nikmat, dan merasakan sakit; seperti binatang buas dari segi ia meradang dan marah; seperti setan dari segi ia memperdaya dan menyesatkan; seperti malaikat dari segi ia mengenal Allah Ta'ala, menyembah-Nya, dan menjadi khalifah-Nya; dan seperti Lauh Mahfuz dari segi Allah telah menjadikannya tempat terhimpunnya hikmah-hikmah yang Dia tuliskan padanya secara ringkas. Sebagian ahli hikmah menyebutkan bahwa pada badan manusia ada empat ribu hikmah, dan pada jiwanya hampir sebanyak itu pula. Ia juga seperti Qalam dari segi ia menetapkan rupa segala sesuatu ke dalam kalbu manusia dengan ucapannya, sebagaimana Qalam menetapkan hukum-hukum pada Lauh Mahfuz.[^r-daya]
+Maka tidak ada sesuatu pun kecuali manusia menyerupainya dari satu segi. Ia seperti rukun-rukun dari segi adanya panas, dingin, basah, dan kering padanya; seperti benda tambang dari segi ia berupa jisim; seperti tumbuhan dari segi ia makan dan tumbuh; seperti binatang ternak dari segi ia mengindra, menyangka (*tawahhum*), berkhayal, merasakan nikmat, dan merasakan sakit; seperti binatang buas dari segi ia meradang dan marah; seperti setan dari segi ia memperdaya dan menyesatkan; seperti malaikat dari segi ia mengenal Allah Ta'ala, menyembah-Nya, dan menjadi khalifah-Nya; dan seperti Lauh Mahfuz dari segi Allah telah menjadikannya tempat terhimpunnya hikmah-hikmah yang Dia tuliskan padanya secara ringkas. Sebagian ahli hikmah menyebutkan bahwa pada badan manusia ada empat ribu hikmah, dan pada jiwanya hampir sebanyak itu pula. Ia juga seperti Qalam dari segi ia menetapkan rupa segala sesuatu ke dalam kalbu manusia dengan ucapannya, sebagaimana Qalam menetapkan hukum-hukum pada Lauh Mahfuz.[^r-daya]
 
 [^r-daya]: **Khayal, pikiran, amarah, tutur** (*khayāl*, *fikr*, *ghaḍab*, *nuṭq*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 29 (`m-khayal`), no. 30 (`m-fikr`), no. 295 (`m-ghadab`), no. 296 (`k-ghadab`), no. 203 (`m-nutq`), dan no. 204 (`k-nutq`). Daya-daya manusia yang di sini dibandingkan dengan tingkatan-tingkatan alam diuraikan menurut fungsinya dalam *al-Dharīʿa*, Pasal Pertama, bahasan "Daya-Daya Manusia" (lima daya: gizi, indra, khayal, dorongan, dan berpikir) dan "Kerja Sama Daya-Daya Rohani dan Cara Pengidrakannya".
 
@@ -494,17 +707,17 @@ Sebagian mereka berkata: manusia, bila dipandang bersama daya khayal, daya amara
 > Wahai kesialan dunia, kapankah engkau menjauh
 > dari orang merdeka, sehingga tak ada lawan yang mendekatinya?[^d29]
 
-[^d29]: CD: Larik pertama syair al-Mutanabbi ini dikutip dalam *al-Dharīʿa*, Pasal Pertama, bahasan "Sulitnya Memperbaiki Daya Syahwat, serta Manfaat dan Mudarat yang Ada pada Daya Ini", dan terjemahannya mengikuti terjemahan *al-Dharīʿa* (lihat nota kaki no. 85 di sana, `e22`, untuk sumbernya, *Dīwān al-Mutanabbī*). Di sana syair itu dipakai hanya untuk syahwat, "musuh yang dikhawatirkan mudaratnya dari satu segi dan diharapkan manfaatnya dari segi lain"; di sini ia diperluas kepada tiga daya sekaligus: khayal (atau daya duga), amarah, dan syahwat.
+[^d29]: CD: Larik pertama syair al-Mutanabbi ini dikutip dalam *al-Dharīʿa*, Pasal Pertama, bahasan "Sulitnya Memperbaiki Daya Syahwat, serta Manfaat dan Mudarat yang Ada pada Daya Ini", dan terjemahannya mengikuti terjemahan *al-Dharīʿa* (lihat nota kaki no. 85 di sana, `e22`, untuk sumbernya, *Dīwān al-Mutanabbī*). Di sana syair itu dipakai hanya untuk syahwat, "musuh yang dikhawatirkan mudaratnya dari satu segi dan diharapkan manfaatnya dari segi lain"; di sini ia diperluas kepada tiga daya sekaligus: khayal (atau daya sangkaan), amarah, dan syahwat.
 
 Yang pertama berjalan di depannya. Ia adalah pengawas yang menjaganya dan mata yang memeliharanya, tetapi ia penjilat, pembohong, dan pemoles, yang merangkai-rangkai kebatilan dan mengada-adakan kepalsuan, sehingga mencampur dusta dengan kebenaran dan kekeliruan dengan ketepatan. Yang kedua di sebelah kanannya, seorang yang keras dan berperangai buruk. Ia melindunginya dari musuh-musuhnya, tetapi sering pula menyesatkannya. Bila ia bergolak, nasihat tidak dapat menekannya dan kelembutan tidak dapat menundukkannya, seakan-akan ia api pada kayu bakar, banjir di lereng yang curam, unta jantan yang sedang birahi, atau binatang buas yang kehilangan anaknya. Maka ia perlu terus-menerus menenangkannya; ia berlindung dengannya dan sekaligus darinya. Ia bersamanya seperti yang dikatakan: "Penunggang singa ditakuti orang, padahal ia sendiri lebih takut." Yang ketiga di sebelah kirinya. Dialah yang membawakan makanan dan minuman, tetapi ia dungu, penjilat, kotor, dan sangat bernafsu, seakan-akan babi yang dibiarkan lapar lalu dilepas ke tumpukan kotoran. Terkadang ia membawakan makanan-makanan yang busuk lalu memaksanya untuk memakannya.
 
 Maka ia perlu bersabar menghadapi mereka hingga ia menuntaskan perjalanannya dan sampai di sebuah negeri suci, tempat cahaya bersinar, tempat serigala dan domba minum dari satu kolam, sehingga di sana ia aman dari kejahatan-kejahatan mereka. Di antara siasatnya yang dapat diharapkan membuatnya selamat dari mereka ialah: ia menguasakan si keras yang berperangai buruk itu atas si dungu penjilat hingga membentaknya dengan keras; memadamkan keterlaluan si keras yang congkak itu dengan bujukan si dungu penjilat; dan tidak condong kepada si pembohong pengarang dusta sampai ia memberikan janji yang teguh atas nama Allah,[^p22] lalu barulah ia membenarkan apa yang disampaikannya.
 
-[^p22]: CP: "Janji yang teguh atas nama Allah" (*mawthiqan min Allāh*) mengisyaratkan ucapan Ya'qub kepada anak-anaknya: *"Aku tidak akan melepaskannya (pergi) bersama kamu, sebelum kamu memberikan kepadaku janji yang teguh atas (nama) Allah"* (Yusuf: 66). Maksudnya, daya duga baru boleh dipercaya bila apa yang disampaikannya telah diteguhkan oleh sesuatu yang dapat dipertanggungjawabkan di hadapan Allah, yakni akal dan syariat. Gambaran "serigala dan domba minum dari satu kolam" adalah ungkapan lazim untuk negeri yang penuh keadilan dan keamanan.
+[^p22]: CP: "Janji yang teguh atas nama Allah" (*mawthiqan min Allāh*) mengisyaratkan ucapan Ya'qub kepada anak-anaknya: *"Aku tidak akan melepaskannya (pergi) bersama kamu, sebelum kamu memberikan kepadaku janji yang teguh atas (nama) Allah"* (Yusuf: 66). Maksudnya, daya sangkaan baru boleh dipercaya bila apa yang disampaikannya telah diteguhkan oleh sesuatu yang dapat dipertanggungjawabkan di hadapan Allah, yakni akal dan syariat. Gambaran "serigala dan domba minum dari satu kolam" adalah ungkapan lazim untuk negeri yang penuh keadilan dan keamanan.
 
-Pembohong penjilat itu dijadikannya kiasan bagi daya duga (*wahm*), si keras yang berperangai buruk kiasan bagi amarah, dan si dungu penjilat kiasan bagi syahwat; sedang negeri suci adalah ungkapan tentang Negeri Keselamatan (*dār al-salām*). Ia menyebutkan bahwa siasatnya untuk selamat dari mereka ialah menolak sebagian daya-daya itu dengan sebagian yang lain, menolak kejahatan dengan kejahatan.[^k-wahm][^d30]
+Pembohong penjilat itu dijadikannya kiasan bagi daya sangkaan (*wahm*), si keras yang berperangai buruk kiasan bagi amarah, dan si dungu penjilat kiasan bagi syahwat; sedang negeri suci adalah ungkapan tentang Negeri Keselamatan (*dār al-salām*). Ia menyebutkan bahwa siasatnya untuk selamat dari mereka ialah menolak sebagian daya-daya itu dengan sebagian yang lain, menolak kejahatan dengan kejahatan.[^k-wahm][^d30]
 
-[^k-wahm]: **Daya duga** (*wahm*, *al-quwwa al-wahmiyya*; Ing. *estimation*). *Kashshāf*: salah satu indra batin, bertempat di seluruh otak tetapi paling khusus di ujung rongga tengahnya; ia menangkap makna-makna parsial yang ada pada hal-hal terindra, seperti daya yang memutuskan pada domba bahwa serigala harus dijauhi dan anak harus dikasihi. *Kashshāf* juga mencatat bahwa daya pengolah gambaran disebut *mutakhayyila* (daya khayal) bila jiwa memakainya untuk hal-hal terindra dengan perantaraan daya duga, dan *mufakkira* (daya pikir) bila jiwa memakainya untuk hal-hal inteligibel dengan perantaraan akal; dan bahwa daya duga adalah "penguasa daya-daya itu", yang berebut dengan akal dan memutuskan berlawanan dengan putusan akal, "maka siapa yang menundukkannya kepada daya akliah hingga ia patuh kepadanya, sungguh ia beruntung dengan keberuntungan yang besar". (*Kashshāf*, s.v. *al-wahm*, *al-ḥāfiẓa*, *al-quwwa*.) Keterangan ini menjelaskan dua hal dalam perumpamaan al-Rāghib: mengapa yang di awal disebut "daya khayal" di akhir disebut "daya duga", dan mengapa ia digambarkan sebagai pengawas yang berjalan di depan tetapi pembohong yang harus disumpah dahulu sebelum dipercaya.
+[^k-wahm]: **Sangkaan, daya sangkaan** (*wahm*, *al-quwwa al-wahmiyya*; Ing. *estimation*). *Kashshāf*: salah satu indra batin, bertempat di seluruh otak tetapi paling khusus di ujung rongga tengahnya; ia menangkap makna-makna parsial yang ada pada hal-hal terindra, seperti daya yang memutuskan pada domba bahwa serigala harus dijauhi dan anak harus dikasihi. *Kashshāf* juga mencatat bahwa daya pengolah gambaran disebut *mutakhayyila* (daya khayal) bila jiwa memakainya untuk hal-hal terindra dengan perantaraan daya sangkaan, dan *mufakkira* (daya pikir) bila jiwa memakainya untuk hal-hal inteligibel dengan perantaraan akal; dan bahwa daya sangkaan adalah "penguasa daya-daya itu", yang berebut dengan akal dan memutuskan berlawanan dengan putusan akal, "maka siapa yang menundukkannya kepada daya akliah hingga ia patuh kepadanya, sungguh ia beruntung dengan keberuntungan yang besar". (*Kashshāf*, s.v. *al-wahm*, *al-ḥāfiẓa*, *al-quwwa*.) Keterangan ini menjelaskan dua hal dalam perumpamaan al-Rāghib: mengapa yang di awal disebut "daya khayal" di akhir disebut "daya sangkaan", dan mengapa ia digambarkan sebagai pengawas yang berjalan di depan tetapi pembohong yang harus disumpah dahulu sebelum dipercaya.
 
 [^d30]: CD: Gagasan menolak satu daya yang buruk dengan daya yang lain sejalan dengan *al-Dharīʿa*, Pasal Pertama, bahasan "Sulitnya Memperbaiki Daya Syahwat", yang memandang syahwat dan amarah sebagai daya yang harus didisiplinkan, bukan dihapuskan, karena manusia tidak dapat hidup tanpanya. Perumpamaan musafir di sini memberi bentuk kisah bagi pokok yang sama.
 
@@ -748,7 +961,7 @@ Kebahagiaan-kebahagiaan ukhrawi tidak dapat kita konsepsikan hakikatnya selama k
 
 Sebab ketidakmampuan kita mengonsepsikannya ada dua. Pertama, manusia tidak mungkin mengenal hakikat sesuatu dan mengonsepsikannya hingga ia menangkapnya sendiri. Bila ia belum menangkapnya lalu hal itu dilukiskan kepadanya, ia seperti anak kecil yang dilukiskan kepadanya kenikmatan bersetubuh: ia tidak mungkin mengonsepsikan hakikatnya hingga ia balig dan mengalaminya sendiri; dan seperti orang yang buta sejak lahir yang dilukiskan kepadanya cermin. Demikian pula keadaan kita terhadap kenikmatan ukhrawi: kita tidak dapat mengonsepsikannya secara hakiki kecuali bila kita menyaksikannya; dan bila kita menyaksikannya, kegembiraan dan kenikmatan dengannya menyibukkan kita dari segala selainnya, sebagaimana firman Allah Ta'ala: *"Sesungguhnya penghuni surga pada hari itu bersenang-senang dalam kesibukan (mereka)"* (Yasin: 55).
 
-Kedua, setiap daya jiwa dan setiap bagian badan memiliki kenikmatan yang khusus baginya, yang tidak dimiliki yang lain. Kenikmatan mata ada pada memandang apa yang dipandangnya indah; kenikmatan pendengaran pada mendengar apa yang dirasanya merdu; kenikmatan perabaan pada menyentuh apa yang dirasanya nikmat; kenikmatan daya duga pada mengonsepsikan apa yang diangankannya; kenikmatan khayal pada mengkhayalkan apa yang dipandangnya indah untuk digambarkan; dan kenikmatan pikiran pada perkara yang belum diketahuinya lalu ia mengenalnya. Setiap daya dan bagian ini, bila ditimpa penyakit yang menghalanginya dari syahwatnya dan dari menangkap kenikmatannya, menjadi seperti orang sakit yang tidak menginginkan air padahal ia dahaga, dan bila meminumnya ia tidak merasakan kenikmatannya, sebagaimana kata penyair:
+Kedua, setiap daya jiwa dan setiap bagian badan memiliki kenikmatan yang khusus baginya, yang tidak dimiliki yang lain. Kenikmatan mata ada pada memandang apa yang dipandangnya indah; kenikmatan pendengaran pada mendengar apa yang dirasanya merdu; kenikmatan perabaan pada menyentuh apa yang dirasanya nikmat; kenikmatan daya sangkaan pada mengonsepsikan apa yang diangankannya; kenikmatan khayal pada mengkhayalkan apa yang dipandangnya indah untuk digambarkan; dan kenikmatan pikiran pada perkara yang belum diketahuinya lalu ia mengenalnya. Setiap daya dan bagian ini, bila ditimpa penyakit yang menghalanginya dari syahwatnya dan dari menangkap kenikmatannya, menjadi seperti orang sakit yang tidak menginginkan air padahal ia dahaga, dan bila meminumnya ia tidak merasakan kenikmatannya, sebagaimana kata penyair:
 
 > Siapa yang mulutnya pahit karena sakit
 > akan merasakan air yang jernih pun pahit.[^d48]
