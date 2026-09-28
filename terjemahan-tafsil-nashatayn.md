@@ -15,9 +15,9 @@
 | Butir | Keterangan |
 |---|---|
 | Tahap | Penerjemahan berjalan |
-| Sudah diterjemahkan | Mukadimah; Bab Pertama sampai Bab Kedua Puluh |
-| Posisi berikutnya | Bab Kedua Puluh Satu (Arab bab 21) |
-| Nomor catatan terakhir | CP: p38 · CD: d62 |
+| Sudah diterjemahkan | Mukadimah; Bab Pertama sampai Bab Kedua Puluh Satu |
+| Posisi berikutnya | Bab Kedua Puluh Dua (Arab bab 22) |
+| Nomor catatan terakhir | CP: p38 · CD: d64 |
 | Catatan istilah | lihat 3.3 |
 
 ---
@@ -884,3 +884,25 @@ Kesimpulannya, nama suatu hal, bila diucapkan oleh Yang Mahabijaksana dalam rang
 Sebagian ulama berkata: ucapan orang yang berkata bahwa manusia adalah "yang hidup, yang bertutur, yang mati" itu benar.[^p38] Tetapi maknanya bukan seperti yang disangka banyak orang, yaitu kehidupan hewani, kematian hewani, dan tutur yang ada pada manusia secara potensial. Yang dimaksud dengan "yang hidup" ialah orang yang memiliki kehidupan yang disebut dalam firman Allah Ta'ala: *"agar dia (Muhammad) memberi peringatan kepada orang yang hidup (hatinya)"* (Yasin: 70); dengan "tutur" ialah penjelasan yang disebut dalam firman-Nya: *"mengajarnya pandai berbicara"* (ar-Rahman: 4); dan dengan "yang mati" ialah orang yang menjadikan daya syahwat dan daya amarahnya tertundukkan menurut tuntutan syariat, sehingga ia mati dengan kehendak dan hidup dengan tabiat, sebagaimana dikatakan: "Matilah dengan kehendak, niscaya engkau hidup dengan tabiat," dan sebagaimana ucapan Amirul Mukminin, semoga salam tercurah kepadanya: "Siapa yang mematikan dirinya di dunia, sungguh ia telah menghidupkannya di akhirat."
 
 [^p38]: CP: Definisi manusia sebagai "hewan yang bertutur dan mati" (*ḥayawān nāṭiq mayyit*) berasal dari tradisi logika Yunani (bandingkan definisi dalam *Isagoge* Porfirius, "hewan rasional yang fana"), dan dikenal luas dalam logika Arab. Al-Rāghib menerimanya, tetapi menafsirkan ulang ketiga unsurnya secara etis-religius. Ungkapan "Matilah dengan kehendak, niscaya engkau hidup dengan tabiat" sering dinisbatkan kepada Plato dalam literatur hikmah berbahasa Arab.
+
+# Bab Kedua Puluh Satu {.kitab-ke}
+
+# Perbuatan-Perbuatan yang Berkaitan dengan Syariat {.judul-kitab}
+
+Manusia memiliki dua macam keadaan yang tidak terlepas darinya.
+
+Macam yang di dalamnya tidak ada pujian dan celaan, dan jenisnya tidak dibebani (*taklīf*). Ini ada dua. Pertama, keadaan-keadaan niscaya yang tidak mungkin ia hindari, seperti denyut nadi, bernapas, dan keadaan-keadaan niscaya semacamnya. Kedua, apa yang terjadi dari manusia karena lupa dan keliru, meskipun jenisnya berada dalam kemampuannya. Inilah yang disebut dalam sabda Nabi, semoga Allah melimpahkan selawat dan salam kepadanya: *"Diangkat dari umatku kekeliruan, lupa, dan apa yang mereka dipaksa melakukannya."*[^r-khata]
+
+[^r-khata]: **Kekeliruan dan paksaan** (*khaṭaʾ*, *ikrāh*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 432 (`m-khata`), no. 433 (`k-khata`), dan no. 431 (`k-ikrah`), serta Pasal Ketujuh, bahasan "Perbuatan yang Menjadikan Pelakunya Layak Dicela dan yang Tidak". Di sana al-Rāghib memberi rincian yang tidak ada di sini: kekeliruan yang lahir dari perbuatan yang boleh (seperti memanah sasaran lalu mengenai orang) tidak tercela selama tidak ada kelalaian, sedang kekeliruan yang lahir dari perbuatan terlarang (seperti mabuk lalu memecahkan bejana) tercela; dan paksaan kadang membebaskan dari celaan, kadang tidak, sesuai perbandingan antara buruknya perbuatan dan beratnya sebab pemaksa.
+
+Macam yang di dalamnya ada pujian dan celaan, dan jenisnya dibebani. Ini ada tiga. Pertama, perbuatan-perbuatan yang khusus bagi anggota badan, seperti berdiri, duduk, berkendara, berjalan, memandang, dan segala yang memerlukan penggunaan anggota badan. Kedua, menjaga aksiden-aksiden jiwa (*ʿawāriḍ al-nafs*), seperti syahwat, takut, rasa nikmat, gembira, marah, rindu, belas kasih, cemburu, dan semacamnya. Ketiga, apa yang khusus berkaitan dengan daya pembeda dan ilmu. Pada masing-masing dari ketiganya, manusia adakalanya dipuji dan adakalanya dicela. Ia dipuji bila perbuatannya indah, aksiden-aksiden jiwanya lurus, dan kalbunya cerdas, sehingga ia meyakini kebenaran dan kuat mengenalinya bila kebenaran itu datang kepadanya. Celaan menimpanya bila keadaannya berlawanan dengan itu. Ibadah-ibadah pun khusus berkaitan dengan ketiga hal ini.[^d63]
+
+[^d63]: CD: Bandingkan *al-Dharīʿa*, Pasal Ketujuh, bahasan "Perbuatan Insani Ada Tiga Macam": yang semata-mata bersifat jiwa (pikiran dan ilmu), yang bersifat badan (gerakan anggota badan), dan yang bersifat keterampilan (dengan keikutsertaan badan dan jiwa). Pembagian di sini berbeda karena sudutnya berbeda: bukan jenis perbuatan, melainkan wilayah pembebanan syariat, sehingga keterampilan tidak disebut tersendiri, sedang "menjaga aksiden-aksiden jiwa" (mengatur syahwat, amarah, dan perasaan) menjadi kategori tersendiri. Kategori terakhir ini adalah wilayah akhlak yang menjadi pokok *al-Dharīʿa* Pasal Pertama sampai Keenam.
+
+Bagi Allah Ta'ala, dalam setiap perbuatan yang diupayakan manusia, terdapat ibadah, baik perbuatan itu wajib, sunah, maupun mubah. Ibadah itu dijelaskan adakalanya dengan kesertamertaan akal, dengan Kitab, dengan lisan Nabi, dengan ijmak umat, atau dengan pertimbangan-pertimbangan dan analogi-analogi yang dibangun di atas pokok-pokok ini. Bahkan tidak ada satu hukum pun kecuali Kitab Allah mengandungnya, sebagaimana firman Allah Ta'ala: *"Tidak ada sesuatu pun yang Kami luputkan di dalam Kitab"* (al-An'am: 38); dikenal oleh yang mengenalnya dan tidak diketahui oleh yang tidak mengetahuinya.
+
+Tidak ada satu perkara mubah pun kecuali, bila manusia mengerjakannya sesuai tuntutan hukum Allah Ta'ala, ia dalam mengerjakannya menjadi penyembah Allah yang berhak atas pahala-Nya, sebagaimana sabda Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, kepada Sa'd: *"Sesungguhnya engkau diberi pahala dalam segala sesuatu, hingga suapan yang engkau letakkan di mulut istrimu."* Beliau berkata demikian kepada Sa'd karena beliau tahu bahwa Sa'd memperhatikan hukum Allah Ta'ala dalam perbuatan-perbuatannya. Atas dasar ini pula beliau bersabda: *"Tidaklah seseorang menanam suatu tanaman, yang ia sendiri tidak memakan sedikit pun darinya, kecuali tanaman itu menjadi sedekah baginya."*[^d64]
+
+[^d64]: CD: *Al-Dharīʿa*, Pasal Pertama, bahasan "Perbedaan antara Kemuliaan Syariat dengan Ibadah dan Memakmurkan Bumi", membedakan ibadah, yang memiliki kewajiban-kewajiban yang diketahui dan termasuk bab keadilan, dari kemuliaan syariat, yang termasuk bab karunia dan amalan sunah. Di sini ibadah dipakai dalam arti yang lebih luas: setiap perbuatan, wajib, sunah, maupun mubah, bila dikerjakan menurut hukum Allah, adalah ibadah. Keduanya tidak bertentangan, sebab *al-Dharīʿa* sendiri, dalam bahasan yang sama, menyatakan bahwa usaha mencari penghidupan, bila berjalan menurut cara yang wajib, "menjadi ibadah dan jihad di jalan Allah". Tetapi pembaca perlu membedakan dua pemakaian kata "ibadah" ini: ibadah dalam arti khusus (kewajiban yang digariskan) dan ibadah dalam arti umum (kepatuhan kepada hukum Allah dalam segala hal). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 46 (`m-ibada`) dan no. 47 (`k-ibada`), dan Bab Kedua Puluh Dua di bawah.
+
+Memperhatikan perintah Allah dalam segala urusan, yang kecil maupun yang besar, dianjurkan bagi semua orang dan wajib bagi Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, serta bagi setiap orang yang kedudukannya dekat dengan kedudukan beliau, karena firman Allah Ta'ala: *"Maka tetaplah engkau (Muhammad) (di jalan yang benar), sebagaimana telah diperintahkan kepadamu dan (juga) orang yang bertobat bersamamu"* (Hud: 112).
