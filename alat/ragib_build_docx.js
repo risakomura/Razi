@@ -4,7 +4,7 @@ const fs = require('fs');
 const D = require('docx');
 const {
   Document, Packer, Paragraph, TextRun, FootnoteReferenceRun, AlignmentType,
-  Table, TableRow, TableCell, WidthType, BorderStyle, Footer, PageNumber,
+  Table, TableRow, TableCell, WidthType, BorderStyle,
   VerticalAlign, PageOrientation, TableLayoutType,
 } = D;
 
@@ -164,10 +164,9 @@ for (const g of book.gloss) {
   else gloss.push(new Paragraph({ style: 'TeksLampiran', children: runs(g.r) }));
 }
 
-const margin = { top: 1134, bottom: 1134, left: MARG, right: MARG, footer: 567 };
+const margin = { top: 1134, bottom: 1134, left: MARG, right: MARG };
 const page = { size: { width: A5W, height: A5H }, margin };
 const pageLand = { size: { width: A5W, height: A5H, orientation: PageOrientation.LANDSCAPE }, margin };
-const footer = () => new Footer({ children: [new Paragraph({ alignment: C_, children: [new TextRun({ children: [PageNumber.CURRENT], size: pt(9) })] })] });
 
 const doc = new Document({
   creator: 'Penerjemah', title: M.doc_title,
@@ -175,8 +174,8 @@ const doc = new Document({
   footnotes,
   sections: [
     { properties: { page }, children: title },
-    { properties: { page }, footers: { default: footer() }, children: [...front, ...body] },
-    { properties: { page: pageLand }, footers: { default: footer() }, children: gloss },
+    { properties: { page }, children: [...front, ...body] },
+    { properties: { page: pageLand }, children: gloss },
   ],
 });
 Packer.toBuffer(doc).then((buf) => { fs.writeFileSync(OUT, buf); console.log('ok', OUT, buf.length); });

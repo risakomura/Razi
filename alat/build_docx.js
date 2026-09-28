@@ -3,8 +3,8 @@ const path = require('path');
 const D = require('docx');
 const {
   Document, Packer, Paragraph, TextRun, FootnoteReferenceRun, AlignmentType,
-  Table, TableRow, TableCell, WidthType, BorderStyle, ShadingType, Footer,
-  PageNumber, VerticalAlign,
+  Table, TableRow, TableCell, WidthType, BorderStyle, ShadingType,
+  VerticalAlign,
 } = D;
 
 const [, , IN, OUT] = process.argv;
@@ -131,8 +131,7 @@ for (const g of book.gloss) {
   else if (g.k === 'para' && !/^Transliterasi mengikuti IJMES/.test(g.r.map((r) => r.t || '').join(''))) gloss.push(new Paragraph({ style: 'TeksLampiran', children: runs(g.r) }));
 }
 
-const page = { size: { width: PAGE_W, height: 11906 }, margin: { top: 1134, bottom: 1134, left: MARG, right: MARG, footer: 567 } };
-const footer = new Footer({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ children: [PageNumber.CURRENT], size: pt(9) })] })] });
+const page = { size: { width: PAGE_W, height: 11906 }, margin: { top: 1134, bottom: 1134, left: MARG, right: MARG } };
 
 const doc = new Document({
   creator: 'Penerjemah', title: 'Asās al-Taqdīs: Terjemahan Indonesia',
@@ -140,7 +139,7 @@ const doc = new Document({
   footnotes,
   sections: [
     { properties: { page }, children: title },
-    { properties: { page }, footers: { default: footer }, children: [...body, ...gloss] },
+    { properties: { page }, children: [...body, ...gloss] },
   ],
 });
 Packer.toBuffer(doc).then((buf) => { fs.writeFileSync(OUT, buf); console.log('ok', OUT, buf.length); });
