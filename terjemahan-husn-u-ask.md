@@ -4774,3 +4774,711 @@ menangis, mengoyak dada.
 
 [1526] Menyebut Jelita, mendesah dan menjerit,\
 lalu melantunkan syair suci ini:
+
+[1527] Selamat datang, wahai utusan kekasih,\
+hadiahkan kepada kami sepotong kabar kekasih;\
+[1528] biar nyawa jadi tebusan hari raya kekasih,\
+sia-siakah harapan akan kekasih?\
+[1529] *Tak adakah salam kekasih untuk kami?*
+
+[1530] Wahai Khidir bagi yang terjatuh, katakanlah,\
+singkapkan rahasia ini, katakanlah;\
+[1531] jadilah juru bahasaku, katakanlah,\
+jangan sembunyikan, satu per satu katakanlah:\
+[1532] *tak adakah ujung bagi buku duka?*
+
+[1533] Ya Rabb, penantian macam apa ini,\
+masa apa ini yang tak juga berlalu?\
+[1534] Melulu sesak dan duri demi duri;\
+andai kutahu, si genit macam apa ini:\
+*tak adakah dambaan semacam pertemuan?*
+
+[1535] Aku naik ke puncak tiang gantungan seperti Mansur,\
+suaraku azan tiupan sangkakala;\
+[1536] duka menjadikan leherku seruling Mansur,\
+aku terkepung bala tentara bala:\
+[1537] *tak adakah pesan dari raja itu?*
+
+[1538] Para pengemis meraih hajat dari langit ini,\
+sahabat-sahabat tertunda ke hari esok;\
+[1539] tak bertahankah janji-janji dan kesetiaan itu?\
+Tak terkabulkah doa-doa yang kupanjatkan?\
+*Tak adakah tata bagi keadaan hati?*
+
+[1540] Hati bisu oleh takjub duka,\
+tak berdaya seperti Galib;\
+[1541] surat pengaduan yang kukirim tak berbalas,\
+kini tinggal satu kemungkinan:\
+*tak adakah nama insaf di tempat itu?*
+
+## Sabda Membawa Kabar Gembira {.judul-bagian}
+
+[1542] Sabda membuka pintu tutur,\
+menjawab dengan cara begini:
+
+[1543] "Kau kira kekasihmu tak tahu apa-apa?\
+Atau kau kira akan meninggalkanmu?
+
+[1544] Raja negeri keelokan dan pesona itu\
+penolong bagi yang terjatuh.
+
+[1545] Jelita itulah pencinta, jangan kau kira yang dicinta;\
+dengar, inilah kata yang terpercaya.
+
+[1546] Lihatlah kuasa Jelita yang tiada banding:\
+bagaimana nasib si penyihir itu!
+
+[1547] Kini buka mata dan perhatikan;\
+lihat si penyihir, ambil pelajaran dari rahasia ini."
+
+[1548] Asmara penghias alam sekali menoleh,\
+memandang si penyihir, tapi
+
+[1549] apa yang terlihat? Sudah berubah rupa:\
+bangkai anjing masuk ke dalam karung.
+
+[1550] Tak ada hiasan, tak ada perhiasan:\
+bangkai babi, kafir yang membeku.
+
+[1551] Sekali tebas pedang terbelah dua;\
+berbuat jahat, jahat pula bintangnya.
+
+[1552] Di sisinya tak ada api, tak ada gelap,\
+tak ada salju, tak ada salib, tak ada ngeri.
+
+[1553] Sabda melukiskan khayal itu,\
+menerangkan sebabnya begini:
+
+[1554] "Kau lupa nama Jelita,\
+maka penyihir membuatmu terpana begitu.
+
+[1555] Nama Jelita itulah jimat sihir ini,\
+penghapusnya ialah nama itu.
+
+[1556] Ketika kau sampaikan hajat,\
+terjadilah yang terjadi, himmah dicurahkan.
+
+[1557] Jelita yang tiada dua menyambut jeritmu,\
+menghadiahkan sebilah pedang bertatah permata.
+
+## Lukisan Pedang {.judul-bagian}
+
+[1558] Tapi pedang macam apa! Pedang intan,\
+algojo musuh, meteor bagi bisikan setan.
+
+[1559] Satu larik dari Zulfikar Haidar,\
+satu ayat dari kancah perang Haidar.
+
+[1560] Cermin pertolongan Ilahi,\
+Khidir bagi jalan dan adat raja-raja.
+
+[1561] Membuat iri pedang mata dan alis,\
+membungkam penyair tukang hujat.
+
+[1562] Sungai darah, kali api,\
+racun ajal, naga berbelang.
+
+[1563] Bulan sabit sarungnya yang indah,\
+pamornya dari ujung ke ujung bintang Tsurayya.
+
+[1564] Seperti ombak air hayat,\
+intan, tapi batu asahnya merjan.
+
+[1565] Pedang yang di laut tak bertepi\
+mengalirkan nyawa, bukan air.
+
+[1566] Cengkeram mentari yang terang\
+mencabutnya dari telur bulan.
+
+[1567] Seperti kerling kekasih yang genit,\
+melontarkan huruf kepada huru-hara takdir.
+
+[1568] Bulan di langit laga dan perang,\
+ikan pedang di pusaran bala.
+
+[1569] Buah dan hasilnya nyala, dahan api,\
+tubuh penuh api, bersepuh emas.
+
+[1570] Air mancur dari air yang kenyang delima,\
+kali zamrud yang berkilau kehitaman.
+
+[1571] Nuri hijau bercucur darah,\
+elang raja, namun berwajah kuau.
+
+[1572] Tunduk pada isyarat Izrail,\
+sayap ombaknya membangkitkan mahsyar.
+
+[1573] Pemurah tambang mengeluarkannya\
+dari telur burung Malakut.
+
+[1574] Dalam kerasnya ada jernih penjagaan,\
+ombak permatanya baju zirah Daud.
+
+[1575] Burung hijau pembawa kabar hitam,\
+di sayapnya tersembunyi maut merah.
+
+[1576] Peminum darah, tapi penolak kezaliman,\
+jawaban pamungkas bagi bantahan bengkok.
+
+[1577] "Pedang ini saksi gugatanmu;\
+jangan pandang sebelah mata, ini pedang desah.
+
+[1578] Segala yang menghadang di jalan ini,\
+serahkan kepada pedang desah.
+
+## Lukisan Kuda {.judul-bagian}
+
+[1579] Si bagai peri itu juga menghadiahkan kepadamu\
+seekor kuda yang memikat hati:
+
+[1580] kuda semerah mawar, laksana kuau,\
+taman mawar surga dan laut darah,
+
+[1581] pengombak air delima dan yakut,\
+laksana Rafraf, penempuh jalan Lahut,
+
+[1582] dari kepala sampai kaki musim semi berbaju mawar,\
+seperti anggur, merah delima dan bergolak,
+
+[1583] air raksa, tapi bertubuh nyala,\
+seperti mentari, api yang berwujud,
+
+[1584] tubuh diuleni dari kehalusan,\
+tiap geraknya lenggok kiamat,
+
+[1585] Tuba surga, pohon nyala,\
+istana Adn, singgasana nyala,
+
+[1586] serupa darah hati pencinta,\
+air Khidir, tapi mirip darah,
+
+[1587] merak surga dan singa gemilang,\
+pengantin cantik berbaju merah.
+
+[1588] Bila lenggok langkahnya dipercepat,\
+membawa kabar keabadian kepada azali.
+
+[1589] Bila langkahnya dilonggarkan,\
+satu saat pun tak sampai ke debunya.
+
+[1590] Sebegitu cepat larinya\
+hingga butir-butir udara tak terusik.
+
+[1591] Bila bertekad melipat tempat,\
+mendahului bagian-bagian waktu.
+
+[1592] Membuat iri kuda belang bertubuh mawar,\
+gerak manis seperti Syirin, tenang seperti Rustam.
+
+[1593] Bila sesekali menancapkan kaki untuk diam,\
+Laut Hitam dijadikan batu hitam.
+
+[1594] Si bertubuh nyala berdiri seperti gunung,\
+laksana kubah merah Bahram.
+
+[1595] Dua telinga: jambul elang raja;\
+leher: kendi yang tegak congkak.
+
+[1596] Hewan, tapi air hayat;\
+seperti pagi musim semi, pohon merjan.
+
+[1597] Tiap helai bulunya dawai tanbur dalam riang,\
+ringkiknya tiupan sangkakala.
+
+[1598] Kuku: tempurung otak raksasa putih;\
+ekor: benang sinar cahaya mentari.
+
+[1599] Mengalir seperti air di bumi dan tambang,\
+melompat seperti api ke langit.
+
+[1600] Mata kijang, dada singa,\
+surai sunbul, napas seperti naga.
+
+[1601] Anqa yang harum napasnya dan paham tutur,\
+nyala berjimat dalam terbang.
+
+[1602] Sewarna pemerah darah air mata,\
+seirama dengan kanun cinta.
+
+[1603] Seperti nuri, walau berbaju merah,\
+membungkam kuda hitam pena.
+
+[1604] Kekasih dan pemberani dan lapang,\
+seperti riang anggur penakluk singa.
+
+[1605] Walhasil, kuda ringan sayap itu\
+akan mengantarmu ke kota Kalbu.
+
+[1606] Ini kenang-kenangan Jelita untukmu;\
+bersungguh-sungguhlah, ini negeri duka."
+
+[1607] Ghirah pun diberi bulu dan sayap,\
+diberi daya untuk menemanimu.
+
+[1608] Kau lihat, raja macam apa itu,\
+yang menjadi penunjuk jalan bagi Asmara?
+
+[1609] Kalau kau tanya, dari mana Jelita yang tiada dua\
+memperoleh kuasa ini,
+
+[1610] aku ini hamba yang malu di hadapannya;\
+pahamilah, aku debu di kakinya.
+
+[1611] Bila sang hakim itu memerintah,\
+semua ini bagiku seperti bukan apa-apa."
+
+[1612] Begitu Asmara yang mulia menunggang kuda itu,\
+dipacunya menempuh jalan.
+
+[1613] Ghirah pun mengembangkan bulu dan sayap,\
+keduanya mengenang pertemuan dengan sang raja.
+
+## Asmara Jemu {.judul-bagian}
+
+[1614] Terasa amat berat bagi Asmara,\
+sesekali merenung, lalu jemu:
+
+[1615] meninggalkan kekasih untuk berjalan,\
+meninggalkan bulan untuk ke sumur.
+
+[1616] Hari demi hari makin putus asa,\
+bermil-mil makin jauh.
+
+[1617] Kata Ghirah, "Harapan tak boleh putus;\
+mungkinkah kemurahan Yang Maha Berdiri Sendiri menjauh?
+
+[1618] Yang terus berjalan sampai ke tujuan,\
+yang mengembara tak tentu arah pun menemukan permata.
+
+[1619] Sudah jelas, bagi Al-Haqq tak ada depan dan belakang,\
+tak ada arah, tak ada penjuru.
+
+[1620] Siang malam mari bergegas,\
+suatu hari kita lihat mentari itu."
+
+[1621] Purnama sempurna itu berjalan,\
+setiap malam menempuh seribu tahun.
+
+[1622] Mentari cemerlang itu melipat,\
+setiap hari, jarak sembilan falak.
+
+[1623] Menunggang mentari seperti Isa,\
+tak ambil peduli akan perjalanan.
+
+[1624] Sesekali, bila takut akan nyawa,\
+Ghirah berkata kepada si tak kenal ampun itu:
+
+[1625] "Maut tak sepanjang umur seperti perpisahan;\
+apa yang Allah beri yang tak sanggup dipikul hamba?"
+
+## Benteng Rupa-Rupa {.judul-bagian}
+
+[1626] Saki, bawakan api anggur pagi,\
+terangi ruh dengan api itu.
+
+[1627] Biar gelora mata yang menangis jatuh ke hati,\
+topan berombak di dalam tungku.
+
+[1628] Biar dada ini jadi bekas kebakaran,\
+tapi anggur menenggelamkannya dalam nyala.
+
+[1629] Hati kami terikat pada dawai organ,\
+sekaligus dirantai ombak darah.
+
+[1630] Rantai kami tak bisa dibuka\
+kecuali oleh pedang ombak anggur.
+
+[1631] Berikan anggur itu dengan murka,\
+biar Mirrikh bala jadi gelembungnya.
+
+[1632] Biar cawan semerah mawar itu mengeluarkan kami dari kepala,\
+menyelaraskan kami dengan Mansur.
+
+[1633] Mari lupakan baik dan buruk,\
+biar binasa berpelukan dengan nyawa.
+
+[1634] Rupanya Reruntuhan Duka itu tempat jagal;\
+mana garis cawan, mana hizib agung?
+
+[1635] Karena jalan tertutup duri dan sampah,\
+biarlah banjir bunga api itu menyapu bersih.
+
+[1636] Aku bergegas menuju padang duka;\
+siapa kini yang berani menghadangku?
+
+[1637] Kemarilah, para penghadang jalan,\
+yang merindukan pedang desah!
+
+## Asmara Melintasi Reruntuhan Duka {.judul-bagian}
+
+[1638] Ketika Asmara yang mulia, tanpa gentar,\
+dengan penuh damba jatuh ke padang duka,
+
+[1639] dengan pedang itu Asmara yang melesat secepat kilat\
+menjadikan padang duka pasir gelanggang.
+
+[1640] Setiap genderuwo bala yang muncul di jalan\
+dijadikan santapan pedang desah.
+
+[1641] Bumi dibalik jadi langit,\
+naga-naga diberi warna bima sakti.
+
+[1642] Kepala raksasa dan genderuwo digelar bak dagangan,\
+bala tentara itu dibayar tunai dengan maut.
+
+[1643] Darah singa dijadikan lautan,\
+padang berubah jadi kulit harimau.
+
+[1644] Dengan sebilah pedang, anak keturunan malaikat itu\
+menjadikan gulita jahim taman surga.
+
+[1645] Sebentar saja reruntuhan duka dilintasi,\
+sihirnya dilihat, fatamorgananya pula.
+
+[1646] Jalan itu dilalui sebelum ajal,\
+Istana Ratapan tertinggal di belakang.
+
+[1647] Kisah itu sudah didengar:\
+kapal lilin di atas laut api.
+
+[1648] Kini tiba-tiba muncul di jalan\
+samudra api pembakar hati itu.
+
+[1649] Memperlihatkan kapal-kapal dari lilin,\
+banyak raksasa bermukim di laut itu.
+
+[1650] Sebab api tak menyakiti kaum itu;\
+masa api tersakiti oleh api?
+
+[1651] Kapal-kapal ditahan di udara,\
+banyak orang dungu tak berbekal tertangkap.
+
+[1652] Siapa pun yang maju ke kapal,\
+raksasa-raksasa itu membinasakannya.
+
+[1653] Sampan, tapi serupa pohon hias pesta kawin,\
+lambungnya merah dan berwujud nyala.
+
+[1654] Seakan pulau malapetaka,\
+penuh bara, bala, kiamat merah.
+
+[1655] Masing-masing seperti Gunung Surkhab,\
+penuh raksasa berayah tiri gunung.
+
+[1656] Kapal lilin itu seakan keranda,\
+tapi kuburnya tak diketahui.
+
+[1657] Bahtera dan api yang sarat celaka itu\
+tak lain lilin-lilin kuburan.
+
+[1658] Api itu tempat sihir berkuasa,\
+tapi tak sanggup menyakiti pantai.
+
+[1659] Ketika para raksasa memanggil Asmara:\
+"Mari naik kapal, kau akan selamat,"
+
+[1660] Asmara paham duduk perkara,\
+bersabar, tak tergesa-gesa.
+
+[1661] Tapi apa daya, jalan tertutup,\
+tak satu jalan pun terlihat.
+
+## Mengadukan Keadaan Diri {.judul-bagian}
+
+[1662] "Wahai Pencipta dan Pengatur, sampai kapan\
+derita dan duri demi duri ini?
+
+[1663] Pantaskah ada penyamun, padahal jalan milik-Mu?\
+Bila Kau mencari dambaan, dambaan pun milik-Mu.
+
+[1664] Haruskah setiap ahli derita yang bergelora\
+naik ke tiang gantungan seperti Mansur?
+
+[1665] Jangan jadikan aku sasaran perpisahan;\
+buat apa menguji yang ingkar janji?
+
+[1666] Karena Kau jadikan aku tempat sezarah cinta,\
+Kau sejajarkan kepalaku dengan mentari,
+
+[1667] jangan ikat aku di tangan para penyihir;\
+bunuhlah aku, jangan biarkan sakit begini.
+
+[1668] Maut itu hidup abadi;\
+bila diminta demi nafsu, itulah rugi.
+
+[1669] Yang dimaksud hanyalah rida,\
+dan untuk maksud itu pun perlu karunia.
+
+[1670] Di jalan mencari, kakiku terikat;\
+Engkaulah yang membuka, aku tak punya apa-apa.
+
+[1671] Berilah perlindungan yang layak diterima,\
+terimalah, dan berilah doa.
+
+[1672] Anugerahkan pencarian di hatiku,\
+anugerahkan adab dalam meminta.
+
+[1673] Biar pinta ini bergandeng dengan satu kemurahan,\
+biar kelancanganku seluruhnya jadi kesempurnaan.
+
+[1674] Kalau tiang gantungan, itulah pojok majelisku;\
+kalau api, api itulah persinggahanku.
+
+[1675] Bila samudra pertolongan bergolak,\
+mustahil hamba-hamba dilupakan.
+
+[1676] Aku tahu duka ini tak seharga desah,\
+demi Allah, tak seharga satu tatapan.
+
+[1677] Tapi harapanku rahmat-Mu,\
+yang kami akrabi pertolongan-Mu.
+
+[1678] Di padang ketiadaan Kau bermurah,\
+Kau beri pakaian wujud ketika kami tiada.
+
+[1679] Kini pun kami di ketiadaan, tiada kami,\
+pendamba nikmat-Mu yang merata."
+
+***
+
+[1680] Tinggallah Asmara di sana, tawanan rindu,\
+tak kuat menyeberang, tak terpikir kembali.
+
+[1681] Kuda kemerahan bertubuh mawar itu bicara:\
+"Kenapa kau berhenti?"
+
+[1682] Asmara menaburkan mutiara air mata,\
+bertutur laksana mutiara yang bergulir:
+
+[1683] "Aku tak bersayap dan berbulu seperti Ghirah;\
+dengan api ini, bagaimana nasibku?
+
+[1684] Aku bukan rajawali yang bersiap\
+terbang ribuan farsakh."
+
+[1685] Kuda merah itu menjelma seperti Anqa,\
+menerjang api tanpa sungkan.
+
+[1686] Api yang asapnya asap Namrud,\
+genderuwo hitam penampakan Namrud.
+
+[1687] Api duka menguasai dunia,\
+pusaran-pusarannya sumur jahanam.
+
+[1688] Neraka, tapi taman nyala dari air raksa;\
+setiap bara meneguk teguk pusaran.
+
+[1689] Semerah mawar seperti air darah hati,\
+laut bunga api, samudra darah.
+
+[1690] Setiap selamnya samudra api,\
+setiap kedalamannya jahim api.
+
+[1691] Kata Ghirah kepada Asmara, "Jangan bakar nyawamu;\
+inilah api Kimia itu.
+
+[1692] Terbanglah laksana rajawali,\
+jadilah unggul di kowi ujian itu.
+
+[1693] Jangan kira kau datang dari pintu ini;\
+kau pergi lewat api, pulang lewat air.
+
+[1694] Jangan lari dari api kefanaan ini,\
+jangan masuk lagi ke perut kuda."
+
+[1695] Api menguatkan kesempurnaan Asmara,\
+laksana mentari dalam air darah senja.
+
+[1696] Topan bunga api berombak demi ombak,\
+kuda merah terbang, puncak demi puncak.
+
+[1697] Samudra api penuh gelora bala,\
+kuda pemikat itu bagai nyalanya.
+
+[1698] Desah dingin, seperti ayat *"Jadilah dingin,"*\
+melintasi api itu bagai asap.
+
+[1699] Di sisinya Ghirah mengembangkan sayap,\
+laron, tapi berupa singa.
+
+[1700] Mentari terang itu tertinggal di dalam asap,\
+seakan fitnah gerhana bulan.
+
+[1701] Setiap saat para genderuwo,\
+dengan sebilah pedang, dikirim nyawanya ke jahanam.
+
+[1702] Kuda di bawahnya laksana salamander,\
+Ghirah pun bersama-sama di sisinya.
+
+[1703] Walhasil, jalan api itu\
+dilalui laksana angin sepoi dini hari.
+
+[1704] Sampai ke pantai yang jalannya\
+musim semi taman-taman Firdaus.
+
+[1705] Bulbulnya nuri pandai bertutur,\
+nurinya karib dengan bara dan gamelan.
+
+[1706] Rumput bergelombang seperti laut,\
+tiap pohon penabur mawar seperti Tuba.
+
+[1707] Topan padang rumput, laut zamrud,\
+bumi langit hijau, alam zamrud.
+
+[1708] Di setiap arah bunga-bunga tampak,\
+penuh senyum seperti wajah-wajah rembulan.
+
+[1709] Tiap kuntum musim semi yang riang,\
+tiap embun awan yang basah.
+
+[1710] Seperti langit, kebun yang bercahaya itu;\
+bunga mataharinya serupa mentari.
+
+[1711] Padang penuh narsis dan anyelir,\
+rumput liar dan debunya sunbul.
+
+[1712] Udaranya begitu jernih dan memikat\
+hingga bulbulnya harum seperti kuntum.
+
+[1713] Butir-butir debu dalam cahaya surya merekah,\
+masing-masing bunga jam, seperti biasa.
+
+[1714] Duri-duri berbunga lebat di padang rumput,\
+tertawa ke arah putaran falak.
+
+[1715] Memandang kebun dan padang itu,\
+luka selar Asmara segar kembali oleh satu desah.
+
+[1716] Mengenang Taman Makna,\
+dilantunkannya syair baru ini:
+
+[1717] Duhai, masa ketika hati riang,\
+negeri jiwa kota sukacita;\
+[1718] kukenang lagi lagu-lagu itu;\
+demi Allah, wahai falak, berilah keadilan:\
+[1719] *dulu akulah hiasan zaman.*
+
+[1720] Sebuah kebun tempat jiwa ini bersarang,\
+tiap kuntumnya seolah surga;\
+[1721] kesempatan datang dan menjarah semua,\
+di hatiku riang itu masih tinggal:\
+[1722] *dulu aku mabuk anggur kehormatan.*
+
+[1723] Tak pernah aku memohon kepada langit,\
+bersuka dan minum dan gamelanku tersedia;\
+[1724] cemara manjaku berjalan di sisiku,\
+rahasiaku belum terbuka begini:\
+*dulu aku membuat iri musim semi.*
+
+[1725] Kini aku jatuh ke duka penantian,\
+seperti bulbul jatuh ke musim semi baru;\
+[1726] banyak api kulintasi lalu jatuh ke pantai,\
+seperti cawan, jatuh berkeping-keping:\
+*dulu aku peminum anggur rajukan kekasih.*
+
+[1727] Aduh, masa itu telah lewat,\
+mawar lewat, duri demi duri lewat;\
+[1728] wajah hilang, kampung pun lewat,\
+jiwa kehausan, mabuk sayu pun lewat:\
+[1729] *dulu aku peminum anggur bersama sang kekasih.*
+
+[1730] Bersama kekasih aku bersuka dan minum,\
+bergolak seperti pusaran;\
+[1731] majelis anggur kuselimuti nyala,\
+bulbul-bulbulnya kubungkam:\
+*dulu aku bertuah seperti Galib.*
+
+## Sabda Memberi Kabar dalam Rupa Burung Nuri {.judul-bagian}
+
+[1732] Selagi bulan itu membaca syair segar ini,\
+tiba-tiba terdengar suara ganjil.
+
+[1733] Seekor nuri hijau berparuh merah\
+di sebuah dahan mengulang-ulang:
+
+[1734] "Putri Raja Cina, si penumpah darah itu,\
+datang ke kebun ini laksana pagi penabur mawar.
+
+[1735] Sayang kau, anak muda, sayang,\
+kau kelak kasmaran pada si genit itu.
+
+[1736] Pasti kau sampai ke Benteng Rupa-Rupa,\
+di sana kau dijerumuskan ke dalam derita."
+
+[1737] Asmara memandang nuri itu dengan angkuh,\
+rahasia tersembunyi pun terbuka.
+
+[1738] Menyebut nama Jelita, berkata, "Mustahil!\
+Masa aku membuktikan cinta kepada orang lain?"
+
+[1739] Nuri hijau itu, setelah membeberkan ini,\
+terbang menemani Khidir jalan gaib.
+
+[1740] Tiba saatnya, apa yang dilihat Asmara yang bergelora?\
+Serombongan bidadari tiba di kebun itu.
+
+[1741] Satu bulan dan serombongan jelita,\
+mentari cemerlang di tengah planet-planet.
+
+[1742] Seperti bala tentara malaikat, semua suci,\
+seperti tentara akal yang tajam.
+
+[1743] Bulan yang menjadi raja rombongan itu\
+ratu bagi tentara peri.
+
+[1744] Bermata bidadari, berparas ruh,\
+persis serupa Jelita yang mulia.
+
+[1745] Taman mawar pipi: surga;\
+pedang tatapan: pencipta perpisahan.
+
+[1746] Alis: basmalah kitab rahmat;\
+bibir: isyarat kepada surah Al-Kautsar.
+
+[1747] Pipi merah: cawan berkilau,\
+menuang titik-titik ke pipi mentari.
+
+[1748] Tubuh perak, berhala bak melati,\
+tapi pada rupanya diam.
+
+[1749] Setiap saat bercakap dengan isyarat;\
+tak punya mulut, apa daya si bulan?
+
+[1750] Si kafir tak pernah berkata sepatah pun,\
+juru bahasanya melulu kerling.
+
+[1751] Walhasil, mentari penghias alam itu\
+seluruhnya Jelita yang elok,
+
+[1752] hanya saja Jelita pandai bertutur,\
+mawar harum melati ini diam.
+
+[1753] Dengan seribu manja wajah diperlihatkan,\
+Asmara seketika jadi lukisan di dinding:
+
+[1754] "Jelitakah si wajah rembulan ini,\
+yang menjadikan dadaku harta karun api?
+
+[1755] Atau ini peri tempat ini,\
+di sisinya bala tentara peri?"
+
+[1756] Selagi Asmara mengulang-ulang pikiran itu,\
+belum sempat mengungkapkan ujung benang,
+
+[1757] dibawakan singgasana bertatah permata,\
+diletakkan rombongan bertubuh cahaya itu.
+
+[1758] Si wajah rembulan duduk di sana,\
+atau mentari terpantul di kolam cahaya.
+
+[1759] Menatap sekeliling dengan cermat,\
+memerintah, dan memanggil Asmara.
+
+[1760] Seketika dibawa menghadap,\
+cahaya pun tenggelam dalam cahaya.
+
+[1761] Perjamuan riang disiapkan,\
+seribu macam sukacita hidup kembali.
+
+[1762] Asmara dihormati berulang-ulang,\
+diberi tempat di sisinya.
