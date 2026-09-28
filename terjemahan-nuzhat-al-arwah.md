@@ -1851,3 +1851,283 @@ Kemudian Plato kembali dari Mesir ke Athena dan mendirikan di sana dua rumah hik
 
 Ia mencapai usia delapan puluh satu tahun. Ia baik akhlaknya, mulia perbuatannya, banyak berbuat baik kepada setiap kerabatnya dan kepada orang-orang asing, tekun beribadah, santun, dan sabar. Ia memiliki banyak murid. Sesudahnya pengajaran dipegang oleh dua orang: yang satu di Athena, di tempat yang dikenal sebagai Akademia, yaitu Xenokrates; dan yang lain di Lykeion, yang juga termasuk wilayah Athena, yaitu Aristoteles.
 
+Ia menyampaikan hikmahnya dengan teka-teki dan merahasiakannya; ia berbicara tentangnya secara bersandi agar maksudnya tidak tampak kecuali bagi para ahli hikmah. Ia belajar dan menimba ilmu dari Timaios dan Sokrates, dan dari keduanya ia mengambil sebagian besar pendapatnya. Ia menyusun banyak kitab; yang namanya sampai kepada kita berjumlah lima puluh enam kitab, dan di antaranya ada kitab-kitab besar yang memuat beberapa makalah. Kitab-kitabnya bersambung satu sama lain empat demi empat: satu tujuan menghimpunnya, dan masing-masing dikhususkan untuk suatu tujuan khusus yang tercakup dalam tujuan umum itu. Masing-masing dinamai tetralogi (*rābūʿ*), dan setiap tetralogi bersambung dengan tetralogi sebelumnya.
+
+Ia adalah seorang lelaki berkulit sawo matang, sedang perawakannya, tampan rupanya, sempurna raut wajahnya, bagus janggutnya, sedikit rambut di kedua pipinya, tenang dan lembut suaranya, bermata kelabu kebiruan dengan putih mata yang berkilau. Di dagu bawahnya ada tahi lalat hitam. Ia panjang rentang lengannya dan halus tutur katanya. Ia suka duduk di padang pasir dan menyendiri, dan pada kebanyakan waktu tempatnya diketahui dari suara tangisnya; suara itu terdengar dari jarak sekitar dua mil di padang-padang tandus, gurun, dan tanah lapang. Semoga Allah Taʿālā melimpahkan kepada kita keberkahan dan doanya.
+
+### Adab, Hikmah, dan Nasihat Plato {.judul-pasal}
+
+Dialah sang ahli ketuhanan yang memiliki keterdahuluan atas setiap orang sesudahnya. Jika engkau ingin menyaksikan kedudukannya sebagai sebab filsafat sesudahnya dan kedudukannya yang tinggi, lihatlah jejak-jejaknya pada Aristoteles, karena dialah yang menyusun keahlian itu dengan seluruh bagiannya, menelitinya dari dasarnya yang terendah hingga puncaknya yang tertinggi, dan memetik buah dari setiap tanaman para pencintanya. Perkataan tentangnya panjang dan pujian kepadanya tidak putus. Nama kitab-kitabnya yang sampai kepada kita berjumlah lima puluh enam, dan di antaranya ada kitab-kitab besar.
+
+Plato menasihati manusia dengan berkata: "Wahai manusia! Dengarlah perkataanku dan bersyukurlah kepada Allah atas nikmat-nikmat-Nya kepada kalian. Ketahuilah bahwa Allah Taʿālā telah menyamakan makhluk-Nya dalam pemberian nikmat dan melimpahkannya kepada mereka semua. Pahamilah dan renungkanlah perkataan ini dengan contoh kesehatan. Allah telah melimpahkan nikmat-nikmat, dan nikmat-nikmat itu untuk semua orang. Kesehatan tidak diperoleh menurut kedudukan, dan orang-orang lemah tidak kehilangannya karena kelemahan mereka. Ini adalah nikmat yang melampaui segala yang dibanggakan oleh orang-orang yang berkelapangan. Demikian pula indra, ia untuk semua manusia. Karena semua itu kalian wajib bersyukur kepada Allah ʿAzza wa Jalla pada malam dan siang kalian atas pemberian-pemberian-Nya dan atas bencana-bencana yang telah Dia palingkan dari kalian. Maka palingkanlah pikiran kalian dari saling bermusuhan dalam hal yang tidak kalian butuhkan. Ketahuilah bahwa apa yang ada dalam fitrah adalah hukum alami, dan di dalamnya ada berbagai manfaat dan kecukupan bagi kalian. Tabiat telah menyiapkan bagi kalian apa yang memperbaiki urusan kalian di dunia dan akhirat kalian. Maka apakah yang mendorong kalian untuk mengumpulkan dan memayahkan diri dalam hal-hal yang melahirkan kebencian dan permusuhan di antara kalian?
+
+"Sungguh aku berkata kepada kalian: seandainya kalian mengetahui apa yang ada dalam hal yang kalian perebutkan ini, tentu kalian akan mengetahui bahwa kalian seharusnya zuhud terhadap apa yang kalian inginkan. Tolaklah syahwat-syahwat, karena ia lawan pikiran. Janganlah kalian mencari apa yang tidak kalian butuhkan, dan tekunilah apa yang memperbaiki urusan kalian. Apakah kekayaan emas dan perak dalam fitrah, dan apakah ciri khas keduanya yang membuat para pencintanya memujinya? Allah telah menyiapkan bagi kalian apa yang melindungi kalian, yaitu hikmah dan takwa.
+
+"Wahai kaum! Takwa adalah pangkal keberhasilan dan kunci keutamaan-keutamaan. Jauhilah kezaliman, karena ia alat kebinasaan dan kepingan bencana. Ingkarilah kedurhakaan, karena tersebarnya membinasakan umat, dan ia termasuk ciri khas binatang-binatang yang hina. Adapun apa yang kalian cari, ambillah agar kalian mengetahui hujah kalian dalam tuntutan kalian: kekayaan atau kefakiran? Jika kalian mencari kekayaan, hujah itu melawan kalian; dan jika kalian mencari kefakiran, tetaplah pada apa yang kukatakan kepada kalian. Apakah kalian mengingkari bahwa orang yang memiliki apa yang dibutuhkannya namun tidak merasa cukup dengan apa yang dimilikinya akan lelah mencari yang lain? Jika telah benar bagi kita bahwa tabiat telah menyiapkan apa yang kalian butuhkan, wajiblah atas kalian berpegang pada nikmat yang telah dianugerahkan Allah Subḥānahu kepada kalian.
+
+"Wahai para pencari emas dan perak! Apakah kalian ingin mengumpulkannya untuk diri kalian, ataukah untuk keduanya sendiri? Apabila kalian telah mengumpulkannya, jika kalian menginginkan keduanya [demi keduanya], apakah yang mendorong kalian untuk membeli barang-barang remeh dengannya? Tidakkah kalian merenung dan mengetahui bahwa keduanya tidak diinginkan [demi dirinya sendiri]? Biarkanlah emas dan perak bagi orang yang mengumpulkannya dan celaka karenanya. Hendaklah kalian berpegang pada hikmah, karena hikmah adalah cahaya jiwa; dengannya tampak keutamaan-keutamaan jiwa dan seluruh akhlaknya. Tetaplah pada ilmu, karena ilmu termasuk ciri khas bentuk yang merupakan permulaan penciptaan. Janganlah kalian berlebih-lebihan dalam makan dan minum, karena keduanya termasuk golongan hayula yang lebih rendah daripada bentuk, dan hayula itu menjadi sempurna dengan perbuatan bentuk. Maka serupailah bentuk, karena bentuk adalah yang menggerakkan dengan daya yang diciptakan oleh Sang Pencipta Subḥānahu di dalamnya. Janganlah kalian condong kepada hayula yang diciptakan oleh Sang Pencipta Taʿālā, lalu disempurnakan-Nya dengan bentuk dan digerakkan-Nya dengan gerakan daya bentuk itu.
+
+"Sungguh aku berkata kepada kalian: Homeros sang penyair benar dalam hikmah dan perkataannya: 'Hayula serupa dengan perempuan, dan bentuk serupa dengan laki-laki.' Perbaikilah diri kalian, niscaya saudara-saudara kalian menjadi baik bagi kalian. Jika kalian menerima perkataanku, kalian akan mendapat petunjuk; dan jika kalian melalaikannya, kalian tidak menyia-nyiakan selain diri kalian sendiri, dan bahayanya tidak akan menimpa selain kalian. Tetaplah pada jalan para pendahulu kalian. Tinggalkanlah dunia dalam keadaan kalian tidak dilukai oleh syahwat-syahwatnya. Dahulukanlah hikmah atas segala yang diinginkan. Perhatikanlah tegaknya badan, karena ia alat jiwa. Carilah keutamaan-keutamaan jiwa, niscaya daya-daya kalian menjadi sehat. Janganlah kalian memuji yang tercela dan jangan mencela yang terpuji. Tolong-menolonglah dalam kebajikan, dan angkatlah kebencian dari antara kalian. Janganlah kalian akrab dengan apa yang akan meninggalkan kalian, dan janganlah kalian menginginkan apa yang sebentar lagi akan kalian kehilangan. Carilah keutamaan-keutamaan yang disepakati manusia sebagai hal yang patut diinginkan, dan tolaklah hal-hal tercela karena semua manusia menjauhinya. Ambillah pelajaran dari orang-orang baik dan raja-raja kalian yang telah berlalu, dan tetaplah pada tujuan yang mereka tuju. Kebenaran itu jelas, yang tepat itu terang, takwa itu dikenal, harga diri itu tampak, muruah itu terbuka, dan keadilan adalah keutamaan yang terpuji. Alangkah jelasnya tanda perbuatan-perbuatan tercela, dan alangkah tampaknya hal-hal yang tercela!
+
+"Sungguh aku memberitahukan kepada kalian bahwa aku mendapati kegembiraan karena kebencianku kepada emas dan perak, yang tidak kudapati sebagai kelezatan dalam bertambahnya hartaku dari keduanya; bahkan kesedihan akan bertambah karena terputusnya harapan akibat memperhatikannya. Kegembiraanku hanya bertambah dengan hikmah dan dengan mencapainya. Bukti bahwa pada emas, perak, dan yang serupa dengannya tidak ada keutamaan sama sekali ialah bahwa kita mendapati orang-orang yang membeli dengan emas yang banyak sedikit tulang, yaitu gading, dan orang-orang yang menukarnya dengan tembaga dan kaca yang lebih rendah daripadanya, dan lain-lain. Seandainya emas memiliki keutamaan pada dirinya, tentu ia diinginkan di segala tempat, sebagaimana hikmah dipuji di segala penjuru, dan kebodohan dicela di segala penjuru dan oleh semua orang. Perhatikanlah diri kalian dan belalah kedudukan kalian. Berhiaslah dengan keadilan dan kenakanlah pakaian penjagaan diri, niscaya kalian beruntung dan urusan-urusan kalian terpuji."
+
+Ia berkata kepada raja: "Pikiran sehari untuk dirimu lebih bermanfaat daripada pajak setahun bagi raja."
+
+Ia berkata kepada Aristoteles: "Janganlah engkau membuka aib seseorang, dan hendaklah perilakumu terhadap manusia seluruhnya dengan kerendahan hati."
+
+Ia berkata: Barang siapa mengetahui bahwa ia akan mati, tidak sepatutnya ia berduka karena suatu perkara sulit yang menimpanya, karena orang hidup tidak mungkin membayangkan sesuatu yang lebih sulit baginya daripada maut.
+
+Ia berkata: Apabila terlintas dalam benakmu pikiran tentang sesuatu yang engkau kehendaki dan inginkan, jadikanlah ia dalam benakmu seperti sesuatu yang sekadar terlintas. Jika ia tersedia bagimu, engkau memperolehnya dengan cara yang paling mudah; dan jika ia luput darimu, jiwamu tidak terpaksa kepadanya.
+
+Ia berkata: Kedunguan ada dua macam: yang pertama kegilaan, dan yang kedua ketiadaan ilmu.
+
+Ia berkata: Janganlah engkau meminta suatu kebutuhan kepada orang jahat, karena sebagaimana kejahatannya dalam perilakunya, demikian pula kejahatannya dalam pemberiannya.
+
+Plato berkata: Kebiasaan memiliki kekuasaan atas segala sesuatu.
+
+Ia berkata: Akhlak yang buruk merusak amal sebagaimana jadam merusak madu.
+
+Ia berkata: Barang siapa tidak menyantuni saudara-saudaranya pada masa jayanya, mereka akan membiarkannya pada masa bencananya.
+
+Ia melihat seorang lelaki yang mewarisi tanah-tanah dari ayahnya lalu memboroskannya, maka ia berkata: "Tanah-tanah menelan manusia, sedangkan pemuda ini menelan tanah-tanah."
+
+Ia berkata: Orang yang mengajarkan kebaikan kepada manusia tetapi tidak mengamalkannya berkedudukan seperti orang yang memegang pelita yang menerangi orang lain.
+
+Ia berkata: Raja bukanlah orang yang menguasai budak-budak, tetapi orang yang menguasai orang-orang merdeka; dan orang kaya bukanlah orang yang mengumpulkan harta, tetapi orang yang mengatur harta.
+
+Seorang lelaki bertanya kepadanya: "Dengan apa engkau memperoleh ilmu yang telah engkau capai?" Ia menjawab: "Dengan menghabiskan minyak di pelitaku lebih banyak daripada minuman yang engkau minum."
+
+Seseorang mencacinya, lalu ia berkata kepadanya: "Urusanmu dengan keburukan, karena engkau tidak pandai berbuat baik."
+
+Ia berkata: Apabila salah seorang anak muda ditegur, sepatutnya disisakan baginya ruang untuk mengingkari kesalahannya; jika tidak, hal itu akan mendorongnya untuk keras kepala.
+
+Ia ditanya: "Siapakah yang paling berhak dipercaya mengatur kota?" Ia menjawab: "Orang yang baik caranya dalam mengatur dirinya sendiri."
+
+Ia ditanya: "Siapakah orang yang paling cermat dalam perkara-perkara hikmah?" Ia menjawab: "Orang yang paling memahami pendapatnya sendiri, paling suka bermusyawarah, dan paling banyak berhenti ketika menghadapi kesamaran hingga jalan penalaran dan pengujian terbuka baginya."
+
+Dalam *al-Nawāmīs* (*Nomoi*) ia menyatakan dengan terang bahwa alam memiliki permulaan menurut sebab, dan tidak memiliki permulaan menurut waktu.
+
+Ia ditanya: "Siapakah manusia yang paling bodoh dalam perbuatannya?" Ia menjawab: "Orang yang paling kagum pada pendapatnya sendiri, yang paling mengikuti pengaturannya sendiri tanpa pendapat orang lain, yang tidak mau menyalahi urusannya sendiri, dan yang menerjang perkara-perkara dengan baik sangkanya."
+
+Ia berkata: Orang bijak yang merdeka jiwanya adalah tuan bagi hukum tabiat, dan orang bijak yang tidak merdeka jiwanya adalah budak bagi hukum tabiat.
+
+Ia ditanya: "Siapakah yang selamat dari seluruh aib dan perbuatan buruk?" Ia menjawab: "Orang yang menjadikan akalnya sebagai pemimpinnya, kewaspadaannya sebagai wazirnya, nasihat-nasihat sebagai tali kekangnya, kesabaran sebagai penuntunnya, berpegang pada kehati-hatian sebagai penolongnya, takut kepada Sang Pencipta Taʿālā sebagai pengawasnya, dan mengingat maut sebagai teman akrabnya."
+
+Ia ditanya: "Siapakah manusia yang paling menyia-nyiakan dirinya dan paling merendahkan kedudukannya?" Ia menjawab: "Orang yang merendah kepada orang yang tidak memuliakannya, dan menerima pujian dari orang yang tidak mengenalnya."
+
+Ia berkata: Orang-orang bodoh yang serupa binatang memutuskan tentang yang indah dan yang buruk sesuai dengan kadar yang dapat dicapai oleh indra-indra lahir mereka. Indra-indra itu hanya melihat keindahan anggota-anggota tubuh; adapun keindahan rupa [batin], ia tidak dapat dilihat kecuali oleh indra-indra batin.
+
+Ia berkata: Barang siapa mencari hikmah dari jalannya, ia akan menangkapnya. Kebanyakan pencarinya hanyalah keliru karena mereka mencarinya dari selain jalannya. Apabila ia tidak menangkapnya dari jalan itu, ia tidak mencarinya dari jalan lain, kemudian ia mendustakan bentuk hikmah, sehingga kebodohannya membawanya kepada ketidaktahuan. Sebab orang yang tidak mengenal bentuk hikmah tidak mengenal zatnya, dan orang yang tidak mengenal zat hikmah adalah yang paling bodoh di antara orang-orang bodoh.
+
+Ia berkata: Dunia adalah ketiadaan dalam rupa sesuatu.
+
+Ia berkata kepada Aristoteles: "Janganlah engkau menerima pujian dengan apa yang tidak ada padamu."
+
+Ia ditanya: "Apakah engkau mempunyai orang yang melayanimu?" Ia menjawab: "Orang-orang yang kalian layani, merekalah yang melayaniku."
+
+Ia berkata: Barang siapa mengenal bentuk kebodohan, ia adalah orang alim; orang bodoh hanyalah orang yang tidak mengenal bentuk kebodohan.
+
+Ia berkata: Amarah adalah kekuatan yang disambut oleh keburukan.
+
+Ia berkata: Jika engkau ingin kelezatan tetap langgeng bagimu, janganlah sekali-kali engkau menghabiskan sesuatu yang lezat, tetapi sisakanlah sedikit darinya, niscaya kelezatan itu langgeng bagimu.
+
+Ia berkata: Sepatutnya raja menyerahkan kepemimpinan kepada orang yang santun lagi berilmu, karena kesantunan itu tenang dan sabar, sedangkan keberanian itu gelisah dan jemu. Apabila kepemimpinan berada di tangan orang-orang santun, dengan ketenangan dan kesabaran mereka yang baik mereka mengimbangi kegelisahan orang-orang yang keras; dan apabila berada di tangan orang-orang pemberani, mereka menggelisahkan orang-orang santun dengan kegelisahan mereka dan menjemukan orang-orang berilmu dengan kejemuan mereka, karena orang yang santun tidak gelisah kecuali karena kebodohan.
+
+Ia berkata: Pada waktu perang, janganlah engkau memakai keberanian dan meninggalkan akal, karena akal memiliki keadaan-keadaan yang dapat sempurna tanpa membutuhkan keberanian, sedangkan engkau tidak akan melihat keberanian tidak membutuhkan akal.
+
+Ia berkata: Perkataan tanpa amal seperti banjir yang menenggelamkan tetapi tidak bermanfaat.
+
+Ia berkata: Minuman keras menyingkap rahasia orang yang berpura-pura.
+
+Ia berkata: Akhlak yang buruk berasal dari memakai buruk sangka, karena orang yang memakai buruk sangka rusak hidupnya dan buruk akhlaknya.
+
+Ia berkata: Tidak sepatutnya seseorang memakai buruk sangka kecuali ketika pendapatnya buntu. Jika ia tidak mampu berpendapat dan pendapatnya meleset, barulah ia memakai buruk sangka.
+
+Ia berkata: Janganlah sekali-kali engkau menikmati sesuatu di alam ini sebelum engkau mendamaikan indra dengan akal, agar yang satu tidak merusak yang lain. Apabila engkau telah mendamaikan keduanya, engkau akan melihat yang indah sebagai indah dan yang buruk sebagai buruk.
+
+Ia berkata: Janganlah engkau memuji sesuatu melebihi kadarnya, karena tidak lama kemudian akan tampak hakikat zatnya dan kebodohanmu; maka pujian itu tidak lagi menjadi pujian bagi sesuatu itu, tetapi penghinaan bagi dirimu.
+
+Ia ditanya: "Kapankah orang berakal merasa jemu?" Ia menjawab: "Apabila engkau memaksanya bercakap dengan orang bodoh."
+
+Ia berkata: Apabila engkau melihat akal sempurna, di sana syahwat sakit dan lemah.
+
+Ia berkata: Apabila seorang penguasa kuat dalam jabatannya, ia menggerakkan apa yang dikuasainya sesuai dengan kebaikan dan keburukan yang ada dalam tabiatnya.
+
+Ia berkata: Rendahnya cita-cita dan hinanya kedudukan berasal dari lemahnya pertimbangan dan buruknya pilihan.
+
+Ia berkata: Hal yang paling buruk adalah kejujuran dalam memfitnah, kekikiran ketika mampu, kebakhilan terhadap orang yang tidak mampu meminta, dan kekerasan terhadap orang yang kejahatannya tidak perlu dikhawatirkan.
+
+Ia berkata: Kehidupan jiwa dan tegaknya ada pada amal-amalnya yang membentenginya dari bencana-bencana, sehingga tidak ada sesuatu yang mematikannya yang mendekatinya, sehingga menjadi pembunuhan bagi jiwa. Sebab, jika hal itu tidak membunuhnya, tidak seorang pun mampu membunuhnya, karena jiwa menguasai jasad, lebih tinggi daripadanya, dan dengan kehalusannya terlindung dari dilihat oleh maut yang melihat kepada jasad. Maka maut tidak melihatnya, sedangkan jiwa melihatnya karena kelebihan kehalusannya atasnya.
+
+Dalam sebuah tulisan yang didiktekannya kepada Aristoteles, ia berkata: "Kenalilah Allah dan hak-Nya. Curahkanlah perhatianmu kepada ilmu yang saleh lebih banyak daripada perhatianmu kepada makananmu hari demi hari. Janganlah engkau memohon kepada Allah sesuatu yang manfaatnya tidak kekal bagimu selama-lamanya, karena segala pemberian berasal dari-Nya; tetapi hendaklah engkau memohon kepada-Nya nikmat yang kekal bersamamu selama-lamanya. Jadilah selalu waspada, karena sebab-sebab keburukan itu banyak. Janganlah engkau menginginkan apa yang tidak sepatutnya engkau lakukan. Tidak sepatutnya engkau menginginkan kehidupan yang baik saja, tetapi juga kematian yang baik. Janganlah engkau menganggap kehidupan dan kematian baik kecuali jika engkau memperoleh sesuatu dengan keduanya. Janganlah engkau tidur sebelum menghisab dirimu atas tiga perkara: apakah aku berbuat salah hari ini? Kebajikan apa yang telah kuperoleh hari ini? Dan kebaikan apa yang sepatutnya kulakukan hari ini tetapi aku lalai melakukannya? Ingatlah dahulu engkau apa, dan ke mana engkau akan berakhir! Orang yang celaka adalah orang yang tidak senantiasa mengingat kesudahannya sehingga ia kembali dari bencananya. Janganlah engkau menjadikan perolehanmu yang berasal dari hal-hal di luar dirimu sebagai pokok. Janganlah engkau memaksa orang yang berhak untuk meminta haknya kepadamu sebelum engkau menunaikannya, tetapi mulailah menunaikannya. Bukanlah orang bijak yang sempurna orang yang gembira karena sesuatu dari alam ini atau berkeluh kesah dan berduka karena salah satu musibahnya. Senantiasalah mengingat maut dan bersiap menghadapinya. Kerendahan akal seseorang dikenal dari banyaknya ia berbicara tentang apa yang bukan urusannya dan memberitahukan apa yang tidak ditanyakan dan tidak diminta darinya. Pikirkanlah berulang-ulang, kemudian berbicaralah dan berbuatlah, karena segala sesuatu berubah. Janganlah engkau cepat marah, sehingga amarah menguasaimu karena kebiasaan. Janganlah engkau menunda pemberian kepada orang yang membutuhkan hingga esok, karena engkau tidak tahu apa yang akan terjadi esok. Tolonglah orang yang tertimpa bencana, jika bukan amal buruknya sendiri yang membinasakannya. Janganlah engkau mencintai harta milik yang bagus, sehingga engkau terpaksa menjauh dari cinta kepada Allah ʿAzza wa Jalla. Janganlah engkau menjadi bijak hanya dengan perkataan, tetapi jadilah bijak dengan perbuatan, karena hikmah yang disertai perbuatan akan bermanfaat bagimu di alam yang kekal. Kemuliaan di sisi Allah Taʿālā bukanlah hikmah dengan perkataan, melainkan hikmah dengan amal-amal saleh. Sekalipun engkau lelah dalam kebajikan, kelelahan itu hilang dan kebajikan tetap bagimu; dan sekalipun engkau merasakan kelezatan dalam dosa, kelezatan itu hilang dan dosa tetap atasmu. Ingatlah hari ketika engkau dipanggil tetapi tidak mendengar; hari ketika lidah yang tajam terdiam, pikiran menjadi batal, kedua mata menjadi gelap dan cairannya mengering di dalam tanah, jiwamu terlepas dari badanmu, engkau tidak mampu mencium bau bangkai badanmu, dan indramu batal sehingga engkau tidak merasakan ulat-ulat yang mengisap nanah. Ingatlah bahwa engkau akan pergi ke tempat yang di sana engkau tidak mengenal sahabat maupun musuh, tempat tuan dan budak setara. Ingatlah timbangan yang adil. Himpunlah adab dengan latihan, karena engkau tidak tahu kapan keberangkatan. Ketahuilah bahwa di antara pemberian Allah tidak ada sesuatu yang lebih baik daripada hikmah. Balaslah dengan kebaikan, dan maafkanlah keburukan. Jagalah dirimu setiap waktu. Ingatlah, pahamilah urusanmu, dan renungkanlah. Janganlah bersandar pada suatu perkara pun dari alam yang berubah lagi fana ini. Janganlah engkau menentang satu kebaikan pun, dan janganlah sekali-kali engkau memperhatikan satu keburukan pun. Karena harta milik yang bagus, tidak sepatutnya engkau meninggalkan apa yang lebih utama daripadanya; dan karena kegembiraan zaman yang fana, tidak sepatutnya engkau meninggalkan kegembiraan yang kekal. Cintailah hikmah, dengarkanlah para ulama dengan saksama, dan taatilah penguasa. Janganlah engkau menolak adab yang baik pada waktu mana pun. Janganlah sekali-kali engkau melakukan sesuatu bukan pada waktunya; dan apabila engkau melakukannya pada waktunya, lakukanlah dengan pemahaman. Janganlah sekali-kali engkau mengucapkan perkataan yang tidak bermanfaat bagimu; dan apabila engkau mengucapkan perkataan yang bermanfaat, berhati-hatilah dan waspadalah. Tidak sepatutnya engkau menyombongkan diri ketika kaya, dan tidak pula mengemis ketika tertimpa musibah. Janganlah engkau berlaku dungu terhadap seorang pun, dan hendaklah perilakumu terhadap manusia seluruhnya dengan kerendahan hati. Janganlah sekali-kali engkau meremehkan seseorang karena kerendahan hatinya. Hendaklah pertolonganmu dalam hal yang tidak merendahkanmu dan tidak mengurangi kebajikanmu. Apa yang engkau maafkan bagi dirimu ketika melakukannya, janganlah engkau mencela saudaramu karena melakukan yang serupa. Jauhilah berbantah dan berpeganglah pada ketenangan. Tidak sepatutnya engkau menerima pujian dengan apa yang tidak ada padamu. Janganlah sekali-kali engkau melakukan apa yang engkau cela bila dilakukan, dan janganlah engkau berduka karena sesuatu yang tidak engkau lakukan. Tanggunglah kelelahan dalam berbagai segi kebajikan. Sepatutnya engkau melakukan yang wajib tanpa didorong, dan menahan diri dari yang tidak wajib tanpa dicegah."
+
+Ia berkata: Sepatutnya orang berakal menjadi pengawas atas dirinya sendiri, sehingga ia menganggap besar kesalahannya dan menganggap kecil kebenarannya.
+
+Ia berkata: Janganlah engkau memandang seseorang menurut kedudukan yang diberikan zaman kepadanya, tetapi pandanglah ia menurut nilainya yang hakiki, karena itulah kedudukannya yang alami.
+
+Ia berkata: Orang yang berjalan di bawah yang mungkin lemah petunjuk dan ketenangannya; orang yang menuntut yang mustahil buta mata hatinya dan kurang daya pembedanya; dan orang yang berjalan bersama yang wajib aman dari berlebih-lebihan, mulia kedudukannya, dan tenang hatinya: dalam perjalanannya ia tidak berjumpa dengan sesuatu yang membahayakannya dan tidak disergap oleh sesuatu yang tidak ia persiapkan.
+
+Ia berkata: Amarah, syahwat, dan setiap akhlak dari akhlak-akhlak jiwa memiliki kadar yang dengannya keadaan orang yang memilikinya menjadi baik. Jika melebihi kadar itu, ia membawanya kepada keburukan. Sebab amarah serupa dengan garam yang ditaburkan pada makanan: jika sesuai kadarnya, ia membuat makanan menjadi baik; jika tidak, ia merusaknya. Demikian pula daya-daya lainnya.
+
+Ia berkata: Tidak sepatutnya orang beradab diuji dengan banyaknya ilmu, tetapi hendaklah ia didapati bersih dari keburukan.
+
+Aristoteles berkata: "Aku pergi mencari Plato, lalu dikatakan bahwa ia berada di pekuburan. Aku mendatanginya, dan ia telah menumpuk tulang-belulang menjadi satu gundukan di sebelah kanannya dan gundukan lain di sebelah kirinya. Ia maju dan mundur, tertawa dan bermuka masam. Aku berdiri sejenak tanpa ia menyadarinya, kemudian ia memandangku, lalu aku bertanya kepadanya [tentang hal itu]. Ia menjawab: 'Adapun tawaku adalah karena mereka tertipu oleh dunia, dan muka masamku adalah karena memikirkan tersusunnya dan terurainya mereka.'"
+
+Suatu hari ia duduk dikelilingi murid-muridnya, kecuali Aristoteles, lalu ia berkata: "Seandainya aku mendapati seorang pendengar, tentu aku akan berbicara." Dikatakan kepadanya: "Di sekitarmu ada seribu murid." Ia menjawab: "Aku menginginkan satu orang yang setara dengan seribu."
+
+Ia berkata: Apabila engkau melihat orang mati, tanyakanlah kepada dirimu apakah ia setara denganmu dalam tabiat atau tidak. Jika ia setara denganmu, senantiasalah mengingat keadaan itu.
+
+Ia berkata: Janganlah engkau termasuk orang yang cepat marah, sehingga kebiasaan-kebiasaan orang dungu menguasaimu.
+
+Ia berkata: Hendaklah engkau setiap waktu menyiapkan bekalmu sebagaimana orang yang akan berangkat pada malam itu menyiapkan bekalnya.
+
+Ia berkata: Janganlah engkau bergembira dengan kemalasan.
+
+Ia berkata: Barang siapa membenci aib dan kehinaan, tidak sepatutnya ia bersungguh-sungguh untuk memasyhurkan namanya.
+
+Ia berkata: Tidak sepatutnya orang beradab berbicara dengan orang yang tidak beradab kecuali dengan lembut, sebagaimana tidak sepatutnya orang yang sadar berbicara dengan orang yang mabuk kecuali dengan bermanis-manis.
+
+Ia berkata: Orang merdeka yang paling berbahagia dan paling layak diutamakan adalah orang yang keluar dari kekuasaan kebiasaannya, terlepas dari ketaatan kepada amarahnya, menempati kedudukan di hati manusia tanpa bersandar pada jabatannya, dan tidak dilalaikan oleh apa yang datang kepadanya dari sumber-sumbernya.
+
+Ia berkata: Cintamu kepada sesuatu adalah tabir antara engkau dan keburukan-keburukannya, dan kebencianmu kepadanya adalah tabir antara engkau dan kebaikan-kebaikannya.
+
+Ia berkata: Barang siapa engkau lihat memperoleh sesuatu selain yang bermanfaat, janganlah engkau menganggapnya takut kepada Allah.
+
+Ia berkata: Apabila perkataan bersesuaian dengan niat pembicara, ia menggerakkan niat pendengar; dan jika menyalahinya, ia tidak diterima dengan baik oleh orang yang dituju.
+
+Ia berkata: Apabila jiwa manusia kuat, ia mencurahkan diri kepada pendapat; dan apabila lemah, ia mencurahkan diri kepada penelitian.
+
+Ia berkata: Yang paling baik dalam harga diri adalah menjauhkan diri dari aib-aib manusia dan tidak merendahkan diri demi apa yang melebihi kecukupan.
+
+Ia berkata: Keterbukaanmu adalah salah satu aurat dari aurat-auratmu, maka janganlah engkau memberikannya kecuali kepada orang yang dapat dipercaya menjaganya dan layak menerimanya.
+
+Ia berkata: Barang siapa mempelajari ilmu karena keutamaannya, tidak laku ilmunya tidak membuatnya merasa asing; dan barang siapa mempelajarinya karena manfaatnya, ia berpaling darinya ketika nasib berpaling.
+
+Ia berkata: Kesantunan tidak dinisbahkan kecuali kepada orang yang mampu menindak, dan zuhud tidak dinisbahkan kecuali kepada orang yang meninggalkan sesuatu setelah mampu.
+
+Ia berkata: Janganlah sekali-kali engkau terpedaya oleh orang yang condong kepadamu sebelum engkau mengetahui sebabnya. Jika hal itu karena salah satu sifat zatimu, harapkanlah keteguhannya; jika karena suatu sifat aksiden, janganlah engkau memedulikannya, karena kecondongan itu tetap selama sifat itu tetap dan berpaling ketika sifat itu berpaling.
+
+Ia berkata: Taklid menjadi wajib di dunia hanya karena kelemahan ada pada manusia.
+
+Ia berkata: Peliharalah hukum, niscaya ia memeliharamu.
+
+Plato biasa duduk, lalu diminta berbicara, maka ia berkata: "Tunggu sampai orang-orang hadir." Apabila Aristoteles datang, ia berkata: "Berbicaralah, karena orang-orang telah hadir."
+
+Ia berkata: Kebanggaan yang paling besar adalah engkau tidak membanggakan diri.
+
+Ia berkata: Barang siapa berlaku adil, sedikit dukanya dan segala sesuatu merindukannya.
+
+Ia berkata: Apabila engkau bersahabat dengan seseorang, engkau wajib menjadi sahabat bagi sahabatnya, tetapi engkau tidak wajib menjadi musuh bagi musuhnya.
+
+Ia berkata: Musyawarah adalah cermin yang memperlihatkan kepadamu tabiat orang yang dimintai pertimbangan.
+
+Plato ditanya tentang dunia menjelang wafatnya, lalu ia menjawab: "Aku datang ke dunia karena terpaksa, hidup di dalamnya dalam kebingungan, dan inilah aku keluar darinya dengan tidak rela. Di dalamnya aku tidak mengetahui apa-apa kecuali bahwa aku tidak mengetahui."
+
+Ia berkata: Sepatutnya engkau belajar, mengambil faedah, dan mendengar tanpa merasa malu, walaupun engkau telah mencapai puncak usia tua dan gurumu masih muda usianya, karena kebodohan lebih buruk daripada belajar.
+
+Ia berkata: Mempelajari keutamaan manusiawi adalah faedah yang menguntungkan.
+
+Ia berkata: Barang siapa tidak memiliki pemahaman tentang Sang Pencipta, tidak boleh engkau berharap ia memahami nasihat orang bijak.
+
+Ia berkata: Di antara faedah hikmah ialah bahwa orang bijak mengetahui dengan pengetahuan yang yakin bahwa ia telah selamat, seperti orang yang kapalnya pecah di laut lalu dari tepi pantai ia memandang kapal itu dihempas gelombang dan orang-orang yang masih tertinggal di dalamnya. Kegembiraannya karena keselamatannya menjadi besar, dan besar pula belas kasih dan rahmatnya kepada manusia yang masih terombang-ambing dalam keburukan.
+
+Ia ditanya: "Siapakah manusia yang paling bermanfaat ilmunya?" Ia menjawab: "Orang yang menginginkan ilmu yang tidak fana."
+
+Ia berkata: Apabila kalian malas, masukkanlah percakapan ke dalam majelis-majelis kalian, niscaya kalian bersemangat.
+
+## Riwayat Aristoteles putra Nikomachos, Sang Bijak {.judul-bab}
+
+Abū Naṣr al-Fārābī berkata: Aristoteles tidak lalai dalam meletakkan logika. Ia benar-benar tulus dalam nasihatnya dan menyendiri dengan kesempurnaan keutamaan dalam hal itu. Karena agungnya kedudukannya dan kokohnya pendapatnya dalam logika, tengkuk-tengkuk tunduk kepadanya, orang-orang berakal merendah kepadanya, dan lisan-lisan mengakui ketidakmampuan mereka di hadapan kehalusan apa yang dibawanya, ketelitian pandangannya, keindahan susunannya, dan keunikan karangannya, hingga ia menjadi panji dan hakim bagi manusia.
+
+Abū Sulaymān al-Sijzī berkata: Seandainya Aristoteles tidak memiliki perkataan selain uraiannya tentang manusia dan badannya, dan penyebutannya tentang keadaan-keadaan yang menunjukkan kepadanya, kepada tujuannya, pengaturannya, dan bagaimana manusia menjadi baik, serta apa yang menggembirakan dan membahayakannya, itu sudah mencukupi.
+
+Ia berkata: Orang yang membuatmu marah dengan kebenaran telah menasihatimu, dan orang yang membuatmu rida dengan kebatilan telah menipumu.
+
+Kitab-kitab dan hikmahnya dinamai ilmu ketepatan pendapat.
+
+Ia berkata: Barang siapa tidak memiliki pemahaman tentang Sang Pencipta, tidak boleh engkau berharap ia memahami nasihat orang bijak.
+
+Makna *arist* adalah "baik", makna *to* adalah "yang", dan makna *les* adalah "engkau katakan", sehingga makna nama itu adalah "baiklah apa yang engkau katakan". Dalam bahasa Romawi namanya diucapkan Arisdadalis, lalu diarabkan menjadi Arisṭāṭālīs. Ia adalah tokoh terdepan yang masyhur, Guru Pertama (*al-muʿallim al-awwal*), dan bijak secara mutlak menurut bangsa Yunani. Ia dinamai Guru Pertama karena dialah yang meletakkan ajaran-ajaran logika dan mengeluarkannya dari potensi menjadi aktual. Kedudukannya seperti kedudukan peletak ilmu nahu dan ilmu arud, karena hubungan logika dengan makna-makna yang ada di dalam pikiran sama seperti hubungan nahu dengan perkataan dan arud dengan syair. Ia adalah peletaknya bukan dalam arti bahwa sebelum dia makna-makna itu belum ditegakkan dengan logika lalu ia menegakkannya, melainkan dalam arti bahwa ia menanggalkan alat itu dari materi lalu menegakkannya untuk mendekatkannya kepada pikiran para pelajar, sehingga ia menjadi seperti timbangan bagi mereka, yang mereka rujuk ketika yang benar tercampur dengan yang salah dan yang hak dengan yang batil. Hanya saja ia meringkas perkataannya sebagaimana cara para perintis, lalu para pengarang sesudahnya merincinya sebagaimana cara para pensyarah. Baginyalah hak keterdahuluan dan keutamaan perintisan. Kitab-kitabnya tentang logika, fisika, metafisika, dan perbantahan dikenal luas, dan ia memiliki banyak syarah, seperti syarah Themistios, Porphyrios, Aleksander dari Aphrodisias, Basileios, dan lain-lain. Kebanyakan orang yang datang sesudah Guru Pertama menempuh jalannya dan berpendapat seperti pendapatnya, seperti para pengikut taklid kepadanya. Padahal perkaranya tidak seperti yang mereka sangka, karena Aristoteles dan kebanyakan pengikutnya keliru dalam banyak masalah dari masalah-masalah hikmah yang penting dan kesempitan-kesempitan filsafat; penelitian yang cermat tentang hal itu dapat dicari dalam kitab-kitab kami.
+
+Ia menyebutkan bahwa Yang Wajib Ada (*wājib al-wujūd*) adalah Penggerak Pertama, dan bahwa substansi dikatakan dalam tiga macam: dua bersifat alami dan satu tidak bergerak. Sebab setiap yang bergerak pasti memiliki penggerak; jika penggerak itu juga bergerak, terjadilah rangkaian tanpa akhir (*tasalsul*), sehingga gerak tidak akan terwujud. Maka pada akhirnya gerak pasti bersandar kepada penggerak yang tidak bergerak.
+
+Makna Aristoteles dalam bahasa mereka adalah "yang sempurna lagi utama", dan makna Nikomachos adalah "pejuang yang perkasa". Ayahnya mahir dalam ilmu kedokteran. Aristoteles ini lahir baginya di sebuah kota bernama Stageira, di negeri yang dinamai Makedonia Khalkidike, termasuk wilayah Thrakia. Nama ibunya Phaistis. Ayahnya adalah tabib Amyntas, ayah Philippos, ayah Iskandar. Nasabnya bersambung kepada Asklepios, dan itu adalah nasab yang utama di kalangan bangsa Yunani; asal ibunya pun bersambung nasabnya kepada Asklepios.
+
+Ketika ia berusia delapan tahun, ayahnya membawanya ke negeri Athena, yang dikenal sebagai negeri para bijak, dan ia tinggal di Lykeion di sana. Ayahnya menyertakannya kepada para penyair, para ahli balagah, dan para ahli nahu, lalu ia tinggal belajar dari mereka selama sembilan tahun. Ilmu ini, yakni ilmu bahasa, di kalangan mereka dinamai "yang meliputi", karena semua manusia membutuhkannya; sebab ilmu bahasa adalah alat dan tangga menuju setiap hikmah dan keutamaan, serta penjelasan yang dengannya setiap ilmu diperoleh.
+
+Sekelompok bijak meremehkan ilmu para ahli balagah, ahli bahasa, dan ahli nahu, serta mencela orang-orang yang menyibukkan diri dengannya; di antara mereka adalah Fūthīghūras dan Epikuros.[^p13] Mereka mengira bahwa ilmu mereka sama sekali tidak dibutuhkan dalam hikmah, karena para ahli nahu adalah guru anak-anak, para penyair adalah pembual dan pendusta, dan para ahli balagah adalah orang-orang yang suka mengada-ada, pilih kasih, dan berbantah. Ketika hal itu sampai kepada Aristoteles, timbullah pembelaannya terhadap mereka. Ia membela para ahli nahu, ahli balagah, dan penyair, berhujah untuk mereka, dan berkata: "Hikmah tidak dapat lepas dari ilmu mereka, karena tutur kata (*manṭiq*) adalah alat bagi ilmu mereka."
+
+[^p13]: CP: Terjemahan Turki membaca kedua nama ini sebagai Prodikos dan Protagoras. Teks Arab menulis *Fūthīghūras* dan *Afīqūras*; yang kedua jelas Epikuros, yang memang dikenal meremehkan ilmu tata bahasa dan syair.
+
+Ia berkata: Manusia diunggulkan atas binatang ternak dengan tutur kata. Maka manusia yang paling berhak disebut manusia adalah yang paling fasih tutur katanya, paling sampai kepada ungkapan-ungkapannya dengan dirinya sendiri, paling tepat meletakkan tutur katanya pada tempatnya, dan paling baik pilihannya terhadap yang paling ringkas dan paling jelas. Karena hikmah adalah hal yang paling mulia, sepatutnya ungkapan tentangnya disampaikan dengan tutur kata yang paling kokoh, logat yang paling fasih, dan lafal yang paling ringkas, agar lebih jauh dari cela, ketergelinciran, buruknya tutur kata, jeleknya logat, dan kegagapan. Sebab semua itu melenyapkan cahaya hikmah, memutus penyampaian, tidak memenuhi kebutuhan, mengaburkan pendengar, merusak makna, dan mewariskan kesamaran.
+
+Setelah ia menyempurnakan dan menguasai ilmu para penyair, ahli nahu, dan ahli balagah, ia beralih kepada ilmu-ilmu akhlak, politik, matematika, fisika, dan ketuhanan. Ia mengabdikan diri kepada Plato, menjadi murid dan pelajarnya, dan ketika itu ia berusia tujuh belas tahun. Itu terjadi di tempat yang dinamai Akademia di Athena, negeri para bijak. Ia tinggal belajar hikmah dari Plato selama dua puluh tahun, dan ia mempelajari ilmu dari Plato dengan mendengar langsung dari mulutnya; Plato tidak menyerahkan pengajarannya kepada Xenokrates, muridnya, sebagaimana yang ia lakukan terhadap murid-murid lain, karena keagungan Aristoteles dalam dirinya.
+
+Ketika Plato pergi ke Sisilia untuk kedua kalinya, ia mengangkat Aristoteles sebagai penggantinya di rumah pengajaran di kota yang dinamai Akademia. Ketika Plato wafat, Aristoteles pergi ke suatu tempat di Athena yang dinamai Lykeion, lalu di sana ia menjadikan sebuah rumah untuk mengajarkan hikmah yang dinisbahkan kepada kaum Peripatetik. Termasuk pendapat Plato ialah melatih badan dengan berjalan secukupnya untuk menguraikan kelebihan-kelebihan darinya, sebagaimana melatih jiwa dengan hikmah, agar kedua perangai itu terhimpun dalam latihan jiwa dan badan. Ia menyampaikan hal itu kepada Aristoteles dan Xenokrates, maka keduanya mengajarkan hikmah kepada murid-murid sambil berjalan, sehingga keduanya dan para pengikutnya dijuluki kaum Peripatetik (*mashshāʾūn*). Xenokrates tetap di Akademia untuk mengajarkan ilmu Plato di sana. Seluruh hikmah Aristoteles dan kitab-kitab yang disusunnya dalam logika dan cabang-cabang hikmah lainnya disusun di tempat yang ia pindahi, yang dinamai Lykeion, dan dititipkan di sana. Pada masa itu hikmah dan kitab-kitabnya dinamai "ilmu ketepatan menjawab kebenaran dan mendengarkannya".
+
+Ketika Plato wafat, Aristoteles pergi kepada Hermias, sida-sida yang menjadi penguasa Assos. Ketika sida-sida itu meninggal, ia kembali ke Athena. Kemudian Philippos mengutus orang kepadanya, lalu ia pergi kepadanya ke Makedonia dan tinggal di sana mengajarkan hikmah hingga Iskandar berangkat ke negeri Asia. Ia mengangkat Kallisthenes sebagai penggantinya di Makedonia, lalu kembali ke negeri Athena dan tinggal di Lykeion selama sepuluh tahun untuk mengajar. Seorang lelaki dari kalangan para imam bernama Eurymedon bangkit melawannya dan menyebarkan keburukan tentangnya dengan mencela mazhabnya: bahwa ia tidak bersujud kepada berhala-berhala yang disembah pada masa itu dan tidak mengagungkannya. Hal itu karena kedengkian kepadanya dan dendam yang ada dalam dirinya terhadapnya. Ketika Aristoteles merasakan hal itu, ia meninggalkan Athena menuju negerinya, yaitu Khalkis, karena khawatir mereka akan memperlakukannya sebagaimana mereka memperlakukan Sokrates sang zahid. Ia datang ke tempat yang telah kami sebutkan itu untuk mengamati pasang surut selat Euripos di Euboia dan menyusun sebuah kitab tentang hal itu, lalu maut menjemputnya di sana. Ia wafat di sana dan dikuburkan di sana, dan ketika itu ia berusia enam puluh delapan tahun.
+
+Ketika Philippos wafat dan Iskandar menjadi raja sesudahnya, lalu meninggalkan Makedonia untuk memerangi bangsa-bangsa dan menguasai negeri Asia, Aristoteles beralih kepada pengabdian diri dan menjauhkan diri dari berhubungan dengan urusan raja-raja. Ia menghadapkan diri untuk memperhatikan kemaslahatan manusia, membantu orang-orang lemah, menikahkan anak-anak yatim dan para janda, membantu para pencari ilmu dan pendidikan, siapa pun mereka dan ilmu serta adab apa pun yang mereka cari, bersedekah kepada orang-orang fakir, dan menegakkan kemaslahatan di kota-kota. Ia membangun kembali kota Stageira, dan dialah yang meletakkan hukum-hukum Stageira bagi mereka.
+
+Ia agung kedudukannya dan besar martabatnya di sisi mereka, dan ia mendapat penghormatan yang besar dan kedudukan yang tinggi dari raja-raja. Penduduk Stageira memindahkan tulang-belulangnya setelah lapuk, mengumpulkannya, dan menempatkannya dalam sebuah wadah dari tembaga, lalu menguburkannya di tempat yang dikenal sebagai Aristoteleion, sebagai tempat berkumpul mereka untuk bermusyawarah dalam perkara-perkara besar dan hal-hal yang menyusahkan mereka. Mereka merasa tenang di kuburnya dan tenteram di dekat tulang-belulangnya. Apabila suatu perkara hikmah terasa sulit bagi mereka, mereka mendatangi tempat itu dan duduk di sana, kemudian berdiskusi di antara mereka hingga mereka dapat menggali apa yang samar bagi mereka dan meluruskan apa yang diperselisihkan di antara mereka. Mereka berpendapat bahwa kedatangan mereka ke tempat tulang-belulangnya berada menyucikan akal mereka, meluruskan pikiran mereka, dan menghaluskan benak mereka; hal itu juga sebagai pengagungan kepadanya sesudah wafatnya dan kesedihan karena berpisah dengannya.
+
+Ia memiliki banyak murid dari kalangan raja-raja, putra-putra raja, dan lain-lain; di antara mereka adalah Theophrastos, Eudemos, Raja Iskandar, Erymneos, Arkesilaos, dan orang-orang utama lainnya yang masyhur dengan ilmu, unggul dalam hikmah, dan dikenal dengan kemuliaan keturunan.
+
+Sesudahnya yang menggantikan kedudukannya dalam mengajarkan hikmah yang telah disusun dan dikarangnya, duduk di kursinya, dan mewarisi martabatnya adalah putra bibinya dari pihak ibu, Theophrastos. Bersamanya ada dua orang yang membantu dan menyokongnya, yang satu bernama Erymneos dan yang lain Arkesilaos, dan mereka menyusun kitab-kitab tentang logika dan hikmah. Aristoteles meninggalkan seorang anak laki-laki kecil, seorang anak perempuan kecil, harta yang banyak, banyak budak laki-laki dan perempuan, dan lain-lain. Ia menjadikan Antipatros sebagai pelaksana wasiatnya, bersama sekelompok sahabatnya yang membantunya, dan memberi Theophrastos pilihan untuk turut serta dalam wasiat dan pengurusan bersama mereka jika hal itu mudah baginya.
+
+Ia menyusun banyak kitab, sekitar seratus kitab, dan mereka menyebutkan bahwa ia menyusun kitab-kitab lain di luar yang seratus ini. Di antaranya yang telah kami lihat dan kini ada di tangan manusia sekitar dua puluh kitab: delapan kitab logika; delapan kitab fisika; kitab *Akhlak*; kitab *Politik Kota*; sebuah kitab besar tentang metafisika yang dikenal sebagai *Uthūlūjiyā*, yang artinya perkataan ketuhanan; dan kitab tentang mekanika geometri. Di antaranya juga ada risalah-risalah dan wasiat-wasiat. Di antaranya pula ada yang namanya sampai kepada kita tetapi kami tidak melihatnya, dan jumlahnya banyak.
+
+Plato mencelanya karena ia menampakkan hikmah dan menyusun kitab-kitab, maka ia menjawab dengan meminta maaf: "Adapun anak-anak dan pewaris hikmah, sepatutnya mereka diberi hikmah. Adapun musuh-musuhnya dan orang-orang yang tidak berminat kepadanya, mereka tidak akan pernah sampai kepadanya karena ketidaktahuan mereka akan isinya, keengganan mereka terhadapnya, dan larinya mereka darinya karena sulitnya bagi mereka. Meskipun aku membukanya, aku telah membentengi hikmah ini dengan benteng yang kokoh, agar orang-orang dungu tidak memanjat pagarnya, orang-orang bodoh tidak sampai kepadanya, dan orang-orang celaka tidak meraihnya. Aku telah menyusunnya dengan susunan yang tidak dipedulikan oleh para bijak, tetapi para pengingkar lagi pendusta tidak akan mendapat manfaat darinya."
+
+Ia lembut sikapnya, sangat rendah hati, dan baik dalam menyambut orang kecil maupun besar, yang kuat maupun yang lemah. Adapun perhatiannya terhadap urusan sahabat-sahabatnya tidak dapat dilukiskan; hal itu ditunjukkan oleh apa yang disebutkan para ahli sejarah dan kesepakatan mereka. Aristoteles berkulit putih, sedikit botak di pelipis, bagus perawakannya, besar tulangnya, kecil matanya, lebat janggutnya, bermata kelabu kebiruan, mancung hidungnya, kecil mulutnya, dan lebar dadanya. Ia berjalan cepat apabila sendirian, dan lambat apabila bersama sahabat-sahabatnya. Ia selalu menelaah kitab tanpa berhenti, berhenti pada setiap kata, lama menunduk ketika ditanya, dan sedikit menjawab. Pada waktu siang ia berpindah-pindah di padang-padang tandus dan tepi sungai. Ia suka mendengarkan nada-nada musik dan berkumpul dengan para ahli matematika dan para ahli debat. Ia berlaku adil terhadap dirinya apabila berselisih, mengakui letak kebenaran dan kesalahan, dan sederhana dalam pakaian, makanan, minuman, pernikahan, dan gerak-gerik. Di tangannya selalu ada alat astronomi dan alat-alat keterampilan.
+
+Aristoteles meriwayatkan dari sekelompok filsuf bahwa prinsip-prinsip segala sesuatu adalah keempat unsur, dan dari sebagian mereka bahwa prinsip pertama adalah kegelapan dan kehampaan; mereka menafsirkan keduanya sebagai ruang, kehampaan, dan kebutaan yang tidak berhingga. Sekelompok orang Nasrani menetapkan kegelapan itu dan menamainya kegelapan luar. Aristoteles menyalahi gurunya, Plato, dalam perkataannya bahwa di antara manusia ada yang tabiatnya siap untuk satu hal yang tidak dilampauinya; Aristoteles mengira bahwa tabiat, apabila sehat, layak untuk segala sesuatu. Plato meyakini bahwa jiwa-jiwa manusia terdiri atas berbagai spesies, dan setiap spesies untuk satu hal yang tidak dilampauinya; sedangkan Aristoteles meyakini bahwa jiwa-jiwa manusia adalah satu spesies, dan apabila sebagiannya siap untuk sesuatu, seluruh spesies itu pun siap. Aristoteles menyebutkan bahwa setiap yang sederhana, perbuatannya pun sederhana; maka perbuatan Allah Taʿālā satu dan sederhana.
+
+Dalam *Siyāsāt al-Mulūk*, yang diterjemahkan oleh Ibn al-Biṭrīq untuk al-Maʾmūn, aku melihat bahwa bijak yang utama ini sering dihitung oleh para ulama Yunani di antara para nabi. Dalam banyak kitab sejarah Yunani disebutkan bahwa Allah Subḥānahu wa Taʿālā mewahyukan kepadanya: "Aku menamaimu malaikat lebih dekat daripada Aku menamaimu manusia." Ia memiliki keajaiban-keajaiban besar yang panjang jika disebutkan. Orang berselisih tentang wafatnya: dikatakan bahwa ia wafat dengan kematian biasa karena usia tua, dan dikatakan pula bahwa ia naik ke langit di atas sebuah tiang dari cahaya. Semoga Allah melimpahkan kepada kita dari cahaya-Nya.
+
+### Adab Aristoteles, Sang Bijak {.judul-pasal}
+
+Ia berkata: Orang yang memerintahkan kebaikan tidaklah lebih berbahagia dengannya daripada orang yang menaatinya; guru tidak lebih berbahagia daripada orang yang diajarnya; dan pemberi nasihat tidak lebih utama daripada orang yang dinasihati.
+
+Ia berkata: Tidak ada sesuatu yang lebih baik bagi manusia daripada para pemegang urusan apabila mereka baik, dan tidak ada yang lebih merusak bagi manusia dan bagi diri mereka sendiri apabila mereka rusak. Penguasa bagi rakyat berkedudukan seperti kepala bagi tubuh dan ruh bagi badan, yang tidak ada kehidupan baginya kecuali dengannya.
+
+Ia berkata: Waspadalah terhadap kerakusan. Adapun yang memperbaikimu dan memperbaiki orang lain melalui tanganmu adalah zuhud. Ketahuilah bahwa zuhud diperoleh dengan keyakinan, keyakinan dengan kesabaran, dan kesabaran dengan berpikir. Apabila engkau memikirkan dunia, engkau tidak akan mendapatinya layak dimuliakan dengan menghinakan akhirat, karena dunia adalah negeri bencana dan tempat singgah malapetaka.
+
+Ia berkata: Apabila engkau menginginkan kekayaan, carilah dengan merasa cukup, karena orang yang tidak memiliki rasa cukup tidak akan dicukupkan oleh harta, sekalipun banyak.
+
+Ia berkata: Janganlah sekali-kali engkau kikir kepada manusia dengan apa yang engkau inginkan, dan janganlah engkau lakukan kepada mereka apa yang engkau tidak suka dilakukan kepadamu. Perangilah hawa nafsumu, tolonglah rakyatmu, tahanlah syahwatmu, lepaskanlah dendam dari hatimu dan sucikanlah ia dari dengki, dan genggamlah angan-anganmu, karena memanjangkan angan-angan mengeraskan hati dan menyibukkan dari hari yang dijanjikan. Hendaklah yang menolongmu memadamkan amarah adalah pengetahuanmu bahwa tidak seorang pun luput dari tergelincir, dan dengan itulah sahabatmu tergelincir.
+
+Ia berkata: Waspadalah terhadap syahwat. Hendaklah yang menolongmu menahannya darimu adalah pengetahuanmu bahwa syahwat melalaikan akalmu, memperburuk pendapatmu, menodai kehormatanmu, dan menyibukkanmu dari seluruh urusanmu, karena syahwat adalah permainan; apabila permainan hadir, kesungguhan pun lenyap. Agama tidak akan tegak dan dunia tidak akan baik kecuali dengan kesungguhan. Jika jiwamu menarikmu kepada syahwat dan kesenangan, sungguh ia telah menarikmu kepada kedudukan yang paling buruk.
+
+Ia berkata: Janganlah engkau menghabiskan umurmu tanpa manfaat, janganlah menyia-nyiakan hartamu tanpa hak, janganlah menggunakan kekuatanmu tanpa guna, dan janganlah mengarahkan pendapatmu kepada yang tidak benar. Peliharalah apa yang telah engkau capai dari hal itu dan bersungguh-sungguhlah di dalamnya, terutama dalam umur, yang darinya segala sesuatu selainnya diperoleh. Jika engkau tidak dapat lepas dari menyibukkan dirimu dengan suatu kelezatan, hendaklah itu dalam bercakap-cakap dengan para ulama dan mempelajari kitab-kitab hikmah.
+
+Ia berkata: Keadilan adalah timbangan Allah ʿAzza wa Jalla di bumi-Nya, yang dengannya orang lemah mengambil haknya dari orang kuat dan orang yang benar dari orang yang batil. Barang siapa menyingkirkan timbangan Allah yang telah Dia letakkan di antara hamba-hamba-Nya, sungguh ia telah berbuat sebodoh-bodohnya kebodohan dan tertipu terhadap Allah Taʿālā dengan ketertipuan yang paling parah.
+
+Ia berkata: Aku mencari ilmu bukan karena ingin mencapai ujung-ujungnya dan bukan untuk menguasainya, tetapi untuk mencari apa yang tidak boleh diabaikan dan yang kebalikannya tidak patut bagi orang berakal.
+
+Ia berkata: Barang siapa ingin melihat rupa dirinya, hendaklah ia menjadikan hikmah sebagai cermin.
+
+Ia berkata: Barang siapa tidak bijak, ia tidak henti-hentinya sakit.
+
+Aristoteles berkata: Jiwa tidak berada di dalam badan, tetapi badan berada di dalam jiwa, karena jiwa lebih luas dan lebih sederhana daripadanya.
+
+Ia berkata: Kemurahan adalah memberikan apa yang dibutuhkan pada saat dibutuhkan dan menyampaikannya kepada yang berhak sesuai kemampuan. Barang siapa melampaui hal ini, ia telah berlebih-lebihan dan keluar dari batas kemurahan kepada pemborosan.
+
+Ia berkata: Hikmah adalah pangkal pengaturan, senjata jiwa, dan cermin akal. Dengannya hal-hal yang tidak disukai menjadi tunduk dan hal-hal yang dicintai menjadi mulia. Alangkah baiknya pendapat orang yang bersungguh-sungguh dalam mencarinya!
+
+Ia berkata: Carilah kekayaan yang tidak fana, kehidupan yang tidak berubah, kerajaan yang tidak lenyap, dan kekekalan yang tidak sirna.
+
+Ia berkata: Perbaikilah dirimu untuk dirimu sendiri, niscaya manusia akan mengikutimu. Jadilah penyantun dan penyayang, tetapi janganlah rahmat dan belas kasihmu menjadi kerusakan bagi orang yang layak dihukum dan diperbaiki oleh pendidikan. Biasakanlah dirimu meneguhkan sunah, karena di dalamnya terdapat kesempurnaan takwa.
+
+Menjelang wafatnya ia berkata: "Bangunlah untukku sebuah rumah bersegi delapan, dan tulislah pada setiap seginya salah satu dari kalimat-kalimat ini: Alam adalah kebun yang pagarnya negara; negara adalah kekuasaan yang dikuatkan oleh syariat; syariat adalah pengaturan yang dijalankan oleh raja; raja adalah penggembala yang disokong oleh tentara; tentara adalah para pembantu yang ditanggung oleh harta; harta adalah rezeki yang dikumpulkan oleh rakyat; rakyat adalah hamba-hamba yang dijadikan patuh oleh keadilan; dan keadilan adalah perekat yang dengannya alam tegak." Ini adalah perkataan yang tinggi.
+
+Ia menulis kepada Iskandar: "Adapun sesudah itu, sesungguhnya dunia itu bergiliran. Apa yang menjadi bagianmu darinya datang kepadamu meskipun engkau lemah, dan apa yang menjadi bagian yang melawanmu tidak dapat engkau tolak dengan kekuatanmu. Wassalam."
+
+Ia berkata: Haram bagi hari-hari untuk memiliki sesudahku seseorang seperti aku. Aku telah menyeimbangkan tabiat-tabiatku, yakni dengan hikmahku; aku telah menunjukkan banyak hikmah dengan sedikit alat; dan aku telah meletakkan ilmu yang melimpah dengan sedikit menyibukkan hati orang yang sederhana dalam menghafal.
+
+Seorang putra Iskandar meninggal, lalu Aristoteles masuk menemuinya dan berkata: "Takut kepada apa yang tidak dapat ditolak adalah perangai makhluk yang tidak berakal."
+
+Ia berkata: Jadikanlah duniamu pelindung bagi akhiratmu, dan janganlah jadikan akhiratmu pelindung bagi duniamu. Berbuat baiklah kepada orang-orang bertakwa yang dikenal dengan kezuhudan, dahulukanlah tempat duduk orang yang dikenal dengan kewaraan, dan penuhilah kebutuhan orang banyak melalui mereka.
+
+Ia berkata: Carilah dunia untuk memperbaiki akhirat dengannya, dan janganlah mencarinya untuk memperbaiki dunia itu sendiri. Alangkah singkatnya tinggal di dalamnya dan alangkah cepatnya berpindah darinya! Aku telah berada di dalamnya tanpa menginginkannya dan senantiasa waspada terhadapnya. Aku memohon kepada Allah, Sang Pencipta, agar Dia menyelamatkanku dari dunia dan menyelamatkan para penghuninya dariku.
+
