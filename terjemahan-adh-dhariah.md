@@ -2132,7 +2132,7 @@ Jalan-jalan memperoleh ilmu ada empat macam.
 
 **Pertama**: yang diperoleh dari spontanitas akal dan benturan indra; hal itu terwujud pada setiap orang yang alatnya tidak terhenti, meskipun keadaan mereka dalam hal itu berbeda-beda.
 
-**Kedua**: yang diperoleh dari arah perenungan, baik dengan premis-premis rasional maupun premis-premis indrawi.
+**Kedua**: yang diperoleh dari arah perenungan, baik dengan premis-premis akliah maupun premis-premis indrawi.
 
 **Ketiga**: yang diperoleh dengan kabar dari manusia, baik dengan mendengar langsung dari mulut mereka maupun dengan membaca dari kitab-kitab mereka. Kabar tidak menjadi ilmu kecuali bila dugaan (kebohongan) tentang pembawa kabarnya telah terangkat.
 
