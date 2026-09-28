@@ -15,9 +15,9 @@
 | Butir | Keterangan |
 |---|---|
 | Tahap | Penerjemahan berjalan |
-| Sudah diterjemahkan | Mukadimah; Bab Pertama sampai Bab Kedua Puluh Lima |
-| Posisi berikutnya | Bab Kedua Puluh Enam (Arab bab 26) |
-| Nomor catatan terakhir | CP: p40 · CD: d72 |
+| Sudah diterjemahkan | Mukadimah; Bab Pertama sampai Bab Kedua Puluh Enam |
+| Posisi berikutnya | Bab Kedua Puluh Tujuh (Arab bab 27) |
+| Nomor catatan terakhir | CP: p40 · CD: d74 |
 | Catatan istilah | lihat 3.3 |
 
 ---
@@ -1018,3 +1018,19 @@ Bila telah suci, kalbunya menjadi tempat ketenangan (*sakīna*) dan roh-roh yang
 Maka hak manusia ialah memperhatikan daya-daya ini, memperbaikinya, dan menggunakannya menurut cara yang semestinya dan sebagaimana mestinya, agar ia menjadi seperti yang disifati Allah Ta'ala dengan firman-Nya: *"(yaitu) orang yang ketika diwafatkan oleh para malaikat dalam keadaan baik, mereka (para malaikat) mengatakan, 'Salamun 'alaikum, masuklah ke dalam surga karena apa yang telah kamu kerjakan'"* (an-Nahl: 32).
 
 Kadang muncul pada diri manusia suatu syubhat tentang perkara najis-najis ini, lalu ia berkata: apakah menurutmu semua itu berasal dari selain Allah? Jika dari selain-Nya, dari mana ia mengadakannya, dan dari mana sumbernya? Dan jika dari-Nya, apa maknanya Dia mengadakannya dalam diri manusia lalu memerintahkannya untuk menghilangkannya? Dijawab: manusia tidak mengetahui hal itu. Akan tetapi, di antara segala sesuatu ada yang manfaatnya pada waktu tertentu, atau bila berada pada kadar tertentu; kemudian, bila ia tidak dibutuhkan lagi atau melebihi kadar kebutuhan, ia wajib dihilangkan. Hal itu jelas bila direnungkan. Sebab diketahui bahwa selaput ketuban dan tali pusar dibutuhkan untuk menjaga janin pada suatu waktu, kemudian tidak dibutuhkan lagi, sehingga membiarkannya sesudah itu adalah najis; dan rambut serta kuku dibutuhkan bila berada pada batasnya, dan bila melebihinya wajib dibuang.
+
+# Bab Kedua Puluh Enam {.kitab-ke}
+
+# Daya-Daya yang Wajib Dihilangkan Penyakit dan Najisnya, dan Makna-Makna yang Diraih darinya {.judul-kitab}
+
+Menghilangkan najis-najis dan meraih kesucian yang disebut dalam firman Allah Ta'ala: *"Sesungguhnya Allah bermaksud hendak menghilangkan dosa dari kamu, wahai ahlulbait dan membersihkan kamu sebersih-bersihnya"* (al-Ahzab: 33), serta memperoleh kesehatan dan membuang penyakit yang disebut dalam firman Allah Ta'ala: *"Dalam hati mereka ada penyakit, lalu Allah menambah penyakitnya"* (al-Baqarah: 10), terjadi dengan memperbaiki tiga daya yang menjadi pendorong manusia dalam segala tindakannya, yaitu daya syahwat, daya amarah (*ḥamiyya*), dan daya pikir.
+
+Dengan memperbaiki daya syahwat tercapai kesucian diri (*ʿiffa*), sehingga dengannya ia menjaga diri dari kerakusan (*sharah*) dan dari mematikan syahwat, dan mengupayakan kemaslahatan dalam makanan, minuman, pakaian, pernikahan, mencari istirahat, dan kenikmatan-kenikmatan indrawi lainnya. Dengan memperbaiki daya amarah tercapai keberanian (*shajāʿa*), sehingga ia menjaga diri dari kepengecutan (*jubn*), kenekatan (*tahawwur*), dan dengki, dan mengupayakan kesederhanaan dalam rasa takut, marah, harga diri, dan lainnya. Dengan memperbaiki daya pikir tercapai hikmah, sehingga ia menjaga diri dari kebebalan (*balah*) dan kelicikan (*jarbaza*), dan mengupayakan kesederhanaan dalam mengatur urusan-urusan duniawi. Yang kami maksud dengan hikmah di sini bukanlah ilmu-ilmu teoretis, melainkan hikmah praktis, yang dengannya kemaslahatan-kemaslahatan duniawi diupayakan. Dengan memperbaiki daya-daya ini, dalam diri manusia terwujud daya keadilan, sehingga ia meneladani Allah Ta'ala dalam mengatur dirinya dan mengatur orang lain.[^r-iffa][^d73]
+
+[^r-iffa]: **Kesucian diri, keberanian, keadilan, kepengecutan, daya amarah** (*ʿiffa*, *shajāʿa*, *ʿadāla*, *jubn*, *ḥamiyya*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 56 (`m-iffa`), no. 57 (`k-iffa`), no. 58 (`k-shajaa`), no. 61 (`m-adl`), no. 62 (`k-adala`), no. 305 (`m-jubn`), dan no. 293 (`m-hamiyya`), serta glosarium 3.5 untuk *sharah* (kerakusan), *tahawwur* (kenekatan), *balah* (kebebalan), dan *jarbaza* (kelicikan). Tentang hikmah, lihat catatan `r-hikma` pada Bab Ketiga.
+
+[^d73]: CD: Skema ini sama dengan *al-Dharīʿa*, Pasal Pertama, bahasan "Kesucian Jiwa sebagai Syarat Sahnya Kekhalifahan Allah Ta'ala dan Sempurnanya Ibadah kepada-Nya": "yang wajib disucikan dari jiwa adalah tiga daya: daya pikir, dengan mendidiknya hingga tercapai hikmah dan ilmu; daya syahwat, dengan menundukkannya hingga tercapai kesucian diri dan kemurahan; dan daya amarah (*ḥamiyya*), dengan menjinakkannya hingga ia tunduk kepada akal, sehingga tercapai keberanian dan kesantunan. Dari terhimpunnya semua itu lahir keadilan." Satu perbedaan perlu dicatat: *al-Dharīʿa* menyebut hasil perbaikan daya pikir "hikmah dan ilmu", sedang di sini al-Rāghib menegaskan bahwa yang dimaksud "bukanlah ilmu-ilmu teoretis, melainkan hikmah praktis". Keduanya tidak bertentangan: glosarium *al-Dharīʿa* sendiri, mengikuti *Kashshāf*, mendefinisikan hikmah dalam skema akhlak sebagai "keadaan daya rasional praktis yang tengah antara kelicikan dan kebebalan". Lihat pula Bab Kesembilan (akal sebagai raja yang mengatur daya-daya) dan Bab Ketiga Puluh Tiga.
+
+Jiwa manusia memusuhinya, sebagaimana firman Allah Ta'ala: *"karena sesungguhnya nafsu itu selalu mendorong kepada kejahatan, kecuali (nafsu) yang diberi rahmat oleh Tuhanku"* (Yusuf: 53), dan sabda Nabi, semoga Allah melimpahkan selawat dan salam kepadanya: *"Musuhmu yang paling memusuhi adalah nafsumu yang berada di antara kedua lambungmu."* Maka ada orang yang mendidiknya atau menundukkannya, dan ada orang yang dizalimi olehnya. Kepada hal ini Allah Ta'ala mengisyaratkan dengan firman-Nya: *"Dan barangsiapa mengerjakan kebajikan sedang dia (dalam keadaan) beriman, maka dia tidak khawatir akan perlakuan zalim (terhadapnya) dan tidak (pula khawatir) akan pengurangan haknya"* (Taha: 112), yakni ia tidak khawatir dizalimi oleh jiwanya yang bersyahwat. Maka amal-amal saleh adalah benteng darinya, karena firman Allah Ta'ala: *"Sesungguhnya salat itu mencegah dari (perbuatan) keji dan mungkar"* (al-'Ankabut: 45).[^d74]
+
+[^d74]: CD: Hadis ini dikutip pula dalam Bab Pertama (faedah kelima mengenal diri), dan terjemahannya mengikuti terjemahan *al-Dharīʿa*, Pasal Kelima, bahasan "Permusuhan". Penafsiran Taha: 112 sebagai rasa aman dari kezaliman jiwa sendiri adalah penafsiran khas al-Rāghib; para mufasir umumnya memahami "kezaliman" di situ sebagai ditambahnya dosa atau dikuranginya pahala pada hari kiamat.
