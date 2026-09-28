@@ -14,19 +14,27 @@ Gaya paragraf: Judul Buku, Subjudul Buku, Pengarang Buku, Keterangan Buku, Bagia
 
 Gaya karakter: Kutipan Ayat, Rujukan Ayat, Kutipan Riwayat, Transliterasi, Aksara Arab, Aksara Arab Tabel, Label Argumen, Tebal.
 
-## Rasāʾil al-Rāghib
+## Karya al-Rāghib: *al-Dharīʿa*, *Tafṣīl*, *Rasāʾil*
 
-Membuat ulang `rasail-ragib.docx` dari `terjemahan-rasail-ragib.md`:
+Membuat ulang ketiga DOCX dari berkas MD-nya:
 
 ```bash
-python3 alat/rasail_md2json.py terjemahan-rasail-ragib.md /tmp/rasail.json
-node alat/rasail_build_docx.js /tmp/rasail.json rasail-ragib.docx
+python3 alat/ragib_md2json.py dhariah /tmp/dhariah.json
+node alat/ragib_build_docx.js /tmp/dhariah.json adh-dhariah.docx
+
+python3 alat/ragib_md2json.py tafsil /tmp/tafsil.json
+node alat/ragib_build_docx.js /tmp/tafsil.json tafsil-nashatayn.docx
+
+python3 alat/ragib_md2json.py rasail /tmp/rasail.json
+node alat/ragib_build_docx.js /tmp/rasail.json rasail-ragib.docx
 ```
 
-Yang dimasukkan: halaman judul, Keterangan Penerjemah (bagian 2 MD), seluruh terjemahan (dari `# TERJEMAHAN`), dan glosarium (bagian 3 MD) sebagai lampiran pada halaman melintang. Status proyek dan tabel konvensi markup tidak ikut.
+Data halaman judul tiap kitab ada di `BOOKS` dalam `ragib_md2json.py`.
 
-Catatan kaki Markdown berkunci (`[^s1]`, `[^p13]`, `[^m-khalt]`, dst.) menjadi catatan kaki Word yang sebenarnya, dinomori urut menurut rujukan pertamanya. Rujukan silang antarcatatan ("lihat catatan d3") dan kolom kunci glosarium 3.2 dan 3.3 diganti dengan nomor catatan kaki itu. Tabel glosarium tanpa garis (semua garis tepi `none`, 0 pt).
+Yang dimasukkan: halaman judul, Keterangan Penerjemah (bagian 2 MD, Keputusan Kerja), seluruh terjemahan (dari `# TERJEMAHAN`), dan glosarium (bagian 3 MD) sebagai lampiran pada halaman melintang. Status proyek dan tabel konvensi markup tidak ikut.
 
-Gaya paragraf: Judul Buku, Subjudul Buku, Pengarang Buku, Keterangan Buku, Judul Pengantar, Teks Pengantar, Kitab Ke, Judul Kitab, Basmalah, Judul Bab, Judul Pasal, Teks Isi, Teks Isi Pertama, Syair, Catatan Kaki, Lampiran Judul, Lampiran Subjudul, Lampiran Kelompok, Teks Lampiran, Sel Tabel, Sel Tabel Kepala.
+Catatan kaki Markdown berkunci (`[^e1]`, `[^p13]`, `[^m-khalt]`, dst.) menjadi catatan kaki Word yang sebenarnya, dinomori urut menurut rujukan pertamanya. Urutan ini sama dengan nomor yang dipakai untuk merujuk antarkitab ("nota kaki *al-Dharīʿa* no. N", "catatan *Tafṣīl* no. N"). Rujukan silang antarcatatan dalam satu kitab ("lihat catatan d3") dan sel glosarium yang hanya berisi kunci catatan diganti dengan nomor catatan kaki itu. Tabel glosarium tanpa garis (semua garis tepi `none`, 0 pt); lebar kolom dihitung dari panjang rata-rata isinya.
+
+Gaya paragraf: Judul Buku, Subjudul Buku, Pengarang Buku, Keterangan Buku, Judul Pengantar, Teks Pengantar, Kitab Ke, Judul Kitab, Basmalah, Judul Bab, Judul Pasal, Subpasal, Butir, Teks Isi, Teks Isi Pertama, Syair, Catatan Kaki, Lampiran Judul, Lampiran Subjudul, Lampiran Kelompok, Teks Lampiran, Sel Tabel, Sel Tabel Kepala.
 
 Gaya karakter: Kutipan Ayat, Rujukan Ayat, Kutipan Riwayat, Transliterasi, Label Argumen, Tebal, Tebal Miring, Aksara Arab, Aksara Arab Tabel.

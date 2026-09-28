@@ -1,4 +1,4 @@
-// Membangun rasail-ragib.docx dari JSON keluaran rasail_md2json.py.
+// Membangun DOCX terjemahan karya al-Rāghib dari JSON keluaran ragib_md2json.py.
 // Catatan kaki dibuat sebagai catatan kaki Word yang sebenarnya; tabel glosarium tanpa garis.
 const fs = require('fs');
 const D = require('docx');
@@ -38,6 +38,10 @@ const paragraphStyles = [
     { alignment: C_, spacing: { before: 480, after: 240 }, keepNext: true, outlineLevel: 1 }),
   P('JudulPasal', 'Judul Pasal', { size: pt(11), bold: true, italics: true },
     { alignment: L, spacing: { before: 280, after: 120 }, keepNext: true, outlineLevel: 2 }),
+  P('Subpasal', 'Subpasal', { size: pt(10.5), italics: true },
+    { alignment: L, spacing: { before: 200, after: 80 }, keepNext: true, outlineLevel: 3 }),
+  P('Butir', 'Butir', { size: pt(11) },
+    { alignment: J, spacing: { before: 60, after: 60, line: 276 }, indent: { left: 400, hanging: 400 }, tabStops: [{ type: 'left', position: 400 }] }),
   P('TeksIsi', 'Teks Isi', { size: pt(11) },
     { alignment: J, spacing: { after: 0, line: 276 }, indent: { firstLine: 340 } }),
   P('TeksIsiPertama', 'Teks Isi Pertama', { size: pt(11) },
@@ -93,15 +97,13 @@ for (const [id, rs] of Object.entries(book.foot)) {
 }
 
 // ---------- halaman judul
+const M = book.meta;
 const title = [
-  new Paragraph({ style: 'JudulBuku', children: [new TextRun('Risalah-Risalah al-Rāghib al-Iṣfahānī')] }),
-  new Paragraph({ style: 'SubjudulBuku', children: [new TextRun('Adab Bergaul dengan Manusia')] }),
-  new Paragraph({ style: 'SubjudulBuku', children: [new TextRun('Keutamaan Manusia dengan Ilmu-Ilmu')] }),
-  new Paragraph({ style: 'SubjudulBuku', children: [new TextRun('Tingkatan Ilmu-Ilmu dan Amal-Amal')] }),
-  new Paragraph({ style: 'SubjudulBuku', children: [new TextRun('Uraian tentang Lafal al-Wāḥid dan al-Aḥad')] }),
+  new Paragraph({ style: 'JudulBuku', children: [new TextRun(M.title)] }),
+  ...M.subtitle.map((x) => new Paragraph({ style: 'SubjudulBuku', children: [new TextRun(x)] })),
   new Paragraph({ style: 'PengarangBuku', children: [new TextRun('al-Rāghib al-Iṣfahānī')] }),
   new Paragraph({ style: 'KeteranganBuku', children: [new TextRun('(w. 502/1108)')] }),
-  new Paragraph({ style: 'KeteranganBuku', children: [new TextRun('Diterjemahkan dari teks Arab edisi tahkik ʿUmar ʿAbd al-Raḥmān al-Sārīsī, dengan perbandingan terjemahan Turki')] }),
+  new Paragraph({ style: 'KeteranganBuku', children: [new TextRun(M.desc)] }),
 ];
 
 // ---------- keterangan penerjemah
@@ -111,6 +113,7 @@ for (const r of book.front) front.push(new Paragraph({ style: 'TeksPengantar', c
 // ---------- badan teks
 const body = book.blocks.map((b) => {
   const o = { style: b.p, children: runs(b.r) };
+  if (b.pb) o.pageBreakBefore = true;
   if (b.p === 'Syair') o.spacing = { before: b.first ? 160 : 0, after: b.last ? 160 : 0, line: 264 };
   return new Paragraph(o);
 });
@@ -118,17 +121,33 @@ const body = book.blocks.map((b) => {
 // ---------- lampiran glosarium (halaman melintang, tabel tanpa garis)
 const A5W = 8391, A5H = 11906, MARG = 1021;
 const TW = A5H - 2 * MARG; // lebar teks halaman melintang
-const WIDTHS = {
-  9: [850, 1150, 1050, 900, 950, 1330, 1330, 1240, 1064],
-  8: [1000, 1150, 1300, 1100, 2800, 750, 800, 964],
-  4: [900, 3700, 3000, 2264],
-};
+// lebar kolom: minimal selebar kata terpanjangnya, sisanya dibagi menurut panjang isi
+const plain = (rs) => rs.map((r) => r.t || '').join('');
+const CH = 68, PAD = 150; // perkiraan lebar satu huruf 8 pt dan margin sel (dxa)
+function widths(head, rows) {
+  const cols = head.map((h, i) => [h, ...rows.map((r) => plain(r[i] || []))]);
+  const minW = cols.map((c, i) => (head[i] === 'Arab' ? 950 : 0) || Math.min(Math.max(...c.flatMap((x) => x.split(/\s+/)).map((w) => w.length)) * CH + PAD, 1150));
+  const want = cols.map((c) => (c.slice(1).reduce((a, x) => a + x.length, 0) / Math.max(c.length - 1, 1)) * CH + PAD);
+  let W;
+  const sumMin = minW.reduce((a, b) => a + b, 0);
+  if (sumMin >= TW) W = minW.map((x) => (x * TW) / sumMin);
+  else {
+    const extra = want.map((x, i) => Math.max(x - minW[i], 0));
+    const sumX = extra.reduce((a, b) => a + b, 0) || 1;
+    W = minW.map((x, i) => x + ((TW - sumMin) * extra[i]) / sumX);
+  }
+  W = W.map(Math.round);
+  W[W.length - 1] += TW - W.reduce((a, b) => a + b, 0);
+  return W;
+}
 const NB = { style: BorderStyle.NONE, size: 0, color: 'auto' };
 const noCell = { top: NB, bottom: NB, left: NB, right: NB };
 const noTable = { top: NB, bottom: NB, left: NB, right: NB, insideHorizontal: NB, insideVertical: NB };
+// tabel dengan kepala yang sama memakai lebar kolom yang sama
+const byHead = {};
+for (const g of book.gloss) if (g.k === 'table') (byHead[g.head.join('|')] ||= []).push(...g.rows);
 function table(head, rows) {
-  const W = WIDTHS[head.length];
-  if (!W || W.reduce((a, b) => a + b, 0) !== TW) throw new Error('lebar kolom ' + head.length);
+  const W = widths(head, byHead[head.join('|')]);
   const cell = (children, w) => new TableCell({
     borders: noCell, width: { size: w, type: WidthType.DXA }, verticalAlign: VerticalAlign.TOP,
     margins: { top: 50, bottom: 50, left: 70, right: 70 }, children,
@@ -137,7 +156,7 @@ function table(head, rows) {
   const br = rows.map((row) => new TableRow({ cantSplit: true, children: row.map((c, i) => cell([new Paragraph({ style: 'SelTabel', children: runs(c) })], W[i])) }));
   return new Table({ width: { size: TW, type: WidthType.DXA }, columnWidths: W, layout: TableLayoutType.FIXED, borders: noTable, rows: [hr, ...br] });
 }
-const gloss = [new Paragraph({ style: 'LampiranJudul', children: [new TextRun('Lampiran: Glosarium')] })];
+const gloss = [new Paragraph({ style: 'LampiranJudul', children: [new TextRun(M.gloss_title)] })];
 for (const g of book.gloss) {
   if (g.k === 'sub') gloss.push(new Paragraph({ style: 'LampiranSubjudul', children: runs(g.r) }));
   else if (g.k === 'group') gloss.push(new Paragraph({ style: 'LampiranKelompok', children: runs(g.r) }));
@@ -151,7 +170,7 @@ const pageLand = { size: { width: A5W, height: A5H, orientation: PageOrientation
 const footer = () => new Footer({ children: [new Paragraph({ alignment: C_, children: [new TextRun({ children: [PageNumber.CURRENT], size: pt(9) })] })] });
 
 const doc = new Document({
-  creator: 'Penerjemah', title: 'Risalah-Risalah al-Rāghib al-Iṣfahānī: Terjemahan Indonesia',
+  creator: 'Penerjemah', title: M.doc_title,
   styles: { default: { document: { run: { font: FONT, size: pt(11) } } }, paragraphStyles, characterStyles },
   footnotes,
   sections: [
