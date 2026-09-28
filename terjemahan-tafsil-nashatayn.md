@@ -15,9 +15,9 @@
 | Butir | Keterangan |
 |---|---|
 | Tahap | Penerjemahan berjalan |
-| Sudah diterjemahkan | Mukadimah; Bab Pertama sampai Bab Keenam |
-| Posisi berikutnya | Bab Ketujuh (Arab bab 7) |
-| Nomor catatan terakhir | CP: p20 · CD: d21 |
+| Sudah diterjemahkan | Mukadimah; Bab Pertama sampai Bab Ketujuh |
+| Posisi berikutnya | Bab Kedelapan (Arab bab 8) |
+| Nomor catatan terakhir | CP: p20 · CD: d23 |
 | Catatan istilah | lihat 3.3 |
 
 ---
@@ -406,3 +406,29 @@ Terkadang ia tampak dalam ciri setan: ia memperdaya, menyesatkan, dan menghias-h
 Ia menjadi manusia hanyalah bila ia meletakkan masing-masing dari hal-hal itu pada tempatnya, sesuai tuntutan akal yang diridai, yang melihat dengan cahaya syariat.[^d21]
 
 [^d21]: CD: Kesimpulan ini adalah rumus keadilan dalam *al-Dharīʿa*: keutamaan ialah meletakkan setiap daya pada tempatnya di bawah pimpinan akal, dan akal sendiri tidak memadai tanpa syariat (Pasal Pertama, bahasan "Kesucian Jiwa sebagai Syarat Sahnya Kekhalifahan Allah Ta'ala dan Sempurnanya Ibadah kepada-Nya"; Pasal Kedua, bahasan "Rasul dan Akal sebagai Dua Penunjuk Makhluk kepada Kebenaran"). Saling membutuhnya akal dan syariat menjadi pokok Bab Kedelapan Belas kitab ini.
+
+# Bab Ketujuh {.kitab-ke}
+
+# Kuiditas Manusia {.judul-kitab}
+
+Kuiditas (*māhiyya*) setiap sesuatu terwujud dengan rupanya (*ṣūra*) yang membedakannya dari selainnya, seperti rupa pisau, pedang, sabit, dan semacamnya.[^k-mahiyya] Karena manusia terdiri dari dua bagian, yaitu badan yang terindra dan roh yang inteligibel, sebagaimana Allah Ta'ala mengingatkan dengan firman-Nya: *"Sesungguhnya Aku akan menciptakan manusia dari tanah. Kemudian apabila telah Aku sempurnakan (kejadian)nya dan Aku tiupkan roh (ciptaan)-Ku kepadanya; maka tunduklah kamu dengan bersujud kepadanya"* (Shad: 71-72), maka ia memiliki rupa menurut masing-masing dari kedua bagian itu. Rupanya yang terindra dan badani ialah tegaknya tubuh, lebarnya kuku, kulit yang tidak berbulu, dan tertawa. Rupanya yang inteligibel dan rohani ialah akal, pikiran, pertimbangan (*rawiyya*), dan tutur (*nuṭq*).
+
+[^k-mahiyya]: **Kuiditas** (*māhiyya*; Ing. *essence*, *quiddity*). *Kashshāf*: kata ini dibentuk dari *mā huwa* ("apakah ia"). Menurut ahli logika, *māhiyya* ialah apa yang dengannya dijawab pertanyaan "apakah ia?"; menurut ahli kalam dan para filsuf, ialah "apa yang dengannya sesuatu menjadi dirinya" (*mā bihi al-shayʾ huwa huwa*). (*Kashshāf*, s.v. *al-māhiyya*.) Catatan edisi pertama mengutip definisi kedua ini dengan tepat, dan menjelaskan bahwa pisau, pedang, dan sabit dapat berasal dari bahan (*mādda*) yang sama, tetapi rupanya (*ṣūra*) yang khaslah yang menjadikan masing-masing dirinya sendiri. Dua penyuntingan: (1) *ṣūra* di sini diterjemahkan "rupa", tidak "citra", mengikuti terjemahan *al-Dharīʿa* ("rupa lahir", "rupa inteligibel"); (2) *ṣūra* dalam pasangan bahan dan rupa (*mādda* dan *ṣūra*, *hylē* dan *morphē*) sejajar dengan pembeda (*faṣl*) dalam definisi, tetapi keduanya tidak identik: rupa adalah bagian dari sesuatu yang ada di luar, sedang pembeda adalah bagian dari definisinya.
+
+Mereka berkata: manusia adalah hewan yang bertutur (*al-ḥayawān al-nāṭiq*). Dengan "yang bertutur" mereka tidak memaksudkan lafaz yang diucapkan saja, tetapi makna-makna yang khusus bagi manusia; lalu mereka mengungkapkan semua itu dengan tutur. Sebab keseluruhan sesuatu kadang diungkapkan dengan bagiannya yang paling khusus, yang paling mulia, atau yang paling awal, seperti ucapanmu: Surah ar-Rahman, Surah Yusuf, Surah Li-Ilaf, dan semacamnya.[^r-nutq]
+
+[^r-nutq]: **Tutur** (*nuṭq*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 203 (`m-nutq`) dan no. 204 (`k-nutq`), serta glosarium 3.5: *nuṭq* dipakai untuk tutur lahir (lafaz) dan tutur batin (pengidrakan hal-hal universal); menurut *Badīʿ al-Mīzān*, *nuṭq* dalam definisi manusia sebagai hewan yang bertutur ialah daya yang dengannya hal-hal universal ditangkap. Al-Rāghib di sini menegaskan hal yang sama. Tiga contohnya: Surah ar-Rahman dinamai dengan kata pertamanya, Surah Yusuf dengan tokohnya yang paling mulia, dan Surah Quraisy (*li-īlāf*) dengan kata pertamanya.
+
+Maka "manusia" dikatakan dalam dua arti: umum dan khusus. Yang umum dikatakan untuk setiap yang tegak tubuhnya dan dikhususkan dengan daya pikir dan kemampuan memperoleh ilmu. Yang khusus dikatakan untuk orang yang mengenal kebenaran lalu meyakininya, dan mengenal kebaikan lalu mengerjakannya sesuai kemampuannya. Dalam makna inilah manusia saling mengungguli dan berbeda-beda dengan perbedaan yang sangat jauh; dan sesuai kadar yang ia raih dari makna ini, manusia berhak atas kemanusiaan (*insāniyya*), yaitu melakukan perbuatan yang khusus bagi manusia, sehingga dikatakan: si fulan lebih besar kemanusiaannya.[^d22]
+
+[^d22]: CD: Bandingkan *al-Dharīʿa*, Pasal Pertama, bahasan "Penjelasan tentang Apa yang Membuat Manusia Unggul": manusia adalah makhluk paling utama dengan syarat ia memelihara apa yang membuatnya menjadi manusia, yaitu ilmu yang benar dan amal yang kokoh, dan "sebanyak kadar makna itu ada padanya, sebanyak itu pula ia unggul"; karena itu "kadang engkau melihat satu orang seperti sepuluh ribu orang". Pembedaan manusia umum dan khusus di sini adalah rumusan teknis dari gagasan itu, dan menjelaskan pengertian "kemanusiaan" yang dipakai sejak Mukadimah (lihat catatan `r-ins`).
+
+Sebagaimana "manusia" dikatakan dalam dua arti, demikian pula "hewan yang bertutur" dikatakan dalam dua arti. Arti umumnya ialah yang dalam daya spesiesnya terdapat kemampuan memperoleh kebenaran dan kebaikan, seperti ucapanmu: "Manusia adalah yang dapat menulis, bukan kuda dan keledai," yakni yang dalam dayanya terdapat kemampuan memperoleh kepandaian menulis.
+
+Demikian pula ia disebut "hamba Allah" dalam dua arti. Yang umum ialah hewan yang terbuka untuk menjalankan perintah-perintah Allah, baik ia menjalankannya maupun tidak; dialah yang diisyaratkan dalam firman-Nya: *"Tidak ada seorang pun di langit dan di bumi, melainkan akan datang kepada (Allah) Yang Maha Pengasih sebagai seorang hamba"* (Maryam: 93). Yang khusus ialah yang menjalankan perintah-perintah Allah Ta'ala, sebagaimana firman-Nya Yang Mahasuci: *"Sesungguhnya hamba-hamba-Ku, tidak ada kekuasaan bagimu atas mereka"* (al-Hijr: 42).[^r-ibada]
+
+[^r-ibada]: **Ibadah dan penghambaan** (*ʿibāda*, *ʿubūdiyya*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 46 (`m-ibada`) dan no. 47 (`k-ibada`). Dalam *al-Mufradāt* (s.v. *ʿ-b-d*) al-Rāghib membagi "hamba" menjadi empat: hamba menurut hukum (budak), hamba karena diciptakan (mencakup seluruh makhluk, Maryam: 93), hamba karena ibadah dan pengabdian (al-Hijr: 42), dan hamba dunia. Dua arti di sini sejalan dengan yang kedua dan ketiga.
+
+Demikian pula ia disebut hidup, mendengar, melihat, berbicara, dan berakal, semuanya dalam dua arti. Dalam arti umum, sebutan itu untuk yang memiliki kehidupan hewani, yang dengannya ada indra, khayal, dorongan, dan syahwat; untuk yang mendengar suara-suara; untuk yang menangkap warna-warna; untuk yang dapat memahamkan semua orang apa yang ia kehendaki; dan untuk yang memiliki daya yang diikuti oleh pembebanan (*taklīf*). Dalam arti khusus, sebutan itu untuk yang memiliki kehidupan yang berupa ilmu, yang dimaksud dalam firman Allah Ta'ala: *"agar dia (Muhammad) memberi peringatan kepada orang yang hidup (hatinya)"* (Yasin: 70); yang memiliki pendengaran untuk mendengar hakikat hal-hal inteligibel, mata batin (*baṣīra*) untuk menangkap pelajaran-pelajaran, dan lisan untuk mengemukakan kajian-kajian yang cermat. Itulah yang dinafikan Allah dari orang-orang kafir yang jahil dalam firman-Nya: *"(Mereka) tuli, bisu, dan buta, maka mereka tidak mengerti"* (al-Baqarah: 171).[^d23]
+
+[^d23]: CD: Dalam *al-Dharīʿa*, Pasal Pertama, bahasan "Penjelasan tentang Apa yang Membuat Manusia Unggul" dan "Daya-Daya Manusia", ayat al-Baqarah: 171 dikutip dengan penjelasan serupa: "Maknanya bukan bahwa mereka tidak mendengar suara atau tidak melihat benda; Dia menjadikan mereka bisu karena mereka tidak mengemukakan makna yang digali dengan pikiran dan ditangkap dengan akal." Di sana pula manusia yang tidak memakai daya-dayanya disebut "makhluk bergerak yang paling buruk" (al-Anfal: 22). Terjemahan ayat mengikuti terjemahan *al-Dharīʿa*.
