@@ -14,9 +14,9 @@
 | Butir | Keterangan |
 |---|---|
 | Tahap | Penerjemahan berjalan |
-| Sudah diterjemahkan | Risalah Pertama: mukadimah, Bab Pertama s.d. Kesepuluh |
-| Posisi berikutnya | Risalah Pertama, Bab Kesebelas |
-| Nomor catatan terakhir | CM s5 · CP p48 · CD d22 · CT t1 |
+| Sudah diterjemahkan | Risalah Pertama: mukadimah, Bab Pertama s.d. Kesebelas |
+| Posisi berikutnya | Risalah Pertama, Bab Kedua Belas |
+| Nomor catatan terakhir | CM s5 · CP p60 · CD d27 · CT t1 |
 | Catatan istilah | lihat 3.3 |
 
 ---
@@ -749,3 +749,175 @@ Inilah himpunan sifat yang, bila engkau dapati pada seseorang, bersungguh-sunggu
 [^r-ghadab]: **Amarah** (*ghaḍab*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 295 (`m-ghadab`) dan no. 296 (`k-ghadab`).
 
 [^p48]: CP: Kalimat ini tidak utuh dalam edisi tahkik (*wa-iʿlam anna man yuṣāḥibu ṣāḥiban ilā mustaṣḥabihi*); penyunting memahaminya "hendaklah ia memelihara persahabatannya", dan terjemahan Turki mengikutinya. Kami menduga ada kata kerja yang hilang, seperti *yunsabu* ("dinisbatkan"), sehingga maknanya sejalan dengan bait yang dikutip dalam *al-Dharīʿa*, Pasal Kelima, "Anjuran Bergaul dengan Orang-Orang Baik": "Tentang seseorang jangan bertanya, tetapi tanyalah tentang temannya, sebab setiap teman meneladani yang disertainya." Bacaan ini dugaan.
+
+## Bab Kesebelas: Keadaan-Keadaan yang Wajib Diberikan Seseorang kepada Sahabatnya dan Tidak Ia Tuntut darinya {.judul-bab}
+
+Bila engkau ingin menangkap seorang sahabat, atau telah menangkapnya lalu ingin agar ia tidak lepas dari jeratmu, hendaklah engkau berhias dengan akhlak yang telah disebutkan, dan berakhlak dengan akhlak yang tidak engkau tuntut dari saudaramu, tetapi engkau berikan kepadanya.[^p49]
+
+Menjadi kewajibanmu untuk bersikap mudah perangai dan baik dalam bersaudara dengan sahabatmu, bahkan dengan semua orang; menyambutnya di saat lapang dengan wajah yang cerah dan akhlak yang lapang; menjabat tangannya bila engkau melihatnya, dan bercanda dengannya dengan canda yang pantas bagi kalian berdua, karena hal itu membangkitkan kasih sayang.[^d23]
+
+Hendaklah engkau memperlakukan semua orang yang berhubungan dengannya, dari budak sampai pelayan, dengan cara yang sama, sehingga hal itu tampak pada pandanganmu, gerak-gerikmu, keramahan, dan keceriaanmu, dan dengan itu ia makin percaya akan kasih sayangmu. Seorang bijak ditanya: "Dengan apa keadaanmu meninggi di atas kawan-kawan sebayamu?" Ia menjawab: "Dengan menyambut orang yang kutemani dengan kata yang baik dan makna yang halus."
+
+Hendaklah engkau mengikutsertakannya dalam kelapanganmu dan, sedapat mungkin, tidak membutuhkannya dalam kesempitanmu; engkau meneguk yang pahit dan memberi minum saudara-saudaramu yang manis; dan engkau menjadi seperti orang yang dikatakan tentangnya:[^p50]
+
+> Abu Malik menyimpan kefakirannya
+> untuk dirinya sendiri, dan menebarkan kekayaannya.
+
+Janganlah terlintas dalam benakmu untuk mengungkit-ungkit kebaikan yang engkau berikan kepadanya, apalagi mengucapkannya dengan lisanmu; sebab mengungkit-ungkit, meskipun kecil, meruntuhkan kebaikan, meskipun besar.[^d24]
+
+Waspadalah jangan sampai engkau lupa memperhatikan persaudaraan karena kedudukan yang engkau peroleh dari penguasa. Perhatikanlah betapa dipandang baik makna ucapan penyair:
+
+> Seorang pemuda yang oleh kekuasaan justru ditambahi keinginan akan pujian,
+> ketika kekuasaan mengubah setiap kawan karib.
+
+Dan betapa dipandang buruk keadaan orang yang menempuh jalan seperti ini:
+
+> Kulihat engkau, ketika mendapat harta, sedang kami digigit
+> zaman yang pada tajam taringnya engkau lihat kelaparan,
+> mencari-cari kesalahan kami untuk menahan pemberian;
+> tahanlah hartamu, tetapi jangan jadikan kekayaanmu sebagai dosa kami.
+
+Janganlah engkau bersikap asing terhadap mereka, sehingga engkau menjadi seperti orang yang dikatakan Salih bin Abdul Quddus:
+
+> Ia menyombong kepada kawan-kawannya karena kekayaan,
+> hingga ia tak lagi mengedipkan mata karena kesombongannya.
+> Semoga Allah mengembalikannya kepada keadaannya semula,
+> sebab dalam kefakirannya ia lebih baik.
+
+Bila engkau melihat saudaramu telah memperoleh suatu kedudukan, janganlah engkau menuntutnya tetap pada keadaannya semula terhadapmu, sebagaimana engkau mewajibkan hal itu atas dirimu; tetapi bayangkanlah bahwa sikap manja merusak kehormatan. Amalkanlah ucapan Ziyad: "Bila engkau punya sahabat lalu ia menjadi pejabat atau memperoleh ketinggian, dan masih tersisa untukmu sepersepuluh dari pergaulannya, maka ia bukan sahabat yang buruk."
+
+Kewajibanmu, bila engkau melihatnya masih memperhatikanmu seperti kemarin, ialah tidak meninggalkan penghormatan kepadanya, meneladani orang yang berkata: "Bila penguasa menjadikanmu ayah, jadikanlah ia tuanmu." Bila engkau sendiri yang menjadi penguasa, jauhilah memperlakukannya sebagai pelayan dalam hal yang memberatkannya; sebab bukanlah termasuk kasih sayang bahwa seseorang memperlakukan saudaranya sebagai pelayan. Hisyam berkata: "Kami tidak menjadikan saudara-saudara sebagai budak."
+
+Hendaklah engkau tidak meninggalkan memakmurkan kasih sayang dengan berkunjung. Dikatakan: "Tiga hal menambah keakraban dan kepercayaan: berkunjung ke tempat tinggal, bersesuaian, dan bercakap-cakap."[^p51] Hal itu tentu setelah memperhatikan sabda Nabi, semoga Allah melimpahkan selawat dan salam kepadanya: *"Berkunjunglah sesekali, niscaya cinta bertambah."* Ketahuilah bahwa siapa yang takut dirinya menjadi beban tidak akan menjadi beban, dan siapa yang merasa aman dari menjadi beban, dialah yang menjadi beban.
+
+Janganlah engkau bersikap asing kepadanya karena ia tidak mengunjungimu ketika ia tidak membutuhkanmu. Dikatakan: "Hakikat cinta ialah bahwa kebaikan tidak menambahnya dan sikap dingin tidak menguranginya." Kasih sayang yang diubah oleh sedikitnya pertemuan sungguh kasih sayang yang rusak.[^p52]
+
+Bila engkau telah mengetahui ketulusan kasih sayangnya, ajaklah ia meninggalkan rasa sungkan dalam hal-hal yang memungkinkan keakraban tanpa canggung. Dikatakan: "Kasih sayang itu terhijab selama rasa sungkan menguasainya; bila niat telah benar dan kepercayaan telah kokoh, gugurlah beban berjaga-jaga." Tetapi janganlah berlebihan dalam bersikap lepas selama engkau belum mengenal lekuk dan tonjolannya. Dikatakan: "Jadikanlah keakrabanmu hal terakhir yang engkau berikan dari kasih sayangmu." Yunus bin Ubaid berkata: "Bila kami telah yakin akan kasih sayang saudara kami, tidak merugikannya bila ia tidak mendatangi kami."
+
+Hendaklah engkau segera menolongnya pada saat ia membutuhkan. Dikatakan: "Peliharalah sahabat, walaupun di atas kebakaran." Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, bersabda: *"Tolonglah saudaramu, baik ia berbuat zalim maupun dizalimi."*
+
+Janganlah engkau mencelanya bila ia enggan menolongmu dalam kebatilan yang engkau inginkan dan menahan diri dari kezaliman yang engkau bebankan kepadanya. Sebab tidak ada kekekalan bagi kemunafikan, dan tidak ada kesetiaan bagi orang yang berpura-pura berakhlak dan mengada-ada. Siapa yang melampaui kebenaran demi menyenangkanmu ketika ia rida, hampir pasti ia akan melampauinya untuk menyakitimu ketika ia murka; dan siapa yang mengutamakanmu atas Tuhannya, tidak aman bahwa ia akan mengutamakan sebagian hamba-Nya atasmu. Bagus sekali orang yang berkata dalam doanya: "Ya Allah, aku berlindung kepada-Mu dari orang yang tidak mencari kasih sayangku yang tulus kecuali dengan mengikuti syahwatku."[^p53]
+
+Bila engkau melihatnya menyimpang dalam hal yang tidak merugikan agama, tidak meruntuhkan muruah, dan tidak mendatangkan duka bagimu dan baginya, lalu ia meminta bantuanmu, hendaklah engkau membantunya, sambil melantunkan:
+
+> Bukankah aku hanyalah dari Ghaziyyah: bila ia sesat,
+> aku pun sesat; dan bila Ghaziyyah mendapat petunjuk, aku pun mendapat petunjuk.
+
+dan meneladani orang yang berkata:
+
+> Aku bagaikan cermin: kutemui
+> setiap wajah dengan bayangannya sendiri.
+
+Hal itu hanya baik dalam hal yang tidak membawa kepada kemunafikan dan riya.
+
+Bila engkau melihat suatu aib padanya, janganlah engkau memejamkan mata terhadapnya, sebab orang mukmin adalah cermin saudaranya; tetapi hendaklah engkau memberitahukannya kepadanya dengan cara yang lembut. Dokter yang lembut terkadang dengan kelembutan dan keramahan mencapai apa yang tidak dicapai dokter yang kasar dengan susah payah dan pemotongan, atau dengan makanan mencapai apa yang tidak dicapai yang lain dengan obat. Hendaklah peringatanmu kepadanya di tempat sepi, bukan di hadapan orang banyak. Dikatakan: "Siapa yang menasihati saudaranya di tempat sepi, sungguh ia telah menghiasinya; dan siapa yang menasihatinya di hadapan orang banyak, sungguh ia telah mencemarkannya."[^p54][^d25]
+
+Janganlah engkau meninggalkan memuji perbuatan-perbuatannya yang baik, dengan menyengaja kejujuran dan menjauhi sanjungan palsu dan kemunafikan, sebab kemunafikan tidak membawa keberuntungan:
+
+> Dalam kalbu ada petunjuk tentang kalbu
+> ketika ia menjumpainya,
+> dan dalam mata ada ukuran-ukuran dan keserupaan
+> tentang mata.
+
+Amirul Mukminin berkata kepada orang yang memujinya, sedang ia mengetahui sanjungan palsu itu: "Aku di bawah apa yang engkau katakan, dan di atas apa yang ada dalam hatimu." Janganlah pujian itu melampaui keadaannya; dikatakan: "Memuji seseorang dengan apa yang tidak ada padanya adalah buruk." Usahakanlah agar pujianmu kepadanya diucapkan di belakangnya, sebab itu lebih baik.[^d26]
+
+Waspadalah jangan sampai ada orang yang leluasa menggunjing sahabatmu di hadapanmu, sebab engkau adalah matanya dan penggantinya di tengah manusia, bahkan engkau adalah dirinya. Bila hal itu sampai kepadanya, ia tidak ragu bahwa itu terjadi atas pendapat dan keinginanmu, sehingga engkau menjadi musuhnya.
+
+Waspadalah terhadap orang yang menyampaikan kepadamu perkataan yang dihiasi dan dusta yang dipoles, hingga bila setan telah menguasaimu, ia beralih dari sindiran kepada terang-terangan. Sebab orang yang mengadu domba di antara manusia tidak dapat dipercaya kalajengking-kalajengking dan ular-ularnya terhadap sahabat. Seorang bijak berkata: "Para pengadu domba, bila merasakan bahwa kasih sayang telah bertaut di antara saudara-saudara, mereka mengerahkan tipu daya lalu meruntuhkannya dari fondasinya." Bayangkanlah apa yang disebutkan dalam kitab *Kalīla wa Dimna* tentang serigala dan pembinasaannya terhadap binatang-binatang buas yang besar.[^p55][^d27]
+
+Janganlah engkau mencelanya atas setiap kesalahan. Renungkanlah ucapan Basysyar tentang itu:
+
+> Bila dalam segala perkara engkau mencela
+> sahabatmu, takkan kau temui orang yang tak kau cela;
+> maka hiduplah seorang diri, atau sambunglah saudaramu, sebab ia
+> sesekali melakukan dosa dan sesekali menjauhinya.
+
+Tetapi janganlah engkau meninggalkan mencelanya dalam hal yang, bila engkau mencelanya, ia dapat menyimpulkan keinginanmu akan kasih sayangnya dan jernihnya batinmu dalam ketulusan kepadanya. Benarlah orang yang berkata:
+
+> Meninggalkan celaan, bila seorang saudara
+> layak mendapat celaan darimu, adalah jalan menuju perpisahan.
+
+Ia juga berkata:
+
+> Ketahuilah, yang dibenci hanyalah orang yang tidak dicela.
+
+Seorang bijak berkata: "Celaan itu ada dua: celaan yang menghidupkan kasih sayang, yaitu yang berkenaan dengan kasih sayang itu sendiri; dan celaan yang mematikannya, yaitu celaan atas satu dosa yang terjadi hanya sekali."
+
+Hendaklah engkau menjauhi berbantah-bantahan dengan sahabat, sebab hal itu memutus kasih sayang dari akarnya: berbantah-bantahan adalah sebab perselisihan, dan perselisihan adalah sebab perpisahan. Seorang Badui ditanya: "Apa pendapatmu tentang berbantah-bantahan?" Ia menjawab: "Apa yang dapat kukatakan tentang sesuatu yang merusak persahabatan yang lurus dan melepaskan ikatan yang kokoh? Yang pertama ada padanya ialah bahwa ia menjadi jalan menuju saling mengalahkan, dan saling mengalahkan adalah sebab fitnah yang paling kuat." Dikatakan: "Luaslah rumah orang yang bersikap lunak, dan sempitlah jalan orang yang suka berbantah."
+
+Jauhilah jangan sampai terlintas dalam benakmu untuk merendahkan seorang sahabat di majelis yang ramai, dengan menampakkan bahwa engkau hendak berdiskusi dengannya; sebab itu sumber permusuhan dan penghimpun lenyapnya keakraban. Waspadalah jangan sampai engkau kikir kepada sahabatmu dengan ilmu yang ia inginkan, atau sampai kepadanya kabar bahwa engkau ingin memilikinya sendiri tanpa dia dan mengutamakan dirimu dengan sesuatu darinya atas dia.
+
+Hendaklah engkau menanggung darinya apa yang tidak lepas dari manusia, berupa sikap dingin atau gangguan kecil. Dikatakan: "Tanggunglah dari saudaramu tiga kezaliman: kezaliman amarah, kezaliman sikap manja, dan kezaliman sikap dingin." Nisbatkanlah apa yang tampak darinya, sedapat mungkin, kadang kepada lemahnya tabiat manusia dan kadang kepada kelalaian dan kurangnya pengendalian diri; sebab dua orang yang saling mencinta, bila tidak saling memaafkan banyak hal yang tidak disukai, tidak lama lagi akan saling membenci.[^p56] Dikatakan: "Janganlah menghukum saudaramu karena dosa yang engkau sendiri pernah menghadap Tuhanmu dengannya," dan janganlah menyangka bahwa engkau akan menemukan orang yang tidak memiliki aib:
+
+> Siapakah orang yang seluruh perangainya diridai?
+> Cukuplah seseorang dipandang mulia bila aib-aibnya dapat dihitung.
+
+Buzurjmihr ditanya: "Adakah sahabat yang tanpa aib?" Ia menjawab: "Orang yang tanpa aib semestinya tidak mati." Dikatakan: "Bagaimana engkau menuntut satu macam akhlak dari saudaramu, padahal ia terdiri dari empat tabiat?"[^p57]
+
+Hendaklah engkau berbaik sangka kepada sahabatmu dalam setiap keadaan, dengan mengambil pelajaran dari ucapan Ibnu al-Muqaffa': "Orang berakal wajib mendustakan sangkaan yang paling buruk dengan sangkaan yang paling baik, agar ia memiliki kasih sayang yang tulus dan kalbu yang tenang." Hendaklah pula ia bersungguh-sungguh menjauhi segala yang membuat sahabatnya murka, dengan mengambil pelajaran dari ucapan penyair:
+
+> Kalian memancing murkaku, dan penyelidikan kalian mengubah
+> perangai jiwa yang batinnya penuh ketulusan;
+> perlakuan kasar tak lama akan membuat jiwa mulia
+> yang lembut wataknya menjadi keras dan pahit;
+> jiwa itu tak lain setetes air dalam cekungan:
+> bila tak dikeruhkan, jernihlah kolamnya.[^p58]
+
+Janganlah engkau meninggalkan memakmurkan kasih sayang dengan segala cara yang mungkin. Sebab setiap yang dimiliki, apalagi persaudaraan, seperti tunggangan, pakaian, dan rumah, bila diabaikan pemeliharaannya akan rusak; dan tidaklah mudarat rusaknya sesuatu dari itu seperti mudarat rusaknya persaudaraan, sebab saudara bisa berbalik menjadi musuh dan manfaatnya berbalik menjadi mudarat. Karena itu dikatakan:
+
+> Waspadalah terhadap musuhmu sekali,
+> dan waspadalah terhadap sahabatmu seribu kali;
+> sebab terkadang sahabat berbalik,
+> maka ia lebih tahu jalan mencelakakan.
+
+Orang berakal tidak semestinya merasa aman dari hal itu:
+
+> Sesungguhnya orang yang telah menguji zaman lalu tidak takut
+> akan berbolak-baliknya siang dan malam, sungguh bukan orang yang berakal.
+> Maka jangan sekali-kali berputus asa dari kasih sayang musuh yang memendam dendam,
+> dan jangan sekali-kali merasa aman dari putusnya hubungan kekasih.[^p59]
+
+Ketahuilah bahwa dalam memutus hubungan dengan sahabat ada dua hal yang tidak menguntungkan orang yang memilih salah satunya: engkau dinisbatkan kepada buruknya pilihan pada awal kasih sayang, atau kepada kebosanan. Memutusnya hanya dibenarkan bagimu bila engkau melihatnya memiliki sebagian besar akhlak rendah yang telah disebutkan dan engkau tidak mendapati jalan untuk memperbaikinya; atau engkau melihatnya enggan kepadamu padahal engkau menghadap dan condong kepadanya, dan engkau telah memastikan hal itu darinya (dahulu telah dikatakan tentang orang yang memberikan hasrat kepada orang yang memberinya keengganan: "Aku tidak tahu mana di antara keduanya yang lebih tercela"); atau engkau melihatnya berbuat kejahatan kepadamu yang tidak sanggup ditanggung oleh kesabaran.[^p60] Sebab kejahatan itu ada dua macam: kejahatan yang menghalangimu dari tujuan terjauh dan kebahagiaan terbesar, yaitu perkara-perkara yang abadi, dan itulah yang diperhitungkan; dan kejahatan yang menghalangimu dari suatu tujuan duniawi, yang ditanggung oleh orang-orang yang berjiwa mulia.
+
+Dalam meninggalkannya, amalkanlah ucapan al-Aqra' bin Habis:
+
+> Aku berpaling seperti berpalingnya orang yang tetap bersikap baik
+> ketika pemilik kasih sayang berubah dari keadaannya;
+> dan sungguh dalam setiap keadaan aku terhadapnya,
+> baik ketika urusan berpaling maupun ketika menghadap,
+> tetap memelihara yang terbaik di antara kita,
+> demi menjaga dan memuliakan persaudaraan.
+
+[^p49]: CP: Penyunting memberi nomor urut 1 sampai 36 pada butir-butir bab ini dan menyatakan bahwa nomor-nomor itu tidak ada dalam naskah. Terjemahan ini tidak memakai nomor tersebut dan menyajikan butir-butir itu sebagai paragraf, sesuai dengan susunan asli.
+
+[^d23]: CD: Bandingkan *al-Dharīʿa*, Pasal Kelima, "Anjuran Bergaul dengan Orang-Orang Baik dan Menjauhi Orang-Orang Jahat": manusia dalam pergaulan hendaknya menguatkan diri "dari sisi daya pikir dengan tutur kata yang menyenangkan, dari sisi daya amarah dengan bersikap santun, dan dari sisi daya syahwat dengan kemurahan", sehingga ia menjadi *ẓarīf*, dan *ẓarf* ialah "terhimpunnya alat-alat pergaulan, yaitu wajah yang cerah, daya tanggung, dan sikap yang lembut". Tentang canda yang pantas, lihat *al-Dharīʿa*, Pasal Kedua, "Senda Gurau dan Tawa": senda gurau terpuji bila dilakukan secara sederhana, tetapi batas sederhananya sulit ditentukan.
+
+[^p50]: CP: Edisi tahkik membaca *an tushrikahu fī bishrika* ("dalam keceriaanmu"); kami membacanya *fī yusrika* ("dalam kelapanganmu"), sebagai pasangan *fī ʿusrika* ("dalam kesempitanmu"). Dalam bait sesudahnya, *ʿanāhu* dibaca *ghināhu* ("kekayaannya"), pasangan *faqrahu* ("kefakirannya"). Penyunting menyebut bait ini milik al-Mutanakhkhil al-Hudhalī.
+
+[^d24]: CD: Dalam *al-Dharīʿa*, Pasal Keenam, "Macam-Macam Kemurahan dan Apa yang Dimurahkan", salah satu syarat kemurahan ialah memberi "tanpa mengungkit dan tanpa menyakiti", dengan mengacu kepada al-Baqarah: 262-264.
+
+[^p51]: CP: Edisi tahkik membaca *al-ziyāra fī al-rijāl* ("berkunjung di antara laki-laki"), dan penyunting menjelaskannya "bukan di antara laki-laki dan perempuan". Kami membacanya *fī al-riḥāl* ("ke tempat-tempat tinggal"), yang sesuai dengan ungkapan Arab.
+
+[^p52]: CP: Edisi tahkik membaca *wa-in lam yatanakkar lahu bi-tark ziyāratika*, yang tidak utuh; terjemahan Turki memahaminya sebagai larangan ("jangan marah kepada sahabatmu karena ia tidak mengunjungimu"). Kami membacanya *wa-an lā tatanakkara lahu bi-tarkihi ziyārataka*. Dalam kalimat sebelumnya, *man khāfa an yuthqila lam yuthqil* dibaca menurut maksudnya ("siapa yang takut menjadi beban tidak akan menjadi beban"), sebab teks tahkik (*yunqal*) tidak bermakna.
+
+[^p53]: CP: Beberapa kata dalam paragraf ini dibaca ulang: *fī bāṭil tarūmuhu* ("kebatilan yang engkau inginkan"; teks: *tarwīhi*), *wa-yakuffa ʿan jawr tasūmuhu* ("dan menahan diri dari kezaliman yang engkau bebankan"; teks: *wa-yakfīka*), dan *fī masarratika* ("demi menyenangkanmu"; teks: *fī sīratika*), sebagai pasangan *fī masāʾatika* ("untuk menyakitimu"). Doa di akhir paragraf dipahami: orang yang mengambil hati kita dengan menuruti syahwat kita bukanlah pencinta yang tulus. Terjemahan Turki memahami keseluruhan paragraf dengan cara yang sama.
+
+[^p54]: CP: Edisi tahkik membaca *fī al-ḥalā* dan menjelaskannya sebagai *al-khalāʾ* ("tempat sepi"); kami mengikuti penjelasan itu. Ungkapan *an tuqifahu ʿalayhi waqfan laṭīfan* ("memberitahukannya kepadanya dengan lembut") dibaca dari *an tafqahu ʿalayhi* dalam teks. Kata *al-ʿanāʾ* ("susah payah") mengikuti pembetulan penyunting (teks: *al-baqāʾ*).
+
+[^d25]: CD: Bandingkan *al-Dharīʿa*, Pasal Kedua, "Ketulusan Menasihati": ketulusan menasihati ialah "memurnikan cinta kepada orang lain dalam menampakkan apa yang menjadi kemaslahatannya", dan ia wajib terhadap semua manusia. Di sana pula al-Rāghib mengingatkan bahwa banyaknya nasihat mewariskan kecurigaan, sejalan dengan anjuran di sini untuk menasihati dengan lembut dan di tempat sepi.
+
+[^d26]: CD: *Al-Dharīʿa*, Pasal Kedua, "Sebutan Baik berupa Pujian dan Sanjungan", membahas sisi yang lain: orang yang dipuji. Di sana dikutip sabda Nabi kepada orang yang memuji orang lain di hadapannya ("Engkau telah mematahkan punggungnya") dan anjuran bagi orang yang dipuji untuk berdoa, "Ya Allah, jadikanlah aku lebih baik dari apa yang mereka sangka"; dan dikatakan bahwa orang utama tidak suka disanjung di hadapannya, terutama oleh pemuji yang berlebihan. Anjuran di sini untuk memuji sahabat di belakangnya sejalan dengan itu.
+
+[^p55]: CP: Yang dimaksud adalah kisah dalam *Kalīla wa Dimna*, bab "Singa dan Sapi": Dimna, seekor serigala (dalam versi lain anjing hutan), iri melihat persahabatan singa dengan sapi Syatrabah, lalu mengadu domba keduanya sampai singa membunuh sapi itu dan kemudian menyesal. Penerjemah Turki meringkas kisah ini dalam catatannya. Kalimat "mereka meruntuhkannya dari fondasinya" mengikuti pembetulan penyunting (teks: *munqaḍūn niṣfahā*).
+
+[^d27]: CD: Tentang adu domba (*namīma*), lihat *al-Dharīʿa*, Pasal Kedua, "Gunjingan dan Adu Domba": adu domba ialah "membocorkan ucapan seseorang kepada orang lain dengan maksud merusak hubungan keduanya", dan "jarang sekali engkau dapati seorang pencela kecuali ia sendiri tercela". Di sini al-Rāghib menerapkannya secara khusus pada persahabatan.
+
+[^p56]: CP: Penerjemah Turki mencatat bahwa edisi tahkik membaca *mā yabdū minka* ("apa yang tampak darimu"), padahal konteks menuntut *minhu* ("darinya"), dan bahwa catatan penyunting pada tempat ini keliru mengulang catatan sebelumnya. Kami mengikuti pembetulan itu. Kata *yujawwizā* dipahami sebagai *yatajāwazā* ("saling memaafkan").
+
+[^p57]: CP: "Empat tabiat" ialah empat campuran (panas, dingin, basah, kering) yang menurut kedokteran dan filsafat alam klasik menyusun tubuh manusia; karena tersusun dari unsur-unsur yang berlawanan, keadaan dan akhlak manusia pun tidak mungkin seragam. Penyunting menduga yang dimaksud adalah daya-daya jiwa (akal, amarah, syahwat); dugaan itu kurang tepat, sebab daya-daya itu tiga. Bait sebelumnya milik Basysyar bin Burd.
+
+[^p58]: CP: Kata pertama bait ini tercetak *tajannabtum* ("kalian menghindari"); kami membacanya *tajannaytum* ("kalian memancing, mencari-cari"), yang sesuai dengan kelanjutannya. Penyunting tidak menemukan penyairnya.
+
+[^p59]: CP: Keempat larik ini tercetak dengan urutan yang tertukar dalam edisi tahkik. Larik kedua dibaca *la-ghayru labībi* ("sungguh bukan orang yang berakal"), dan kata *ṣadm* ("hantaman") di akhir dibaca *ṣarm* ("putusnya hubungan"), yang sesuai dengan tema bab ini.
+
+[^p60]: CP: Kalimat dalam kurung sangat rusak dalam edisi tahkik (*fa-qad qīla qadīman li-man aʿṭā al-raghba man aʿṭāhu al-zahāda, wa-mā adrī ayyuhumā al-umm*); terjemahan di atas mengikuti pemahaman yang paling dekat dengan konteks, yaitu kecaman terhadap orang yang terus mendekati orang yang menolaknya. Terjemahan Turki memahaminya secara berbeda.
