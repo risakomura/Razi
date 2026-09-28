@@ -14,9 +14,9 @@
 | Butir | Keterangan |
 |---|---|
 | Tahap | Penerjemahan berjalan |
-| Sudah diterjemahkan | Risalah Pertama: mukadimah, Bab Pertama s.d. Kedelapan |
-| Posisi berikutnya | Risalah Pertama, Bab Kesembilan |
-| Nomor catatan terakhir | CM s5 · CP p41 · CD d20 · CT t1 |
+| Sudah diterjemahkan | Risalah Pertama: mukadimah, Bab Pertama s.d. Kesepuluh |
+| Posisi berikutnya | Risalah Pertama, Bab Kesebelas |
+| Nomor catatan terakhir | CM s5 · CP p48 · CD d22 · CT t1 |
 | Catatan istilah | lihat 3.3 |
 
 ---
@@ -639,3 +639,113 @@ Sebagian orang berkata: "Di antara keutamaan persahabatan ialah bahwa ia tidak m
 [^r-adl]: **Keadilan** (*ʿadl*, *ʿadāla*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 61 (`m-adl`, *al-Mufradāt*), dan terjemahan *Tafṣīl*, catatan no. 156 (`r-adl`).
 
 [^d20]: CD: Gagasan yang sama menjadi pembuka *al-Dharīʿa*, Pasal Kelima, "Keutamaan Cinta": "Seandainya manusia saling mencintai dan bermuamalah dengan cinta, niscaya mereka tidak membutuhkan keadilan. Dikatakan: Keadilan adalah pengganti cinta, yang dipakai di tempat cinta tidak ada." Di sana yang dikatakan tidak membutuhkan keadilan adalah cinta; di sini persahabatan. Gagasan ini berasal dari tradisi filsafat etika tentang persahabatan, yang menyatakan bahwa bila orang-orang bersahabat mereka tidak membutuhkan keadilan, sedang orang-orang yang adil masih membutuhkan persahabatan.
+
+## Bab Kesembilan: Jumlah Sahabat yang Baik untuk Dimiliki {.judul-bab}
+
+Orang berselisih pendapat tentang hal itu. Sebagian berkata: memperbanyak sahabat lebih utama, dengan membenarkan ucapan penyair:
+
+> Perbanyaklah kawan sebanyak engkau mampu, sebab mereka
+> tiang penopang dan sandaran bila engkau meminta tolong kepada mereka;
+> seribu kawan karib dan sahabat bukanlah jumlah yang banyak,
+> sedang seorang musuh sudah terlalu banyak.[^p42]
+
+Sebagian yang lain berkata: menyedikitkan sahabat lebih utama.
+
+Telah tetap bahwa sahabat itu langka dan bahwa bahaya dalam memperolehnya besar; maka bagaimana mungkin manusia menemukan sahabat yang banyak! Benarlah al-Haritsi dalam ucapannya:
+
+> Bila engkau merata-ratakan keakrabanmu kepada semua orang,
+> engkau takkan henti mendapat dan menemani sahabat yang buruk.
+
+Ibnu al-Rumi berkata tentang lebih utamanya menyedikitkan sahabat:
+
+> Musuhmu diperoleh dari sahabatmu,
+> maka janganlah engkau memperbanyak kawan;
+> sebab penyakit, kebanyakan yang engkau lihat,
+> berasal dari makanan atau minuman.
+
+Seandainya seseorang menemukan mereka pun, ia tidak akan mampu memelihara mereka semua. Sebab di antara syarat memelihara sahabat ialah bergembira dengan kegembiraannya dan berduka dengan dukanya. Bila sahabat banyak, keadaan-keadaan mereka yang saling bertentangan menumpuk padanya, sehingga ia perlu menyertai mereka dalam keadaan-keadaan itu: bergembira dengan kegembiraan yang satu dan berduka dengan duka yang lain, berusaha bersama usaha yang satu dan berdiam bersama diamnya yang lain, dan keadaan-keadaan serupa itu. Hal itu menghalanginya menunaikan hak-hak mereka dengan sempurna, sehingga ia pasti lalai dalam sebagian yang wajib bagi mereka; lagi pula banyaknya hak mereka menyibukkannya dari keperluan dan urusan pribadinya.[^p43] Karena itu al-Fudhail berkata: "Di antara tanda dangkalnya akal seseorang ialah banyaknya sahabatnya." Dikatakan pula: "Hendaklah kawan-kawan bagimu seperti api: sedikitnya memberi manfaat dan banyaknya membinasakan."
+
+Adapun memberi pertolongan, menampakkan kasih sayang, dan membalas salam dengan salam, itu dianjurkan (terhadap semua orang). Ibnu al-Muqaffa' berkata: "Berikanlah kepada sahabatmu harta dan darahmu, kepada kenalanmu pertolongan dan pemberianmu, dan kepada orang banyak uluran tanganmu dan wajahmu yang ceria." Bagus sekali ucapan penyair:
+
+> Wahai anakku, kebajikan itu perkara yang mudah:
+> wajah yang cerah dan kata-kata yang lembut.
+
+[^p42]: CP: Dalam edisi tahkik keempat larik ini tercetak dengan urutan yang tertukar; susunan di atas mengikuti rima dan makna. Penyunting mencatat bahwa Abū Ḥayyān dalam *al-Ṣadāqa wa-l-Ṣadīq* mengutip ucapan al-Ḥasan al-Baṣrī yang sejalan dengan larik terakhir: "Janganlah membeli kasih sayang seribu orang dengan permusuhan satu orang."
+
+[^p43]: CP: Alasan ini sama dengan alasan yang dikemukakan dalam tradisi filsafat etika tentang persahabatan: tidak mungkin bersahabat sempurna dengan banyak orang, sebab sulit bergembira bersama banyak orang dan berduka bersama mereka sekaligus, karena bisa jadi seseorang harus bergembira bersama yang satu dan berduka bersama yang lain pada waktu yang sama. Terjemahan Turki membaca bait al-Haritsi di atas dengan *ʿammamta* ("engkau merata-ratakan"), sesuai sumber-sumber lain, sebagai ganti *ʿajamta* ("engkau menguji") dalam edisi tahkik.
+
+## Bab Kesepuluh: Keadaan-Keadaan yang Harus Diperhatikan Seseorang dalam Memilih dan Mengambil Sahabat {.judul-bab}
+
+Dari uraian terdahulu telah tetap adanya sahabat dan keutamaannya, tetapi ia sedikit. Bagaimana tidak sedikit, padahal induk keutamaan sedikit susunya, sedang induk kekurangan banyak beranak! Setiap maujud di alam, di antara kedua ujungnya, yang paling utama dan yang paling rendah, terdapat perbedaan; tetapi tidak ada perbedaan seperti perbedaan antara manusia dan manusia.[^p44]
+
+> Mereka, meski saling berdekatan dalam keserupaan,
+> sungguh berjauhan dalam keutamaan-keutamaan:
+> besi mata tombak Rudaini dan besi tumitnya sama,
+> tetapi jauh jarak antara yang di atas dan yang di bawah.[^p45]
+
+Penyair berkata:
+
+> Tak pernah kulihat yang serupa berbeda-beda seperti manusia
+> dalam keutamaan, hingga seribu orang dihitung setara dengan seorang.
+
+Kemudian, setiap maujud lebih mudah dipilih daripada manusia. Sebab manusia, karena ia khusus dapat mengenakan kemunafikan, pamer, dan riya, lalu tampil dalam rupa yang bukan rupanya dan berlagak dengan akhlak yang bukan akhlaknya, sulit dikenal.
+
+Maka orang yang ingin memilih sahabat yang dapat ia andalkan dan menjadi sandarannya dalam kesenangan dan kesusahan wajib terlebih dahulu membedakan kasih sayang karena tamak dan kelezatan dari persahabatan yang murni, agar ia tidak terjatuh dalam kekeliruan, lalu menyangka lemak pada orang yang gemuknya adalah bengkak, sehingga ia memilih sebagai sahabat seorang musuh yang menebarkan bau busuk di tengah harumnya kesturi persahabatan.[^d21] Kebanyakan manusia adalah saudara karena tamak dan musuh karena nikmat. Setiap kasih sayang yang diikat oleh tamak akan dilepaskan oleh putus asa, dan siapa yang mengasihimu karena suatu perkara akan berpaling ketika perkara itu habis.[^p46]
+
+Hendaklah ia tidak memilih sahabat karena elok rupanya:
+
+> Keelokan pada wajah seorang pemuda bukanlah kemuliaan baginya,
+> bila tidak ada pada perbuatan dan akhlaknya.
+
+Tidak pula karena kekuatan tubuhnya:
+
+> Kesabaran itu, keutamaannya dikenal dengan roh:
+> itulah kesabaran para raja, bukan dengan tubuh.
+
+Tidak pula karena kemuliaan keturunan yang diwarisinya tanpa kemuliaan baru dari dirinya sendiri:
+
+> Kemuliaan keturunan yang diwarisi, semoga tak lagi berguna,
+> tidaklah terhitung kecuali disertai kemuliaan lain yang diusahakan;
+> bila sebatang dahan tidak berbuah, meski ia cabang
+> dari pohon-pohon yang berbuah, orang menghitungnya kayu bakar.[^r-hasab]
+
+Tidak pula karena kekayaannya, sebab harta itu datang dan pergi; terkadang seseorang pada suatu hari menjadi miskin, padahal ia tetap terpuji.
+
+Tetapi hendaklah ia memilihnya karena hikmahnya, kesucian dirinya, keberaniannya, dan keadilannya, yang merupakan keutamaan-keutamaan jiwa manusia;[^r-hikma][^d22] agar duduk bersamanya menjadi keberuntungan, cintanya selamat, dan persaudaraannya mulia; bila engkau menemaninya ia menghiasimu, bila engkau meminta tolong kepadanya ia menolongmu, dan bila engkau membutuhkannya ia membantumu.[^p47]
+
+Maka yang pertama wajib atasnya dalam memilih sahabat ialah:
+
+**Pertama**: menjauhi orang bodoh dalam persahabatan.[^r-jahl]
+
+**Kedua**: memperhatikan bagaimana keadaannya ketika marah dan bagaimana muamalahnya ketika murka. Dikatakan: "Bila engkau ingin bersaudara dengan seseorang, buatlah ia marah terlebih dahulu; jika ia bersikap adil kepadamu dalam kemarahannya, (bersaudaralah dengannya); jika tidak, waspadalah terhadapnya."[^r-ghadab]
+
+**Ketiga**: jauhilah setiap orang yang suka berbantah dan bertengkar. Tepat sekali ucapan penyair:
+
+> Jauhilah, jauhilah berbantah-bantahan, karena ia
+> penyeru kepada keburukan dan penarik keburukan.
+
+Ketahuilah bahwa orang yang menemani seorang sahabat akan dinisbatkan kepada orang yang ditemaninya.[^p48]
+
+Inilah himpunan sifat yang, bila engkau dapati pada seseorang, bersungguh-sungguhlah untuk menangkapnya, dan ketahuilah bahwa dialah sahabat yang diangankan orang-orang utama; dan bila engkau dapati sebagian besarnya, tangkaplah ia dan berpeganglah pada persaudaraannya.
+
+[^p44]: CP: Edisi tahkik membaca *wa-lā tafāwut bayna insān wa-insān* ("dan tidak ada perbedaan antara manusia dan manusia"). Penyunting memahaminya secara harfiah, lalu mengkritik al-Rāghib dengan mengutip ayat tentang derajat orang berilmu dan orang bertakwa; terjemahan Turki juga memahaminya "tidak ada perbedaan (secara esensial)". Pemahaman ini bertentangan dengan dua syair dan hadis yang dikutip sesudahnya, yang semuanya menegaskan besarnya perbedaan antarmanusia ("seribu orang dihitung setara dengan seorang"; "manusia itu seperti seratus unta, hampir tidak engkau dapati di antaranya seekor tunggangan"). Maka kalimat itu harus dipahami, atau dibetulkan, sebagai *wa-lā tafāwut ka-l-tafāwut bayna insān wa-insān*: tidak ada perbedaan di antara maujud lain yang sebesar perbedaan antarmanusia. Kritik penyunting karena itu tidak tepat. Ungkapan "induk keutamaan sedikit susunya" (*jadūd*: kambing yang susunya kering) menyatakan bahwa yang baik jarang lahir. Penyunting juga menyebut sabda Nabi: *"Manusia itu seperti seratus ekor unta, hampir tidak engkau dapati di antaranya seekor tunggangan,"* yang dalam edisi tahkik tercetak di catatan kaki.
+
+[^p45]: CP: Keempat larik ini tercetak dengan urutan yang tertukar dan kata-kata yang rusak dalam edisi tahkik. Kami membaca kata pertama sebagai *wa-hum* ("mereka"), dan *al-rāghibī* sebagai *al-rudaynī*, nama tombak Rudaini yang terkenal dalam syair Arab. Maksudnya: mata tombak dan tumit tombak dibuat dari besi yang sama, tetapi yang satu di atas untuk menikam dan yang lain di bawah untuk ditancapkan ke tanah. Penyunting mencatat bahwa al-Rāghib juga mengutip kedua bait ini dalam *Majmaʿ al-Balāgha* di bawah judul "Keunggulan orang yang tinggi atas orang yang rendah". Terjemahan Turki memahaminya sebagai pedang.
+
+[^d21]: CD: Perumpamaan yang sama dipakai dalam *al-Dharīʿa*, Pasal Kelima, "Keutamaan Persahabatan": "Memilih orang yang dapat engkau andalkan untuk dijadikan sahabat adalah perkara sulit, sebab orang yang kurang terkadang berpihak kepadamu sehingga engkau menyangkanya orang utama, lalu engkau menjadi seperti orang yang menyangka lemak pada orang yang gemuknya adalah bengkak." Terjemahan di atas mengikuti redaksi itu. Perumpamaan ini berasal dari bait al-Mutanabbi: "Kulindungkan pandangan-pandanganmu yang jujur dari menyangka lemak pada orang yang gemuknya adalah bengkak."
+
+[^p46]: CP: Edisi tahkik membaca *yaḥulluhā al-baʾs* ("dilepaskan oleh kesusahan"); kami membacanya *al-yaʾs* ("putus asa"), yakni putus asa dari tercapainya apa yang diinginkan, sebagai lawan dari tamak. Dalam kalimat sebelumnya, *arāḥa* berarti "berbau busuk".
+
+[^r-hasab]: **Kemuliaan keturunan** (*ḥasab*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 106 (`k-hasab`, *Kashshāf*).
+
+[^r-hikma]: **Hikmah, kesucian diri, keberanian** (*ḥikma*, *ʿiffa*, *shajāʿa*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 38 (`m-hikma`) dan no. 39 (`k-hikma`), no. 56 (`m-iffa`) dan no. 57 (`k-iffa`), no. 58 (`k-shajaa`); tentang keadilan, no. 61 (`m-adl`).
+
+[^d22]: CD: Keempat keutamaan ini adalah empat keutamaan pokok dalam *al-Dharīʿa*, Pasal Pertama, yang di sana dirumuskan sebagai hikmah (dari daya pikir), kesucian diri (dari daya syahwat), keberanian (dari daya amarah), dan keadilan (dari keselarasan ketiganya). Di sini ia dijadikan ukuran memilih sahabat, sebagai lawan dari empat ukuran lahir yang ditolak: keelokan rupa, kekuatan tubuh, keturunan, dan kekayaan. Dalam Bab Pertama keempatnya disebut "daya-daya keutamaan yang dikhususkan bagi manusia", dengan "akal" di tempat "hikmah".
+
+[^p47]: CP: Edisi tahkik membaca *idhā ṣaḥibtahu zāraka* ("bila engkau menemaninya ia mengunjungimu"); kami membacanya *zānaka* ("ia menghiasimu"), ungkapan yang lazim dalam sifat sahabat yang baik. Kata *ʿānaka* dipahami sebagai "membantumu". Terjemahan Turki mengikuti bacaan tahkik.
+
+[^r-jahl]: **Kebodohan** (*jahl*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 186 (`m-jahl`) dan no. 187 (`k-jahl`).
+
+[^r-ghadab]: **Amarah** (*ghaḍab*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 295 (`m-ghadab`) dan no. 296 (`k-ghadab`).
+
+[^p48]: CP: Kalimat ini tidak utuh dalam edisi tahkik (*wa-iʿlam anna man yuṣāḥibu ṣāḥiban ilā mustaṣḥabihi*); penyunting memahaminya "hendaklah ia memelihara persahabatannya", dan terjemahan Turki mengikutinya. Kami menduga ada kata kerja yang hilang, seperti *yunsabu* ("dinisbatkan"), sehingga maknanya sejalan dengan bait yang dikutip dalam *al-Dharīʿa*, Pasal Kelima, "Anjuran Bergaul dengan Orang-Orang Baik": "Tentang seseorang jangan bertanya, tetapi tanyalah tentang temannya, sebab setiap teman meneladani yang disertainya." Bacaan ini dugaan.
