@@ -26,7 +26,7 @@ Setiap baris hanya memuat satu unsur. Bait dipisah satu baris kosong.
 | `# Teks {.judul-kitab}` | Judul karya di awal terjemahan | Judul Kitab |
 | `[Teks]{.basmalah}` (satu paragraf) | Basmalah pembuka | Basmalah |
 | `## Teks {.judul-bagian}` | Judul bagian mesnawi (bab kisah, sanjungan, pembahasan) | Judul Bagian |
-| `[N] larik pertama\` lalu `larik kedua` pada baris berikutnya | Satu bait (beyit) bernomor N, dua larik | Larik Awal + Larik Akhir; nomor dengan gaya karakter Nomor Bait |
+| `[N] larik pertama\` lalu `larik kedua` pada baris berikutnya | Satu bait (beyit) bernomor N, dua larik | Nomor Bait (paragraf `[N]`), lalu Larik Awal + Larik Akhir |
 | Lima baris berturut-turut, empat pertama diakhiri `\`, baris kelima `*teks*` | Bait bertingkat (*tardiyye*): empat larik dan satu larik ulang (nakarat) | Larik Awal, Larik Akhir, Larik Awal, Larik Akhir, Larik Ulang |
 | `***` (satu baris) | Pemisah antarbagian tanpa judul, mengikuti tanda bintang pada edisi Gölpınarlı | Pemisah Bait |
 | `*kata*` di dalam larik | Kutipan Arab atau Persia dalam larik, judul karya, dan penekanan | Kutipan Larik |
@@ -35,7 +35,7 @@ Ketentuan penomoran:
 
 1. Nomor bait mengikuti edisi Gölpınarlı (1 sampai 2101) dan ditulis di setiap bait dalam MD, di awal larik tempat bait itu bermula.
 2. Pada bait bertingkat, Gölpınarlı menghitung tiap dua larik sebagai satu bait secara bersambung melintasi bait bertingkat, sehingga nomor dapat jatuh pada larik ketiga, kelima (larik ulang), atau larik lain. Penempatan ini dipertahankan.
-3. Dalam DOCX, nomor bait dicetak pada nomor kelipatan lima dan pada nomor pertama tiap bagian, rata kanan di tepi teks (gaya karakter **Nomor Bait**, tabulasi kanan). Nomor lain tetap ada sebagai data tetapi tidak dicetak.
+3. Dalam DOCX, setiap nomor bait dicetak sebagai paragraf tersendiri `[N]` (gaya paragraf **Nomor Bait**, dengan jarak di atasnya) tepat sebelum larik tempat bait itu bermula; larik-larik menyusul di bawahnya, semua rata kiri tanpa inden. Tidak ada header, footer, atau nomor halaman.
 4. Judul bagian tidak dinomori; urutannya dijaga oleh nomor bait. Parser memeriksa bahwa nomor bait berurutan tanpa lompatan.
 
 Konversi: `python3 alat/husn_md2json.py terjemahan-husn-u-ask.md /tmp/husn.json` lalu `node alat/husn_build_docx.js /tmp/husn.json husn-u-ask.docx` (lihat `alat/README.md`). Yang masuk DOCX hanya halaman judul dan terjemahan (dari `# TERJEMAHAN`); bagian 0 sampai 2 tidak ikut.

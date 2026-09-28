@@ -50,8 +50,8 @@ node alat/husn_build_docx.js /tmp/husn.json husn-u-ask.docx
 
 Yang dimasukkan: halaman judul dan seluruh terjemahan (dari `# TERJEMAHAN`). Status proyek, konvensi markup, dan keputusan kerja tidak ikut. Tidak ada catatan kaki, header, footer, atau nomor halaman (siap ditempatkan ke InDesign).
 
-Parser memeriksa bahwa nomor bait berurutan 1 sampai 2101 tanpa lompatan, bahwa setiap larik kecuali yang terakhir dalam satu bait diakhiri `\`, dan bahwa setiap blok berisi 2 larik (bait) atau 5 larik (bait bertingkat dengan larik ulang). Nomor bait dicetak pada kelipatan lima dan pada bait pertama tiap bagian, rata kanan di tepi teks.
+Parser memeriksa bahwa nomor bait berurutan 1 sampai 2101 tanpa lompatan, bahwa setiap larik kecuali yang terakhir dalam satu bait diakhiri `\`, dan bahwa setiap blok berisi 2 larik (bait) atau 5 larik (bait bertingkat dengan larik ulang). Tata letak DOCX sederhana untuk InDesign: setiap bait diawali paragraf `[N]` (gaya Nomor Bait), lalu larik-lariknya, semua rata kiri tanpa inden; jarak antarbait diatur lewat jarak-atas gaya Nomor Bait, bukan paragraf kosong.
 
-Gaya paragraf: Judul Buku, Subjudul Buku, Pengarang Buku, Keterangan Buku, Judul Kitab, Basmalah, Judul Bagian, Larik Awal, Larik Akhir, Larik Ulang, Pemisah Bait.
+Gaya paragraf: Judul Buku, Subjudul Buku, Pengarang Buku, Keterangan Buku, Judul Kitab, Basmalah, Judul Bagian, Nomor Bait, Larik Awal, Larik Akhir, Larik Ulang, Pemisah Bait.
 
-Gaya karakter: Nomor Bait, Kutipan Larik.
+Gaya karakter: Kutipan Larik.

@@ -1,10 +1,9 @@
 // Membangun DOCX terjemahan Hüsn ü Aşk dari JSON keluaran husn_md2json.py.
-// Satu bait = dua paragraf (Larik Awal, Larik Akhir); nomor bait dicetak rata kanan
+// Setiap bait: paragraf Nomor Bait berisi [N], lalu larik-larik (Larik Awal, Larik Akhir, Larik Ulang), semua rata kiri.
 // Tanpa header, footer, dan nomor halaman, agar bersih saat ditempatkan ke InDesign.
-// pada tabulasi kanan larik yang membawa nomor, hanya untuk nomor yang ditandai `show`.
 const fs = require('fs');
 const {
-  Document, Packer, Paragraph, TextRun, AlignmentType, TabStopType,
+  Document, Packer, Paragraph, TextRun, AlignmentType,
 } = require('docx');
 
 const [, , IN, OUT] = process.argv;
@@ -13,7 +12,6 @@ const book = JSON.parse(fs.readFileSync(IN, 'utf8'));
 const FONT = 'Times New Roman';
 const pt = (n) => Math.round(n * 2);
 const A5W = 8391, A5H = 11906, MARG = 1134;
-const TW = A5W - 2 * MARG; // lebar teks
 
 const P = (id, name, run, paragraph, extra = {}) => ({
   id, name, basedOn: extra.basedOn || 'Normal', next: extra.next || id, quickFormat: true,
@@ -30,18 +28,18 @@ const paragraphStyles = [
   P('Basmalah', 'Basmalah', { size: pt(11), italics: true }, { alignment: C_, spacing: { before: 120, after: 360 }, keepNext: true }),
   P('JudulBagian', 'Judul Bagian', { size: pt(12), bold: true },
     { alignment: C_, spacing: { before: 480, after: 240 }, keepNext: true, keepLines: true, outlineLevel: 1 }),
-  // larik awal: menjorok sedikit; larik akhir: menjorok lebih dalam, seperti tata letak mesnawi
+  // tata letak sederhana: nomor bait [N] di baris sendiri, lalu larik-larik rata kiri tanpa inden
+  P('NomorBait', 'Nomor Bait', { size: pt(10) },
+    { alignment: L, spacing: { before: 240, after: 0, line: 264 }, keepNext: true, keepLines: true }, { next: 'LarikAwal' }),
   P('LarikAwal', 'Larik Awal', { size: pt(11) },
-    { alignment: L, spacing: { before: 100, after: 0, line: 264 }, indent: { left: 0, hanging: 0 }, keepNext: true, keepLines: true,
-      tabStops: [{ type: TabStopType.RIGHT, position: TW }] }),
+    { alignment: L, spacing: { before: 0, after: 0, line: 264 }, keepNext: true, keepLines: true }, { next: 'LarikAkhir' }),
   P('LarikAkhir', 'Larik Akhir', { size: pt(11) },
-    { alignment: L, spacing: { before: 0, after: 0, line: 264 }, indent: { left: 850 }, keepLines: true }, { next: 'LarikAwal' }),
+    { alignment: L, spacing: { before: 0, after: 0, line: 264 }, keepLines: true }, { next: 'NomorBait' }),
   P('LarikUlang', 'Larik Ulang', { size: pt(11), italics: true },
-    { alignment: L, spacing: { before: 60, after: 60, line: 264 }, indent: { left: 1700 }, keepLines: true }, { next: 'LarikAwal' }),
+    { alignment: L, spacing: { before: 0, after: 0, line: 264 }, keepLines: true }, { next: 'NomorBait' }),
   P('PemisahBait', 'Pemisah Bait', { size: pt(10) }, { alignment: C_, spacing: { before: 160, after: 60 } }, { next: 'LarikAwal' }),
 ];
 const characterStyles = [
-  { id: 'NomorBait', name: 'Nomor Bait', basedOn: 'DefaultParagraphFont', quickFormat: true, run: { size: pt(8), color: '666666' } },
   { id: 'KutipanLarik', name: 'Kutipan Larik', basedOn: 'DefaultParagraphFont', quickFormat: true, run: { italics: true } },
 ];
 
@@ -56,18 +54,16 @@ const title = [
   new Paragraph({ style: 'KeteranganBuku', children: [new TextRun(M.desc)] }),
 ];
 
-const body = book.blocks.map((b) => {
-  if (b.p === 'PemisahBait') return new Paragraph({ style: b.p, children: [new TextRun('*')] });
-  const children = runs(b.r);
-  const o = { style: b.p, children };
-  if (b.show) {
-    // nomor bait rata kanan pada tabulasi kanan tepi teks
-    children.push(new TextRun({ text: '\t' + b.n, style: 'NomorBait' }));
-    o.tabStops = [{ type: TabStopType.RIGHT, position: TW }];
-  }
-  if (b.stanza) o.spacing = { before: 240, after: 0, line: 264 };
-  return new Paragraph(o);
-});
+const body = [];
+for (const b of book.blocks) {
+  if (b.p === 'PemisahBait') { body.push(new Paragraph({ style: b.p, children: [new TextRun('*')] })); continue; }
+  // setiap nomor bait menjadi paragraf sendiri tepat sebelum larik tempat bait itu bermula
+  if (b.n !== undefined) body.push(new Paragraph({ style: 'NomorBait', children: [new TextRun('[' + b.n + ']')] }));
+  const o = { style: b.p, children: runs(b.r) };
+  // bait bertingkat yang dimulai tanpa nomor tetap diberi jarak di atasnya
+  if (b.stanza && b.n === undefined) o.spacing = { before: 240, after: 0, line: 264 };
+  body.push(new Paragraph(o));
+}
 
 const page = { size: { width: A5W, height: A5H }, margin: { top: 1134, bottom: 1134, left: MARG, right: MARG } };
 
