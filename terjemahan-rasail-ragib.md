@@ -14,9 +14,9 @@
 | Butir | Keterangan |
 |---|---|
 | Tahap | Penerjemahan berjalan |
-| Sudah diterjemahkan | Risalah Pertama: mukadimah, Bab Pertama |
-| Posisi berikutnya | Risalah Pertama, Bab Kedua |
-| Nomor catatan terakhir | CM s5 · CP p10 · CD d7 |
+| Sudah diterjemahkan | Risalah Pertama: mukadimah, Bab Pertama s.d. Ketiga |
+| Posisi berikutnya | Risalah Pertama, Bab Keempat |
+| Nomor catatan terakhir | CM s5 · CP p17 · CD d11 |
 | Catatan istilah | lihat 3.3 |
 
 ---
@@ -250,3 +250,113 @@ Dari hakikat pembicaraan ini diperoleh kesimpulan bahwa menyendiri dari manusia,
 [^p10]: CP: Kalimat ini sangat rusak dalam edisi tahkik. Kami membacanya, dengan bantuan terjemahan Turki: *fa-tahīju bihi quwāhu al-mutaḍādda allatī lam yurīḍhā* ("daya-dayanya yang saling bertentangan, yang belum ia latih"; teks: *lam yarḍa*, "yang tidak ia ridai"); *fa-yuhrabu min danāʾatihi* ("orang lari dari kerendahannya"; teks: *fa-yahrubu*, "maka ia lari"); *wa-addathu waḥshat al-ʿuzla ilā ḥirmān ʿayshihi* ("kesepian membawanya kepada terhalangnya kehidupan"; teks: *ḥurmat ʿayshihi*); *wa-jahila man ḥaqqu mithlihi an yastaʿīna bihi fī tahdhībihi fa-yafzaʿu ilā mushākilihi* ("dan ia tidak mengenal orang yang semestinya menjadi tempatnya meminta tolong… sehingga ia berlindung kepada yang serupa dengannya").
 
 [^d7]: CD: Perumpamaan yang sama dipakai dalam *al-Dharīʿa*, Pasal Kedua, "Wajibnya Mengendalikan Orang-Orang yang Tampil Mengajar dan Bahaya Membiarkan Mereka", tentang orang-orang bodoh yang mendapat dukungan orang awam karena keserupaan mereka: "setiap sahabat condong kepada yang serupa dengannya, seperti akrabnya kumbang kotoran dengan kalajengking." Terjemahan larik di atas mengikuti redaksi itu.
+
+## Bab Kedua: Definisi Cinta, Macam-Macamnya, dan Sebab-Sebab yang Menuntutnya {.judul-bab}
+
+Cinta (*maḥabba*) ialah menghendaki apa yang dilihat atau disangka baik oleh manusia.[^r-mahabba][^d8]
+
+Sebab tujuan manusia dalam segala yang ia usahakan adalah keutamaan, manfaat, dan kelezatan.[^r-fadila][^m-naf][^r-ladhdha] Cinta terjadi untuk ketiga tujuan itu, bila ia bergantung padanya. Karena itu terlihat bahwa cinta orang-orang saleh dan orang-orang baik adalah karena keutamaan, cinta para pedagang dan penjual karena manfaat, dan cinta anak-anak muda dan orang-orang yang berkelapangan karena kelezatan.
+
+Bila hal ini telah tetap, maka orang yang tujuannya keutamaan, dengan tercapainya keutamaan itu ia memperoleh pula manfaat dan kelezatan; orang yang tujuannya manfaat, dengan tercapainya manfaat itu ia memperoleh kelezatan, tetapi tidak keutamaan; dan orang yang tujuannya kelezatan tidak memperoleh keutamaan, dan jarang pula memperoleh manfaat.
+
+Siapa yang mencintai orang lain karena keutamaan, cintanya tidak berubah; sebab keutamaan tidak berubah zatnya, maka demikian pula apa yang bergantung padanya. Siapa yang mencintai karena kelezatan, kasih sayangnya terputus dengan terputusnya kelezatan itu. Demikian pula manfaat: bila ia terputus dan harapan akannya pun terputus, terputus pula cinta yang lahir karenanya. Bagaimana dapat diharapkan kekalnya sesuatu yang bergantung pada sebab yang tidak kekal? Maka cinta yang bergantung pada keduanya cepat hilang dan cepat pula melekat.
+
+Dalam cinta yang dituntut oleh manfaat dan kelezatan terjadi saling mendahului dan tertinggal: cinta itu bisa datang dari salah satu pihak saja tanpa yang lain, bisa pula salah satunya lebih dahulu daripada yang lain; dan bila terjadi pada kedua pihak, kadarnya berbeda sesuai kadar tercapainya apa yang dicari.
+
+Boleh jadi dua orang yang bersahabat berbeda tujuannya: tujuan salah satunya kelezatan dan tujuan yang lain manfaat, atau tujuan salah satunya suatu manfaat dan tujuan yang lain manfaat yang lain. Karena itulah dikenal sebutan "kasih sayang pelacuran" (*al-mawadda al-qiḥābiyya*) dan "kasih sayang yang penuh celaan" (*al-mawadda al-lawwāma*): bila tujuan si pencinta (*ʿāshiq*) adalah bersenang-senang sedang tujuan yang dicintai adalah harta, keduanya tidak henti-hentinya saling mengeluh.[^p11][^d9]
+
+Adapun cinta karena keutamaan, yaitu cinta karena Dzat Allah Ta'ala, ia bersih dari semua cela ini.[^p12] Dialah yang dikecualikan dalam firman Allah Ta'ala: *"Teman-teman karib pada hari itu saling bermusuhan satu sama lain, kecuali mereka yang bertakwa"* (az-Zukhruf: 67). Itu pula yang dimaksud Abu al-Atahiyah dengan ucapannya:
+
+> Tiada suatu kaum saling berbagi ketulusan bukan karena Dzat Allah,
+> kecuali mereka berpisah dengan saling membenci.
+
+Cinta juga dibagi dengan cara lain; dikatakan bahwa ia ada tiga.
+
+**Pertama**: cinta kepada apa yang merupakan kebaikan sempurna, yaitu yang berkaitan dengan kebaikan tempat kembali (*maʿād*).[^r-khayr]
+
+**Kedua**: cinta kepada apa yang bukan kebaikan sempurna, yaitu yang berkaitan dengan manfaat yang indah dan syahwat yang mubah.
+
+**Ketiga**: cinta kepada apa yang sama sekali bukan kebaikan, yaitu setiap syahwat terhadap yang terlarang, seperti zina, liwath, dan meminum khamar.
+
+[^r-mahabba]: **Cinta** (*maḥabba*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 360 (`m-mahabba`, *al-Mufradāt*) dan no. 361 (`k-mahabba`, *Kashshāf*). Definisi dalam risalah ini ("menghendaki apa yang dilihat atau disangka baik") sama persis dengan definisi *al-Mufradāt*, s.v. *ḥ-b-b*, yang juga membagi cinta menjadi tiga: karena kelezatan, karena manfaat, dan karena keutamaan. Tentang *irāda* (kehendak), lihat nota kaki no. 73 (`m-irada`) dan no. 74 (`k-irada`).
+
+[^d8]: CD: Dalam *al-Dharīʿa*, Pasal Kelima, "Hakikat Cinta dan Macam-Macamnya", cinta didefinisikan sebagai "condongnya jiwa kepada apa yang ia lihat atau sangka baik". Risalah ini mengikuti rumusan *al-Mufradāt* ("menghendaki"), bukan rumusan *al-Dharīʿa* ("condongnya jiwa"). Perbedaannya bukan sekadar redaksi: dengan "kehendak", cinta menjadi perbuatan jiwa yang berkaitan dengan pertimbangan, sesuai dengan pernyataan Bab Ketiga bahwa cinta "tidak terjadi kecuali dari pertimbangan dan pikiran"; sedang "condong" mencakup pula kecenderungan alami, sesuai dengan pengakuan *al-Dharīʿa* tentang adanya cinta alami pada hewan dan benda mati. Pembagian tiga tujuan (keutamaan, manfaat, kelezatan) sejalan dengan pembagian empat macam cinta pilihan dalam *al-Dharīʿa* (syahwat, manfaat, campuran, keutamaan); lihat nota kaki *al-Dharīʿa* no. 363 tentang kesejajarannya dengan tiga macam persahabatan dalam tradisi filsafat etika.
+
+[^r-fadila]: **Keutamaan** (*faḍīla*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 102 (`m-fadila`, *al-Mufradāt*).
+
+[^m-naf]: **Manfaat** (*nafʿ*, *manfaʿa*). Dalam *al-Mufradāt*: *nafʿ* ialah apa yang dipakai sebagai pertolongan untuk sampai kepada kebaikan-kebaikan; apa yang menjadi jalan menuju kebaikan adalah kebaikan, maka manfaat adalah kebaikan, dan lawannya mudarat (*ḍurr*), seperti *"dan tidak kuasa untuk (menolak) bahaya terhadap dirinya dan tidak dapat (mendatangkan) manfaat"* (al-Furqan: 3). (*al-Mufradāt*, s.v. *n-f-ʿ*.) Definisi ini menjelaskan kedudukan manfaat di antara tiga tujuan: ia baik bukan karena dirinya, melainkan karena menjadi sarana. Karena itu cinta karena manfaat bertahan hanya selama sarananya bertahan. *Kashshāf* tidak memuat entri khusus *al-nafʿ*.
+
+[^r-ladhdha]: **Kelezatan** (*ladhdha*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 265 (`k-ladhdha`, *Kashshāf*): lawan rasa sakit; pengidrakan dan perolehan atas apa yang bagi yang mengidrak adalah kesempurnaan dan kebaikan.
+
+[^p11]: CP: Edisi tahkik memisahkan kedua sebutan ini dan menjadikan *al-mawadda al-lawwāma* awal kalimat baru, sehingga terjemahan Turki membedakan "cinta yang rendah" dari "cinta yang mencela". Susunan kalimatnya lebih tepat dibaca sebagai satu kalimat: kedua sebutan itu diberikan kepada kasih sayang dengan tujuan yang berbeda, dan contoh pencinta yang mencari kesenangan dan yang dicintai yang mencari harta menjelaskan keduanya sekaligus: disebut "pelacuran" karena pertukaran kesenangan dengan harta, dan disebut "penuh celaan" karena keduanya selalu saling mengeluh. *Qiḥāb* (bentuk jamak *qaḥba*) berarti pelacur. Contoh ini berasal dari tradisi filsafat etika tentang persahabatan, yang menyebut pertengkaran pencinta dan yang dicintai sebagai contoh persahabatan yang tujuan kedua pihaknya tidak sama.
+
+[^d9]: CD: Kasus ini adalah "cinta yang tersusun dari keduanya" dalam *al-Dharīʿa*, Pasal Kelima, "Hakikat Cinta dan Macam-Macamnya": "seperti orang yang mencintai orang lain karena manfaat, sedang orang lain itu mencintainya karena syahwat". Di *al-Dharīʿa* ia disebut sebagai macam ketiga tanpa penilaian; di sini ia diberi nama yang merendahkan dan dikatakan selalu disertai saling mengeluh.
+
+[^p12]: CP: Edisi tahkik membaca *fa-taʿziya* ("maka ia adalah penghibur"), dan penyunting memaknainya "satu-satunya pengganti yang tepat bagi cinta karena manfaat atau kelezatan". Kami membacanya *fa-muʿarrāt* ("bersih, terlepas") *min hādhihi al-maʿāyib kullihā*, sesuai terjemahan Turki ("tüm bu kusurlardan berîdir").
+
+[^r-khayr]: **Kebaikan** (*khayr*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 99 (`m-khayr`, *al-Mufradāt*) dan no. 100 (`k-khayr`, *Kashshāf*): dalam *al-Mufradāt*, kebaikan ada yang mutlak, yang diinginkan dalam segala keadaan oleh semua orang, dan ada yang terbatas, yang menjadi kebaikan bagi seseorang dan keburukan bagi yang lain. Pembagian "kebaikan sempurna" dan "bukan kebaikan sempurna" di sini sejajar dengan pembagian itu.
+
+## Bab Ketiga: Keserupaan Naluriah pada Manusia dan Seluruh Maujud {.judul-bab}
+
+Telah dikemukakan bahwa cinta khusus dimiliki manusia, tidak dimiliki hewan-hewan lain, sebab cinta tidak terjadi kecuali dari pertimbangan (*rawiyya*) dan pikiran, dan hal itu tidak dimiliki hewan-hewan lain. Namun disebutkan bahwa dalam asal penciptaan terdapat kecocokan-kecocokan (*mulāʾamāt*) yang sejenis dengan cinta dan penolakan-penolakan (*munāfarāt*) yang sejenis dengan permusuhan.[^m-nafr] Hal itu tidak hanya ada pada manusia, tetapi juga pada hewan-hewan lain dan pada banyak benda mati. Contohnya kecocokan antara dua yang sejenis, seperti keserupaan seekor kuda dengan kuda lain dan penolakannya terhadap kuda yang lain lagi; demikian pula keadaan pada anjing dan hewan-hewan lain.
+
+Sebagaimana hal itu terjadi di antara satu jenis, ia juga terjadi di antara dua jenis, seperti kecocokan antara biawak padang pasir dan kalajengking, dan penolakan antara gagak dan burung hantu. Adapun pada benda mati, contohnya ialah yang terjadi antara batu magnet dan besi, dan penolakan antara batu yang lari dari cuka dan cuka.[^p13][^d10]
+
+Dikatakan bahwa hal itu adalah sesuatu yang diciptakan Allah Ta'ala dalam asal penciptaan, dan dari situlah timbul azimat (*ṭilasm*), sebab azimat adalah penguasaan sebagian tabiat-tabiat ini atas sebagian yang lain.[^k-tilasm] Sebagian orang berkata: karena itu nama *ṭilasm* telah mengisyaratkan makna ini, sebab bila dibalik ia menjadi *musallaṭ* ("yang dikuasakan").
+
+Kecocokan-kecocokan ini menjadi sebab terjadinya banyak cinta yang utama, bukan yang karena manfaat dan syahwat, dan menjadi sebab terjadinya permusuhan naluriah (*gharīziyya*).[^r-ghariza] Kepada hal inilah diisyaratkan oleh salah seorang filsuf yang berkata: "Allah menciptakan roh-roh sekaligus dalam bentuk seperti bola, kemudian membaginya di antara makhluk-makhluk. Maka bila sebuah roh bertemu dengan belahannya dan saudara kembarnya, ia mencintai dan akrab dengannya, karena kesesuaian kedua belahan itu dan berpasangannya kedua bagian; dan bila ia bertemu dengan yang jauh darinya, ia menolaknya sesuai kadar jauhnya."[^p14]
+
+Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, telah menyatakan makna ini dengan terang. Beliau bersabda: *"Roh-roh itu bagaikan pasukan yang dihimpun; yang saling mengenal di antara mereka akan bersatu, dan yang saling mengingkari di antara mereka akan berselisih."* Seorang penyair menyinggung makna ini:
+
+> Kalbu-kalbu memiliki petunjuk-petunjuk dari kalbu-kalbu lain
+> tentang kasih sayang, sebelum tubuh-tubuh saling menyaksikan.
+
+Al-Abbas bin al-Ahnaf mengambil makna ini, lalu berkata:
+
+> Katakan kepada perempuan yang melukiskan cintanya
+> kepada lelaki yang dimabuk rindu dengan menyebut-nyebutnya:
+> Tidaklah aku berkata selain kebenaran yang kukenal;
+> aku mendapati buktinya dari kalbuku sendiri.
+> Kalbuku dan kalbumu diciptakan secara ajaib;
+> keduanya saling menarik dengan tulusnya cinta.
+
+Ada pula yang tidak membedakan kasih sayang karena keutamaan dari yang lain; ketika ia melihat bahwa kasih sayang karena kelezatan tidak memiliki sifat ini, ia mulai menentang sabda Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, dengan kebodohannya, lalu berkata:
+
+> Demi hidupku, telah berdusta orang-orang yang mendakwa
+> bahwa kalbu membalas kalbu;
+> seandainya benar seperti yang mereka dakwakan,
+> tentulah tiada pencinta yang bersikap dingin kepada kekasihnya.
+
+Sebagaimana cinta terjadi karena keserupaan ini, saling membenci terjadi karena perbedaan. Atas dasar ini orang-orang utama membenci orang-orang rendah.[^p15] Karena penolakan yang menuntut kebencian ini pula kita diperingatkan terhadap orang yang tidak disukai kalbu kita tanpa sebab. Diriwayatkan dalam atsar: *"Bila kalian membenci seseorang tanpa keburukan yang ia lakukan kepada kalian, waspadalah terhadapnya; dan bila kalian mencintai seseorang tanpa kebaikan yang lebih dahulu ia berikan kepada kalian, harapkanlah kebaikannya."*
+
+Selanjutnya, di antara manusia ada yang terlihat dicintai karena keutamaan yang khusus ada pada jiwanya, sehingga kalbu orang-orang baik condong kepadanya dengan kuat tanpa sebab dari luar; dan di antara mereka ada yang sebaliknya, terlihat dibenci karena kekurangan yang khusus ada pada jiwanya. Nabi, semoga salam atasnya, telah mengingatkan hal itu dengan sabdanya: *"Bila Allah mencintai seorang hamba, Dia melimpahkan cinta kepadanya ke dalam air, sehingga tidak seorang pun meminumnya kecuali ia mencintainya; dan bila Dia membenci seorang hamba, Dia melimpahkan kebencian kepadanya ke dalam air, sehingga tidak seorang pun meminumnya kecuali ia membencinya."*[^p16][^d11]
+
+Bila uraian ringkas ini telah tergambar, diketahuilah bahwa sebab-sebab cinta ada empat.[^p17]
+
+Dua orang telah berselisih pendapat. Salah seorang dari mereka mendakwa bahwa sesuatu hanya mencintai yang serupa dan mirip dengannya, dan bahwa saling mencintai menuntut kesatuan, sedang sesuatu tidak akan bersatu kecuali dengan yang serupa dan sebanding dengannya. Karena itu orang utama tidak akrab dengan orang jahat, tidak pula orang bijak dengan orang bodoh; masing-masing akrab dengan yang serupa dan sejenis dengannya.
+
+Yang lain mendakwa bahwa sesuatu hanya mencintai lawannya, yang berada di ujung terjauh darinya dalam kemuliaan, demi mencari keadaan seimbang (*iʿtidāl*). Sebab orang yang buruk rupa tidak merindukan yang buruk rupa, melainkan yang elok; dan orang fakir tidak berhasrat mendekati orang fakir, melainkan berhasrat bergaul dengan orang kaya.
+
+Kedua orang itu memandang secara parsial lalu menghukumi secara universal. Yang pertama memandang cinta yang utama; ketika ia melihat orang utama hanya mencintai orang utama demi keutamaan, ia menghukumi setiap cinta demikian. Yang kedua memandang cinta karena manfaat dan karena kelezatan; ia melihat orang fakir mencintai orang kaya demi manfaat yang sampai kepadanya dari orang itu, dan orang buruk rupa mencintai yang elok demi kelezatan yang ia peroleh darinya, lalu ia pun menghukumi setiap cinta dengan hukum universal.
+
+Siapa yang memperhatikan macam-macam cinta dan sebab-sebabnya sebagaimana dirinci para peneliti, yang telah dikemukakan pembahasannya, akan jelas baginya hakikat hal itu.
+
+[^m-nafr]: **Penolakan** (*munāfara*, *nafr*). Dalam *al-Mufradāt*: *nafr* ialah gelisah menjauhi sesuatu atau menuju sesuatu, seperti takut menjauhi sesuatu atau lari kepadanya; dikatakan *nafara ʿan al-shayʾ nufūran*, seperti *"tidak menambah (apa-apa) kepada mereka, bahkan semakin jauh mereka (dari kebenaran)"* (Fatir: 42). (*al-Mufradāt*, s.v. *n-f-r*.) *Munāfara* adalah bentuk timbal baliknya: dua hal yang saling menjauhi, lawan *mulāʾama* (saling cocok). *Kashshāf* tidak memuat entri *al-munāfara* maupun *al-mulāʾama*.
+
+[^p13]: CP: Edisi tahkik membaca *al-ḥajar al-hārib min al-ḥall wa-bayna al-ḥall*, dan penyunting menafsirkannya sebagai gaya sentrifugal; terjemahan Turki mengikutinya ("merkezden ayrılan taş ile merkez", batu yang terlempar dari pusat dan pusat). Tafsiran itu tidak berdasar. Bacaan yang benar adalah *al-khall* ("cuka"), dengan titik yang hilang: "batu yang lari dari cuka" adalah contoh yang dikenal dalam pembahasan sifat-sifat khas benda (*khawāṣṣ*), sejajar dengan batu magnet yang menarik besi. Yang dimaksud agaknya batu berkapur yang, bila dituangi cuka, berbuih dan bergerak seolah menjauh darinya.
+
+[^d10]: CD: Contoh batu magnet dan besi juga dipakai dalam *al-Dharīʿa*, Pasal Kelima, "Hakikat Cinta dan Macam-Macamnya", untuk cinta alami ("dikatakan pula bahwa ia ada pada benda-benda mati, seperti keterikatan antara besi dan batu magnet"). Di sana gejala ini disebut cinta; di sini ia hanya "sejenis cinta", sebab cinta dalam arti sebenarnya disyaratkan dengan pertimbangan dan pikiran. Lihat juga catatan d3.
+
+[^k-tilasm]: **Azimat** (*ṭilasm*). *Kashshāf*: ia adalah perkara luar biasa yang sumbernya daya-daya langit yang aktif yang dipadukan dengan penerima-penerima bumi yang pasif, untuk menimbulkan hal-hal yang ganjil. (*Kashshāf*, s.v. *al-ṭilasm*.) Definisi ini sejalan dengan penjelasan di atas: azimat bekerja dengan "menguasakan" sebagian tabiat atas sebagian yang lain, memanfaatkan kecocokan dan penolakan yang tertanam dalam asal penciptaan. Al-Rāghib hanya meriwayatkannya sebagai pendapat orang ("dikatakan", "sebagian orang berkata"). *Al-Mufradāt* tidak memuat entri ini.
+
+[^r-ghariza]: **Naluri** (*gharīza*). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 78 (`k-gharizah`, *Kashshāf*): tabiat, atau kemampuan yang menjadi sumber sifat-sifat zati.
+
+[^p14]: CP: Kisah roh-roh yang diciptakan berbentuk bola lalu dibelah dikenal dalam sastra cinta Arab sebagai pendapat "sebagian filsuf" (misalnya dalam *al-Zahra* karya Muḥammad bin Dāwūd al-Iṣfahānī dan *Ṭawq al-Ḥamāma* karya Ibn Ḥazm), dan asalnya adalah mitos yang diceritakan Aristophanes dalam *Symposium* karya Plato tentang manusia yang semula bulat lalu dibelah dua. Kata *rubʿ* ("seperempat") dalam edisi tahkik tidak jelas maksudnya; terjemahan Turki memahaminya "roh dari seperempat bola". Kami memahaminya sebagai sebuah bagian atau roh, sesuai konteks.
+
+[^p15]: CP: Edisi tahkik membaca *yaqī al-fuḍalāʾ li-l-andhāl* ("orang-orang utama menjaga orang-orang rendah"), yang tidak sesuai dengan konteks. Kami membacanya *yaqlī al-fuḍalāʾu al-andhāla* ("orang-orang utama membenci orang-orang rendah"). Terjemahan Turki memahaminya "orang-orang utama tidak bersahabat dengan orang-orang rendah". Kata *al-baʿḍ* sesudahnya dibaca *al-bughḍ* ("kebencian").
+
+[^p16]: CP: Dalam edisi tahkik hadis ini terpotong: *alqā bughḍahu fī al-māʾ fa-lā yashrabuhu aḥad illā abghaḍahu*, sehingga cinta Allah justru menghasilkan kebencian. Bagian yang hilang (tentang cinta) dilengkapi sesuai redaksi hadis yang sama dalam *al-Dharīʿa* dan sesuai pelengkapan penerjemah Turki, yang merujuk *al-Ṣadāqa wa-l-Ṣadīq* karya Abū Ḥayyān. Penyunting dan penerjemah Turki mencatat bahwa hadis dengan redaksi ini tidak ditemukan dalam kitab-kitab hadis; Abū Ḥayyān menyebutnya sebagai ucapan orang ("mereka berkata").
+
+[^d11]: CD: Hadis yang sama dan gagasan yang sama dikemukakan dalam *al-Dharīʿa*, Pasal Kelima, "Orang yang Dicintai Manusia". Terjemahannya di atas mengikuti redaksi terjemahan *al-Dharīʿa*. Di sana al-Rāghib menjelaskan sebabnya: orang yang dipelihara Allah, lalu Dia menjernihkan substansinya dan membaikkan rohnya, memperoleh cahaya yang mengalir ke dalam perasaan orang yang melihatnya sehingga orang itu mencintainya. Di sini sebab yang sama disebut "keutamaan yang khusus ada pada jiwanya".
+
+[^p17]: CP: Keempat sebab itu tidak disebut satu per satu. Dari urutan uraian dapat disimpulkan bahwa yang dimaksud ialah keutamaan, manfaat, dan kelezatan (Bab Kedua), ditambah keserupaan naluriah (Bab Ketiga), yang membuat seseorang dicintai atau dibenci tanpa sebab dari luar. Penyunting juga menyimpulkan demikian.
