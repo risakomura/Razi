@@ -15,9 +15,9 @@
 | Butir | Keterangan |
 |---|---|
 | Tahap | Penerjemahan berjalan |
-| Sudah diterjemahkan | Mukadimah; Bab Pertama sampai Bab Kedua Puluh Tujuh |
-| Posisi berikutnya | Bab Kedua Puluh Delapan (Arab bab 28) |
-| Nomor catatan terakhir | CP: p40 · CD: d76 |
+| Sudah diterjemahkan | Mukadimah; Bab Pertama sampai Bab Kedua Puluh Delapan |
+| Posisi berikutnya | Bab Kedua Puluh Sembilan (Arab bab 29) |
+| Nomor catatan terakhir | CP: p40 · CD: d77 |
 | Catatan istilah | lihat 3.3 |
 
 ---
@@ -1059,3 +1059,21 @@ Suatu kaum menyangka bahwa pendidikan dan penempaan tidak berpengaruh, sebab man
 Manusia, meskipun berbeda-beda dalam asal penciptaan, tidak seorang pun kecuali ia memiliki daya untuk mengusahakan suatu kadar keutamaan. Seandainya tidak demikian, batallah faedah nasihat, peringatan, dan pendidikan.[^d76]
 
 [^d76]: CD: Perdebatan ini dan jawabannya terdapat dalam *al-Dharīʿa*, Pasal Pertama, bahasan "Kemungkinan Mengubah Akhlak", dengan dalil yang sebagian sama: pihak yang menolak berpegang pada hadis "Allah telah selesai menetapkan penciptaan dan akhlak", sedang pihak yang membolehkan berkata "seandainya tidak demikian, batallah faedah nasihat dan wasiat, janji dan ancaman, perintah dan larangan". Terjemahan hadis, ar-Rum: 30, dan al-Isra': 84 mengikuti terjemahan *al-Dharīʿa*. Ada perbedaan cara menyelesaikan. *Al-Dharīʿa* menyatakan bahwa kedua pihak benar menurut sudut pandang masing-masing: daya bawaan tidak dapat diubah zatnya, tetapi dapat dilenturkan, seperti biji kurma yang dapat dirawat hingga menjadi pohon kurma atau dibiarkan membusuk, tetapi tidak dapat menumbuhkan apel. *Tafṣīl* lebih ringkas dan lebih tegas: meskipun manusia berbeda dalam asal penciptaan, setiap orang memiliki daya untuk suatu kadar keutamaan. Lihat pula Bab Ketiga Belas (tujuh sebab perbedaan) dan Bab Kedua Puluh Empat (arang yang menjadi abu), yang menunjukkan batas dari kemungkinan itu.
+
+# Bab Kedua Puluh Delapan {.kitab-ke}
+
+# Sebab Keburukan Manusia dan Ketertinggalannya dari Keutamaan {.judul-kitab}
+
+Sebab tertinggalnya manusia dari keutamaan tidak lepas dari beberapa segi.
+
+Adakalanya karena kekurangan dalam asal penciptaannya dan ketidakmampuan yang tersusun dalam pembawaannya, sehingga ia terhenti dari memperoleh daya dan menghimpun alat yang dengannya ia dapat sampai kepada kebahagiaan, seperti orang yang lemah pembawaannya (*naḥīza*); atau waktunya tidak tersisa dari mencari penghidupan yang niscaya; atau ia tidak mendapati penunjuk yang membimbingnya. Orang yang demikian dimaafkan, karena firman Allah Ta'ala: *"Allah tidak membebani seseorang melainkan sesuai dengan kesanggupannya"* (al-Baqarah: 286).
+
+Adakalanya ia tidak lemah untuk itu, tetapi umurnya tidak memberinya kesempatan untuk mencapainya. Orang ini pahalanya telah ditetapkan di sisi Allah, sebagaimana firman Allah Ta'ala: *"Barangsiapa keluar dari rumahnya dengan maksud berhijrah karena Allah dan Rasul-Nya, kemudian kematian menimpanya (sebelum sampai ke tempat yang dituju), maka sungguh, pahalanya telah ditetapkan di sisi Allah"* (an-Nisa': 100).
+
+Adakalanya ia mendapatkan pendidik dan guru yang menyesatkan, lalu menyesatkannya dari jalan. Bila ia tidak mampu mendapat petunjuk dari orang yang membimbing dan meluruskannya, ia dimaafkan, dan dosa atas apa yang ia lakukan ditanggung oleh orang yang menyesatkannya, bukan olehnya, sebagaimana firman Allah Ta'ala tentang orang-orang yang menyesatkan: *"(Ucapan mereka) menyebabkan mereka pada hari Kiamat memikul dosa-dosanya sendiri secara sempurna, dan sebagian dosa-dosa orang yang mereka sesatkan, yang tidak mengetahui sedikit pun (bahwa mereka disesatkan). Ingatlah, alangkah buruknya (dosa) yang mereka pikul itu"* (an-Nahl: 25). Tetapi bila sesudah itu ia mampu mendapatkan orang yang menunjukinya, lalu ia tidak mengikuti petunjuknya, ia dan orang yang menyesatkannya bersekutu dalam dosa, sebagaimana firman Allah Ta'ala: *"Kumpulkanlah orang-orang yang zalim beserta teman sejawat mereka"* (ash-Shaffat: 22).
+
+Adakalanya kesesatannya berasal dari dirinya sendiri, bukan dari salah satu hal yang telah disebutkan; dialah yang diancam dengan azab. Siapa yang telah dihilangkan Allah dalihnya dengan pemahaman, kecukupan, dan ilmu yang tulus, lalu ia enggan mengikuti petunjuk dan meninggalkan jalan yang lurus, ia seperti yang disifati Allah Ta'ala dengan firman-Nya: *"Dan bacakanlah (Muhammad) kepada mereka, berita orang yang telah Kami berikan ayat-ayat Kami kepadanya, kemudian dia melepaskan diri dari ayat-ayat itu, lalu dia diikuti oleh setan (sampai dia tergoda), maka jadilah dia termasuk orang yang sesat"* (al-A'raf: 175), dan firman-Nya: *"Dan sungguh, Kami telah memperlihatkan kepadanya (Fir'aun) tanda-tanda (kebesaran) Kami semuanya, ternyata dia mendustakan dan enggan (menerima kebenaran)"* (Taha: 56).
+
+Yang lebih berat hukumannya daripada dia ialah orang yang telah memperoleh ilmu, mengenal kebenaran, dan menempuh beberapa tahap jalan kebaikan, kemudian berbalik mundur darinya, seperti yang disifati Allah dengan firman-Nya: *"Sesungguhnya orang-orang yang berbalik (kepada kekafiran) setelah petunjuk itu jelas bagi mereka, setanlah yang merayu mereka dan memanjangkan angan-angan mereka"* (Muhammad: 25), dan firman-Nya: *"Wahai orang-orang yang beriman! Barangsiapa di antara kamu yang murtad (keluar) dari agamanya,"* hingga akhir ayat (al-Ma'idah: 54).[^d77]
+
+[^d77]: CD: Bandingkan *al-Dharīʿa*, Pasal Pertama, bahasan "Penghalang dari Mengejar Keutamaan". Di sana penghalang dibagi dua: ketidakmampuan (*quṣūr*), yang dimaafkan dengan dalil al-Baqarah: 286, seperti tidak memiliki sarana atau sibuk mencari penghidupan yang niscaya; dan kelalaian (*taqṣīr*), yang dibagi empat menurut tingkat sulitnya diobati: tidak mengenal kebenaran, mengenalnya tetapi tidak terbiasa, meyakini keburukan sebagai kebaikan, dan menjadikan keburukan sebagai kebanggaan. *Tafṣīl* menyusun sebab-sebabnya menurut tanggung jawab: yang dimaafkan (lemah, mati sebelum sampai, disesatkan tanpa jalan keluar), yang bersekutu dalam dosa, yang diancam azab, dan yang paling berat, yaitu murtad sesudah mengenal kebenaran. Muhammad: 25 dikutip pula dalam *al-Dharīʿa*, Pasal Pertama, bahasan "Naik ke Derajat-Derajat Keutamaan dan Turun darinya ke Keburukan yang Paling Rendah", dengan maksud yang sama. Terjemahan al-Baqarah: 286, an-Nahl: 25, Muhammad: 25, dan al-Ma'idah: 54 mengikuti terjemahan *al-Dharīʿa*.
