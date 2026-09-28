@@ -15,9 +15,9 @@
 | Butir | Keterangan |
 |---|---|
 | Tahap | Penerjemahan berjalan |
-| Sudah diterjemahkan | Mukadimah; Bab Pertama sampai Bab Kedua Puluh Satu |
-| Posisi berikutnya | Bab Kedua Puluh Dua (Arab bab 22) |
-| Nomor catatan terakhir | CP: p38 · CD: d64 |
+| Sudah diterjemahkan | Mukadimah; Bab Pertama sampai Bab Kedua Puluh Dua |
+| Posisi berikutnya | Bab Kedua Puluh Tiga (Arab bab 23) |
+| Nomor catatan terakhir | CP: p38 · CD: d65 |
 | Catatan istilah | lihat 3.3 |
 
 ---
@@ -906,3 +906,23 @@ Tidak ada satu perkara mubah pun kecuali, bila manusia mengerjakannya sesuai tun
 [^d64]: CD: *Al-Dharīʿa*, Pasal Pertama, bahasan "Perbedaan antara Kemuliaan Syariat dengan Ibadah dan Memakmurkan Bumi", membedakan ibadah, yang memiliki kewajiban-kewajiban yang diketahui dan termasuk bab keadilan, dari kemuliaan syariat, yang termasuk bab karunia dan amalan sunah. Di sini ibadah dipakai dalam arti yang lebih luas: setiap perbuatan, wajib, sunah, maupun mubah, bila dikerjakan menurut hukum Allah, adalah ibadah. Keduanya tidak bertentangan, sebab *al-Dharīʿa* sendiri, dalam bahasan yang sama, menyatakan bahwa usaha mencari penghidupan, bila berjalan menurut cara yang wajib, "menjadi ibadah dan jihad di jalan Allah". Tetapi pembaca perlu membedakan dua pemakaian kata "ibadah" ini: ibadah dalam arti khusus (kewajiban yang digariskan) dan ibadah dalam arti umum (kepatuhan kepada hukum Allah dalam segala hal). Lihat terjemahan *al-Dharīʿa*, nota kaki no. 46 (`m-ibada`) dan no. 47 (`k-ibada`), dan Bab Kedua Puluh Dua di bawah.
 
 Memperhatikan perintah Allah dalam segala urusan, yang kecil maupun yang besar, dianjurkan bagi semua orang dan wajib bagi Nabi, semoga Allah melimpahkan selawat dan salam kepadanya, serta bagi setiap orang yang kedudukannya dekat dengan kedudukan beliau, karena firman Allah Ta'ala: *"Maka tetaplah engkau (Muhammad) (di jalan yang benar), sebagaimana telah diperintahkan kepadamu dan (juga) orang yang bertobat bersamamu"* (Hud: 112).
+
+# Bab Kedua Puluh Dua {.kitab-ke}
+
+# Hakikat Ibadah {.judul-kitab}
+
+Ibadah ialah perbuatan pilihan yang bertentangan dengan syahwat-syahwat badani, yang lahir dari niat yang dimaksudkan untuk mendekatkan diri kepada Allah Ta'ala, sebagai ketaatan kepada syariat.[^r-ibada2]
+
+[^r-ibada2]: **Ibadah** (*ʿibāda*). Lihat catatan `r-ibada` pada Bab Ketujuh. Definisi di sini sejalan dengan *al-Mufradāt* (terjemahan *al-Dharīʿa*, nota kaki no. 46, `m-ibada`), yang membagi ibadah menjadi ibadah karena ditundukkan (*bi-l-taskhīr*), seperti sujudnya segala sesuatu, dan ibadah dengan pilihan (*bi-l-ikhtiyār*), yang khusus bagi makhluk yang bertutur; definisi *Tafṣīl* hanya mengambil yang kedua. Unsur "bertentangan dengan syahwat-syahwat badani" dekat dengan salah satu definisi kehambaan (*ʿubūdiyya*) yang dinukil *Kashshāf* (s.v. *al-ʿibāda*) dari *Khulāṣat al-Sulūk*: "menahan jiwa dari hawa nafsunya, mencegahnya dari angan-angannya, dan taat dalam perintah tuannya."
+
+Dengan ucapan kami "perbuatan pilihan", keluarlah perbuatan yang ditundukkan dan perbuatan yang dipaksakan, dan masuklah meninggalkan yang terjadi dengan pilihan. Sebab meninggalkan (*tark*) itu dua macam: macam yang dengan pilihan, dan itu adalah perbuatan; dan macam yang berupa ketiadaan mutlak tanpa pilihan, bahkan ia adalah ketiadaan pilihan, dan itu bukan perbuatan.[^k-tark]
+
+[^k-tark]: **Meninggalkan** (*tark*; Ing. *abandonment*). *Kashshāf*: secara bahasa, tidak melakukan apa yang mampu dilakukan, baik orang yang meninggalkannya bermaksud demikian maupun tidak, seperti ketika tidur, dan baik ia beralih kepada lawannya maupun tidak; adapun tidak adanya sesuatu yang tidak mampu dilakukan tidak disebut meninggalkan. (*Kashshāf*, s.v. *al-tark*.) Al-Rāghib lebih ketat: hanya meninggalkan yang disengaja dan dipilih yang terhitung perbuatan, dan karena itu dapat menjadi ibadah, seperti meninggalkan makan dalam puasa; meninggalkan yang terjadi dalam tidur tidak termasuk.
+
+Dengan ucapan kami "yang bertentangan dengan syahwat-syahwat badani", keluarlah apa yang bukan ketaatan. Adapun perbuatan-perbuatan mubah, seperti makan, minum, dan menggauli istri, bukanlah ibadah dari segi ia syahwat; tetapi ia dapat menjadi ibadah bila dengannya dicari hukum syariat.[^d65]
+
+[^d65]: CD: Lihat catatan `d64` pada Bab Kedua Puluh Satu tentang dua pemakaian kata "ibadah". Di sini al-Rāghib memberi kaidah yang mendamaikan keduanya: perbuatan mubah bukan ibadah dari segi ia syahwat, tetapi menjadi ibadah dari segi ia dicari dengannya hukum syariat. Dalam *al-Dharīʿa*, Pasal Ketiga, bahasan "Pernikahan yang Baik dan yang Buruk", kaidah yang sama dipakai: persetubuhan menurut cara yang disyariatkan terpuji bila dimaksudkan untuk mendapatkan keturunan, menghilangkan mudarat dari diri, atau menenangkan jiwa.
+
+Dikatakan "yang lahir dari niat yang dimaksudkan untuk mendekatkan diri kepada Allah Ta'ala", karena bila perbuatan itu kosong dari niat, atau lahir dari niat yang tidak dimaksudkan untuk mendekatkan diri kepada Allah Ta'ala, tetapi dimaksudkan untuk riya, ia pun bukan ibadah.[^r-riya2] Dan dikatakan "sebagai ketaatan kepada syariat", karena orang yang mengadakan dari dirinya sendiri suatu perbuatan yang tidak dibenarkan dalam syariat, perbuatannya bukan ibadah, meskipun ia bermaksud mendekatkan diri kepada Allah Ta'ala dengannya. Maka ibadah adalah perbuatan yang menghimpun seluruh sifat ini.
+
+[^r-riya2]: **Riya** (*riyāʾ*). Lihat catatan `r-ujb` pada Bab Pertama dan terjemahan *al-Dharīʿa*, nota kaki no. 263 (`k-riya`). Syarat niat yang murni ini sejalan dengan *al-Dharīʿa*, Pasal Pertama, bahasan "Wajibnya Meraih Keutamaan yang Terpuji": perbuatan ukhrawi harus dikerjakan dengan maksud meraih kemuliaan dan dengan batin yang murni (al-Bayyinah: 5), dan tidak dimaksudkan untuk meraih manfaat duniawi.
