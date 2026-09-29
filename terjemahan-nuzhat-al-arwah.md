@@ -3062,3 +3062,187 @@ Ia berkata: Memandang ke cermin memperlihatkan gambar wajah, sedangkan merenungk
 Ia berkata: Orang yang berbahagia adalah orang yang tidak mengenal kami dan tidak kami kenal. Sebab apabila kami mengenalnya, kami mengusir tidurnya dan memperpanjang harinya.
 
 Ia berkata: Anggaplah sedikit yang banyak dari apa yang engkau berikan, dan anggaplah banyak yang sedikit dari apa yang engkau ambil. Janganlah engkau menjadikan orang kikir sebagai kepercayaan, dan jangan pula orang malas sebagai sahabat karib, karena tidak ada penjagaan diri bersama kekikiran dan tidak ada amanah bersama sikap tidak tahu berterima kasih.
+
+Seseorang bercerita: "Kami berada bersama seorang ahli nujum, lalu ia membawa kami, wahai raja, masuk ke sebuah kebun miliknya pada malam hari. Ia memandang bintang-bintang dan mulai menunjuk ke arahnya dengan tangannya sambil berjalan, hingga ia jatuh ke dalam sebuah sumur. Maka raja berkata: 'Barang siapa menyibukkan diri dengan ilmu tentang apa yang ada di atasnya, ia diuji dengan ketidaktahuan tentang apa yang ada di bawahnya.'"
+
+Ia berkata: Alangkah halusnya penerimaan materi (*hayūlā*) apel ini terhadap bentuknya dan perbuatan-perbuatannya, ketika tabiat terpengaruh di dalamnya oleh perbuatan-perbuatan ruhani dari susunan yang sederhana dan kesederhanaan yang tersusun, sehingga ia menjadi indah seolah-olah memiliki akal! Bahkan hal itu adalah bukti bahwa ia diciptakan oleh Pencipta segala sesuatu.
+
+## Riwayat Anaxagoras dari Miletos dan Adabnya {.judul-bab}
+
+[Pendapat Anaximenes:][^t41] Ia termasuk orang-orang Miletos yang dikenal di kalangan mereka dengan hikmah dan kebaikan. Ia berkata: "Sang Pencipta Taʿālā adalah azali, tidak berawal dan tidak berakhir. Dia adalah prinsip segala sesuatu, dan Dia sendiri tidak berprinsip. Huwiyah-Nya tidak menyerupai segala sesuatu. Dia adalah Pencipta dari ketiadaan. Bentuk-bentuk segala sesuatu telah ada di dalam ilmu-Nya yang pertama, dan bentuk-bentuk itu di sisi-Nya tidak berhingga. Maka bentuk-bentuk itu azali, dan zat-Nya tidak menjadi banyak dengan banyaknya objek pengetahuan dan tidak berubah dengan berubahnya objek-objek itu. Dengan keesaan-Nya Dia menciptakan bentuk unsur, kemudian bentuk akal [memancar darinya dengan penciptaan Sang Pencipta Taʿālā]. Lalu unsur menyusun di dalam akal warna-warna bentuk menurut kadar tingkatan-tingkatan cahaya dan macam-macam bekas yang ada padanya, dan tingkatan-tingkatan itu menjadi bentuk-bentuk yang banyak sekaligus, sebagaimana bentuk muncul di dalam cermin yang mengilap tanpa waktu dan tanpa urutan sebagian atas sebagian yang lain. Hanya saja, materi tidak mampu menanggung penerimaan [bentuk-bentuk yang banyak sekaligus], sehingga cahaya-cahaya bentuk menjadi sedikit di dalam materi."
+
+[^t41]: CT: Bagian ini sebenarnya memuat pandangan-pandangan Anaximenes dan diambil dari *al-Milal wa-l-Niḥal* karya al-Shahrastānī.
+
+Ia berkata: "Perbandingan alam ini dengan alam itu adalah seperti perbandingan sayuran dan kulit dengan isi; dan kulit terpisah dari isi. Alam ini hanya tetap ada karena sedikit cahaya alam itu yang ada di dalamnya; jika tidak, ia tidak akan tetap ada sekejap mata pun. Keberadaannya tetap berlangsung hingga akal menyaring bagiannya yang bercampur dengan alam ini, dan jiwa menyaring bagiannya yang tercampur. Apabila kedua bagian itu telah tersaring darinya, bagian-bagian alam ini akan lenyap, dan tinggallah jiwa-jiwa yang kotor di dalam prinsip kegelapan."
+
+Pendapat Anaxagoras dari Miletos seperti pendapat Thales, tetapi ia menyelisihinya dalam prinsip pertama. Sebab menurutnya prinsip segala maujud adalah bagian-bagian yang serupa (*mutashābihat al-ajzāʾ*), yaitu bagian-bagian halus yang tidak dapat ditangkap oleh indra dan tidak dapat dicapai oleh akal. Dari bagian-bagian itulah terbentuk alam atas dan alam bawah, karena hal-hal yang tersusun didahului oleh hal-hal yang sederhana, dan hal-hal yang berbeda didahului oleh hal-hal yang serupa. Hal-hal yang tersusun tersusun dari unsur-unsur yang serupa. Hewan dan tumbuhan makan dari bagian-bagian yang serupa dan yang lainnya, lalu bagian-bagian itu menjadi serupa di dalam lambung, mengalir di dalam badan, dan menjadi bagian-bagian yang berbeda-beda. Ia sepakat dengan para bijak bahwa prinsip pertama adalah akal aktif, tetapi ia menyelisihi mereka dalam hal bahwa Sang Pencipta Taʿālā diam, tidak bergerak.
+
+Ia berkata: "Pokok segala sesuatu adalah satu jisim, yang merupakan tempat bagi keseluruhan dan tidak berhingga." Ia tidak menjelaskan apakah jisim itu termasuk unsur-unsur atau bukan. Ia berkata: "Darinya keluar seluruh jisim, spesies, dan macam-macam daya." Dialah orang pertama yang berpendapat tentang ketersembunyian (*al-kumūn*) dan kemunculan (*al-ẓuhūr*).
+
+Anaxagoras hidup sesudah Anaximenes dari Miletos. Aristoteles memenuhi kitab-kitabnya dengan perkataan, pendapat, dan mazhabnya, serta bantahan terhadapnya dalam hal-hal yang tidak ia setujui. Ia membiasakan dirinya dengan hidup serba kasar dan membebaninya dengan berbagai kesulitan, seperti menanggung dingin, es, dan salju dalam keadaan telanjang dan tanpa alas kaki, meskipun ia telah tua dan lemah. Hal itu ditanyakan kepadanya, lalu ia menjawab: "Karena jiwaku cepat bersuka ria dan sangat angkuh, dan aku takut ia akan membawaku lari lalu menjerumuskanku ke dalam hawa nafsunya yang tercela. Maka mengapa aku tidak menempatkannya di bawahku agar aku tidak berada di bawahnya, dan mengapa aku tidak membebaninya dengan kesulitan-kesulitan agar ia tidak membebaniku dengan perbuatan-perbuatan keji?"
+
+Di kotanya terjadi kekacauan dan huru-hara karena beberapa peristiwa, sedangkan sang filsuf tetap tenang dan diam. Dikatakan kepadanya: "Tidakkah engkau tergerak oleh peristiwa ini?" Ia menjawab: "Seandainya kalian melihat hal seperti ini dalam tidur, apakah kalian akan tergerak karenanya ketika terjaga? Demikian pula peristiwa ini tidak menggelisahkanku, karena seluruh urusan alam ini seperti mimpi, sedangkan kebenaran pendapat seperti keadaan terjaga."
+
+Ia berkata: Lisan kadang bersumpah dengan dusta, sedangkan akal tidak bersumpah kecuali dengan benar. Maka bersungguh-sungguhlah agar keduanya saling bersesuaian.
+
+Diriwayatkan bahwa istrinya bertengkar dengannya dan lama memperdengarkan kepadanya kata-kata yang tidak menyenangkan, sedangkan ia diam dan menahan diri. Istrinya pun sangat marah kepadanya. Ketika itu ia sedang mencuci pakaian, lalu ia bangkit dan menuangkan air bekas cucian ke atas kepala Anaxagoras, yang sedang memegang sebuah kitab yang ia baca. Ia meletakkan kitab itu dari tangannya, kemudian mengangkat kepalanya kepada istrinya dan berkata: "Engkau telah bergemuruh dan berkilat, lalu engkau menurunkan hujan." Ia tidak menambah sesuatu pun atas perkataan itu.
+
+Ia melewati seorang laki-laki yang besar dan gempal, lalu orang itu mencacinya dan berkata keji kepadanya, tetapi ia berpaling darinya. Dikatakan kepadanya: "Mengapa engkau tidak tersinggung oleh perkataannya?" Ia menjawab: "Karena aku tidak berharap mendengar dari burung gagak dekur burung merpati, dan tidak pula dari burung bangau kicau burung tekukur."
+
+Apabila orang-orang jahat memujinya, ia merasa cemas dan berkata: "Barangkali aku telah melakukan suatu keburukan."
+
+## Riwayat Theophrastos {.judul-bab}
+
+Ia adalah murid Aristoteles sang bijak dan penggantinya di kursi hikmah sesudah wafatnya. Dalam hal itu ia dibantu oleh Eudemos dan Askhulos, yang keduanya juga termasuk murid-murid besar Aristoteles. Ia memiliki banyak karya dan syarah atas kitab-kitab Aristoteles. Di antara yang menunjukkan keutamaan dan kekuatannya adalah perkataannya: "Yang ilahi tidak bergerak." Perkataan ini, meskipun sedikit lafaznya, dalam maknanya dan banyak faedahnya.
+
+Ia berkata: Orang yang beradab adalah orang yang meriwayatkan kebaikan-kebaikan manusia dan menutupi keburukan-keburukan mereka.
+
+Ia berkata: Para pemungut harta yang berakal memperoleh dengan mengumpulkannya secara lembut apa yang tidak mereka peroleh dengan mengumpulkannya secara paksa. Sebab lintah memperoleh darah tanpa menyakiti dan tanpa terdengar suaranya, sesuatu yang tidak diperoleh nyamuk dengan panasnya sengatan dan seramnya dengingnya.
+
+Ia melihat seorang pemuda yang lama berdiam diri, lalu berkata: "Jika diammu karena sedikitnya adabmu, engkau [dengan diam itu] beradab; dan jika engkau beradab, engkau telah berbuat buruk terhadap adab karena engkau diam."
+
+Ia juga berkata: Jiwa mampu terbang dan singgah pada segala yang ia kehendaki dengan sayap-sayap hakiki yang dimilikinya, dan ia melihat apa yang ia kehendaki.
+
+Ia berkata: Kapan pun jiwa membuang dari dirinya beban pikiran tentang alam ini, yang menghalanginya dari gerak menuju sesuatu yang utama, ia akan menyentuh hikmah dengan beban yang paling ringan dan usaha yang paling mudah. Ia menjadi seperti pelita yang bercahaya bagi dirinya sendiri dan bercahaya bagi selainnya. Maka orang bodoh, apabila menyertainya, menjadi alim; dan orang fakir, apabila mengikutinya, menjadi kaya.
+
+Ia berkata: Harta adalah kekayaan badan, dan hikmah adalah kekayaan jiwa. Mencari kekayaan jiwa lebih utama, karena apabila jiwa telah kaya, ia kekal. Kekayaan jiwa terus mengalir, sedangkan kekayaan badan terbatas.
+
+Ketika ajal menjelang, ia mulai mencela tabiat dengan ungkapan yang maknanya bahwa bangunan badan tidak memiliki pokok; yang berpokok adalah bangunan jiwa dan pemeliharaan terhadapnya.
+
+## Eudemos {.judul-bab}
+
+Ia termasuk murid-murid Aristoteles dan orang-orang yang mengajarkan ilmu dan hikmahnya, serta orang-orang yang menyusun kitab-kitab menurut kekuatan perkataannya dan gaya penulisannya.
+
+Ia berkata: Janganlah engkau merahasiakan sesuatu kepada orang bodoh, karena ia tidak mampu menyembunyikannya. Tidak ada yang mampu menyembunyikan rahasia kecuali orang bijak.
+
+Ia berkata: Sebagaimana anak panah, apabila mengenai batu, terpental darinya, demikian pula kata-kata buruk, apabila dilemparkan kepada orang saleh, tidak berpengaruh padanya, dan aib itu kembali kepada orang yang mencelanya.
+
+Ia berkata: Sebagaimana kematian itu buruk bagi orang yang hidupnya baik, demikian pula ia baik bagi orang yang hidupnya buruk. Maka kematian bukanlah buruk secara mutlak, melainkan baik atau buruk jika dinisbahkan kepada sesuatu.
+
+Ia ditanya tentang kadar manfaat hikmah bagi manusia. Ia menjawab: "Apabila manusia telah meraih hikmah dan meliputinya, perumpamaannya seperti orang yang telah sampai ke tujuannya di laut: ia memandang orang lain yang dirundung gelombang yang mengepungnya dan angin yang menerjangnya, sementara ia sendiri tenang dan tenteram."
+
+Dikatakan kepadanya: "Apakah yang mustahil itu?" Ia menjawab: "Sesuatu yang tidak memiliki bentuk di dalam jiwa."
+
+## Askhulos {.judul-bab}
+
+Ia termasuk sahabat Aristoteles dan murid-muridnya yang besar, dan keadaannya serupa dengan Theophrastos dan Eudemos sebagaimana yang telah kami sebutkan tentang mereka. Iskandar mengagungkannya dan mengangkatnya di atas orang-orang yang setara dengannya.
+
+Dikatakan kepadanya: "Mengapa engkau tidak mengambil seorang istri?" Ia menjawab: "Dalam usaha memperbaiki diriku dan mengupayakan kemaslahatan jasadku, aku sudah berada dalam kepayahan, jerih payah, kerisauan, dan kedukaan yang tidak sanggup aku pikul. Bagaimana aku akan menambahkan kepadanya yang serupa dengannya?"
+
+Dikatakan kepadanya: "Aku melihatmu terus-menerus membaca dan menulis." Ia menjawab: "Karena aku tahu bahwa aku orang bodoh yang membutuhkan ilmu."
+
+Ia berkata tentang Iskandar: "Ia menghimpun kekuatan dan hikmah, dan senjatanya dalam memerangi musuh-musuhnya adalah hikmah."
+
+Seorang yang bodoh berkata kasar kepadanya, tetapi ia tidak menoleh dan berkata: "Jika ia berdusta, lebih pantas aku tidak marah, karena keadaannya tidak seperti yang ia katakan; dan jika ia benar, apa yang membuatku marah?"
+
+Iskandar memenjarakannya. Ketika ia masuk penjara, sipir masuk untuk memeriksa harta yang ia bawa. Ia berkata: "Alangkah bodohnya engkau! Aku datang ke sini bukan untuk berdagang dan bukan untuk bersenang-senang. Aku tidak sebodoh itu sampai membawa harta ke sini agar engkau mengambilnya." Sipir itu berkata kepadanya: "Duduklah, semoga Allah tidak membebaskanmu." Berita itu sampai kepada Iskandar, lalu ia tertawa dan membebaskannya.
+
+Ia berkata: Kesehatan ruh ada pada para bijak yang saleh; adapun kesehatan badan, aku tidak peduli.
+
+## Demokritos {.judul-bab}
+
+Ia dan Hippokrates sang tabib hidup pada satu zaman, yaitu pada masa Bahman putra Isfandiyar putra Kusytasb. Ia memiliki risalah-risalah dan pendapat-pendapat yang telah disebutkan oleh para bijak darinya di dalam kitab-kitab. Ia termasuk filsuf terdahulu. Dikatakan kepadanya: "Jangan melihat!" Ia pun memejamkan kedua matanya. Dikatakan kepadanya: "Jangan mendengar!" Ia pun menyumbat kedua telinganya. Dikatakan kepadanya: "Jangan berbicara!" Ia pun meletakkan tangannya di atas kedua bibirnya. Dikatakan kepadanya: "Jangan mengetahui!" Ia menjawab: "Aku tidak mampu melakukan itu."
+
+Aristoteles mengutamakan pendapatnya atas pendapat gurunya, Plato, dan dalam hal itu ia tidak berlaku adil.
+
+Ia berkata: Keindahan lahir dapat ditiru oleh para pelukis dengan cat-cat, sedangkan keindahan batin tidak dapat ditiru kecuali oleh orang yang benar-benar memilikinya, yang menciptakan dan mewujudkannya.
+
+Ia berkata: Seyogianya engkau mulai mempelajari ilmu-ilmu sesudah engkau membersihkan dirimu dari aib-aib dan memperindahnya dengan keutamaan-keutamaan; jika tidak, engkau tidak akan mengambil manfaat sedikit pun dari ilmu-ilmu itu.
+
+Ia berkata: Barang siapa memberikan harta kepada saudaranya, ia telah memberinya perbendaharaannya; dan barang siapa memberinya ilmu dan nasihatnya, ia telah menghadiahkan dirinya kepadanya.
+
+Ia berkata: Tidak seyogianya engkau menganggap manfaat yang mengandung mudarat besar sebagai manfaat, tidak pula mudarat yang mengandung manfaat besar sebagai mudarat, dan tidak pula kehidupan yang tidak terpuji sebagai kehidupan.
+
+Ia berkata: Perumpamaan orang yang merasa cukup dengan nama adalah seperti orang yang merasa cukup dengan aroma makanan.
+
+Ia berkata: Hati wajib dibersihkan dari tipu daya dan muslihat sebagaimana sayuran dibersihkan dari berbagai kotoran.
+
+Ia berkata: Barang siapa hari ini menginjak tumitmu, besok ia akan menginjakmu.
+
+Seorang tukang lukis yang tidak cakap di Athena berkata kepadanya: "Lepalah rumahmu agar aku melukisinya." Ia menjawab: "Sebaliknya, lukislah dahulu, agar aku melepanya sesudah itu."
+
+## Qabis (Kebes) sang Sokratik {.judul-bab}
+
+Ia termasuk para bijak terdahulu dan termasuk sahabat Plato. Kami tidak menemukan darinya kecuali sebuah teka-teki (*lughz*)[^p21] yang disusun tentang perkara alam ini dan penyelidikan yang berlangsung di dalamnya, dorongan untuk meninggalkan dunia dan meremehkannya, serta kewajiban manusia untuk membuang pikiran tentang syahwat-syahwat, mencari kebahagiaan yang sempurna, dan selamat dari keburukan-keburukan yang ada di alam indra.
+
+[^p21]: CP: Terjemahan Turki memahami kata *lughz* di sini sebagai "beberapa kata singkat yang padat". Kata ini berarti teka-teki atau alegori, dan kemungkinan besar merujuk kepada *Tabula* (*Pinax*) yang dinisbahkan kepada Kebes, sebuah alegori terkenal tentang kehidupan manusia, jalan menuju kebahagiaan sejati, dan tipu daya dunia, yang juga dikenal dalam terjemahan Arab.
+
+## Proklos {.judul-bab}
+
+Dialah yang menulis sebuah kitab tentang kekekalan alam (*qidam al-ʿālam*), yang di dalamnya ia mengemukakan dalil-dalil tentang kekekalannya. Dalam hal itu ia menyelisihi orang-orang terdahulu, sementara Aristoteles sejalan dengannya dalam hal itu, dan setiap orang yang datang sesudah mereka mengikuti mereka. Hal ini bertentangan dengan lahir perkataan para bijak. Sebagian pembela fanatik Proklos menyiapkan uzur baginya dan berkata: "Ia berbicara kepada manusia dengan tutur ruhani yang sederhana dan tutur jasmani yang tersusun. Kaum yang berbicara dengannya adalah orang-orang jasmani, dan yang mendorongnya mengemukakan dalil-dalil tentang kekekalan itu hanyalah perlawanan mereka [yang keras], sehingga dengan itu ia keluar dari jalan hikmah dan filsafat. Sebab orang bijak wajib menampakkan ilmu dengan banyak cara, sehingga setiap penelaah dapat mengolahnya menurut kadar penalarannya dan mengambil faedah darinya menurut kadar pikiran dan kesiapannya, dan mereka tidak mendapati celah dan celaan dalam perkataannya. Sebab Proklos, karena ia berpendapat tentang kekekalan masa alam ini dan bahwa alam ini kekal tidak lenyap, menulis kitab-kitab tentang makna ini. Lalu orang-orang yang tidak mengenal caranya menelaahnya, sehingga mereka memahami dari perkataannya sisi jasmaninya, bukan sisi ruhaninya, lalu mereka membantahnya menurut mazhab kaum Dahriyah."
+
+Dalam kitab ini ia berkata: "Ketika alam-alam bersambung satu sama lain, daya-daya penghubung timbul di dalamnya, dan hal-hal yang tersusun timbul dari unsur-unsur, maka timbullah kulit-kulit dan tersembunyilah isi-isi. Kulit-kulit itu berubah-ubah (*dāʾira*), sedangkan isi-isi itu tegak dan kekal, tidak mungkin rusak, karena ia sederhana dan satu dayanya. Maka alam terbagi menjadi dua: alam kejernihan dan isi, serta alam kekeruhan dan kulit. Keduanya bersambung satu sama lain, dan akhir alam ini adalah dari permulaan alam itu. Dari satu segi tidak ada perbedaan di antara keduanya, sehingga alam ini tidak lenyap karena bersambung dengan sesuatu yang tidak lenyap. Dari segi lain, kulit-kulit itu lenyap dan kekeruhan hilang. Bagaimana kulit-kulit itu tidak lenyap? Selama kulit-kulit itu masih ada, isi-isi tetap tersembunyi. Karena alam ini tersusun dan alam yang tinggi itu sederhana, sedangkan setiap yang tersusun akan terurai kembali kepada yang sederhana yang darinya ia tersusun, dan setiap yang sederhana itu kekal."
+
+Apa yang dinukil dari Proklos juga dinukil dari orang-orang sepertinya. Pendapat pertama yang disandarkan kepadanya disebabkan oleh salah satu dari dua hal: maksudnya tidak dipahami karena sebab yang telah disebutkan, atau ia didengki oleh orang-orang sezamannya, karena ia luas pikirannya, lapang penalarannya, dan menggerakkan daya-daya [akalnya], sedangkan mereka adalah orang-orang yang mengikuti waham dan khayalan.
+
+Di salah satu bagian kitabnya ia berkata: "Prinsip-prinsip pertama yang darinya alam-alam terbentuk tetap kekal dan tidak lenyap. Ia melekat pada masa dan menahannya. Hanya saja, semuanya berasal dari Yang Pertama Yang Esa, yang tidak disifati dengan suatu sifat dan tidak dapat dijangkau dengan suatu ciri, karena bentuk segala sesuatu berasal dari-Nya. Dialah substansi yang menyalurkan kehidupan dan kekekalan kepada tabiat-tabiat. Maka apabila kulit-kulit alam ini telah memudar, kotorannya telah hilang, dan ia telah menjadi sederhana dan ruhani, ia akan kekal dengan substansi-substansi yang jernih, bercahaya, dan ruhani yang ada di dalamnya, seperti alam-alam atas yang tidak berakhir, dan ia pun menjadi salah satu darinya."
+
+## Aristippos {.judul-bab}
+
+Ia adalah seorang laki-laki yang dikenal di negerinya dengan hikmah dan filsafat. Ia berada dalam keadaan yang baik, kehidupan yang lapang, dan harta yang banyak. Kemudian masa menjatuhkannya dan hari-hari mengkhianatinya, sehingga keadaannya berubah dan sarana-sarana hidupnya tercerai-berai. Ia pun bertekad untuk merantau ke tempat yang tidak ada orang mengenalnya. Ia menumpang kapal, lalu kapal itu karam dan ia terdampar di pantai. Ia menggambar sebuah bangun geometri di atas tanah. Ada pula yang mengatakan: bahkan ia melihat sebuah bangun geometri yang tergambar pada sebuah bangunan di sana, lalu jiwanya menjadi kuat karena ia telah sampai kepada kaum yang bijak, bukan kepada kawanan kambing yang tidak berakal. Ia memasuki kota dan bergaul dengan penduduknya, lalu keadaannya kembali menjadi lebih baik daripada sebelumnya, karena mereka mengetahui keutamaan yang ada padanya, sehingga mereka memuliakannya, mengagungkannya, dan sering mengunjunginya. Sarana-sarana hidupnya pun kembali. Kemudian ia melihat sekelompok orang yang akan berlayar ke kotanya, lalu mereka bertanya apakah ada sesuatu yang ingin ia tuliskan kepada keluarganya. Ia berkata: "Sampaikanlah ini: Hendaklah apa yang kalian usahakan dan kalian miliki adalah sesuatu yang, apabila kapal kalian karam dan kalian tenggelam, ia berenang bersama kalian."
+
+## Plutarkhos {.judul-bab}
+
+Ia membuat seekor sapi jantan dari tanah liat, lalu mempersembahkannya pada hari penduduk negerinya mempersembahkan kurban kepada berhala-berhala mereka. Mereka pun mencelanya. Ia menjawab bahwa menyembelih makhluk hidup yang bernapas demi sesuatu yang tidak hidup adalah perbuatan buruk.
+
+## Sekundos {.judul-bab}
+
+Ia telah bersumpah atas dirinya untuk tidak berbicara. Kabarnya sampai kepada Raja Hadrianus, lalu raja memerintahkan agar ia dihadirkan dan bersungguh-sungguh agar ia mau berbicara kepadanya, tetapi ia tidak melakukannya. Raja memerintahkan agar ia dibunuh, dan secara diam-diam berpesan kepada algojo: "Jika ia berbicara ketika engkau mengayunkan pedang kepadanya, bunuhlah dia; dan jika ia tetap dalam diamnya, kembalikanlah dia kepadaku." Algojo membawanya pergi, mengayunkan pedang kepadanya, dan menakut-nakutinya, tetapi ia tidak mengucapkan satu huruf pun. Maka algojo mengembalikannya kepada raja. Raja memuliakan dan mengagungkannya, lalu bertanya kepadanya tentang berbagai masalah. Ia menjawabnya secara tertulis dan tetap dalam diamnya.
+
+## Themistios {.judul-bab}
+
+Makna nama ini adalah "orang yang beriman kepada Allah". Ia adalah penafsir kitab-kitab Aristoteles sang bijak dengan penafsiran yang paling baik dan paling mendalam yang mungkin, disertai penelitian yang menyeluruh. Ia adalah juru tulis Raja Julianus, sebagaimana telah kami sebutkan sebelumnya.
+
+Para bijak bersandar pada syarahnya atas kitab-kitab Aristoteles hanyalah karena ia yang paling mampu menangkap isyarat-isyarat dan lambang-lambang Aristoteles menurut pendapat Aristoteles sendiri. Hanya saja, ia memilih pendapat orang yang menyatakan bahwa prinsip-prinsip itu ada tiga: materi, bentuk, dan ketiadaan. Perbedaan antara ketiadaan khusus, seperti ketiadaan bentuk kapal pada besi, dan ketiadaan mutlak sudah jelas.
+
+Ia berpendapat bahwa falak-falak terjadi dari keempat unsur, bukan unsur-unsur yang terjadi dari falak-falak. Maka yang dominan pada falak adalah unsur api, sebagaimana yang dominan pada benda-benda tersusun di alam bawah adalah unsur tanah. Bintang-bintang adalah api yang menyala, yang terjadi dari susunan-susunannya dengan cara yang tidak dapat dimasuki keterurai, karena bintang-bintang tidak menerima kejadian, kerusakan, perubahan, dan peralihan wujud. Jika tidak demikian, tabiat-tabiat itu satu, dan perbedaannya kembali kepada apa yang telah kami sebutkan.
+
+Dinukil dari Aristoteles dan murid-muridnya bahwa di seluruh alam terdapat satu tabiat umum, dan setiap spesies tumbuhan dan hewan memiliki tabiat khusus yang mengaturnya dengan pengaturan alami.
+
+## Iskandar dari Aphrodisias {.judul-bab}
+
+Ia berasal dari kota Aphrodisias. Ia adalah penafsir seluruh kitab Aristoteles sejauh batas yang mungkin. Iskandar hidup pada zaman Galen, dan antara dia dan Galen terjadi perdebatan-perdebatan. Ia sering mengolok-olok Galen dan menamainya "kepala bagal" karena besarnya otaknya. Themistios dan Iskandar adalah murid kitab-kitab Aristoteles sang bijak.
+
+Iskandar berkata: Apabila engkau ingin mengetahui apa yang ada pada sahabatmu, ceritakanlah hal yang mustahil di tengah-tengah pembicaraan. Jika ia mengingkarinya, ia berakal; jika tidak, ia dungu.
+
+Seluruh kaum Peripatetik (*al-mashshāʾūn*) mengagungkannya. Abū ʿAlī ibn Sīnā memuliakan dan memujinya. Demikian pula Themistios, sang Syaikh memujinya dan sangat berterima kasih kepadanya. Di salah satu perkataannya ia juga berkata tentang keduanya: "Kami telah menyusun sebuah kitab yang kami namai *al-Inṣāf*. Di dalamnya kami membagi para ulama menjadi dua golongan: kaum Timur dan kaum Barat. Aku menjadikan kaum Timur menyanggah kaum Barat, hingga ketika yang benar telah nyata, aku tampil dengan keputusan yang adil." Kitab itu memuat hampir dua puluh delapan ribu masalah. Kemudian, tidak lama sesudah itu ia berkata: "Kitab itu memuat [penjelasan tentang] lemahnya ringkasan-ringkasan kaum Baghdad, kekurangan mereka, dan kebodohan mereka. Sekarang, sesudah kitab itu hilang, aku tidak mungkin mengulanginya. Akan tetapi, aku menyibukkan diri dengan orang-orang seperti Iskandar, Themistios, Yaḥyā al-Naḥwī, dan yang semisal mereka." Kemudian sesudah itu ia berkata: "Adapun Abū Naṣr al-Fārābī, kita wajib meyakininya dengan penuh pengagungan. Ia tidak dapat disejajarkan dengan orang-orang itu dalam satu gelanggang; ia hampir menjadi yang paling utama di antara para pendahulu yang telah berlalu."[^t42]
+
+[^t42]: CT: Al-Shahrazūrī meringkas paragraf ini dari surat Ibn Sīnā kepada Kiyā. Bandingkan Ibn Sīnā, "Kitāb al-Mubāḥathāt ʿan al-Shaykh al-Raʾīs Abī ʿAlī al-Ḥusayn ibn ʿAbd Allāh ibn Sīnā", dalam ʿAbd al-Raḥmān Badawī (ed.), *Arisṭū ʿinda al-ʿArab: Dirāsa wa-Nuṣūṣ Ghayr Manshūra*, cet. ke-2 (Kuwait: Wikālat al-Maṭbūʿāt, 1978), 120-122.
+
+Iskandar termasuk ulama besar dalam pendapat dan ilmu. Pendapatnya lebih kokoh dan perkataannya lebih kuat. Ia sepakat dengan Aristoteles dalam seluruh pendapatnya, dan menambahkan hujah atasnya bahwa Sang Pencipta Taʿālā mengetahui segala sesuatu, yang universal maupun yang partikular, dengan satu cara, sebagaimana yang telah ada dan yang akan ada; ilmu-Nya tidak berubah dengan berubahnya objek pengetahuan dan tidak menjadi banyak dengan banyaknya.
+
+Ia berkata: Setiap bintang memiliki jiwa, tabiat, dan gerak yang berasal dari jiwa dan tabiatnya. Ia sama sekali tidak menerima gerakan dari selainnya, melainkan bergerak dengan tabiat dan pilihannya sendiri. Gerakannya tidak berbeda-beda karena gerakannya berputar.
+
+Ia berkata: Karena falak meliputi apa yang ada di bawahnya dan waktu berlaku atas apa yang di bawahnya, sebab waktu adalah penghitung gerak-gerak; dan karena tidak ada sesuatu yang lain yang meliputi falak dan waktu tidak berlaku atasnya, maka falak tidak mungkin rusak dan tidak mungkin terjadi. Dengan demikian ia kekal dan azali.
+
+Ia berkata: Jiwa tidak berbuat kecuali dengan keikutsertaan badan, bahkan dalam pengonsepan dengan akal, karena hal itu bersama antara keduanya. Dengan ini ia mengisyaratkan bahwa sesudah berpisah dari badan, jiwa sama sekali tidak memiliki daya, bahkan daya akliah sekalipun. Dalam hal ini ia menyelisihi gurunya, Aristoteles, yang berkata: "Dari seluruh daya yang dimiliki jiwa, yang tetap bersamanya hanyalah daya akliah, dan kelezatan-kelezatannya di alam itu terbatas pada kelezatan-kelezatan akliah saja, karena ia tidak memiliki daya selain itu yang dengannya ia dapat merasa dan menikmati." Adapun para filsuf belakangan menetapkan kekekalan jiwa di sana bersama bentukan-bentukan yang telah menjadi watak (*hayʾāt malakiyya*).
+
+## Al-Syaikh al-Yunani (Plotinos) {.judul-bab}
+
+Ia terkenal sebagai pemilik banyak kata hikmah dan nasihat-nasihat yang berharga. Ia sezaman dengan Diogenes sang Kinik, dan juga muridnya, serta termasuk orang-orang yang mengambil hikmah darinya.
+
+Al-Syaikh al-Yunani berkata: Jiwa adalah substansi yang mulia lagi luhur, yang menyerupai lingkaran yang berputar pada pusatnya, hanya saja pusat itu tidak terhitung sebagai bagian lingkaran. Pusatnya adalah akal. Akal adalah lingkaran yang berputar pada pusatnya, dan pusatnya adalah Kebaikan Pertama. Akan tetapi, lingkaran jiwa bergerak, sedangkan lingkaran akal diam, menyerupai pusatnya. Lingkaran jiwa bergerak pada pusatnya, yaitu akal; dan lingkaran akal bergerak karena rindu kepada pusatnya. Dalam geraknya, lingkaran jiwa condong kepada akal, karena ia merindukan akal dan Kebaikan Pertama.
+
+Adapun lingkaran alam ini berputar mengelilingi jiwa, demi jiwa, dan merindukannya. Geraknya yang terus-menerus adalah kerinduan kepada jiwa, sebagaimana kerinduan jiwa kepada akal dan kerinduan akal kepada Sang Pencipta Taʿālā. Lingkaran alam ini adalah benda langit yang merindukan apa yang berada di luar dirinya agar dapat sampai kepadanya dan memeluknya. Karena itulah benda langit terjauh yang mulia bergerak dengan gerakan melingkar, karena ia mencari jiwa dari segala penjuru untuk mencapainya, lalu beristirahat kepadanya dan tenang di sisinya.
+
+Ia berkata: Sang Pencipta Taʿālā tidak memiliki bentuk dan perhiasan seperti bentuk segala sesuatu yang tinggi atau bentuk-bentuk yang ada di alam bawah, dan tidak memiliki daya seperti daya-daya mereka. Dia berada di atas setiap bentuk, perhiasan, dan daya. Demikian pula akal dan jiwa, yang keduanya adalah pancaran zat-Nya. Maka segala sesuatu yang tidak memiliki bentuk, perhiasan, dan rupa menyatu dengan penyatuan akliah yang maknawi.
+
+Al-Syaikh al-Yunani berkata: Yang gaib yang dicari terlipat di dalam yang tampak dan hadir.
+
+Abū Sulaymān al-Sijzī berkata: "Maknanya, segala sesuatu yang ada pada kita di sini melalui indra, ada pada kita di sana melalui akal. Hanya saja, yang ada pada kita adalah bayangannya. Sebab di antara sifat bayangan adalah bahwa ia kadang memperlihatkan kepadamu sesuatu yang dibayanginya lebih dari keadaan sebenarnya, kadang kurang dari keadaannya, dan kadang sesuai dengan kadarnya. Maka khayalan dan waham pun muncul dan keduanya menjadi pengganggu bagi keyakinan. Karena itu, perhatian kita dalam mencari kekekalan yang abadi dan wujud yang tanpa akhir seyogianya lebih sempurna dan lebih nyata. Sungguh, yang gaib itu terlipat di dalam yang tampak, dan dengan menelaah yang tampak ini, yang gaib itu menjadi benar."
+
+Ia berkata: Pencipta Yang Hakiki bukanlah salah satu dari segala sesuatu, tetapi Dia adalah segala sesuatu, karena segala sesuatu berasal dari-Nya. Orang-orang terdahulu yang utama telah benar dalam perkataan mereka: "Pemilik segala sesuatu adalah segala sesuatu itu seluruhnya," karena Dia adalah sebab keberadaannya dan sebab kerinduannya kepada-Nya, padahal Dia berbeda dari segala sesuatu seluruhnya. Karena akal adalah salah satu dari segala sesuatu, maka pada-Nya tidak ada akal, bentuk, dan perhiasan. Dia menciptakan segala sesuatu, karena Dia mengetahuinya, memeliharanya, dan mengaturnya, bukan dengan salah satu sifat. Kita menyifati-Nya dengan keutamaan-keutamaan hanyalah karena Dia adalah sebabnya, dan Dialah yang menjadikannya dalam bentuk, sehingga Dialah Penciptanya. Substansi-substansi akliah saling berbeda keutamaannya hanyalah karena berbedanya penerimaan mereka dari Cahaya Pertama, sehingga mereka menjadi memiliki tingkatan-tingkatan yang beragam. Maka segala sesuatu berbeda-beda menurut tingkatan dan pembeda, bukan menurut tempat seperti hal-hal indrawi. Sang Pencipta Taʿālā tidak berhingga, tetapi bukan seolah-olah Dia adalah tubuh yang terhampar; keagungan substansi-Nya hanyalah dengan daya dan kuasa, bukan dengan kuantitas. Maka Dia tidak memiliki bentuk dan rupa.
+
+## Zardusyt {.judul-bab}
+
+Sang utama berkata: "Aku adalah seorang laki-laki dari penduduk Azerbaijan, tempat matahari menjauh dari dataran-dataran tinggi, uap menebal, dan salju turun berguguran. Hanya saja ayahku biasa mendatangi negeri kaum campuran di Harran. Ketika aku lahir dan tumbuh, ia membawaku bersamanya ke Harran. Di sana aku bersahabat dengan Furis sang bijak, yang menjauhkan diri dari dunia, lalu aku mewarisi hikmah darinya. Watakku diserbuki olehnya, sebagaimana benda-benda falak mengatur benda-benda pusat falak tempat kita berada, yakni bumi. Ketika aku mencapai daur tengah Saturnus, cahaya masuk ke dalam kalbuku. Sebab bintang naikku adalah Aquarius (*al-dalw*), dan Saturnus adalah pencinta dan penguasanya. Maka jiwaku mampu bermunajat kepada Cahaya Murni. Sebab tubuh terbatas bagi orang-orang yang memandangnya, sedangkan jiwa terhampar sampai ke tempat yang tidak dapat dicapai oleh hitungan para penghitung. Aku tidak meraih apa yang aku raih dengan suatu siasat, tetapi Saturnus dan Bulan berkumpul bagiku di rumah Aquarius, lalu Jupiter bersambung dengan Saturnus dari rumah Merkurius. Karena Merkurius dan Matahari jatuh pada kedudukan tertentu dari kelahiranku, aku ditimpa gangguan dari manusia, dan beberapa bagian tubuhku dibakar dengan api ketika aku kembali ke Azerbaijan, karena mereka menuntut dariku harta dan kitab-kitab hikmah. Aku mendatangi penduduk Azerbaijan, dan di tengah mereka rumahku dan kedua orang tuaku dikenal. Para bangsawan dengki kepadaku karena ilmu dan kedudukanku, dan mereka menghasut raja-raja untuk membunuhku. Mereka berkata: 'Ia memiliki ilmu kenabian.' Aku melarang mereka, tetapi mereka tidak berhenti. Pada saat itu aku memasuki gunung yang gelap, yang berselubung salju, berbalut rimbunan pepohonan, dan bergua kokoh. Aku mengirim pesan kepada mereka bahwa cahaya telah diutus ke dalam kalbuku dan bahwa kalian akan disiksa dengan salju.[^t43] Maka salju pun mendatangi mereka hingga nyawa-nyawa mereka naik ke dada. Pada saat itu aku tertarik ke Timur. Aku mendatangi Rustam, pemuka orang-orang merdeka di Dawaran-syahr, lalu menawarkan agama kepadanya. Ia berkata: 'Raja Timur yang paling agung dan paling bijak adalah Fisytasf (Vishtaspa). Ia termasuk orang yang pendapatnya tidak sesat dan pengaturannya tidak keliru. Jika ia menerimamu, kami pun menerimamu.'
+
+[^t43]: CT: Al-Jāḥiẓ mengaitkan klaim bahwa ancaman azab Zardusyt berupa salju dan dingin, bukan api, dengan keadaan geografis. Al-Jāḥiẓ, *Kitāb al-Ḥayawān*, ed. ʿAbd al-Salām Muḥammad Hārūn (Beirut: Dār al-Jīl, 1996), V, 66-67.
+
+"Kemudian Rustam bertanya kepadaku tentang perkara ayahnya. Sebelum aku, penduduk Timur tidak mengetahui sedikit pun tentang ilmu falak dan isinya. Aku mengambil sebuah alat ukur yang aku bawa dari Harran, yang aku warisi dari Furis sang bijak. Ia bertanya: 'Apakah ini?' Aku menjawab: 'Dengannya jiwa tertarik kepada Cahaya Yang Tertinggi.' Lalu aku mendapati bintang naiknya lemah, penguasanya lemah, dan mataharinya lemah. Aku berkata kepadanya: 'Terimalah; menolak itu buruk akibatnya sesudah kematianmu.' Kemudian ia terbunuh."
+
+Zardusyt putra Pourushaspa muncul pada zaman Raja Fisytasf. Ayahnya berasal dari Azerbaijan, dan ibunya, Dughdu, berasal dari Rayy. Kaum Zardusytiyah menyatakan bahwa mereka memiliki nabi-nabi dan raja-raja. Yang pertama dari mereka adalah Kayumarts; dialah orang pertama yang menguasai bumi, dan kedudukannya di Istakhr. Sesudahnya adalah Hushang putra Farwak, yang turun ke negeri India dan memiliki dakwah. Kemudian sesudahnya Tahmurats; kaum Sabiah muncul pada tahun pertama kerajaannya. Sesudahnya adalah saudaranya, Raja Jam, dan sesudahnya nabi-nabi dan raja-raja seperti Manucihr, yang turun ke Babilonia dan pada zamannya Musa muncul, hingga kerajaan sampai kepada Fisytasf. Zardusyt menyerunya, lalu Fisytasf menaatinya sesudah memenjarakannya, dan membebaskannya dari penjara ketika Zardusyt mengeluarkan kaki-kaki kuda Fisytasf dari perutnya.[^t44] Agamanya adalah beribadah kepada Allah ʿAzza wa Jalla, mengingkari setan, memerintahkan yang makruf, mencegah yang mungkar, dan menjauhi hal-hal yang keji.
+
+[^t44]: CT: Menurut penuturan al-Shahrastānī, Raja Vishtaspa mula-mula tidak menerima dakwah Zardusyt dan memenjarakannya. Atas perintah Zardusyt, secara luar biasa, kaki-kaki kuda raja masuk sepenuhnya ke dalam perutnya sehingga tidak tampak apa pun selain badannya. Raja membebaskannya dari penjara, dan ketika Zardusyt berdoa dengan nama Allah, kaki-kaki kuda itu keluar kembali dari perutnya. Raja pun beriman kepada Zardusyt dan berupaya menyebarkan ajaran Zardusyt. Al-Shahrastānī secara khusus menegaskan bahwa dalam peristiwa ini tidak ada sesuatu yang termasuk mukjizat. Al-Shahrastānī, *al-Milal wa-l-Niḥal*, I, 283, 284, 287.
+
+Ia berkata: "Cahaya dan kegelapan adalah dua pokok yang saling berlawanan, demikian pula Yazdan dan Ahriman. Keduanya adalah prinsip maujud-maujud alam. Susunan terjadi dari percampuran keduanya, dan bentuk-bentuk timbul dari susunan-susunan yang berbeda. Sang Pencipta Taʿālā adalah Pencipta cahaya dan kegelapan dan Pengada keduanya. Dia Esa, tidak ada sekutu, lawan, dan tandingan bagi-Nya. Tidak boleh keberadaan kegelapan dinisbahkan kepada-Nya. Kebaikan dan keburukan hanya terjadi dari percampuran cahaya dan kegelapan; seandainya keduanya tidak bercampur, alam tidak akan ada. Keduanya saling melawan dan saling mengalahkan hingga cahaya mengalahkan kegelapan dan kebaikan mengalahkan keburukan. Kemudian kebaikan terbebas menuju alamnya dan keburukan turun ke alamnya; itulah sebab kebebasan." Maka percampuran, yakni keterkaitan jiwa dengan badan, mereka jadikan permulaan, dan kebebasan mereka jadikan tempat kembali. Perkataan kaum Majusi berkisar pada percampuran dan kebebasan, sedangkan pendapat Zardusyt tentang para malaikat dan Sang Pencipta Taʿālā [terdapat dalam] sebuah risalah tanya-jawab.
