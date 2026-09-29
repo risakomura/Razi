@@ -4808,3 +4808,71 @@ Di antara perkataannya:
 Ayahnya adalah wazir Atsız, seorang Turki yang menguasai Khwārazm. Maḥmūd adalah seorang ahli hikmah, sastrawan, dan orang yang utama, termasuk murid Abū al-Barakāt si Yahudi. Ia dikuasai oleh semacam melankolia, lalu menyembelih dirinya sendiri dengan pisau pena pada suatu malam di musim dingin.
 
 Di antara perkataannya sebelum wafatnya: "Barang siapa menghendaki agar daya estimasi selaras dengan akal dalam segala keadaan, ia seperti orang yang dapat mendengar yang meminta kabar dari orang tuli, atau orang yang dapat mendengar yang ingin agar orang tuli mendengar segala yang ia katakan."
+
+## Abū al-Fatḥ ʿAbd al-Raḥmān al-Khāzin {.judul-bab}
+
+Ia adalah seorang budak Rum yang disayangi oleh ʿAlī al-Khāzin al-Marwazī. Ia menguasai ilmu-ilmu geometri dan menjadi sempurna di dalamnya, sedangkan ilmu-ilmu rasional tidak sesuai dengan tabiatnya meskipun ia bersungguh-sungguh mempelajarinya. Dialah yang menyusun zij yang otoritatif, *al-Zīj al-Sanjarī*, beserta seluruh gerak rata-rata dan koreksi yang ada di dalamnya. Dalam kitab itu terdapat hal-hal yang perlu ditinjau, kecuali perhitungan Merkurius dalam keadaan geraknya yang mundur, sebab perhitungan itu sesuai dengan pengamatan dan pengujian.
+
+Ia bersih dari ketamakan-ketamakan yang hina. Sultan Sanjar mengirimkan kepadanya seribu dinar, tetapi ia mengembalikannya seraya berkata: "Aku tidak memerlukannya. Aku masih memiliki sepuluh dinar, dan tiga dinar sudah mencukupiku setiap tahun. Di rumah itu tidak ada yang bersamaku kecuali seekor kucing."
+
+Ia makan daging tiga kali dalam sepekan dan setiap harinya ia makan dua potong roti. Istri Amir Lājī Ākhūr Bak mengirimkan kepadanya seribu dinar, dan ia pun mengembalikannya.
+
+Ia mengenakan pakaian para zahid dan tidak memakan kecuali makanan orang-orang saleh. Sang ahli hikmah al-Ḥasan al-Samarqandī termasuk murid-muridnya.
+
+## Muḥammad ibn Aḥmad al-Maʿmūrī al-Bayhaqī {.judul-bab}
+
+Dalam matematika ia mengikuti jejak Banū Mūsā. Ia menulis sebuah kitab tentang bangun kerucut yang belum pernah didahului oleh siapa pun, dan ʿUmar al-Khayyāmī mengakui keunggulannya dalam ilmu-ilmu itu.
+
+Kebetulan ia berangkat ke Isfahan untuk pengamatan bintang yang diperintahkan oleh Malikshāh, lalu ia tinggal di sana hingga masa Sultan Muḥammad. Ketika terjadi pembakaran orang-orang Bāṭiniyya dari kalangan penghuni gunung dan benteng, dan Sultan Muḥammad mulai melaksanakannya, al-Maʿmūrī melihat bahwa perjalanan derajat ascendennya bersambung dengan bintang sial dan sinar-sinar bintang sial. Ia takut akan persambungan itu, lalu keluar dari istana sultan, masuk ke rumah salah seorang temannya, dan menyendiri di salah satu sudut rumahnya. Ketika orang-orang menangkap seorang Bāṭinī dan menyeretnya ke tempat pembakaran, kaum perempuan dan anak-anak naik ke atap-atap untuk menonton. Seorang perempuan tersandung di atap rumah tempat al-Maʿmūrī berada. Perempuan itu pun marah dan berteriak: "Wahai orang-orang, di rumah ini ada seorang Qarmaṭī!" Mereka memasuki rumah itu, menangkapnya, dan membunuhnya. Ketika mereka mengeluarkannya dalam keadaan terbunuh, orang-orang sultan mengenalinya, lalu mereka mencela orang banyak. Namun, celaan tidak berguna, dan kewaspadaan tidak berguna terhadap ketetapan yang pasti, tidak pula dapat menunda ajal yang telah ditentukan, dan tidak ada tempat lari dari akibat-akibat.
+
+## Al-Imām Ẓahīr al-Dīn ʿAbd al-Jalīl ibn ʿAbd al-Jabbār al-Muftī {.judul-bab}
+
+Ayah dan pamannya adalah dua imam dari kalangan imam-imam besar. Sepanjang umurnya ia menyibukkan diri dengan menuntut hikmah. Ilmu-ilmu matematika sangat berpihak kepadanya, meskipun ia juga memperoleh bagian yang melimpah dari ilmu-ilmu rasional. Akhlaknya halus, dan waktunya ia curahkan untuk memberi dan mengambil faedah, beramal saleh, menekuni matematika, dan membaca al-Qur'an.
+
+## ʿAlī ibn Shāhak al-Qaṣṣārī al-Ḍarīr al-Bayhaqī {.judul-bab}
+
+Ia terserang cacar ketika berusia sembilan tahun, lalu menjadi buta. Ia mempelajari al-Qur'an, dasar-dasar sastra dan cabang-cabangnya, serta menghafal banyak doa dan riwayat. Kemudian ia menyibukkan diri menuntut hikmah tanpa pembimbing dan tanpa guru. Seseorang membacakan kepadanya satu pasal dari logika, lalu ia menghafalnya, mengulang-ulangnya, dan merenungkannya hingga ia memahami hakikat-hakikatnya. Dengan cara itu ia menguasai logika, fisika, dan ilmu ketuhanan. Kemudian ia menyibukkan diri dengan matematika. Seseorang membacakan kepadanya satu bangun, lalu ia menghafalnya dan membayangkannya hingga ia mencapai maksudnya. Demikian pula ia menguasai perhitungan-perhitungan astronomi, hingga ia mampu menentukan ascenden dan menghitung posisi bintang-bintang, dan ia biasa menghadiahkan almanak-almanaknya. Ini termasuk keajaiban, dan orang yang belum melihatnya tidak akan menerima kabarnya.
+
+## Abū al-Rayḥān Muḥammad ibn Aḥmad al-Bīrūnī {.judul-bab}
+
+Bīrūn adalah sebuah kota di Sind. Dikatakan bahwa ia berkulit sawo matang, bertubuh pendek, berjanggut lebat lagi putih, berperut besar, dan seorang tua yang telah lanjut usianya.
+
+Ia termasuk ahli geometri yang agung. Ia mengembara di negeri-negeri India selama empat puluh tahun dan menyusun banyak kitab. Ia memiliki beberapa perdebatan dengan Abū ʿAlī. Menyelami samudra ilmu-ilmu rasional bukanlah bidangnya, sebab setiap orang dimudahkan untuk apa ia diciptakan. Karya-karyanya melebihi muatan seekor unta, dan ia mendapat taufik dalam usaha yang patut disyukuri ini. Bīrūn, tempat ia tumbuh dan lahir, adalah sebuah negeri yang baik, yang memiliki hal-hal aneh dan menakjubkan. Tidaklah mengherankan, sebab mutiara berdiam di dalam kerang.
+
+Di antara perkataannya:
+
+"Mudah dan sukarnya sesuatu jarang bersifat mutlak; keduanya hanya disandarkan kepadanya sesuai dengan perbedaan keadaan, sehingga sesuatu menjadi mudah dari satu segi dan mustahil dari segi yang lain."[^t59]
+
+[^t59]: CT: Ucapan ini dikemukakannya ketika membicarakan fase-fase bulan. Lihat al-Bayhaqī, *Tatimmat Ṣiwān al-Ḥikma*, 62-63.
+
+Ia berkata: "Menelaah akhlak para ahli hikmah dan ulama menghidupkan sunah yang baik dan mematikan bidah."
+
+"Sunah-sunah yang saleh adalah tanda-tanda kebaikan dan kebenaran."
+
+"Setiap hari memiliki urusan yang hadir, dan setiap esok memiliki apa yang akan terjadi di dalamnya."
+
+Al-Ustādh Abū al-Rayḥān al-Bīrūnī: dalam matematika ia memiliki keunggulan yang debunya tidak dapat ditembus oleh kuda-kuda pacuan, dan lintasannya tidak dapat disusul oleh kuda-kuda ramping yang unggul. Allah Taʿālā telah menjadikan empat penjuru dunia baginya bumi yang tunduk, yang di atasnya awan-awan yang mengandung mencurahkan hujannya, dan tempat-tempat tumbuhnya bergoyang subur karenanya. Betapa banyak himpunan karyanya yang embunnya berkibar di atas taman bintang-bintang dan naungannya berkilauan di tengah langit.
+
+Telah sampai kepadaku[^t60] bahwa ketika ia menyusun *al-Qānūn al-Masʿūdī*, sultan yang syahid menghadiahinya perak sebanyak muatan seekor gajah. Namun, ia mengembalikannya ke perbendaharaan dengan alasan tidak memerlukannya, dan menolak kebiasaan menjadi kaya dengannya. Meskipun umurnya panjang dan kedudukannya agung dalam segala perkara, ia tekun menuntut ilmu-ilmu dan tegak menyusun kitab-kitab, membuka pintu-pintunya, menggambar bangun-bangunnya, dan mendekatkannya kepada pemahaman. Hampir tidak pernah tangannya lepas dari pena, matanya dari menelaah, dan hatinya dari berpikir, kecuali pada dua hari dalam setahun, yaitu Nawrūz dan Mihrajān, untuk menyiapkan kebutuhan penghidupan berupa makanan secukupnya dan sedikit pakaian. Kemudian, pada hari-hari lain sepanjang tahun, kebiasaannya adalah ilmu yang menyingkap tabir kemusykilan dari wajahnya dan menyingsingkan lengan bajunya dari kekangan ketertutupan.
+
+[^t60]: CT: Karena al-Shahrazūrī menukil entri ini dari *Itmām Tatimmat Ṣiwān al-Ḥikma*, ungkapan "telah sampai kepadaku" harus dipahami sebagai ucapan penyusun *al-Itmām*.
+
+Kadi Bashīr ibn Yaʿqūb al-Bawādirī al-Naḥwī menuturkan dalam *al-Dustūr* dari sang fakih Abū al-Ḥasan ʿAlī ibn ʿĪsā al-Walwālijī, yang berkata: "Aku masuk menemui Abū al-Rayḥān ketika ia sedang menghadapi sakaratul maut. Napasnya telah tersengal dan dadanya telah sesak. Dalam keadaan itu ia berkata kepadaku: 'Bagaimana dahulu engkau menerangkan kepadaku pada suatu hari perhitungan yang fasid itu?'[^p33] Aku berkata: 'Maafkanlah aku dari hal itu.' Ia berkata: 'Ulangilah, agar aku mengajarimu akar irasional dan akar rasional.' Aku berkata kepadanya karena kasihan: 'Dalam keadaan seperti ini?' Ia berkata kepadaku: 'Wahai engkau, aku meninggalkan dunia dalam keadaan mengetahui masalah ini, bukankah itu lebih baik daripada aku meninggalkannya dalam keadaan tidak mengetahuinya?' Maka aku mengulanginya, lalu ia menghafalnya, dan ia mengajariku apa yang telah ia janjikan. Aku pun keluar dari sisinya, dan ketika aku masih di jalan, aku mendengar ratap tangis."
+
+[^p33]: CP: Teks Arab di sini berbunyi *ḥisāb al-jadhrāt al-fāsida* ("perhitungan akar-akar yang fasid"), dan terjemahan Turki mengikutinya. Dalam versi yang lebih dikenal dari kisah ini (Yāqūt, *Muʿjam al-Udabāʾ*), yang ditanyakan al-Bīrūnī kepada sang fakih adalah *ḥisāb al-jaddāt al-fāsida*, yaitu perhitungan bagian warisan para nenek yang tergolong *fāsida* dalam ilmu faraid. Versi ini lebih sesuai dengan kedudukan penanya sebagai seorang fakih. Terjemahan di sini membiarkan ungkapan itu umum.
+
+Adapun kemasyhuran kedudukannya dan keagungan martabatnya di sisi para raja, telah sampai kepadaku tentang tingginya kedudukannya di sisi mereka bahwa Shams al-Maʿālī Qābūs ibn Wushmgīr ingin mengambilnya secara khusus untuk menjadi teman majelisnya dan mengikatnya di istananya, dengan ketentuan bahwa ia memiliki kekuasaan yang ditaati atas segala yang dicakup oleh kerajaannya. Namun, ia menolak dan tidak menurutinya. Ketika ia merelakan dirinya untuk hal itu bagi Khwārazmshāh, Khwārazmshāh pun menampungnya di istananya dan menempatkannya bersamanya di kediamannya.
+
+Suatu hari Khwārazmshāh datang sambil minum di atas punggung tunggangannya, lalu memerintahkan agar Abū al-Rayḥān dipanggil dari kamarnya. Ia agak terlambat, sehingga raja membayangkan hal itu tidak sebagaimana mestinya, dan ia pun hendak turun dari tunggangannya. Abū al-Rayḥān segera mendahuluinya keluar dan memohon kepadanya demi Allah Taʿālā agar ia tidak melakukannya. Khwārazmshāh pun mengutip perkataan seorang penyair:
+
+> Ilmu termasuk kekuasaan yang paling mulia; setiap makhluk datang kepadanya, sedang ia tak peduli.
+
+Kemudian ia berkata: "Seandainya bukan karena tata upacara duniawi, aku tidak akan memanggilmu, sebab ilmu itu tinggi dan tidak diungguli." Seakan-akan ia telah mendengar kisah al-Muʿtaḍid ketika berjalan-jalan di taman. Ia telah meletakkan tangannya di tangan Thābit ibn Qurra al-Ḥarrānī, lalu tiba-tiba ia menarik dan melepaskannya. Thābit bertanya: "Apa yang terjadi, wahai Amirulmukminin?" Ia menjawab: "Tanganku berada di atas tanganmu, padahal ilmu itu tinggi dan tidak diungguli."
+
+Ketika sultan terdahulu (Maḥmūd) menahannya sebagai orang kepercayaannya, ia biasa bercakap-cakap dengannya tentang apa yang terlintas dalam pikirannya mengenai langit dan bintang-bintang. Diceritakan bahwa seorang utusan datang kepadanya dari negeri Turki yang paling jauh, lalu menuturkan di hadapannya apa yang ia saksikan di seberang lautan ke arah kutub,[^p34] yaitu bahwa matahari beredar di atas bumi dalam keadaan tampak pada setiap putarannya, sehingga malam pun tiada. Sultan, sesuai dengan kebiasaannya bersikap keras dalam agama, segera menuduh orang itu ateis dan Qarmaṭī, padahal kaum itu bersih dari bencana-bencana tersebut. Hingga Abū Naṣr ibn Mishkān berkata: "Orang ini tidak mengemukakannya sebagai pendapat yang ia yakini, tetapi ia menuturkannya dari penyaksian," lalu ia membaca firman Allah Taʿālā: *"…didapatinya (matahari) bersinar di atas suatu kaum yang tidak Kami buatkan suatu pelindung bagi mereka dari (cahaya matahari) itu"* (al-Kahf: 90). Sultan lalu bertanya kepada Abū al-Rayḥān tentang hal itu. Ia pun menjelaskannya secara ringkas dan menetapkannya dengan cara yang meyakinkan. Sultan Maḥmūd pada sebagian waktu pandai mendengarkan dan mau bersikap adil, maka ia menerima penjelasan itu, dan pembicaraan antara dia dan sultan pun berakhir pada saat itu.
+
+[^p34]: CP: Teks Arab menyebut "kutub selatan", sedangkan terjemahan Turki menyebut kutub utara. Fenomena matahari yang tidak terbenam yang dilaporkan oleh utusan dari negeri Turki yang jauh ini hanya dapat terjadi di kawasan kutub utara; karena itu di sini ditulis "kutub" saja.
+
+Adapun Sultan Masʿūd, ia menaruh perhatian pada ilmu-ilmu perbintangan dan mencintai hakikat ilmu-ilmu. Suatu hari ia berbincang dengannya tentang masalah ini, yaitu sebab perbedaan panjang malam dan siang di berbagai tempat di bumi, dan ia ingin agar apa yang tidak dapat ia lihat dengan mata menjadi jelas baginya dengan bukti. Abū al-Rayḥān berkata kepadanya: "Engkau pada hari ini satu-satunya yang menguasai timur dan barat, dan yang sesungguhnya berhak atas nama raja bumi. Maka sangat layak bagi kedudukan ini untuk memilih pengetahuan tentang jalannya perkara, perubahan keadaan malam dan siang, serta kadar-kadarnya di kawasan yang berpenghuni."
+
+Pada saat itu ia menyusun untuknya sebuah kitab tentang perhitungan malam dan siang, dengan cara yang jauh dari pokok-pokok bahasan para ahli nujum dan dekat kepada pemahaman orang yang tidak menyukai, tidak memercayai, dan tidak terbiasa dengannya. Sultan yang syahid itu mahir dalam bahasa Arab, sehingga mudah baginya memahami kitab itu, dan ia pun melimpahkan pemberian kepadanya. Demikian pula, atas perintahnya ia menyusun sebuah kitab tentang konsekuensi-konsekuensi kedua gerak. Itu adalah kitab yang agung, yang tidak dapat dilampaui, sebagian besar kata-katanya dipetik dari ayat-ayat Kitab Allah Taʿālā. Kitabnya yang berjudul *al-Qānūn al-Masʿūdī* mencukupi dari sebagian besar kitab dalam ilmu perbintangan atau ilmu hitung. Kitabnya yang lain, yang disebut *al-Dustūr*, yang ia susun atas nama Shihāb al-Dawla Abū al-Fatḥ Mawdūd, putra sultan yang syahid, menghimpun segala keindahan.
