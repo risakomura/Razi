@@ -5120,3 +5120,111 @@ Syaikh, semoga Allah meninggikan derajatnya, dijuluki Khāliq al-Barāyā (Penci
 Pada masa kecilnya ia mengembara untuk menuntut ilmu dan hikmah ke Marāgha, lalu belajar di sana kepada Majd al-Dīn al-Jīlī, dan ke Isfahan. Telah sampai kepadaku bahwa di sana ia membaca *al-Baṣāʾir* karya Ibn Sahlān al-Sāwī di hadapan Ẓahīr al-Fārisī. Allah lebih mengetahui hal itu, hanya saja kitab-kitabnya menunjukkan bahwa ia banyak merenungkan *al-Baṣāʾir*.
 
 Ia mengembara ke berbagai kawasan, bersahabat dengan kaum sufi dan mengambil faedah dari mereka, hingga dirinya memperoleh kecakapan untuk berpikir secara mandiri dan menyendiri. Kemudian ia menyibukkan diri dengan latihan-latihan ruhani, khalwat, dan perenungan, hingga ia sampai ke puncak kedudukan para ahli hikmah dan ujung penyingkapan para wali. Inilah kabar tentang syaikh dalam kedua hikmah tersebut.
+
+Adapun hikmah amaliah, ia termasuk orang-orang yang paling dahulu lagi pertama di dalamnya. Ia berpenampilan seperti al-Masīḥ dan bersifat seperti kaum qalandar. Ia memiliki latihan-latihan ruhani yang tidak sanggup dilakukan oleh orang-orang sezamannya. Di antaranya, ia berbuka sekali dalam sepekan, dan makanannya tidak lebih dari lima puluh dirham. Apabila tingkatan-tingkatan ahli hikmah diteliti, jarang didapati orang yang lebih zuhud atau lebih utama daripadanya.
+
+Ibn Raqīqa berkata: "Aku berjalan-jalan bersama Shihāb al-Dīn di masjid jami Mayyāfāriqīn. Ia mengenakan jubah pendek biru yang berlapis kapas, di kepalanya ada sehelai kain yang dipilin, dan di kakinya ada sandal. Seorang temanku melihatku, lalu datang ke sampingku dan berkata: 'Engkau tidak menemukan orang lain untuk diajak berjalan selain pendeta Majusi ini?' Aku berkata kepadanya: 'Celaka engkau! Ini adalah pemuka zaman, Shihāb al-Dīn al-Suhrawardī.' Ia menganggap besar perkataanku, merasa heran, dan segera berlalu."
+
+Ia tidak berpaling kepada dunia dan sedikit perhatiannya terhadapnya. Ia tidak peduli dengan pakaian dan makanan, dan tidak mengindahkan kemuliaan dan kepemimpinan. Adakalanya ia mengenakan mantel dan kopiah merah yang panjang, adakalanya jubah bertambal dengan secarik kain di kepalanya, dan adakalanya ia berpakaian seperti kaum sufi.
+
+Sebagian besar ibadahnya adalah lapar, berjaga malam, dan merenungkan alam-alam ketuhanan. Ia sedikit memperhatikan pandangan orang, senantiasa diam, dan sibuk dengan dirinya sendiri. Ia mencintai *samāʿ* dan nada-nada musik. Ia memiliki karamah-karamah dan tanda-tanda.
+
+Aku mendengar para ulama dari kalangan awam dan orang-orang yang tidak memiliki bagian dalam ilmu-ilmu hakiki berkata bahwa ia mengetahui ilmu *sīmiyāʾ*, dan sebagian mereka menyangka bahwa ia seorang penipu. Semua itu adalah khayalan dan ketidaktahuan akan kedudukan-kedudukan saudara-saudara ketelanjangan diri (*ikhwān al-tajrīd*); bahkan ia telah sampai ke puncak kedudukan-kedudukan mereka. Saudara-saudara ketelanjangan diri memiliki suatu kedudukan yang padanya mereka mampu mewujudkan bentuk apa pun yang mereka kehendaki. Kedudukan ini telah dicapai oleh Abū Yazīd al-Bisṭāmī, al-Ḥusayn ibn Manṣūr al-Ḥallāj, dan saudara-saudara ketelanjangan diri selain keduanya. Selama beberapa waktu aku hanya beriman kepada kedudukan ini, hingga Allah Taʿālā menolongku dengan keyakinan yang sempurna. Seandainya hal itu tidak termasuk rahasia yang wajib disembunyikan, niscaya aku sebutkan sesuatu dari keadaannya.
+
+Ia, semoga Allah Taʿālā menyucikan ruhnya, banyak berkelana dan berkeliling di berbagai negeri. Ia sangat merindukan untuk menemukan seorang rekan dalam ilmu-ilmunya, tetapi hal itu tidak ia dapatkan. Ia berkata di akhir *al-Muṭāraḥāt*: "Inilah usiaku telah mendekati tiga puluh tahun, dan sebagian besar umurku kuhabiskan dalam perjalanan, mencari kabar, dan menyelidiki seorang rekan yang memahami ilmu-ilmu ini. Namun, aku tidak menemukan seorang pun yang memiliki kabar tentang ilmu-ilmu yang mulia itu, tidak pula orang yang mengimaninya." Perhatikanlah perkataannya dan sangat heranlah karenanya. Semoga Allah Taʿālā merahmatinya, ia berada di puncak ketelanjangan diri dan di ujung penolakan terhadap dunia. Ia senang tinggal di Diyār Bakr; adakalanya ia menetap di Syam dan adakalanya di negeri Rum.
+
+Sebab terbunuhnya, menurut apa yang sampai kepada kami, adalah bahwa ketika ia keluar dari negeri Rum menuju Syam, ia memasuki Aleppo. Penguasanya ketika itu adalah al-Malik al-Ẓāhir, putra Ṣalāḥ al-Dīn Yūsuf, penguasa Mesir, Yaman, dan Syam. Ia mencintai sang Syaikh dan meyakininya. Sekelompok ulama Aleppo berkumpul bersamanya dan mendengarkan perkataannya. Dalam pembahasan-pembahasan, ia menyatakan secara terang keyakinan-keyakinan para ahli hikmah, membelanya, membodohkan pendapat para penentangnya, dan berdebat dengan mereka hingga membungkam mereka di majelis-majelis. Ditambah lagi dengan keajaiban-keajaiban yang ia tampakkan dengan kekuatan Ruh al-Qudus. Maka mereka sepakat untuk mengafirkannya dan membunuhnya karena dengki. Mereka menuduhnya melakukan *ʿazāʾim* (mantra-mantra untuk menundukkan jin) dan berkata bahwa ia telah mengaku sebagai nabi, padahal ia bersih dari hal itu. Allah Taʿālā yang akan membuat perhitungan dengan para pendengki, dan Dia-lah yang mencukupi (untuk menghadapi) mereka. Mereka menghasut sultan untuk membunuhnya, tetapi ia menolak. Maka mereka menulis surat kepada ayahnya, Ṣalāḥ al-Dīn, dan di antara yang mereka katakan: "Jika ia dibiarkan hidup, ia akan merusak agama." Ṣalāḥ al-Dīn pun menulis kepada putranya, memerintahkannya untuk membunuhnya. Kemudian ia menulis lagi kepadanya untuk kedua kalinya, memerintahkan hal yang sama, dan mengancam akan merebut Aleppo darinya jika ia tidak membunuhnya.
+
+Aku mendapati orang-orang berbeda pendapat tentang cara ia dibunuh. Sebagian mereka menyangka bahwa ia dipenjara dan tidak diberi makan; sebagian mengatakan bahwa ia sendiri menahan diri dari makan hingga wafat; sebagian mengatakan bahwa ia dicekik dengan tali busur; sebagian lagi mengatakan bahwa ia dibunuh dengan pedang; dan dikatakan pula bahwa ia dilemparkan dari benteng lalu dibakar. Rasulullah terlihat dalam mimpi mengumpulkan tulang-tulangnya dan meletakkannya di dalam lubang-lubang, dan dikatakan di dalam sebuah kantong, seraya bersabda: "Ini adalah tulang-tulang Shihāb al-Dīn." Orang yang melihat Nabi dalam mimpi itu adalah Syaikh Jamāl al-Dīn al-Jabalī, semoga rahmat Allah tercurah atasnya. Telah sampai kepadaku bahwa sebagian sahabatnya biasa berkata: "Abū al-Futūḥ adalah utusan Allah." Allah lebih mengetahui kebenaran hal itu.
+
+Antara dirinya dan Fakhr al-Dīn al-Mārdīnī, yang tinggal di Mārdīn, terjalin persahabatan dan pertemuan. Al-Fakhr biasa berkata kepada sahabat-sahabatnya: "Alangkah cerdas dan alangkah fasihnya pemuda ini! Aku tidak menemukan seorang pun yang sepertinya pada zamanku. Hanya saja aku khawatir, karena banyaknya kenekatan, keberaniannya yang melampaui batas, dan sedikitnya kehati-hatiannya, hal itu akan menjadi sebab kebinasaannya." Ia berkata: "Ketika kami berpisah di timur dan ia menuju Aleppo, ia berdebat dengan para fakih di sana, dan tidak seorang pun mampu menandinginya. Maka semakin banyaklah cercaan mereka terhadapnya. Al-Malik al-Ẓāhir pun menghadirkannya dan menghadirkan para pembesar, para fakih, serta orang-orang utama yang menguasai berbagai bidang, untuk mendengarkan pembahasan yang berlangsung di antara mereka. Ia berbicara dengan mereka panjang lebar, dan tampaklah bahwa ia memiliki keutamaan yang agung dan ilmu yang memukau. Kedudukannya di sisi al-Ẓāhir menjadi baik; ia mendekatkannya, dan ia menjadi orang yang berkedudukan di sisinya dan orang kepercayaannya. Maka semakin bertambah pula cercaan mereka terhadapnya. Mereka membuat berita acara tentang kekafirannya dan mengirimkannya ke Damaskus kepada Ṣalāḥ al-Dīn, dan mereka berkata: 'Jika ia dibiarkan, ia akan merusak keyakinan raja; dan jika ia dilepaskan, ia akan merusak wilayah mana pun yang ia datangi.' Mereka menambahkan banyak hal lain atasnya. Maka Ṣalāḥ al-Dīn mengirim surat kepada al-Ẓāhir, dengan tulisan tangan al-Qāḍī al-Fāḍil, bahwa Shihāb al-Dīn ini harus dibunuh dan tidak ada jalan sama sekali untuk melepaskannya. Ketika Shihāb al-Dīn telah memastikan keadaannya, ia memilih untuk dibiarkan di sebuah rumah dan tidak diberi makan dan minum hingga ia menjumpai Allah ʿAzza wa-Jalla, lalu hal itu dilakukan terhadapnya. Sesudah itu al-Ẓāhir membalas dendam kepada mereka, memenjarakan mereka, dan mengambil harta yang besar dari mereka." Allah lebih mengetahui kebenaran hal itu. Yang aku dapati ialah bahwa usianya sekitar tiga puluh enam tahun; dalam sebagian riwayat usianya tiga puluh delapan tahun, dan dikatakan pula lima puluh tahun.
+
+Ia bertubuh sedang dan berjanggut sedang, berwajah kemerahan, dan sering bepergian dengan berjalan kaki. Seandainya kami menceritakan karamah-karamahnya yang sampai kepada kami, niscaya pembicaraan ini akan panjang. Sebagian orang bodoh yang lalai telah mendustakannya. Ia dibunuh pada akhir tahun lima ratus delapan puluh enam, dan dikatakan pula lima ratus delapan puluh delapan Hijriah. Ia bermazhab Syafii, berilmu dalam fikih, hadis, dan usul, dan memiliki kecerdasan yang sangat tinggi.
+
+Telah sampai kepadaku bahwa ia ditanya tentang Fakhr al-Dīn al-Rāzī, lalu ia berkata: "Pikirannya tidak terpuji." Fakhr al-Dīn ditanya tentang dirinya, lalu ia berkata: "Pikirannya menyala dengan kecerdasan dan ketajaman." Telah sampai kepadaku pula bahwa sang Syaikh ditanya: "Siapakah yang lebih utama, engkau ataukah Abū ʿAlī ibn Sīnā?" Ia menjawab: "Dalam penalaran kami setara, atau aku lebih agung darinya; tetapi dalam penyingkapan dan cita rasa aku melampauinya." Ia memiliki banyak karya, dan inilah daftar kitab-kitabnya:
+
+(1) *al-Muṭāraḥāt*; (2) *al-Talwīḥāt*; (3) *Ḥikmat al-Ishrāq*; (4) *al-Lamaḥāt*; (5) *al-Alwāḥ al-ʿImādiyya*; (6) *al-Hayākil al-Nūriyya*; (7) *al-Muqāwamāt*; (8) *al-Ramz al-Mūmī*; (9) *al-Mabdaʾ wa-al-Maʿād*, dalam bahasa Persia; (10) *Bustān al-Qulūb*; (11) *Ṭawāriq al-Anwār*; (12) *al-Tanqīḥāt fī al-Uṣūl*; (13) sebuah kitab tentang tasawuf yang dikenal dengan *al-Kalima*; (14) *al-Bāriqāt al-Ilāhiyya*; (15) *al-Naghamāt al-Samāwiyya*; (16) *Lawāmiʿ al-Anwār*; (17) *al-Raqīm al-Qudsī*; (18) *Iʿtiqād al-Ḥukamāʾ*; (19) *Kitāb al-Ṣabr*; (20) *Risālat al-ʿIshq*; (21) *Risāla dar Ḥālat-i Ṭufūliyyat*; (22) *Risālat al-Miʿrāj*; (23) *Risāla Rūzī bā Jamāʿat-i Ṣūfiyān*; (24) *Risāla ʿAql-i Surkh*; (25) *Risāla Āwāz-i Par-i Jibrīl*; (26) *Risāla Partaw-nāma*; (27) *Risāla Lughat-i Mūrān*; (28) *Risālat al-Ghurba al-Gharbiyya*; (29) *Risāla Yazdān-Shinākht*; (30) *Risāla Ṣafīr-i Sīmurgh*; (31) *Risālat al-Ṭayr*; (32) sebuah risalah tentang tafsir beberapa ayat dari Kitab Allah ʿAzza wa-Jalla dan sebuah hadis dari Rasulullah; (33) *Risālat Ghāyat al-Mubtadī*; (34) *al-Tasbīḥāt wa-Daʿawāt al-Kawākib*; (35) *Takhayyurāt al-Kawākib wa-Tasbīḥātuhā*; (36) *Kitāb al-Tanqīḥāt fī al-Ḥikma*; (37) surat-menyurat kepada para raja dan masyayikh; (38) kitab-kitab tentang *sīmiyāʾ* yang dinisbatkan kepadanya; (39) *al-Alwāḥ al-Fārisiyya*; (40) *Tasbīḥāt al-ʿUqūl wa-al-Nufūs wa-al-ʿAnāṣir*; (41) *al-Hayākil al-Fārisiyya*; (42) doa-doa yang terpisah-pisah; (43) *al-Sirāj al-Wahhāj*, dan yang lebih kuat ialah bahwa kitab ini bukan miliknya; (44) *al-Daʿwa al-Shamsiyya*; (45) *al-Wāridāt al-Ilāhiyya*; (46) dikatakan bahwa ia memiliki *Kitāb al-Taʿlīqāt*; (47) sebuah kitab tentang *al-Munāfayāt*, yang belum kami temukan; (48) *Sharḥ al-Ishārāt* dalam bahasa Persia. Salah seorang kenalanku menyebutkan kepadaku bahwa kitab itu ada padanya, tetapi aku belum melihatnya, dan Allah lebih mengetahui kebenarannya. Inilah keseluruhan karyanya yang sampai kepada kami dan nama-nama karangannya yang kami dengar. Mungkin saja ia memiliki karya-karya lain yang belum sampai kepada kami.
+
+Ia memiliki syair-syair yang indah dan bagus, yang menunjukkan kebagusan tabiatnya dalam syair Arab dan Persia. Kami akan menyebutkan sebagian syair Arabnya; adapun syair Persianya tidak layak disebutkan di sini. Di antara syair yang ia gubah dalam bahasa Arab:
+
+> Selamanya ruh-ruh merindukan kalian, dan persatuan dengan kalian adalah wewangian dan arak.
+>
+> Hati para pemilik cinta merindukan kalian, dan kepada keindahan perjumpaan dengan kalian mereka bergembira.
+>
+> Aduhai sesalnya para pencinta! Mereka memikul beratnya cinta, sedangkan cinta itu membuka aib.
+>
+> Karena rahasia, jika mereka membukanya, darah mereka dihalalkan; demikianlah darah orang-orang yang membuka rahasia dihalalkan.
+>
+> Apabila mereka menyembunyikannya, air mata yang membuka aib bercerita tentang mereka di hadapan para pengadu.
+>
+> Wahai kekasih-kekasih kami, apakah yang dapat memperbaiki apa yang telah kalian rusak dengan ketidakpedulian kalian selain persatuan?
+>
+> Bermurahlah kepada orang-orang miskin kalian dengan perjumpaan, sebab si rindu bergembira ketika berjumpa dengan kalian.
+>
+> Ia telah merendahkan sayapnya untuk kalian, dan tiada dosa atas kalian merendahkan sayap bagi si rindu.
+>
+> Saksi-saksi penyakit telah berlaku atas mereka, dan padanya ada penjelasan bagi hal yang musykil dari urusan mereka.
+>
+> Maka kepada rida kalian jiwanya merasa lapang, dan kepada perjumpaan dengan kalian pandangannya menatap tinggi.
+>
+> Kembalilah dengan cahaya persatuan dari pekatnya kegelapan, sebab perpisahan adalah malam dan persatuan adalah pagi.
+>
+> Bersenang-senanglah, karena waktu telah menjadi indah dengan kedekatan kalian; minuman telah jernih dan gelas-gelas telah bening.
+>
+> Ia menjernihkan mereka, maka jernihlah hati mereka karenanya; dari cahayanya ceruk dan pelita.
+>
+> Tiada dosa bagi para pencinta jika cinta mengalahkan penyembunyian mereka, lalu gelora cinta membeberkan dan mereka pun membuka rahasia.
+>
+> Mereka bermurah dengan jiwa-jiwa mereka dan tidak kikir dengannya, ketika mereka melihat bahwa kemurahan itu menguntungkan.
+>
+> Penyeru hakikat telah menyeru mereka dengan suatu seruan, maka mereka pun berangkat pagi dan pulang petang dengan riang karenanya.
+>
+> Mereka menaiki bahtera-bahtera kesetiaan; air mata mereka adalah lautan, dan kerasnya rindu mereka adalah nakhoda.
+>
+> Demi Allah, mereka tidak meminta berdiri di pintu-Nya, hingga mereka dipanggil, lalu kunci pun datang kepada mereka.
+>
+> Mereka tak pernah terbuai kecuali dengan menyebut kekasih mereka, maka seluruh masa mereka adalah kegembiraan.
+>
+> Mereka hadir, padahal saksi-saksi pandangan mereka telah gaib; maka mereka pun tak lagi berselubung dan berteriak ketika melihat-Nya.
+>
+> Ia memfanakan mereka dari diri mereka, dan tersingkaplah bagi mereka tabir-tabir kekekalan, lalu ruh-ruh pun sirna.
+>
+> Bangkitlah, wahai teman minum, menuju arak, dan tuangkanlah ia ke dalam gelasnya; sungguh gelas-gelas telah berputar.
+>
+> Dari pohon anggur kemuliaan, dengan tempayan keberagamaan, bukan khamar yang diinjak-injak petani.
+>
+> Ia adalah khamar cinta yang azali, puncak suguhan teman minum; alangkah baiknya arak itu.
+>
+> Dialah yang pertama kali memabukkan Adam di surga keabadian, dan padanya dari arak itu ada jubah dan selendang.
+>
+> Demikian pula ia memabukkan Nuh di dalam bahtera, dan karenanya ia memiliki ratapan dan rintihan.
+>
+> Wahai sahabatku, tiada dosa atas pencinta jika pagi tampak di cakrawala persatuan.
+>
+> Ruh-ruh merindukan malakut-Nya, dan dengan perjumpaan dengan selain-Nya mereka tidak bergembira.
+>
+> Seakan-akan jasad dan hati mereka, dalam cahaya-Nya, adalah ceruk dan pelita.
+>
+> Makhluk-makhluk ini adalah kegelapan, dan hanya para ahli cinta yang di dalam kegelapan menjadi pagi.
+>
+> Barang siapa di antara mereka membuka rahasia dengan menyebut kekasihnya, darahnya halal dan mubah bagi pedang-pedang.
+
+Ia juga bersyair, semoga Allah merahmatinya:
+
+> Bagi cahaya-cahaya Nur Allah di dalam hati ada cahaya-cahaya, dan bagi rahasia di dalam rahasia para pencinta ada rahasia-rahasia.
+>
+> Ketika kami hadir untuk minum dalam sebuah majelis, dan rahasia-rahasia alam gaib mengelilingi kami,
+>
+> dan beredarlah kepada kami *qahwa*[^t62] makrifat, yang diedarkan oleh seorang penuang arak dari substansi akal,
+>
+> ketika kami meminumnya dengan mulut-mulut pemahaman, bersinarlah bagi kami darinya matahari-matahari dan bulan-bulan.
+>
+> Dan dalam kemabukan kami, ketika kami terhapus, menjumpai kami Yang Qadim, Yang Maha Mengetahui, Yang senantiasa memaafkan, Yang Mahaperkasa.
+>
+> Ia menyingkapkan tabir bagi kami hingga kami melihat-Nya dengan terang, dengan mata kejujuran yang tak terhalang oleh tirai-tirai.
+>
+> Kami pun gaib dengan-Nya dari diri kami dan memperoleh keinginan kami, dan sesudah itu tiada lagi jejak yang tersisa pada kami.
+>
+> Kami bersujud ketika Ia berfirman: "Bersenang-senanglah dengan melihat-Ku, sesungguhnya Aku adalah Tetangga kalian."
+
+[^t62]: CT: Kata *qahwa* dalam teks, sebelum memperoleh makna "kopi" yang dikenal sekarang dalam bahasa Arab, berarti minuman yang memabukkan dan menyenangkan, yakni arak.
