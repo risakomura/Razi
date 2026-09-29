@@ -5658,3 +5658,23 @@ Ia adalah seorang yang utama dan luas ilmunya, yang memadukan syariat dan filsaf
 > Pagi-pagi kebinasaan dan maut senantiasa mengintai; gelanggangnya adalah dunia, dan kitalah bola-bolanya.
 
 Ia berwajah tampan, bersikap angkuh terhadap para pencinta dunia, dan banyak merendah kepada orang-orang fakir. Pada akhir umurnya ia berhaji, dan ia wafat di Baghdad pada tahun enam ratus lima puluh empat dalam usia seratus dua puluh satu tahun. Aku mendengar hal itu dari sebagian muridnya yang tepercaya. Ia makan sekali sehari sesudah zuhur.
+
+## Kamāl al-Dīn ibn Yūnus {.judul-bab}
+
+Ia adalah seorang alim yang luas ilmunya dalam sebagian besar bidang, tetapi tidak menyusun kitab. Ia wafat pada tahun enam ratus tiga puluh sekian di Mosul.
+
+## Mawlānā Naṣīr al-Dīn Muḥammad al-Ṭūsī {.judul-bab}
+
+Ia adalah seorang yang utama dan luas ilmunya dalam sebagian besar ilmu, terutama matematika. Ia menyusun banyak kitab dalam berbagai bagian hikmah. Ia membangun observatorium di Marāgha dengan bantuan sekelompok orang utama, di antaranya Muʾayyad al-Dīn al-ʿUrḍī, seorang yang berilmu dalam matematika; Fakhr al-Dīn al-Akhlāṭī, yang lebih menekuni kedokteran; Najm al-Dīn al-Qazwīnī, yang lebih menekuni logika; serta Fakhr al-Dīn al-Marāghī dan Muḥyī al-Dīn al-Maʿarrī, yang keduanya lebih menekuni matematika.
+
+Naṣīr al-Dīn, semoga Allah Taʿālā merahmatinya, lahir di Ṭūs pada tahun lima ratus sembilan puluh tujuh. Ia pindah ke Nishapur dan belajar kepada Farīd al-Dīn Dāmād dan Quṭb al-Dīn al-Miṣrī, murid Imam Fakhr al-Dīn.
+
+Dari sana ia pindah ke negeri kaum Mulhid dan mengabdi kepada ʿAlāʾ al-Dīn ibn Muslim. Di sana ia memperoleh waktu luang, lalu menyibukkan diri menyusun *Sharḥ al-Ishārāt* dan *Tahdhīb al-Majisṭī*. Pada tahun enam ratus lima puluh tiga bangsa Mongol menaklukkan benteng-benteng itu, dan ia mendapat kedudukan di sisi bangsa Mongol serta diperintahkan untuk melakukan pengamatan bintang. Ia wafat pada tanggal tujuh belas Dhū al-Ḥijja tahun enam ratus tujuh puluh dua dan dimakamkan di makam Mūsā ibn Jaʿfar, semoga salam tercurah atas mereka berdua dan atas leluhur mereka, di luar kota Baghdad.
+
+## Kamāl al-Dīn ʿAbd al-Khāliq, yang Dikenal sebagai Ibn al-Dāʿī {.judul-bab}
+
+Ia adalah seorang Yahudi, ahli hikmah, penyair, dan berilmu dalam bagian-bagian kedokteran. Selama beberapa waktu ia tinggal dalam pengabdian kepada penguasa Mazkird, kemudian pindah ke pengabdian Hülegü, raja bangsa Tatar. Kemudian ia dikirim untuk mengabdi kepada Mangū, raja besar mereka yang tinggal di negeri Khiṭāy, dan ia wafat di sana. Di antara syairnya:
+
+> Cahaya ilmu-ilmu dan sinar pikiran memecah kepalaku, seakan-akan aku terhempas bagai gelombang di tengah hitamnya nasib.
+>
+> Nasibku adalah Hawa dan Adam bagi setiap kegelapan, seakan-akan kegelapan-kegelapan itu diciptakan dari nasibku.
