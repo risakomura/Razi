@@ -5500,3 +5500,93 @@ Singkatnya, orang ini tidak memperoleh sesuatu pun dari rahasia-rahasia para ahl
 Keadaan orang ini yang paling mengherankan adalah bahwa ia menyusun banyak kitab dalam hikmah yang membuat orang mengira bahwa ia termasuk ahli hikmah unggulan yang telah sampai ke puncak tingkatan dan ujung tujuan, padahal ia belum mencapai tingkatan yang paling rendah di antara mereka. Kemudian ia kembali dan membela mazhab Abū al-Ḥasan al-Ashʿarī sang mutakalim, yang tidak mengetahui mana di antara kedua ujungnya yang lebih panjang, sebab ia kosong dari kedua hikmah, hikmah penalaran maupun hikmah cita rasa. Ia tidak mengetahui cara menyusun definisi dan tidak mampu menegakkan demonstrasi; bahkan ia hanyalah seorang tua yang malang, yang bingung dalam mazhab-mazhab jahiliahnya, tempat ia melangkah sembarangan seperti unta yang rabun.
 
 Ketahuilah bahwa meskipun ia tidak memperoleh hikmah dalam kejelasannya, ia, semoga Allah Taʿālā merahmatinya, memiliki kesiapan yang besar dan jiwa yang kuat dalam menggali kehalusan-kehalusan dan faedah-faedah dari perkataan para ahli hikmah. Hanya saja, cacatnya adalah tidak adanya penelanjangan diri dan suluk, yang dengannya hati menjadi lapang; dan hal ini tidak dapat diperoleh kecuali dengan itu. Maka tidak heran jika ia tidak naik ke kedudukan-kedudukan mereka dan tidak memahami rahasia-rahasia mereka. Sebagian kerancuan yang ia kemukakan memang benar, hanya saja pada akhirnya ia tidak mampu menyempurnakannya karena tidak adanya prinsip yang menjadi landasan penelitian.
+
+Ia mengembara untuk menuntut ilmu ke Khurasan dan ke Marāgha, dan di sana ia belajar kepada Majd al-Dīn al-Jīlī selama beberapa waktu, hingga ia memperoleh kemandirian dalam menuntut ilmu dan berpikir sendiri. Kemudian ia berangkat untuk mengabdi kepada Sultan Ghiyāth al-Dīn dan saudaranya, Shihāb al-Dīn, yang keduanya adalah raja di negeri-negeri Ghūr. Sebagian besar penduduk kawasan itu adalah kaum Karrāmiyya yang menganut paham antropomorfisme. Ia mendapat kedudukan di sisi Ghiyāth al-Dīn, dan berkat persahabatan dengan Fakhr al-Dīn, sultan itu sedikit beranjak dari mazhab-mazhab Karrāmiyya.
+
+Kebetulan suatu hari Fakhr al-Dīn berceramah di sana dan mengatakan sesuatu yang bertentangan dengan mazhab mereka, lalu mereka bermaksud mencelakakannya. Ia pun melarikan diri dan meminta perlindungan kepada sultan, dan sultan mencari siasat untuk menyelamatkannya. Kemudian ia berangkat dari sana ke Ghazna dan mengajar di beberapa masjid selama beberapa waktu, hingga ia berhubungan dengan ʿAlāʾ al-Dīn Tekish Khwārazmshāh dan menjadi guru putranya, Muḥammad, hingga kerajaan beralih kepada Muḥammad. Maka ia memperoleh kedudukan yang luas dan harta yang banyak, hingga adakalanya ia berbicara kasar kepada sultan dan sultan menanggungnya.
+
+Kemudian ia berangkat ke Herat, dan sultan membangun untuknya sebuah madrasah di sana. Ia mengajar di sana hingga wafat, semoga Allah Taʿālā merahmatinya, pada tahun enam ratus enam Hijriah, dalam usia enam puluh tiga tahun. Ia dimakamkan di kaki gunung di Herat, dan ia berwasiat agar dimakamkan pada malam hari karena takut kepada orang banyak.
+
+Nasabnya bersambung kepada Abū Bakr al-Ṣiddīq, semoga Allah meridainya. Ia wafat dalam keadaan sarana-sarana dunia lengkap padanya, berupa harta, anak-anak, budak laki-laki, dan budak perempuan. Menjelang wafatnya ia memerdekakan sebagian atau seluruh mereka dan memberi masing-masing sesuatu. Abū Bakr adalah anaknya yang tertua, dan dialah yang mewarisi kedudukannya dalam mengajar dan memberi nasihat.
+
+Menurut apa yang sampai kepada kami, ia, semoga Allah Taʿālā merahmatinya, banyak makan dan banyak bersetubuh, serta mencintai kedudukan. Akhlaknya keras, sehingga ia menyakiti para pencari ilmu apabila mereka berdiskusi di hadapannya. Dialah yang berkata dalam melukiskan akhlaknya:
+
+> Aku mengadu kepada Allah tentang perangai yang mengubah diriku dan menghapus cahaya dari akal dan agamaku:
+>
+> panas yang kokoh dalam tabiat hati, yang muncul lalu tumbuh, lalu menyesatkanku dan menjatuhkanku.
+
+Diriwayatkan bahwa suatu hari salah seorang sahabatnya masuk menemuinya dan mendapatinya sedang menangis dengan sedih. Ia bertanya kepadanya tentang hal itu, lalu ia menjawab: "Sejak lama aku meyakini suatu keyakinan dalam beberapa persoalan, dan aku menyangka bahwa itulah yang benar dan selainnya salah, hingga sampai kepadaku perkataan salah seorang peneliti tentangnya, dan aku melihat bahwa keyakinanku selama masa itu batil. Maka apa yang membuatku aman bahwa seluruh ilmuku tidak seperti ini?"
+
+Aku berkata: Setiap ilmu yang diperoleh semata-mata melalui penelitian dan debat, tanpa suluk yang suci dan penelanjangan diri yang sempurna, beginilah hukumnya. Keyakinan tidak mungkin diperoleh hanya dengan membatasi diri padanya. Keyakinan dan ketenteraman jiwa hanya diperoleh melalui penyingkapan dan cita rasa. Maka hendaklah engkau, wahai saudaraku, bersegera kepada penelanjangan diri dan mengikhlaskan diri menuju jalan itu.
+
+Sebagian besar umurnya ia habiskan dengan kitab-kitabnya untuk menyusun karya dalam setiap bidang, hingga ia menyusun karya dalam ilmu-ilmu yang tidak ia ketahui hakikatnya. Kebenaran penilaian ini dibuktikan oleh karyanya *al-Sirr al-Maktūm fī al-Siḥr wa-al-Ṭilasmāt wa-al-Nīranjāt wa-Baʿḍ Khawāṣṣ al-Falak*. Aku yakin bahwa ia tidak memiliki rahasia-rahasia ilmu-ilmu ini. Sebagian besar kerancuan yang ia kemukakan terhadap para ahli hikmah berasal dari Abū al-Barakāt si Yahudi dan dari olahan pikirannya sendiri.
+
+Apa yang kami sebutkan tentang hakikat keadaannya ini tidak kami maksudkan untuk mencela, melainkan untuk memastikan jalan kebenaran, sebab jalan itu berada jauh di balik apa yang disibukkan olehnya dan oleh orang-orang semisalnya, yang tenggelam dalam urusan dunia dan membatasi diri pada penelitian semata.
+
+Di antara perkataannya yang baik: "Demi Allah, aku menyesal kehilangan kesibukan dengan ilmu pada waktu makan, sebab waktu dan masa itu berharga."
+
+Ia memiliki syair-syair dalam bahasa Arab yang tidak begitu bagus, di antaranya:
+
+> Ujung langkah akal-akal adalah belenggu, dan sebagian besar usaha para alim adalah kesesatan.
+>
+> Ruh-ruh kami dalam kelalaian dari jasad-jasad kami, dan hasil dunia kami adalah derita dan bencana.
+>
+> Kami tidak memperoleh apa pun dari penelitian kami sepanjang umur, selain bahwa kami mengumpulkan di dalamnya "katanya" dan "ia berkata".
+>
+> Betapa banyak tokoh dan daulah yang telah kami lihat, lalu semuanya binasa dengan cepat dan lenyap.
+>
+> Betapa banyak gunung yang puncak-puncaknya didaki orang-orang; orang-orang itu lenyap, sedang gunung tetaplah gunung.
+
+Ia juga bersyair:
+
+> Seandainya jiwaku merasa puas dengan bekal secukupnya yang mudah, niscaya ia tidak mendahului para tokohnya dalam kemuliaan.
+>
+> Seandainya dunia sesuai dengannya, niscaya ia tidak meremehkan kekurangan dan hartanya.
+>
+> Aku tidak memandang dunia dengan mata penghormatan, dan tidak pula takut akan keburukan dan kekacauannya.
+>
+> Itu karena aku mengetahui kefanaannya dan yakin akan kepergian dan keruntuhannya.
+>
+> Aku menginginkan perkara-perkara yang di sisinya masa menjadi kecil, dan seluruh falak menganggap besar untuk menggapainya.
+
+Ia juga bersyair:
+
+> Ruh-ruh kami tidak tahu ke mana perginya, sedang di dalam tanah jasad-jasad ini tersembunyi.
+>
+> Kejadian terlihat, lalu kerusakan mengikutinya; Allah lebih mengetahui, tiada kesia-siaan dalam ciptaan-Nya.
+
+Di antara kitab-kitabnya yang langka: *Tafsīr Sūrat al-Baqara ʿalā al-Wajh al-ʿAqlī lā al-Naqlī*, *Sharḥ Nahj al-Balāgha*, yang tidak selesai, *al-Milal wa-al-Niḥal*, dan *Muntakhab Kitāb Tankalūshā*. Allah lebih mengetahui.
+
+## ʿĪsā ibn ʿAlī ibn ʿĪsā ibn al-Jarrāḥ {.judul-bab}
+
+Syaikh ini adalah seorang tokoh besar dalam ilmu orang-orang terdahulu dan menghimpun berbagai bidang keutamaan. Ia adalah putra ʿAlī ibn ʿĪsā sang wazir. Di samping perhatiannya pada ilmu-ilmu ini, ia memiliki modal yang besar dalam ilmu hadis, ketinggian sanad, pengetahuan tentang qiraat, dan seluruh bidang sastra serta keindahan-keindahan lainnya. Ia senantiasa tinggal di rumahnya dan menjaga dirinya hingga wafat, sibuk memberi faedah dan mengajar meskipun keadaannya lusuh dan usianya telah lanjut.
+
+Ia berkata: "Aku telah menerjemahkan beberapa hal dari perkataan mereka," yakni para filsuf. Di antaranya perkataan salah seorang mereka: "Bahwa engkau tidak memerlukan sesuatu dan dicukupkan darinya lebih baik daripada engkau memerlukannya lalu diberi."
+
+Di antaranya perkataan yang lain: "Orang berakal lebih merasa akrab dengan kerasnya hidup disertai akal daripada dengan lembutnya hidup disertai kedunguan."
+
+Di antaranya pula: "Jika pemburu mencari akal untuk menangkap burung hingga menurunkannya dari angkasa, untuk menangkap ikan hingga mengeluarkannya dari dasar air, dan untuk menjinakkan binatang buas dan burung hingga keduanya menjadi jinak, mengapa orang berakal tidak mencari akal untuk memikat manusia hingga menjadikannya saudara dan sahabat yang tulus?"
+
+Seorang filsuf berkata: "Kenikmatan dunia itu ada enam. Tiga di antaranya membosankan, yaitu makan, minum, dan bersetubuh; dan tiga tidak membosankan, yaitu wewangian, pakaian, dan mendengar musik."
+
+## Ghulām Zuḥal dan Ibn Bīlis {.judul-bab}
+
+Ghulām Zuḥal berkata: "Langit adalah jisim yang berada di antara ujung bola Bulan hingga ujung bola alam. Seluruh bola langit, menurut apa yang benar bagi kami, ada sembilan, dan yang paling dekat kepada kita adalah bola Bulan."
+
+Sesudah itu aku[^t64] mendengar Ibn Bīlis[^t65] berkata: "Di bawah falak Bulan terdapat dua falak yang menjadi sebab pasang dan surut; keduanya memotong falak itu dua kali setiap sehari semalam." Ini termasuk pendapat-pendapatnya yang menyendiri, dan aku tidak menemukan seorang pun yang menyetujuinya dalam hal ini. Yang mengherankan dari orang ini adalah bagaimana ia menyelisihi orang-orang terdahulu, yang telah menegakkan demonstrasi yang berlawanan dengan klaimnya, padahal ilmu ini bersifat demonstratif, sedangkan ia tidak memiliki demonstrasi untuk menetapkan kedua falak itu.
+
+[^t64]: CT: Kata ganti "aku" di sini merujuk kepada penyusun *[Muntakhab] Ṣiwān al-Ḥikma* yang dinukil oleh al-Shahrazūrī, atau kepada al-Tawḥīdī, karena teks yang sama terdapat dalam *al-Muqābasāt* (al-Tawḥīdī, *al-Muqābasāt*, 232).
+
+[^t65]: CT: Dalam *al-Muqābasāt* karya al-Tawḥīdī (hlm. 232), nama ini tertulis Ibn Bukayr.
+
+Ia juga memiliki hal-hal lain yang ia ciptakan sebagai pendapat dari dirinya sendiri dan sangat ia kagumi, dan ia menyeru kepadanya dalam fisika dan ilmu ketuhanan. Abū Ḥayyān telah menyebutkan pendapat-pendapat ini dalam suratnya kepada salah seorang saudaranya. Orang ini, yakni Abū Saʿīd, pemilik pendapat-pendapat ini, wafat ketika sembilan malam telah berlalu dari bulan Dhū al-Qaʿda tahun tiga ratus delapan puluh enam.[^t66]
+
+[^t66]: CT: Dalam edisi *al-Muqābasāt* oleh Ḥasan al-Sandūbī (Kuwait: Dār Suʿād al-Ṣabāḥ, 1992), 387, pada indeks nama, kunyah lengkap Abū Saʿīd diberikan sebagai Ibn Bukayr Abū Saʿīd al-Munajjim (lihat pula pengantar D. M. Dunlop, *The Muntakhab Ṣiwān al-Ḥikmah of Abū Sulaimān as-Sijistānī: Arabic Text, Introduction and Indices*). Jika ini benar, orang yang wafat pada tahun 386 H, sebagaimana umumnya disebutkan dengan merujuk kepada teks ini, bukanlah Ghulām Zuḥal, melainkan Abū Saʿīd ibn Bukayr (Ibn Bīlis) al-Munajjim. Singkatnya, jika Abū Saʿīd yang disebut dalam teks adalah kunyah Ibn Bukayr (Ibn Bīlis) dan bukan kunyah Ghulām Zuḥal, masalah dua tanggal wafat Ghulām Zuḥal yang berbeda pun terpecahkan, yaitu 386 H dalam al-Sijistānī, al-Tawḥīdī, dan al-Shahrazūrī, dan 376 H dalam Ibn al-Qifṭī (hlm. 225). Sebab kunyah Ghulām Zuḥal dalam sumber-sumber bukanlah Abū Saʿīd, melainkan Abū al-Qāsim. Lihat Ibn al-Qifṭī, 224-225; Ibn al-Nadīm, *al-Fihrist*, 342. Tentang perbedaan penanggalan wafat Ghulām Zuḥal, lihat İbrahim Halil Üçer, *Ebû Hayyân et-Tevhîdî ve Felsefî Kişiliği*, tesis magister, Marmara Üniversitesi Sosyal Bilimler Enstitüsü, 2007, 80-81.
+
+Al-Ustādh Burhān al-Ḥaqq Fakhr al-Dīn al-Ghaḍanfar, semoga Allah Taʿālā melimpahkan kesucian atas jiwanya, berkata: "Perkataan orang yang menyatakan bahwa orang-orang terdahulu memiliki demonstrasi yang berlawanan dengan klaim orang itu tidaklah benar. Perkataan itu tidak sesuai dengan apa yang diyakini oleh orang-orang unggul, tidak sesuai dengan perkataan sang ahli hikmah Aristoteles ketika ia membolehkan jumlah bola lebih dari tujuh, dan tidak pula sesuai dengan Plato dan Ptolemeus ketika keduanya menisbatkan gerak kepada planet-planet. Lagi pula, orang itu, penyusun *al-Jāmiʿ al-Akbar* dan karya-karya lainnya, terlalu agung kedudukannya dan terlalu mulia martabatnya untuk disangka berbicara serampangan atau keliru. Bahkan ia berada di tingkatan tertinggi dalam hikmah, terutama dalam cabang-cabang matematika dan ilmu pelajaran. Ia memiliki kedudukan dalam berargumen serta kemandirian dalam pandangan dan perkataan. Siapa pun yang memiliki kecerdasan dan daya membedakan, sesudah meliputi pengetahuan orang-orang terdahulu dan yang kemudian, akan yakin bahwa orang itu terlalu agung kedudukannya untuk perkataannya dibatalkan dengan perkataan orang lain, bukan sebaliknya." Penulisnya berkata: "Aku menukilnya dari tulisan tangannya, semoga Allah Taʿālā menyucikan rahasianya."
+
+## Abū Tammām al-Nīsābūrī {.judul-bab}
+
+Ia termasuk ahli hikmah besar dan orang-orang yang unggul dalam bidang ini. Karya-karyanya banyak, di antaranya *Risāla fī al-Ḥudūd*, yang tidak seorang pun pernah menyusun karya sepertinya. Di antara perkataannya:
+
+Sebagian ahli hikmah berkata: "Gerak-gerak alami itu ada enam: gerak kejadian, gerak kerusakan, gerak layu, gerak menyusut, gerak berpindah tempat, dan gerak perubahan kualitas. Setiap gerak memiliki perbuatan khusus dari perbuatan-perbuatan alami. Demikian pula setiap batasan dari enam batasan itu memiliki kemuliaan, keutamaan, ilmu, adab, dan amal yang menunjukkan kekuatan dan kesempurnaannya."
