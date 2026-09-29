@@ -3246,3 +3246,241 @@ Zardusyt putra Pourushaspa muncul pada zaman Raja Fisytasf. Ayahnya berasal dari
 [^t44]: CT: Menurut penuturan al-Shahrastānī, Raja Vishtaspa mula-mula tidak menerima dakwah Zardusyt dan memenjarakannya. Atas perintah Zardusyt, secara luar biasa, kaki-kaki kuda raja masuk sepenuhnya ke dalam perutnya sehingga tidak tampak apa pun selain badannya. Raja membebaskannya dari penjara, dan ketika Zardusyt berdoa dengan nama Allah, kaki-kaki kuda itu keluar kembali dari perutnya. Raja pun beriman kepada Zardusyt dan berupaya menyebarkan ajaran Zardusyt. Al-Shahrastānī secara khusus menegaskan bahwa dalam peristiwa ini tidak ada sesuatu yang termasuk mukjizat. Al-Shahrastānī, *al-Milal wa-l-Niḥal*, I, 283, 284, 287.
 
 Ia berkata: "Cahaya dan kegelapan adalah dua pokok yang saling berlawanan, demikian pula Yazdan dan Ahriman. Keduanya adalah prinsip maujud-maujud alam. Susunan terjadi dari percampuran keduanya, dan bentuk-bentuk timbul dari susunan-susunan yang berbeda. Sang Pencipta Taʿālā adalah Pencipta cahaya dan kegelapan dan Pengada keduanya. Dia Esa, tidak ada sekutu, lawan, dan tandingan bagi-Nya. Tidak boleh keberadaan kegelapan dinisbahkan kepada-Nya. Kebaikan dan keburukan hanya terjadi dari percampuran cahaya dan kegelapan; seandainya keduanya tidak bercampur, alam tidak akan ada. Keduanya saling melawan dan saling mengalahkan hingga cahaya mengalahkan kegelapan dan kebaikan mengalahkan keburukan. Kemudian kebaikan terbebas menuju alamnya dan keburukan turun ke alamnya; itulah sebab kebebasan." Maka percampuran, yakni keterkaitan jiwa dengan badan, mereka jadikan permulaan, dan kebebasan mereka jadikan tempat kembali. Perkataan kaum Majusi berkisar pada percampuran dan kebebasan, sedangkan pendapat Zardusyt tentang para malaikat dan Sang Pencipta Taʿālā [terdapat dalam] sebuah risalah tanya-jawab.
+
+## Riwayat Ptolemeus {.judul-bab}
+
+Ptolemeus adalah seorang laki-laki yang terkemuka dan mahir dalam dua keahlian, geometri dan astronomi. Ia menulis banyak kitab, di antaranya sebuah kitab yang dikenal dengan nama *Megistē*, yang maknanya "yang agung lagi sempurna"; kitab itu diarabkan lalu disebut *al-Majisṭī*. Dialah yang memunculkan ilmu astronomi (*ʿilm al-hayʾa*), musik, dan hitung. Ia lahir dan tumbuh di Iskandariah yang agung di negeri Mesir. Ia melakukan pengamatan bintang di Iskandariah pada zaman Raja Hadrianus dan raja-raja lainnya, dan ia membangun di atas hasil-hasil pengamatan Hipparkhos yang dilakukannya di Rhodos. Ptolemeus bukanlah salah seorang raja dari dinasti Ptolemeus, sebagaimana disangka oleh sebagian orang; Ptolemeus hanyalah namanya, sebagaimana seseorang dinamai Kisra atau Kaisar.
+
+Ia bertubuh sedang, berkulit putih, panjang lengannya, dan halus kakinya. Di pipi kirinya terdapat tahi lalat merah. Janggutnya lebat dan hitam, gigi depannya renggang, dan mulutnya kecil. Ia baik ucapannya dan manis tutur katanya, keras amarahnya dan lambat ridanya. Ia banyak bertamasya dan berkuda, sedikit makan dan banyak berpuasa, harum baunya, dan bersih pakaiannya.
+
+Ia wafat dalam usia tujuh puluh delapan tahun.
+
+Dikatakan bahwa Ptolemeus dan Galen hidup pada zaman Hadrianus, pada tahun lima ribu enam ratus dua puluh sembilan. Setahun sesudah wafatnya muncul Ardasyir Babakan dan Decius (Diqyanus). Para penghuni gua (*aṣḥāb al-kahf*) hidup pada masa itu, lalu mereka terbangun dan keluar pada zaman Theodosius II, yaitu pada tahun lima ribu sembilan ratus empat puluh satu.
+
+### Adab Ptolemeus {.judul-pasal}
+
+Ia berkata: Seyogianya orang berakal merasa malu kepada Tuhannya apabila pikirannya terhubung dengan sesuatu yang bukan ketaatan kepada-Nya.
+
+Ia berkata: Orang berakal adalah orang yang menahan lisannya kecuali dari mengingat Allah Taʿālā, dan orang bodoh adalah orang yang tidak mengetahui kadar dirinya.
+
+Ia berkata: Keridaan seseorang terhadap dirinya sendiri bergandengan dengan kemurkaan Allah Taʿālā.
+
+Ia berkata: Setiap kali engkau semakin dekat kepada ajal, tambahlah amal untuk Allah.
+
+Ia berkata: Hikmah tidak singgah di hati orang dungu kecuali dalam keadaan hendak berangkat pergi.
+
+Ia berkata: Adab seseorang adalah teman akalnya dan pemberi syafaat baginya di sisi manusia.
+
+Ia berkata: Tidak mati orang yang menghidupkan ilmu, dan tidak menjadi fakir orang yang memiliki pemahaman.
+
+Ia berkata: Para ulama adalah orang-orang asing karena banyaknya orang bodoh di antara mereka.
+
+Ia berkata: Hikmah adalah pohon yang tumbuh di dalam hati dan berbuah pada lisan.
+
+Ia berkata: Ulama yang paling rendah hati adalah yang paling banyak ilmunya, sebagaimana tempat yang rendah adalah tempat yang paling banyak airnya.
+
+Ia berkata: Kenikmatan orang-orang bodoh seperti taman di tempat pembuangan sampah.
+
+Ia berkata: Janganlah berdebat kecuali dengan orang yang adil, janganlah menjawab kecuali orang yang mencari petunjuk, dan janganlah menitipkan rahasiamu kecuali kepada orang yang menjaganya.
+
+Ia berkata: Barang siapa ingin kekal, hendaklah ia menyiapkan hati yang sabar untuk menghadapi musibah-musibah.
+
+Ia berkata: Rumah yang sempit adalah kerisauan yang kecil.
+
+Ia berkata: Bergembiralah dengan kesalahan yang tidak engkau ucapkan lebih dari kegembiraanmu dengan kebenaran yang tidak engkau diamkan.
+
+Ia berkata: Apabila engkau marah, janganlah memanjangkan amarahmu hingga kepada dosa; dan maafkanlah apabila meninggalkan pembalasan bukan karena lemah.
+
+Ia berkata: Uban adalah janji temu terakhir dengan kefanaan.
+
+Ia berkata: Hati orang-orang merdeka adalah benteng-benteng rahasia.
+
+Ia berkata: Tangan-tangan akal memegang tali kekang jiwa-jiwa.
+
+Ia berkata: Orang yang menyembunyikan ilmu tidak yakin akan ketepatannya dalam ilmu itu.
+
+Ia berkata: Barang siapa menerima pemberianmu, ia telah membantumu dalam kebajikan dan kemurahan. Seandainya tidak ada orang yang menerima kemurahan, tidak akan ada orang yang bermurah hati.
+
+Ia berkata: Harapan adalah teman yang menghibur; sekalipun ia tidak menyampaikanmu [ke tujuan], engkau telah menikmatinya.
+
+Ia berkata: Rasa aman menghilangkan kesepian dalam kesendirian, dan rasa takut menghilangkan keakraban dalam kebersamaan.
+
+Ia berkata: Sebagaimana badan, apabila sakit, tidak dapat mengambil manfaat dari makanan dan minuman, demikian pula hati, apabila telah diikat oleh cinta dunia, tidak dapat mengambil manfaat dari nasihat.
+
+Ia berkata: Tidaklah pendapat-pendapat berdesakan atas suatu perkara yang tersembunyi kecuali ia akan menyingkapnya.
+
+Ia berkata: Manusia yang paling agung kedudukannya di dunia adalah orang yang tidak peduli di tangan siapa dunia berada.
+
+Ia berkata: Manusia itu dua macam: yang telah sampai tetapi tidak merasa cukup, dan yang mencari tetapi tidak mendapatkan.
+
+Ia berkata: Pendengki memandang lenyapnya nikmat orang lain sebagai nikmat bagi dirinya.
+
+Ia berkata: Barang siapa adabnya melebihi akalnya, ia seperti penggembala yang lemah di tengah kambing yang banyak.
+
+Ia berkata: Budak syahwat lebih hina daripada budak belian.
+
+Ia berkata: Manusia yang paling adil adalah orang yang berlaku adil kepada akalnya terhadap hawa nafsunya.
+
+Ia berkata: Pemberi syafaat adalah sayap bagi orang yang meminta.
+
+Ia berkata: Tidak ada sesuatu yang lebih baik balasannya di sisi Allah daripada engkau membalas orang yang berbuat buruk kepadamu dengan berbuat baik kepadanya, sementara ia terus-menerus berbuat buruk kepadamu.
+
+Ia berkata: Amal-amal di dunia adalah perdagangan akhirat; kematian adalah pintu akhirat; dan tidak akan beruntung pengumpul keburukan.
+
+Ia berkata: Jiwa tidak keluar dari angan-angan hingga ia masuk ke dalam ajal.
+
+Ia berkata: Mengetahui pahala yang ada ketika musibah membuat orang lupa akan musibah itu.
+
+Ia berkata: Jiwa yang bodoh adalah musuh yang paling memusuhi pemiliknya.
+
+Ia berkata: Niat adalah fondasi amal, dan amal adalah duta akhirat.
+
+Ia berkata: Keindahan ada pada lisan, dan kefakiran adalah [tiadanya] saudara.
+
+Ia berkata: Sakit adalah penjara badan, dan kerisauan adalah penjara ruh.
+
+Ia berkata: Jiwa adalah musuh yang paling kuat.
+
+Ptolemeus berkata: Alangkah baiknya seseorang bersabar dari apa yang ia inginkan, dan lebih baik lagi jika ia tidak menginginkan kecuali apa yang patut.
+
+Ia berkata: Orang bijak adalah orang yang bersabar apabila dikatakan kebenaran [tentang dirinya], bukan orang yang menahan amarah apabila difitnah.
+
+Ia berkata: Seseorang tidak membutuhkan raja lebih mulia daripada ia menjadi cukup dengan raja.
+
+Ia berkata: Ilmu di tempat asalnya seperti emas di tambangnya: ia tidak dapat digali kecuali dengan kepayahan dan jerih payah, kemudian ia wajib dimurnikan dengan pikiran sebagaimana emas dimurnikan dengan api.
+
+Ia berkata: Petunjuk Bulan lebih kuat dalam hal hari-hari; petunjuk Matahari dan Venus lebih kuat dalam hal bulan-bulan; dan petunjuk Jupiter dan Saturnus lebih kuat dalam hal tahun-tahun.
+
+Ia berkata: Kita akan ada pada zaman yang datang kemudian, yakni tempat kembali, karena keberadaan dan wujud yang hakiki adalah keberadaan dan wujud di alam itu.
+
+Ia mendengar sekelompok sahabatnya di sekitar kemahnya membicarakan keburukan tentang dirinya. Maka ia mengacungkan tombaknya agar mereka tahu bahwa ia telah mendengar, sehingga mereka menjauh darinya sejauh satu tombak dan berkata sesuka mereka.
+
+## Riwayat Medargis {.judul-bab}
+
+Medargis[^t45] berkulit sawo matang, berambut pirang kemerahan, berjanggut panjang, bertelinga besar, berkepala besar, bermata kecil, dan bertubuh kurus. Ia banyak diam, manis tutur katanya, dan tenang dalam berbicara. Gigi depannya indah. Di tangannya ada tongkat yang di ujungnya terdapat gambar bulan sabit. Ia wafat dalam usia delapan puluh tahun.
+
+[^t45]: CT: Tidak ada keterangan pasti tentang identitas sebenarnya Medargis. Berbagai teori dikemukakan bahwa ia mungkin seorang bijak Yunani, seorang imam kuil Mesir, seorang pendeta Zoroaster Persia yang melayani Anusyirwan, seorang zahid Kristen, atau seorang bijak India. Teori-teori ini dibahas oleh D. M. Dunlop di bawah judul "identitas Mahraris" dalam pengantar edisinya atas *Muntakhab Ṣiwān al-Ḥikma*. Nama ini juga ditulis dengan cara yang sangat beragam: dalam teks-teks Latin *Macdargis*, *Medargis*, *Medardus*, dan *Medarges*; dalam teks-teks Prancis *Magdarge*, *Macdarge*, *Madargue*, *Ardarge*, *Madarge*, *Sacdarge*, *Mardarge*, *Mardaige*, *Matdarge*, dan *Marcedarge*. Dalam terjemahan-terjemahan Inggris *Mukhtār al-Ḥikam* dikemukakan bahwa nama ini kemungkinan adalah Santo Medardus (w. 545), seorang cendekiawan yang menjadi uskup Noyon sekitar tahun 530. Adapun Cottrell mengisyaratkan bahwa nama ini mungkin menunjuk kepada seorang bijak India. Emily Cottrell, "al-Mubashshir ibn Fātik", dalam Henrik Lagerlund (ed.), *Encyclopedia of Medieval Philosophy: Philosophy Between 500 and 1500* (London, 2011), II, 816.
+
+Di antara perkataannya: "Dengan nama Pelindung hikmah, puncak segala nikmat dan rahmat, batas akhir karunia dan kebaikan, Yang Esa di setiap tempat, yang bermurah hati dengan kebaikan karena karunia-Nya, yang menjadikan syukur sebab bertambahnya pemberian dan anugerah-Nya, dan menjadikan kekufuran penyebab terhapusnya rezeki dan karunia-Nya."
+
+Ia berkata: Ada dua hal yang dengannya seseorang memperbaiki dunianya: adab yang dengannya ia meluruskan dirinya, dan kesungguhan yang dengannya ia memperbaiki penghidupannya. Ada pula dua hal yang dibutuhkan seseorang untuk tempat kembalinya: akal yang dengannya ia mengetahui bagiannya, dan kebersihan jiwa yang dengannya ia menundukkan kerakusannya.
+
+Ia berkata: Tampaknya wibawa dari para penguasa memutus kejahatan orang-orang jahat dan para pemberontak.
+
+Ia berkata: Kemuliaan asal-usul membantu adab berbuah.
+
+Ia berkata: Kekayaan adalah kebersihan jiwa dan penguasaan atas hawa nafsu.
+
+Ia berkata: Perhiasan muruah adalah seseorang menjaga dirinya dan menundukkan hawa nafsunya. Buahnya adalah apa yang ia peroleh berupa pujian yang baik, kecintaan yang lebih, dan akibat yang terpuji.
+
+Ia berkata: Orang yang layak menerima terima kasih adalah orang yang lapang tangannya dan yang kesantunannya mengalahkan amarahnya.
+
+Ia berkata: Diam pada waktunya, meskipun tidak ada kesalahan, lebih utama daripada ucapan yang benar tetapi tidak pada waktunya.
+
+Ia berkata: Cukuplah bagimu dari akalmu apa yang menjelaskan kepadamu jalan petunjukmu dari kesesatanmu.
+
+Ia berkata: Hal yang paling layak dijaga dan dimuliakan adalah ilmu yang dengannya terhimpun bagian dunia dan akhirat.
+
+Ia berkata: Barang siapa bermurah hati kepadamu dengan kasih sayangnya, ia telah menjadikanmu setara dengan dirinya.
+
+Ia berkata: Barang siapa baik niatnya, lurus jalannya; dan barang siapa lembut kata-katanya, ia berhak mendapat kecintaan dari semua orang.
+
+Ia berkata: Kebaikan terbaik yang engkau tanam adalah yang engkau mulai tanpa diminta.
+
+Ia berkata: Betapa banyak adab yang terabaikan karena buruknya pemeliharaan, sehingga mendatangkan kematian bagi pemiliknya.
+
+Ia berkata: Himpunan hasil usaha seseorang di dunia adalah berpegang teguh pada kasih sayang orang-orang yang beragama dan bermuruah.
+
+Ia berkata: Orang berakal tidak memberikan cinta yang tulus kecuali kepada orang-orang yang setia.
+
+Ia berkata: Perbaikilah dirimu dengan akalmu, dan jadikanlah adabmu seperti cermin yang dengannya engkau dapat melihat apa yang tersebar dari urusanmu.
+
+Ia berkata: Kehalusan budi adalah berdamai dengan musuhmu meskipun engkau yakin akan kekuatan dan kemampuanmu untuk menundukkannya. Sebagaimana cacat keberanian adalah tiadanya pertimbangan, cacat ilmu adalah hilangnya kesantunan dan muruah.
+
+Ia berkata: Mencari sesuatu yang tidak dapat dicapai adalah kepayahan dan kesulitan; demikian pula meluruskan orang bodoh melemahkan dan meletihkan akal.
+
+Ia berkata: Sebagaimana adab dan ilmu adalah [tanda] kebahagiaan yang paling nyata, demikian pula kesantunan dan kerendahan hati menghimpun kebajikan dan menjadi sebab tercapainya kedudukan yang baik.
+
+Ia berkata: Orang yang berbahagia adalah orang yang menundukkan syahwatnya dengan kesabaran dan mengatur urusannya dengan keteguhan.
+
+Ia berkata: Barang siapa buruk prasangkanya, keruh kehidupannya dan besar musibahnya.
+
+## Riwayat Gregorios, yang Berbicara tentang Ketuhanan {.judul-bab}
+
+Ia adalah seorang rahib Nasrani, uskup di Antiokhia, kemudian menjadi patriark di sana. Ia memiliki karya-karya tentang hikmah.
+
+Ia berkata: Barang siapa terjerat dalam harta, ia tidak akan luput dari kerisauan.
+
+Ia berkata: Suami yang rendah hati seperti kota yang dikelilingi tembok yang kokoh.
+
+Ia berkata: Jadikanlah Allah permulaan dan akhir urusanmu. Keuntungan umur adalah hidup hari demi hari. Kenalilah segala sesuatu, lalu pilihlah yang paling utama. Alangkah hinanya kefakiran, dan lebih buruk lagi kekayaan yang hina! Apabila engkau berbuat baik, ketahuilah bahwa engkau sedang meneladani Allah. Mintalah kebaikan dari Tuhanmu, niscaya engkau menjadi orang saleh. Kendalikanlah jasadmu dan ikatlah ia dengan belenggu. Kekanglah amarahmu agar ia tidak keluar dari akalmu. Luruskanlah pandanganmu, dan jadikanlah lisanmu timbangan. Buatlah penutup bagi kedua telingamu agar engkau tidak menjadi bahan tertawaan. Jadikanlah ilmu pelita bagi seluruh hidupmu. Janganlah menyangka dirimu selain apa adanya, karena engkau akan binasa. Pahamilah segala sesuatu dan lakukanlah apa yang patut. Jadikanlah dirimu orang asing dan muliakanlah orang-orang asing. Apabila perjalanan kapalmu lancar, waspadalah terhadap tenggelam pada saat itu. Seyogianya engkau menerima segala yang datang dari Allah dengan syukur. Tongkat seorang sahabat lebih baik daripada penghormatan orang jahat. Tekunlah mendatangi pintu-pintu para bijak; adapun pintu-pintu orang kaya, jangan. Tanggunglah cacian yang ringan, niscaya engkau banyak dipuji. Jagalah dirimu dan janganlah bergembira atas jatuhnya orang lain. Anugerah adalah engkau tidak mendengki, dan ketergelinciran adalah engkau menjadi pendengki.
+
+Apabila engkau mampu menanggung kekasaran orang yang mencacimu, perhatikanlah dengan cermat keheranan yang timbul pada pembencimu terhadapmu.
+
+Ia merasa gembira sekaligus sedih karena dicaci oleh seorang laki-laki dari kalangan orang-orang utama. Dikatakan kepadanya: "Mengapa demikian?" Ia menjawab: "Aku gembira karena aku dicaci tanpa kesalahan, dan aku sedih karena seorang laki-laki yang utama, bagaimana ia bisa jatuh serendah itu."
+
+Ia berkata: Apabila engkau memiliki kata hikmah, sertailah ia dengan dalil; jika tidak, letakkanlah tanganmu di atas mulutmu. Minyak menyalakan nyala pelita, dan bergaul dekat dengan perempuan menyalakan api syahwat. Barang siapa mencintai ketenangan, ia selamat dari anak-anak panah musuh; dan barang siapa berkubang dengan dunia, pukulan-pukulan musuh cepat datang kepadanya. Tumbuhan bergoyang karena dekat dengan air, dan syahwat bergejolak dan membesar karena perkataan perempuan. Hikmah menaburkan ilmu. Kesantunan dihimpun oleh kemuliaan jiwa, dan ia memadamkan dendam.
+
+## Adab Basileios {.judul-bab}
+
+Makna namanya adalah raja.
+
+Ia berkata: Buruk sekali seseorang berjaga-jaga dari makanan badan agar tidak membahayakan, tetapi tidak berjaga-jaga lebih dari itu terhadap ilmu, yang merupakan makanan jiwa, agar ia tidak menjadi batil dan membahayakan.
+
+Ia berkata: Buruk sekali bahwa nakhoda tidak melepaskan kapalnya bersama setiap angin, sedangkan kita melepaskan diri kita bersama setiap hal yang terlintas tanpa penyelidikan dan tanpa memilih.
+
+Ia berkata: Buruk sekali bahwa kita mencari kepastian tentang kebenaran setiap ilmu hingga kita merasa puas, tetapi kita menerima ilmu yang mendekatkan kepada Allah Taʿālā tanpa menyelidiki kebenarannya.
+
+Ia berkata: Seyogianya orang yang mengetahui bahwa badan bagi jiwa seperti alat bagi tukang mencari segala sesuatu yang menjadikan badan lebih bermanfaat dan lebih sesuai bagi perbuatan-perbuatan jiwa yang ada di dalamnya, dan lari dari segala sesuatu yang menjadikan badan tidak bermanfaat dan tidak sesuai untuk digunakan oleh jiwa.
+
+Ia berkata: Jika buruk apabila kita menunggang kuda lalu bukan kita yang menjalankan dan mengendalikannya, melainkan kudalah yang menjalankan dan mengendalikan kita, maka lebih buruk lagi apabila badan yang dipakaikan kepada kita inilah yang menjalankan dan mengendalikan kita, bukan kita yang menjalankan dan mengendalikannya.
+
+Ia berkata: Jika buruk apabila badan kotor oleh daki sementara pakaian bersih, maka lebih buruk lagi apabila jiwa kotor oleh daki aib-aib sementara badan berhias dari luar.
+
+Ia berkata: Jika kita memperhatikan seluruh anggota badan, terutama yang paling mulia di antaranya, maka lebih patut lagi kita memperhatikan seluruh bagian jiwa, terutama yang paling mulia di antaranya, yaitu akal.
+
+Ia berkata: Sebagaimana orang-orang yang hanya menggunakan indra badan tercegah dari marah oleh rasa takut kepada raja yang terindra apabila mereka berdiri di hadapannya, demikian pula orang yang menggunakan indra-indra jiwa wajib tercegah dari marah oleh rasa takut kepada Raja yang terpahami oleh akal, yang ia senantiasa berdiri di hadapan-Nya.
+
+Ia melihat seorang yang gemuk, lalu berkata: "Alangkah besarnya perhatianmu untuk meninggikan tembok penjaramu!"
+
+Ia berkata: Apabila engkau menangani seseorang dengan maksud memperbaikinya, seyogianya engkau tidak mengambil sikap orang yang hendak membalas dendam kepada musuh, tetapi sikap orang yang mengobati atau mengecos penyakit yang buruk padanya. Demikian pula apabila engkau menangani perbaikan dirimu sendiri, seyogianya engkau mengambil sikap orang sakit di hadapan tabib.
+
+Ia berkata: Sebagaimana perilakumu di majelis-majelis, perkumpulan-perkumpulan, dan pertemuan-pertemuan, demikian pula seyogianya perilakumu di tempat-tempat sepi.
+
+## Eukleides dari Tirus {.judul-bab}
+
+Dialah orang pertama yang berbicara tentang ilmu-ilmu matematika dan menjadikannya ilmu tersendiri yang bermanfaat bagi ilmu-ilmu lain, yang menjernihkan benak dan menyuburkan pikiran. Kitabnya dikenal dengan namanya. Dikatakan bahwa ilmu kitab ini dan bukti-buktinya sudah ada sebelum Eukleides, dan orang-orang terdahulu telah berbicara tentang ilmu-ilmu ini lama sebelum adanya Eukleides. Yang dilakukan Eukleides adalah menghimpun ilmu-ilmu kitab ini dari tempat-tempat yang terpencar, menyusunnya, merapikannya, memperbaikinya, dan mengolahnya dengan penambahan dan pengurangan. Maka jadilah ia dinisbahkan kepada sebuah kitab yang masyhur dan dikenal dengan ilmu ini.
+
+Seorang laki-laki berkata kepadanya: "Aku tidak akan berhenti berusaha untuk membuatmu kehilangan nyawamu." Ia menjawab: "Dan aku tidak akan berhenti berusaha untuk membuatmu kehilangan amarahmu."
+
+Ia berkata: Barang siapa ingin menjadi kekasihmu, ia sepakat denganmu tentang apa yang engkau cintai, sehingga kalian berdua bersepakat atas satu kekasih.
+
+Ia berkata: Perkara-perkara itu ada dua jenis: yang satu dapat ditanggalkan dan diganti dengan yang lain, dan yang lain diharuskan oleh keterpaksaan sehingga tidak dapat ditinggalkan. Merisaukan dan menyesali masing-masing dari keduanya tidak dapat dibenarkan oleh akal. Jika hal-hal yang terjadi termasuk yang terpaksa, apa gunanya merisaukan yang terpaksa? Dan jika tidak terpaksa, mengapa risau atas sesuatu yang dapat ditinggalkan?
+
+Ia berkata: Setiap hal yang luput darimu, yang engkau dapatkan penggantinya dan yang serupa dengannya dapat diperoleh, apa gunanya menyesali luputnya? Dan jika tidak ada penggantinya dan yang serupa dengannya tidak dapat diperoleh, apa gunanya menyesali sesuatu yang tidak ada jalan kepada yang serupa dengannya?
+
+Ia berkata: Apabila orang berakal tidak akan kekal bersama sesuatu pun dari urusan dunia, hendaklah ia mencukupkan diri dengan apa yang tidak dapat ditinggalkan dan meninggalkan apa yang dapat ditinggalkan.
+
+## Riwayat Luqman sang Bijak yang Disebut dalam al-Qur'an yang Agung {.judul-bab}
+
+Ia berkulit hitam, seorang Habasyah; asal-usulnya dari Nubia. Ia tumbuh, belajar, dan dididik di negeri Syam, dan wafat di sana; kuburnya di kota Ramlah, termasuk wilayah Palestina. Ia tinggal di pondok-pondok di tempat ini. Ia termasuk bekas budak dari kalangan orang Arab pertama di Syam, dan hidup pada zaman Dawud ʿalayhi al-salām. Dalam riwayat lain: ia adalah seorang budak hitam yang tebal bibirnya dan lebar telapak kakinya.
+
+Seorang laki-laki mendatanginya ketika ia sedang berada di sebuah majelis orang-orang yang ia ajak berbincang. Orang itu bertanya kepadanya: "Bukankah engkau yang dulu menggembalakan kambing di tempat anu dan anu?" Ia menjawab: "Ya." Orang itu bertanya: "Lalu apa yang membawamu sampai pada keadaan yang aku lihat ini?" Ia menjawab: "Jujur dalam berbicara, menunaikan amanah, dan diam dari apa yang tidak berguna bagiku."
+
+Yang lain berkata: Luqman adalah seorang yang hitam, berotot, tebal bibirnya, dan beradu kedua lututnya. Ia milik seorang laki-laki dari Bani Israil yang membelinya seharga tiga puluh dinar emas yang ditimbang. Tuannya biasa bermain dadu dan bertaruh padanya. Di depan pintunya mengalir sebuah sungai. Suatu hari ia bermain dengan taruhan bahwa jika kawannya mengalahkannya, ia harus meminum air yang ada di sungai itu atau menebus dirinya darinya; dan jika ia mengalahkan kawannya, kawannya wajib melakukan hal yang sama. Tuan Luqman pun kalah. Pemenang berkata kepadanya: "Minumlah air yang ada di sungai ini, atau tebuslah dirimu darinya." Ia berkata: "Tetapkanlah tebusannya." Orang itu berkata: "Kedua matamu aku cungkil, atau seluruh apa yang engkau miliki." Ia berkata: "Berilah aku tangguh hari ini." Orang itu berkata: "Itu hakmu." Maka ia melewati sore harinya dalam keadaan murung dan sedih. Tiba-tiba Luqman datang memikul seikat kayu bakar di punggungnya. Ia memberi salam kepada tuannya, lalu meletakkan bawaannya. Biasanya, apabila tuannya melihatnya, ia mengolok-oloknya, tetapi ia mendengar darinya kata demi kata hikmah sehingga ia merasa heran kepadanya.
+
+Ketika Luqman duduk di dekatnya, ia bertanya kepada tuannya: "Mengapa aku melihatmu murung dan sedih?" Tuannya berpaling darinya. Ia bertanya lagi untuk kedua kalinya, dan tuannya berpaling darinya. Ia bertanya untuk ketiga kalinya, dan tuannya berpaling darinya. Maka ia berkata: "Beritahukanlah kepadaku; barangkali aku memiliki jalan keluar untukmu." Tuannya pun menceritakan kisah itu kepadanya. Luqman berkata: "Janganlah bersedih, karena aku memiliki jalan keluar untukmu." Tuannya bertanya: "Apa itu?" Ia menjawab: "Apabila orang itu berkata kepadamu: 'Minumlah air yang ada di sungai ini,' katakanlah: 'Apakah aku harus meminum air yang ada di antara kedua tepi sungai, ataukah aliran yang mengalir ke dalamnya?' Ia pasti akan berkata: 'Minumlah air yang ada di antara kedua tepi sungai.' Apabila ia berkata demikian, katakanlah kepadanya: 'Tahanlah aliran air itu dariku agar aku dapat meminum air yang ada di antara kedua tepi sungai.' Ia tidak akan mampu menahan aliran air itu darimu, sehingga engkau terlepas dari apa yang engkau janjikan kepadanya." Maka hati tuannya menjadi lega.
+
+Ketika pagi tiba dan orang itu datang kepadanya, ia berkata: "Bangunlah, minumlah air sungai itu." Tuan Luqman bertanya: "Apakah aku harus meminum air yang ada di antara kedua tepi sungai, ataukah aliran airnya?" Orang itu menjawab: "Air yang ada di antara kedua tepi sungai." Ia berkata: "Kalau begitu, tahanlah aliran air itu dariku!" Dengan itu ia mengalahkannya dalam perbantahan, dan orang itu pun menghentikan tuntutannya. Maka tuannya memuliakan Luqman karenanya dan memerdekakannya. Itulah hikmahnya yang pertama kali tampak bagi manusia.
+
+Ia biasa mondar-mandir mendatangi Dawud dan menimba hikmah darinya. Ia mendatangi Dawud selama setahun, sementara Dawud sedang membuat baju besi, dan itulah permulaan pembuatan baju besi. Luqman tidak bertanya kepadanya: "Apakah ini?" dan Dawud pun tidak memberitahunya hingga ia selesai membuatnya. Lalu Dawud ʿalayhi al-salām mengenakannya pada dirinya, kemudian berkata dalam bahasa Suryani: "*Zarda ṭuba li-qraba*," yakni "baju besi yang kokoh untuk hari peperangan." Maka Luqman berkata: "Diam adalah hikmah, dan sedikit orang yang melakukannya." Sebelum itu ia sama sekali tidak pernah memuji dirinya dan tidak pula menyucikan dirinya.
+
+Tuannya berkata kepadanya ketika menyembelih seekor kambing: "Bawakanlah kepadaku bagian yang paling baik darinya." Ia membawakan hati (*qalb*). Tuannya berkata: "Bawakanlah kepadaku bagian yang paling buruk darinya." Ia pun membawakan hati. Tuannya bertanya kepadanya tentang sebabnya. Ia menjawab: "Di dalamnya terdapat bentuk yang menghimpun dan menyatukan. Apabila ia baik, ia menjadi anggota tubuh yang paling utama; dan apabila ia rusak, ia menjadi yang paling buruk."
+
+Diriwayatkan bahwa ketika mata-mata telah tenang untuk tidur siang, Luqman diseru: "Apakah engkau senang menjadi khalifah di bumi?" Ia menjawab: "Jika Tuhanku mengharuskanku, aku mendengar dan taat; dan jika Dia memberiku pilihan, aku memilih keselamatan." Dikatakan kepadanya: "Apa ruginya engkau menjadi khalifah yang memutuskan perkara dengan kebenaran?" Ia menjawab: "Jika aku memutuskan dengan kebenaran, pantaslah aku selamat; dan jika aku keliru, aku keliru jalan menuju surga. Menjadi orang yang terhina dan rendah di dunia lebih ringan bagiku daripada menjadi orang yang kuat dan perkasa di dalamnya. Barang siapa menjual akhirat dengan dunia, ia akan merugi kedua-duanya." Maka Allah Subḥānahu meridai perkataannya itu, lalu mengutus kepadanya seorang malaikat yang membenamkannya ke dalam hikmah. Maka pada pagi harinya ia menjadi penduduk bumi yang paling bijak.
+
+Ia biasa mendatangi Dawud karena hikmahnya. Dawud berkata kepadanya: "Berbahagialah engkau, wahai Luqman! Engkau telah diberi hikmah dan dijaga dari fitnah." Sebab urusan yang dipikul Dawud dahulu telah ditawarkan kepada Luqman, tetapi ia menolak menerimanya.
+
+Dawud ʿalayhi al-salām melihat orang-orang tenggelam dalam pembicaraan, sedangkan Luqman diam. Ia bertanya: "Tidakkah engkau berbicara, wahai Luqman, sebagaimana orang-orang berbicara?" Ia menjawab: "Tidak ada kebaikan dalam perkataan kecuali dengan mengingat Allah, dan tidak ada kebaikan dalam diam kecuali dengan memikirkan tempat kembali. Orang yang beragama, apabila ia berpikir, ketenangan meliputinya; apabila ia bersyukur, ia rendah hati; apabila ia merasa cukup, ia tidak membutuhkan; apabila ia rida, ia tidak risau; apabila ia menanggalkan dunia, ia selamat dari keburukan-keburukan; apabila ia menolak syahwat-syahwat, ia menjadi merdeka; apabila ia menyendiri, ia tercukupkan dari kesedihan-kesedihan; apabila ia membuang dengki, kecintaan tampak baginya; apabila jiwanya lapang terhadap segala yang fana, akalnya menjadi sempurna; apabila ia melihat akibat, ia aman dari penyesalan; apabila ia tidak menakut-nakuti, ia tidak takut kepada mereka; dan apabila ia tidak berbuat salah kepada mereka, ia selamat dari mereka. Maka manusia merasa lapang karenanya, sedangkan ia sendiri merasa payah karena dirinya." Dawud berkata: "Engkau benar, wahai Luqman." Ia pun kagum kepadanya, dan nama Luqman menjadi tersohor.
+
+Dawud bertanya kepada Luqman sesudah usianya lanjut: "Apa yang tersisa dari akalmu?" Ia menjawab: "Aku tidak memikirkan kecuali apa yang berguna bagiku, dan aku tidak membebani diriku dengan apa yang telah dicukupkan bagiku."
