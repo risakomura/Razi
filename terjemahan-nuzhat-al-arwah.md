@@ -4414,3 +4414,91 @@ Ia juga bersyair:
 Apabila para ahli hikmah Khurasan dihitung, al-Khayyām-lah lautan yang paling melimpah di antara mereka, yang paling tinggi kedudukannya, yang paling panjang jangkauannya dalam matematika, dan yang paling panjang napasnya dalam ilmu hitung.
 
 Di pemandian ia pernah ditanya tentang makna dua surah perlindungan (al-Muʿawwidhatān) dan pengulangan sebagian lafalnya. Maka ia menguraikan penjelasan sebanyak kira-kira satu jilid dalam suatu ilmu yang tidak ia tekuni. Lalu bagaimana menurutmu dengan hikmah yang untuknya ia telah menghabiskan umurnya?
+
+## Aḥmad ibn al-Ṭayyib al-Sarakhsī {.judul-bab}
+
+Abū al-ʿAbbās termasuk orang yang bernisbat kepada al-Kindī dan membaca ilmu di hadapannya. Ia mahir dalam banyak ilmu orang-orang terdahulu dan ilmu-ilmu Arab, subur buah perkataannya, bagus bakatnya, fasih lisannya, elok karyanya, utama dalam nahwu dan syair, baik pergaulannya, jenaka kelakarnya, lepas bebas, dan cerdik. Ia mendengar hadis melalui jalur periwayatan *muʿanʿan*, yakni sabda beliau: *"Apabila laki-laki telah merasa cukup dengan laki-laki dan perempuan dengan perempuan, maka atas mereka kebinasaan."*[^t55] Dan sabda beliau: *"Manusia yang paling keras azabnya pada hari kiamat adalah orang yang mencaci seorang nabi, para sahabat nabi, atau para imam kaum Muslim."*[^t56]
+
+[^t55]: CT: Untuk riwayat yang semakna, lihat al-Ṭabarānī, *Musnad al-Shāmiyyīn*, ed. Ḥamdī ibn ʿAbd al-Majīd al-Salafī (Beirut: Muʾassasat al-Risāla, 1984), 1:297.
+
+[^t56]: CT: Untuk riwayat yang semakna, lihat Abū Nuʿaym al-Iṣfahānī, *Ḥilyat al-Awliyāʾ wa-Ṭabaqāt al-Aṣfiyāʾ*, cet. ke-4 (Beirut: Dār al-Kitāb al-ʿArabī, 1405), 4:96.
+
+Ia memegang jabatan hisbah di Baghdad pada masa al-Muʿtaḍid, kemudian menjadi teman majelisnya dan orang kepercayaannya. Al-Muʿtaḍid menyampaikan rahasia-rahasianya kepadanya dan meminta pendapatnya dalam urusan-urusan kerajaannya. Yang dominan pada diri Aḥmad adalah ilmunya, bukan keyakinannya.
+
+Sebab terbunuhnya adalah bahwa al-Muʿtaḍid menyampaikan kepadanya suatu rahasia mengenai al-Qāsim ibn ʿUbayd Allāh dan Badr, budak al-Muʿtaḍid. Aḥmad pun membocorkannya karena tipu daya al-Qāsim terhadapnya. Maka al-Muʿtaḍid menyerahkannya kepada mereka; mereka merampas hartanya dan menjebloskannya ke dalam penjara bawah tanah. Ketika al-Muʿtaḍid berangkat untuk menaklukkan Āmid dan memerangi Aḥmad ibn ʿĪsā, sekelompok tahanan dari kaum Khawarij dan lainnya meloloskan diri dari penjara-penjara bawah tanah itu, sedangkan Aḥmad tetap tinggal di penjara karena berharap keselamatan. Tinggalnya itu justru menjadi sebab kematiannya. Al-Muʿtaḍid memerintahkan al-Qāsim untuk mencatat orang-orang yang wajib dibunuh, agar hatinya tidak lagi terbebani oleh mereka. Al-Qāsim pun mencatat mereka, dan al-Muʿtaḍid menandatangani perintah pembunuhan mereka, sehingga Aḥmad pun dibunuh. Kemudian al-Muʿtaḍid menanyakan tentang dirinya, dan ia diberi tahu bahwa Aḥmad telah dibunuh, dan ia tidak mengingkarinya.[^p32]
+
+[^p32]: CP: Terjemahan Turki memahami bahwa Aḥmad membocorkan rahasia itu kepada budak al-Muʿtaḍid, dan bahwa Aḥmad bangkit memohon ampun ketika para tahanan yang lari dibawa kembali. Teks Arab yang rusak di sini lebih tepat dibaca, sesuai dengan riwayat-riwayat lain tentang al-Sarakhsī, bahwa rahasia itu menyangkut al-Qāsim dan Badr, budak al-Muʿtaḍid, dan bahwa Aḥmad justru tetap tinggal di penjara ketika para tahanan lain melarikan diri karena berharap selamat. Terjemahan di sini mengikuti bacaan tersebut.
+
+## Abū al-Maʿālī ʿAbd Allāh ibn Muḥammad al-Miyānajī, yang Dikenal sebagai ʿAyn al-Quḍāt {.judul-bab}
+
+Ia termasuk murid ʿUmar al-Khayyām dan murid Imam Aḥmad al-Ghazālī. Ia menyusun sebuah kitab yang ia namai *Zubdat al-Ḥaqāʾiq*, dan di dalamnya ia mencampurkan perkataan kaum sufi dengan perkataan para ahli hikmah. Ia disalib karena permusuhan antara dirinya dan wazir Abū al-Qāsim al-Astarābādhī.
+
+Sebab terbunuhnya ʿAyn al-Quḍāt adalah bahwa ia menamai Allah Taʿālā dengan nama-nama yang menjadi istilah para filsuf, seperti Wājib al-Wujūd dan lainnya. Badīʿ al-Mutakallim al-Hamadhānī mengingkarinya dan berkata: "Nama-nama Allah Taʿālā bersifat *tawqīfī*." Maka ʿAyn al-Quḍāt menyusun sebuah risalah dan menyebutkan di dalamnya bahwa Allah Subḥānahu wa-Taʿālā adalah kekasihnya, yang boleh ia namai dengan nama apa pun yang ia kehendaki. Ia berkata:
+
+> Akankah kunamai Engkau cemara yang tegak, ataukah purnama yang sempurna, ataukah kijang yang terjerat?
+>
+> Katakanlah, dengan nama manakah dari ketiganya Engkau kupanggil; karena cemburu, aku tak ingin memberi-Mu satu nama pun.
+
+Ketika risalah itu sampai kepada al-Badīʿ, ia menghasut orang-orang awam hingga mereka membunuhnya. Semoga rahmat Allah tercurah atasnya sebagai seorang syahid.
+
+## Abū Ḥātim al-Muẓaffar al-Isfizārī {.judul-bab}
+
+Ia adalah seorang ahli hikmah yang sezaman dengan sang filsuf ʿUmar al-Khayyām, dan di antara keduanya terjadi beberapa perdebatan, tetapi al-Muẓaffar jauh di bawahnya. Yang dominan pada diri al-Muẓaffar adalah ilmu astronomi dan ilmu beban. Berbeda dengan tabiat al-Khayyām, ia lemah lembut terhadap orang-orang yang hendak mengambil faedah.
+
+Ia memiliki banyak karya dalam matematika dan meteorologi. Dialah yang membuat timbangan Archimedes, yang dengannya dapat diketahui logam campuran dan kadar logam murni, dan untuk itu ia menghabiskan umurnya. Bendahara sultan, seorang kasim bernama Saʿādat al-Khāzin, khawatir pengkhianatannya dalam perbendaharaan akan terbongkar karena timbangan ini, maka ia memecahkannya dan menghancurkan bagian-bagiannya. Ketika al-Muẓaffar mendengarnya, ia jatuh sakit dan wafat dalam kesedihan.
+
+Di antara perkataannya: "Perbandingan kenikmatan indrawi dengan kenikmatan akliah adalah seperti perbandingan orang yang mencium aroma sesuatu dengan orang yang mengecap rasanya."
+
+## Abū al-ʿAbbās al-Lawkarī {.judul-bab}
+
+Ia mengungguli rekan-rekan sezamannya, al-Khayyāmī, Ibn Kūshak, dan al-Wāsiṭī, di medan hikmah, dan tidak seorang pun dari mereka mendahuluinya dalam ungkapan. Mereka adalah suatu kaum yang ia pemukanya dalam kebesaran, dan empat orang yang ia paling depan dalam kebaikan. Ia memiliki syair-syair yang indah dan memukau.
+
+Ia adalah murid Bahmanyār, dan darinyalah ilmu-ilmu hikmah tersebar di Khurasan.
+
+Ia menguasai bagian-bagian ilmu hikmah, baik yang halus maupun yang besar. Ia menjadi buta pada masa tuanya. Ia termasuk keluarga-keluarga terpandang di wilayah Marw, dan ia memiliki sebuah diwan syair.
+
+Pada akhir umurnya ia biasa berkata: "Aku telah berputus asa dari bertambahnya ilmu dan makrifatku. Tidak ada lagi tambahan bagiku atas apa yang telah kuperoleh. Aku menjadi lemah karena uzur dan hilangnya penglihatan, dan aku merindukan negeri akhirat." Ia mengatakan hal itu berkali-kali, hingga tampak nyata bagi orang-orang di sekitarnya betapa kuat kerinduannya kepada akhirat.
+
+Kebetulan suatu hari ia memakan kepala panggang, lalu salah seorang muridnya mengajaknya ke pemandian. Hal itu menjadi sebab penyakit yang membawa kematiannya. Salah seorang muridnya mengobatinya, sementara ia berkata: "Biarkanlah aku bersama Tuhanku. Jika Dia menyembuhkanku, maka milik-Nya segala urusan; dan jika Dia mematikanku, maka milik-Nya segala ketetapan. Aku tidak memilih kecuali apa yang dipilih oleh Allah Taʿālā." Syairnya kokoh.
+
+## Al-Sayyid Muḥammad (ibn) al-Īlāqī {.judul-bab}
+
+Pada dirinya berhimpun seluruh keutamaan ilmiah dan amaliah. Ia memiliki banyak karya. Ia seorang penulis, diberkahi, dan baik pengobatannya. Ia menetap di Bākharz, kemudian ʿAlāʾ al-Dīn ibn Qumāj mengikatnya dalam pengabdian di Balkh. Ia terbunuh dalam pertempuran melawan Kūrkhān. Ia termasuk murid Abū ʿAlī ibn Sīnā.
+
+Dikatakan pula bahwa ia termasuk murid al-Khayyāmī, dan pengetahuan tentang sejarah ʿAlāʾ al-Dīn ibn al-Qumāj membenarkan hal itu.
+
+## Al-Qāḍī Zayn al-Dīn ʿUmar ibn Sahlān al-Sāwī {.judul-bab}
+
+Ia menguraikan syariat dan hikmah dalam susunan yang teratur. Ia meninggalkan jabatan kadi di negerinya, Sāwa, lebih mengutamakan menyendiri daripada bergaul, dan lebih memilih menganggur daripada memangku jabatan. Ia menetap di Nishapur dan mengajar di sana. Ia makan dari hasil kerja tangannya dan menghidupi diri dengan menyalin kitab; setiap naskah *al-Shifāʾ* dengan tulisan tangannya ia jual seharga seratus dinar.
+
+Ia berkata: "Sebuah bangun dari makalah kesepuluh Euklides terasa musykil bagiku. Aku pun tidur, lalu dalam mimpi aku melihat seorang tua yang dikatakan bahwa ia adalah 'Euklides si Tukang Kayu'. Aku bertanya kepadanya tentang bangun itu, dan ia berkata kepadaku: 'Kembalilah kepada bangun anu dari makalah anu.' Ketika aku terbangun, aku salat, lalu merenungkan bangun itu, dan terurailah kemusykilanku."
+
+Ia memiliki banyak karya yang terbakar bersama rumah perpustakaannya di Sāwa.
+
+Al-Ẓahīr al-Bayhaqī berkata: "Aku sering mendatanginya, dan kulihat ia bagaikan lautan yang bergelombang." Ia berkata: "Ia menulis kepadaku dalam sepucuk surat: 'Jadilah engkau termasuk golongan orang-orang yang menanggalkan kulit nasab dan gelar, yang menurunkan dari pundak mereka beban-beban akibat, dan yang mengibaskan dari keadaan mereka debu masa dan zaman. Inilah kebiasaan orang yang disebut dalam firman-Nya: *"Sungguh beruntung orang yang menyucikannya (jiwa itu), dan sungguh rugi orang yang mengotorinya"* (al-Shams: 9-10). Barang siapa tidak takut kepada Allah, ia takut kepada setiap orang; dan barang siapa takut kepada Allah, ia tidak takut kepada seorang pun, dan setiap orang takut kepadanya.'"
+
+## Asʿad al-Mīhanī {.judul-bab}
+
+Ia adalah pengajar di Niẓāmiyya Baghdad dan mendapat kedudukan di Dār al-Khilāfa. Ketika ia menghadiri Dār al-Khilāfa, keluarlah titah yang paling luhur, dan kehadiran Asʿad al-Mīhanī diumumkan kepada kami. Ia termasuk murid al-Lawkarī. Ia memiliki sebuah surat kepada Ibn Sahlān yang berisi: "Menelantarkan para penolong adalah aib, dan menolong mereka adalah keutamaan."
+
+## Abū al-Ṣalt Umayya ibn Abī al-Ṣalt {.judul-bab}
+
+Ia termasuk orang-orang terdahulu dalam hikmah dan filsafat. Ia memiliki syair yang halus, dan ia berasal dari Mesir.
+
+## Tāj al-Dīn Muḥammad ibn ʿAbd al-Karīm al-Shahrastānī {.judul-bab}
+
+Ia memiliki banyak karya, di antaranya kitab *al-ʿUyūn wa-al-Anhār*, *Qiṣṣat Mūsā wa-al-Khiḍr*, dan *al-Manāhij wa-al-Āyāt*. Dalam kitab *al-Manāhij wa-al-Āyāt* ia memburuk-burukkan pendapat Abū ʿAlī.
+
+Al-Ẓahīr berkata: "Ia membacakan kepadaku beberapa pasal dari kitab ini di rumah Marzuqān. Aku berkata kepadanya: 'Kita wajib meneliti setiap pasal dan setiap kritik.' Namun, waktu tidak mengizinkan, dan saat keberangkatan telah dekat. Karya-karyanya melebihi dua puluh jilid, tetapi di dalamnya ia tidak menempuh jalan para ahli hikmah. Aku pernah melihat catatan sebuah majelis yang ia adakan di Khwārazm, yang di dalamnya terdapat isyarat kepada prinsip-prinsip hikmah, dan aku heran karenanya."
+
+Al-Ẓahīr al-Bayhaqī berkata: "Abū al-Ḥasan ibn Ḥamawayh pernah mempertemukan aku dengannya dalam sebuah majelis, yang dihadiri pula oleh Abū Manṣūr al-ʿAbbādī, Aḥmad al-Laythī, Shihāb al-Dīn al-Wāʿiẓ al-Sufurqānī, dan orang-orang utama lainnya. Ketika ia menyebutkan pembagian jenis-jenis keterdahuluan, aku berkata kepadanya: 'Apakah disjungsi ini hakiki ataukah tidak hakiki? Sebab engkau berkata bahwa keterdahuluan itu adakalanya menurut zat, menurut tabiat, menurut tempat, menurut waktu, menurut kemuliaan, atau menurut wujud.' Ia menjawab: 'Ada perbedaan antara keterdahuluan menurut zat dan keterdahuluan menurut wujud,' lalu ia mulai menguraikan hal itu. Aku berkata kepadanya: 'Engkau menjawab pertanyaan "apa" di luar pokok persoalan yang diperselisihkan, dan berpaling dari pertanyaan "apakah" yang majemuk. Aku tidak menanyakan dan tidak mengatakan apa perbedaan antara yang menurut zat dan yang menurut wujud. Akan tetapi, aku berkata: mengapa engkau mengatakan bahwa bagian-bagian disjungsi dalam pembatasan jenis-jenis keterdahuluan itu terbatas, dan bahwa ia adalah disjungsi yang hakiki?' Pengulangan pun berkepanjangan, dan karena pengulangan itu pembicaraan terputus."
+
+Ia menyusun sebuah tafsir dan menakwilkan ayat-ayat menurut kaidah-kaidah syariat dan hikmah. Al-Ẓahīr berkata kepadanya: "Ini adalah penyimpangan dari kebenaran. Al-Qur'an tidak ditafsirkan kecuali dengan takwil para salaf dan tabiin. Hikmah terpisah dari tafsir al-Qur'an, terlebih lagi takwil yang engkau lakukan. Tidak ada yang memadukan syariat dan hikmah lebih baik daripada apa yang dipadukan oleh al-Ghazālī." Maka ia pun dipenuhi amarah.
+
+Ia wafat di Shahrastān, tempat kelahirannya, dalam bulan-bulan tahun lima ratus empat puluh delapan. Ia dekat dengan singgasana Sultan Sanjar dan menjadi pemegang rahasianya.
+
+## Ibn al-Tilmīdh, Abū al-Ḥasan (al-Ṭabīb al-Baghdādī) {.judul-bab}
+
+Sang ahli hikmah yang sempurna, Abū Bakr ibn ʿUrwa, menuturkan bahwa suatu hari ia masuk menemui Ibn al-Tilmīdh. "Ketika ia mengetahui bahwa aku telah menguasai sebagian ilmu hikmah, ia mengubah pelajarannya dan mengemukakan di dalamnya kehalusan-kehalusan logika dan hikmah, yang dengannya aku mengetahui bahwa ia memiliki tujuan yang lebih jauh daripada kedokteran."
+
+Tunjangannya di Baghdad melebihi dua puluh ribu dinar setiap tahun, dan seluruhnya ia belanjakan untuk para penuntut ilmu.
