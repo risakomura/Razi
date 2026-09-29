@@ -4502,3 +4502,155 @@ Ia wafat di Shahrastān, tempat kelahirannya, dalam bulan-bulan tahun lima ratus
 Sang ahli hikmah yang sempurna, Abū Bakr ibn ʿUrwa, menuturkan bahwa suatu hari ia masuk menemui Ibn al-Tilmīdh. "Ketika ia mengetahui bahwa aku telah menguasai sebagian ilmu hikmah, ia mengubah pelajarannya dan mengemukakan di dalamnya kehalusan-kehalusan logika dan hikmah, yang dengannya aku mengetahui bahwa ia memiliki tujuan yang lebih jauh daripada kedokteran."
 
 Tunjangannya di Baghdad melebihi dua puluh ribu dinar setiap tahun, dan seluruhnya ia belanjakan untuk para penuntut ilmu.
+
+## Ibn al-Shibl (al-Baghdādī) {.judul-bab}
+
+Ia adalah Abū ʿAlī al-Ḥusayn ibn ʿAbd Allāh ibn Yūsuf ibn Shibl al-Baghdādī. Ia lahir dan tumbuh di Baghdad. Ia adalah seorang ahli hikmah, filsuf, mutakalim yang utama, sastrawan yang cakap, dan penyair yang piawai. Ia wafat di Baghdad pada tahun empat ratus tujuh puluh empat. Di antara syairnya adalah apa yang ia gubah tentang hikmah. Kasidah ini termasuk syairnya yang terbaik, dan ia menunjukkan kuatnya penelaahan penyairnya terhadap ilmu-ilmu hikmah dan rahasia-rahasia ketuhanan. Sebagian orang menisbatkannya kepada Ibn Sīnā, padahal kasidah ini bukan miliknya dan bukan pula milik orang lain:
+
+> Demi Tuhanmu, wahai falak yang diputar, apakah perjalanan ini disengaja ataukah terpaksa?
+>
+> Putaranmu, katakanlah kepada kami, untuk apa? Sebab pemahaman kami tentangmu diliputi kesilauan.
+>
+> Padamu kami melihat ruang; adakah ruang selain ruang ini yang di dalamnya engkau diputar?
+>
+> Kepadamukah ruh-ruh diangkat, ataukah bersama jasad-jasad kebinasaan menyusulnya?
+>
+> Apakah Bima Sakti ini gelombang, ataukah pamor pedang yang di atas lipatan baju zirah berpijar panas?
+>
+> Padamu matahari mengangkat sinarnya dengan sayap-sayap yang bulu depannya pendek.
+>
+> Apakah kalung di antara bintang-bintang malam itu hilal, ataukah sebuah tangan yang bergelang?
+>
+> Apakah ini meteor-meteor yang menyambar, ataukah sumbu-sumbu pelita yang dinyalakan oleh kayu *markh* dan *ʿafār*?
+>
+> Apakah bintang-bintang itu tatahan permata, ataukah gelembung-gelembung yang dipertautkan oleh gelombang-gelombang yang melimpah?
+>
+> Jejak-jejaknya membentang pada malam hari dan dilipat pada siang hari, sebagaimana kain sarung dilipat.
+>
+> Betapa banyak makhluk berkarat oleh kilaunya, sedang mata pedangnya tak pernah berkarat.
+>
+> Bintang-bintang itu berlomba, lalu surut kembali, dan bersembunyi seperti kawanan sapi liar bersembunyi di sarangnya.
+>
+> Di timur ia maju dalam pendakian, lalu di barat ia disambut oleh penurunan.
+>
+> Di atas inilah telah berlalu, dan di atas ini pula akan berlalu, angan-angan yang panjang dan umur-umur yang pendek,
+>
+> dan hari-hari yang pisau-pisaunya mengerat daging kami hingga ke tulang, dan napas-napas kami selamanya menjadi mata pisaunya,
+>
+> dan masa yang menaburkan umur-umur, sebagaimana dahan menggugurkan daunnya,
+>
+> dan dunia yang setiap kali melahirkan janin, ia disusui oleh ibu susu dari bencana-bencananya.
+>
+> Ia bagaikan unta rabun: apa yang diinjaknya hancur; ia bagaikan binatang bisu: luka yang dibuatnya tak dapat dituntut.
+>
+> Dari hari yang tanpa kemarin menuju hari yang tanpa esok, ke sanalah kita dijalankan.
+>
+> Dan dari dua napas, yang ditarik dan dihembuskan, ruh manusia menyebar di dalam tubuh.
+>
+> Betapa banyak jiwa yang, sesudah akrab dengan tubuh-tubuh, diterbangkan dari sarang-sarangnya.
+>
+> Bukankah jiwa-jiwa itu telah jinak dengan anggota-anggota tubuh? Maka mengapa dalam kedekatan ia kembali menjadi liar?
+>
+> Jika Adam telah menyengsarakan anak-anaknya dengan dosa yang tiada dalih baginya,
+>
+> ilmu tentang nama-nama tak memberinya manfaat, tidak pula sujud (para malaikat) dan tidak pula kedekatan.
+>
+> Ia dikeluarkan, lalu diturunkan, lalu disakiti, sehingga debu yang diterbangkan angin menjadi pakaiannya.
+>
+> Lalu, karena ilmu Allah tentang dirinya, ia disusul oleh ampunan atas dosanya dengan kalimat-kalimat.
+>
+> Namun, sesudah ampunan dan maaf, ia tetap dicela selama siang mengiringi malam.
+>
+> Musuh telah mencapai cita-citanya atas kita, dan kehinaan menimpa Adam dan kita.
+>
+> Kita tersesat sia-sia seperti kaum Musa, padahal tak ada anak sapi yang menyesatkan dan tak ada lenguhan.
+>
+> Aduhai suatu suapan yang karenanya tak henti-henti atas kita hukuman dan atasnya aib!
+>
+> Kita dihukum di dalam sulbi sebelum kita dilahirkan, dan anak unta disembelih di dalam perut induknya.
+>
+> Kita menanti musibah dan bencana, dan sesudah itu ancaman pun menanti kita.
+>
+> Kita dikeluarkan dengan terpaksa sebagaimana kita dimasukkan, seperti biawak yang keluar karena diusir dari liangnya.
+>
+> Lalu apa artinya mengungkit-ungkit pemberian wujud, yang pilihannya ada di tangan selain mereka yang diwujudkan?
+>
+> Ia akan menjadi nikmat seandainya sebelum keberadaan itu kita diberi pilihan atau dimintai pendapat.
+>
+> Apakah penyakit ini tiada obatnya, dan patah ini tiada penyambungnya?
+>
+> Setiap orang yang halus pemahamannya bingung dalam hal ini, dan tiada alat penduga bagi dalamnya luka mereka.
+>
+> Apabila penggulungan telah melenyapkan matahari dari kita, dan keberserakan telah melenyapkan bintang-bintang malam,
+>
+> dan bumi ini telah diganti bagi kita dengan bumi yang lain, dan keterbelahan telah mencampakkan langit-langit,
+>
+> dan para ibu yang menyusui telah lalai dari anak-anaknya karena kebingungan, dan unta-unta bunting telah ditelantarkan,
+>
+> dan purnama ditutupi, karena gentar dan takut, oleh gerhana sebagai ancaman, bukan oleh gelapnya akhir bulan,
+>
+> dan gunung-gunung telah dijalankan hingga menjadi timbunan pasir yang berhamburan, dan lautan-lautan telah dipanaskan,
+>
+> maka di manakah keteguhan orang-orang berakal di antara kita, dan di manakah ketabahan kita menghadapi lemparan-lemparan?
+>
+> Di manakah akal orang-orang yang berpemahaman terhadap apa yang dikehendaki atas kita, dan di manakah pengambilan pelajaran?
+>
+> Ke manakah lenyapnya akal yang dahulu ada pada kita, yang cahayamu dipinjam dari kemilaunya?
+>
+> Tiada bumi yang mendurhakai-Nya, tiada pula langit; maka mengapa keguguran melenyapkan bintang-bintangnya?
+>
+> Padahal langit telah datang kepada-Nya dengan taat, ketika ia masih berupa asap yang apinya tak memercikkan bunga api.
+>
+> Ia menjadikannya tujuh, dan bumi dihamparkan-Nya sebagai buaian, sehingga ia menjadi negeri bagi orang-orang mati.
+>
+> Maka tiada akhir bagi ketinggian apa yang Ia tinggikan, dan tiada titik henti bagi kekokohan apa yang Ia pancangkan.
+>
+> Namun, dalam segala kengerian ini ada nasihat dan teguran bagi orang-orang berakal.
+
+Ia juga bersyair:
+
+> Mereka berkata: "Kanaah adalah kemuliaan, merasa cukup adalah kekayaan, sedangkan kehinaan dan aib adalah rakusnya jiwa dan ketamakan."
+>
+> Kalian benar; tetapi orang yang rela dengan sekadar penutup laparnya, jika itu pun tak ia peroleh, dengan apa ia akan merasa cukup?
+
+Ia juga bersyair:
+
+> Kami lari dari ketetapan Allah karena takut, padahal lari kami adalah dari-Nya kepada-Nya.
+>
+> Orang yang paling celaka adalah orang yang berkeras hati, yang musibah-musibahnya datang bertubi-tubi kepadanya dari kedua tangannya sendiri.
+>
+> Jalan-jalan petunjuk menjadi sempit baginya, dan hati orang yang mengasihaninya pun menjadi keras terhadapnya.
+
+Ia juga bersyair:
+
+> Jika kesejukan hidup di dunia tidak diperoleh orang berakal tanpa bersusah payah,
+>
+> maka bagaimana mungkin orang bodoh mengharapkan kemuliaan di alam baka, sedangkan ia lalai dalam mencarinya?
+
+Ketahuilah bahwa perkataan para ahli hikmah terdahulu bahwa al-Bārī Taʿālā itu diam bermakna bahwa zat-Nya adalah substansi yang tetap, tidak berubah, dan kekal wujudnya. Adapun makna perkataan orang yang menyangka bahwa Ia bergerak ialah bahwa Ia senantiasa berbuat pada hal-hal yang menerima, abadi limpahan dan pancaran-Nya kepada setiap yang berhak tanpa kekikiran. Adapun perkataan mereka bahwa sesuatu itu bergerak dan diam dalam akal, maka makna perkataan orang yang menyebutnya diam ialah bahwa ia aktual dari segala segi, sedangkan makna bahwa ia bergerak ialah bahwa ia berbuat dan menerima pengaruh dari apa yang di atasnya. Adapun perkataan mereka bahwa jiwa itu bergerak, maknanya ialah bahwa jiwa senantiasa menuntut kesempurnaan dari Akal Aktif.
+
+Thales berkata: "Jisim adalah yang tidak lenyap, seperti benda-benda falak, sedangkan jirim adalah yang padat dan lenyap. Yang pertama halus dan yang kedua padat."
+
+Ia berkata: "Di balik langit terdapat alam-alam yang dicipta. Tutur kata tidak mampu melukiskan cahaya-cahaya itu, dan akal tidak mampu menjangkau keindahan dan kemilau itu. Alam-alam itu dicipta dari suatu unsur yang dasarnya tidak terjangkau dan cahayanya tidak terlihat. Tutur kata, tabiat, dan jiwa berada di bawah dan di sebelah bawahnya. Ia adalah masa murni dari sisi akhirnya, bukan dari sisi awalnya. Kepadanya akal-akal dan jiwa-jiwa merindu. Dialah yang kami namai kelanggengan, keabadian, dan kekekalan dalam batas penciptaan yang kedua."
+
+Dengan isyarat-isyarat ini menjadi jelas bahwa ketika ia berkata "air adalah yang dicipta pertama", yang ia maksud adalah prinsip bagi senyawa-senyawa jasmani, bukan prinsip pertama bagi maujud-maujud yang luhur. Akan tetapi, ketika ia meyakini bahwa unsur pertama adalah penerima setiap bentuk, yakni sumber segala bentuk, dan ia tidak menemukan unsur dengan corak demikian, ia menetapkan di alam jasmani suatu padanan yang menyamainya dalam menerima segala bentuk. Karena ia tidak menemukan unsur dengan corak itu selain air, ia menjadikan air sebagai yang dicipta pertama dalam senyawa-senyawa, dan dari air ia menumbuhkan jisim-jisim serta jirim-jirim langit dan bumi, mengikuti jalan syariat; demikian pula nas Taurat. Kepada hal yang serupa mengisyaratkan pula orang-orang yang menyangka bahwa yang dicipta pertama adalah api, udara, tanah, dan semacamnya, sebab hikmah mereka diambil dari pelita kenabian.
+
+## Al-Ḥasan ibn Isḥāq ibn Muḥārib al-Qummī {.judul-bab}
+
+Mereka menuturkan dari Ibn al-ʿAmīd bahwa ia membanggakannya dan berkata: "Seandainya tidak ada seorang pun yang lahir dari negeri kami selain dia, itu sudah mencukupi." Al-Qummī berkata: "Cinta berahi adalah kerinduan untuk bersatu dengan yang dicinta." Ia menukil dari sebagian orang terdahulu: "Tidak ada sesuatu pun yang lebih berharga daripada kehidupan, dan tidak ada kerugian yang lebih besar daripada menghabiskannya untuk selain kehidupan yang abadi."
+
+## Abū Jaʿfar ibn Bānūyah {.judul-bab}
+
+Ia adalah raja Sijistān.[^t57]
+
+[^t57]: CT: Nama Bānūyah tampil dalam berbagai bentuk dan tanpa titik huruf dalam naskah-naskah *Nuzha*. Dalam Ibn Abī Uṣaybiʿa ia berbentuk Bānwayh dan dalam Yāqūt berbentuk Bānūyah; keduanya ditulis dengan ejaan Arab yang sama. Dalam *Muʿjam al-Buldān*, Yāqūt al-Ḥamawī menamai raja ini Ibn Bānūyah, dinisbatkan kepada ibunya yang bernama Bānū atau Bānūyah. Yāqūt al-Ḥamawī, *Muʿjam al-Buldān* (Beirut: Dār Ṣādir, 1977), 3:448.
+
+Abū Sulaymān al-Sijzī, penyusun *Ṣiwān al-Ḥikma*, berkata: "Raja Abū Jaʿfar kuat dalam ilmu politik dan tidak berkecimpung dalam ilmu selainnya. Ia memiliki pandangan batin yang baik. Ia telah membiasakan dirinya dengan prinsip-prinsip menyeluruh politik, disertai muruah yang tampak, kesucian diri yang dominan, dan pengendalian diri ketika hawa nafsu datang menghadang.
+
+Ia sering melantunkan dua bait berikut, dan ia takjub akan kebenaran, kebagusan, dan keindahan telaah keduanya. Ia berkata: 'Penyair ini telah mendapat taufik. Aku tidak mengatakan bahwa ia seorang penyair kecuali dari sisi susunan, wazan, dan qafiyah; tetapi aku mengatakan: ia seorang ahli hikmah.'
+
+> Seorang pemuda yang tidak mengiringi nikmat yang telah lalu dengan mengungkit-ungkitnya, dan tidak menunda-nunda ancaman maupun janji.
+>
+> Hawa nafsunya menjadi budaknya; dan tidaklah sempurna seorang pemuda apabila suatu hari hawa nafsunya tidak menjadi budaknya.
+
+Ia menghafal perkataan orang-orang Yunani, anekdot-anekdot mereka, perjalanan hidup mereka, dan keadaan-keadaan mereka, dalam kadar yang tidak mampu dicapai orang lain. Ia berkata: 'Ini adalah serpihan-serpihan emas dan emas murni yang belum dituang.' Ia mengagumi anekdot-anekdot orang Yunani dan berkata: 'Suatu kaum yang beginilah kelakar, keramahan, dan rehat mereka, maka bagaimana dugaan terhadap mereka bila mereka mulai bersungguh-sungguh dan memeras kekuatan naluri mereka dengan sengaja!' Kemudian ia berkata: 'Aku sangat menganggap baik sesuatu yang diriwayatkan dari Demokritos, bahwa ia berkata: Orang yang berenang di lautan kami tidak memiliki pantai kecuali dirinya sendiri.' Ia juga menghafal seluruh petikan Aristoteles tentang politik, baik yang ia tulis kepada Iskandar maupun yang ia sampaikan kepadanya secara langsung."
