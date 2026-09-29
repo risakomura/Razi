@@ -3566,3 +3566,123 @@ Diriwayatkan bahwa Luqman berkata kepada putranya: "Wahai anakku, perintahkanlah
 "Wahai anakku, tinggalkanlah segala sesuatu yang memerlukan permintaan maaf kepada manusia, dan terimalah permintaan maaf orang yang meminta maaf kepadamu. Janganlah sekali-kali engkau bangga dengan amalmu meskipun banyak, karena engkau tidak tahu apakah Allah menerimanya darimu atau tidak."
 
 "Wahai anakku, segala sesuatu memiliki cacat, dan cacat amal adalah ujub. Janganlah engkau pamer kepada manusia dengan sesuatu yang Allah ketahui bahwa dirimu tidak demikian. Janganlah engkau berlaku sewenang-wenang kepada manusia dan jangan mengurangi hak mereka. Janganlah menjadi orang zalim, dan jauhilah doa orang yang dizalimi. Janganlah sekali-kali engkau memanjangkan pandanganmu kepada perhiasan dunia, dan janganlah sekali-kali engkau berusaha memuaskan setiap keinginan dari dunia. Hendaklah keinginanmu tertuju pada apa yang mendekatkanmu kepada Allah."
+
+"Wahai anakku, cintailah karena Allah, bencilah karena Allah, dan janganlah bermanis muka kepada ahli maksiat!"
+
+"Wahai anakku, mendekatlah kepada Allah dengan mencintai para wali-Nya, dan mendekatlah kepada-Nya dengan membenci ahli maksiat!"
+
+"Wahai anakku, Allah tidak disembah dengan sesuatu yang lebih utama daripada akal. Akal seseorang tidak sempurna hingga padanya terdapat sepuluh perangai: orang merasa aman dari kesombongannya; kebaikannya dapat diharapkan; bagiannya dari dunia adalah sekadar makanan pokok; kelebihan hartanya ia curahkan; kerendahan hati lebih ia sukai daripada kesombongan; kehinaan lebih ia sukai daripada kemuliaan; ia tidak bosan menjaga kehormatan diri sepanjang masanya; ia tidak jemu terhadap orang-orang yang meminta keperluan kepadanya; ia menganggap banyak kebaikan yang sedikit dari orang lain dan menganggap sedikit kebaikan yang banyak dari dirinya sendiri. Perangai yang kesepuluh, yang dengannya ia meninggikan kemuliaannya dan tinggi kedudukannya, adalah bahwa ia memandang seluruh manusia lebih baik daripadanya dan dirinya yang paling buruk di antara mereka. Manusia itu dua macam: orang yang lebih baik dan lebih utama daripadanya, dan orang yang lebih buruk dan lebih rendah daripadanya. Ia bersikap rendah hati kepada kedua-duanya. Apabila ia melihat orang yang lebih baik dan lebih utama daripadanya, ia berangan-angan untuk menyusulnya; dan apabila ia melihat orang yang lebih buruk dan lebih rendah daripadanya, ia berkata: 'Barangkali orang ini selamat dan aku yang binasa. Barangkali kebaikan orang ini tersembunyi dan belum tampak, dan itu lebih baik baginya; sedangkan lahirnya yang terlihat, dan itu lebih buruk bagiku.' Pada saat itulah akalnya menjadi sempurna dan ia menjadi pemuka orang-orang sezamannya."
+
+"Wahai anakku, sabar menghadapi hal-hal yang membinasakan berasal dari baiknya keyakinan. Setiap amal memiliki kesempurnaan, dan kesempurnaan ibadah adalah kewaraan dan keyakinan. Puncak kemuliaan dan kepemimpinan adalah baiknya akal. Barang siapa baik akalnya, ia menutupi aib-aibnya, memperbaiki keburukan-keburukannya, dan Tuhannya rida kepadanya."
+
+"Wahai anakku, berlindunglah kepada Allah dari keburukan perempuan, dan waspadalah terhadap yang baik di antara mereka, karena mereka tidak bersegera kepada kebaikan, melainkan lebih cepat kepada keburukan. Berlindunglah kepada Allah dari keburukan takdir."
+
+"Wahai anakku, jadikanlah Allah sebagai perdaganganmu, niscaya keuntungan-keuntungan datang kepadamu tanpa modal."
+
+"Wahai anakku, tidak ada kekayaan seperti kesehatan badan, dan tidak ada keuntungan seperti kehidupan yang baik."
+
+"Wahai anakku, ajarilah orang bodoh sebagian dari apa yang engkau ketahui, dan carilah dari ilmu orang alim tambahan bagi apa yang engkau ketahui. Janganlah bersahabat dengan orang bodoh, sehingga engkau disangka seperti dia. Janganlah merasa tenteram dengan negeri yang hari ini engkau hidup di dalamnya dan besok engkau mati."
+
+"Wahai anakku, duduklah bersama para ulama dan desaklah mereka dengan kedua lututmu, karena Allah menghidupkan hati dengan mengingat hikmah sebagaimana bumi dihidupkan dengan hujan lebat dari langit."
+
+Al-Ḥasan berkata: "Luqman membuat sebuah pondok di Ramlah, negeri Syam, yang ketika itu belum berpenghuni. Ia tinggal di sana hingga usianya lanjut dan kematian menjemputnya."
+
+Ibrāhīm ibn Adham berkata: "Telah sampai kepadaku bahwa kubur Luqman berada di antara masjid Ramlah dan tempat pasarnya hari ini. Di sana terdapat kubur tujuh puluh nabi yang wafat sesudah Luqman. Mereka semua diusir oleh Bani Israil, lalu Bani Israil mendesak mereka ke Ramlah dan mengepung mereka, hingga mereka semua mati kelaparan. Itulah kubur-kubur mereka, di antara masjid Ramlah dan pasar."
+
+Al-Ḥasan berkata: "Ketika Luqman berada di pondoknya, yang luasnya sekadar tempat berbaringnya, sementara putranya duduk di hadapannya dan kematian telah datang kepadanya, Luqman menangis. Putranya bertanya kepadanya: 'Apa yang membuatmu menangis, wahai ayahku? Apakah karena takut akan kematian, ataukah karena rakus terhadap dunia?' Ia menjawab: 'Tidak, bukan salah satu dari keduanya! Akan tetapi, aku menangisi apa yang ada di hadapanku: perjalanan yang jauh, padang tandus yang luas, tanjakan yang sukar didaki, bekal yang sedikit, dan beban yang berat. Aku tidak tahu apakah beban itu akan diturunkan dariku hingga aku sampai ke tujuan, ataukah tetap ada padaku lalu aku digiring bersamanya ke api neraka Jahanam!' Kemudian ia wafat, semoga Allah ʿAzza wa Jalla merahmatinya."
+
+Ia berkata kepada putranya: "Bertakwalah kepada Allah ʿAzza wa Jalla, dan janganlah engkau memperlihatkan kepada manusia bahwa engkau takut kepada Allah ʿAzza wa Jalla agar mereka memuliakanmu."
+
+Dikatakan kepada Luqman: "Siapakah manusia yang paling alim?" Ia menjawab: "Orang yang mengambil ilmu manusia lalu menambahkannya kepada ilmunya." Kemudian Luqman bertanya: "Lalu siapakah manusia yang paling kaya?" Mereka menjawab: "Orang yang kaya harta." Ia berkata: "Bukan. Akan tetapi, orang yang kaya ilmu, yang apabila apa yang ada padanya dibutuhkan, ia didapati; dan apabila ia tidak dibutuhkan, ia mencukupi dirinya sendiri."
+
+Ia berkata kepada putranya: "Wahai anakku, pilihlah majelis-majelis dengan cermat. Apabila engkau melihat sebuah majelis yang di dalamnya Allah Taʿālā disebut, duduklah bersama mereka. Sebab jika engkau alim, ilmumu bermanfaat bagimu; dan jika engkau kurang cerdas, mereka mengajarimu; dan jika sesudah itu Allah ʿAzza wa Jalla menurunkan rahmat kepada mereka, rahmat itu akan mengenaimu bersama mereka."
+
+"Wahai anakku, janganlah duduk di majelis yang di dalamnya Allah tidak disebut. Sebab jika engkau alim, ilmumu tidak bermanfaat bagimu; dan jika engkau kurang cerdas, mereka menambah kesesatanmu; dan jika Allah menurunkan murka kepada mereka, murka itu akan mengenaimu bersama mereka."
+
+"Wahai anakku, malulah kepada Allah sebesar kedekatan-Nya kepadamu, dan takutlah kepada Allah sebesar kekuasaan-Nya atasmu. Jauhilah banyak melakukan hal-hal yang tidak perlu, karena perhitunganmu besok akan menjadi panjang. Janganlah Allah melihatmu di tempat yang Dia larang, dan janganlah Dia kehilangan dirimu di tempat yang Dia perintahkan."
+
+Ia berkata: Bertanya adalah separuh ilmu, bersikap baik kepada manusia adalah separuh akal, dan hemat dalam penghidupan adalah separuh biaya.
+
+Ia berkata: Sebagaimana musuh berubah menjadi sahabat karena hubungan baik, demikian pula sahabat menjadi musuh karena sikap dingin.
+
+Ia berkata: Lemahnya perkataan memberitakan [lemahnya] akal, maka perhatikanlah apa yang engkau katakan.
+
+Ia berkata: Apa yang engkau sembunyikan dari musuhmu, janganlah diketahui pula oleh sahabatmu.
+
+Ia berkata: Bertawakal kepada Allah lebih melapangkan, sedikit bersandar kepada manusia lebih teguh, dan balasan bagi orang yang berdusta adalah tidak dipercaya.
+
+Ia berkata: Janganlah berbicara kepada orang yang engkau khawatirkan akan mendustakanmu, janganlah meminta sesuatu yang engkau khawatirkan akan ditolak, janganlah menjanjikan sesuatu yang tidak mampu engkau penuhi, janganlah menjamin sesuatu yang engkau tidak yakin mampu melakukannya, dan janganlah maju kepada suatu urusan yang engkau khawatirkan tidak mampu menanganinya.
+
+Ia berkata: Jauhilah bersahabat dengan pendusta. Jika engkau terpaksa bergaul dengannya, janganlah engkau memercayainya, tetapi jangan pula engkau memberitahunya bahwa engkau mendustakannya; sebab engkau akan kehilangan kasih sayangnya, sedangkan ia tidak akan berubah dari tabiatnya.
+
+"Wahai anakku, janganlah bergegas menuju tempat yang paling tinggi di majelis, karena tempat yang engkau diangkat kepadanya lebih baik daripada tempat yang engkau diturunkan darinya."
+
+"Wahai anakku, aku berwasiat kepadamu agar bertakwa kepada Allah, karena takwa adalah bagianmu dan hak atasmu. Janganlah engkau mengosongkan hatimu dari mengingat Allah, karena keutamaan mengingat Allah atas seluruh perkataan seperti keutamaan Allah atas makhluk-Nya."
+
+"Wahai anakku, carilah rida Sang Pencipta meskipun makhluk murka."
+
+"Wahai anakku, janganlah celaan orang yang mencela menghalangimu dalam [membela agama] Allah."
+
+"Wahai anakku, peliharalah salat-salatmu yang telah diwajibkan, karena perumpamaan salat dan tasbih adalah seperti kapal di laut: jika kapal itu selamat, selamatlah apa yang ada di dalamnya; dan jika binasa, binasalah orang yang ada di dalamnya."
+
+"Wahai anakku, negeri yang tidak datang kepadamu satu hari dan satu malam pun kecuali engkau menyangka akan meninggalkannya, tidak ada manfaat padanya. Maka perhatikanlah bagi dirimu bekal apa yang engkau ambil darinya."
+
+Maka tidak seyogianya orang berakal menuntut ketaatan orang lain sementara ketaatan dirinya sendiri menolaknya.
+
+"Wahai anakku, janganlah bermalas-malasan, karena jika engkau malas, engkau tidak akan menunaikan hak; dan janganlah mudah jemu, karena jika engkau jemu, engkau tidak akan bersabar atas hak. Sebab tidak ada seorang hamba pun yang menahan [pemberian] dalam kebenaran kecuali Allah membukakan baginya satu pintu kebatilan, lalu ia memberikan di dalamnya berlipat-lipat dari itu."
+
+Ia berkata: Niat yang baik berasal dari ibadah, mendengarkan dengan baik berasal dari kesantunan, akhlak yang buruk berasal dari kerendahan budi, akhlak yang baik berasal dari kemuliaan, dan jawaban yang baik berasal dari ilmu.
+
+"Wahai anakku, barang siapa melampaui batas dalam perselisihan, ia berdosa; dan barang siapa lalai di dalamnya, ia dikalahkan."
+
+"Wahai anakku, lakukanlah kebaikan dan janganlah melakukan keburukan. Yang lebih baik daripada kebaikan adalah orang yang melakukannya, dan yang lebih buruk daripada keburukan adalah orang yang melakukannya."
+
+Ia berkata: Apabila engkau mengutus seorang utusan untuk suatu keperluan, utuslah orang yang bijak; jika engkau tidak mendapatinya, pergilah sendiri.
+
+"Wahai anakku, janganlah merasa aman bahwa orang yang berdusta kepadamu tidak akan berdusta tentang dirimu. Memindahkan batu-batu besar dari tempatnya lebih mudah daripada engkau membuat paham orang yang tidak paham."
+
+"Wahai anakku, setiap perkara yang dibisikkan dirimu kepadamu, yang seandainya tampak pada lisanmu engkau akan malu kepada manusia, keluarkanlah ia dari hatimu, karena Allah lebih berhak untuk engkau malui."
+
+Jauhilah berbantah-bantahan, karena berbantah-bantahan mengundang tertumpahnya darah, dan ketika darah tertumpah, datanglah kebinasaan dan kehancuran.
+
+"Wahai anakku, apabila engkau ingin bersaudara dengan seseorang, buatlah ia marah. Jika ia berlaku adil kepadamu ketika marah, ia lebih berhak untuk dijadikan saudara; jika tidak, waspadalah terhadapnya."
+
+"Wahai anakku, jika engkau dikalahkan dalam berbicara, janganlah sekali-kali engkau dikalahkan dalam diam. Hendaklah engkau lebih bersemangat untuk mendengar daripada berbicara."
+
+Ia berkata: Jauhilah orang-orang jahat, niscaya hati kalian selamat, badan kalian beristirahat, dan jiwa kalian menjadi baik.
+
+Ia berkata: Sabar itu dua macam: sabar terhadap apa yang engkau benci dalam kebenaran yang menimpamu, dan sabar dari apa yang engkau sukai yang diserukan oleh hawa nafsu kepadamu.
+
+Ia berkata: Berterima kasihlah kepada orang yang memberimu nikmat, dan berilah nikmat kepada orang yang berterima kasih kepadamu. Sebab nikmat tidak akan kekal apabila dikufuri, dan tidak akan lenyap apabila disyukuri.
+
+Ia berkata: Akhlak yang paling rendah adalah mengkhianati sahabat, menyia-nyiakan rahasia, memercayai setiap orang, banyak berbicara tentang hal yang tidak berguna, dan mengharapkan kemurahan dari orang-orang yang rendah budi.
+
+Ia berkata: Dua perkara yang tidak dapat diatasi dengan siasat: berbaliknya urusan ketika sedang datang, dan datangnya urusan ketika sedang berbalik.
+
+Ia berkata: Lemahnya suatu urusan adalah mengumumkannya sebelum mengokohkannya.
+
+Ia berkata: Orang mulia, apabila berzuhud, menjadi rendah hati; dan orang rendah, apabila berzuhud, menjadi sombong.
+
+Ia berkata: Berbantah-bantahan adalah kunci keras kepala, dan keras kepala adalah kunci dosa.
+
+Ia berkata: Sebagian besar hal yang tidak disukai adalah yang tidak diperhitungkan.
+
+Ia berkata: "Wahai anakku, janganlah prasangka buruk menguasaimu, karena ia tidak menyisakan perdamaian antara engkau dan orang yang engkau cintai."
+
+Ia berkata: Akal tanpa adab seperti pohon yang mandul, dan akal bersama adab seperti pohon yang berbuah.
+
+Ia berkata: Wajah yang berseri karena gembira, menampakkan senyum, memberikan salam, ringan jiwa dalam bergaul, dan meninggalkan fanatisme adalah hal-hal yang mengundang kecintaan di tengah makhluk.
+
+## Riwayat Galen sang Tabib {.judul-bab}
+
+Dalam bahasa Yunani tidak ada huruf *jīm*, sehingga dalam bahasa mereka nama ini adalah Galenos, yang maknanya "orang yang tenang".
+
+Galen hidup kira-kira dua ratus tahun sesudah al-Masih, kira-kira enam ratus tahun sesudah Hippokrates, dan kira-kira lima ratus tahun lebih sesudah Iskandar. Ia adalah salah seorang dari delapan tabib terdahulu yang menjadi rujukan dalam keahlian kedokteran, yang merupakan pemimpin aliran-aliran dan guru para guru. Yang pertama dari mereka, dan yang darinya seluruh tabib terdahulu berketurunan, adalah Asklepios pertama; yang kedua Ghurus; yang ketiga Minus; yang keempat Parmenides;[^t47] yang kelima Plato; yang keenam Asklepios kedua; yang ketujuh Hippokrates; dan yang kedelapan Galen. Ia adalah penutup para tabib besar; tidak ada tabib yang datang sesudahnya kecuali yang kedudukannya di bawahnya dan belajar darinya.
+
+[^t47]: CT: Dalam terjemahan Inggris dari versi Spanyol *Mukhtār al-Ḥikam*, sumber utama teks al-Shahrazūrī, nama-nama ini diberikan berturut-turut sebagai Gorus, Myrus, dan Promenides. Tentang dugaan M. Plessner bahwa Ghurus mungkin adalah (Anaxa)goras dan Minos adalah (Anaxi)menes, lihat Franz Rosenthal, *The Classical Heritage in Islam*, terj. Inggris Emile dan Jenny Marmorstein (Berkeley dan Los Angeles: University of California Press, 1975), 269. Adapun Flügel mengusulkan nama-nama ini sebagai Diagoras dan Menas; Ibn al-Nadīm, *Kitāb al-Fihrist*, ed. Gustav Flügel (Leipzig: Verlag von F. C. W. Vogel, 1872), 136. Menurut Dodge, Ghurus mungkin menunjuk kepada dewa matahari Mesir, Horus, dan Minus kepada raja Mesir Menes sebagai otoritas kedokteran; *The Fihrist of al-Nadim*, ed. dan terj. Bayard Dodge (New York: Columbia University Press, 1970), II, 674, catatan 7 dan 8.
+
+Masa kelahirannya sedikit kurang dari dua ratus tahun sesudah zaman al-Masih ʿalayhi al-salām. Ia menulis banyak kitab, kecil dan besar, kira-kira empat ratus kitab. Kitab-kitabnya yang besar sangat tebal dan banyak uraian serta penjelasannya. Di antara kitab-kitab ini ada enam belas kitab yang diajarkan kepada orang yang ingin mempelajari kedokteran. Ayahnya memberinya perhatian yang sangat besar, membelanjakan harta yang banyak untuknya, memberikan upah yang besar kepada para guru, dan mendatangkan mereka kepadanya dari kota-kota yang jauh.
+
+Ia lahir dan tumbuh di Pergamon, di negeri Asia. Ia bepergian ke Athena, Roma, Iskandariah, dan negeri-negeri lainnya untuk menuntut ilmu. Ia belajar kedokteran dari Herminos, dan belajar geometri, bahasa, tata bahasa, dan lain-lain dari sekelompok ahli geometri, ahli tata bahasa, dan orator. Ia juga belajar kedokteran kepada seorang perempuan bernama Kleopatra[^t48] dan mengambil darinya banyak obat, terutama yang berkaitan dengan pengobatan penyakit-penyakit perempuan.
+
+[^t48]: CT: Dalam terjemahan Inggris dari versi Spanyol *Mukhtār al-Ḥikam*, sumber utama teks al-Shahrazūrī, nama ini tertulis Cleupare.
