@@ -4110,3 +4110,97 @@ Abū al-Rayḥān al-Bīrūnī pernah mengirimkan sejumlah persoalan kepada Abū
 Abū al-Faraj biasa berkata: "Aku termasuk keturunan Paulus, dan Paulus adalah putra saudari Galen. Ketika Allah Taʿālā mengutus al-Masīḥ, Galen adalah seorang tua yang lemah. Maka ia mengutus kepada ʿĪsā ṣallā Allāh ʿalayhi wa-sallam putra saudarinya, Paulus, dan meminta maaf kepadanya seraya berkata: 'Aku terkurung oleh usia tua.' Ia menulis sepucuk surat kepada al-Masīḥ, dan al-Masīḥ ʿalayhi al-salām dapat membaca dan menulis. Isi surat itu: 'Wahai tabib jiwa-jiwa dan nabi Allah, adakalanya orang sakit tidak mampu melayani tabib karena halangan-halangan jasmani. Aku telah mengutus kepadamu sebagian dari diriku, Paulus, agar engkau mengobati jiwanya dengan adab-adab kenabian. Wassalam.' Ketika Paulus sampai kepada al-Masīḥ, beliau memuliakannya, dan ia pun menjadi salah seorang hawari. Al-Masīḥ menulis kepada Galen: 'Wahai orang yang berlaku adil dalam ilmunya, orang yang sehat tidak memerlukan tabib kecuali untuk memelihara kesehatannya, dan jarak tidak menghalangi jiwa-jiwa. Wassalam.'"
 
 Orang-orang Nasrani mengklaim bahwa Paulus menjadi nabi sesudah Syamʿūn al-Ṣafā.
+
+## Abū al-Qāsim al-Kirmānī {.judul-bab}
+
+Ia adalah seorang ahli hikmah yang berilmu. Antara dirinya dan Abū ʿAlī pernah berlangsung sebuah perdebatan yang berujung pada pertengkaran yang tidak terlepas dari adab yang buruk. Abū ʿAlī menuduhnya kurang memperhatikan seni logika, sedangkan al-Kirmānī menuduh Abū ʿAlī melakukan sofisme. Abū ʿAlī menuliskan perdebatan ini kepada wazir al-Amīn Abū Saʿīd al-Hamadhānī, yang untuknya ia menyusun *al-Aḍḥawiyya*.
+
+Di antara perkataannya: "Tabib adalah pelayan takdir, entah si sakit sembuh atau binasa."
+
+Suatu hari ia berkata kepada Abū ʿAlī: "Janganlah engkau menetapkan kebenaran pendapatmu dengan memburuk-burukkan pendapat orang lain, sebab kebenaran itu terang benderang dan sikap adil belum lenyap."
+
+## Abū Ḥāmid Aḥmad ibn Isḥāq al-Isfizārī {.judul-bab}
+
+Ia adalah ahli hikmah yang bertakwa dan filsuf yang unggul. Ia memiliki karya-karya dalam matematika dan hal-hal rasional. Perkataannya dalam karya-karyanya tersaring rapi, tanpa debu, dan tidak tercampur kelemahan. Di antara perkataannya:
+
+"Ilmu tentang Allah terwujud dengan lafal yang sedikit; adapun lafal yang banyak adalah bukti ketiadaan ilmu tentang-Nya."
+
+"Orang teraniaya yang tidak menganiaya dikabulkan doanya."
+
+"Janganlah berlebih-lebihan dalam keramahan dan keriangan, sebab hal itu termasuk kedunguan, sebagaimana sedikit bicara termasuk kesombongan."
+
+## Abū al-Wafāʾ al-Būzjānī {.judul-bab}
+
+Ia mencapai kedudukan tertinggi dalam matematika dan ilmu hitung. Ia terpuji jejaknya, bersih hatinya, dan merasa cukup dengan apa yang ada padanya.
+
+## Ptolemeus Kedua, Abū ʿAlī ibn al-Haytham {.judul-bab}
+
+Ia berilmu dalam matematika dan hal-hal rasional. Karya-karyanya terlalu banyak untuk dihitung. Ia memiliki sebuah risalah yang halus tentang akhlak, yang belum pernah didahului oleh siapa pun. Ia menyusun sebuah kitab yang di dalamnya ia menjelaskan cara mengalirkan air Nil Mesir ke ladang-ladang ketika airnya surut. Ia membawa kitab itu dan menuju Kairo, lalu singgah di sebuah khan. Begitu ia meletakkan tongkatnya, dikatakan kepadanya: "Penguasa Mesir, yang bergelar al-Ḥākim, ada di pintu mencarimu." Ia pun keluar membawa kitabnya.
+
+Abū ʿAlī bertubuh pendek, dan di pintu khan itu terdapat sebuah panggung tanah. Abū ʿAlī naik ke atas panggung itu dan menyerahkan kitabnya kepada sang khalifah, penguasa Mesir, yang sedang menunggang seekor keledai Mesir dengan perlengkapan berlapis perak. Ketika penguasa Mesir itu menelaah kitab tersebut, ia berkata kepadanya: "Engkau keliru, sebab biaya cara ini lebih besar daripada manfaat tanamannya." Ia memerintahkan agar panggung itu dirobohkan, lalu berlalu. Abū ʿAlī pun takut akan keselamatan dirinya, lalu melarikan diri ketika malam tiba, dan menetap di Syam pada salah seorang amir Syam. Amir itu menaruh perhatian kepadanya dan memberinya harta yang banyak. Abū ʿAlī berkata kepadanya: "Cukup bagiku makanan sehari demi sehari, dan cukup bagiku seorang budak perempuan dan seorang pelayan. Apa yang lebih dari makanan hariku, jika aku menahannya, aku menjadi bendaharamu; dan jika aku membelanjakannya, aku menjadi wakilmu. Apabila aku sibuk dengan kedua urusan ini, siapakah yang akan mengurus urusanku dan ilmuku?" Sesudah itu ia tidak menerima apa pun kecuali makanan sehari dan pakaian yang sederhana.
+
+Dikatakan pula bahwa al-Ḥākim, yang memiliki kecenderungan kepada hikmah, mendengar keutamaan Abū ʿAlī, yang ketika itu tinggal di Syam, sehingga ia merindukannya. Sampai pula kepadanya kabar bahwa Abū ʿAlī berkata: "Seandainya aku berada di Mesir, niscaya aku mengetahui suatu cara pengerjaan pada Nil yang dapat dimanfaatkan ketika airnya surut." Maka kerinduannya kepadanya semakin kuat. Ia mengirimkan kepadanya secara diam-diam sejumlah pemberian dan memintanya datang kepadanya. Abū ʿAlī pun berangkat. Ketika ia mendekati Kairo, al-Ḥākim keluar menyambutnya, memuliakannya, menempatkannya, dan berbuat baik kepadanya. Kemudian ia menuntut darinya apa yang pernah ia katakan tentang Nil. Abū ʿAlī pun keluar bersama sekelompok pembantu, berkeliling negeri Mesir di sepanjang Nil, dan melihat peninggalan orang-orang terdahulu berupa bangunan-bangunan yang dahsyat dan rekayasa yang menjulang. Ia melihat tempat di Ṣaʿīd yang tinggi di aliran Nil, dan ia pun yakin bahwa apa yang ia bayangkan itu keliru dan tidak mungkin diwujudkan, dan bahwa ia tidak lebih mampu melakukannya daripada orang-orang terdahulu; seandainya hal itu mungkin, tentulah mereka telah melakukannya. Ia merasa malu karenanya dan meminta maaf kepada al-Ḥākim. Al-Ḥākim memaafkannya dan mengangkatnya untuk mengurus sebagian diwan. Kemudian ia menjadi yakin bahwa al-Ḥākim adalah penumpah darah dengan sebab-sebab yang paling remeh, sehingga ia takut kepadanya. Ia pun berpura-pura gila, lalu dibelenggu di rumahnya dan hartanya diletakkan di bawah pengampuan.[^p29] Ia terus demikian hingga al-Ḥākim wafat. Lalu ia menampakkan kewarasan dan sikap menahan diri, dan mengasingkan diri di dekat masjid jami hingga ia wafat.
+
+[^p29]: CP: Terjemahan Turki berbunyi "ia menguburkan hartanya di bawah sebuah batu", yakni membaca kata *ḥ-j-r* sebagai *ḥajar* ("batu"). Konteksnya, yakni orang yang dianggap gila lalu dibelenggu di rumahnya, menunjukkan bacaan *ḥajr*, yaitu pengampuan (larangan bertindak atas harta) yang dikenakan kepada orang yang dinilai tidak cakap hukum.
+
+Salah seorang amir Simnān yang bernama Surkhāb datang kepadanya untuk belajar. Ia berkata kepadanya: "Aku menghendaki darimu seratus dinar setiap bulan sebagai upah." Amir itu memberikannya dan tinggal bersamanya selama tiga tahun. Ketika sang amir hendak pulang, Abū ʿAlī berkata kepadanya: "Ambillah seluruh hartamu, aku tidak memerlukannya, dan engkau lebih memerlukannya daripada aku ketika engkau kembali ke pusat kerajaanmu. Aku hanya mengujimu dengan upah ini. Ketika aku mengetahui bahwa harta tidak memiliki arti dan tempat di sisimu dalam menuntut ilmu, aku mencurahkan segenap upayaku untuk mengajar dan membimbingmu. Ketahuilah, tidak ada upah, suap, ataupun hadiah dalam menegakkan kebaikan." Kemudian amir itu berpamitan kepadanya dan pergi. Abū ʿAlī ibn al-Haytham adalah seorang yang tekun beribadah, wara, zuhud, dan mengagungkan perintah-perintah syariat.
+
+Dalam salah satu risalahnya ia berkata: "Kita membayangkan kedudukan-kedudukan yang sesuai bagi gerak-gerak langit. Seandainya kita membayangkan kedudukan-kedudukan lain yang juga sesuai bagi gerak-gerak itu, tidak ada penghalang yang mencegahnya, sebab belum ditegakkan bukti bahwa tidak mungkin ada kedudukan lain selain kedudukan-kedudukan itu yang sesuai bagi gerak-gerak ini." Perkataannya panjang, dan risalah itu adalah karyanya yang terakhir.
+
+Ia diserang diare berdarah. Setiap kali ia memakan sesuatu yang bersifat mengikat, ia memuntahkannya, sehingga ia berputus asa akan dirinya. Kemudian ia berkata: "Ilmu geometri telah sia-sia, pengobatan dan ilmu kedokteran telah batal, dan tidak ada yang tersisa selain menyerahkan jiwa kepada Penciptanya dan Pembuatnya." Kemudian, sesudah menderita diare itu selama sepekan, ia menghadap kiblat dan berkata: "Kepada-Mu tempat kembali dan tujuan akhir. Tuhanku, kepada-Mu aku bertawakal dan kepada-Mu aku kembali." Lalu ia wafat, semoga Allah Taʿālā merahmatinya.
+
+Di antara perkataannya: "Manusia diciptakan dengan tabiat menjauhi orang yang mendekatinya dan mendekati orang yang menjauhinya."
+
+"Nasihat para ahli hikmah, meskipun sedikit, besar manfaatnya."
+
+Ketahuilah bahwa Ibn al-Haytham, al-Kindī, dan al-Rāzī memiliki banyak karya. Ibn al-Haytham memiliki sebuah risalah yang halus, yang di dalamnya ia menjelaskan bahwa seluruh urusan dunia dan akhirat adalah hasil dari ilmu-ilmu filsafat.
+
+## Abū Sahl al-Kūhī {.judul-bab}
+
+Pada awal perjalanan hidupnya ia termasuk orang yang bermain ketangkasan dengan botol-botol kaca di pasar-pasar. Kemudian ia disusul oleh inayah azali, sehingga ia unggul dalam ilmu mekanika, ilmu beban, dan bola-bola yang bergerak, dan menjadi orang yang ditunjuk dengan jari. Ia mempelajari sastra meskipun usianya telah lanjut, menyusun kitab-kitab, dan didatangi orang untuk mengambil faedah. Ia berparas tampan.
+
+Di antara perkataannya: "Jika seseorang meminta maaf kepadamu, sambutlah ia dengan wajah berseri, kecuali jika ia termasuk orang yang memutus hubungan dengannya justru merupakan keuntungan."
+
+## Ibn al-Aʿlam {.judul-bab}
+
+Ia lahir dan tumbuh di Baghdad. Ia adalah seorang syarif dari keturunan Jaʿfar al-Ṭayyār, dan padanya ada tabiat gegabah. Ia menyusun zij yang dinisbatkan kepadanya, dan para ahli geometri sepakat bahwa perhitungan Mars dalam zijnya adalah yang paling tepat dan paling dekat kepada kenyataan. Akan tetapi, suatu hari ia melemparkan zijnya ke dalam air, sehingga tidak didapati darinya kecuali satu naskah yang cacat. Ia berilmu dalam geometri dan bagian-bagiannya, serta mengenal kaidah Pythagoras dalam musik.
+
+Di antara yang dinukil darinya, meskipun akhlaknya adalah akhlak orang-orang gila: "Jadilah engkau bersama para raja dalam keadaan dimuliakan, atau bersama para zahid dalam keadaan memutuskan diri dari dunia." Ini adalah perkataan yang kokoh, dikelilingi benteng hikmah yang kukuh; akan tetapi ia adalah lemparan tepat dari orang yang bukan pemanah.
+
+## Abū al-Faraj ʿAlī ibn al-Ḥusayn ibn Hindū {.judul-bab}
+
+Ia adalah seorang sastrawan yang utama dan ahli hikmah, termasuk murid-murid Abū al-Khayr al-Ḥasan ibn Suwār. Ia memiliki banyak karya. Abū al-Faraj menyebutkan dalam kitab *al-Miftāḥ* bahwa di lingkungan kami ada seorang mutakalim yang menyusun sebuah kitab untuk membatalkan ilmu kedokteran dan mendorong murid-muridnya untuk mempelajarinya. Kemudian ia diserang sakit kepala, lalu mengirimkan air seninya kepada sang ahli hikmah Abū al-Khayr. Sang ahli hikmah Abū al-Khayr berkata kepada utusannya: "Katakan kepadanya: 'Letakkanlah karyamu tentang batalnya ilmu kedokteran di bawah bantalmu dan letakkanlah kepalamu di atasnya, karena engkau tidak memerlukan tabib dan kedokteran.'" Tidak seorang tabib pun mau mengobatinya hingga ia mengakui kebatilan perkataannya, merobek karyanya, dan bertobat. Kemudian kami mengobatinya, dan Allah Tabāraka wa-Taʿālā menyembuhkannya.
+
+Abū al-Faraj berkata: "Suatu hari aku berkata kepadanya: 'Rasulullah bersabda: *"Ilmu itu ada dua: ilmu tentang badan dan ilmu tentang agama."*[^t54] Beliau mendahulukan ilmu tentang badan, karena ibadah-ibadah hanya dapat terlaksana dari orang yang sehat tubuhnya dan kokoh akalnya. Allah Taʿālā berfirman: *"…dan tidak (pula) bagi orang sakit…"* (al-Nūr: 61), dan Allah Taʿālā berfirman: *"…dan jika kamu sakit…"* (al-Nisāʾ: 43), dan Allah Taʿālā berfirman: *"Maka barang siapa di antara kamu sakit…"* (al-Baqarah: 184). Pengobatan-pengobatan Nabi ʿalayhi al-salām pun terkenal, dan salah seorang tabib telah mengumpulkannya serta menyusun sebuah kitab darinya.' Maka mutakalim itu pun beristigfar."
+
+[^t54]: CT: Lihat Muḥammad ibn ʿAlī ibn Muḥammad al-Shawkānī, *al-Fawāʾid al-Majmūʿa fī al-Aḥādīth al-Mawḍūʿa*, ed. ʿAbd al-Raḥmān Yaḥyā al-Muʿallimī, cet. ke-2 (Beirut: al-Maktab al-Islāmī, 1407), 284.
+
+Ia berkata: "Di lingkungan kami ada seorang mutakalim yang diserang radang tenggorokan. Aku menjenguknya, lalu ia berkata kepadaku: 'Apa yang bermanfaat bagiku menurut jalan kedokteran?' Aku berkata kepadanya: 'Yang bermanfaat bagimu adalah air jelai yang hangat dicampur air dua jenis delima, sari kental murbei, cuka kenari, air hindiba dengan daging buah khiyār shanbar, pengeluaran darah dari pembuluh qīfāl, dan sebagainya.' Ia bertanya: 'Lalu apa yang membahayakanku?' Aku menjawab: 'Segala yang mengandung panas.' Ia bertanya: 'Bagaimana dengan madu murni dan bubur kurma?' Aku menjawab: 'Berlindunglah kepada Allah, di situlah kebinasaanmu.' Maka ia berkata kepada murid-muridnya: 'Aku menyelisihi pendapat para tabib, baik dalam akidah maupun mazhab. Semoga Allah tidak mengampuniku jika aku menyelisihi akidahku dan menaati seorang tabib.' Aku pun bangkit meninggalkannya. Ia lalu memakan hal itu, dan ia mati sebelum matahari terbenam."
+
+Kitab *al-Miftāḥ* sangat bermanfaat. Ia termasuk para sekretaris al-Sayyida di Rayy.
+
+Di antara perkataannya: "Jadilah kuat ketika bersungguh-sungguh dan lemah ketika bersenda gurau. Seseorang hanyalah berada di tempat ia menempatkan dirinya."
+
+Ia berkata dalam mendorong untuk bergerak dan berusaha:
+
+> Dua sahabatku, bukanlah pendapat yang benar apa yang kalian lihat; biarkanlah aku, sebab aku telah pergi mengurus urusanku.
+>
+> Dua sahabatku, seandainya dalam usaha tiada ketinggian, tidaklah matahari dan bulan senantiasa bergerak sepanjang hari.
+
+Dan dalam melarang berkeluarga serta menganjurkan hidup menyendiri:
+
+> Apa urusan orang yang berkeluarga dengan ketinggian? Sesungguhnya yang naik ke sana hanyalah yang sendiri lagi tunggal.
+>
+> Matahari menjelajahi langit seorang diri, sedangkan si ayah Banāt Naʿsh diam tertambat di sana.
+
+Ia juga bersyair:
+
+> Mereka berkata: "Sibukkanlah dirimu dari mereka sehari saja dengan selain mereka, dan tipulah jiwamu, sebab jiwa dapat tertipu."
+>
+> Hatiku telah dibentuk seukuran cintaku kepada mereka, maka tiada ruang di dalamnya bagi cinta kepada selain mereka.
+
+Dan tentang langkanya kesempurnaan:
+
+> Apabila kau lihat keutamaan telah melimpah pada seorang pemuda, ketahuilah bahwa di sana ada kekurangan yang tersembunyi.
+>
+> Allah terlalu sempurna kuasa-Nya untuk memperlihatkan kepadamu seorang kedua dalam kesempurnaan orang yang kau lihat itu.
