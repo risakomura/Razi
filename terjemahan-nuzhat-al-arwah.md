@@ -4304,3 +4304,113 @@ Di antara syairnya:
 ## Abū al-Qāsim al-Ḥusayn ibn Muḥammad ibn al-Faḍl al-Rāghib {.judul-bab}
 
 Ia termasuk ahli hikmah Islam. Dialah yang memadukan antara syariat dan hikmah dalam karya-karyanya. Ia memiliki banyak karya, di antaranya *Ghurrat al-Tanzīl wa-Durrat al-Taʾwīl*. Bagiannya dalam ilmu-ilmu rasional lebih besar.
+
+## Abū al-Qāsim ʿAbd al-Raḥmān ibn Abī Ṣādiq {.judul-bab}
+
+Ia memperoleh kedudukan yang agung dalam hikmah dan bagian-bagiannya, terutama dalam kedokteran. Ia berperangai baik, berasal dan lahir di Nishapur, dan dialah yang dijuluki Hippokrates Kedua.
+
+Dikatakan bahwa pada akhir umurnya ia pindah ke salah satu tempat peristirahatan Nishapur di sebuah desa, menetap di tempatnya, dan memilih hidup menyepi. Seseorang masuk menemuinya, sementara di hadapannya ada nampan-nampan berisi buah-buahan. Ia berkata kepada orang itu: "Bagiku tidak ada bedanya antara nampan-nampan ini dan buah-buahannya, sebab buah-buahan membahayakanku. Maka aku merasa cukup dengan aromanya dan dengan harumnya udara. Aku tidak berselera memakan buah-buahan ini. Aku telah menenangkan diriku darinya dan menolak bahayanya, sebab bahaya adakalanya sampai pada batas yang tidak dapat ditolak."
+
+Ia hidup dengan baik. Kemudian ʿAmīd Khurasan, Muḥammad ibn Manṣūr, diserang kolik yang pengobatannya melelahkan setiap tabib. Ia pun mengirimkan tunggangannya dan budak-budaknya kepada Ibn Abī Ṣādiq dan memintanya datang. Ketika itu matahari berada pada derajat pertama Cancer, dan jarak antara desa itu dan Nishapur dua belas farsakh. Ia pun tersiksa oleh panas, cepatnya perjalanan, liarnya tunggangan itu, dan dahaga. Ia berkata kepada murid-muridnya yang menyertainya: "ʿAmīd Khurasan akan selamat, dan akulah yang binasa." Dan terjadilah sebagaimana yang ia katakan. Ia mengobatinya hingga sembuh, sedangkan Abū al-Qāsim jatuh sakit dan kekuatannya runtuh. Umurnya ketika itu telah melampaui delapan puluh tahun,[^p30] dan ia pun menemui ajalnya.
+
+[^p30]: CP: Terjemahan Turki berbunyi "sesudah delapan puluh hari lebih, takdir Ilahi pun terlaksana". Teks Arab *wa-qad nayyafa ʿalā al-thamānīn* menunjukkan usianya, yakni bahwa ia telah berumur lebih dari delapan puluh tahun. Demikian pula, teks Arab menyebut matahari berada pada awal Cancer (musim panas), bukan Scorpio sebagaimana dalam terjemahan Turki; hal ini sejalan dengan panas yang menyiksanya dalam perjalanan.
+
+Dikatakan bahwa sultan mengutus orang-orang kepercayaannya kepadanya dan memanggilnya untuk mengabdi kepadanya. Ia berkata: "Orang yang merasa cukup dengan apa yang ada padanya tidak cocok untuk mengabdi kepada sultan. Orang yang dipaksa mengabdi tidak dapat diambil manfaat dari pengabdiannya, seperti elang yang dipaksa berburu."
+
+Sultan Ghazna, Ibrāhīm, mengirimkan kepadanya harta yang besar beserta tandu dan tunggangan-tunggangan, dan memanggilnya ke hadapannya dengan cara yang halus. Ia berkata: "Sultan mencariku karena ilmuku. Ia membelanjakan hartanya kepadaku agar aku membelanjakan ilmuku kepadanya. Ini adalah jual beli, padahal ilmu tidak dibeli dan tidak dijual. Aku tidak memerlukan harta itu, dan melimpahkan ilmuku kepada penduduk negeriku lebih utama. Maka aku mendoakan kebaikan bagi sultan dan membebaskan diriku dari perbudakan utang budi."
+
+Di antara perkataannya: "Tabib sejati adalah orang yang mengobati jiwanya dengan keutamaan-keutamaan dan melihat bahaya bagi jiwanya dalam kehinaan-kehinaan, kemudian sesudah itu turun untuk mengobati tubuh-tubuh. Barang siapa turun kepada pengobatan jasad tanpa berangkat dari pengobatan jiwa, ia adalah yang paling rendah di antara orang-orang rendah."
+
+Dikatakan bahwa ia sempat menjumpai Abū ʿAlī ibn Sīnā dan mengambil faedah darinya.
+
+## Al-Ustādh al-Mukhtaṣṣ Abū al-Ḥasan ʿAlī al-Nasawī {.judul-bab}
+
+Ia termasuk ahli hikmah Rayy dan pemilik *al-Zīj al-Fākhir*. Ia adalah seorang ahli hikmah dan ahli geometri yang berakhlak terpuji. Umurnya mendekati seratus tahun dengan daya-daya yang tetap utuh, hanya saja kelemahan menghalanginya berjalan di pasar-pasar, sehingga ia menetap di rumahnya. Dikatakan bahwa ia termasuk murid Kūshyār dan Abū Maʿshar; hal ini perlu ditinjau, tetapi yang jelas ia termasuk orang-orang yang berumur panjang.
+
+Di antara perkataannya: "Dengan cita-cita yang tinggi lagi benar, seseorang mencapai apa yang dicarinya, bukan dengan kerja keras semata."
+
+Ia biasa berkata kepada murid-muridnya: "Jadilah kalian orang-orang yang memiliki keahlian, dan janganlah menjadi para pencicip, karena pencicip tidak pernah kenyang."
+
+## ʿAḍud al-Dunyā wa-al-Dīn, Raja Yazd {.judul-bab}
+
+Ia adalah seorang raja yang berilmu dan adil. Ia memiliki sebuah kitab yang ia namai *Muhjat al-Tawḥīd*. Ia membela pendapat Abū al-Barakāt dan menetapkan pandangannya dalam persoalan pengetahuan Allah (tentang hal-hal partikular). Ia berakhlak dengan akhlak para ahli hikmah.
+
+Suatu hari ia bertanya kepada al-Khayyāmī: "Apa pendapatmu tentang kritik-kritik Abū al-Barakāt terhadap Abū ʿAlī?" Al-Khayyāmī menjawab: "Ia tidak memahami perkataan Abū ʿAlī. Ia tidak memiliki tingkat untuk memahami perkataannya, maka bagaimana mungkin ia memiliki tingkat untuk mengkritiknya?" Raja ʿAlāʾ al-Dawla berkata kepadanya: "Apakah mustahil ada intuisi yang lebih kuat daripada intuisi Abū ʿAlī, ataukah mungkin?" Al-Khayyāmī menjawab: "Tidak mustahil." Raja berkata kepadanya: "Engkau telah setara dengan budak orang lain! Engkau berkata bahwa ia tidak memiliki tingkat untuk memahami dan mengkritik, sedangkan budakku, si pembawa tempat tinta, berkata bahwa ia memiliki tingkat untuk memahami, mengkritik, bahkan lebih. Maka engkau berbicara dengan perkataan yang tidak lebih unggul daripada perkataan seorang budak. Janganlah engkau condong kepada kedunguan, sebab budakku lebih mampu dalam hal itu daripadamu." Al-Khayyāmī pun menjadi bingung. Raja berkata kepadanya: "Ahli hikmah memburuk-burukkan perkataan orang lain dengan bukti, sedangkan ahli debat yang dungu dengan umpatan dan fitnah. Carilah yang lebih tinggi dari kedua derajat itu, dan janganlah puas dengan yang paling hina dari kedua kehinaan itu." Maka al-Khayyāmī bangkit dalam keadaan terkekang oleh diam.
+
+Di antara perkataannya dalam *Muhjat al-Tawḥīd*: "Orang yang belum sempurna dalam keahlian yang layak baginya tidak patut menuntut keahlian lain. Barang siapa rela dengan yang kurang dan dengan kekurangan, ia menjadi terhalang dari mencapai kesempurnaan dalam segala keadaan."
+
+## ʿUmar al-Khayyāmī {.judul-bab}
+
+Ia berasal dari Nishapur, baik leluhur maupun kelahirannya. Ia adalah pengikut Abū ʿAlī dalam bagian-bagian ilmu hikmah, hanya saja ia buruk perangainya dan sempit dadanya.
+
+Di Isfahan ia pernah merenungkan sebuah kitab sebanyak tujuh kali dan menghafalnya. Kemudian ia kembali ke Nishapur dan mendiktekannya. Ketika hasilnya dibandingkan dengan naskah aslinya, tidak didapati banyak perbedaan di antara keduanya.
+
+Ia kikir dalam menulis dan mengajar. Ia memiliki sebuah ringkasan dalam fisika, sebuah risalah tentang wujud, dan sebuah risalah tentang penciptaan dan pembebanan. Ia berilmu dalam bahasa, fikih, dan sejarah.
+
+Al-Khayyāmī masuk menemui wazir ʿAbd al-Razzāq, sementara di sisinya ada imam para qari, Abū al-Ḥasan al-Ghazzāl. Keduanya sedang membicarakan perbedaan para qari tentang sebuah ayat. Wazir berkata: "Kita telah jatuh kepada orang yang ahli." Lalu al-Khayyāmī ditanya tentang hal itu. Ia pun menyebutkan perbedaan para qari, menjelaskan alasan masing-masing, menyebutkan bacaan-bacaan syaz beserta alasannya, dan mengunggulkan salah satu segi. Al-Ghazzāl berkata: "Semoga Allah memperbanyak di antara para ulama orang sepertimu. Sungguh, aku tidak mengira ada seorang pun dari kalangan qari yang menghafal hal itu, apalagi seorang ahli hikmah."
+
+Adapun bagian-bagian hikmah berupa matematika dan hal-hal rasional, ia adalah pakarnya. Suatu hari Ḥujjat al-Islām Muḥammad al-Ghazālī masuk menemuinya dan bertanya kepadanya tentang penentuan satu bagian tertentu dari falak sebagai kutub, bukan bagian lainnya, padahal bagian-bagiannya serupa. Al-Khayyāmī memanjang-manjangkan pembicaraan dan memulainya dari bahwa gerak termasuk kategori anu, dan ia enggan menyelami pokok persoalan yang diperselisihkan. Itulah kebiasaan syaikh tersebut. Hingga azan zuhur dikumandangkan, lalu al-Ghazālī berkata: *"Kebenaran telah datang dan yang batil telah lenyap"* (al-Isrāʾ: 81), lalu ia bangkit.
+
+Ia masuk menemui Sultan Sanjar ketika masih kanak-kanak dan sedang terserang cacar. Ketika ia keluar, wazir bertanya kepadanya: "Bagaimana engkau melihatnya, dan dengan apa engkau mengobatinya?" ʿUmar menjawab: "Anak ini dalam keadaan yang mengkhawatirkan." Seorang pelayan Habsyi menyampaikan hal itu kepada sultan. Ketika sultan sembuh, ia membencinya dan tidak pernah menyukainya.
+
+Malikshāh menempatkannya pada kedudukan teman-teman majelisnya, dan al-Khāqān Shams al-Mulūk di Bukhara sangat mengagungkannya dan mendudukkannya di atas singgasananya.
+
+Diceritakan bahwa ia sedang mencungkil giginya dengan tusuk gigi dari emas sambil menelaah bagian Metafisika dari *al-Shifāʾ*. Ketika ia sampai pada pasal tentang Yang Satu dan yang banyak, ia meletakkan tusuk gigi itu di antara dua lembar,[^p31] lalu bangkit, salat, dan berwasiat. Ia tidak makan dan tidak minum. Ketika ia telah menunaikan salat isya yang terakhir, ia bersujud dan berkata dalam sujudnya: "Ya Allah, Engkau mengetahui bahwa aku telah mengenal-Mu sebatas kemampuanku, maka ampunilah aku, karena pengenalanku akan Engkau adalah wasilahku kepada-Mu." Lalu ia wafat, semoga Allah merahmatinya.
+
+[^p31]: CP: Terjemahan Turki memahami kata *khilāl* sebagai "hilal", yakni penanda halaman berbentuk bulan sabit dari emas yang dipakainya untuk membalik halaman. Teks Arab *yatakhallalu bi-khilāl min dhahab* berarti "mencungkil giginya dengan tusuk gigi dari emas"; tusuk gigi itulah yang kemudian ia selipkan di antara dua lembar kitab.
+
+Ia memiliki syair-syair yang indah dalam bahasa Arab dan Persia, di antaranya:
+
+> Dunia berutang kepadaku, bahkan tujuh bintang yang tinggi, bahkan falak yang tertinggi, apabila pikiranku bergolak.
+>
+> Aku berpuasa dari kekejian, terang-terangan maupun tersembunyi, demi menjaga kehormatan, dan berbukaku adalah menyucikan Penciptaku.
+>
+> Betapa banyak golongan yang tersesat dari kebenaran, lalu mendapat petunjuk ke jalan-jalan hidayah dari limpahanku yang menetes.
+>
+> Sebab jalanku yang lurus adalah pandangan-pandangan batin yang dipancangkan di atas lembah kebutaan bagaikan jembatan-jembatan.
+
+Ia juga bersyair:
+
+> Apabila jiwaku merasa cukup dengan bekal secukupnya yang mudah, yang kuperoleh dengan jerih payah telapak tangan dan lenganku,
+>
+> aku aman dari gonjang-ganjing peristiwa; maka jadilah engkau, wahai zamanku, pengancamku atau pemberi janji kepadaku.
+>
+> Anggaplah aku menjadikan bintang Syiʿrā di antara tempat-tempat singgahku, dan di atas tempat bergantungnya dua bintang Farqad tempat-tempat naikku;
+>
+> bukankah al-Raḥmān telah menetapkan dalam hukum-Nya untuk mengembalikan seluruh bintang keberuntungan kepada kesialan?
+>
+> Manakala ajalmu telah dekat, habislah perkara; alangkah menakjubkan yang dekat namun disangka jauh ini!
+>
+> Apabila hasil kehidupan adalah kematian, maka sama saja setiap orang yang berusaha dan yang duduk diam.
+
+Ia berkata:
+
+> Telah lama kulewatkan masa mencari saudara yang menjaga cintaku apabila orang yang bersahabat berkhianat.
+>
+> Betapa banyak yang telah kuakrabi, betapa banyak yang bukan saudara kujadikan saudara, dan betapa sering kuganti saudara-saudara dengan saudara-saudara.
+>
+> Tiada orang tepercaya yang setia kepadaku sepanjang hari-hari, tiada seorang pun menjaga hakku dan tidak pula memeliharanya.
+>
+> Lalu kukatakan kepada jiwaku ketika yang dicarinya menjadi langka: "Demi Allah, janganlah engkau akrab dengan seorang manusia pun selama engkau hidup."
+
+Ia berkata:
+
+> Apakah angin bintang-bintang malam telah reda tak bergerak, ataukah kelopak mata telah terkatup atasnya dalam tidur?
+>
+> Apakah falak-falak telah terurai, ataukah putarannya melambat, sehingga ia menjadi bingung, kehilangan jalan yang lurus?
+>
+> Seakan bintang-bintang yang beredar telah berhenti dari perjalanannya sebelum mencapai tujuan-tujuannya.
+>
+> Di hati Bahrām ada debar dan ketakutan, dan Kaywān menjadi rabun, tak lagi mengawasi tempat-tempat pengintaian.
+>
+> Karena itulah daulat Turki membentang panjang, dan putra-putra Turki bangkit mencari tangga-tangga ke langit.
+
+Ia juga bersyair:
+
+> Seandainya masa memberiku pilihan sesuai dengan rahasia dan isi batinku,
+>
+> niscaya aku berjalan di atas pelupuk mataku, agar dapat kulewatkan sisa umurku di sisi tempat tinggalmu.
+
+Apabila para ahli hikmah Khurasan dihitung, al-Khayyām-lah lautan yang paling melimpah di antara mereka, yang paling tinggi kedudukannya, yang paling panjang jangkauannya dalam matematika, dan yang paling panjang napasnya dalam ilmu hitung.
+
+Di pemandian ia pernah ditanya tentang makna dua surah perlindungan (al-Muʿawwidhatān) dan pengulangan sebagian lafalnya. Maka ia menguraikan penjelasan sebanyak kira-kira satu jilid dalam suatu ilmu yang tidak ia tekuni. Lalu bagaimana menurutmu dengan hikmah yang untuknya ia telah menghabiskan umurnya?
