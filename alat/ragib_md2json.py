@@ -1,6 +1,6 @@
 """Mengubah terjemahan karya al-Rāghib (MD) menjadi JSON untuk ragib_build_docx.js.
 
-    python3 alat/ragib_md2json.py dhariah|tafsil|rasail|miftah OUT.json
+    python3 alat/ragib_md2json.py dhariah|tafsil|rasail|miftah|nuzhat OUT.json
 
 Yang dimasukkan: halaman judul, keputusan kerja (sebagai Keterangan
 Penerjemah), seluruh terjemahan (dari `# TERJEMAHAN`), dan glosarium
@@ -36,6 +36,15 @@ BOOKS = {
         'desc': 'Diterjemahkan dari terjemahan Turki Ekrem Demirli, dengan pencocokan pada teks Arab edisi ʿĀṣim al-Kayyālī dan terjemahan Inggris Özgür Koca, disertai kutipan syarah Miṣbāḥ al-Uns karya Shams al-Dīn al-Fanārī',
         'doc_title': 'Miftāḥ Ghayb al-Jamʿ wa-l-Wujūd: Terjemahan Indonesia',
     },
+    'nuzhat': {
+        'src': 'terjemahan-nuzhat-al-arwah.md',
+        'title': 'Tamasya Ruh dan Taman Suka Cita',
+        'subtitle': ['Nuzhat al-Arwāḥ wa-Rawḍat al-Afrāḥ', 'Sejarah Para Bijak dan Kata-Kata Hikmah Mereka'],
+        'author': 'Shams al-Dīn Muḥammad ibn Maḥmūd al-Shahrazūrī',
+        'author_dates': '(w. sesudah 687/1288)',
+        'desc': 'Diterjemahkan dari terjemahan Turki Eşref Altaş, dengan pencocokan pada teks Arab edisi kritisnya',
+        'doc_title': 'Nuzhat al-Arwāḥ wa-Rawḍat al-Afrāḥ: Terjemahan Indonesia',
+    },
     'rasail': {
         'src': 'terjemahan-rasail-ragib.md',
         'title': 'Risalah-Risalah al-Rāghib al-Iṣfahānī',
@@ -53,7 +62,7 @@ bstart = t.index('\n# TERJEMAHAN\n') + 1
 body = t[bstart:]
 
 AR = re.compile(r'[؀-ۿݐ-ݿﭐ-﷿ﹰ-﻿]+(?:[ ،/]+[؀-ۿݐ-ݿﭐ-﷿ﹰ-﻿]+)*')
-SNAME = r"(?:Ali 'Imran|'?[A-Za-z][A-Za-z'\-]*)"
+SNAME = r"(?:Ali 'Imran|'?[^\W\d_][\w'\-]*)"
 SREF = re.compile(r" \(%s: [\d][\d, \-]*(?:; %s: [\d][\d, \-]*)*\)" % (SNAME, SNAME))
 
 # ---------- nomor catatan kaki menurut urutan rujukan pertama
@@ -153,17 +162,19 @@ for i, l in enumerate(lines):
     if m:
         blocks.append({'p': 'Basmalah', 'r': inline(m.group(1))})
         after_head = True; continue
+    if l.strip() == '>':
+        continue  # pemisah larik dalam blok syair
     if l.startswith('> '):
         prev = lines[i - 1] if i else ''
         nxt = lines[i + 1] if i + 1 < len(lines) else ''
         blocks.append({'p': 'Syair', 'r': inline(l[2:].strip()),
-                       'first': not prev.startswith('> '), 'last': not nxt.startswith('> ')})
+                       'first': not prev.startswith('>'), 'last': not nxt.startswith('>')})
         after_head = True; continue
     m = re.match(r'^(\d+\.|- \([a-z]\)) (.*)$', l)
     if m:
         blocks.append({'p': 'Butir', 'r': [{'t': m.group(1).lstrip('- ') + '\t', 's': None}] + inline(m.group(2), label_ok=True)})
         after_head = True; continue
-    assert not l.startswith(('#', '|', '[')), l
+    assert not l.startswith(('#', '|', '[^')), l
     blocks.append({'p': 'TeksIsiPertama' if after_head else 'TeksIsi', 'r': inline(l, label_ok=True)})
     after_head = False
 blocks[0]['pb'] = True
@@ -180,7 +191,7 @@ front = [inline(nokey(l)) for l in t[ks:ke].split('\n')[2:] if l.strip() and l.s
 
 # ---------- glosarium (bagian 3 MD)
 ge = t.rindex('\n---', 0, bstart)
-gtitle = re.sub(r'^## 3\. ', '', t[ke + 1:t.index('\n', ke + 1)])
+gtitle = re.sub(r'^## 3\. ', '', t[ke + 1:t.index('\n', ke + 1)]).replace('*', '')
 gloss = []
 for l in t[ke:ge].split('\n')[2:]:
     if not l.strip(): continue

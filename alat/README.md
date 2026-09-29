@@ -14,7 +14,7 @@ Gaya paragraf: Judul Buku, Subjudul Buku, Pengarang Buku, Keterangan Buku, Bagia
 
 Gaya karakter: Kutipan Ayat, Rujukan Ayat, Kutipan Riwayat, Transliterasi, Aksara Arab, Aksara Arab Tabel, Label Argumen, Tebal.
 
-## Karya al-Rāghib (*al-Dharīʿa*, *Tafṣīl*, *Rasāʾil*) dan *Miftāḥ al-Ghayb* al-Qūnawī
+## Karya al-Rāghib (*al-Dharīʿa*, *Tafṣīl*, *Rasāʾil*), *Miftāḥ al-Ghayb* al-Qūnawī, dan *Nuzhat al-Arwāḥ* al-Shahrazūrī
 
 Membuat ulang ketiga DOCX dari berkas MD-nya:
 
@@ -30,7 +30,12 @@ node alat/ragib_build_docx.js /tmp/rasail.json rasail-ragib.docx
 
 python3 alat/ragib_md2json.py miftah /tmp/miftah.json
 node alat/ragib_build_docx.js /tmp/miftah.json miftah-al-ghayb.docx
+
+python3 alat/ragib_md2json.py nuzhat /tmp/nuzhat.json
+node alat/ragib_build_docx.js /tmp/nuzhat.json nuzhat-al-arwah.docx
 ```
+
+*Nuzhat al-Arwāḥ* al-Shahrazūrī memakai alat yang sama. Dalam blok syair, larik-larik dipisah baris `>` kosong agar tidak bergabung saat MD dibaca biasa; baris pemisah itu dilewati oleh `ragib_md2json.py`. Nama surah dalam rujukan ayat boleh memuat huruf bertanda IJMES (mis. `(al-ʿAnkabūt: 2)`).
 
 Data halaman judul tiap kitab ada di `BOOKS` dalam `ragib_md2json.py` (termasuk `author` dan `author_dates`; bila kosong, dipakai nama al-Rāghib).
 

@@ -12,10 +12,10 @@
 
 | Butir | Keterangan |
 |---|---|
-| Tahap | Penerjemahan berjalan |
-| Sudah diterjemahkan | Mukadimah Pengarang |
-| Posisi berikutnya | hlm. 100 edisi Turki |
-| Nomor catatan terakhir | CT t0 · CP p0 |
+| Tahap | Selesai; DOCX dibentuk (`nuzhat-al-arwah.docx`) |
+| Sudah diterjemahkan | Seluruh kitab: Mukadimah Pengarang, riwayat para bijak terdahulu, riwayat para bijak dari kalangan umat Islam, dan biografi tambahan para penyalin (hlm. 60-943 edisi Turki) |
+| Posisi berikutnya | - |
+| Nomor catatan terakhir | CT t66 · CP p39 |
 
 ---
 
@@ -49,7 +49,9 @@ Definisi catatan kaki diletakkan tepat sesudah paragraf yang merujuknya. Penanda
 4. **Judul-judul:** judul yang ada dalam teks Arab dipakai. Bila teks Arab tidak memberi judul tetapi edisi Turki memberinya dalam kurung siku, judul itu dipakai tanpa kurung.
 5. **Kutipan Al-Qur'an** mengikuti Terjemahan Kemenag RI, dengan rujukan (Surah: ayat) di badan teks.
 6. **Nama tokoh:** nama Yunani dalam bentuk lazim Indonesia (Sokrates, Plato, Aristoteles, Pythagoras, Empedokles, Hippokrates, Galen, Ptolemeus, dan seterusnya); nama Arab dan Persia dalam transliterasi IJMES.
-7. Prinsip lain sama dengan terjemahan sebelumnya: transliterasi IJMES untuk istilah konseptual; tanpa aksara Arab di badan terjemahan; tanpa tanda pisah panjang dan menengah; tanpa penanda halaman.
+7. **Judul bagian besar:** pembagian kitab ke dalam "Riwayat Para Bijak Terdahulu", "Riwayat Para Bijak dari Kalangan Umat Islam", dan "Tambahan dari Para Penyalin" adalah judul penyunting untuk memudahkan pembaca. Bagian terakhir memuat biografi-biografi yang ditambahkan para penyalin sesudah akhir kitab, sebagaimana dinyatakan dalam teks Arab.
+8. **Catatan kebahasaan Turki:** catatan edisi Turki yang hanya menjelaskan kosakata atau pilihan ungkapan dalam bahasa Turki tidak diterjemahkan, karena tidak relevan bagi terjemahan Indonesia.
+9. Prinsip lain sama dengan terjemahan sebelumnya: transliterasi IJMES untuk istilah konseptual; tanpa aksara Arab di badan terjemahan; tanpa tanda pisah panjang dan menengah; tanpa penanda halaman.
 
 ---
 
@@ -57,6 +59,119 @@ Definisi catatan kaki diletakkan tepat sesudah paragraf yang merujuknya. Penanda
 
 | Arab | Transliterasi | Padanan Indonesia |
 |---|---|---|
+| عدم | *ʿadam* | ketiadaan |
+| أحكام النجوم | *aḥkām al-nujūm* | hukum-hukum perbintangan |
+| أخلاط | *akhlāṭ* | cairan-cairan tubuh |
+| عالم الملكوت | *ʿālam al-malakūt* | alam malakut |
+| عقل | *ʿaql* | akal |
+| العقل الفعّال | *al-ʿaql al-faʿʿāl* | Akal Aktif |
+| عرض | *ʿaraḍ* | aksiden |
+| عارف | *ʿārif* | orang arif |
+| أزل | *azal* | keazalian |
+| الباري | *al-Bārī* | Sang Pencipta |
+| بارقة | *bāriqa* | kilatan |
+| برهان | *burhān* | demonstrasi |
+| دهر | *dahr* | masa |
+| ذات | *dhāt* | zat |
+| ذوق | *dhawq* | cita rasa |
+| فضيلة | *faḍīla* | keutamaan |
+| فلك | *falak* | falak |
+| فلسفة | *falsafa* | filsafat |
+| فيض | *fayḍ* | limpahan |
+| فيلسوف | *faylasūf* | filsuf |
+| غضب | *ghaḍab* | amarah |
+| حدّ | *ḥadd* | definisi |
+| الحدّ الأوسط | *al-ḥadd al-awsaṭ* | term tengah |
+| حدس | *ḥads* | intuisi |
+| حكيم | *ḥakīm* | ahli hikmah |
+| هندسة | *handasa* | geometri |
+| حركة | *ḥaraka* | gerak |
+| هوى | *hawā* | hawa nafsu |
+| هيئة | *hayʾa* | astronomi |
+| هيولى | *hayūlā* | hayula |
+| حكمة | *ḥikma* | hikmah |
+| الحكمة العملية | *al-ḥikma al-ʿamaliyya* | hikmah amaliah |
+| الحكمة البحثية | *al-ḥikma al-baḥthiyya* | hikmah penalaran |
+| الحكمة الذوقية | *al-ḥikma al-dhawqiyya* | hikmah cita rasa |
+| حسّ | *ḥiss* | indra |
+| اختلاف المنظر | *ikhtilāf al-manẓar* | paralaks |
+| إكسير | *iksīr* | eliksir |
+| علّة | *ʿilla* | sebab |
+| علم الأثقال | *ʿilm al-athqāl* | ilmu beban |
+| علم الحيل | *ʿilm al-ḥiyal* | ilmu mekanika |
+| العلم الإلهي | *al-ʿilm al-ilāhī* | ilmu ketuhanan |
+| علم النجوم | *ʿilm al-nujūm* | ilmu perbintangan |
+| عشق | *ʿishq* | cinta berahi |
+| إشراق | *ishrāq* | pancaran |
+| اتّحاد | *ittiḥād* | persatuan |
+| الجبر والمقابلة | *al-jabr wa-al-muqābala* | aljabar dan muqābala |
+| جدل | *jadal* | debat |
+| الجذر الأصمّ | *al-jadhr al-aṣamm* | akar irasional |
+| جوهر | *jawhar* | substansi |
+| جرم | *jirm* | jirim |
+| جسم | *jism* | jisim |
+| كمّية | *kammiyya* | kuantitas |
+| كشف | *kashf* | penyingkapan |
+| الكون والفساد | *al-kawn wa-al-fasād* | kejadian dan kerusakan |
+| خلع | *khalʿ* | pelepasan diri |
+| خلوة | *khalwa* | khalwat |
+| كرة | *kura* | bola |
+| ما بعد الطبيعة | *mā baʿd al-ṭabīʿa* | metafisika |
+| المبدأ الأوّل | *al-mabdaʾ al-awwal* | Prinsip Pertama |
+| مادّة | *mādda* | materi |
+| منطق | *manṭiq* | logika |
+| معقولات | *maʿqūlāt* | hal-hal rasional |
+| مقولات | *maqūlāt* | kategori |
+| معرفة | *maʿrifa* | makrifat |
+| المشّاؤون | *al-mashshāʾūn* | kaum Peripatetik |
+| مزاج | *mizāj* | temperamen |
+| المبدع الأوّل | *al-mubdaʿ al-awwal* | yang dicipta pertama |
+| مفارقات | *mufāraqāt* | substansi-substansi yang terpisah |
+| مغالطة | *mughālaṭa* | sofisme |
+| المحرّك الأوّل | *al-muḥarrik al-awwal* | Penggerak Pertama |
+| مجرّدات | *mujarradāt* | hal-hal yang terlepas dari materi |
+| مقدّمة | *muqaddima* | premis |
+| مشاهدة | *mushāhada* | penyaksian |
+| موسيقى | *mūsīqā* | musik |
+| متألّه | *mutaʾallih* | penempuh jalan ketuhanan |
+| المتخيّلة | *al-mutakhayyila* | daya khayal |
+| نفس | *nafs* | jiwa |
+| النفس الناطقة | *al-nafs al-nāṭiqa* | jiwa rasional |
+| ناموس | *nāmūs* | hukum syariat |
+| قياس | *qiyās* | silogisme |
+| القوّة الغضبية | *al-quwwa al-ghaḍabiyya* | daya amarah |
+| القوّة الشهوانية | *al-quwwa al-shahwāniyya* | daya syahwat |
+| رذيلة | *radhīla* | kehinaan |
+| رصد | *raṣad* | pengamatan bintang |
+| رسم | *rasm* | deskripsi |
+| رياضة | *riyāḍa* | latihan ruhani |
+| الرياضيات | *al-riyāḍiyyāt* | matematika |
+| روح | *rūḥ* | ruh |
+| سعادة | *saʿāda* | kebahagiaan |
+| سكينة | *sakīna* | sakinah |
+| سماع | *samāʿ* | samāʿ |
+| سرمد | *sarmad* | keabadian |
+| شهوة | *shahwa* | syahwat |
+| سيمياء | *sīmiyāʾ* | sīmiyāʾ |
+| سكون | *sukūn* | diam |
+| سلوك | *sulūk* | suluk |
+| صورة | *ṣūra* | bentuk |
+| تعاليم | *taʿālīm* | ilmu-ilmu pelajaran |
+| طبيعة | *ṭabīʿa* | tabiat |
+| الطبيعيات | *al-ṭabīʿiyyāt* | fisika |
+| تحليل | *taḥlīl* | analisis |
+| تجريد | *tajrīd* | penelanjangan diri |
+| طالع | *ṭāliʿ* | ascenden |
+| تناسخ | *tanāsukh* | tanasukh |
+| تقدّم | *taqaddum* | keterdahuluan |
+| تقسيم | *taqsīm* | pembagian |
+| تصوّر | *taṣawwur* | konsepsi |
+| تصديق | *taṣdīq* | pembenaran |
+| وهم | *wahm* | daya estimasi |
+| واجب الوجود | *wājib al-wujūd* | Yang Wajib Ada |
+| وجود | *wujūd* | wujud |
+| زيج | *zīj* | zij |
+| زهد | *zuhd* | zuhud |
 
 ---
 
