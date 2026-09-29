@@ -4040,3 +4040,73 @@ Ia adalah seorang ahli hikmah yang berilmu dan berakhlak dengan akhlak yang inda
 Ia memiliki sebuah risalah yang halus tentang wujud dan penjelasan nama-Nya. Risalah ini menunjukkan bahwa ia sungguh unggul dalam ilmu ketuhanan. Ia juga memiliki sebuah risalah tentang ilmu eliksir. Ibn Sīnā tidak menyebutnya dalam karya-karyanya kecuali dalam kitab *al-Maqḍiyyāt*.
 
 Sebuah hikmah: Ia berkata: "Hendaklah engkau meneliti permata-permata jiwa yang mulia, dan janganlah menimbun apa yang engkau khawatirkan hilangnya. Orang arif tidak mengutamakan pengenalan akan al-Ḥaqq di atas al-Ḥaqq itu sendiri."
+
+## Yaḥyā al-Naḥwī al-Daylamī yang Dijuluki al-Biṭrīq {.judul-bab}
+
+Ia termasuk orang-orang terdahulu, seorang Nasrani dan filsuf. Abū ʿAlī berkata tentangnya: "Dialah yang mengelabui orang-orang Nasrani, karena ia menyusun kitab-kitab yang di dalamnya ia menyanggah Plato dan Aristoteles ketika orang-orang Nasrani bermaksud membunuhnya." Sebagian besar dari apa yang dikemukakan al-Ghazālī dalam *al-Tahāfut* berasal dari kitab-kitab tersebut.
+
+Ia dijuluki Pencinta Jerih Payah[^p27] karena kesungguhannya dalam menuntut ilmu-ilmu dan meneliti hakikat segala sesuatu.
+
+[^p27]: CP: Ungkapan Arab *wa-qīla lahu muḥibb al-taʿab* berarti "ia dijuluki pencinta jerih payah", dan julukan ini adalah terjemahan harfiah dari nama Yunaninya, Philoponos. Terjemahan Turki memahaminya sebagai keterangan bahwa ia menyukai kerja keras dalam menuntut ilmu.
+
+Ia memiliki banyak karya, dan dari dialah Khālid ibn Yazīd ibn Muʿāwiya mengambil ilmu kedokteran.
+
+Dikatakan pula: Yaḥyā al-Naḥwī al-Iskandarānī hidup pada masa Muʿāwiya dan ʿUthmān. Ia menyibukkan diri dengan kitab-kitab orang terdahulu dan mendalaminya dalam filsafat dan kedokteran. Ia mengobati dan melayani kedua khalifah itu. Darinya Khālid ibn Yazīd ibn Muʿāwiya mengambil sedikit ilmu yang ia klaim diperolehnya dari penelaahannya, sebagaimana uraian ini. Ia seorang Nasrani. Orang-orang membencinya karena ia mensyarah kitab-kitab Aristoteles, lalu mereka bermaksud membunuhnya. Maka ia menampakkan kepada mereka penyelisihannya terhadap Aristoteles dalam prinsip-prinsip, dan menebus dirinya dari mereka dengan menyusun kitabnya yang membatalkan mazhab sang Ahli Hikmah, serta kitab yang di dalamnya ia menyanggah Proklos. Atas kedua kitab itu sampai kepadanya pemberian dari mereka sebanyak belasan ribu dinar. Janganlah hal itu dianggap mustahil, sebab Yaḥyā ibn Khālid al-Barmakī telah memberi Abān sekitar jumlah itu atas penggubahannya *Kalīla wa-Dimna* ke dalam syair. Pemberian para khalifah semacam ini banyak.
+
+## Yaʿqūb ibn Isḥāq al-Kindī {.judul-bab}
+
+Ia adalah seorang ahli geometri yang menyelami samudra-samudra ilmu. Ia memiliki banyak karya, dan dalam sebagian karyanya ia memadukan antara syariat dan hal-hal yang rasional. Dikatakan bahwa ia seorang Yahudi lalu masuk Islam, dan dikatakan pula bahwa ia seorang Nasrani. Kitabnya tentang optika sangat baik. Al-Muʿtaṣim mengikatnya dalam pengabdian, dan ia adalah guru putranya, Aḥmad ibn al-Muʿtaṣim.
+
+Al-Kindī berkata: "Seandainya seseorang merusak anggota tubuhnya yang paling baik, ia menjadi tercela. Anggota tubuh yang paling mulia adalah otak; darinya bersumber indra, gerak, dan seluruh perbuatan yang mulia. Orang-orang yang meminum minuman memabukkan memasukkan kerusakan ke dalam otak mereka. Apabila mabuk berturut-turut menimpa suatu badan, otaknya menjadi sakit, kelemahannya bertambah parah, dan ia menjauh dari daya yang menampakkan perbuatan-perbuatan kehendak dan kejiwaan."
+
+Ia berkata: "Barang siapa menguasai dirinya, ia menguasai kerajaan yang paling agung dan tidak lagi memerlukan beban-beban penghidupan. Barang siapa demikian, celaan terangkat darinya, setiap orang memujinya, dan hidupnya menjadi baik." Ia memiliki syair, di antaranya:
+
+> Ekor-ekor telah menjulang angkuh di atas kepala-kepala;[^p28] maka pejamkanlah kelopak matamu dan tundukkanlah kepala.
+>
+> Kecilkanlah sosokmu, genggamlah kedua tanganmu, dan di dasar rumahmu duduklah menetap.
+>
+> Di sisi Rajamu carilah ketinggian, dan dengan kesendirian pada hari ini bersukacitalah.
+>
+> Sebab kekayaan ada di dalam hati orang-orang, dan kemuliaan ada di dalam jiwa.
+
+[^p28]: CP: Terjemahan Turki membaca paruh bait pertama sebagai "dosa-dosaku telah melampaui batas". Teks Arab berbunyi *anifa al-dhanābā ʿalā al-arʾus*, yakni "ekor-ekor menjadi angkuh di atas kepala-kepala": kiasan bagi orang-orang rendah yang naik mengungguli orang-orang mulia. Bait-bait sesudahnya, yang menganjurkan untuk menarik diri, sejalan dengan makna ini.
+
+Abū Yūsuf Yaʿqūb ibn Isḥāq al-Kindī adalah orang pertama di kalangan kaum Muslim yang mahir dalam filsafat dan seluruh bagiannya, yaitu logika, fisika, matematika, dan ilmu ketuhanan, di samping kedalamannya dalam ilmu-ilmu Arab dan kecakapannya dalam sastra, seperti nahwu dan syair. Ia juga mengetahui kedokteran, astronomi dan hukum-hukum perbintangan, serta berbagai jenis keahlian dan pengetahuan yang jarang berhimpun pada satu orang. Daftar kitab-kitabnya saja melebihi satu bundel kertas. Ia adalah guru Aḥmad ibn Muḥammad al-Muʿtaṣim. Atas namanya ia menyusun karya-karyanya, dan kepadanya ia menulis risalah-risalahnya yang menguraikan persoalan serta jawaban-jawaban atas masalah-masalahnya. Dialah orang pertama yang merintis jalan ini, yang kemudian ditempuh oleh kaum Muslim sesudahnya, meskipun ia telah didahului oleh orang-orang yang tinggi namanya dan baik keadaannya pada masa al-Maʾmūn, yang tali agama mereka adalah Nasrani dan karya-karya mereka berjalan menurut tradisi lama.
+
+Ia berkata: "Orang yang berterus terang terpelihara, sedangkan orang-orang yang bimbang tercampak."
+
+Ia berkata: "Menelaah kitab-kitab hikmah adalah hari raya jiwa-jiwa rasional."
+
+Ia berkata: "Plato mengumpamakan syahwat yang ada pada manusia dengan babi, daya amarah dengan anjing, dan daya akal dengan malaikat. Ia berkata: 'Barang siapa dikuasai oleh syahwat, ia adalah babi; barang siapa dikuasai oleh amarah, ia adalah anjing; dan barang siapa dikuasai oleh akal, ia adalah malaikat. Apabila ia telah menjadi malaikat, ia dekat untuk menyerupai Allah Taʿālā, sebab hal-hal yang dengannya al-Bārī Taʿālā disifati dan yang disandarkan kepada-Nya adalah hikmah, kekuasaan, keadilan, kebaikan, keindahan, kemurahan, ihsan, karunia, dan pemberian nikmat.'" Ia berkata: "Manusia tidak menjadi pemilik keutamaan kecuali apabila keutamaan-keutamaan ini ada padanya, menjadi miliknya, tampak jelas padanya, hadir di sisinya, dan menguasai dirinya. Maka jelaslah dari uraian ini bahwa kesudahan manusia bergantung pada keutamaan-keutamaan yang menyertai mereka di antara kejadian dan kerusakan, dan yang mereka bawa serta ke sana, maksudku menurut jalan penolakan dan penentangan."
+
+Sebagian penganut tanasukh berkata: "Jiwa itu ada tiga: jiwa yang menguasai, yaitu yang selamat; jiwa yang menempuh jalan, yaitu yang berpengharapan; dan jiwa yang binasa, yaitu yang tiada harapan baginya." Maka renungkanlah.
+
+Kemudian ia berkata: "Adapun Plato, ia berkata: 'Tempat tinggal jiwa-jiwa rasional apabila telah terlepas, sebagaimana dikatakan para filsuf terdahulu, adalah di balik falak, di alam rububiyah, tempat cahaya al-Bārī Taʿālā. Tidak setiap jiwa yang meninggalkan badan langsung menuju tempat itu pada saat itu juga, sebab di antara jiwa-jiwa ada yang meninggalkan badan dalam keadaan padanya terdapat kotoran di samping hal-hal yang baik. Maka di antaranya ada yang menuju falak Merkurius dan tinggal di sana selama beberapa waktu. Apabila telah terdidik dan bersih, ia naik ke bintang demi bintang dan tinggal di sana selama beberapa waktu. Apabila ia telah sampai ke falak tertinggi, telah bersih sebersih-bersihnya, dan kotoran-kotoran indra telah hilang, ia naik ke alam akal, melampaui bayang-bayang, dan menjadi mampu merenungi segala sesuatu, yang sedikit maupun yang banyak, sebagaimana pengetahuan manusia tentang satu jarinya. Segala sesuatu menjadi tersingkap dan tampak baginya. Ketika itulah al-Bārī Taʿālā menyerahkan kepadanya sebagian dari urusan pengaturan alam, yang ia nikmati untuk dilakukan dan diatur.'"
+
+## Abū Zayd al-Balkhī {.judul-bab}
+
+Ia termasuk ahli hikmah Islam serta orang-orang yang fasih dan balig di antara mereka. Ia memiliki banyak karya dalam setiap bidang, di antaranya kitab *al-Amad al-Aqṣā* dan kitab *al-Ibāna ʿan ʿIlal al-Diyāna*.
+
+Ia berkata: "Kematian itu pasti, maka janganlah takut kepadanya. Jika engkau takut, takutlah akan apa yang terjadi sesudah kematian. Maka perbaikilah keadaanmu sebelum kematianmu, dan takutlah akan keburukan-keburukanmu, bukan akan kematianmu."
+
+Ia berkata: "Syariat adalah filsafat yang paling agung. Seseorang tidak menjadi filsuf hingga ia menjadi ahli ibadah yang tekun menunaikan perintah-perintah syariat."
+
+Ia berkata: "Obat yang paling agung adalah ilmu."
+
+## Abū al-Faraj ibn al-Ṭayyib (al-Jāthalīq) {.judul-bab}
+
+Abū ʿAlī biasa mencelanya dan memburuk-burukkan karya-karyanya. Dalam *al-Mubāḥathāt* ia berkata bahwa karya-karyanya layak dikembalikan kepada penjualnya. Barangkali hal itu karena saling dengki yang biasa terjadi di antara orang-orang sezaman.
+
+Abū al-Faraj adalah seorang ahli hikmah dari Baghdad, seorang ahli hikmah sepenuh kulitnya, yang memasuki rumah hikmah dari pintu-pintunya. Karya-karyanya banyak, dan ia memiliki sebuah karya yang halus tentang kadar usia. Ia menguasai bahasa Rum dan bahasa Yunani.
+
+Abū ʿAlī mengakui keunggulannya dalam kedokteran, tetapi mengkritik sebagian risalahnya dalam kedokteran dan berkata bahwa perkataannya tidak fasih, sebagiannya cacat dan sebagiannya lurus, sehingga ia termasuk orang-orang yang sekadar menggemari, bukan ahli dalam keahlian itu. Ia memiliki sebuah kitab tentang sebab-sebab segala sesuatu yang menunjukkan bahwa ia seorang ahli hikmah. Antara dia dan Abū ʿAlī terdapat jarak yang jauh. Abū ʿAlī suka menyakiti dan memburuk-burukkan orang.
+
+Dalam sebagian kitab disebutkan bahwa Abū ʿAlī masuk menemui sang ahli hikmah Abū ʿAlī ibn Miskawayh, yang sedang dikelilingi murid-muridnya. Abū ʿAlī melemparkan sebutir kenari kepadanya dan berkata: "Jelaskanlah luas kenari ini dalam ukuran butir jelai." Ibn Miskawayh pun mengangkat beberapa juz tentang akhlak dan melemparkannya kepada Ibn Sīnā seraya berkata: "Adapun engkau, perbaikilah dahulu akhlakmu, hingga aku menghitung luas kenari itu."
+
+Mencela dan memburuk-burukkan bukanlah kebiasaan para ahli hikmah yang unggul; kebiasaan mereka adalah menetapkan kebenaran. Barang siapa menetapkan kebenaran, ia tidak memerlukan lagi memburuk-burukkan para pengikut kebatilan. Semoga Allah memelihara kami dari kehinaan-kehinaan dan melimpahkan kepada kami nikmat keutamaan-keutamaan.
+
+Abū al-Rayḥān al-Bīrūnī pernah mengirimkan sejumlah persoalan kepada Abū ʿAlī, lalu Abū ʿAlī menjawabnya. Abū al-Rayḥān kemudian mengkritik jawaban-jawaban Abū ʿAlī, memburuk-burukkan dirinya dan perkataannya, dan menyapanya dengan sapaan yang tidak pantas ditujukan bahkan kepada orang awam, apalagi kepada para ahli hikmah. Ketika Abū al-Faraj merenungkan jawaban-jawaban dan pertanyaan-pertanyaan itu, ia berkata: "Barang siapa mengayak manusia, manusia pun mengayaknya. Abū al-Rayḥān telah mewakiliku."
+
+Abū al-Faraj biasa berkata: "Aku termasuk keturunan Paulus, dan Paulus adalah putra saudari Galen. Ketika Allah Taʿālā mengutus al-Masīḥ, Galen adalah seorang tua yang lemah. Maka ia mengutus kepada ʿĪsā ṣallā Allāh ʿalayhi wa-sallam putra saudarinya, Paulus, dan meminta maaf kepadanya seraya berkata: 'Aku terkurung oleh usia tua.' Ia menulis sepucuk surat kepada al-Masīḥ, dan al-Masīḥ ʿalayhi al-salām dapat membaca dan menulis. Isi surat itu: 'Wahai tabib jiwa-jiwa dan nabi Allah, adakalanya orang sakit tidak mampu melayani tabib karena halangan-halangan jasmani. Aku telah mengutus kepadamu sebagian dari diriku, Paulus, agar engkau mengobati jiwanya dengan adab-adab kenabian. Wassalam.' Ketika Paulus sampai kepada al-Masīḥ, beliau memuliakannya, dan ia pun menjadi salah seorang hawari. Al-Masīḥ menulis kepada Galen: 'Wahai orang yang berlaku adil dalam ilmunya, orang yang sehat tidak memerlukan tabib kecuali untuk memelihara kesehatannya, dan jarak tidak menghalangi jiwa-jiwa. Wassalam.'"
+
+Orang-orang Nasrani mengklaim bahwa Paulus menjadi nabi sesudah Syamʿūn al-Ṣafā.
