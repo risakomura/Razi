@@ -4698,3 +4698,113 @@ Ia berasal dari desa Qūmisha, salah satu desa di wilayah al-Qamdhār, termasuk 
 Tulisannya indah, kalimat-kalimatnya diterima, dan ia menaruh perhatian pada sastra, pengetahuan tentang syair, dan ilmu-ilmu Arab lainnya. Dalam keahlian ini ia meninggalkan anak-anak dan kerabat, dari kalangan saudara dan lainnya, yang menonjol dalam keutamaan dibanding orang lain.
 
 Ia ditanya tentang makna bahwa suatu zaman, tempat, atau manusia lebih mulia daripada zaman, tempat, atau manusia yang lain. Ia menjawab: "Hal ini dapat dibenarkan dengan menyandarkan zaman kepada kebahagiaan yang merata di dalamnya, kebaikan yang melimpah, berkah yang meluap, kesuburan yang umum, syariat yang diterima, kebaikan-kebaikan yang masuk akal, dan kemuliaan-kemuliaan yang berpengaruh, dari segi bentuk falak sesuai dengan apa yang dituntut oleh sebagian putarannya. Demikian pula tempat, apabila ia menghadapi pengaruh dari benda-benda langit yang mulia ini. Adapun zaman yang maknanya adalah ukuran gerak falak, tidak ada satu bagiannya yang lebih mulia daripada bagian yang lain. Demikian pula tempat. Demikian pula manusia, ia tidak lebih mulia daripada manusia lain dari segi jasad yang umum bagi setiap orang; kemuliaannya hanyalah melalui kesempurnaan-kesempurnaan akliah dan amal-amal saleh."
+
+## Abū ʿAlī Aḥmad ibn (Muḥammad) Miskawayh {.judul-bab}
+
+Ia termasuk tokoh terkemuka zamannya. Pada masa mudanya ia menyertai wazir Abū Muḥammad al-Muhallabī dan termasuk orang-orang dekatnya. Sesudah itu ia bergabung dalam pengabdian kepada Raja ʿAḍud al-Dawla dan menjadi salah seorang teman majelis dan utusannya hingga raja itu meninggalkan dunia. Kemudian ia menjadi orang dekat Ibn al-ʿAmīd, putranya Abū al-Fatḥ, dan Raja Ṣamṣām al-Dawla. Demikian pula ia menjadi orang dekat Ibn al-ʿAmīd, putranya Abū al-Fatḥ, dan para pembesar lainnya hingga waktu kami ini,[^t58] suatu hal yang tidak perlu dijelaskan lagi.
+
+[^t58]: CT: Karena bagian ini dikutip dari *Muntakhab Ṣiwān al-Ḥikma*, ungkapan "hingga waktu kami ini" harus dipahami sebagai hingga masa penyusun *al-Muntakhab*.
+
+Ia memiliki banyak karya dalam banyak bidang ilmu dan hikmah. Karyanya antara lain *al-Akhlāq al-Kāmila wa-al-Ādāb al-Fāḍila*, dua kitab *al-Fawz* tentang ilmu orang-orang terdahulu, dan catatan-catatan serta hasyiah atas kitab-kitab logika. Ia juga memiliki kitab-kitab dalam seluruh cabang matematika, fisika, ilmu ketuhanan, ilmu hitung, alkimia, dan masak-memasak. Kitab-kitab ini dibacakan di hadapannya pada hari-hari majelisnya. Ia memiliki kitab *al-Mustawfā fī al-Shiʿr*, yang merupakan antologi syair, dan himpunannya yang dinamai *Uns al-Farīd* dan *Jāwīdān Khirad*. Ia juga memiliki balaghah dan tulisan tangan yang indah.
+
+## Abū al-Nafīs {.judul-bab}
+
+Ia adalah orang yang paling banyak menghafal anekdot, petuah, dan kelakar para filsuf.
+
+Ditanyakan kepadanya: "Bagaimana engkau melihat masa?" Ia menjawab: "Ia memberikan kembali apa yang telah dirampasnya dan merampas kembali apa yang telah diberikannya, seperti anak kecil apabila bermain."
+
+Ia berkata: "Salah seorang ahli hikmah terdahulu berkata: 'Harta dicintai demi kekekalan di alam kejadian dan kerusakan, sedangkan agama dicintai demi kekekalan di alam kekekalan dan keabadian. Apabila daya jiwa lemah untuk membedakan, dugaan akan kekekalan abadi di alam kefanaan menjadi sebab untuk memperbanyak harta.'"
+
+Ia berkata: "Ketergesa-gesaan membingungkan, dalam keras kepala terdapat kekurangan, ujub adalah kebingungan, dan dalam kelambanan terdapat kehilangan."
+
+Abū al-Nafīs bersyair:
+
+> Dalam jiwa dan jasad, jika engkau renungkan, ada pelajaran; bahkan sebelum sampai ke sana, pendapat dan pikiran telah tersesat.
+>
+> Orang berakal bingung akan penyatuan keduanya: yang itu adalah entitas, dan yang ini, hukumnya adalah jejak.
+>
+> Apabila engkau memandang, engkau melihat entitas itu satu, dan di sana ada kejernihan yang dibaurkan oleh kekeruhan.
+>
+> Dengan limpahan itu akal tumbuh, menembus tirai-tirai gaib yang tak terjangkau oleh penglihatan.
+>
+> Dengannya manusia memperhatikan tujuan-tujuan segala perkara dari arah jalannya, sedangkan yang gaib tetap tertutup.
+>
+> Aduhai, andai aku tahu, apabila tangan kerapuhan telah melenyapkan tubuh-tubuh, dan tanah serta lumpur kering telah meliputinya,
+>
+> adakah jiwa-jiwa berpaling menuju alamnya, sebagaimana batu berpaling menuju pusat,
+>
+> agar ia memperoleh kemenangan di negeri keabadian, dan lenyaplah di hadapannya bencana dan perubahan?
+>
+> Ataukah ia sirna sebagaimana kerangkanya telah pergi, sehingga tak lagi terasa baginya tempat datang dan tempat pergi?
+>
+> Bibir-bibir memutar-mutarnya hingga melenyapkannya, di tempat sapi-sapi mencari anak-anaknya.
+>
+> Inilah yang membuat pikiran-pikiran kita berkarat, dan tiada ilmu maupun kabar yang dapat mengilapkan karatnya.
+>
+> Allah menyendiri dengan ilmu yang tersembunyi, dan tiada jin maupun manusia yang bersekutu dengan-Nya dalam rahasia-Nya.
+>
+> Maka tiada seorang pun yang dapat menuju api kerinduan di tengah kegelapan kecuali dengan taufik-Nya, jika ia mau merenung.
+
+Kemudian ia berkata: "Inilah kegelisahan dada, penyesalan ruh, dan bisikan hati orang-orang mulia dari kawasan bumi yang ramai ini, yang diliputi bencana sepanjang masa yang lampau dan abad-abad yang pertama. Setiap orang gelisah sesuai dengan kadarnya, didorong oleh pikirannya sejauh pandangannya, dan menjangkau dengan daya dan kemampuannya apa yang dapat ia capai dengan diamnya, geraknya, dan kesanggupannya. Tidak ada obat bagi hal ini dan selainnya yang lebih mujarab daripada karya Allah; barang siapa dianugerahi-Nya dengan itu, ia menjadi sehat, dan barang siapa luput darinya, ia menjadi mabuk dan bingung. Semoga Allah Taʿālā, dengan anugerah, kemurahan, dan karunia-Nya, menganugerahkan kepada kita akal yang dengannya kita mengenal diri kita, adab yang dengannya kita bergaul di antara kita, kecukupan yang dengannya kita tidak memerlukan imam-imam dan pembesar-pembesar kita, syukur yang dengannya kita berhak atas tambahan dari Tuhan kita, dan kesabaran yang dengannya kita meneguk pahitnya hidup kita."
+
+## Ibrāhīm ibn ʿAdī, Saudara Yaḥyā {.judul-bab}
+
+Ia termasuk murid Abū Naṣr al-Fārābī yang paling khusus dan senantiasa menyertainya. Ia memiliki banyak karya. Dalam salah satunya ia berkata: "Pembagian adalah turun, dan analisis adalah naik."
+
+Ia berkata: "Pembagian dan analisis adalah dua pelayan bagi definisi dan demonstrasi. Pelayanan pembagian adalah dengan memperbanyak perantara, dan pelayanan analisis adalah dengan pemilihan, sebagaimana definisi manusia dianalisis menjadi hewan dan yang berbicara."
+
+Ia berkata: "Setiap yang didefinisikan dapat digambarkan, tetapi tidak setiap yang dapat digambarkan dapat didefinisikan."
+
+## Abū al-Ḥasan ʿAlī ibn Aḥmad al-Jawshanī {.judul-bab}
+
+Ia termasuk ahli hikmah terdahulu.
+
+Ia berkata: "Pena adalah akal, Lauh adalah jiwa, falak atlas adalah ʿArsy, falak bintang-bintang adalah Kursi, tujuh falak adalah langit-langit, tujuh iklim adalah bumi-bumi, ʿIlliyyīn yang tertinggi adalah ʿArsy, dan yang paling rendah di antara yang rendah adalah pusat."
+
+## Al-Ṣāḥib Abū [Ibn] Muḥammad al-Bukhārī {.judul-bab}
+
+Ia termasuk murid Abū Sulaymān al-Sijzī. Ia adalah orang yang paling utama di antara mereka yang kuat ikatannya dengan ilmu-ilmu Islam dan kokoh kekuatannya dalam kehalusan-kehalusan hikmah. Akan tetapi, klaimnya melampaui kandungan maknanya dengan tambahan yang tak terbatas. Ia memiliki hafalan yang kuat ikatannya dan pikiran yang kokoh kaidah-kaidahnya. Ia memiliki karya-karya yang baik dan bermanfaat.
+
+## Abū al-Barakāt al-Baghdādī {.judul-bab}
+
+Pada awal masa belajarnya ia meminta Abū al-Ḥasan al-Saʿīdī Hibat Allāh untuk mengajarinya, tetapi ia menolak, karena ia tidak mengajar orang-orang Yahudi. Maka Abū al-Barakāt berteman dengan penjaga pintunya, lalu selama beberapa waktu ia datang dan duduk di lorong rumahnya, mendengarkan pembahasan. Kebetulan suatu hari ia hadir ketika murid-murid syaikh sedang membahas suatu masalah, lalu mereka terhenti. Abū al-Barakāt berkata: "Hamba ini memohon izin kepada syaikh untuk mengatakan apa yang ada padanya." Ia pun diizinkan, lalu menjawab dengan sangat baik. Syaikh menanyakan kisahnya, dan ia menceritakan keadaannya. Syaikh berkata: "Orang yang keadaannya demikian tidak boleh dilarang." Maka ia menjadi salah seorang murid khususnya.
+
+Di antara syair tentang dirinya:
+
+> Ia berpindah dari agama leluhurnya, padahal agama mereka adalah mazhab sang pemberi syafaat;
+>
+> maka ia pun menjadi tanpa kedudukan dalam penghidupan, dan di hari kembali tanpa pemberi syafaat.
+
+Ia adalah filsuf orang-orang Irak dan memiliki pikiran yang menyala. Ia hidup sembilan puluh tahun syamsiah. Ia terserang kusta, lalu mengobati dirinya sendiri hingga sembuh. Ia menjadi buta dan tetap buta selama beberapa waktu. Sultan Muḥammad ibn Malikshāh menuduhnya buruk dalam pengobatan dan pengaturan, lalu memenjarakannya selama beberapa waktu. Pada bulan-bulan tahun lima ratus empat puluh tujuh, Sultan Masʿūd ibn Muḥammad ibn Malikshāh terserang kolik sesudah diterkam seekor singa, lalu Abū al-Barakāt dibawa dari Baghdad ke Hamadhān. Ketika orang-orang telah berputus asa akan hidup sultan, Abū al-Barakāt takut akan keselamatan dirinya. Ia wafat pada waktu duha, dan sultan wafat sesudah asar. Keranda Abū al-Barakāt dibawa ke Baghdad bersama rombongan haji.
+
+Ketika Abū al-Barakāt ditawan dalam pertempuran antara al-Mustarshid dan Sultan Masʿūd dan ajalnya telah dekat, ia masuk Islam seketika itu juga, padahal ia seorang Yahudi. Maka ia selamat dari pembunuhan, sultan memberinya jubah kehormatan, dan baiklah keislamannya.
+
+Dikatakan bahwa ia masuk menemui khalifah, lalu semua yang hadir berdiri kecuali qāḍī al-quḍāt. Ia berkata kepada khalifah: "Ia tidak berdiri untukku karena aku seorang zimi. Maka aku masuk Islam agar ia tidak merendahkanku."
+
+## Bahāʾ al-Dīn Abū Muḥammad al-Kharaqī {.judul-bab}
+
+Ia termasuk ahli hikmah Marw. Ia memiliki karya-karya tentang sejarah dan berakhlak baik.
+
+Di antara perkataannya: "Matematika dinamai empat ilmu pelajaran. Ia hanya empat karena subjeknya adalah kuantitas, dan kuantitas itu adakalanya bersambung dan adakalanya terpisah. Yang bersambung adakalanya bergerak dan adakalanya diam; yang bergerak adalah astronomi, dan yang tidak bergerak adalah geometri. Yang terpisah adakalanya memiliki nisbah paduan, yaitu musik, dan adakalanya tidak, yaitu ilmu bilangan."
+
+Ia berkata: "Kesempurnaan jiwa adalah mencerap hal-hal rasional, keindahannya adalah astronomi, geometri, dan musik, dan geometri adalah pengilap jiwa."
+
+## Muḥammad al-Ḥārithānī al-Sarakhsī {.judul-bab}
+
+Ia berkeliling dan mengembara, menjelajahi sebagian besar iklim dengan kakinya untuk mencari hikmah yang sempurna. Dalam sastra ia mengikuti jejak al-Jawharī.
+
+Al-Ẓahīr berkata: "Antara aku dan dia terjadi pembicaraan tentang apakah pembenaran wajib didahului oleh dua konsepsi atau tiga." Ia berkata: "Aku telah menyebutkan hal itu dalam kitab *Sharḥ al-Najāt* karyaku."
+
+Di antara perkataannya:
+
+"Raja Yang Benar lagi Maha Berdiri Sendiri adalah awal dan akhir pikiran para arif."
+
+"Tiada perjalanan yang lebih indah daripada perjalanan akal di alam malakut yang tertinggi."
+
+"Barang siapa pada batu cincin kesiapannya telah tercetak ukiran-ukiran hakikat, ia telah mengecap kenikmatan yang tertinggi."
+
+## Maḥmūd al-Khwārazmī {.judul-bab}
+
+Ayahnya adalah wazir Atsız, seorang Turki yang menguasai Khwārazm. Maḥmūd adalah seorang ahli hikmah, sastrawan, dan orang yang utama, termasuk murid Abū al-Barakāt si Yahudi. Ia dikuasai oleh semacam melankolia, lalu menyembelih dirinya sendiri dengan pisau pena pada suatu malam di musim dingin.
+
+Di antara perkataannya sebelum wafatnya: "Barang siapa menghendaki agar daya estimasi selaras dengan akal dalam segala keadaan, ia seperti orang yang dapat mendengar yang meminta kabar dari orang tuli, atau orang yang dapat mendengar yang ingin agar orang tuli mendengar segala yang ia katakan."
