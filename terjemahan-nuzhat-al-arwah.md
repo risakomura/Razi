@@ -4204,3 +4204,103 @@ Dan tentang langkanya kesempurnaan:
 > Apabila kau lihat keutamaan telah melimpah pada seorang pemuda, ketahuilah bahwa di sana ada kekurangan yang tersembunyi.
 >
 > Allah terlalu sempurna kuasa-Nya untuk memperlihatkan kepadamu seorang kedua dalam kesempurnaan orang yang kau lihat itu.
+
+## Abū Sahl al-Masīḥī {.judul-bab}
+
+Ia adalah seorang ahli hikmah yang dikuasai oleh kedokteran. Karya-karyanya dalam kedokteran banyak dan bermanfaat. Khwārazmshāh Maʾmūn ibn Muḥammad mengikatnya dalam pengabdian. Abū Sahl lahir di Jurjān, lalu tumbuh dan belajar di Baghdad. Untuk perpustakaan Khwārazmshāh ia menyusun sebuah kitab yang halus tentang takwil mimpi.
+
+Ia beragama Nasrani, tetapi tidak menghadiri gereja-gereja orang Nasrani; ia beribadah di rumahnya.
+
+Ia biasa berkata: "Bagaimana mungkin aku berpaling dari hukum al-Masīḥ, sedangkan api turun di Gereja Kebangkitan di al-Masjid al-Aqṣā?" Kisah api itu ialah bahwa malam ketika al-Masīḥ diangkat ke langit adalah malam pertengahan bulan Nīsān. Pada malam itu, setiap tahun, api turun dari eter sehingga dapat dilihat manusia, lalu menyalakan pelita-pelita Gereja Kebangkitan tanpa ada lubang atau celah pada atap bangunan itu. Api itu menembus atap bangunan tanpa membakar kayunya, kemudian menyalakan pelita-pelita dan obor-obor. Apabila fajar terbit, api itu padam.
+
+Yaḥyā ibn ʿAdī telah menyusun sebuah kitab yang menjelaskan perkara alami dalam hal itu.
+
+## Abū Zakariyyā Yaḥyā ibn ʿAdī {.judul-bab}
+
+Ia adalah seorang ahli hikmah yang sempurna, termasuk murid Abū Naṣr yang paling utama. Ia memiliki banyak karya, mensyarah kitab-kitab Aristoteles, dan meringkas karya-karya Abū Naṣr.
+
+Ia berkata: "Lafal yang diabstraksikan hendaknya menjadi jernih dalam mengarah kepada hal-hal primer, yang banyak nama dan sifatnya dalam penggunaan tetapi satu dalam hakikat dan zatnya. Sebab penelaahan ini, apabila telah jernih dan sempurna, mencukupi beban yang besar dan merupakan perkara yang mulia."
+
+Ia banyak bekerja, meneliti, menulis, dan mengkaji; ia tidak beristirahat, baik malam maupun siang. Ia tinggal di Baghdad dan wafat di sana.
+
+## Bahmanyār ibn al-Marzubān {.judul-bab}
+
+Ia adalah murid Abū ʿAlī, beragama Majusi, tidak mahir dalam bahasa Arab, dan berasal dari negeri Azerbaijan. Sebagian besar *al-Mubāḥathāt* karya Abū ʿAlī berisi persoalan-persoalan Bahmanyār. Ia gemar meneliti hal-hal pelik dari persoalan-persoalan yang musykil.
+
+Di antara perkataannya:
+
+"Akal adalah teman akrab di perantauan."
+
+"Kenikmatan-kenikmatan akliah adalah kesembuhan yang tidak diikuti penyakit dan kesehatan yang tidak disertai sakit. Barang siapa mempelajari ilmu-ilmu akliah tetapi tidak berakhlak dengan akhlak para ahlinya, ia bodoh tentang hakikat ilmu-ilmu itu."
+
+"Setiap ahli hikmah yang menuntut harta melebihi kebutuhannya memiliki ilmu hikmah, tetapi tidak memiliki cita rasanya."
+
+"Ketahuilah bahwa apa yang ditakdirkan pasti terjadi."
+
+Ia wafat tiga puluh tahun sesudah wafatnya Abū ʿAlī.
+
+## Abū Manṣūr al-Ḥusayn ibn Ṭāhir ibn Zayla {.judul-bab}
+
+Ia berasal dan lahir di Isfahan, termasuk murid khusus dan orang dekat Abū ʿAlī. Dikatakan bahwa ia beragama Majusi, tetapi hal itu tidak dapat dipastikan.
+
+Ia berilmu dalam matematika dan mahir dalam seni musik. Ia memiliki ringkasan bagian Fisika dari *al-Shifāʾ* dan syarah *Risālat Ḥayy ibn Yaqẓān*. Umurnya pendek; ia wafat pada tahun empat ratus empat puluh, dua belas tahun sesudah wafatnya Abū ʿAlī.
+
+Di antara perkataannya: "Janganlah engkau memikirkan perkara-perkara yang akan datang, sebab engkau tidak tahu apa yang akan datang kepadamu darinya dan apa yang tidak."
+
+## Abū ʿUbayd ʿAbd al-Wāḥid al-Jūzjānī {.judul-bab}
+
+Ia seorang fakih, termasuk orang-orang dekat Abū ʿAlī, teman-teman majelisnya, dan para pelayannya. Dialah yang membantu Abū ʿAlī menghimpun kitab *al-Shifāʾ*, menafsirkan kemusykilan-kemusykilannya dan kemusykilan-kemusykilan *al-Qānūn*, serta mensyarah *Risālat Ḥayy ibn Yaqẓān*.
+
+Di antara murid-murid Abū ʿAlī tidak didapati orang yang lebih sedikit bekal ilmunya daripada dia. Dikatakan bahwa di majelis Abū ʿAlī ia lebih menyerupai seorang murid tarekat daripada seorang pelajar yang mengambil faedah. Di antara perkataannya:
+
+"Pengetahuan manusia akan ketidakmampuannya untuk mengenal Allah Taʿālā secara sempurna adalah puncak ilmu manusia, dan itu adalah pengetahuan yang bersifat demonstratif."
+
+## Abū ʿAbd Allāh al-Maʿṣūmī {.judul-bab}
+
+Ia adalah murid Abū ʿAlī yang paling utama. Abū ʿAlī menyusun untuknya *Risāla fī al-ʿIshq*. Ketika Abū al-Rayḥān mengkritik pertanyaan-pertanyaan Abū ʿAlī dan bersikap tidak beradab, Abū ʿAlī enggan berdebat dengannya. Maka al-Maʿṣūmī-lah yang menjawab kritik-kritik Abū al-Rayḥān, dan ia berkata: "Seandainya engkau, wahai Abū al-Rayḥān, memilih lafal-lafal selain itu untuk menyapa sang ahli hikmah, tentu hal itu lebih layak bagi akal dan ilmu."
+
+Al-Maʿṣūmī menyusun sebuah kitab tentang substansi-substansi yang terpisah, jumlah akal-akal dan falak-falak, serta tata urutan hal-hal yang dicipta. Sebuah naskahnya pernah ada di perpustakaan Niẓāmiyya di Nishapur, lalu Jamāl al-Mulk ibn Niẓām al-Mulk mengambilnya. Tidak diketahui apakah burung ʿAnqāʾ telah menerbangkannya ataukah kefanaan telah menjemputnya. Kitab ini adalah kekasih para ahli hikmah. Abū ʿAlī biasa berkata: "Kedudukannya bagiku seperti kedudukan Aristoteles bagi Plato."
+
+Ia dibunuh oleh Maḥmūd ibn Sabuktakīn di antara para ahli hikmah yang dibunuhnya karena kebodohannya.
+
+Di antara syairnya:
+
+> Pembicaraan orang-orang berakal lebih kucintai dan lebih kuinginkan, sebagaimana orang yang haus menginginkan air sejuk untuk diminumnya.
+>
+> Dan aku bergembira berjumpa dengan mereka di majelis mereka, sebagaimana seseorang bergembira ketika orang yang lama pergi darinya telah kembali.
+
+## Abū al-Ḥasan al-Anbārī {.judul-bab}
+
+Ia adalah seorang ahli hikmah yang lebih menekuni geometri. ʿUmar al-Khayyāmī mengambil faedah darinya ketika ia menguraikan *al-Majisṭī* kepadanya. Suatu hari salah seorang fakih bertanya kepada al-Anbārī: "Apa yang sedang engkau ajarkan?" Ia menjawab: "Aku sedang menafsirkan sebuah ayat dari Kitab Allah Taʿālā." Fakih itu bertanya: "Ayat apakah itu?" Al-Anbārī menjawab: "Firman-Nya Taʿālā: *"Maka tidakkah mereka memperhatikan langit yang ada di atas mereka, bagaimana cara Kami membangunnya…"* (Qāf: 6). Aku sedang menafsirkan bagaimana cara pembangunannya."
+
+## Ismāʿīl al-Harawī {.judul-bab}
+
+Ia adalah seorang ahli hikmah, sastrawan, dan orang yang utama. Ia memiliki syair-syair dan karya-karya dalam hikmah. Ia mengajarkan kitab-kitab Abū Naṣr dan tidak menyelami karya-karya Abū ʿAlī. Ia memiliki murid-murid dari kalangan ahli hikmah yang utama, yang akan disebutkan nanti, insya Allah Taʿālā.
+
+Suatu hari ia bertengkar dengan khatib Herat. Khatib itu berkata kepadanya: "Aku akan mendoakan keburukan atasmu di antara dua khotbah." Ia menjawab: "Aku yakin doamu tidak akan dikabulkan, karena setiap Jumat engkau berkata: 'Semoga Allah memperbaiki amir,' dan Allah belum juga memperbaikinya."
+
+## Maymūn ibn al-Najīb al-Wāsiṭī {.judul-bab}
+
+Ia adalah seorang tabib yang utama dan ahli hikmah. Aku mendengar bahwa ia menghafal bagian Logika, Fisika, dan Metafisika dari *al-Shifāʾ*. Ia jarang bergaul dengan para pemilik kedudukan dan harta. Gubernur Herat, Ẓahīr al-Mulk ʿAlī al-Bayhaqī, merindukannya, sementara ia bersikap jual mahal kepadanya. Apabila al-Ẓahīr atau salah seorang anaknya sakit, ia menempatkan prajurit-prajurit Turki di rumah Maymūn hingga mereka mengusiknya dan membuatnya terpaksa mengadukan keadaannya kepada sang gubernur. Pada saat itulah Ẓahīr al-Mulk menahannya hingga ia mengobati penyakitnya, dan ia pun menemaninya selama beberapa waktu.
+
+Dikatakan bahwa ia berasal dari Wāsiṭ, lahir di Khūzistān, dan menetap di Herat.
+
+## Abū al-Fatḥ Kūshak {.judul-bab}
+
+Ia adalah seorang ahli hikmah yang kuat daya pikirnya. Kitab-kitabnya berada di perpustakaan Sultan Sanjar, dan sang sultan sangat menggemari kitab-kitabnya karena baiknya keyakinan terhadapnya. Ia menguasai bagian-bagian ilmu hikmah.
+
+Diceritakan bahwa di wilayah Bayhaq ada seorang ʿAlawī yang ahli kalam, berasal dari Nishapur, yang hanya menghafal lahiriah ilmu kalam. Suatu hari ia masuk menemui sang ahli hikmah Abū al-Fatḥ, yang mengira bahwa ia termasuk orang-orang cerdas dan utama di Bayhaq. Abū al-Fatḥ pun memintanya berbicara. Ia lalu membacakan, seperti orang yang menelaah, satu pasal dari lahiriah ilmu kalam, dan mengulanginya tiga kali sebagaimana persoalan-persoalan diulang-ulang di madrasah-madrasah. Sang ahli hikmah pun mengetahui sedikitnya bekal dan rendahnya tingkatan ilmunya, lalu berkata kepadanya: "Wahai sayyid, dengan apa engkau mengetahui bahwa engkau adalah manusia?" Ia menjawab: "Aku belum membaca hal itu dalam kitabku." Orang-orang yang hadir pun tertawa, dan sang sayyid keluar seraya berkata: "Ahli hikmah ini bertanya kepadaku tentang seluk-beluk bangun kerucut dengan berkata, 'Dengan apa engkau mengetahui bahwa engkau adalah manusia?' Padahal aku seorang ahli kalam; aku tidak punya pengetahuan tentang bangun kerucut." Maka seseorang berkata kepadanya: "Bukan hanya bangun kerucut, tentang bidang datar pun tidak, wahai sayyid!"
+
+## Abū Sahl (al-Nīlī) al-Nīsābūrī {.judul-bab}
+
+Ia adalah seorang ahli hikmah yang utama, yang lebih menekuni ilmu kedokteran. Ia mensyarah *Masāʾil Ḥunayn* dalam beberapa jilid dan menguasai bagian-bagian ilmu rasional.
+
+Di antara syairnya:
+
+> Wahai orang yang memaksakan diri menyembunyikan cinta dengan ketabahan, sesungguhnya kepayahan cinta datang sebelum paksaan diri itu.
+>
+> Orang yang mencinta memiliki lidah dari lubuk hatinya, yang mengakui cinta yang ia sembunyikan.
+
+## Abū al-Qāsim al-Ḥusayn ibn Muḥammad ibn al-Faḍl al-Rāghib {.judul-bab}
+
+Ia termasuk ahli hikmah Islam. Dialah yang memadukan antara syariat dan hikmah dalam karya-karyanya. Ia memiliki banyak karya, di antaranya *Ghurrat al-Tanzīl wa-Durrat al-Taʾwīl*. Bagiannya dalam ilmu-ilmu rasional lebih besar.
