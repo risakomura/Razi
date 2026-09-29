@@ -5227,4 +5227,206 @@ Ia juga bersyair, semoga Allah merahmatinya:
 >
 > Kami bersujud ketika Ia berfirman: "Bersenang-senanglah dengan melihat-Ku, sesungguhnya Aku adalah Tetangga kalian."
 
-[^t62]: CT: Kata *qahwa* dalam teks, sebelum memperoleh makna "kopi" yang dikenal sekarang dalam bahasa Arab, berarti minuman yang memabukkan dan menyenangkan, yakni arak.
+[^t62]: CT: Kata *qahwa* dalam teks, sebelum memperoleh makna "kopi" yang dikenal sekarang dalam bahasa Arab, dipakai dalam arti minuman yang memabukkan dan menyenangkan, yakni arak. Karena kata ini baru mulai memperoleh maknanya yang sekarang pada abad ke-14, ia diterjemahkan menurut maknanya pada abad ke-12, masa hidup Suhrawardī.
+
+Ia bersyair:
+
+> Suatu kaum telah tertidur, maka mereka pun tidur, wahai hati; serahkanlah mereka kepada Allah, sebab ini adalah kegelapan, wahai hati.
+>
+> Nasihat tidak berguna dengan kata-kata, wahai hati; maka maafkanlah mereka dan katakanlah: "Salam," wahai hati.
+
+Ketika ia dimakamkan di luar Aleppo, didapati tertulis di atas kuburnya:
+
+> Pemilik kubur ini dahulu adalah permata tersembunyi yang telah Allah bentuk dari kemuliaan.
+>
+> Manusia tidak mengetahui nilainya, maka karena cemburu Ia mengembalikannya ke dalam kerangnya.
+
+Ia juga bersyair, semoga Allah merahmatinya:
+
+> Aku berkata kepada tetanggaku, sedang air mataku mengalir, dan aku telah bertekad berangkat dari negeri-negeri:
+>
+> "Biarkanlah aku pergi dan janganlah meratap, sebab bintang yang paling mulia adalah yang berjalan di malam hari.
+>
+> Perjalanan orang-orang yang berjalan menuju keberhasilan, sedangkan keadaan orang-orang yang bermewah-mewah menuju kebinasaan."
+>
+> Sesungguhnya dalam kegelapan aku melihat suatu cahaya, seakan-akan malam telah dihiasi dengan siang.
+>
+> Datang kepadaku dari Sanaa sebuah kilat, yang mengingatkanku akan dekatnya tempat yang kukunjungi.
+>
+> Bagaimana aku akan menjadi makanan bagi ulat-ulat, padahal di atas dua bintang Farqad telah kubangun rumahku?
+>
+> Apakah aku rela bermukim di sebuah gurun, sedangkan empat unsur berada di sekitarku?
+>
+> Sampai kapan aku menjadikan ular-ular sebagai sahabatku? Sampai kapan aku menjadikan naga sebagai tetanggaku?
+>
+> Apabila aku berjumpa dengan cahaya itu, aku fana, sehingga aku tidak lagi mengenali kananku dari kiriku.
+>
+> Aku memiliki rahasia agung yang mereka ingkari, sehingga mereka membenturkan kepala ke dinding.
+
+Ia berkata:
+
+> Barang siapa mengingkari mazhab cinta, datanglah; akan kuberitakan kepadanya apa yang kudengar dari diriku sendiri.
+>
+> Akan kuberitakan kepadanya tentang tempat yang terlarang dan penghuninya; barang siapa belum merasakan cinta, ia termasuk orang-orang mati.
+
+Ia juga bersyair, semoga Allah meridainya:
+
+> Ia menanggalkan kerangka-kerangkanya di Jarʿāʾ al-Ḥimā, dan ia menangis merindukan tempat tinggalnya yang lama.
+>
+> Yang tertutup itu menyingkapkan wajahnya, dan bersinarlah paginya, dan ia melepaskan diri dari segala yang baru dan yang usang.
+>
+> Ia menoleh ke arah kampung halaman, lalu menyaksikan perkampungan yang puing-puingnya telah terhapus dan tercabik.
+>
+> Ia terus mengulang-ulang rintihannya di angkasa, menginginkan tempat bermukim musim semi yang licin tempat mendakinya.
+>
+> Ia berhenti bertanya kepadanya, lalu gema menjawabnya: "Tiada jalan menuju perjumpaan."
+>
+> Maka ia menangis dengan mata keadaan atas tempat perjanjiannya, menyesali persatuan yang telah berlalu dan tercerai-berai.
+>
+> Seakan-akan ia bersinar dengan sinar kilat, lalu terlipat, seakan-akan ia tak pernah berkilau.
+
+Ia juga bersyair:
+
+> Sepeninggal kalian, adakah kabar pada kalian, telah kuhabiskan mataku dan air mataku; maka tiada lagi mata dan tiada pula jejak.
+>
+> Dahulu aku khawatir akan celaka karena berpisah dengan kalian; kini aku telah celaka karenanya, dan kewaspadaan tidak berguna.
+>
+> Setiap hari seseorang mengharapkan esoknya, sedangkan sebelum itu takdir telah merangkak kepadanya.
+>
+> Hati berangan-angan, padahal angan-angan itu dusta; jiwa pun lalai, padahal pada hari-hari ada pelajaran.
+
+Ia berkata:
+
+> Wahai dua sahabatku, sesungguhnya keakraban ada dalam berpisah dari manusia; maka jadilah engkau selamanya, selama engkau hidup, di hadirat kesucian.
+>
+> Engkau akan hidup tanpa mati, kekal tanpa fana, bergabung dengan makna, dan menjauh dari indra.
+>
+> Falak-falak mencemburuimu karena apa yang telah kau capai, dan terbitlah darimu cahaya seperti lingkaran matahari.
+>
+> Engkaulah makna itu, dan padamu wujudnya; padamu seluruh makhluk, ʿArsy, dan Kursi.
+
+Ia juga bersyair:
+
+> Ketika kami tiba di air Madyan untuk minum, dalam kehausan kami menuju tempat munajat,
+>
+> kami singgah di kampung orang-orang mulia yang rumah-rumahnya disucikan; di sana tiada Hind dan tiada ʿAlwā.
+>
+> Tampaklah bagi kami dari jauh sebuah api yang dinyalakan; di atasnya kami dapati orang yang kami cintai dan kami rindukan.
+>
+> Ia memberi kami minum, menyambut kami, menghidupkan jiwa-jiwa kami, dan memabukkan kami dengan arak yang penghormatannya adalah pemaafan.
+
+Ia juga bersyair:
+
+> Setiap pagi dan setiap fajar aku menangisi kalian dengan air mata kerinduan.
+>
+> Ular cinta telah mematuk jantungku, maka tiada tabib dan tiada penjampi baginya,
+>
+> kecuali kekasih yang aku terpikat kepadanya; dialah jampiku dan penawarku.
+
+Ia juga bersyair, semoga Allah merahmatinya:
+
+> Tanda-tanda kenabian cinta tampak padaku; sebelumku ia tersembunyi, dan pada zamanku ia menjadi masyhur.
+>
+> Inilah hatiku, ketika langit terbelah karena rindu, dan bintang-bintang air mata pun berhamburan.
+
+Ia juga bersyair, semoga Allah merahmatinya:
+
+> Wahai sahabat, tidakkah kau lihat nyala-nyala yang tampak, yang telah membakar hati, lalu bersembunyi?
+>
+> Kami terbang karena gembira merindukannya ketika ia berjalan di malam hari; ia menjauh, bersinar, berpaling, lalu berlalu.
+
+Ia juga bersyair, semoga Allah meninggikan derajatnya:
+
+> Aku bersumpah dengan kejernihan cinta kalian sejak azali, kakiku tidak pernah tergelincir kepada selain cinta kalian.
+>
+> Cinta kalian telah bercampur dengan daging dan darahku; perpisahanku adalah persatuanku, dan dalam wujudku ada ketiadaanku.
+
+Ia berkata:
+
+> Ruh-ruh para hamba beristirahat dengan wajah-Nya, hingga ia dinamai istirahat ruh-ruh.
+>
+> Janganlah mencari pelita, sebab perjumpaan dengan-Nya pada malam hari mencukupkanmu dari pelita.
+
+Ia juga bersyair, semoga rahmat Allah tercurah atasnya:
+
+> Kami minum di taman musim semi yang lembut, lalu kami berbantah dengan penuang tentang arak yang kemerahan.
+>
+> Ketika kami meminumnya dan ia merayap perlahan ke tempat-tempat rahasia, aku berkata kepadanya: "Berhentilah,"
+>
+> karena takut sinarnya menguasai, sehingga teman-teman dudukku mengetahui rahasiaku yang tersembunyi.
+
+Ia berkata:
+
+> Tidaklah bukit-bukit menghijau dan semak *shīḥ* menyebarkan harum, tidaklah awan mencurahkan hujan dan fajar menampakkan diri,
+>
+> tidaklah bunga-bunga bermekaran dan angin berhembus, kecuali ruh pun merindukan perjumpaan dengan-Mu.
+
+Ia berkata:
+
+> Telah tampak bagimu suatu rahasia yang lama engkau perhatikan, dan telah terbit fajar yang engkau adalah kegelapannya.
+>
+> Engkaulah tirai hati dari rahasia gaibnya; seandainya bukan karena engkau, tidak akan tercetak segelnya di atasnya.
+
+Ia juga bersyair:
+
+> Perkataanku adalah arak tua yang telah kuperam lalu kujernihkan, sedangkan sebagian perkataan para pembicara hanyalah perasan buah.
+>
+> Apabila suatu hari rajawali-rajawali pikiranku muncul, maka tiada lagi kicauan bagi pipit-pipit jalanan.
+
+Ia juga bersyair, semoga rahmat Allah tercurah atasnya:
+
+> Raihlah kenikmatan, sebab umurmu akan habis; manfaatkanlah dunia, sebab ia tidaklah kekal.
+>
+> Apabila engkau mendapatkan suatu kenikmatan, bangkitlah dengannya; janganlah pencela menghalangimu dari keinginanmu.
+>
+> Sambunglah minum pagi dengan minum petang, sebab duniamu hanyalah satu hari yang berulang-ulang.
+>
+> Musuhmu minum arak di taman-taman, dan engkau pasti menyesal jika pengancam mencegahmu.
+>
+> Betapa banyak umat yang telah binasa, rumah yang ditelantarkan, masjid yang runtuh, dan umur yang habis dalam keluh kesah.
+>
+> Betapa banyak nabi yang sejak dahulu datang membawa syariat, dan betapa banyak orang yang bersalawat kepadanya dan beribadah.
+
+Di antara perkataannya yang halus, semoga Allah Taʿālā menyertakan kami dalam doa-doanya yang saleh:
+
+"Barang siapa tidak bergembira dengan keajaiban tirai-tirai ʿIlliyyīn, ia termasuk orang-orang yang lalai. Barang siapa tidak mencicipi hidangan Tuhan semesta alam, ia termasuk orang-orang yang merugi. Barang siapa tidak menikmati kelezatan sinar cahaya-cahaya para muqarrabūn, ia termasuk orang-orang yang terhalang."
+
+Ia berkata: "Apabila engkau menahan dirimu dari menyibukkan diri dengan apa yang melebihi keperluan darurat badanmu dan menyempurnakannya dengan ilmu, engkau akan diteguhkan di atas banyak keutamaan. Hendaklah engkau bertasbih dan berwirid, memutus lintasan-lintasan pikiran yang buruk, dan melaksanakan lintasan-lintasan pikiran yang baik. Lintasan-lintasan pikiran yang buruk, jika engkau memutusnya sejak awal, engkau selamat darinya; jika tidak, ia akan menyerumu kepada apa yang tidak sesuai."
+
+Ia berkata: "Perbanyaklah doa dalam urusan akhirat, dan mintalah kepada Allah Taʿālā apa yang kekal bersamamu selamanya, bukan apa yang lenyap."
+
+Ia berkata: "Janganlah berbicara sebelum berpikir. Berpikirlah berkali-kali, kemudian katakanlah. Jika dengan ucapanmu engkau menjadi orang saleh, hampir-hampir dengan diammu engkau menjadi malaikat yang didekatkan."
+
+Di antara syair yang dinisbatkan kepadanya, semoga Allah meninggikan derajatnya, tetapi aku belum dapat memastikannya:
+
+> Seandainya tubuh kalian tahu untuk siapa ia dihimpunkan, niscaya ia berdiri, menari, bertepuk tangan, dan bersenang-senang.
+>
+> Dan arak, seandainya ia tahu siapa yang meminumnya, niscaya ia tunduk kepada peminumnya dan berdoa.
+
+Ia juga memiliki syair Persia, semoga Allah Taʿālā meneguhkan derajatnya:[^t63]
+
+> Selama beberapa waktu aku mengenal diriku dengan taklid dan mengagumi diriku.
+>
+> Aku belum melihat diriku dan belum mengenal diriku; aku hanya mendengar namaku. Kala itu aku berada di dalam diriku, tetapi aku tidak menyadari keberadaanku yang sejati. Ketika aku keluar dari diriku, barulah aku melihat diriku dan menemukan diriku.
+
+[^t63]: CT: Rubaiat Persia ini terdapat pula secara persis dalam *Dīwān-i Kabīr* karya Jalāl al-Dīn al-Rūmī.
+
+Ia berkata: "Janganlah engkau takjub pada sesuatu pun dari keadaan-keadaanmu, sebab Sang Pemberi tidak terbatas kekuatan-Nya. Hendaklah engkau membaca al-Qur'an seakan-akan ia tidak diturunkan kecuali untuk urusanmu saja. Himpunkanlah perangai-perangai ini dalam dirimu, niscaya engkau termasuk orang-orang yang beruntung."
+
+Ia berkata: "Sufi adalah orang yang padanya terhimpun kecakapan-kecakapan yang mulia, dan tasawuf adalah istilah untuk hal itu."
+
+Ia berkata: "Sebagaimana daya-daya makhluk tidak mampu mewujudkanmu, daya-daya itu pun tidak mampu memberikan hak bimbinganmu. Justru Dialah *"…yang telah memberikan bentuk kejadian kepada segala sesuatu, kemudian memberinya petunjuk"* (Ṭāhā: 50). Kuasa-Nya mewujudkanmu dan kalam-Nya membimbingmu."
+
+Ia berkata: "Janganlah perbedaan ungkapan mempermainkanmu. Sebab apabila isi kubur dibongkar dan manusia dihadirkan di pelataran Allah Taʿālā pada hari kiamat, barangkali dari setiap seribu orang, sembilan ratus sembilan puluh sembilan dibangkitkan dari kubur mereka sebagai korban-korban ungkapan dan sembelihan pedang-pedang isyarat, dengan darah dan luka mereka di atas tubuh mereka. Mereka lalai dari makna-makna, sehingga mereka menyia-nyiakan bangunan-bangunan."
+
+Ia berkata: "Hakikat adalah satu matahari yang tidak berbilang dengan berbilangnya tempat-tempat penampakannya pada buruj-buruj. Kotanya satu, jalan-jalannya banyak, dan jalan-jalan itu ada yang sulit dan ada yang mudah."
+
+Ia berkata: "Seseorang tidak menjadi layak bagi makrifat-makrifat dan penyingkapan-penyingkapan yang agung kecuali dengan jerih payah yang besar."
+
+Ia berkata: "Pada zaman kami telah muncul sekelompok orang yang menyangka kelakar daya khayal, ketika ia mempermainkan mereka, sebagai penyingkapan." Yang ia maksud dengan itu adalah khayalan-khayalan yang dialami oleh orang yang memakan hasyisy.
+
+Ia bersyair:
+
+> Katakanlah kepada sahabat-sahabat yang melihatku telah mati, lalu menangisiku dengan sedih ketika melihatku:
+>
+> "Janganlah kalian mengira bahwa aku telah mati; demi Allah, yang mati ini bukanlah aku.
