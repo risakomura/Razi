@@ -3936,3 +3936,107 @@ Sultan Maḥmūd menghadiahkan kepada sang ahli hikmah Abū al-Khayr sebuah wila
 Ibn Suwār ditanya tentang perilaku yang dijalani manusia dan keyakinan yang mereka pegang teguh: "Apakah semuanya benar ataukah sebagian besarnya? Apakah semuanya batil ataukah sebagian besarnya?" Ia menjawab: "Pertanyaannya mengerikan, jawabannya mudah."
 
 Dikatakan kepadanya: "Berilah kami faedah, semoga Allah memberimu faedah, karena sumur ilmu tidak pernah surut, meskipun timba-timba silih berganti turun ke dalamnya dan orang-orang yang datang minum berdesakan di tepi-tepinya." Ia berkata: "Kalian benar. Ketahuilah, apabila yang diperhatikan adalah penguasaan tabiat atas diri mereka dan dominasi pengaruh-pengaruhnya pada mereka dalam pendapat yang diyakini dan perilaku yang dipilih, maka sebagian besar dari hal itu batil, sebab kekuasaan akal adalah orang asing di negeri tabiat, dan orang asing itu hina. Namun, apabila yang diperhatikan adalah ketetapan akal, apa yang diwajibkannya, apa yang layak bagi substansinya, dan apa yang baik bila disandarkan kepadanya, maka sebagian besar dari hal itu benar, baik yang diperhatikan itu berupa pendapat, perilaku, kebiasaan, ataupun perangai. Menurut kedua sebab inilah putusan ditetapkan dan hukum dijatuhkan. Kebenaran tidak menjadi benar karena banyaknya orang yang meyakininya, dan tidak berubah menjadi batil karena sedikitnya orang yang menganutnya. Demikian pula kebatilan."
+
+## Mattā ibn Yūnus {.judul-bab}
+
+Ia adalah seorang penerjemah dan ahli hikmah beragama Nasrani. Ia mensyarah kitab-kitab Aristoteles dan memiliki karya-karya dalam logika dan bidang lainnya. Di antara perkataannya:
+
+"Kebahagiaan itu ada tiga: kebahagiaan jiwa, kebahagiaan badan, dan kebahagiaan lahiriah. Kebahagiaan jiwa adalah ilmu-ilmu hakiki, yang diikuti oleh akhlak yang terpuji, keutamaan-keutamaan, dan perilaku yang baik. Kebahagiaan badan adalah kesempurnaan anggota-anggota tubuh serta kebagusan susunan dan paduannya. Kebahagiaan lahiriah adalah kebagusan dalam mencari dunia, memperolehnya, dan membelanjakannya pada tempatnya sesuai dengan apa yang diwajibkan oleh akal dan syariat. Kebahagiaan-kebahagiaan itu tidak berhimpun pada diri seseorang kecuali dalam keadaan yang langka."
+
+## Muḥammad ibn Jābir al-Ḥarrānī al-Battānī {.judul-bab}
+
+Ia adalah pelaku pengamatan bintang yang masyhur sesudah masa al-Maʾmūn. Ia mengetahui rincian bagian-bagian hikmah dan membelanjakan harta yang banyak untuk pengamatan itu. Battān adalah salah satu desa di Ḥarrān, dan kepadanya ia dinisbatkan.
+
+## Al-Syaikh al-Fāḍil Muḥammad ibn Muḥammad (Abū Naṣr al-Fārābī) {.judul-bab}
+
+Ia dikenal dengan nama Abū Naṣr al-Fārābī. Ayahnya adalah seorang panglima pasukan. Ia tinggal di Baghdad selama beberapa waktu, kemudian pindah ke Syam dan menetap di sana hingga wafatnya. Ia menjauhi dunia, merasa cukup dengan yang sedikit darinya, dan menempuh jalan hidup orang-orang terdahulu.
+
+Dikatakan bahwa pada awal perjalanan hidupnya ia adalah seorang penjaga kebun di Damaskus yang senantiasa menyibukkan diri dengan hikmah, merenungkannya, dan menelaah pendapat-pendapat orang terdahulu, sementara keadaannya serba kekurangan. Diceritakan bahwa pada malam hari ia berjaga untuk menelaah dan menulis dengan menumpang cahaya pelita penjaga malam. Ia tetap demikian selama beberapa waktu hingga menjadi masyhur, murid-muridnya bertambah banyak, dan ia menjadi satu-satunya tokoh pada zamannya. Ia berjumpa dengan Sayf al-Dawla ibn Ḥamdān, yang memuliakannya dengan pemuliaan yang besar, sehingga kedudukannya di sisinya menjadi agung, dan ia menjadi penasihatnya.
+
+Dikatakan bahwa ia tidak menerima dari Sayf al-Dawla setiap harinya kecuali empat dirham, yang ia belanjakan untuk para sahabatnya. Ia tidak menaruh perhatian pada tempat tinggal, binatang tunggangan, ataupun sesuatu dari urusan dunia.
+
+Dikatakan pula bahwa pada awal perjalanan hidupnya ia adalah seorang kadi. Ketika ia menyadari adanya makrifat-makrifat, ia meninggalkan jabatan itu dan menghadapkan diri untuk mempelajari ilmu-ilmu.
+
+Dikatakan bahwa sebab ia membaca hikmah adalah bahwa seseorang menitipkan kepadanya kitab-kitab Aristoteles. Ia pun menelaahnya dan mendapati dirinya memiliki daya terima yang besar terhadapnya, sehingga ia terdorong untuk membacanya hingga menguasainya. Semoga Allah Taʿālā mengampuni kekurangan-kekurangannya.
+
+Ia adalah Muḥammad ibn Muḥammad ibn Ṭarkhān dari Fārāb di Turkistan, dan dialah yang dijuluki Guru Kedua. Sebelumnya tidak ada seorang pun di antara ahli hikmah Islam yang lebih utama darinya. Dikatakan bahwa ahli hikmah itu ada empat: dua sebelum Islam, yaitu Aristoteles dan Hippokrates, dan dua dalam Islam, yaitu Abū Naṣr dan Abū ʿAlī. Antara wafatnya Abū Naṣr dan kelahiran Abū ʿAlī terdapat tiga puluh tahun, dan Abū ʿAlī adalah murid karya-karyanya.
+
+Dalam kitab *Akhlāq al-Ḥukamāʾ* disebutkan bahwa Ibn ʿAbbād mengirimkan hadiah-hadiah kepada Abū Naṣr, memanggilnya, dan merindukan untuk menjalin hubungan dengannya, sementara Abū Naṣr menjaga diri, menahan diri, dan tidak menerima sesuatu pun darinya. Hingga masa melancarkan pukulan-pukulannya, dan Abū Naṣr tiba di Rayy dengan mengenakan jubah yang lusuh lagi kotor dan kopiah yang belang. Ia berjanggut tipis lagi bertubuh pendek, dengan rupa seperti sebagian orang Turki. Al-Ṣāḥib biasa berkata: "Siapa yang menunjukkan kepadaku Abū Naṣr atau membujuknya datang kepadaku, akan kuberi harta yang membuatnya kaya." Abū Naṣr pun memanfaatkan kesempatan itu hingga ia masuk ke majelis al-Ṣāḥib dengan menyamar. Majelis itu penuh sesak dengan teman-teman minum, orang-orang jenaka, dan para ahli hiburan. Mereka menimpakan cela kepadanya karena pakaiannya[^p26] dan melontarkan kepadanya anak-anak panah celaan, dan setiap orang yang berada di majelis itu memperolok-olok Abū Naṣr. Ia menanggung gangguan itu hingga hati mereka tenteram dengan kehadirannya dan minuman membuat mereka lupa menyebut-nyebutnya. Gelas-gelas pun berputar dan kepala-kepala pun terkulai. Lalu Abū Naṣr mengambil sebuah gambus dan memainkan sebuah lagu dengan irama yang menidurkan para pendengarnya, sehingga masing-masing dari mereka menjadi seperti orang yang pingsan menjelang mati. Dikatakan pula bahwa ia membawa sebuah alat yang telah ia siapkan untuk keperluan itu. Ia menulis pada gambus itu: "Abū Naṣr al-Fārābī telah hadir, kalian memperolok-oloknya, maka ia menidurkan kalian dan pergi." Kemudian ia keluar dari Rayy dengan menyamar bersama sebuah kafilah menuju ke arah Baghdad. Ketika al-Ṣāḥib dan teman-teman minumnya siuman, mereka takjub akan kemahirannya dalam seni musik dan menyesali luputnya kesempatan bergaul dengannya. Kemudian al-Ṣāḥib berkata: "Putarkanlah gelas-gelas atas namanya, semoga zaman mengembalikannya kepada kita." Ketika seorang biduan membawa gambus itu, ia berkata: "Wahai al-Ṣāḥib, orang itu telah menuliskan sesuatu pada gambusku." Ketika al-Ṣāḥib melihatnya dan mengetahui bahwa orang itu adalah Abū Naṣr, ia merobek kerah bajunya, berseru meminta tolong, dan menyiapkan para pembantunya untuk mencarinya. Namun, Abū Naṣr telah menjadi seperti al-Qāriẓ al-ʿAnazī;[^t53] ia tidak menemukan jejaknya dan tidak mendengar kabar tentangnya. Sepanjang sisa umurnya ia terus menyesali luputnya kesempatan bergaul dengannya dan kelalaiannya dalam mengenalinya. Namun, betapa jauhnya burung ʿAnqāʾ yang menghilang dari orang yang merindukannya!
+
+[^p26]: CP: Teks Arab yang disunting memberi harakat *fa-aḍāfū al-jurm ilā al-thawāb* ("mereka menambahkan dosa kepada pahala"), dan terjemahan Turki mengikutinya secara harfiah. Ungkapan ini sulit dipahami dalam konteksnya. Bacaan *al-thiyāb* ("pakaian") lebih sesuai: mereka menimpakan cela kepadanya karena pakaiannya yang lusuh, sebagaimana digambarkan sebelumnya. Terjemahan di sini mengikuti bacaan tersebut.
+
+[^t53]: CT: Al-Qāriẓ al-ʿAnazī: seorang penyair Arab Jahiliah dari kabilah ʿAnaza. Karena ia keluar untuk mengumpulkan buah qaraẓ lalu tidak pernah kembali, namanya dipakai dalam bahasa Arab sebagai peribahasa untuk orang yang pergi dan tidak kembali, lenyap, atau seakan-akan ditelan bumi.
+
+Dikatakan bahwa Abū Naṣr sedang bepergian dari Damaskus ke ʿAsqalān, lalu ia dihadang oleh sekelompok penyamun yang disebut al-Fityān. Ia berkata kepada mereka: "Aku Abū Naṣr. Ambillah binatang tunggangan, senjata, dan pakaian yang ada padaku, dan biarkanlah aku pergi." Mereka menolak dan bermaksud membunuhnya. Ketika ia terdesak, ia turun dari tunggangannya dan bertempur hingga terbunuh bersama orang-orang yang menyertainya. Musibah ini sangat membekas di hati para amir Syam. Mereka pun memburu para penyamun itu, menguburkan Abū Naṣr, dan menyalib para penyamun itu pada batang-batang kayu di dekat kuburnya.
+
+Sang ahli hikmah Abū Naṣr al-Fārābī berkata: "Orang yang hendak mulai mempelajari ilmu hikmah hendaknya seorang pemuda yang sehat tabiatnya, terdidik dengan adab orang-orang baik, telah terlebih dahulu mempelajari al-Qur'an, bahasa, dan ilmu syariat; hendaknya ia menjaga kehormatan diri, jujur, berpaling dari kefasikan, kedurhakaan, pengkhianatan, ketidaksetiaan, tipu daya, dan muslihat; hendaknya pikirannya lapang dari urusan-urusan penghidupannya, menghadapkan diri untuk menunaikan kewajiban-kewajiban syariat, tidak mengabaikan satu rukun pun dari rukun-rukun syariat dan tidak pula satu adab pun dari adab-adabnya; mengagungkan ilmu dan para ulama; tidak ada sesuatu pun yang berharga di sisinya selain ilmu dan ahlinya; dan tidak menjadikan ilmunya sebagai mata pencarian. Barang siapa menyelisihi hal itu, ia adalah ahli hikmah palsu dan tidak terhitung di antara para ahli hikmah."
+
+Ia berkata: "Barang siapa di dunia ini tidak diperhalus akhlaknya oleh ilmunya, ia tidak akan membahagiakan dirinya di akhirat."
+
+Ia berkata: "Kebahagiaan menjadi sempurna dengan kemuliaan akhlak, sebagaimana pohon menjadi sempurna dengan buahnya."
+
+Ia berkata: "Barang siapa mengangkat dirinya di atas kadarnya, dirinya terhalang dari mencapai kesempurnaannya."
+
+Ia memiliki syair-syair hikmah yang indah, di antaranya:
+
+> Ketika kulihat zaman telah terbalik, dan dalam persahabatan tiada lagi manfaat,
+>
+> setiap pemimpin mendatangkan jemu, dan setiap kepala mendatangkan pening,
+>
+> kutetapi rumahku, dan dengannya kujaga kehormatanku dari kehinaan, dengan merasa cukup.
+>
+> Aku minum dari apa yang kumiliki arak yang cahayanya berkilau di telapak tanganku.
+>
+> Dari botol-botolnya aku punya teman minum, dan dari gemericik tuangannya aku punya lagu.
+>
+> Dan kupetik buah dari kisah-kisah kaum yang tempat-tempatnya telah lengang dari mereka.
+
+Aku melihat dalam *Intikhāb al-Ṣiwān* bahwa syair ini milik al-Syaikh Abū ʿAlī, semoga Allah meridainya. Ia juga bersyair:
+
+> Saudaraku, tinggalkanlah wilayah pengikut kebatilan, dan beradalah untuk hakikat-hakikat di wilayahnya.
+>
+> Rumah ini bukanlah rumah keabadian bagi kita, dan manusia di bumi tidak akan luput.
+>
+> Bukankah kita tak lain hanyalah garis-garis dan ukiran di atas sebuah bola, gelisah bagai orang yang bersiap bangkit?
+>
+> Yang ini berebut dengan yang itu atas sesuatu yang lebih sedikit daripada kata yang paling ringkas.
+>
+> Langit yang meliputi lebih layak bagi kita; betapa banyak desak-desakan di titik pusat!
+
+Ia juga bersyair:
+
+> Tubuhku berlambat-lambat dari berjumpa dengan kalian, padahal hatiku merindukan kalian lagi tergesa.
+>
+> Bagaimana dapat duduk diam orang yang rindu, yang digerakkan menuju kalian oleh dua pendorong: rindu dan harapan?
+>
+> Jika aku bangkit, tiada hajat bagiku selain kalian; bagaimana tidak, sedang tiada pengganti bagiku untuk kalian.
+>
+> Betapa banyak kaum sebelum kalian yang datang menghadapku, meminta izin masuk ke hatiku, namun mereka tidak sampai.
+
+## Abū Sulaymān Muḥammad ibn Maʿshar al-Bustī (Ikhwān al-Ṣafāʾ) {.judul-bab}
+
+Adapun Abū Sulaymān Muḥammad ibn Maʿshar al-Bustī, yang dikenal sebagai al-Maqdisī, Abū al-Ḥasan ʿAlī ibn Zahrūn al-Zanjānī, Abū Aḥmad al-Nahrajūrī, al-ʿAwfī, dan Zayd ibn Rifāʿa, mereka adalah para ahli hikmah yang berkumpul lalu menyusun *Rasāʾil Ikhwān al-Ṣafāʾ*. Lafal kitab ini adalah milik al-Maqdisī.
+
+Abū Sulaymān Muḥammad ibn Maʿshar al-Bustī, yang dikenal sebagai al-Maqdisī, memiliki lima puluh satu risalah yang dinamai *Rasāʾil Ikhwān al-Ṣafāʾ*. Seluruhnya sarat dengan akhlak dan ilmu nada-nada. Risalah-risalah itu terdapat di tengah manusia dan telah beredar dari tangan ke tangan.
+
+Diceritakan bahwa ketika Abū Sulaymān al-Manṭiqī menelaahnya, ia berkata: "Mereka bersusah payah tetapi tidak mencukupi; mereka memasang jerat tetapi tidak mendapat buruan; mereka berputar-putar di sekitar air tetapi tidak sampai meminumnya; mereka bernyanyi tetapi tidak menggetarkan; mereka menenun tetapi tenunannya jarang-jarang; mereka menyisir tetapi justru mengacak-acak."
+
+Abū al-Ḥasan ʿAlī ibn Asās al-ʿAwfī, yang juga termasuk Ikhwān al-Ṣafāʾ, berkata: "Telur menjadi basah karena dominasi air, udara, dan api atasnya serta kurangnya tabiat tanah padanya. Kuning telur menyerupai tabiat udara dan putihnya menyerupai tabiat air; karena itulah burung dapat terbang. Materi tanah padanya lebih sedikit; karena itulah ia tidak diciptakan bergigi. Anak burung terbentuk dari putih telur, sedangkan kuning telur adalah makanannya. Pengeraman pada burung membantu daya pembiak."
+
+Ia berkata: "Barang siapa tidak menjadi orang baik yang berakhlak dengan akhlak para ahli hikmah, tidak ada kebaikan bagi siapa pun dalam ilmunya."
+
+Ia berkata: "Jadikanlah prasangka baik terhadap manusia sebagai bagian yang ditetapkan bagi dirimu."
+
+Ia berkata: "Keutamaan-keutamaan adalah pangkal kebaikan-kebaikan, dan kehinaan-kehinaan adalah dasar keburukan-keburukan."
+
+"Kembali dari diam lebih baik daripada kembali dari ucapan. Maju melakukan sesuatu sesudah berhati-hati lebih teguh daripada menahan diri sesudah maju melakukannya."
+
+Ia berkata: "Dengan musyawarah, akal-akal bergabung kepada satu akal dalam suatu perbuatan; dan itu lebih baik daripada kebingungan sesudah terlanjur melakukannya."
+
+## Abū ʿAbd Allāh al-Nātilī {.judul-bab}
+
+Ia adalah seorang ahli hikmah yang berilmu dan berakhlak dengan akhlak yang indah. Al-Raʾīs Ibn Sīnā menuturkan bahwa ayahnya mengikat al-Nātilī sebagai gurunya: "Aku mengambil faedah darinya kaidah-kaidah logika, dan aku sampai kepada hal-hal pelik yang membuat al-Nātilī takjub. Ketika dalam mempelajari matematika aku sampai pada *al-Muʿṭayāt* dan *al-Makhrūṭāt*, ia berkata kepadaku: 'Keluarkanlah bentuk-bentuk ini dari dirimu sendiri, kemudian tunjukkanlah kepadaku.' Dengan perantaraan ini, ia justru mengambil faedah dariku."
+
+Ia memiliki sebuah risalah yang halus tentang wujud dan penjelasan nama-Nya. Risalah ini menunjukkan bahwa ia sungguh unggul dalam ilmu ketuhanan. Ia juga memiliki sebuah risalah tentang ilmu eliksir. Ibn Sīnā tidak menyebutnya dalam karya-karyanya kecuali dalam kitab *al-Maqḍiyyāt*.
+
+Sebuah hikmah: Ia berkata: "Hendaklah engkau meneliti permata-permata jiwa yang mulia, dan janganlah menimbun apa yang engkau khawatirkan hilangnya. Orang arif tidak mengutamakan pengenalan akan al-Ḥaqq di atas al-Ḥaqq itu sendiri."
