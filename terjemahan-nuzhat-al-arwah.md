@@ -5590,3 +5590,71 @@ Al-Ustādh Burhān al-Ḥaqq Fakhr al-Dīn al-Ghaḍanfar, semoga Allah Taʿāl�
 Ia termasuk ahli hikmah besar dan orang-orang yang unggul dalam bidang ini. Karya-karyanya banyak, di antaranya *Risāla fī al-Ḥudūd*, yang tidak seorang pun pernah menyusun karya sepertinya. Di antara perkataannya:
 
 Sebagian ahli hikmah berkata: "Gerak-gerak alami itu ada enam: gerak kejadian, gerak kerusakan, gerak layu, gerak menyusut, gerak berpindah tempat, dan gerak perubahan kualitas. Setiap gerak memiliki perbuatan khusus dari perbuatan-perbuatan alami. Demikian pula setiap batasan dari enam batasan itu memiliki kemuliaan, keutamaan, ilmu, adab, dan amal yang menunjukkan kekuatan dan kesempurnaannya."
+
+## [Al-Badīhī] {.judul-bab}
+
+Adapun al-Badīhī, ia menyertai Yaḥyā ibn ʿAdī dalam waktu yang lama.
+
+Ia berkata: "Wujud itu ada dua: wujud indrawi dan wujud akliah. Masing-masing dari kedua wujud ini memiliki wujud sesuai dengan apa yang dengannya ia maujud, adakalanya indrawi dan adakalanya akliah. Maka jiwa memiliki ketiadaan dalam salah satu dari kedua wujud itu, yaitu wujud indrawi, dan memiliki wujud dalam bagian yang lain. Karena itu, jiwa menyimpulkan, memahami, menyelami, menyusun premis-premis, menunjukkan kepada apa yang mengikuti hal-hal yang diketahui, dan naik hingga ke tujuan segala tujuan, sedangkan indra tidak berserikat dengannya dalam hal itu dan tidak pula membantunya."
+
+Kemudian ia berkata: "Bagaimana jiwa tidak demikian, padahal substansinya lebih tinggi dan kekhususannya lebih cemerlang, sedangkan hal-hal ini lebih jauh darinya dan lebih rendah daripada kemuliaannya?" Kemudian ia berkata: "Kehalusan-kehalusan hikmah tidak dapat dicapai oleh indra yang kasar dan oleh orang yang kasar lagi kaku. Yang dapat mencapainya hanyalah orang yang sehat benaknya, luas pikirannya, cermat penelitiannya, halus telaahnya, lurus kebiasaannya, terang akalnya, manis penjelasannya, dan dekat ketelitiannya." Dikatakan kepadanya: "Orang seperti ini sangat langka."
+
+## Al-Nūshajānī {.judul-bab}
+
+Suatu hari, ketika sekelompok sahabatnya berada di sisinya, ia berkata: "Telah jelas dengan pelajaran yang benar, telaah yang memadai, dan perenungan yang mendalam bahwa Pelaku Pertama, yang merupakan sebab segala yang dilihat, didapati, dipahami, dan diindra, tidak memiliki maksud dalam perbuatan-perbuatan-Nya, tidak pula usaha dan upaya."
+
+Salah seorang yang hadir berkata kepadanya: "Seandainya engkau menguatkan hal ini dengan demonstrasi yang terang atau dalil yang meyakinkan, niscaya engkau telah meninggikan apa yang telah engkau fondasikan." Ia menjawab: "Sebab semua ini masuk ke dalam perbuatan-perbuatan kita karena kelemahan kita, kegagalan kita, kejatuhan kita, kerapuhan kita, keterhanyutan kita, dan kebatilan kita. Dengannya patah-patah kita disambung, dengan menyambungkannya kekurangan-kekurangan kita disempurnakan, dan dengan menggunakannya luka-luka kita ditutup. Adapun Pencipta Yang Hak, yang mewajibkan kesempurnaan setiap yang sempurna dan menambal kekurangan setiap yang kurang, Ia berada di luar tujuan-tujuan dan sebab-sebab ini."
+
+Penanya itu berkata kepadanya: "Lalu bagaimana kita sepakat bahwa Ia disifati dengan hikmah, sedangkan perbuatan-perbuatan-Nya sebagaimana yang engkau klaim? Bagaimana cara melepaskan diri dari persoalan ini?" Ia menjawab: "Demi hidupku, menjelaskannya sungguh sulit." Kemudian ia menyusun sebuah risalah yang panjang tentang hal itu, yang tidak layak disebutkan di sini.
+
+## Abū al-Qāsim al-Anṭākī al-Mujtabā, Abū Zakariyyāʾ al-Ṣaymarī, Ṭalḥa al-Nasafī, Wahb ibn Yaʿīsh al-Raqqī, Naẓīf al-Rūmī, dan Abū Muḥammad al-ʿArūḍī {.judul-bab}
+
+Abū al-Qāsim al-Anṭākī, yaitu al-Mujtabā, Abū Zakariyyāʾ al-Ṣaymarī, Ṭalḥa al-Nasafī, Wahb ibn Yaʿīsh al-Raqqī, Naẓīf al-Rūmī, dan Abū Muḥammad al-ʿArūḍī adalah ahli-ahli hikmah yang utama. Kami tidak memperoleh riwayat hidup mereka sebagaimana mestinya, dan masa hidup mereka berdekatan.
+
+## Abū Isḥāq al-Ṣābiʾ dan Abū al-Khaṭṭāb al-Ṣābiʾ {.judul-bab}
+
+Adapun Abū Isḥāq al-Ṣābiʾ dan sepupunya, Abū al-Khaṭṭāb al-Ṣābiʾ, keduanya termasuk ahli hikmah yang utama, dan dalam sastra keduanya termasuk tokoh yang masyhur.
+
+Abū Ḥayyān berkata: "Aku mendengar Abū Isḥāq al-Ṣābiʾ sang katib berkata kepada Abū al-Khaṭṭāb: 'Ketahuilah bahwa mazhab-mazhab, pendapat-pendapat, aliran-aliran, pandangan-pandangan, dan segala yang diperselisihkan manusia adalah seperti sebuah lingkaran di dalam akal. Kapan pun diandaikan di dalamnya suatu pendapat dan ia dijadikan titik awal bagi pendapat-pendapat, dari sana ia akan berujung pada akhir dari apa yang mungkin dikatakan. Maka tidak ada satu pendapat pun kecuali telah dikatakan atau akan dikatakan; tidak ada satu perbuatan pun kecuali telah dilakukan atau akan dilakukan; dan tidak ada sesuatu yang diketahui kecuali telah diketahui atau akan diketahui. Demikian pula dalam dugaan, pendapat, dan lainnya. Ini berlaku umum dalam segala hal. Sebab engkau tidak menunjuk kepada suatu pendapat atau aliran kecuali mungkin engkau menduga padanya segala yang telah diduga dan akan diduga, dan mengatakan segala yang telah dikatakan dan akan dikatakan. Hanya saja, telaga salah seorang dari kita menyempit, sedangkan saluran yang lain melapang, karena lintasan pikiran adakalanya muncul dan adakalanya tidak, hati adakalanya lapang dan adakalanya tidak, dan lidah adakalanya lancar dan adakalanya tidak.'
+
+Abū al-Khaṭṭāb bertanya: 'Apakah lintasan-lintasan pikiran, lafal-lafal, pendapat-pendapat, dan pandangan-pandangan memiliki kaitan dengan temperamen, tabiat, udara, dan unsur-unsur secara umum?'
+
+Ia menjawab: 'Ya. Semua itu memiliki kaitan yang kuat, hubungan yang erat, dan ikatan yang kokoh dengan perkara-perkara ini, yang tersembunyi di dalamnya, mengelilinginya, atau menaunginya. Namun, bersama itu tidak ada jalan bagi manusia untuk bersepakat dalam salah satu keadaan; tidak ada jalan sama sekali, sebab seandainya hal itu mungkin, tentulah ia telah terjadi. Tidakkah engkau melihat bahwa tidak mungkin semua manusia bertubuh tinggi atau pendek, berkepala besar atau kecil, berlidah fasih atau cadel, dan berada di atas satu mazhab dan satu pendapat? Bagaimana hal ini mungkin terjadi atau disangka? Tabiat hanya memberikan bentuknya kepada setiap sesuatu sesuai dengan penerimaan, kesiapan, dan kesesuaiannya. Lembutnya mentega adalah pemberian tabiat, tetapi sesuai dengan kadar penerimaannya; dan kerasnya batu adalah pemberian tabiat, tetapi sesuai dengan kadarnya. Perbedaan bentuk-bentuk hanya timbul dari segi perbedaan materi-materi. Ini adalah pangkal yang tidak berpangkal dan sebab yang tidak bersebab, sebab tidak ada pelaku yang membuatnya demikian; melainkan memang tabiat bentuk demikian dan tabiat materi begitu. Perkara ini berjalan teratur menurut aturan yang engkau lihat. Karena itu, setiap orang menganut apa yang sesuai dengan temperamennya, yang karenanya uratnya berdenyut dan tanah liatnya diadon, lalu sesudah itu hal itu menjadi kebiasaan dan agamanya.'"
+
+## Abū al-Fatḥ al-Bustī {.judul-bab}
+
+Ia adalah seorang ahli hikmah dan penyair, termasuk pelayan raja-raja Samaniyah dan teman majelis Amir Khalaf ibn Aḥmad. Ketika Amir Nāṣir al-Dīn Sabuktakīn hendak mempekerjakannya, Abū al-Fatḥ berkata kepadanya: "Janganlah engkau memercayaiku kecuali sesudah mengujiku, sebab pengujian menghilangkan keraguan." Ia hidup hingga masa Sultan Muḥammad ibn Maḥmūd, dan Sultan Muḥammad ibn Maḥmūd berkali-kali memberinya jubah kehormatan. Dikatakan bahwa ia adalah sekretaris Bāytūz, penguasa Bust; kemudian Amir Sabuktakīn memanggilnya, dan ia menjadi sekretaris Sultan Maḥmūd selama beberapa waktu. Kemudian kebetulan ia meninggalkan Khurasan bersama orang-orang Khāqāniyya, dan ia wafat di Transoksania.
+
+Di antara perkataan Abū al-Fatḥ dalam syair-syairnya:
+
+> Bagi segala perkara ada waktu-waktu yang telah ditentukan, dan bagi setiap perkara ada batas dan timbangan.
+>
+> Maka janganlah tergesa-gesa dalam perkara yang engkau cari; tidaklah baik krisis penyakit sebelum ia matang.
+>
+> Wahai alim yang diridai perjalanan hidupnya, bergembiralah, sebab engkau telah puas minum tanpa air.
+>
+> Wahai pelayan jasad, berapa lama lagi engkau berusaha melayaninya? Apakah engkau mencari laba dalam sesuatu yang di dalamnya ada kerugian?
+>
+> Hadapkanlah dirimu kepada jiwa dan sempurnakanlah keutamaan-keutamaannya, sebab engkau menjadi manusia dengan jiwa, bukan dengan jasad.
+
+# Tambahan dari Para Penyalin {.judul-kitab}
+
+Mulai dari sini adalah tambahan-tambahan yang bukan berasal dari perkataan penyusun kitab.
+
+## Afḍal al-Dīn Muḥammad al-Maraqī, yang Dikenal sebagai al-Kāshī {.judul-bab}
+
+Ia adalah seorang ahli hikmah. Pada akhir umurnya ia menyendiri di salah satu desa Kāshān, dan ia wafat di sana sekitar tahun enam ratus sepuluh.
+
+## Afḍal al-Dīn al-Bāmiyānī {.judul-bab}
+
+Ia adalah seorang ahli hikmah yang unggul, terutama dalam matematika. Ia wafat pada tahun enam ratus dua puluh sekian.
+
+## Tāj al-Dīn al-Urmawī {.judul-bab}
+
+Ia adalah seorang yang utama dan luas ilmunya, yang memadukan syariat dan filsafat. Aku mendengar dari raja para sayyid dan ulama, Sharaf al-Dīn, bahwa ketika ia mulai mempelajari hikmah, di antara hafalannya terdapat empat puluh ribu bait syair Arab. Ia memiliki syair yang kokoh dan indah. Di antaranya adalah apa yang dilantunkan kepadaku oleh al-Sayyid al-Muʿaẓẓam dengan meriwayatkan darinya, semoga Allah Taʿālā merahmatinya:
+
+> Pada setiap leher ada tanda-tanda kematian; umur orang-orang terdahulu telah panjang, namun mereka pun mati.
+>
+> Pagi-pagi kebinasaan dan maut senantiasa mengintai; gelanggangnya adalah dunia, dan kitalah bola-bolanya.
+
+Ia berwajah tampan, bersikap angkuh terhadap para pencinta dunia, dan banyak merendah kepada orang-orang fakir. Pada akhir umurnya ia berhaji, dan ia wafat di Baghdad pada tahun enam ratus lima puluh empat dalam usia seratus dua puluh satu tahun. Aku mendengar hal itu dari sebagian muridnya yang tepercaya. Ia makan sekali sehari sesudah zuhur.
